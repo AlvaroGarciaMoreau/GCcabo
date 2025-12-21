@@ -1,9 +1,9 @@
-{
-  "tema": "TEMA 2.- RÉGIMEN INTERIOR (100 PREGUNTAS)",
-  "descripcion": "Preguntas basadas en RD 179/2005, RD 1438/2010, RD 470/2019, OG Pabellones, RD Cruz Constancia, Orden del Mérito, Normas de Uniformidad, OG Mando y Régimen Interior y OG Jornada y Horario.",
+[{
+  "tema": "TEMA 2.- RÃ‰GIMEN INTERIOR (100 PREGUNTAS)",
+  "descripcion": "Preguntas basadas en RD 179/2005, RD 1438/2010, RD 470/2019, OG Pabellones, RD Cruz Constancia, Orden del MÃ©rito, Normas de Uniformidad, OG Mando y RÃ©gimen Interior y OG Jornada y Horario.",
   "preguntas": [
     {
-      "pregunta": "¿A quién corresponde el derecho a la protección frente a los riesgos laborales en la Guardia Civil?",
+      "pregunta": "Â¿A quiÃ©n corresponde el derecho a la protecciÃ³n frente a los riesgos laborales en la Guardia Civil?",
       "opciones": [
         "a) Solo a los oficiales.",
         "b) A todo el personal de la Guardia Civil.",
@@ -13,107 +13,107 @@
       "respuesta_correcta": "b) A todo el personal de la Guardia Civil."
     },
     {
-      "pregunta": "¿Quién tiene el deber de garantizar la seguridad y salud del personal de la Guardia Civil en los aspectos relacionados con el trabajo?",
+      "pregunta": "Â¿QuiÃ©n tiene el deber de garantizar la seguridad y salud del personal de la Guardia Civil en los aspectos relacionados con el trabajo?",
       "opciones": [
         "a) El propio Guardia Civil.",
-        "b) La Administración General del Estado.",
+        "b) La AdministraciÃ³n General del Estado.",
         "c) El Ministerio de Trabajo.",
         "d) Los sindicatos."
       ],
-      "respuesta_correcta": "b) La Administración General del Estado."
+      "respuesta_correcta": "b) La AdministraciÃ³n General del Estado."
     },
     {
-      "pregunta": "¿Qué tipo de evaluaciones de riesgos deben realizarse?",
+      "pregunta": "Â¿QuÃ© tipo de evaluaciones de riesgos deben realizarse?",
       "opciones": [
         "a) Solo al inicio de la actividad.",
-        "b) Inicial y periódicas, así como cuando cambien las condiciones de trabajo.",
+        "b) Inicial y periÃ³dicas, asÃ­ como cuando cambien las condiciones de trabajo.",
         "c) Solo cuando haya un accidente grave.",
         "d) Anuales obligatoriamente."
       ],
-      "respuesta_correcta": "b) Inicial y periódicas, así como cuando cambien las condiciones de trabajo."
+      "respuesta_correcta": "b) Inicial y periÃ³dicas, asÃ­ como cuando cambien las condiciones de trabajo."
     },
     {
-      "pregunta": "¿Qué consideración tiene el coste de las medidas relativas a la seguridad y la salud en el trabajo?",
+      "pregunta": "Â¿QuÃ© consideraciÃ³n tiene el coste de las medidas relativas a la seguridad y la salud en el trabajo?",
       "opciones": [
-        "a) Deberá ser asumido por el personal.",
-        "b) No deberá recaer en modo alguno sobre el personal.",
-        "c) Será compartido al 50%.",
-        "d) Se descontará de la nómina."
+        "a) DeberÃ¡ ser asumido por el personal.",
+        "b) No deberÃ¡ recaer en modo alguno sobre el personal.",
+        "c) SerÃ¡ compartido al 50%.",
+        "d) Se descontarÃ¡ de la nÃ³mina."
       ],
-      "respuesta_correcta": "b) No deberá recaer en modo alguno sobre el personal."
+      "respuesta_correcta": "b) No deberÃ¡ recaer en modo alguno sobre el personal."
     },
     {
-      "pregunta": "¿Cuándo tiene la Guardia Civil el carácter de fuerza armada según el RD 1438/2010?",
+      "pregunta": "Â¿CuÃ¡ndo tiene la Guardia Civil el carÃ¡cter de fuerza armada segÃºn el RD 1438/2010?",
       "opciones": [
         "a) Siempre.",
         "b) Solo en desfiles.",
         "c) En los supuestos de estado de sitio y en tiempo de guerra.",
-        "d) Cuando realicen controles de tráfico."
+        "d) Cuando realicen controles de trÃ¡fico."
       ],
       "respuesta_correcta": "c) En los supuestos de estado de sitio y en tiempo de guerra."
     },
     {
-      "pregunta": "En las misiones de carácter militar en el extranjero, ¿de quién depende el contingente de la Guardia Civil?",
+      "pregunta": "En las misiones de carÃ¡cter militar en el extranjero, Â¿de quiÃ©n depende el contingente de la Guardia Civil?",
       "opciones": [
         "a) Del Ministro del Interior.",
-        "b) Del Jefe del Estado Mayor de la Defensa (JEMAD) a través del Comandante del Mando de Operaciones.",
+        "b) Del Jefe del Estado Mayor de la Defensa (JEMAD) a travÃ©s del Comandante del Mando de Operaciones.",
         "c) Del Director General de la Guardia Civil exclusivamente.",
         "d) De la ONU."
       ],
-      "respuesta_correcta": "b) Del Jefe del Estado Mayor de la Defensa (JEMAD) a través del Comandante del Mando de Operaciones."
+      "respuesta_correcta": "b) Del Jefe del Estado Mayor de la Defensa (JEMAD) a travÃ©s del Comandante del Mando de Operaciones."
     },
     {
-      "pregunta": "¿Qué sanción se aplica a los miembros de la Guardia Civil en misiones de carácter militar?",
+      "pregunta": "Â¿QuÃ© sanciÃ³n se aplica a los miembros de la Guardia Civil en misiones de carÃ¡cter militar?",
       "opciones": [
-        "a) El régimen disciplinario de los funcionarios civiles.",
-        "b) El Código Penal ordinario.",
-        "c) El Código Penal Militar y el Régimen Disciplinario de las Fuerzas Armadas.",
-        "d) Solo sanciones económicas."
+        "a) El rÃ©gimen disciplinario de los funcionarios civiles.",
+        "b) El CÃ³digo Penal ordinario.",
+        "c) El CÃ³digo Penal Militar y el RÃ©gimen Disciplinario de las Fuerzas Armadas.",
+        "d) Solo sanciones econÃ³micas."
       ],
-      "respuesta_correcta": "c) El Código Penal Militar y el Régimen Disciplinario de las Fuerzas Armadas."
+      "respuesta_correcta": "c) El CÃ³digo Penal Militar y el RÃ©gimen Disciplinario de las Fuerzas Armadas."
     },
     {
-      "pregunta": "¿Cómo se clasifican los destinos en la Guardia Civil según su forma de asignación?",
+      "pregunta": "Â¿CÃ³mo se clasifican los destinos en la Guardia Civil segÃºn su forma de asignaciÃ³n?",
       "opciones": [
         "a) Voluntarios y forzosos.",
-        "b) Libre designación, concurso de méritos y antigüedad.",
-        "c) Operativos y burocráticos.",
+        "b) Libre designaciÃ³n, concurso de mÃ©ritos y antigÃ¼edad.",
+        "c) Operativos y burocrÃ¡ticos.",
         "d) Fijos y temporales."
       ],
-      "respuesta_correcta": "b) Libre designación, concurso de méritos y antigüedad."
+      "respuesta_correcta": "b) Libre designaciÃ³n, concurso de mÃ©ritos y antigÃ¼edad."
     },
     {
-      "pregunta": "¿Dónde se publican las vacantes de destinos?",
+      "pregunta": "Â¿DÃ³nde se publican las vacantes de destinos?",
       "opciones": [
         "a) En el BOE.",
-        "b) En el Boletín Oficial de la Guardia Civil (BOGC).",
+        "b) En el BoletÃ­n Oficial de la Guardia Civil (BOGC).",
         "c) En la Intranet corporativa solamente.",
-        "d) En el tablón de anuncios de la Unidad."
+        "d) En el tablÃ³n de anuncios de la Unidad."
       ],
-      "respuesta_correcta": "b) En el Boletín Oficial de la Guardia Civil (BOGC)."
+      "respuesta_correcta": "b) En el BoletÃ­n Oficial de la Guardia Civil (BOGC)."
     },
     {
-      "pregunta": "¿Cuál es el plazo general de mínima permanencia en un destino para poder solicitar otro con carácter voluntario?",
+      "pregunta": "Â¿CuÃ¡l es el plazo general de mÃ­nima permanencia en un destino para poder solicitar otro con carÃ¡cter voluntario?",
       "opciones": [
         "a) 6 meses.",
-        "b) 1 año (aunque puede variar según la convocatoria).",
-        "c) 2 años.",
-        "d) 3 años."
+        "b) 1 aÃ±o (aunque puede variar segÃºn la convocatoria).",
+        "c) 2 aÃ±os.",
+        "d) 3 aÃ±os."
       ],
-      "respuesta_correcta": "b) 1 año (aunque puede variar según la convocatoria)."
+      "respuesta_correcta": "b) 1 aÃ±o (aunque puede variar segÃºn la convocatoria)."
     },
     {
-      "pregunta": "¿Qué destinos se asignan por antigüedad?",
+      "pregunta": "Â¿QuÃ© destinos se asignan por antigÃ¼edad?",
       "opciones": [
         "a) Aquellos que requieran condiciones profesionales especiales.",
         "b) Los de Jefes de Comandancia.",
-        "c) Aquellos para los que no se exijan requisitos específicos salvo el empleo y, en su caso, escala.",
+        "c) Aquellos para los que no se exijan requisitos especÃ­ficos salvo el empleo y, en su caso, escala.",
         "d) Los de la Casa Real."
       ],
-      "respuesta_correcta": "c) Aquellos para los que no se exijan requisitos específicos salvo el empleo y, en su caso, escala."
+      "respuesta_correcta": "c) Aquellos para los que no se exijan requisitos especÃ­ficos salvo el empleo y, en su caso, escala."
     },
     {
-      "pregunta": "¿En qué situación administrativa debe encontrarse el solicitante para pedir vacantes anunciadas?",
+      "pregunta": "Â¿En quÃ© situaciÃ³n administrativa debe encontrarse el solicitante para pedir vacantes anunciadas?",
       "opciones": [
         "a) Servicio activo o en condiciones de reingresar en ella.",
         "b) Excedencia voluntaria siempre.",
@@ -123,89 +123,89 @@
       "respuesta_correcta": "a) Servicio activo o en condiciones de reingresar en ella."
     },
     {
-      "pregunta": "Según la OG 5/2005, ¿qué carácter tienen los pabellones oficiales de la Guardia Civil?",
+      "pregunta": "SegÃºn la OG 5/2005, Â¿quÃ© carÃ¡cter tienen los pabellones oficiales de la Guardia Civil?",
       "opciones": [
-        "a) Son viviendas de protección oficial.",
-        "b) Son bienes de dominio público (demaniales).",
+        "a) Son viviendas de protecciÃ³n oficial.",
+        "b) Son bienes de dominio pÃºblico (demaniales).",
         "c) Son propiedad privada del Director General.",
         "d) Son bienes patrimoniales alquilables."
       ],
-      "respuesta_correcta": "b) Son bienes de dominio público (demaniales)."
+      "respuesta_correcta": "b) Son bienes de dominio pÃºblico (demaniales)."
     },
     {
-      "pregunta": "¿Cuál es el plazo para ocupar un pabellón adjudicado?",
+      "pregunta": "Â¿CuÃ¡l es el plazo para ocupar un pabellÃ³n adjudicado?",
       "opciones": [
-        "a) 10 días.",
-        "b) Un mes contado a partir del día siguiente a la notificación de la adjudicación.",
+        "a) 10 dÃ­as.",
+        "b) Un mes contado a partir del dÃ­a siguiente a la notificaciÃ³n de la adjudicaciÃ³n.",
         "c) Tres meses.",
         "d) Inmediatamente."
       ],
-      "respuesta_correcta": "b) Un mes contado a partir del día siguiente a la notificación de la adjudicación."
+      "respuesta_correcta": "b) Un mes contado a partir del dÃ­a siguiente a la notificaciÃ³n de la adjudicaciÃ³n."
     },
     {
-      "pregunta": "¿Qué tipos de pabellones establece la norma?",
+      "pregunta": "Â¿QuÃ© tipos de pabellones establece la norma?",
       "opciones": [
-        "a) De cargo, de unidad y de acreditación.",
-        "b) Grandes, medianos y pequeños.",
+        "a) De cargo, de unidad y de acreditaciÃ³n.",
+        "b) Grandes, medianos y pequeÃ±os.",
         "c) De oficiales y de tropa.",
         "d) Gratuitos y de pago."
       ],
-      "respuesta_correcta": "a) De cargo, de unidad y de acreditación."
+      "respuesta_correcta": "a) De cargo, de unidad y de acreditaciÃ³n."
     },
     {
-      "pregunta": "¿Se permite la realización de obras en los pabellones por parte del usuario?",
+      "pregunta": "Â¿Se permite la realizaciÃ³n de obras en los pabellones por parte del usuario?",
       "opciones": [
-        "a) Sí, libremente.",
-        "b) No, salvo autorización expresa y previa.",
+        "a) SÃ­, libremente.",
+        "b) No, salvo autorizaciÃ³n expresa y previa.",
         "c) Solo pintura.",
-        "d) Sí, si las paga el usuario."
+        "d) SÃ­, si las paga el usuario."
       ],
-      "respuesta_correcta": "b) No, salvo autorización expresa y previa."
+      "respuesta_correcta": "b) No, salvo autorizaciÃ³n expresa y previa."
     },
     {
-      "pregunta": "¿Es obligatorio residir habitualmente en el pabellón adjudicado?",
+      "pregunta": "Â¿Es obligatorio residir habitualmente en el pabellÃ³n adjudicado?",
       "opciones": [
         "a) No, se puede usar como segunda residencia.",
-        "b) Sí, constituye la residencia habitual del adjudicatario.",
+        "b) SÃ­, constituye la residencia habitual del adjudicatario.",
         "c) Solo los fines de semana.",
-        "d) Depende del tamaño."
+        "d) Depende del tamaÃ±o."
       ],
-      "respuesta_correcta": "b) Sí, constituye la residencia habitual del adjudicatario."
+      "respuesta_correcta": "b) SÃ­, constituye la residencia habitual del adjudicatario."
     },
     {
-      "pregunta": "¿Qué recompensa premia la constancia en el servicio e intachable conducta?",
+      "pregunta": "Â¿QuÃ© recompensa premia la constancia en el servicio e intachable conducta?",
       "opciones": [
-        "a) La Orden del Mérito de la Guardia Civil.",
+        "a) La Orden del MÃ©rito de la Guardia Civil.",
         "b) La Cruz a la Constancia en el Servicio.",
         "c) La medalla de sufrimientos por la patria.",
-        "d) La felicitación pública."
+        "d) La felicitaciÃ³n pÃºblica."
       ],
       "respuesta_correcta": "b) La Cruz a la Constancia en el Servicio."
     },
     {
-      "pregunta": "¿Cuántos años de servicio se requieren para la Cruz de Plata a la Constancia?",
+      "pregunta": "Â¿CuÃ¡ntos aÃ±os de servicio se requieren para la Cruz de Plata a la Constancia?",
       "opciones": [
-        "a) 15 años.",
-        "b) 20 años.",
-        "c) 25 años.",
-        "d) 30 años."
+        "a) 15 aÃ±os.",
+        "b) 20 aÃ±os.",
+        "c) 25 aÃ±os.",
+        "d) 30 aÃ±os."
       ],
-      "respuesta_correcta": "c) 25 años."
+      "respuesta_correcta": "c) 25 aÃ±os."
     },
     {
-      "pregunta": "¿Y para la Cruz de Bronce a la Constancia?",
+      "pregunta": "Â¿Y para la Cruz de Bronce a la Constancia?",
       "opciones": [
-        "a) 10 años.",
-        "b) 15 años.",
-        "c) 20 años.",
-        "d) 25 años."
+        "a) 10 aÃ±os.",
+        "b) 15 aÃ±os.",
+        "c) 20 aÃ±os.",
+        "d) 25 aÃ±os."
       ],
-      "respuesta_correcta": "b) 15 años."
+      "respuesta_correcta": "b) 15 aÃ±os."
     },
     {
-      "pregunta": "¿Qué requisito es indispensable para obtener la Cruz a la Constancia además de los años?",
+      "pregunta": "Â¿QuÃ© requisito es indispensable para obtener la Cruz a la Constancia ademÃ¡s de los aÃ±os?",
       "opciones": [
-        "a) Haber estado destinado en el País Vasco.",
+        "a) Haber estado destinado en el PaÃ­s Vasco.",
         "b) No tener notas desfavorables sin cancelar en la hoja de servicios.",
         "c) Ser Oficial.",
         "d) Haber detenido a 10 personas."
@@ -213,7 +213,7 @@
       "respuesta_correcta": "b) No tener notas desfavorables sin cancelar en la hoja de servicios."
     },
     {
-      "pregunta": "¿Qué consideración tienen los Cabos y Guardias según el RD 1970/1983?",
+      "pregunta": "Â¿QuÃ© consideraciÃ³n tienen los Cabos y Guardias segÃºn el RD 1970/1983?",
       "opciones": [
         "a) Funcionarios civiles.",
         "b) Clases de Tropa.",
@@ -223,7 +223,7 @@
       "respuesta_correcta": "b) Clases de Tropa."
     },
     {
-      "pregunta": "¿Qué consideración se otorga a los Cabos de la Guardia Civil respecto a la tropa según el RD 1970/1983?",
+      "pregunta": "Â¿QuÃ© consideraciÃ³n se otorga a los Cabos de la Guardia Civil respecto a la tropa segÃºn el RD 1970/1983?",
       "opciones": [
         "a) La de Oficial.",
         "b) La de Suboficial.",
@@ -233,7 +233,7 @@
       "respuesta_correcta": "b) La de Suboficial."
     },
     {
-      "pregunta": "¿Qué categorías tiene la Orden del Mérito de la Guardia Civil?",
+      "pregunta": "Â¿QuÃ© categorÃ­as tiene la Orden del MÃ©rito de la Guardia Civil?",
       "opciones": [
         "a) Gran Cruz y Cruz.",
         "b) Oro, Plata y Bronce.",
@@ -243,27 +243,27 @@
       "respuesta_correcta": "a) Gran Cruz y Cruz."
     },
     {
-      "pregunta": "¿A quién se concede la Gran Cruz de la Orden del Mérito de la Guardia Civil?",
+      "pregunta": "Â¿A quiÃ©n se concede la Gran Cruz de la Orden del MÃ©rito de la Guardia Civil?",
       "opciones": [
         "a) A los Cabos.",
         "b) A Oficiales Generales, personal civil de rango similar, etc.",
-        "c) A cualquier guardia por antigüedad.",
+        "c) A cualquier guardia por antigÃ¼edad.",
         "d) Por herida en acto de servicio."
       ],
       "respuesta_correcta": "b) A Oficiales Generales, personal civil de rango similar, etc."
     },
     {
-      "pregunta": "¿Cuándo se otorga la Cruz con distintivo Rojo?",
+      "pregunta": "Â¿CuÃ¡ndo se otorga la Cruz con distintivo Rojo?",
       "opciones": [
-        "a) Por servicios burocráticos destacados.",
+        "a) Por servicios burocrÃ¡ticos destacados.",
         "b) Por hechos que impliquen riesgo para la vida o enfrentamiento con delincuentes.",
         "c) Por publicar un libro.",
-        "d) Por 20 años de servicio."
+        "d) Por 20 aÃ±os de servicio."
       ],
       "respuesta_correcta": "b) Por hechos que impliquen riesgo para la vida o enfrentamiento con delincuentes."
     },
     {
-      "pregunta": "¿Cuándo se otorga la Cruz con distintivo Blanco?",
+      "pregunta": "Â¿CuÃ¡ndo se otorga la Cruz con distintivo Blanco?",
       "opciones": [
         "a) Por muerte en acto de servicio.",
         "b) Por hechos que evidencien un sobresaliente cumplimiento del deber o trabajos destacados.",
@@ -273,37 +273,37 @@
       "respuesta_correcta": "b) Por hechos que evidencien un sobresaliente cumplimiento del deber o trabajos destacados."
     },
     {
-      "pregunta": "¿Qué constituye el uniforme de la Guardia Civil según la Orden PCM/208/2023?",
+      "pregunta": "Â¿QuÃ© constituye el uniforme de la Guardia Civil segÃºn la Orden PCM/208/2023?",
       "opciones": [
         "a) Solo la ropa.",
         "b) El conjunto de prendas, emblemas, divisas, distintivos y recompensas.",
         "c) La pistola y la placa.",
-        "d) El tricornio únicamente."
+        "d) El tricornio Ãºnicamente."
       ],
       "respuesta_correcta": "b) El conjunto de prendas, emblemas, divisas, distintivos y recompensas."
     },
     {
-      "pregunta": "¿Es obligatorio el uso del uniforme?",
+      "pregunta": "Â¿Es obligatorio el uso del uniforme?",
       "opciones": [
         "a) No, es opcional.",
-        "b) Sí, durante la prestación del servicio, salvo excepciones autorizadas.",
+        "b) SÃ­, durante la prestaciÃ³n del servicio, salvo excepciones autorizadas.",
         "c) Solo en actos oficiales.",
-        "d) Solo por la mañana."
+        "d) Solo por la maÃ±ana."
       ],
-      "respuesta_correcta": "b) Sí, durante la prestación del servicio, salvo excepciones autorizadas."
+      "respuesta_correcta": "b) SÃ­, durante la prestaciÃ³n del servicio, salvo excepciones autorizadas."
     },
     {
-      "pregunta": "¿Se puede usar el uniforme para asistir a actos políticos o sindicales?",
+      "pregunta": "Â¿Se puede usar el uniforme para asistir a actos polÃ­ticos o sindicales?",
       "opciones": [
-        "a) Sí, siempre.",
-        "b) No, está prohibido.",
-        "c) Sí, si es fuera de servicio.",
-        "d) Sí, con permiso del organizador."
+        "a) SÃ­, siempre.",
+        "b) No, estÃ¡ prohibido.",
+        "c) SÃ­, si es fuera de servicio.",
+        "d) SÃ­, con permiso del organizador."
       ],
-      "respuesta_correcta": "b) No, está prohibido."
+      "respuesta_correcta": "b) No, estÃ¡ prohibido."
     },
     {
-      "pregunta": "¿Qué tipos de uniformes generales existen?",
+      "pregunta": "Â¿QuÃ© tipos de uniformes generales existen?",
       "opciones": [
         "a) Gran etiqueta, etiqueta, gala, actos de especial relevancia, diario y trabajo.",
         "b) Verano e invierno.",
@@ -313,7 +313,7 @@
       "respuesta_correcta": "a) Gran etiqueta, etiqueta, gala, actos de especial relevancia, diario y trabajo."
     },
     {
-      "pregunta": "¿Qué prenda de cabeza es característica y exclusiva de la Guardia Civil?",
+      "pregunta": "Â¿QuÃ© prenda de cabeza es caracterÃ­stica y exclusiva de la Guardia Civil?",
       "opciones": [
         "a) La gorra teresiana.",
         "b) El sombrero negro (Tricornio).",
@@ -323,27 +323,27 @@
       "respuesta_correcta": "b) El sombrero negro (Tricornio)."
     },
     {
-      "pregunta": "¿Pueden los retirados usar el uniforme?",
+      "pregunta": "Â¿Pueden los retirados usar el uniforme?",
       "opciones": [
         "a) Nunca.",
-        "b) Sí, en actos institucionales y sociales solemnes, con autorización o comunicación previa.",
-        "c) Sí, a diario.",
+        "b) SÃ­, en actos institucionales y sociales solemnes, con autorizaciÃ³n o comunicaciÃ³n previa.",
+        "c) SÃ­, a diario.",
         "d) Solo si vuelven al servicio."
       ],
-      "respuesta_correcta": "b) Sí, en actos institucionales y sociales solemnes, con autorización o comunicación previa."
+      "respuesta_correcta": "b) SÃ­, en actos institucionales y sociales solemnes, con autorizaciÃ³n o comunicaciÃ³n previa."
     },
     {
-      "pregunta": "Según la OG 9/2012, ¿cómo se define el mando?",
+      "pregunta": "SegÃºn la OG 9/2012, Â¿cÃ³mo se define el mando?",
       "opciones": [
-        "a) La capacidad de gritar más fuerte.",
-        "b) La autoridad ejercida por los miembros de la Guardia Civil por razón de su cargo o empleo.",
-        "c) Solo la acción de los Generales.",
-        "d) La gestión administrativa."
+        "a) La capacidad de gritar mÃ¡s fuerte.",
+        "b) La autoridad ejercida por los miembros de la Guardia Civil por razÃ³n de su cargo o empleo.",
+        "c) Solo la acciÃ³n de los Generales.",
+        "d) La gestiÃ³n administrativa."
       ],
-      "respuesta_correcta": "b) La autoridad ejercida por los miembros de la Guardia Civil por razón de su cargo o empleo."
+      "respuesta_correcta": "b) La autoridad ejercida por los miembros de la Guardia Civil por razÃ³n de su cargo o empleo."
     },
     {
-      "pregunta": "¿Cómo deben ser las órdenes según la OG 9/2012?",
+      "pregunta": "Â¿CÃ³mo deben ser las Ã³rdenes segÃºn la OG 9/2012?",
       "opciones": [
         "a) Ambiguas para dar margen de maniobra.",
         "b) Claras, concisas, precisas y comprensibles.",
@@ -353,27 +353,27 @@
       "respuesta_correcta": "b) Claras, concisas, precisas y comprensibles."
     },
     {
-      "pregunta": "¿Qué es el conducto reglamentario?",
+      "pregunta": "Â¿QuÃ© es el conducto reglamentario?",
       "opciones": [
-        "a) El sistema de ventilación del cuartel.",
-        "b) El medio ordinario de transmisión de órdenes, informes y solicitudes a través de la cadena de mando.",
-        "c) El correo electrónico.",
-        "d) El teléfono directo del Director."
+        "a) El sistema de ventilaciÃ³n del cuartel.",
+        "b) El medio ordinario de transmisiÃ³n de Ã³rdenes, informes y solicitudes a travÃ©s de la cadena de mando.",
+        "c) El correo electrÃ³nico.",
+        "d) El telÃ©fono directo del Director."
       ],
-      "respuesta_correcta": "b) El medio ordinario de transmisión de órdenes, informes y solicitudes a través de la cadena de mando."
+      "respuesta_correcta": "b) El medio ordinario de transmisiÃ³n de Ã³rdenes, informes y solicitudes a travÃ©s de la cadena de mando."
     },
     {
-      "pregunta": "¿A quién corresponde la responsabilidad de la sucesión de mando con carácter interino o accidental?",
+      "pregunta": "Â¿A quiÃ©n corresponde la responsabilidad de la sucesiÃ³n de mando con carÃ¡cter interino o accidental?",
       "opciones": [
-        "a) Al de mayor empleo, y a igualdad de este, al de mayor antigüedad.",
+        "a) Al de mayor empleo, y a igualdad de este, al de mayor antigÃ¼edad.",
         "b) Al que elija la tropa.",
-        "c) Al más joven.",
-        "d) Al que esté de guardia."
+        "c) Al mÃ¡s joven.",
+        "d) Al que estÃ© de guardia."
       ],
-      "respuesta_correcta": "a) Al de mayor empleo, y a igualdad de este, al de mayor antigüedad."
+      "respuesta_correcta": "a) Al de mayor empleo, y a igualdad de este, al de mayor antigÃ¼edad."
     },
     {
-      "pregunta": "¿Cómo debe realizarse el saludo militar entre uniformados?",
+      "pregunta": "Â¿CÃ³mo debe realizarse el saludo militar entre uniformados?",
       "opciones": [
         "a) Dando la mano.",
         "b) Llevando la mano derecha a la visera de la prenda de cabeza, mirando a los ojos.",
@@ -383,27 +383,27 @@
       "respuesta_correcta": "b) Llevando la mano derecha a la visera de la prenda de cabeza, mirando a los ojos."
     },
     {
-      "pregunta": "¿Es obligatorio devolver el saludo?",
+      "pregunta": "Â¿Es obligatorio devolver el saludo?",
       "opciones": [
         "a) No, si eres superior.",
-        "b) Sí, todo militar saludado tiene la obligación de contestar.",
-        "c) Depende del día.",
+        "b) SÃ­, todo militar saludado tiene la obligaciÃ³n de contestar.",
+        "c) Depende del dÃ­a.",
         "d) Solo si te caen bien."
       ],
-      "respuesta_correcta": "b) Sí, todo militar saludado tiene la obligación de contestar."
+      "respuesta_correcta": "b) SÃ­, todo militar saludado tiene la obligaciÃ³n de contestar."
     },
     {
-      "pregunta": "¿Qué función principal tiene el servicio de Guardia de Puertas?",
+      "pregunta": "Â¿QuÃ© funciÃ³n principal tiene el servicio de Guardia de Puertas?",
       "opciones": [
         "a) Limpiar la entrada.",
         "b) La seguridad inmediata del acuartelamiento o edificio.",
-        "c) Atender el teléfono.",
+        "c) Atender el telÃ©fono.",
         "d) Repartir el correo."
       ],
       "respuesta_correcta": "b) La seguridad inmediata del acuartelamiento o edificio."
     },
     {
-      "pregunta": "¿Quién nombra el servicio de puertas?",
+      "pregunta": "Â¿QuiÃ©n nombra el servicio de puertas?",
       "opciones": [
         "a) El Jefe de la Unidad o Acuartelamiento.",
         "b) El propio guardia.",
@@ -413,7 +413,7 @@
       "respuesta_correcta": "a) El Jefe de la Unidad o Acuartelamiento."
     },
     {
-      "pregunta": "¿Qué es el Libro de Servicio?",
+      "pregunta": "Â¿QuÃ© es el Libro de Servicio?",
       "opciones": [
         "a) Una novela.",
         "b) El documento donde se reflejan las vicisitudes del servicio de la Unidad.",
@@ -423,9 +423,9 @@
       "respuesta_correcta": "b) El documento donde se reflejan las vicisitudes del servicio de la Unidad."
     },
     {
-      "pregunta": "¿Qué tratamiento debe emplear el superior con el subordinado?",
+      "pregunta": "Â¿QuÃ© tratamiento debe emplear el superior con el subordinado?",
       "opciones": [
-        "a) De tú.",
+        "a) De tÃº.",
         "b) De usted.",
         "c) Por su apodo.",
         "d) Como quiera."
@@ -433,67 +433,67 @@
       "respuesta_correcta": "b) De usted."
     },
     {
-      "pregunta": "¿Qué debe hacer el subordinado antes de entrar en un despacho oficial?",
+      "pregunta": "Â¿QuÃ© debe hacer el subordinado antes de entrar en un despacho oficial?",
       "opciones": [
         "a) Entrar directamente.",
         "b) Solicitar permiso.",
-        "c) Llamar por teléfono antes.",
+        "c) Llamar por telÃ©fono antes.",
         "d) Esperar a ser llamado siempre."
       ],
       "respuesta_correcta": "b) Solicitar permiso."
     },
     {
-      "pregunta": "¿Cuál es la norma general sobre la presentación personal e higiene?",
+      "pregunta": "Â¿CuÃ¡l es la norma general sobre la presentaciÃ³n personal e higiene?",
       "opciones": [
         "a) No importa.",
-        "b) Se debe cuidar el aseo personal y la policía (aspecto) de las prendas.",
+        "b) Se debe cuidar el aseo personal y la policÃ­a (aspecto) de las prendas.",
         "c) Solo importa el uniforme.",
         "d) Es libre."
       ],
-      "respuesta_correcta": "b) Se debe cuidar el aseo personal y la policía (aspecto) de las prendas."
+      "respuesta_correcta": "b) Se debe cuidar el aseo personal y la policÃ­a (aspecto) de las prendas."
     },
     {
-      "pregunta": "¿Se permiten tatuajes visibles con el uniforme (según normativa general de imagen asociada a OG 9/2012 y uniformidad)?",
+      "pregunta": "Â¿Se permiten tatuajes visibles con el uniforme (segÃºn normativa general de imagen asociada a OG 9/2012 y uniformidad)?",
       "opciones": [
-        "a) Sí, cualquiera.",
-        "b) No, están prohibidos si son visibles vistiendo las diferentes modalidades de uniforme (salvo normativa específica más reciente que lo regule).",
-        "c) Sí, en el cuello.",
-        "d) Sí, en las manos."
+        "a) SÃ­, cualquiera.",
+        "b) No, estÃ¡n prohibidos si son visibles vistiendo las diferentes modalidades de uniforme (salvo normativa especÃ­fica mÃ¡s reciente que lo regule).",
+        "c) SÃ­, en el cuello.",
+        "d) SÃ­, en las manos."
       ],
-      "respuesta_correcta": "b) No, están prohibidos si son visibles vistiendo las diferentes modalidades de uniforme (salvo normativa específica más reciente que lo regule)."
+      "respuesta_correcta": "b) No, estÃ¡n prohibidos si son visibles vistiendo las diferentes modalidades de uniforme (salvo normativa especÃ­fica mÃ¡s reciente que lo regule)."
     },
     {
-      "pregunta": "¿Qué es el 'CJU'?",
+      "pregunta": "Â¿QuÃ© es el 'CJU'?",
       "opciones": [
         "a) Centro de Justicia Unificado.",
         "b) Coordinador de Jornada Unificada.",
-        "c) Un servicio de régimen interior (Centro de Operaciones/Comunicaciones, dependiendo del nivel).",
+        "c) Un servicio de rÃ©gimen interior (Centro de Operaciones/Comunicaciones, dependiendo del nivel).",
         "d) El calabozo."
       ],
-      "respuesta_correcta": "c) Un servicio de régimen interior (Centro de Operaciones/Comunicaciones, dependiendo del nivel)."
+      "respuesta_correcta": "c) Un servicio de rÃ©gimen interior (Centro de Operaciones/Comunicaciones, dependiendo del nivel)."
     },
     {
-      "pregunta": "¿En qué consiste el deber de residencia?",
+      "pregunta": "Â¿En quÃ© consiste el deber de residencia?",
       "opciones": [
         "a) Vivir en el cuartel obligatoriamente.",
-        "b) Residir en el municipio de destino o en otro autorizado, garantizando la localización y movilidad.",
+        "b) Residir en el municipio de destino o en otro autorizado, garantizando la localizaciÃ³n y movilidad.",
         "c) Vivir donde se quiera sin avisar.",
         "d) Comprar una casa."
       ],
-      "respuesta_correcta": "b) Residir en el municipio de destino o en otro autorizado, garantizando la localización y movilidad."
+      "respuesta_correcta": "b) Residir en el municipio de destino o en otro autorizado, garantizando la localizaciÃ³n y movilidad."
     },
     {
-      "pregunta": "Según la OG 11/2014, ¿cuál es el periodo de referencia habitual para el cómputo de horas?",
+      "pregunta": "SegÃºn la OG 11/2014, Â¿cuÃ¡l es el periodo de referencia habitual para el cÃ³mputo de horas?",
       "opciones": [
         "a) La semana.",
         "b) El mes natural.",
-        "c) El año.",
+        "c) El aÃ±o.",
         "d) El trimestre."
       ],
       "respuesta_correcta": "b) El mes natural."
     },
     {
-      "pregunta": "¿Cuántas horas de descanso semanal ininterrumpido se garantizan con carácter general?",
+      "pregunta": "Â¿CuÃ¡ntas horas de descanso semanal ininterrumpido se garantizan con carÃ¡cter general?",
       "opciones": [
         "a) 24 horas.",
         "b) 36 horas.",
@@ -503,7 +503,7 @@
       "respuesta_correcta": "c) 48 horas."
     },
     {
-      "pregunta": "¿Qué horario se considera servicio nocturno?",
+      "pregunta": "Â¿QuÃ© horario se considera servicio nocturno?",
       "opciones": [
         "a) De 20:00 a 08:00.",
         "b) De 22:00 a 06:00.",
@@ -513,119 +513,119 @@
       "respuesta_correcta": "b) De 22:00 a 06:00."
     },
     {
-      "pregunta": "¿Qué es un servicio festivo?",
+      "pregunta": "Â¿QuÃ© es un servicio festivo?",
       "opciones": [
-        "a) El realizado en domingo o festivo nacional/autonómico/local.",
+        "a) El realizado en domingo o festivo nacional/autonÃ³mico/local.",
         "b) Solo el de Navidad.",
-        "c) El realizado el día del cumpleaños.",
-        "d) El sábado por la mañana."
+        "c) El realizado el dÃ­a del cumpleaÃ±os.",
+        "d) El sÃ¡bado por la maÃ±ana."
       ],
-      "respuesta_correcta": "a) El realizado en domingo o festivo nacional/autonómico/local."
+      "respuesta_correcta": "a) El realizado en domingo o festivo nacional/autonÃ³mico/local."
     },
     {
-      "pregunta": "¿Cuál es la duración máxima de un servicio ordinario continuado (salvo excepciones)?",
+      "pregunta": "Â¿CuÃ¡l es la duraciÃ³n mÃ¡xima de un servicio ordinario continuado (salvo excepciones)?",
       "opciones": [
         "a) 6 horas.",
-        "b) 8 horas (con posibilidad de extensión puntual).",
+        "b) 8 horas (con posibilidad de extensiÃ³n puntual).",
         "c) 24 horas.",
         "d) 4 horas."
       ],
-      "respuesta_correcta": "b) 8 horas (con posibilidad de extensión puntual)."
+      "respuesta_correcta": "b) 8 horas (con posibilidad de extensiÃ³n puntual)."
     },
     {
-      "pregunta": "¿Qué es el Descanso de Especial Compensación (DAS)?",
+      "pregunta": "Â¿QuÃ© es el Descanso de Especial CompensaciÃ³n (DAS)?",
       "opciones": [
         "a) Un permiso por boda.",
-        "b) Días libres adicionales generados por realizar servicios en festivos o nocturnos.",
+        "b) DÃ­as libres adicionales generados por realizar servicios en festivos o nocturnos.",
         "c) Las vacaciones de verano.",
-        "d) La baja médica."
+        "d) La baja mÃ©dica."
       ],
-      "respuesta_correcta": "b) Días libres adicionales generados por realizar servicios en festivos o nocturnos."
+      "respuesta_correcta": "b) DÃ­as libres adicionales generados por realizar servicios en festivos o nocturnos."
     },
     {
-      "pregunta": "¿Qué régimen de servicio tienen los mandos de Unidad (Comandantes de Puesto, etc.)?",
+      "pregunta": "Â¿QuÃ© rÃ©gimen de servicio tienen los mandos de Unidad (Comandantes de Puesto, etc.)?",
       "opciones": [
-        "a) Régimen General.",
-        "b) Régimen de prestación del servicio de los mandos (con dedicación especial/disponibilidad).",
-        "c) Trabajan solo de mañanas.",
+        "a) RÃ©gimen General.",
+        "b) RÃ©gimen de prestaciÃ³n del servicio de los mandos (con dedicaciÃ³n especial/disponibilidad).",
+        "c) Trabajan solo de maÃ±anas.",
         "d) No tienen horario."
       ],
-      "respuesta_correcta": "b) Régimen de prestación del servicio de los mandos (con dedicación especial/disponibilidad)."
+      "respuesta_correcta": "b) RÃ©gimen de prestaciÃ³n del servicio de los mandos (con dedicaciÃ³n especial/disponibilidad)."
     },
     {
-      "pregunta": "¿Se puede renunciar al descanso semanal?",
+      "pregunta": "Â¿Se puede renunciar al descanso semanal?",
       "opciones": [
-        "a) Sí, por dinero.",
+        "a) SÃ­, por dinero.",
         "b) No, es un derecho irrenunciable (salvo necesidades imperiosas del servicio que obliguen a aplazarlo).",
-        "c) Sí, si se acumula para vacaciones.",
-        "d) Sí, voluntariamente."
+        "c) SÃ­, si se acumula para vacaciones.",
+        "d) SÃ­, voluntariamente."
       ],
       "respuesta_correcta": "b) No, es un derecho irrenunciable (salvo necesidades imperiosas del servicio que obliguen a aplazarlo)."
     },
     {
-      "pregunta": "¿Qué es el 'Servicio a Turnos'?",
+      "pregunta": "Â¿QuÃ© es el 'Servicio a Turnos'?",
       "opciones": [
-        "a) Una modalidad de prestación del servicio con cadencia regular de horarios y descansos.",
+        "a) Una modalidad de prestaciÃ³n del servicio con cadencia regular de horarios y descansos.",
         "b) Trabajar cuando te llaman.",
         "c) El servicio de limpieza.",
         "d) La guardia de 24 horas."
       ],
-      "respuesta_correcta": "a) Una modalidad de prestación del servicio con cadencia regular de horarios y descansos."
+      "respuesta_correcta": "a) Una modalidad de prestaciÃ³n del servicio con cadencia regular de horarios y descansos."
     },
     {
-      "pregunta": "¿Qué tiempo de descanso diario mínimo debe haber entre el fin de un servicio y el inicio del siguiente?",
+      "pregunta": "Â¿QuÃ© tiempo de descanso diario mÃ­nimo debe haber entre el fin de un servicio y el inicio del siguiente?",
       "opciones": [
         "a) 8 horas.",
-        "b) 11 horas (con carácter general).",
+        "b) 11 horas (con carÃ¡cter general).",
         "c) 12 horas.",
         "d) 24 horas."
       ],
-      "respuesta_correcta": "b) 11 horas (con carácter general)."
+      "respuesta_correcta": "b) 11 horas (con carÃ¡cter general)."
     },
     {
-      "pregunta": "En el concurso de méritos, ¿quién evalúa los méritos?",
+      "pregunta": "En el concurso de mÃ©ritos, Â¿quiÃ©n evalÃºa los mÃ©ritos?",
       "opciones": [
         "a) El Jefe de la Unidad.",
-        "b) Una Comisión de Evaluación.",
+        "b) Una ComisiÃ³n de EvaluaciÃ³n.",
         "c) El ordenador.",
         "d) El solicitante."
       ],
-      "respuesta_correcta": "b) Una Comisión de Evaluación."
+      "respuesta_correcta": "b) Una ComisiÃ³n de EvaluaciÃ³n."
     },
     {
-      "pregunta": "¿Qué es el derecho preferente en la asignación de destinos?",
+      "pregunta": "Â¿QuÃ© es el derecho preferente en la asignaciÃ³n de destinos?",
       "opciones": [
-        "a) Un derecho para elegir destino antes que otros por circunstancias específicas (ej. disolución de unidad, víctimas de terrorismo).",
-        "b) Elegir destino por ser más antiguo.",
-        "c) Elegir destino por tener más medallas.",
+        "a) Un derecho para elegir destino antes que otros por circunstancias especÃ­ficas (ej. disoluciÃ³n de unidad, vÃ­ctimas de terrorismo).",
+        "b) Elegir destino por ser mÃ¡s antiguo.",
+        "c) Elegir destino por tener mÃ¡s medallas.",
         "d) No existe."
       ],
-      "respuesta_correcta": "a) Un derecho para elegir destino antes que otros por circunstancias específicas (ej. disolución de unidad, víctimas de terrorismo)."
+      "respuesta_correcta": "a) Un derecho para elegir destino antes que otros por circunstancias especÃ­ficas (ej. disoluciÃ³n de unidad, vÃ­ctimas de terrorismo)."
     },
     {
-      "pregunta": "¿Puede asignarse un destino forzoso?",
+      "pregunta": "Â¿Puede asignarse un destino forzoso?",
       "opciones": [
         "a) No, todos son voluntarios.",
-        "b) Sí, cuando no haya peticionarios voluntarios y sea necesario cubrir la vacante (normalmente al más moderno).",
+        "b) SÃ­, cuando no haya peticionarios voluntarios y sea necesario cubrir la vacante (normalmente al mÃ¡s moderno).",
         "c) Solo a los Cabos.",
         "d) Solo como castigo."
       ],
-      "respuesta_correcta": "b) Sí, cuando no haya peticionarios voluntarios y sea necesario cubrir la vacante (normalmente al más moderno)."
+      "respuesta_correcta": "b) SÃ­, cuando no haya peticionarios voluntarios y sea necesario cubrir la vacante (normalmente al mÃ¡s moderno)."
     },
     {
-      "pregunta": "¿Qué es la 'anotación' de una condecoración?",
+      "pregunta": "Â¿QuÃ© es la 'anotaciÃ³n' de una condecoraciÃ³n?",
       "opciones": [
         "a) Escribirla en un papel.",
-        "b) Su inscripción en la hoja de servicios del interesado.",
+        "b) Su inscripciÃ³n en la hoja de servicios del interesado.",
         "c) Publicarla en prensa.",
         "d) Llevarla puesta."
       ],
-      "respuesta_correcta": "b) Su inscripción en la hoja de servicios del interesado."
+      "respuesta_correcta": "b) Su inscripciÃ³n en la hoja de servicios del interesado."
     },
     {
-      "pregunta": "¿Qué ocurre si se pierde la aptitud psicofísica necesaria para el destino?",
+      "pregunta": "Â¿QuÃ© ocurre si se pierde la aptitud psicofÃ­sica necesaria para el destino?",
       "opciones": [
-        "a) Se continúa en el destino.",
+        "a) Se continÃºa en el destino.",
         "b) Se produce el cese en el destino.",
         "c) Se da de baja definitiva del Cuerpo.",
         "d) Se pasa a la reserva."
@@ -633,57 +633,57 @@
       "respuesta_correcta": "b) Se produce el cese en el destino."
     },
     {
-      "pregunta": "Según RD 179/2005, ¿pueden los guardias civiles paralizar su actividad en caso de riesgo grave e inminente?",
+      "pregunta": "SegÃºn RD 179/2005, Â¿pueden los guardias civiles paralizar su actividad en caso de riesgo grave e inminente?",
       "opciones": [
-        "a) Sí, como cualquier trabajador.",
-        "b) No, debido a la naturaleza de servicio público de seguridad y protección ciudadana (salvo situaciones muy específicas de riesgo laboral puro no operativo).",
-        "c) Sí, avisando al sindicato.",
-        "d) Sí, si lo dice el médico."
+        "a) SÃ­, como cualquier trabajador.",
+        "b) No, debido a la naturaleza de servicio pÃºblico de seguridad y protecciÃ³n ciudadana (salvo situaciones muy especÃ­ficas de riesgo laboral puro no operativo).",
+        "c) SÃ­, avisando al sindicato.",
+        "d) SÃ­, si lo dice el mÃ©dico."
       ],
-      "respuesta_correcta": "b) No, debido a la naturaleza de servicio público de seguridad y protección ciudadana (salvo situaciones muy específicas de riesgo laboral puro no operativo)."
+      "respuesta_correcta": "b) No, debido a la naturaleza de servicio pÃºblico de seguridad y protecciÃ³n ciudadana (salvo situaciones muy especÃ­ficas de riesgo laboral puro no operativo)."
     },
     {
-      "pregunta": "¿Qué órgano asesora en materia de riesgos laborales en la Guardia Civil?",
+      "pregunta": "Â¿QuÃ© Ã³rgano asesora en materia de riesgos laborales en la Guardia Civil?",
       "opciones": [
         "a) El Consejo de la Guardia Civil.",
-        "b) La Comisión de Riesgos Laborales.",
-        "c) El Servicio de Prevención.",
-        "d) La Inspección de Trabajo."
+        "b) La ComisiÃ³n de Riesgos Laborales.",
+        "c) El Servicio de PrevenciÃ³n.",
+        "d) La InspecciÃ³n de Trabajo."
       ],
-      "respuesta_correcta": "c) El Servicio de Prevención."
+      "respuesta_correcta": "c) El Servicio de PrevenciÃ³n."
     },
     {
-      "pregunta": "¿Quién representa a los guardias civiles en materia de prevención de riesgos?",
+      "pregunta": "Â¿QuiÃ©n representa a los guardias civiles en materia de prevenciÃ³n de riesgos?",
       "opciones": [
-        "a) Los Delegados de Prevención (designados por las asociaciones profesionales).",
+        "a) Los Delegados de PrevenciÃ³n (designados por las asociaciones profesionales).",
         "b) Los propios guardias individualmente.",
         "c) El mando.",
         "d) Un abogado."
       ],
-      "respuesta_correcta": "a) Los Delegados de Prevención (designados por las asociaciones profesionales)."
+      "respuesta_correcta": "a) Los Delegados de PrevenciÃ³n (designados por las asociaciones profesionales)."
     },
     {
-      "pregunta": "¿Qué uniformidad se usa en actos sociales de especial relevancia si así se exige?",
+      "pregunta": "Â¿QuÃ© uniformidad se usa en actos sociales de especial relevancia si asÃ­ se exige?",
       "opciones": [
         "a) Diario.",
         "b) Gala o Etiqueta/Gran Etiqueta.",
         "c) Trabajo.",
-        "d) Chándal."
+        "d) ChÃ¡ndal."
       ],
       "respuesta_correcta": "b) Gala o Etiqueta/Gran Etiqueta."
     },
     {
-      "pregunta": "¿Está permitido el uso de prendas de uniforme combinadas con ropa de paisano?",
+      "pregunta": "Â¿EstÃ¡ permitido el uso de prendas de uniforme combinadas con ropa de paisano?",
       "opciones": [
-        "a) Sí, si hace frío.",
-        "b) No, está prohibido.",
+        "a) SÃ­, si hace frÃ­o.",
+        "b) No, estÃ¡ prohibido.",
         "c) Solo el calzado.",
-        "d) Sí, la gorra."
+        "d) SÃ­, la gorra."
       ],
-      "respuesta_correcta": "b) No, está prohibido."
+      "respuesta_correcta": "b) No, estÃ¡ prohibido."
     },
     {
-      "pregunta": "¿Qué prenda se utiliza para el servicio ordinario climatológico adverso (lluvia/frío) según la norma de uniformidad?",
+      "pregunta": "Â¿QuÃ© prenda se utiliza para el servicio ordinario climatolÃ³gico adverso (lluvia/frÃ­o) segÃºn la norma de uniformidad?",
       "opciones": [
         "a) El capote.",
         "b) El anorak o prenda de abrigo reglamentaria.",
@@ -693,47 +693,47 @@
       "respuesta_correcta": "b) El anorak o prenda de abrigo reglamentaria."
     },
     {
-      "pregunta": "¿Qué es la 'vacante de libre designación'?",
+      "pregunta": "Â¿QuÃ© es la 'vacante de libre designaciÃ³n'?",
       "opciones": [
-        "a) Aquella que se asigna por antigüedad.",
-        "b) Aquella que se cubre por designación discrecional del Director General basándose en la idoneidad y confianza.",
+        "a) Aquella que se asigna por antigÃ¼edad.",
+        "b) Aquella que se cubre por designaciÃ³n discrecional del Director General basÃ¡ndose en la idoneidad y confianza.",
         "c) La que nadie quiere.",
-        "d) La de prácticas."
+        "d) La de prÃ¡cticas."
       ],
-      "respuesta_correcta": "b) Aquella que se cubre por designación discrecional del Director General basándose en la idoneidad y confianza."
+      "respuesta_correcta": "b) Aquella que se cubre por designaciÃ³n discrecional del Director General basÃ¡ndose en la idoneidad y confianza."
     },
     {
-      "pregunta": "¿Qué es el 'cese por pérdida de confianza' en un destino de libre designación?",
+      "pregunta": "Â¿QuÃ© es el 'cese por pÃ©rdida de confianza' en un destino de libre designaciÃ³n?",
       "opciones": [
-        "a) Una sanción disciplinaria.",
-        "b) Una facultad discrecional de la autoridad que nombró, motivada aunque sea someramente.",
+        "a) Una sanciÃ³n disciplinaria.",
+        "b) Una facultad discrecional de la autoridad que nombrÃ³, motivada aunque sea someramente.",
         "c) Un despido.",
-        "d) Una baja médica."
+        "d) Una baja mÃ©dica."
       ],
-      "respuesta_correcta": "b) Una facultad discrecional de la autoridad que nombró, motivada aunque sea someramente."
+      "respuesta_correcta": "b) Una facultad discrecional de la autoridad que nombrÃ³, motivada aunque sea someramente."
     },
     {
-      "pregunta": "Según OG 5/2005, ¿qué pabellones son de 'cargo'?",
+      "pregunta": "SegÃºn OG 5/2005, Â¿quÃ© pabellones son de 'cargo'?",
       "opciones": [
-        "a) Los destinados a quienes, por razón de su puesto (Jefe de Unidad), deban residir obligatoriamente en el acuartelamiento.",
+        "a) Los destinados a quienes, por razÃ³n de su puesto (Jefe de Unidad), deban residir obligatoriamente en el acuartelamiento.",
         "b) Los que sobran.",
         "c) Los de verano.",
         "d) Los de los Generales solo."
       ],
-      "respuesta_correcta": "a) Los destinados a quienes, por razón de su puesto (Jefe de Unidad), deban residir obligatoriamente en el acuartelamiento."
+      "respuesta_correcta": "a) Los destinados a quienes, por razÃ³n de su puesto (Jefe de Unidad), deban residir obligatoriamente en el acuartelamiento."
     },
     {
-      "pregunta": "¿Se paga canon por el uso de pabellones?",
+      "pregunta": "Â¿Se paga canon por el uso de pabellones?",
       "opciones": [
         "a) No, son gratis.",
-        "b) Sí, se establece un canon de uso (salvo excepciones como pabellones de cargo bajo ciertas condiciones).",
+        "b) SÃ­, se establece un canon de uso (salvo excepciones como pabellones de cargo bajo ciertas condiciones).",
         "c) Solo la luz.",
         "d) Solo el agua."
       ],
-      "respuesta_correcta": "b) Sí, se establece un canon de uso (salvo excepciones como pabellones de cargo bajo ciertas condiciones)."
+      "respuesta_correcta": "b) SÃ­, se establece un canon de uso (salvo excepciones como pabellones de cargo bajo ciertas condiciones)."
     },
     {
-      "pregunta": "¿Qué es el desalojo del pabellón?",
+      "pregunta": "Â¿QuÃ© es el desalojo del pabellÃ³n?",
       "opciones": [
         "a) Limpiarlo.",
         "b) El acto administrativo por el que se obliga a abandonar la vivienda al perder el derecho a su uso.",
@@ -743,7 +743,7 @@
       "respuesta_correcta": "b) El acto administrativo por el que se obliga a abandonar la vivienda al perder el derecho a su uso."
     },
     {
-      "pregunta": "¿A quién se notifica el nombramiento de un destino?",
+      "pregunta": "Â¿A quiÃ©n se notifica el nombramiento de un destino?",
       "opciones": [
         "a) Al interesado y a la Unidad afectada.",
         "b) Solo al interesado.",
@@ -753,17 +753,17 @@
       "respuesta_correcta": "a) Al interesado y a la Unidad afectada."
     },
     {
-      "pregunta": "¿Qué plazo de incorporación existe si el destino implica cambio de residencia?",
+      "pregunta": "Â¿QuÃ© plazo de incorporaciÃ³n existe si el destino implica cambio de residencia?",
       "opciones": [
-        "a) 3 días.",
+        "a) 3 dÃ­as.",
         "b) 1 mes (generalmente).",
-        "c) 10 días.",
+        "c) 10 dÃ­as.",
         "d) 1 semana."
       ],
       "respuesta_correcta": "b) 1 mes (generalmente)."
     },
     {
-      "pregunta": "¿Qué sucede si se anula un destino por sentencia judicial?",
+      "pregunta": "Â¿QuÃ© sucede si se anula un destino por sentencia judicial?",
       "opciones": [
         "a) Nada.",
         "b) Se debe ejecutar la sentencia, reponiendo al afectado en su derecho.",
@@ -773,157 +773,157 @@
       "respuesta_correcta": "b) Se debe ejecutar la sentencia, reponiendo al afectado en su derecho."
     },
     {
-      "pregunta": "¿Qué consideración tienen los alumnos de los centros docentes de formación de la Guardia Civil a efectos de PRL?",
+      "pregunta": "Â¿QuÃ© consideraciÃ³n tienen los alumnos de los centros docentes de formaciÃ³n de la Guardia Civil a efectos de PRL?",
       "opciones": [
         "a) Ninguna.",
-        "b) Se les aplica la normativa con las particularidades propias de su formación.",
+        "b) Se les aplica la normativa con las particularidades propias de su formaciÃ³n.",
         "c) Son personal civil.",
         "d) No tienen derechos."
       ],
-      "respuesta_correcta": "b) Se les aplica la normativa con las particularidades propias de su formación."
+      "respuesta_correcta": "b) Se les aplica la normativa con las particularidades propias de su formaciÃ³n."
     },
     {
-      "pregunta": "¿Qué es el 'Servicio de Prevención de la Guardia Civil'?",
+      "pregunta": "Â¿QuÃ© es el 'Servicio de PrevenciÃ³n de la Guardia Civil'?",
       "opciones": [
         "a) Una empresa externa.",
-        "b) El órgano especializado de la Dirección General para gestionar la PRL.",
+        "b) El Ã³rgano especializado de la DirecciÃ³n General para gestionar la PRL.",
         "c) Un sindicato.",
-        "d) La mutua médica."
+        "d) La mutua mÃ©dica."
       ],
-      "respuesta_correcta": "b) El órgano especializado de la Dirección General para gestionar la PRL."
+      "respuesta_correcta": "b) El Ã³rgano especializado de la DirecciÃ³n General para gestionar la PRL."
     },
     {
-      "pregunta": "¿Quién debe facilitar los Equipos de Protección Individual (EPIs)?",
+      "pregunta": "Â¿QuiÃ©n debe facilitar los Equipos de ProtecciÃ³n Individual (EPIs)?",
       "opciones": [
         "a) El guardia civil se los compra.",
-        "b) La Administración.",
+        "b) La AdministraciÃ³n.",
         "c) El Ayuntamiento.",
-        "d) La asociación profesional."
+        "d) La asociaciÃ³n profesional."
       ],
-      "respuesta_correcta": "b) La Administración."
+      "respuesta_correcta": "b) La AdministraciÃ³n."
     },
     {
-      "pregunta": "¿Qué es la Cruz de Oro a la Constancia?",
+      "pregunta": "Â¿QuÃ© es la Cruz de Oro a la Constancia?",
       "opciones": [
-        "a) La recompensa por 30 años de servicio sin notas desfavorables.",
-        "b) Por 25 años.",
+        "a) La recompensa por 30 aÃ±os de servicio sin notas desfavorables.",
+        "b) Por 25 aÃ±os.",
         "c) Por valor heroico.",
         "d) Por ser General."
       ],
-      "respuesta_correcta": "a) La recompensa por 30 años de servicio sin notas desfavorables."
+      "respuesta_correcta": "a) La recompensa por 30 aÃ±os de servicio sin notas desfavorables."
     },
     {
-      "pregunta": "¿Puede denegarse la Cruz a la Constancia si hay una investigación penal abierta?",
+      "pregunta": "Â¿Puede denegarse la Cruz a la Constancia si hay una investigaciÃ³n penal abierta?",
       "opciones": [
         "a) No, se da siempre.",
-        "b) Sí, se paraliza el expediente hasta que haya resolución firme.",
+        "b) SÃ­, se paraliza el expediente hasta que haya resoluciÃ³n firme.",
         "c) Se da provisionalmente.",
         "d) Depende del delito."
       ],
-      "respuesta_correcta": "b) Sí, se paraliza el expediente hasta que haya resolución firme."
+      "respuesta_correcta": "b) SÃ­, se paraliza el expediente hasta que haya resoluciÃ³n firme."
     },
     {
-      "pregunta": "Según la OG 9/2012, ¿qué es la 'disciplina'?",
+      "pregunta": "SegÃºn la OG 9/2012, Â¿quÃ© es la 'disciplina'?",
       "opciones": [
         "a) El miedo al castigo.",
-        "b) La norma de actuación que obliga a todos por igual, basada en el cumplimiento de las órdenes y deberes.",
+        "b) La norma de actuaciÃ³n que obliga a todos por igual, basada en el cumplimiento de las Ã³rdenes y deberes.",
         "c) Una norma antigua.",
         "d) El saludo."
       ],
-      "respuesta_correcta": "b) La norma de actuación que obliga a todos por igual, basada en el cumplimiento de las órdenes y deberes."
+      "respuesta_correcta": "b) La norma de actuaciÃ³n que obliga a todos por igual, basada en el cumplimiento de las Ã³rdenes y deberes."
     },
     {
-      "pregunta": "¿Qué debe primar en las relaciones entre compañeros?",
+      "pregunta": "Â¿QuÃ© debe primar en las relaciones entre compaÃ±eros?",
       "opciones": [
         "a) La competencia.",
-        "b) El compañerismo, la lealtad y el respeto mutuo.",
+        "b) El compaÃ±erismo, la lealtad y el respeto mutuo.",
         "c) La indiferencia.",
-        "d) La jerarquía estricta sin trato personal."
+        "d) La jerarquÃ­a estricta sin trato personal."
       ],
-      "respuesta_correcta": "b) El compañerismo, la lealtad y el respeto mutuo."
+      "respuesta_correcta": "b) El compaÃ±erismo, la lealtad y el respeto mutuo."
     },
     {
-      "pregunta": "¿Se pueden realizar modificaciones en la uniformidad por iniciativa propia?",
+      "pregunta": "Â¿Se pueden realizar modificaciones en la uniformidad por iniciativa propia?",
       "opciones": [
-        "a) Sí, para ir más cómodo.",
-        "b) No, está prohibido alterar las prendas o llevar emblemas no autorizados.",
-        "c) Sí, si es moda.",
-        "d) Sí, si lo paga uno."
+        "a) SÃ­, para ir mÃ¡s cÃ³modo.",
+        "b) No, estÃ¡ prohibido alterar las prendas o llevar emblemas no autorizados.",
+        "c) SÃ­, si es moda.",
+        "d) SÃ­, si lo paga uno."
       ],
-      "respuesta_correcta": "b) No, está prohibido alterar las prendas o llevar emblemas no autorizados."
+      "respuesta_correcta": "b) No, estÃ¡ prohibido alterar las prendas o llevar emblemas no autorizados."
     },
     {
-      "pregunta": "¿Qué calzado se usa con el uniforme de diario?",
+      "pregunta": "Â¿QuÃ© calzado se usa con el uniforme de diario?",
       "opciones": [
         "a) Zapatillas de deporte.",
-        "b) Zapatos negros reglamentarios o botas según la unidad.",
+        "b) Zapatos negros reglamentarios o botas segÃºn la unidad.",
         "c) Sandalias.",
-        "d) Botas de montaña siempre."
+        "d) Botas de montaÃ±a siempre."
       ],
-      "respuesta_correcta": "b) Zapatos negros reglamentarios o botas según la unidad."
+      "respuesta_correcta": "b) Zapatos negros reglamentarios o botas segÃºn la unidad."
     },
     {
-      "pregunta": "¿Qué distintivo de destino se lleva en el uniforme?",
+      "pregunta": "Â¿QuÃ© distintivo de destino se lleva en el uniforme?",
       "opciones": [
-        "a) El de la Unidad a la que se pertenece (en el brazo derecho o bolsillo según prenda).",
-        "b) El que más guste.",
+        "a) El de la Unidad a la que se pertenece (en el brazo derecho o bolsillo segÃºn prenda).",
+        "b) El que mÃ¡s guste.",
         "c) Ninguno.",
-        "d) La bandera de España solo."
+        "d) La bandera de EspaÃ±a solo."
       ],
-      "respuesta_correcta": "a) El de la Unidad a la que se pertenece (en el brazo derecho o bolsillo según prenda)."
+      "respuesta_correcta": "a) El de la Unidad a la que se pertenece (en el brazo derecho o bolsillo segÃºn prenda)."
     },
     {
-      "pregunta": "¿Qué ocurre si un guardia civil fallece en acto de servicio respecto a la Orden del Mérito?",
+      "pregunta": "Â¿QuÃ© ocurre si un guardia civil fallece en acto de servicio respecto a la Orden del MÃ©rito?",
       "opciones": [
         "a) No se le puede condecorar.",
-        "b) Se le puede conceder a título póstumo (generalmente con distintivo rojo).",
+        "b) Se le puede conceder a tÃ­tulo pÃ³stumo (generalmente con distintivo rojo).",
         "c) Se le da a la viuda.",
         "d) Se anula."
       ],
-      "respuesta_correcta": "b) Se le puede conceder a título póstumo (generalmente con distintivo rojo)."
+      "respuesta_correcta": "b) Se le puede conceder a tÃ­tulo pÃ³stumo (generalmente con distintivo rojo)."
     },
     {
-      "pregunta": "¿Qué antigüedad mínima se exige para pedir vacantes de concurso de méritos (salvo excepciones)?",
+      "pregunta": "Â¿QuÃ© antigÃ¼edad mÃ­nima se exige para pedir vacantes de concurso de mÃ©ritos (salvo excepciones)?",
       "opciones": [
         "a) Ninguna.",
         "b) La que determine la convocatoria.",
-        "c) 5 años.",
-        "d) 10 años."
+        "c) 5 aÃ±os.",
+        "d) 10 aÃ±os."
       ],
       "respuesta_correcta": "b) La que determine la convocatoria."
     },
     {
-      "pregunta": "¿Quién adjudica los destinos de concurso de méritos?",
+      "pregunta": "Â¿QuiÃ©n adjudica los destinos de concurso de mÃ©ritos?",
       "opciones": [
-        "a) El Director General (u órgano delegado) a propuesta de la Comisión de Evaluación.",
+        "a) El Director General (u Ã³rgano delegado) a propuesta de la ComisiÃ³n de EvaluaciÃ³n.",
         "b) El Ministro.",
         "c) El Jefe de Comandancia.",
         "d) Por sorteo."
       ],
-      "respuesta_correcta": "a) El Director General (u órgano delegado) a propuesta de la Comisión de Evaluación."
+      "respuesta_correcta": "a) El Director General (u Ã³rgano delegado) a propuesta de la ComisiÃ³n de EvaluaciÃ³n."
     },
     {
-      "pregunta": "¿Qué es la 'comisión de servicio'?",
+      "pregunta": "Â¿QuÃ© es la 'comisiÃ³n de servicio'?",
       "opciones": [
         "a) Un destino definitivo.",
-        "b) Una atribución temporal de funciones en unidad distinta a la de destino.",
+        "b) Una atribuciÃ³n temporal de funciones en unidad distinta a la de destino.",
         "c) Un permiso.",
         "d) Un arresto."
       ],
-      "respuesta_correcta": "b) Una atribución temporal de funciones en unidad distinta a la de destino."
+      "respuesta_correcta": "b) Una atribuciÃ³n temporal de funciones en unidad distinta a la de destino."
     },
     {
-      "pregunta": "¿Cuánto dura normalmente una comisión de servicio?",
+      "pregunta": "Â¿CuÃ¡nto dura normalmente una comisiÃ³n de servicio?",
       "opciones": [
         "a) Indefinidamente.",
-        "b) Máximo 1 año prorrogable (según normativa específica).",
-        "c) 1 día.",
-        "d) 10 años."
+        "b) MÃ¡ximo 1 aÃ±o prorrogable (segÃºn normativa especÃ­fica).",
+        "c) 1 dÃ­a.",
+        "d) 10 aÃ±os."
       ],
-      "respuesta_correcta": "b) Máximo 1 año prorrogable (según normativa específica)."
+      "respuesta_correcta": "b) MÃ¡ximo 1 aÃ±o prorrogable (segÃºn normativa especÃ­fica)."
     },
     {
-      "pregunta": "¿Qué es la 'adscripción temporal'?",
+      "pregunta": "Â¿QuÃ© es la 'adscripciÃ³n temporal'?",
       "opciones": [
         "a) Asignar puesto a quien cesa en destino o reingresa hasta obtener destino definitivo.",
         "b) Un contrato temporal.",
@@ -933,27 +933,27 @@
       "respuesta_correcta": "a) Asignar puesto a quien cesa en destino o reingresa hasta obtener destino definitivo."
     },
     {
-      "pregunta": "¿Puede un guardia civil trabajar en otra actividad ajena al Cuerpo?",
+      "pregunta": "Â¿Puede un guardia civil trabajar en otra actividad ajena al Cuerpo?",
       "opciones": [
-        "a) Sí, libremente.",
+        "a) SÃ­, libremente.",
         "b) Solo si solicita la compatibilidad y esta es autorizada.",
         "c) No, nunca.",
-        "d) Sí, si es en negro."
+        "d) SÃ­, si es en negro."
       ],
       "respuesta_correcta": "b) Solo si solicita la compatibilidad y esta es autorizada."
     },
     {
-      "pregunta": "¿Qué es el 'Informe Personal de Calificación' (IPEC) en relación a los destinos?",
+      "pregunta": "Â¿QuÃ© es el 'Informe Personal de CalificaciÃ³n' (IPEC) en relaciÃ³n a los destinos?",
       "opciones": [
         "a) No sirve para nada.",
-        "b) Se valora en los concursos de méritos y evaluaciones.",
+        "b) Se valora en los concursos de mÃ©ritos y evaluaciones.",
         "c) Es solo para oficiales.",
         "d) Es una multa."
       ],
-      "respuesta_correcta": "b) Se valora en los concursos de méritos y evaluaciones."
+      "respuesta_correcta": "b) Se valora en los concursos de mÃ©ritos y evaluaciones."
     },
     {
-      "pregunta": "¿Qué es la 'Cruz de San Hermenegildo'?",
+      "pregunta": "Â¿QuÃ© es la 'Cruz de San Hermenegildo'?",
       "opciones": [
         "a) Para Tropa.",
         "b) Para Oficiales y Suboficiales (premio a la constancia similar a la Cruz a la Constancia de Cabos y Guardias).",
@@ -963,7 +963,7 @@
       "respuesta_correcta": "b) Para Oficiales y Suboficiales (premio a la constancia similar a la Cruz a la Constancia de Cabos y Guardias)."
     },
     {
-      "pregunta": "¿Cómo se denominan las zonas de seguridad en el interior de un acuartelamiento?",
+      "pregunta": "Â¿CÃ³mo se denominan las zonas de seguridad en el interior de un acuartelamiento?",
       "opciones": [
         "a) Zona VIP.",
         "b) Zonas de acceso restringido / zonas de seguridad.",
@@ -973,7 +973,7 @@
       "respuesta_correcta": "b) Zonas de acceso restringido / zonas de seguridad."
     },
     {
-      "pregunta": "¿Quién es el responsable de la seguridad del acuartelamiento?",
+      "pregunta": "Â¿QuiÃ©n es el responsable de la seguridad del acuartelamiento?",
       "opciones": [
         "a) El guardia de puertas.",
         "b) El Jefe de la Unidad / Acuartelamiento.",
@@ -983,7 +983,7 @@
       "respuesta_correcta": "b) El Jefe de la Unidad / Acuartelamiento."
     },
     {
-      "pregunta": "Según la OG 11/2014, ¿cuándo comienza el cómputo de las horas nocturnas?",
+      "pregunta": "SegÃºn la OG 11/2014, Â¿cuÃ¡ndo comienza el cÃ³mputo de las horas nocturnas?",
       "opciones": [
         "a) A las 20:00.",
         "b) A las 22:00.",
@@ -993,17 +993,17 @@
       "respuesta_correcta": "b) A las 22:00."
     },
     {
-      "pregunta": "¿Qué se entiende por 'necesidades del servicio'?",
+      "pregunta": "Â¿QuÃ© se entiende por 'necesidades del servicio'?",
       "opciones": [
-        "a) Lo que diga el jefe porque sí.",
-        "b) Circunstancias que exigen la prestación del servicio para garantizar el cumplimiento de las misiones asignadas (debidamente justificadas).",
-        "c) Falta de planificación.",
+        "a) Lo que diga el jefe porque sÃ­.",
+        "b) Circunstancias que exigen la prestaciÃ³n del servicio para garantizar el cumplimiento de las misiones asignadas (debidamente justificadas).",
+        "c) Falta de planificaciÃ³n.",
         "d) Capricho."
       ],
-      "respuesta_correcta": "b) Circunstancias que exigen la prestación del servicio para garantizar el cumplimiento de las misiones asignadas (debidamente justificadas)."
+      "respuesta_correcta": "b) Circunstancias que exigen la prestaciÃ³n del servicio para garantizar el cumplimiento de las misiones asignadas (debidamente justificadas)."
     },
     {
-      "pregunta": "¿Qué son las 'horas de exceso'?",
+      "pregunta": "Â¿QuÃ© son las 'horas de exceso'?",
       "opciones": [
         "a) Las que superan la jornada laboral establecida en el periodo de referencia.",
         "b) Las horas de comer.",
@@ -1013,17 +1013,17 @@
       "respuesta_correcta": "a) Las que superan la jornada laboral establecida en el periodo de referencia."
     },
     {
-      "pregunta": "¿Cómo se compensan las horas de exceso?",
+      "pregunta": "Â¿CÃ³mo se compensan las horas de exceso?",
       "opciones": [
         "a) No se compensan.",
-        "b) Económicamente o con tiempo de descanso (según normativa de incentivos).",
+        "b) EconÃ³micamente o con tiempo de descanso (segÃºn normativa de incentivos).",
         "c) Con medallas.",
         "d) Con palmadas en la espalda."
       ],
-      "respuesta_correcta": "b) Económicamente o con tiempo de descanso (según normativa de incentivos)."
+      "respuesta_correcta": "b) EconÃ³micamente o con tiempo de descanso (segÃºn normativa de incentivos)."
     },
     {
-      "pregunta": "¿Qué es el 'servicio de incidencias'?",
+      "pregunta": "Â¿QuÃ© es el 'servicio de incidencias'?",
       "opciones": [
         "a) Aquel que surge de imprevisto.",
         "b) Servicios de guardia, orden, seguridad y funcionamiento interior (ej. Cuartelero, Puertas).",
@@ -1033,37 +1033,37 @@
       "respuesta_correcta": "b) Servicios de guardia, orden, seguridad y funcionamiento interior (ej. Cuartelero, Puertas)."
     },
     {
-      "pregunta": "¿Es obligatorio llevar el DNI y la Tarjeta de Identidad Profesional (TIP) estando de servicio?",
+      "pregunta": "Â¿Es obligatorio llevar el DNI y la Tarjeta de Identidad Profesional (TIP) estando de servicio?",
       "opciones": [
         "a) No, si vas de uniforme.",
-        "b) Sí, siempre.",
+        "b) SÃ­, siempre.",
         "c) Solo la TIP.",
         "d) Solo el DNI."
       ],
-      "respuesta_correcta": "b) Sí, siempre."
+      "respuesta_correcta": "b) SÃ­, siempre."
     },
     {
-      "pregunta": "¿Qué consideración tiene la uniformidad de 'Gran Etiqueta'?",
+      "pregunta": "Â¿QuÃ© consideraciÃ³n tiene la uniformidad de 'Gran Etiqueta'?",
       "opciones": [
-        "a) Para bodas reales, actos de máxima solemnidad.",
+        "a) Para bodas reales, actos de mÃ¡xima solemnidad.",
         "b) Para trabajar.",
         "c) Para juicios.",
         "d) Para desfiles ordinarios."
       ],
-      "respuesta_correcta": "a) Para bodas reales, actos de máxima solemnidad."
+      "respuesta_correcta": "a) Para bodas reales, actos de mÃ¡xima solemnidad."
     },
     {
-      "pregunta": "¿Qué color define la 'Cruz con distintivo Plata' de la Orden del Mérito (según normativa actual/contexto)?",
+      "pregunta": "Â¿QuÃ© color define la 'Cruz con distintivo Plata' de la Orden del MÃ©rito (segÃºn normativa actual/contexto)?",
       "opciones": [
-        "a) No existe la Cruz de Plata en la Orden del Mérito de la Guardia Civil (solo Roja y Blanca en la orden de 2012, la Plata existe en la Constancia).",
+        "a) No existe la Cruz de Plata en la Orden del MÃ©rito de la Guardia Civil (solo Roja y Blanca en la orden de 2012, la Plata existe en la Constancia).",
         "b) Existe y es para servicios administrativos.",
         "c) Es la superior a la de Oro.",
         "d) Es verde."
       ],
-      "respuesta_correcta": "a) No existe la Cruz de Plata en la Orden del Mérito de la Guardia Civil (solo Roja y Blanca en la orden de 2012, la Plata existe en la Constancia)."
+      "respuesta_correcta": "a) No existe la Cruz de Plata en la Orden del MÃ©rito de la Guardia Civil (solo Roja y Blanca en la orden de 2012, la Plata existe en la Constancia)."
     },
     {
-      "pregunta": "¿A quién corresponde la inspección de los servicios?",
+      "pregunta": "Â¿A quiÃ©n corresponde la inspecciÃ³n de los servicios?",
       "opciones": [
         "a) Al mando de la Unidad y escalones superiores.",
         "b) Al ciudadano.",
@@ -1073,4 +1073,4 @@
       "respuesta_correcta": "a) Al mando de la Unidad y escalones superiores."
     }
   ]
-}
+}]

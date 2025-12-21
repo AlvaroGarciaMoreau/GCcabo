@@ -1,0 +1,43 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Topics (preguntas) - lectura pública, escritura solo admin
+    match /topics/{topicId}/questions/{questionId} {
+      allow read: if true;
+      allow write: if request.auth != null && request.auth.token.admin == true;
+    }
+
+    // Perfil de usuario (solo el propio usuario puede crear/leer/actualizar)
+    match /users/{userId} {
+      allow create: if request.auth != null && request.auth.uid == userId;
+      allow read, update, delete: if request.auth != null && request.auth.uid == userId;
+    }
+
+    // Resultados de quiz
+    match /resultados/{resultId} {
+      allow create: if request.auth != null
+                    && request.auth.uid == request.resource.data.userId
+                    && request.auth.token.email_verified == true
+                    && request.resource.data.score is int
+                    && request.resource.data.score >= 0
+                    && request.resource.data.totalQuestions is int
+                    && request.resource.data.totalQuestions > 0
+                    && (request.resource.data.timeTaken is number && request.resource.data.timeTaken >= 0)
+                    && (request.resource.data.answers is map)
+                    && (request.resource.data.failedQuestions is list || request.resource.data.failedQuestions == null)
+                    && (request.resource.data.topic is string);
+
+      // El dueño puede leer su resultado
+      allow read: if request.auth != null && resource.data.userId == request.auth.uid;
+
+      // Forzar que listados solo permitan filtrar por el propio userId
+      allow list: if request.auth != null && request.query.where('userId', '==', request.auth.uid);
+
+      // Solo el dueño o un admin puede actualizar o borrar
+      allow update, delete: if request.auth != null
+                            && (resource.data.userId == request.auth.uid || request.auth.token.admin == true);
+    }
+
+  }
+}

@@ -1,39 +1,39 @@
-{
-  "tema": "TEMA 3.- DEONTOLOGÍA PROFESIONAL (100 PREGUNTAS)",
-  "descripcion": "Preguntas basadas en LO 2/1986, Principios ONU (Habana 1990), Recomendación (2001) 10 Código Europeo Ética Policía, TREBEP (Código Conducta) y RD 176/2022 (Código Conducta GC).",
+[{
+  "tema": "TEMA 3.- DEONTOLOGÃA PROFESIONAL (100 PREGUNTAS)",
+  "descripcion": "Preguntas basadas en LO 2/1986, Principios ONU (Habana 1990), RecomendaciÃ³n (2001) 10 CÃ³digo Europeo Ã‰tica PolicÃ­a, TREBEP (CÃ³digo Conducta) y RD 176/2022 (CÃ³digo Conducta GC).",
   "preguntas": [
     {
-      "pregunta": "¿Qué carácter tienen los Principios Básicos de Actuación recogidos en la LO 2/1986?",
+      "pregunta": "Â¿QuÃ© carÃ¡cter tienen los Principios BÃ¡sicos de ActuaciÃ³n recogidos en la LO 2/1986?",
       "opciones": [
-        "a) Son meras recomendaciones éticas.",
-        "b) Son un código deontológico sin valor normativo.",
+        "a) Son meras recomendaciones Ã©ticas.",
+        "b) Son un cÃ³digo deontolÃ³gico sin valor normativo.",
         "c) Son vinculantes, obligando a su cumplimiento en el ejercicio de funciones.",
         "d) Solo obligan a los mandos."
       ],
       "respuesta_correcta": "c) Son vinculantes, obligando a su cumplimiento en el ejercicio de funciones."
     },
     {
-      "pregunta": "¿A qué se debe adecuar la actuación de los miembros de las Fuerzas y Cuerpos de Seguridad según el primer principio de la LO 2/1986?",
+      "pregunta": "Â¿A quÃ© se debe adecuar la actuaciÃ³n de los miembros de las Fuerzas y Cuerpos de Seguridad segÃºn el primer principio de la LO 2/1986?",
       "opciones": [
-        "a) A las órdenes del superior.",
-        "b) Al ordenamiento jurídico, especialmente a la Constitución.",
+        "a) A las Ã³rdenes del superior.",
+        "b) Al ordenamiento jurÃ­dico, especialmente a la ConstituciÃ³n.",
         "c) A la costumbre policial.",
         "d) Al reglamento interno exclusivamente."
       ],
-      "respuesta_correcta": "b) Al ordenamiento jurídico, especialmente a la Constitución."
+      "respuesta_correcta": "b) Al ordenamiento jurÃ­dico, especialmente a la ConstituciÃ³n."
     },
     {
       "pregunta": "En sus relaciones con la comunidad, los miembros de las FCS deben actuar con:",
       "opciones": [
         "a) Autoridad absoluta.",
         "b) Distancia profesional.",
-        "c) Neutralidad política e imparcialidad.",
+        "c) Neutralidad polÃ­tica e imparcialidad.",
         "d) Subjetividad justificada."
       ],
-      "respuesta_correcta": "c) Neutralidad política e imparcialidad."
+      "respuesta_correcta": "c) Neutralidad polÃ­tica e imparcialidad."
     },
     {
-      "pregunta": "¿Qué criterios rigen el empleo de la fuerza según la LO 2/1986?",
+      "pregunta": "Â¿QuÃ© criterios rigen el empleo de la fuerza segÃºn la LO 2/1986?",
       "opciones": [
         "a) Eficacia, rapidez y contundencia.",
         "b) Congruencia, oportunidad y proporcionalidad.",
@@ -43,69 +43,69 @@
       "respuesta_correcta": "b) Congruencia, oportunidad y proporcionalidad."
     },
     {
-      "pregunta": "¿Cuándo deben utilizar armas de fuego los miembros de las FCS?",
+      "pregunta": "Â¿CuÃ¡ndo deben utilizar armas de fuego los miembros de las FCS?",
       "opciones": [
         "a) Siempre que haya un delito grave.",
-        "b) Solamente en los supuestos de grave riesgo para su vida, su integridad física o la de terceras personas, o grave riesgo para la seguridad ciudadana.",
+        "b) Solamente en los supuestos de grave riesgo para su vida, su integridad fÃ­sica o la de terceras personas, o grave riesgo para la seguridad ciudadana.",
         "c) Para evitar la fuga de cualquier sospechoso.",
         "d) Cuando lo ordene un superior, sin excepciones."
       ],
-      "respuesta_correcta": "b) Solamente en los supuestos de grave riesgo para su vida, su integridad física o la de terceras personas, o grave riesgo para la seguridad ciudadana."
+      "respuesta_correcta": "b) Solamente en los supuestos de grave riesgo para su vida, su integridad fÃ­sica o la de terceras personas, o grave riesgo para la seguridad ciudadana."
     },
     {
-      "pregunta": "¿Qué deber tienen los miembros de las FCS respecto a las órdenes recibidas?",
+      "pregunta": "Â¿QuÃ© deber tienen los miembros de las FCS respecto a las Ã³rdenes recibidas?",
       "opciones": [
         "a) Obediencia debida en cualquier circunstancia.",
-        "b) Obediencia debida, salvo que constituyan ilícito penal o sean contrarias a la Constitución o las Leyes.",
+        "b) Obediencia debida, salvo que constituyan ilÃ­cito penal o sean contrarias a la ConstituciÃ³n o las Leyes.",
         "c) Obediencia ciega.",
-        "d) Pueden debatir todas las órdenes."
+        "d) Pueden debatir todas las Ã³rdenes."
       ],
-      "respuesta_correcta": "b) Obediencia debida, salvo que constituyan ilícito penal o sean contrarias a la Constitución o las Leyes."
+      "respuesta_correcta": "b) Obediencia debida, salvo que constituyan ilÃ­cito penal o sean contrarias a la ConstituciÃ³n o las Leyes."
     },
     {
       "pregunta": "Respecto a los detenidos, los miembros de las FCS deben:",
       "opciones": [
         "a) Interrogarlos exhaustivamente antes de leerles sus derechos.",
-        "b) Identificarse debidamente e informar de los motivos de la detención, respetando su honor y dignidad.",
-        "c) Usar cualquier medio para obtener información.",
+        "b) Identificarse debidamente e informar de los motivos de la detenciÃ³n, respetando su honor y dignidad.",
+        "c) Usar cualquier medio para obtener informaciÃ³n.",
         "d) Mantenerlos incomunicados siempre."
       ],
-      "respuesta_correcta": "b) Identificarse debidamente e informar de los motivos de la detención, respetando su honor y dignidad."
+      "respuesta_correcta": "b) Identificarse debidamente e informar de los motivos de la detenciÃ³n, respetando su honor y dignidad."
     },
     {
-      "pregunta": "¿Cómo se define la dedicación profesional de los miembros de las FCS?",
+      "pregunta": "Â¿CÃ³mo se define la dedicaciÃ³n profesional de los miembros de las FCS?",
       "opciones": [
-        "a) Dedicación parcial.",
-        "b) Dedicación exclusiva en horario laboral.",
-        "c) Dedicación profesional permanente, debiendo intervenir en cualquier tiempo y lugar si fuera necesario.",
-        "d) Dedicación sujeta a turnos fijos sin excepciones."
+        "a) DedicaciÃ³n parcial.",
+        "b) DedicaciÃ³n exclusiva en horario laboral.",
+        "c) DedicaciÃ³n profesional permanente, debiendo intervenir en cualquier tiempo y lugar si fuera necesario.",
+        "d) DedicaciÃ³n sujeta a turnos fijos sin excepciones."
       ],
-      "respuesta_correcta": "c) Dedicación profesional permanente, debiendo intervenir en cualquier tiempo y lugar si fuera necesario."
+      "respuesta_correcta": "c) DedicaciÃ³n profesional permanente, debiendo intervenir en cualquier tiempo y lugar si fuera necesario."
     },
     {
-      "pregunta": "¿Qué tipo de responsabilidad incurren los miembros de las FCS por la infracción de las normas deontológicas?",
+      "pregunta": "Â¿QuÃ© tipo de responsabilidad incurren los miembros de las FCS por la infracciÃ³n de las normas deontolÃ³gicas?",
       "opciones": [
         "a) Solo disciplinaria.",
         "b) Personal y directa.",
         "c) Subsidiaria del Estado.",
-        "d) Únicamente moral."
+        "d) Ãšnicamente moral."
       ],
       "respuesta_correcta": "b) Personal y directa."
     },
     {
       "pregunta": "El secreto profesional obliga a:",
       "opciones": [
-        "a) No revelar información salvo obligación legal o judicial.",
+        "a) No revelar informaciÃ³n salvo obligaciÃ³n legal o judicial.",
         "b) No hablar nunca del trabajo.",
-        "c) Ocultar delitos de compañeros.",
-        "d) No informar a la prensa bajo ningún concepto, ni siquiera a través de portavoces."
+        "c) Ocultar delitos de compaÃ±eros.",
+        "d) No informar a la prensa bajo ningÃºn concepto, ni siquiera a travÃ©s de portavoces."
       ],
-      "respuesta_correcta": "a) No revelar información salvo obligación legal o judicial."
+      "respuesta_correcta": "a) No revelar informaciÃ³n salvo obligaciÃ³n legal o judicial."
     },
     {
-      "pregunta": "¿Qué norma aprueba el Código de Conducta del personal de la Guardia Civil?",
+      "pregunta": "Â¿QuÃ© norma aprueba el CÃ³digo de Conducta del personal de la Guardia Civil?",
       "opciones": [
-        "a) Ley Orgánica 2/1986.",
+        "a) Ley OrgÃ¡nica 2/1986.",
         "b) Real Decreto 176/2022.",
         "c) Real Decreto Legislativo 5/2015.",
         "d) Orden General 12/2007."
@@ -113,7 +113,7 @@
       "respuesta_correcta": "b) Real Decreto 176/2022."
     },
     {
-      "pregunta": "¿A quién es de aplicación el Código de Conducta de la Guardia Civil?",
+      "pregunta": "Â¿A quiÃ©n es de aplicaciÃ³n el CÃ³digo de Conducta de la Guardia Civil?",
       "opciones": [
         "a) Solo a los oficiales.",
         "b) A todo el personal de la Guardia Civil y al alumnado de los centros docentes.",
@@ -123,7 +123,7 @@
       "respuesta_correcta": "b) A todo el personal de la Guardia Civil y al alumnado de los centros docentes."
     },
     {
-      "pregunta": "Según el Código de Conducta de la GC, el valor que obliga a cumplir los deberes contraídos es:",
+      "pregunta": "SegÃºn el CÃ³digo de Conducta de la GC, el valor que obliga a cumplir los deberes contraÃ­dos es:",
       "opciones": [
         "a) El Honor.",
         "b) La Lealtad.",
@@ -133,7 +133,7 @@
       "respuesta_correcta": "b) La Lealtad."
     },
     {
-      "pregunta": "¿Cuál es la principal seña de identidad de la Guardia Civil según su Código de Conducta?",
+      "pregunta": "Â¿CuÃ¡l es la principal seÃ±a de identidad de la Guardia Civil segÃºn su CÃ³digo de Conducta?",
       "opciones": [
         "a) La fuerza.",
         "b) El Honor.",
@@ -143,37 +143,37 @@
       "respuesta_correcta": "b) El Honor."
     },
     {
-      "pregunta": "¿Qué implica el principio de 'Neutralidad' en el Código de Conducta de la GC?",
+      "pregunta": "Â¿QuÃ© implica el principio de 'Neutralidad' en el CÃ³digo de Conducta de la GC?",
       "opciones": [
-        "a) No tener opinión.",
-        "b) Mantenerse neutral en las controversias políticas, sindicales o religiosas en el desempeño de sus funciones.",
+        "a) No tener opiniÃ³n.",
+        "b) Mantenerse neutral en las controversias polÃ­ticas, sindicales o religiosas en el desempeÃ±o de sus funciones.",
         "c) No votar en elecciones.",
         "d) No pertenecer a asociaciones deportivas."
       ],
-      "respuesta_correcta": "b) Mantenerse neutral en las controversias políticas, sindicales o religiosas en el desempeño de sus funciones."
+      "respuesta_correcta": "b) Mantenerse neutral en las controversias polÃ­ticas, sindicales o religiosas en el desempeÃ±o de sus funciones."
     },
     {
-      "pregunta": "¿Qué debe hacer un Guardia Civil ante órdenes que impliquen la ejecución de actos manifiestamente ilegales?",
+      "pregunta": "Â¿QuÃ© debe hacer un Guardia Civil ante Ã³rdenes que impliquen la ejecuciÃ³n de actos manifiestamente ilegales?",
       "opciones": [
         "a) Cumplirlas y luego reclamar.",
-        "b) No estará obligado a obedecerlas.",
+        "b) No estarÃ¡ obligado a obedecerlas.",
         "c) Cumplirlas dejando constancia escrita.",
         "d) Consultar a un abogado."
       ],
-      "respuesta_correcta": "b) No estará obligado a obedecerlas."
+      "respuesta_correcta": "b) No estarÃ¡ obligado a obedecerlas."
     },
     {
-      "pregunta": "El Código de Conducta de la GC establece que el uso de las redes sociales:",
+      "pregunta": "El CÃ³digo de Conducta de la GC establece que el uso de las redes sociales:",
       "opciones": [
-        "a) Está prohibido.",
-        "b) Debe respetar la seguridad, el deber de reserva y el prestigio de la Institución.",
+        "a) EstÃ¡ prohibido.",
+        "b) Debe respetar la seguridad, el deber de reserva y el prestigio de la InstituciÃ³n.",
         "c) Es libre sin restricciones.",
         "d) Solo se permite para fines oficiales."
       ],
-      "respuesta_correcta": "b) Debe respetar la seguridad, el deber de reserva y el prestigio de la Institución."
+      "respuesta_correcta": "b) Debe respetar la seguridad, el deber de reserva y el prestigio de la InstituciÃ³n."
     },
     {
-      "pregunta": "¿Qué principio exige rectitud y honestidad en el comportamiento?",
+      "pregunta": "Â¿QuÃ© principio exige rectitud y honestidad en el comportamiento?",
       "opciones": [
         "a) Austeridad.",
         "b) Integridad.",
@@ -183,7 +183,7 @@
       "respuesta_correcta": "b) Integridad."
     },
     {
-      "pregunta": "Según el TREBEP (Art. 52), los empleados públicos deberán desempeñar sus tareas con:",
+      "pregunta": "SegÃºn el TREBEP (Art. 52), los empleados pÃºblicos deberÃ¡n desempeÃ±ar sus tareas con:",
       "opciones": [
         "a) Rapidez.",
         "b) Diligencia.",
@@ -193,27 +193,27 @@
       "respuesta_correcta": "b) Diligencia."
     },
     {
-      "pregunta": "¿Qué deben rechazar los empleados públicos según los principios éticos del TREBEP?",
+      "pregunta": "Â¿QuÃ© deben rechazar los empleados pÃºblicos segÃºn los principios Ã©ticos del TREBEP?",
       "opciones": [
-        "a) Cualquier regalo, favor o servicio que vaya más allá de los usos habituales, sociales y de cortesía.",
-        "b) Solo regalos en metálico.",
+        "a) Cualquier regalo, favor o servicio que vaya mÃ¡s allÃ¡ de los usos habituales, sociales y de cortesÃ­a.",
+        "b) Solo regalos en metÃ¡lico.",
         "c) Regalos superiores a 1000 euros.",
         "d) Invitaciones a comer."
       ],
-      "respuesta_correcta": "a) Cualquier regalo, favor o servicio que vaya más allá de los usos habituales, sociales y de cortesía."
+      "respuesta_correcta": "a) Cualquier regalo, favor o servicio que vaya mÃ¡s allÃ¡ de los usos habituales, sociales y de cortesÃ­a."
     },
     {
       "pregunta": "El deber de secreto profesional en el TREBEP (Art. 53.12) implica:",
       "opciones": [
-        "a) Guardar secreto de todas las materias clasificadas o cuya difusión esté prohibida legalmente.",
+        "a) Guardar secreto de todas las materias clasificadas o cuya difusiÃ³n estÃ© prohibida legalmente.",
         "b) No hablar con ciudadanos.",
         "c) Ocultar errores administrativos.",
         "d) Destruir documentos sensibles."
       ],
-      "respuesta_correcta": "a) Guardar secreto de todas las materias clasificadas o cuya difusión esté prohibida legalmente."
+      "respuesta_correcta": "a) Guardar secreto de todas las materias clasificadas o cuya difusiÃ³n estÃ© prohibida legalmente."
     },
     {
-      "pregunta": "¿Qué principio de conducta del TREBEP obliga a tratar con atención y respeto a los ciudadanos?",
+      "pregunta": "Â¿QuÃ© principio de conducta del TREBEP obliga a tratar con atenciÃ³n y respeto a los ciudadanos?",
       "opciones": [
         "a) Art. 54.1.",
         "b) Art. 54.2.",
@@ -223,109 +223,109 @@
       "respuesta_correcta": "b) Art. 54.2."
     },
     {
-      "pregunta": "¿En qué deben basarse los objetivos de la policía según el Código Europeo de Ética de la Policía?",
+      "pregunta": "Â¿En quÃ© deben basarse los objetivos de la policÃ­a segÃºn el CÃ³digo Europeo de Ã‰tica de la PolicÃ­a?",
       "opciones": [
-        "a) En la voluntad política.",
+        "a) En la voluntad polÃ­tica.",
         "b) En la Ley.",
-        "c) En la tradición.",
+        "c) En la tradiciÃ³n.",
         "d) En la eficacia a cualquier coste."
       ],
       "respuesta_correcta": "b) En la Ley."
     },
     {
-      "pregunta": "Según el Código Europeo, la policía en una sociedad democrática debe estar sometida al:",
+      "pregunta": "SegÃºn el CÃ³digo Europeo, la policÃ­a en una sociedad democrÃ¡tica debe estar sometida al:",
       "opciones": [
         "a) Poder militar.",
         "b) Imperio de la ley.",
-        "c) Juicio mediático.",
+        "c) Juicio mediÃ¡tico.",
         "d) Arbitrio del gobierno."
       ],
       "respuesta_correcta": "b) Imperio de la ley."
     },
     {
-      "pregunta": "¿Qué tipo de organización debe tener la policía según el Código Europeo de Ética?",
+      "pregunta": "Â¿QuÃ© tipo de organizaciÃ³n debe tener la policÃ­a segÃºn el CÃ³digo Europeo de Ã‰tica?",
       "opciones": [
         "a) Exclusivamente militar.",
-        "b) Una estructura jerárquica clara.",
+        "b) Una estructura jerÃ¡rquica clara.",
         "c) Asamblearia.",
         "d) Privada."
       ],
-      "respuesta_correcta": "b) Una estructura jerárquica clara."
+      "respuesta_correcta": "b) Una estructura jerÃ¡rquica clara."
     },
     {
-      "pregunta": "Según los Principios Básicos de la ONU sobre el empleo de la fuerza (La Habana 1990), el uso de armas de fuego se considera:",
+      "pregunta": "SegÃºn los Principios BÃ¡sicos de la ONU sobre el empleo de la fuerza (La Habana 1990), el uso de armas de fuego se considera:",
       "opciones": [
         "a) Una medida habitual.",
         "b) Una medida extrema.",
-        "c) Una medida de disuasión inicial.",
+        "c) Una medida de disuasiÃ³n inicial.",
         "d) Una medida administrativa."
       ],
       "respuesta_correcta": "b) Una medida extrema."
     },
     {
-      "pregunta": "Antes de utilizar un arma de fuego, los funcionarios encargados de hacer cumplir la ley deberán:",
+      "pregunta": "Antes de utilizar un arma de fuego, los funcionarios encargados de hacer cumplir la ley deberÃ¡n:",
       "opciones": [
         "a) Disparar al aire.",
         "b) Identificarse como tales y dar una clara advertencia, salvo riesgo para ellos u otros.",
         "c) Solicitar permiso por radio.",
-        "d) Esperar a ser agredidos físicamente."
+        "d) Esperar a ser agredidos fÃ­sicamente."
       ],
       "respuesta_correcta": "b) Identificarse como tales y dar una clara advertencia, salvo riesgo para ellos u otros."
     },
     {
-      "pregunta": "¿Qué deben garantizar los gobiernos respecto al uso de la fuerza y armas de fuego?",
+      "pregunta": "Â¿QuÃ© deben garantizar los gobiernos respecto al uso de la fuerza y armas de fuego?",
       "opciones": [
         "a) La impunidad de los agentes.",
         "b) Normas y reglamentaciones claras y arbitrarias.",
-        "c) Procedimientos de revisión eficaces en caso de incidentes.",
-        "d) Suministro ilimitado de munición."
+        "c) Procedimientos de revisiÃ³n eficaces en caso de incidentes.",
+        "d) Suministro ilimitado de municiÃ³n."
       ],
-      "respuesta_correcta": "c) Procedimientos de revisión eficaces en caso de incidentes."
+      "respuesta_correcta": "c) Procedimientos de revisiÃ³n eficaces en caso de incidentes."
     },
     {
-      "pregunta": "¿Qué principio del Código de Conducta de la GC exige actuar con prudencia en el uso de los recursos públicos?",
+      "pregunta": "Â¿QuÃ© principio del CÃ³digo de Conducta de la GC exige actuar con prudencia en el uso de los recursos pÃºblicos?",
       "opciones": [
         "a) Eficacia.",
-        "b) Austeridad (implícito en uso eficiente de recursos / Integridad).",
+        "b) Austeridad (implÃ­cito en uso eficiente de recursos / Integridad).",
         "c) Transparencia.",
         "d) Responsabilidad."
       ],
       "respuesta_correcta": "d) Responsabilidad (y Art 54.10 TREBEP sobre eficiencia/austeridad aplicable supletoriamente)."
     },
     {
-      "pregunta": "En el marco del Código de Conducta de la GC, el trato a la ciudadanía debe ser:",
+      "pregunta": "En el marco del CÃ³digo de Conducta de la GC, el trato a la ciudadanÃ­a debe ser:",
       "opciones": [
         "a) Autoritario.",
-        "b) Esmerado, respetuoso y cortés.",
+        "b) Esmerado, respetuoso y cortÃ©s.",
         "c) Distante.",
         "d) Familiar."
       ],
-      "respuesta_correcta": "b) Esmerado, respetuoso y cortés."
+      "respuesta_correcta": "b) Esmerado, respetuoso y cortÃ©s."
     },
     {
-      "pregunta": "¿Qué se entiende por 'Espíritu Benemérito' según el RD 176/2022?",
+      "pregunta": "Â¿QuÃ© se entiende por 'EspÃ­ritu BenemÃ©rito' segÃºn el RD 176/2022?",
       "opciones": [
-        "a) La antigüedad en el cuerpo.",
-        "b) Hacer el bien a los demás, protegiendo y auxiliando a la sociedad.",
+        "a) La antigÃ¼edad en el cuerpo.",
+        "b) Hacer el bien a los demÃ¡s, protegiendo y auxiliando a la sociedad.",
         "c) Ganar condecoraciones.",
         "d) La obediencia ciega."
       ],
-      "respuesta_correcta": "b) Hacer el bien a los demás, protegiendo y auxiliando a la sociedad."
+      "respuesta_correcta": "b) Hacer el bien a los demÃ¡s, protegiendo y auxiliando a la sociedad."
     },
     {
-      "pregunta": "¿Qué deben hacer los funcionarios tras el uso de armas de fuego si hay heridos, según los principios de la ONU?",
+      "pregunta": "Â¿QuÃ© deben hacer los funcionarios tras el uso de armas de fuego si hay heridos, segÃºn los principios de la ONU?",
       "opciones": [
         "a) Abandonar el lugar para evitar represalias.",
-        "b) Prestar asistencia y servicios médicos lo antes posible.",
+        "b) Prestar asistencia y servicios mÃ©dicos lo antes posible.",
         "c) Esperar a la ambulancia sin intervenir.",
         "d) Interrogar al herido."
       ],
-      "respuesta_correcta": "b) Prestar asistencia y servicios médicos lo antes posible."
+      "respuesta_correcta": "b) Prestar asistencia y servicios mÃ©dicos lo antes posible."
     },
     {
-      "pregunta": "El Código Europeo de Ética de la Policía recomienda que el reclutamiento se base en:",
+      "pregunta": "El CÃ³digo Europeo de Ã‰tica de la PolicÃ­a recomienda que el reclutamiento se base en:",
       "opciones": [
-        "a) Recomendaciones políticas.",
+        "a) Recomendaciones polÃ­ticas.",
         "b) Aptitudes personales y competencia profesional.",
         "c) Clase social.",
         "d) Etnia."
@@ -333,137 +333,137 @@
       "respuesta_correcta": "b) Aptitudes personales y competencia profesional."
     },
     {
-      "pregunta": "¿Es válida la obediencia debida como eximente si la orden implica la muerte o heridas graves fuera de la ley según los principios ONU?",
+      "pregunta": "Â¿Es vÃ¡lida la obediencia debida como eximente si la orden implica la muerte o heridas graves fuera de la ley segÃºn los principios ONU?",
       "opciones": [
-        "a) Sí, siempre exime.",
-        "b) No, no podrá alegarse obediencia a órdenes superiores si la orden era manifiestamente ilícita.",
+        "a) SÃ­, siempre exime.",
+        "b) No, no podrÃ¡ alegarse obediencia a Ã³rdenes superiores si la orden era manifiestamente ilÃ­cita.",
         "c) Depende del rango del superior.",
-        "d) Sí, si es en tiempo de guerra."
+        "d) SÃ­, si es en tiempo de guerra."
       ],
-      "respuesta_correcta": "b) No, no podrá alegarse obediencia a órdenes superiores si la orden era manifiestamente ilícita."
+      "respuesta_correcta": "b) No, no podrÃ¡ alegarse obediencia a Ã³rdenes superiores si la orden era manifiestamente ilÃ­cita."
     },
     {
-      "pregunta": "¿Qué exige el deber de 'Ejemplaridad' en el Código de Conducta de la GC?",
+      "pregunta": "Â¿QuÃ© exige el deber de 'Ejemplaridad' en el CÃ³digo de Conducta de la GC?",
       "opciones": [
-        "a) Ser el más fuerte.",
-        "b) Actuar siempre de manera que se preserve la confianza de los ciudadanos en la Institución.",
+        "a) Ser el mÃ¡s fuerte.",
+        "b) Actuar siempre de manera que se preserve la confianza de los ciudadanos en la InstituciÃ³n.",
         "c) No tener vida privada.",
         "d) Vestir siempre de uniforme."
       ],
-      "respuesta_correcta": "b) Actuar siempre de manera que se preserve la confianza de los ciudadanos en la Institución."
+      "respuesta_correcta": "b) Actuar siempre de manera que se preserve la confianza de los ciudadanos en la InstituciÃ³n."
     },
     {
-      "pregunta": "¿Puede un empleado público aceptar una invitación que comprometa su imparcialidad?",
+      "pregunta": "Â¿Puede un empleado pÃºblico aceptar una invitaciÃ³n que comprometa su imparcialidad?",
       "opciones": [
-        "a) Sí, si es discreta.",
-        "b) No, se rechazará cualquier trato de favor que pueda condicionar la independencia.",
-        "c) Sí, si no supera los 50 euros.",
-        "d) Sí, si es fuera del horario laboral."
+        "a) SÃ­, si es discreta.",
+        "b) No, se rechazarÃ¡ cualquier trato de favor que pueda condicionar la independencia.",
+        "c) SÃ­, si no supera los 50 euros.",
+        "d) SÃ­, si es fuera del horario laboral."
       ],
-      "respuesta_correcta": "b) No, se rechazará cualquier trato de favor que pueda condicionar la independencia."
+      "respuesta_correcta": "b) No, se rechazarÃ¡ cualquier trato de favor que pueda condicionar la independencia."
     },
     {
-      "pregunta": "Según el TREBEP, ¿cómo deben administrar los empleados públicos los recursos?",
+      "pregunta": "SegÃºn el TREBEP, Â¿cÃ³mo deben administrar los empleados pÃºblicos los recursos?",
       "opciones": [
         "a) Con generosidad.",
         "b) Con austeridad y no utilizarlos en provecho propio.",
         "c) Como si fueran propios.",
-        "d) Sin límite."
+        "d) Sin lÃ­mite."
       ],
       "respuesta_correcta": "b) Con austeridad y no utilizarlos en provecho propio."
     },
     {
-      "pregunta": "¿Qué establece el Código Europeo sobre la investigación policial?",
+      "pregunta": "Â¿QuÃ© establece el CÃ³digo Europeo sobre la investigaciÃ³n policial?",
       "opciones": [
         "a) Debe basarse en sospechas, no pruebas.",
-        "b) Debe respetar la presunción de inocencia.",
-        "c) Puede usar cualquier método para obtener la verdad.",
+        "b) Debe respetar la presunciÃ³n de inocencia.",
+        "c) Puede usar cualquier mÃ©todo para obtener la verdad.",
         "d) Es secreta incluso para el juez."
       ],
-      "respuesta_correcta": "b) Debe respetar la presunción de inocencia."
+      "respuesta_correcta": "b) Debe respetar la presunciÃ³n de inocencia."
     },
     {
-      "pregunta": "¿Qué principio de la LO 2/1986 obliga a impedir cualquier práctica abusiva, arbitraria o discriminatoria?",
+      "pregunta": "Â¿QuÃ© principio de la LO 2/1986 obliga a impedir cualquier prÃ¡ctica abusiva, arbitraria o discriminatoria?",
       "opciones": [
-        "a) Jerarquía.",
-        "b) Adecuación al ordenamiento jurídico (respeto a derechos fundamentales).",
+        "a) JerarquÃ­a.",
+        "b) AdecuaciÃ³n al ordenamiento jurÃ­dico (respeto a derechos fundamentales).",
         "c) Oportunidad.",
         "d) Eficacia."
       ],
-      "respuesta_correcta": "b) Adecuación al ordenamiento jurídico (respeto a derechos fundamentales)."
+      "respuesta_correcta": "b) AdecuaciÃ³n al ordenamiento jurÃ­dico (respeto a derechos fundamentales)."
     },
     {
-      "pregunta": "¿Cuándo se considera 'manifiestamente ilegal' una orden según el contexto deontológico general (LO 2/86 y RD 176/2022)?",
+      "pregunta": "Â¿CuÃ¡ndo se considera 'manifiestamente ilegal' una orden segÃºn el contexto deontolÃ³gico general (LO 2/86 y RD 176/2022)?",
       "opciones": [
         "a) Cuando no gusta al subordinado.",
-        "b) Cuando constituye un ilícito penal o vulnera derechos fundamentales.",
-        "c) Cuando es difícil de cumplir.",
+        "b) Cuando constituye un ilÃ­cito penal o vulnera derechos fundamentales.",
+        "c) Cuando es difÃ­cil de cumplir.",
         "d) Cuando viene de un mando de otra unidad."
       ],
-      "respuesta_correcta": "b) Cuando constituye un ilícito penal o vulnera derechos fundamentales."
+      "respuesta_correcta": "b) Cuando constituye un ilÃ­cito penal o vulnera derechos fundamentales."
     },
     {
-      "pregunta": "¿Qué actitud debe mantener el guardia civil ante la corrupción según el Código de Conducta?",
+      "pregunta": "Â¿QuÃ© actitud debe mantener el guardia civil ante la corrupciÃ³n segÃºn el CÃ³digo de Conducta?",
       "opciones": [
         "a) Tolerancia si es leve.",
-        "b) Oposición radical y denuncia de cualquier acto de corrupción.",
+        "b) OposiciÃ³n radical y denuncia de cualquier acto de corrupciÃ³n.",
         "c) Indiferencia.",
-        "d) Silencio por compañerismo."
+        "d) Silencio por compaÃ±erismo."
       ],
-      "respuesta_correcta": "b) Oposición radical y denuncia de cualquier acto de corrupción."
+      "respuesta_correcta": "b) OposiciÃ³n radical y denuncia de cualquier acto de corrupciÃ³n."
     },
     {
-      "pregunta": "¿Qué principio ONU regula el uso de medios no violentos?",
+      "pregunta": "Â¿QuÃ© principio ONU regula el uso de medios no violentos?",
       "opciones": [
-        "a) Se usarán siempre primero antes de recurrir a la fuerza y armas de fuego.",
+        "a) Se usarÃ¡n siempre primero antes de recurrir a la fuerza y armas de fuego.",
         "b) Son opcionales.",
         "c) Solo se usan en manifestaciones.",
         "d) No son eficaces."
       ],
-      "respuesta_correcta": "a) Se usarán siempre primero antes de recurrir a la fuerza y armas de fuego."
+      "respuesta_correcta": "a) Se usarÃ¡n siempre primero antes de recurrir a la fuerza y armas de fuego."
     },
     {
-      "pregunta": "¿Qué establece el TREBEP sobre el acoso laboral o sexual?",
+      "pregunta": "Â¿QuÃ© establece el TREBEP sobre el acoso laboral o sexual?",
       "opciones": [
         "a) Es un asunto privado.",
-        "b) Se debe evitar toda actuación que pueda producir discriminación o acoso.",
+        "b) Se debe evitar toda actuaciÃ³n que pueda producir discriminaciÃ³n o acoso.",
         "c) Solo se sanciona si hay denuncia judicial.",
-        "d) Depende de la gravedad."
+        "d) Depende del grado."
       ],
-      "respuesta_correcta": "b) Se debe evitar toda actuación que pueda producir discriminación o acoso."
+      "respuesta_correcta": "b) Se debe evitar toda actuaciÃ³n que pueda producir discriminaciÃ³n o acoso."
     },
     {
-      "pregunta": "¿De qué son responsables los miembros de las FCS en el ejercicio de sus funciones según la LO 2/1986?",
+      "pregunta": "Â¿De quÃ© son responsables los miembros de las FCS en el ejercicio de sus funciones segÃºn la LO 2/1986?",
       "opciones": [
         "a) De nada, tienen inmunidad.",
         "b) De los actos personales y directos que infrinjan las normas legales o reglamentarias.",
         "c) Solo ante el juez.",
-        "d) De los actos de sus subordinados únicamente."
+        "d) De los actos de sus subordinados Ãºnicamente."
       ],
       "respuesta_correcta": "b) De los actos personales y directos que infrinjan las normas legales o reglamentarias."
     },
     {
-      "pregunta": "El Código Europeo de Ética de la Policía sugiere que la formación policial debe incluir:",
+      "pregunta": "El CÃ³digo Europeo de Ã‰tica de la PolicÃ­a sugiere que la formaciÃ³n policial debe incluir:",
       "opciones": [
-        "a) Solo tácticas de combate.",
-        "b) Formación en ética y derechos humanos.",
-        "c) Política partidista.",
-        "d) Religión."
+        "a) Solo tÃ¡cticas de combate.",
+        "b) FormaciÃ³n en Ã©tica y derechos humanos.",
+        "c) PolÃ­tica partidista.",
+        "d) ReligiÃ³n."
       ],
-      "respuesta_correcta": "b) Formación en ética y derechos humanos."
+      "respuesta_correcta": "b) FormaciÃ³n en Ã©tica y derechos humanos."
     },
     {
-      "pregunta": "¿Qué implica el deber de 'Disponibilidad' en el Código de Conducta de la GC?",
+      "pregunta": "Â¿QuÃ© implica el deber de 'Disponibilidad' en el CÃ³digo de Conducta de la GC?",
       "opciones": [
         "a) Estar siempre en el cuartel.",
-        "b) Prestar servicio con abnegación y estar disponible para actuar cuando las necesidades del servicio lo requieran.",
+        "b) Prestar servicio con abnegaciÃ³n y estar disponible para actuar cuando las necesidades del servicio lo requieran.",
         "c) No tener vacaciones.",
-        "d) Responder al teléfono personal siempre."
+        "d) Responder al telÃ©fono personal siempre."
       ],
-      "respuesta_correcta": "b) Prestar servicio con abnegación y estar disponible para actuar cuando las necesidades del servicio lo requieran."
+      "respuesta_correcta": "b) Prestar servicio con abnegaciÃ³n y estar disponible para actuar cuando las necesidades del servicio lo requieran."
     },
     {
-      "pregunta": "¿Qué deben hacer las FCS con la información recopilada?",
+      "pregunta": "Â¿QuÃ© deben hacer las FCS con la informaciÃ³n recopilada?",
       "opciones": [
         "a) Venderla.",
         "b) Usarla para fines personales.",
@@ -473,77 +473,77 @@
       "respuesta_correcta": "c) Guardar riguroso secreto profesional."
     },
     {
-      "pregunta": "¿Qué trato se debe dar a las víctimas según el Código Europeo de Ética?",
+      "pregunta": "Â¿QuÃ© trato se debe dar a las vÃ­ctimas segÃºn el CÃ³digo Europeo de Ã‰tica?",
       "opciones": [
         "a) Indiferente.",
-        "b) Deben recibir el apoyo, asistencia e información necesarios.",
-        "c) Solo jurídico.",
+        "b) Deben recibir el apoyo, asistencia e informaciÃ³n necesarios.",
+        "c) Solo jurÃ­dico.",
         "d) De sospechosos."
       ],
-      "respuesta_correcta": "b) Deben recibir el apoyo, asistencia e información necesarios."
+      "respuesta_correcta": "b) Deben recibir el apoyo, asistencia e informaciÃ³n necesarios."
     },
     {
-      "pregunta": "¿Qué principio del TREBEP obliga a actuar de acuerdo con la Constitución?",
+      "pregunta": "Â¿QuÃ© principio del TREBEP obliga a actuar de acuerdo con la ConstituciÃ³n?",
       "opciones": [
         "a) Art. 52.",
-        "b) Art. 53.1 (Principios éticos).",
+        "b) Art. 53.1 (Principios Ã©ticos).",
         "c) Art. 54.",
-        "d) Disposición final."
+        "d) DisposiciÃ³n final."
       ],
-      "respuesta_correcta": "b) Art. 53.1 (Principios éticos)."
+      "respuesta_correcta": "b) Art. 53.1 (Principios Ã©ticos)."
     },
     {
-      "pregunta": "¿Cómo deben actuar las FCS en la detención?",
+      "pregunta": "Â¿CÃ³mo deben actuar las FCS en la detenciÃ³n?",
       "opciones": [
-        "a) Velando por la vida e integridad física de los detenidos.",
+        "a) Velando por la vida e integridad fÃ­sica de los detenidos.",
         "b) Esposando siempre.",
         "c) Usando la fuerza siempre.",
         "d) Sin identificarse."
       ],
-      "respuesta_correcta": "a) Velando por la vida e integridad física de los detenidos."
+      "respuesta_correcta": "a) Velando por la vida e integridad fÃ­sica de los detenidos."
     },
     {
-      "pregunta": "¿Qué implica la 'Responsabilidad' en el Código de Conducta de la GC?",
+      "pregunta": "Â¿QuÃ© implica la 'Responsabilidad' en el CÃ³digo de Conducta de la GC?",
       "opciones": [
         "a) Asumir las consecuencias de las propias acciones y omisiones.",
         "b) Culpar a otros.",
         "c) Evitar tomar decisiones.",
-        "d) Cumplir solo lo fácil."
+        "d) Cumplir solo lo fÃ¡cil."
       ],
       "respuesta_correcta": "a) Asumir las consecuencias de las propias acciones y omisiones."
     },
     {
-      "pregunta": "¿Qué se establece sobre la tortura en la LO 2/1986?",
+      "pregunta": "Â¿QuÃ© se establece sobre la tortura en la LO 2/1986?",
       "opciones": [
         "a) No se menciona.",
-        "b) No infligirán, instigarán ni tolerarán ningún acto de tortura o tratos inhumanos.",
+        "b) No infligirÃ¡n, instigarÃ¡n ni tolerarÃ¡n ningÃºn acto de tortura o tratos inhumanos.",
         "c) Se permite en casos de terrorismo.",
         "d) Se permite con orden judicial."
       ],
-      "respuesta_correcta": "b) No infligirán, instigarán ni tolerarán ningún acto de tortura o tratos inhumanos."
+      "respuesta_correcta": "b) No infligirÃ¡n, instigarÃ¡n ni tolerarÃ¡n ningÃºn acto de tortura o tratos inhumanos."
     },
     {
-      "pregunta": "Según los principios de la ONU, ¿cuándo se puede usar la fuerza letal intencionada?",
+      "pregunta": "SegÃºn los principios de la ONU, Â¿cuÃ¡ndo se puede usar la fuerza letal intencionada?",
       "opciones": [
         "a) Para proteger la propiedad.",
         "b) Solo cuando sea estrictamente inevitable para proteger una vida.",
         "c) Para disolver manifestaciones.",
-        "d) Para detener a un ladrón que huye."
+        "d) Para detener a un ladrÃ³n que huye."
       ],
       "respuesta_correcta": "b) Solo cuando sea estrictamente inevitable para proteger una vida."
     },
     {
-      "pregunta": "¿Qué deber tienen los empleados públicos respecto a la seguridad y salud laboral?",
+      "pregunta": "Â¿QuÃ© deber tienen los empleados pÃºblicos respecto a la seguridad y salud laboral?",
       "opciones": [
         "a) Ninguno.",
-        "b) Observar las normas sobre prevención de riesgos laborales.",
+        "b) Observar las normas sobre prevenciÃ³n de riesgos laborales.",
         "c) Es responsabilidad solo de la empresa.",
         "d) Pueden ignorarlas si hay prisa."
       ],
-      "respuesta_correcta": "b) Observar las normas sobre prevención de riesgos laborales."
+      "respuesta_correcta": "b) Observar las normas sobre prevenciÃ³n de riesgos laborales."
     },
     {
-      "pregunta": "¿Qué deben hacer las FCS si observan actos de corrupción en su seno?",
+      "pregunta": "Â¿QuÃ© deben hacer las FCS si observan actos de corrupciÃ³n en su seno?",
       "opciones": [
         "a) Participar.",
         "b) Oponerse rigurosamente y denunciarlo.",
@@ -553,27 +553,27 @@
       "respuesta_correcta": "b) Oponerse rigurosamente y denunciarlo."
     },
     {
-      "pregunta": "¿Qué es la 'Disciplina' en el Código de Conducta de la GC?",
+      "pregunta": "Â¿QuÃ© es la 'Disciplina' en el CÃ³digo de Conducta de la GC?",
       "opciones": [
-        "a) Castigo físico.",
-        "b) Cumplimiento de las órdenes y normas que regulan el funcionamiento de la Institución.",
+        "a) Castigo fÃ­sico.",
+        "b) Cumplimiento de las Ã³rdenes y normas que regulan el funcionamiento de la InstituciÃ³n.",
         "c) Rigidez mental.",
         "d) Miedo al mando."
       ],
-      "respuesta_correcta": "b) Cumplimiento de las órdenes y normas que regulan el funcionamiento de la Institución."
+      "respuesta_correcta": "b) Cumplimiento de las Ã³rdenes y normas que regulan el funcionamiento de la InstituciÃ³n."
     },
     {
-      "pregunta": "¿Deben los empleados públicos informar a los ciudadanos sobre sus derechos?",
+      "pregunta": "Â¿Deben los empleados pÃºblicos informar a los ciudadanos sobre sus derechos?",
       "opciones": [
         "a) No, deben saberlos ellos.",
-        "b) Sí, facilitándoles el ejercicio de los mismos.",
+        "b) SÃ­, facilitÃ¡ndoles el ejercicio de los mismos.",
         "c) Solo si pagan una tasa.",
         "d) Solo si lo piden por escrito."
       ],
-      "respuesta_correcta": "b) Sí, facilitándoles el ejercicio de los mismos."
+      "respuesta_correcta": "b) SÃ­, facilitÃ¡ndoles el ejercicio de los mismos."
     },
     {
-      "pregunta": "¿Qué se entiende por 'Dignidad' en el Código de Conducta de la GC?",
+      "pregunta": "Â¿QuÃ© se entiende por 'Dignidad' en el CÃ³digo de Conducta de la GC?",
       "opciones": [
         "a) Ser orgulloso.",
         "b) Actuar conforme al respeto a los derechos humanos y libertades fundamentales.",
@@ -583,37 +583,37 @@
       "respuesta_correcta": "b) Actuar conforme al respeto a los derechos humanos y libertades fundamentales."
     },
     {
-      "pregunta": "Según el Código Europeo, ¿quién debe controlar a la policía?",
+      "pregunta": "SegÃºn el CÃ³digo Europeo, Â¿quiÃ©n debe controlar a la policÃ­a?",
       "opciones": [
         "a) Nadie.",
         "b) El Estado (poderes ejecutivo, legislativo y judicial).",
         "c) Solo la prensa.",
-        "d) Solo los propios policías."
+        "d) Solo los propios policÃ­as."
       ],
       "respuesta_correcta": "b) El Estado (poderes ejecutivo, legislativo y judicial)."
     },
     {
-      "pregunta": "¿Qué deben hacer las FCS para auxiliar a los ciudadanos?",
+      "pregunta": "Â¿QuÃ© deben hacer las FCS para auxiliar a los ciudadanos?",
       "opciones": [
-        "a) Actuar con decisión y sin demora ante situaciones de peligro.",
+        "a) Actuar con decisiÃ³n y sin demora ante situaciones de peligro.",
         "b) Esperar a que llegue el turno.",
         "c) Solo actuar si hay denuncia.",
-        "d) Pedir identificación antes de ayudar."
+        "d) Pedir identificaciÃ³n antes de ayudar."
       ],
-      "respuesta_correcta": "a) Actuar con decisión y sin demora ante situaciones de peligro."
+      "respuesta_correcta": "a) Actuar con decisiÃ³n y sin demora ante situaciones de peligro."
     },
     {
-      "pregunta": "¿Qué se dice sobre los antecedentes penales de los candidatos a policía en el Código Europeo?",
+      "pregunta": "Â¿QuÃ© se dice sobre los antecedentes penales de los candidatos a policÃ­a en el CÃ³digo Europeo?",
       "opciones": [
         "a) No importan.",
         "b) El personal no debe haber sido condenado por delitos graves que cuestionen su idoneidad.",
         "c) Deben tener antecedentes para conocer el crimen.",
-        "d) Solo importan los delitos de tráfico."
+        "d) Solo importan los delitos de trÃ¡fico."
       ],
       "respuesta_correcta": "b) El personal no debe haber sido condenado por delitos graves que cuestionen su idoneidad."
     },
     {
-      "pregunta": "¿Qué valor del Código de Conducta GC implica actuar con ánimo de superación?",
+      "pregunta": "Â¿QuÃ© valor del CÃ³digo de Conducta GC implica actuar con Ã¡nimo de superaciÃ³n?",
       "opciones": [
         "a) Excelencia.",
         "b) Lealtad.",
@@ -623,7 +623,7 @@
       "respuesta_correcta": "a) Excelencia."
     },
     {
-      "pregunta": "¿Cómo deben ser las relaciones entre superiores y subordinados en la GC según el Código de Conducta?",
+      "pregunta": "Â¿CÃ³mo deben ser las relaciones entre superiores y subordinados en la GC segÃºn el CÃ³digo de Conducta?",
       "opciones": [
         "a) De temor.",
         "b) Basadas en la lealtad, el respeto mutuo y la disciplina.",
@@ -633,17 +633,17 @@
       "respuesta_correcta": "b) Basadas en la lealtad, el respeto mutuo y la disciplina."
     },
     {
-      "pregunta": "El TREBEP exige que los empleados públicos mantengan actualizada su:",
+      "pregunta": "El TREBEP exige que los empleados pÃºblicos mantengan actualizada su:",
       "opciones": [
         "a) Red social.",
-        "b) Formación y cualificación.",
+        "b) FormaciÃ³n y cualificaciÃ³n.",
         "c) Agenda personal.",
         "d) Vestimenta."
       ],
-      "respuesta_correcta": "b) Formación y cualificación."
+      "respuesta_correcta": "b) FormaciÃ³n y cualificaciÃ³n."
     },
     {
-      "pregunta": "Según la LO 2/1986, ¿qué tratamiento requieren las fuentes de información?",
+      "pregunta": "SegÃºn la LO 2/1986, Â¿quÃ© tratamiento requieren las fuentes de informaciÃ³n?",
       "opciones": [
         "a) Secreto de las fuentes.",
         "b) Publicidad.",
@@ -653,7 +653,7 @@
       "respuesta_correcta": "a) Secreto de las fuentes."
     },
     {
-      "pregunta": "¿Qué deben hacer los gobiernos respecto a las armas no letales según los Principios ONU?",
+      "pregunta": "Â¿QuÃ© deben hacer los gobiernos respecto a las armas no letales segÃºn los Principios ONU?",
       "opciones": [
         "a) Prohibirlas.",
         "b) Fomentar su desarrollo para reducir el riesgo de muerte o lesiones.",
@@ -663,7 +663,7 @@
       "respuesta_correcta": "b) Fomentar su desarrollo para reducir el riesgo de muerte o lesiones."
     },
     {
-      "pregunta": "¿Qué principio del Código de Conducta de la GC alude a la imparcialidad política?",
+      "pregunta": "Â¿QuÃ© principio del CÃ³digo de Conducta de la GC alude a la imparcialidad polÃ­tica?",
       "opciones": [
         "a) Neutralidad.",
         "b) Transparencia.",
@@ -673,7 +673,7 @@
       "respuesta_correcta": "a) Neutralidad."
     },
     {
-      "pregunta": "¿Qué establece el TREBEP sobre la jornada laboral?",
+      "pregunta": "Â¿QuÃ© establece el TREBEP sobre la jornada laboral?",
       "opciones": [
         "a) Es flexible siempre.",
         "b) Se debe cumplir con puntualidad y responsabilidad.",
@@ -683,7 +683,7 @@
       "respuesta_correcta": "b) Se debe cumplir con puntualidad y responsabilidad."
     },
     {
-      "pregunta": "¿Cómo deben vestir los guardias civiles según el deber de imagen?",
+      "pregunta": "Â¿CÃ³mo deben vestir los guardias civiles segÃºn el deber de imagen?",
       "opciones": [
         "a) Cuidando su aspecto personal y la uniformidad para transmitir dignidad.",
         "b) Como quieran.",
@@ -693,37 +693,37 @@
       "respuesta_correcta": "a) Cuidando su aspecto personal y la uniformidad para transmitir dignidad."
     },
     {
-      "pregunta": "¿Qué derecho tienen los detenidos respecto a su estado de salud según la LO 2/1986?",
+      "pregunta": "Â¿QuÃ© derecho tienen los detenidos respecto a su estado de salud segÃºn la LO 2/1986?",
       "opciones": [
         "a) Ninguno.",
-        "b) A recibir atención médica si es preciso.",
+        "b) A recibir atenciÃ³n mÃ©dica si es preciso.",
         "c) A elegir hospital privado.",
         "d) A automedicarse."
       ],
-      "respuesta_correcta": "b) A recibir atención médica si es preciso."
+      "respuesta_correcta": "b) A recibir atenciÃ³n mÃ©dica si es preciso."
     },
     {
-      "pregunta": "En reuniones ilícitas pero no violentas, los funcionarios deberán:",
+      "pregunta": "En reuniones ilÃ­citas pero no violentas, los funcionarios deberÃ¡n:",
       "opciones": [
         "a) Usar fuerza letal.",
-        "b) Evitar el uso de la fuerza o limitarlo al mínimo necesario.",
+        "b) Evitar el uso de la fuerza o limitarlo al mÃ­nimo necesario.",
         "c) Detener a todos.",
-        "d) Usar gases lacrimógenos inmediatamente."
+        "d) Usar gases lacrimÃ³genos inmediatamente."
       ],
-      "respuesta_correcta": "b) Evitar el uso de la fuerza o limitarlo al mínimo necesario."
+      "respuesta_correcta": "b) Evitar el uso de la fuerza o limitarlo al mÃ­nimo necesario."
     },
     {
-      "pregunta": "¿Qué implica el 'Prestigio' de la institución en el Código de Conducta?",
+      "pregunta": "Â¿QuÃ© implica el 'Prestigio' de la instituciÃ³n en el CÃ³digo de Conducta?",
       "opciones": [
         "a) Fama personal.",
         "b) Esforzarse por mantener y acrecentar el reconocimiento social de la Guardia Civil.",
-        "c) Salir en televisión.",
+        "c) Salir en televisiÃ³n.",
         "d) Tener muchos seguidores."
       ],
       "respuesta_correcta": "b) Esforzarse por mantener y acrecentar el reconocimiento social de la Guardia Civil."
     },
     {
-      "pregunta": "¿Qué deben hacer los empleados públicos ante un conflicto de intereses?",
+      "pregunta": "Â¿QuÃ© deben hacer los empleados pÃºblicos ante un conflicto de intereses?",
       "opciones": [
         "a) Aprovecharlo.",
         "b) Abstenerse de intervenir.",
@@ -733,27 +733,27 @@
       "respuesta_correcta": "b) Abstenerse de intervenir."
     },
     {
-      "pregunta": "¿Qué se debe notificar a los parientes o amigos de un herido por arma de fuego policial?",
+      "pregunta": "Â¿QuÃ© se debe notificar a los parientes o amigos de un herido por arma de fuego policial?",
       "opciones": [
         "a) Nada, es secreto.",
-        "b) La situación a la mayor brevedad posible.",
+        "b) La situaciÃ³n a la mayor brevedad posible.",
         "c) Solo si fallece.",
         "d) Solo si lo ordena el juez."
       ],
-      "respuesta_correcta": "b) La situación a la mayor brevedad posible."
+      "respuesta_correcta": "b) La situaciÃ³n a la mayor brevedad posible."
     },
     {
-      "pregunta": "¿Qué principio ético del TREBEP protege el medio ambiente?",
+      "pregunta": "Â¿QuÃ© principio Ã©tico del TREBEP protege el medio ambiente?",
       "opciones": [
-        "a) Art. 53.7 (Protección patrimonio y medio ambiente).",
+        "a) Art. 53.7 (ProtecciÃ³n patrimonio y medio ambiente).",
         "b) Art. 52.",
         "c) Art. 54.1.",
         "d) No se menciona."
       ],
-      "respuesta_correcta": "a) Art. 53.7 (Protección patrimonio y medio ambiente)."
+      "respuesta_correcta": "a) Art. 53.7 (ProtecciÃ³n patrimonio y medio ambiente)."
     },
     {
-      "pregunta": "¿Qué deben hacer los mandos de la GC según el Código de Conducta?",
+      "pregunta": "Â¿QuÃ© deben hacer los mandos de la GC segÃºn el CÃ³digo de Conducta?",
       "opciones": [
         "a) Delegar todo.",
         "b) Ejercer el liderazgo con el ejemplo.",
@@ -763,89 +763,89 @@
       "respuesta_correcta": "b) Ejercer el liderazgo con el ejemplo."
     },
     {
-      "pregunta": "¿Qué relación deben tener las FCS con el Poder Judicial?",
+      "pregunta": "Â¿QuÃ© relaciÃ³n deben tener las FCS con el Poder Judicial?",
       "opciones": [
         "a) De competencia.",
-        "b) De colaboración y auxilio.",
+        "b) De colaboraciÃ³n y auxilio.",
         "c) De independencia total.",
-        "d) De sumisión absoluta sin ley."
+        "d) De sumisiÃ³n absoluta sin ley."
       ],
-      "respuesta_correcta": "b) De colaboración y auxilio."
+      "respuesta_correcta": "b) De colaboraciÃ³n y auxilio."
     },
     {
-      "pregunta": "¿Qué sanción merece el uso arbitrario o abusivo de la fuerza según la ONU?",
+      "pregunta": "Â¿QuÃ© sanciÃ³n merece el uso arbitrario o abusivo de la fuerza segÃºn la ONU?",
       "opciones": [
         "a) Ninguna.",
-        "b) Sanción penal o disciplinaria.",
+        "b) SanciÃ³n penal o disciplinaria.",
         "c) Traslado.",
-        "d) Felicitación."
+        "d) FelicitaciÃ³n."
       ],
-      "respuesta_correcta": "b) Sanción penal o disciplinaria."
+      "respuesta_correcta": "b) SanciÃ³n penal o disciplinaria."
     },
     {
-      "pregunta": "¿Qué establece el TREBEP sobre la igualdad entre hombres y mujeres?",
+      "pregunta": "Â¿QuÃ© establece el TREBEP sobre la igualdad entre hombres y mujeres?",
       "opciones": [
-        "a) Respetar el principio de igualdad y no discriminación.",
+        "a) Respetar el principio de igualdad y no discriminaciÃ³n.",
         "b) Es irrelevante.",
         "c) Solo en el sueldo.",
         "d) No se menciona."
       ],
-      "respuesta_correcta": "a) Respetar el principio de igualdad y no discriminación."
+      "respuesta_correcta": "a) Respetar el principio de igualdad y no discriminaciÃ³n."
     },
     {
-      "pregunta": "¿Qué deben hacer los guardias civiles en caso de catástrofe según el Código de Conducta?",
+      "pregunta": "Â¿QuÃ© deben hacer los guardias civiles en caso de catÃ¡strofe segÃºn el CÃ³digo de Conducta?",
       "opciones": [
         "a) Huir.",
         "b) Estar disponibles y actuar con iniciativa.",
-        "c) Esperar órdenes en casa.",
+        "c) Esperar Ã³rdenes en casa.",
         "d) Pedir la baja."
       ],
       "respuesta_correcta": "b) Estar disponibles y actuar con iniciativa."
     },
     {
-      "pregunta": "¿Es responsable un superior si sabía que sus subordinados usaban fuerza ilícita y no lo impidió?",
+      "pregunta": "Â¿Es responsable un superior si sabÃ­a que sus subordinados usaban fuerza ilÃ­cita y no lo impidiÃ³?",
       "opciones": [
         "a) No, la responsabilidad es personal.",
-        "b) Sí, es responsable.",
+        "b) SÃ­, es responsable.",
         "c) Solo si dio la orden escrita.",
         "d) Depende del resultado."
       ],
-      "respuesta_correcta": "b) Sí, es responsable."
+      "respuesta_correcta": "b) SÃ­, es responsable."
     },
     {
-      "pregunta": "¿Qué deben garantizar las FCS en las reuniones y manifestaciones?",
+      "pregunta": "Â¿QuÃ© deben garantizar las FCS en las reuniones y manifestaciones?",
       "opciones": [
         "a) Que no se celebren.",
         "b) La seguridad ciudadana y el ejercicio de derechos.",
-        "c) La detención de los líderes.",
+        "c) La detenciÃ³n de los lÃ­deres.",
         "d) El silencio."
       ],
       "respuesta_correcta": "b) La seguridad ciudadana y el ejercicio de derechos."
     },
     {
-      "pregunta": "¿Qué principio del Código Europeo exige que la policía rinda cuentas?",
+      "pregunta": "Â¿QuÃ© principio del CÃ³digo Europeo exige que la policÃ­a rinda cuentas?",
       "opciones": [
         "a) Responsabilidad y control.",
         "b) Secreto.",
         "c) Inmunidad.",
-        "d) Autonomía."
+        "d) AutonomÃ­a."
       ],
       "respuesta_correcta": "a) Responsabilidad y control."
     },
     {
-      "pregunta": "¿Qué valor del Código de Conducta GC implica fidelidad al Rey y a la Constitución?",
+      "pregunta": "Â¿QuÃ© valor del CÃ³digo de Conducta GC implica fidelidad al Rey y a la ConstituciÃ³n?",
       "opciones": [
         "a) Lealtad institucional.",
         "b) Valor.",
-        "c) Cortesía.",
+        "c) CortesÃ­a.",
         "d) Austeridad."
       ],
       "respuesta_correcta": "a) Lealtad institucional."
     },
     {
-      "pregunta": "¿Qué deben hacer los empleados públicos con la información confidencial?",
+      "pregunta": "Â¿QuÃ© deben hacer los empleados pÃºblicos con la informaciÃ³n confidencial?",
       "opciones": [
-        "a) Compartirla con compañeros.",
+        "a) Compartirla con compaÃ±eros.",
         "b) Guardar secreto y no usarla en beneficio propio.",
         "c) Venderla.",
         "d) Publicarla en redes."
@@ -853,17 +853,17 @@
       "respuesta_correcta": "b) Guardar secreto y no usarla en beneficio propio."
     },
     {
-      "pregunta": "¿Qué implica la 'Transparencia' en el Código de Conducta de la GC?",
+      "pregunta": "Â¿QuÃ© implica la 'Transparencia' en el CÃ³digo de Conducta de la GC?",
       "opciones": [
-        "a) Que todo es público.",
-        "b) Facilitar el acceso a la información pública conforme a la ley.",
+        "a) Que todo es pÃºblico.",
+        "b) Facilitar el acceso a la informaciÃ³n pÃºblica conforme a la ley.",
         "c) No tener secretos.",
         "d) Retransmitir operativos."
       ],
-      "respuesta_correcta": "b) Facilitar el acceso a la información pública conforme a la ley."
+      "respuesta_correcta": "b) Facilitar el acceso a la informaciÃ³n pÃºblica conforme a la ley."
     },
     {
-      "pregunta": "¿Qué deben hacer las FCS ante un delito flagrante?",
+      "pregunta": "Â¿QuÃ© deben hacer las FCS ante un delito flagrante?",
       "opciones": [
         "a) Intervenir inmediatamente.",
         "b) Esperar orden judicial.",
@@ -873,47 +873,47 @@
       "respuesta_correcta": "a) Intervenir inmediatamente."
     },
     {
-      "pregunta": "¿Qué se entiende por 'Cooperación' en el TREBEP?",
+      "pregunta": "Â¿QuÃ© se entiende por 'CooperaciÃ³n' en el TREBEP?",
       "opciones": [
-        "a) Colaborar lealmente con otras administraciones y compañeros.",
-        "b) Delatar a compañeros.",
+        "a) Colaborar lealmente con otras administraciones y compaÃ±eros.",
+        "b) Delatar a compaÃ±eros.",
         "c) Trabajar menos.",
         "d) Delegar tareas."
       ],
-      "respuesta_correcta": "a) Colaborar lealmente con otras administraciones y compañeros."
+      "respuesta_correcta": "a) Colaborar lealmente con otras administraciones y compaÃ±eros."
     },
     {
-      "pregunta": "¿Qué deben poseer los policías según el Código Europeo para aplicar la ética?",
+      "pregunta": "Â¿QuÃ© deben poseer los policÃ­as segÃºn el CÃ³digo Europeo para aplicar la Ã©tica?",
       "opciones": [
         "a) Discernimiento y juicio personal.",
         "b) Miedo.",
-        "c) Manuales técnicos.",
+        "c) Manuales tÃ©cnicos.",
         "d) Armas potentes."
       ],
       "respuesta_correcta": "a) Discernimiento y juicio personal."
     },
     {
-      "pregunta": "¿Qué principio rige la promoción profesional en la GC según el Código de Conducta?",
+      "pregunta": "Â¿QuÃ© principio rige la promociÃ³n profesional en la GC segÃºn el CÃ³digo de Conducta?",
       "opciones": [
         "a) Amiguismo.",
-        "b) Mérito y capacidad (implícito en excelencia/integridad).",
+        "b) MÃ©rito y capacidad (implÃ­cito en excelencia/integridad).",
         "c) Sorteo.",
-        "d) Antigüedad exclusivamente."
+        "d) AntigÃ¼edad exclusivamente."
       ],
-      "respuesta_correcta": "b) Mérito y capacidad (implícito en excelencia/integridad)."
+      "respuesta_correcta": "b) MÃ©rito y capacidad (implÃ­cito en excelencia/integridad)."
     },
     {
-      "pregunta": "¿Qué deben hacer los gobiernos sobre la formación en uso de la fuerza?",
+      "pregunta": "Â¿QuÃ© deben hacer los gobiernos sobre la formaciÃ³n en uso de la fuerza?",
       "opciones": [
-        "a) Prestar especial atención en la capacitación y ética.",
+        "a) Prestar especial atenciÃ³n en la capacitaciÃ³n y Ã©tica.",
         "b) Reducirla para ahorrar.",
         "c) Centrarse solo en tiro.",
         "d) Ignorarla."
       ],
-      "respuesta_correcta": "a) Prestar especial atención en la capacitación y ética."
+      "respuesta_correcta": "a) Prestar especial atenciÃ³n en la capacitaciÃ³n y Ã©tica."
     },
     {
-      "pregunta": "¿Qué deben evitar los empleados públicos en su jornada laboral según el TREBEP?",
+      "pregunta": "Â¿QuÃ© deben evitar los empleados pÃºblicos en su jornada laboral segÃºn el TREBEP?",
       "opciones": [
         "a) El absentismo injustificado.",
         "b) Trabajar.",
@@ -923,7 +923,7 @@
       "respuesta_correcta": "a) El absentismo injustificado."
     },
     {
-      "pregunta": "¿Qué actitud exige la LO 2/1986 hacia la comunidad?",
+      "pregunta": "Â¿QuÃ© actitud exige la LO 2/1986 hacia la comunidad?",
       "opciones": [
         "a) Correcta, evitando molestias innecesarias.",
         "b) Agresiva.",
@@ -933,27 +933,27 @@
       "respuesta_correcta": "a) Correcta, evitando molestias innecesarias."
     },
     {
-      "pregunta": "¿Qué principio del Código de Conducta GC fomenta la cohesión interna?",
+      "pregunta": "Â¿QuÃ© principio del CÃ³digo de Conducta GC fomenta la cohesiÃ³n interna?",
       "opciones": [
-        "a) El compañerismo.",
+        "a) El compaÃ±erismo.",
         "b) La rivalidad.",
         "c) El aislamiento.",
         "d) La competencia."
       ],
-      "respuesta_correcta": "a) El compañerismo."
+      "respuesta_correcta": "a) El compaÃ±erismo."
     },
     {
-      "pregunta": "¿Qué deben respetar los empleados públicos al ejercer la libertad de expresión?",
+      "pregunta": "Â¿QuÃ© deben respetar los empleados pÃºblicos al ejercer la libertad de expresiÃ³n?",
       "opciones": [
         "a) Nada.",
-        "b) Los deberes de discreción y reserva.",
-        "c) Solo la opinión del jefe.",
+        "b) Los deberes de discreciÃ³n y reserva.",
+        "c) Solo la opiniÃ³n del jefe.",
         "d) La censura previa."
       ],
-      "respuesta_correcta": "b) Los deberes de discreción y reserva."
+      "respuesta_correcta": "b) Los deberes de discreciÃ³n y reserva."
     },
     {
-      "pregunta": "Según el Código Europeo, la investigación interna de la policía debe ser:",
+      "pregunta": "SegÃºn el CÃ³digo Europeo, la investigaciÃ³n interna de la policÃ­a debe ser:",
       "opciones": [
         "a) Imparcial y efectiva.",
         "b) Oculta.",
@@ -963,77 +963,77 @@
       "respuesta_correcta": "a) Imparcial y efectiva."
     },
     {
-      "pregunta": "¿Qué deben reportar los funcionarios sobre el uso de armas de fuego según la ONU?",
+      "pregunta": "Â¿QuÃ© deben reportar los funcionarios sobre el uso de armas de fuego segÃºn la ONU?",
       "opciones": [
         "a) Un informe detallado a las autoridades competentes.",
         "b) Nada.",
-        "c) Solo el número de balas.",
+        "c) Solo el nÃºmero de balas.",
         "d) Una nota verbal."
       ],
       "respuesta_correcta": "a) Un informe detallado a las autoridades competentes."
     },
     {
-      "pregunta": "¿Qué principio del Código de Conducta GC exige no discriminar por razón de sexo, raza o religión?",
+      "pregunta": "Â¿QuÃ© principio del CÃ³digo de Conducta GC exige no discriminar por razÃ³n de sexo, raza o religiÃ³n?",
       "opciones": [
-        "a) Igualdad y no discriminación.",
+        "a) Igualdad y no discriminaciÃ³n.",
         "b) Neutralidad.",
         "c) Austeridad.",
         "d) Valor."
       ],
-      "respuesta_correcta": "a) Igualdad y no discriminación."
+      "respuesta_correcta": "a) Igualdad y no discriminaciÃ³n."
     },
     {
-      "pregunta": "¿Qué establece la LO 2/1986 sobre la identificación del agente?",
+      "pregunta": "Â¿QuÃ© establece la LO 2/1986 sobre la identificaciÃ³n del agente?",
       "opciones": [
-        "a) Debe acreditar su condición profesional siempre que ejerza sus funciones.",
+        "a) Debe acreditar su condiciÃ³n profesional siempre que ejerza sus funciones.",
         "b) No hace falta si va de uniforme.",
         "c) Solo ante el juez.",
         "d) Es secreto."
       ],
-      "respuesta_correcta": "a) Debe acreditar su condición profesional siempre que ejerza sus funciones."
+      "respuesta_correcta": "a) Debe acreditar su condiciÃ³n profesional siempre que ejerza sus funciones."
     },
     {
-      "pregunta": "¿Qué deben hacer los empleados públicos con los expedientes administrativos?",
+      "pregunta": "Â¿QuÃ© deben hacer los empleados pÃºblicos con los expedientes administrativos?",
       "opciones": [
         "a) Guardar constancia y transparencia.",
         "b) Perderlos.",
         "c) Modificarlos a su gusto.",
-        "d) Llevárselos a casa."
+        "d) LlevÃ¡rselos a casa."
       ],
       "respuesta_correcta": "a) Guardar constancia y transparencia."
     },
     {
-      "pregunta": "¿Qué debe promover el mando en la GC según el Código de Conducta?",
+      "pregunta": "Â¿QuÃ© debe promover el mando en la GC segÃºn el CÃ³digo de Conducta?",
       "opciones": [
-        "a) La desmotivación.",
-        "b) La motivación y la preocupación por las inquietudes de los subordinados.",
+        "a) La desmotivaciÃ³n.",
+        "b) La motivaciÃ³n y la preocupaciÃ³n por las inquietudes de los subordinados.",
         "c) El miedo.",
         "d) El silencio."
       ],
-      "respuesta_correcta": "b) La motivación y la preocupación por las inquietudes de los subordinados."
+      "respuesta_correcta": "b) La motivaciÃ³n y la preocupaciÃ³n por las inquietudes de los subordinados."
     },
     {
-      "pregunta": "¿Es lícito usar armas de fuego solo para proteger bienes materiales según la ONU?",
+      "pregunta": "Â¿Es lÃ­cito usar armas de fuego solo para proteger bienes materiales segÃºn la ONU?",
       "opciones": [
-        "a) Sí, si son valiosos.",
+        "a) SÃ­, si son valiosos.",
         "b) No, salvo que implique grave riesgo para la vida.",
-        "c) Sí, siempre.",
-        "d) Depende del dueño."
+        "c) SÃ­, siempre.",
+        "d) Depende del dueÃ±o."
       ],
       "respuesta_correcta": "b) No, salvo que implique grave riesgo para la vida."
     },
     {
-      "pregunta": "¿Qué implica el deber de 'Reserva' en el Código de Conducta de la GC?",
+      "pregunta": "Â¿QuÃ© implica el deber de 'Reserva' en el CÃ³digo de Conducta de la GC?",
       "opciones": [
-        "a) Ser tímido.",
-        "b) Guardar discreción sobre asuntos conocidos por razón del cargo.",
+        "a) Ser tÃ­mido.",
+        "b) Guardar discreciÃ³n sobre asuntos conocidos por razÃ³n del cargo.",
         "c) No saludar.",
         "d) Aislarse."
       ],
-      "respuesta_correcta": "b) Guardar discreción sobre asuntos conocidos por razón del cargo."
+      "respuesta_correcta": "b) Guardar discreciÃ³n sobre asuntos conocidos por razÃ³n del cargo."
     },
     {
-      "pregunta": "¿Qué deben hacer los empleados públicos respecto a los procedimientos administrativos?",
+      "pregunta": "Â¿QuÃ© deben hacer los empleados pÃºblicos respecto a los procedimientos administrativos?",
       "opciones": [
         "a) Agilizarlos y resolverlos dentro de plazo.",
         "b) Retrasarlos.",
@@ -1043,9 +1043,9 @@
       "respuesta_correcta": "a) Agilizarlos y resolverlos dentro de plazo."
     },
     {
-      "pregunta": "¿Qué principio de la LO 2/1986 exige actuar con la decisión necesaria?",
+      "pregunta": "Â¿QuÃ© principio de la LO 2/1986 exige actuar con la decisiÃ³n necesaria?",
       "opciones": [
-        "a) Dedicación profesional.",
+        "a) DedicaciÃ³n profesional.",
         "b) Responsabilidad.",
         "c) Relaciones con la comunidad (auxilio).",
         "d) Secreto profesional."
@@ -1053,4 +1053,4 @@
       "respuesta_correcta": "c) Relaciones con la comunidad (auxilio)."
     }
   ]
-}
+}]

@@ -1,339 +1,339 @@
-{
+[{
   "tema": "TEMA 5.- DERECHO ADMINISTRATIVO (100 PREGUNTAS)",
-  "descripcion": "Preguntas basadas en la Ley 39/2015 (Procedimiento Administrativo Común), Ley 40/2015 (Régimen Jurídico del Sector Público) y RD 95/2009 (Registros de apoyo a la Justicia).",
+  "descripcion": "Preguntas basadas en la Ley 39/2015 (Procedimiento Administrativo ComÃºn), Ley 40/2015 (RÃ©gimen JurÃ­dico del Sector PÃºblico) y RD 95/2009 (Registros de apoyo a la Justicia).",
   "preguntas": [
     {
-      "pregunta": "¿Cuál es el objeto de la Ley 39/2015 según su artículo 1?",
+      "pregunta": "Â¿CuÃ¡l es el objeto de la Ley 39/2015 segÃºn su artÃ­culo 1?",
       "opciones": [
-        "a) Regular el régimen jurídico del sector público exclusivamente.",
-        "b) Regular los requisitos de validez y eficacia de los actos administrativos y el procedimiento administrativo común.",
+        "a) Regular el rÃ©gimen jurÃ­dico del sector pÃºblico exclusivamente.",
+        "b) Regular los requisitos de validez y eficacia de los actos administrativos y el procedimiento administrativo comÃºn.",
         "c) Regular el sistema judicial y procesal.",
-        "d) Regular únicamente la potestad sancionadora."
+        "d) Regular Ãºnicamente la potestad sancionadora."
       ],
-      "respuesta_correcta": "b) Regular los requisitos de validez y eficacia de los actos administrativos y el procedimiento administrativo común."
+      "respuesta_correcta": "b) Regular los requisitos de validez y eficacia de los actos administrativos y el procedimiento administrativo comÃºn."
     },
     {
-      "pregunta": "¿Qué capacidad de obrar tienen los menores de edad ante las Administraciones Públicas según la Ley 39/2015?",
+      "pregunta": "Â¿QuÃ© capacidad de obrar tienen los menores de edad ante las Administraciones PÃºblicas segÃºn la Ley 39/2015?",
       "opciones": [
         "a) Ninguna, siempre necesitan representante.",
-        "b) Solo si están emancipados.",
-        "c) Para el ejercicio y defensa de aquellos derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin asistencia de quien ejerza la patria potestad.",
-        "d) Solo a partir de los 16 años."
+        "b) Solo si estÃ¡n emancipados.",
+        "c) Para el ejercicio y defensa de aquellos derechos e intereses cuya actuaciÃ³n estÃ© permitida por el ordenamiento jurÃ­dico sin asistencia de quien ejerza la patria potestad.",
+        "d) Solo a partir de los 16 aÃ±os."
       ],
-      "respuesta_correcta": "c) Para el ejercicio y defensa de aquellos derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin asistencia de quien ejerza la patria potestad."
+      "respuesta_correcta": "c) Para el ejercicio y defensa de aquellos derechos e intereses cuya actuaciÃ³n estÃ© permitida por el ordenamiento jurÃ­dico sin asistencia de quien ejerza la patria potestad."
     },
     {
-      "pregunta": "¿Cuándo se considera 'interesado' a quien no ha iniciado el procedimiento?",
+      "pregunta": "Â¿CuÃ¡ndo se considera 'interesado' a quien no ha iniciado el procedimiento?",
       "opciones": [
         "a) Nunca.",
-        "b) Cuando tenga derechos que puedan resultar afectados por la decisión que se adopte.",
-        "c) Solo si es funcionario público.",
-        "d) Solo si la Administración lo cita expresamente."
+        "b) Cuando tenga derechos que puedan resultar afectados por la decisiÃ³n que se adopte.",
+        "c) Solo si es funcionario pÃºblico.",
+        "d) Solo si la AdministraciÃ³n lo cita expresamente."
       ],
-      "respuesta_correcta": "b) Cuando tenga derechos que puedan resultar afectados por la decisión que se adopte."
+      "respuesta_correcta": "b) Cuando tenga derechos que puedan resultar afectados por la decisiÃ³n que se adopte."
     },
     {
-      "pregunta": "¿Cómo se acredita la representación 'apud acta' según la Ley 39/2015?",
+      "pregunta": "Â¿CÃ³mo se acredita la representaciÃ³n 'apud acta' segÃºn la Ley 39/2015?",
       "opciones": [
         "a) Solo ante notario.",
-        "b) Mediante comparecencia personal o comparecencia electrónica en la correspondiente sede electrónica.",
-        "c) Por teléfono.",
+        "b) Mediante comparecencia personal o comparecencia electrÃ³nica en la correspondiente sede electrÃ³nica.",
+        "c) Por telÃ©fono.",
         "d) Mediante correo ordinario."
       ],
-      "respuesta_correcta": "b) Mediante comparecencia personal o comparecencia electrónica en la correspondiente sede electrónica."
+      "respuesta_correcta": "b) Mediante comparecencia personal o comparecencia electrÃ³nica en la correspondiente sede electrÃ³nica."
     },
     {
-      "pregunta": "¿Qué registros de apoderamientos deben ser plenamente interoperables?",
+      "pregunta": "Â¿QuÃ© registros de apoderamientos deben ser plenamente interoperables?",
       "opciones": [
         "a) Solo los estatales.",
-        "b) Los registros electrónicos generales y particulares de todas y cada una de las Administraciones.",
-        "c) Solo los de las Comunidades Autónomas.",
+        "b) Los registros electrÃ³nicos generales y particulares de todas y cada una de las Administraciones.",
+        "c) Solo los de las Comunidades AutÃ³nomas.",
         "d) No es necesaria la interoperabilidad."
       ],
-      "respuesta_correcta": "b) Los registros electrónicos generales y particulares de todas y cada una de las Administraciones."
+      "respuesta_correcta": "b) Los registros electrÃ³nicos generales y particulares de todas y cada una de las Administraciones."
     },
     {
-      "pregunta": "¿Están obligadas las personas jurídicas a relacionarse electrónicamente con las Administraciones Públicas?",
+      "pregunta": "Â¿EstÃ¡n obligadas las personas jurÃ­dicas a relacionarse electrÃ³nicamente con las Administraciones PÃºblicas?",
       "opciones": [
         "a) No, es opcional.",
-        "b) Sí, están obligadas en todo caso.",
+        "b) SÃ­, estÃ¡n obligadas en todo caso.",
         "c) Solo si son grandes empresas.",
         "d) Solo para temas tributarios."
       ],
-      "respuesta_correcta": "b) Sí, están obligadas en todo caso."
+      "respuesta_correcta": "b) SÃ­, estÃ¡n obligadas en todo caso."
     },
     {
-      "pregunta": "¿Qué ocurre si una solicitud se presenta presencialmente por un sujeto obligado a la relación electrónica?",
+      "pregunta": "Â¿QuÃ© ocurre si una solicitud se presenta presencialmente por un sujeto obligado a la relaciÃ³n electrÃ³nica?",
       "opciones": [
         "a) Se tramita igualmente.",
-        "b) Se requerirá al interesado para que la subsane a través de su presentación electrónica.",
-        "c) Se archiva sin más trámite.",
-        "d) Se impone una multa automática."
+        "b) Se requerirÃ¡ al interesado para que la subsane a travÃ©s de su presentaciÃ³n electrÃ³nica.",
+        "c) Se archiva sin mÃ¡s trÃ¡mite.",
+        "d) Se impone una multa automÃ¡tica."
       ],
-      "respuesta_correcta": "b) Se requerirá al interesado para que la subsane a través de su presentación electrónica."
+      "respuesta_correcta": "b) Se requerirÃ¡ al interesado para que la subsane a travÃ©s de su presentaciÃ³n electrÃ³nica."
     },
     {
-      "pregunta": "¿Cómo se computan los plazos señalados por horas?",
+      "pregunta": "Â¿CÃ³mo se computan los plazos seÃ±alados por horas?",
       "opciones": [
         "a) De momento a momento.",
-        "b) Son hábiles todas las horas del día que formen parte de un día hábil.",
+        "b) Son hÃ¡biles todas las horas del dÃ­a que formen parte de un dÃ­a hÃ¡bil.",
         "c) Incluyen las horas nocturnas siempre.",
         "d) No existen plazos por horas."
       ],
-      "respuesta_correcta": "b) Son hábiles todas las horas del día que formen parte de un día hábil."
+      "respuesta_correcta": "b) Son hÃ¡biles todas las horas del dÃ­a que formen parte de un dÃ­a hÃ¡bil."
     },
     {
-      "pregunta": "¿Qué días se excluyen del cómputo de plazos señalados por días hábiles?",
+      "pregunta": "Â¿QuÃ© dÃ­as se excluyen del cÃ³mputo de plazos seÃ±alados por dÃ­as hÃ¡biles?",
       "opciones": [
         "a) Solo los domingos.",
         "b) Los domingos y festivos.",
-        "c) Los sábados, los domingos y los declarados festivos.",
+        "c) Los sÃ¡bados, los domingos y los declarados festivos.",
         "d) Solo los festivos nacionales."
       ],
-      "respuesta_correcta": "c) Los sábados, los domingos y los declarados festivos."
+      "respuesta_correcta": "c) Los sÃ¡bados, los domingos y los declarados festivos."
     },
     {
-      "pregunta": "¿Cuándo concluye un plazo fijado en meses si en el mes de vencimiento no hubiera día equivalente?",
+      "pregunta": "Â¿CuÃ¡ndo concluye un plazo fijado en meses si en el mes de vencimiento no hubiera dÃ­a equivalente?",
       "opciones": [
-        "a) El primer día del mes siguiente.",
-        "b) Se entiende que el plazo expira el último día del mes.",
-        "c) El día 30 de ese mes.",
+        "a) El primer dÃ­a del mes siguiente.",
+        "b) Se entiende que el plazo expira el Ãºltimo dÃ­a del mes.",
+        "c) El dÃ­a 30 de ese mes.",
         "d) Se anula el plazo."
       ],
-      "respuesta_correcta": "b) Se entiende que el plazo expira el último día del mes."
+      "respuesta_correcta": "b) Se entiende que el plazo expira el Ãºltimo dÃ­a del mes."
     },
     {
-      "pregunta": "¿Qué actos administrativos son nulos de pleno derecho según el artículo 47 de la Ley 39/2015?",
+      "pregunta": "Â¿QuÃ© actos administrativos son nulos de pleno derecho segÃºn el artÃ­culo 47 de la Ley 39/2015?",
       "opciones": [
         "a) Los que tengan un defecto de forma no invalidante.",
-        "b) Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+        "b) Los dictados por Ã³rgano manifiestamente incompetente por razÃ³n de la materia o del territorio.",
         "c) Los realizados fuera de plazo.",
-        "d) Los que carezcan de motivación suficiente."
+        "d) Los que carezcan de motivaciÃ³n suficiente."
       ],
-      "respuesta_correcta": "b) Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio."
+      "respuesta_correcta": "b) Los dictados por Ã³rgano manifiestamente incompetente por razÃ³n de la materia o del territorio."
     },
     {
-      "pregunta": "¿Qué determina la anulabilidad de un acto administrativo?",
+      "pregunta": "Â¿QuÃ© determina la anulabilidad de un acto administrativo?",
       "opciones": [
-        "a) Cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.",
-        "b) Solo la infracción penal.",
-        "c) Solo la falta de crédito presupuestario.",
+        "a) Cualquier infracciÃ³n del ordenamiento jurÃ­dico, incluso la desviaciÃ³n de poder.",
+        "b) Solo la infracciÃ³n penal.",
+        "c) Solo la falta de crÃ©dito presupuestario.",
         "d) Solo la incompetencia territorial."
       ],
-      "respuesta_correcta": "a) Cualquier infracción del ordenamiento jurídico, incluso la desviación de poder."
+      "respuesta_correcta": "a) Cualquier infracciÃ³n del ordenamiento jurÃ­dico, incluso la desviaciÃ³n de poder."
     },
     {
-      "pregunta": "¿Qué es la 'conversión de actos viciados'?",
+      "pregunta": "Â¿QuÃ© es la 'conversiÃ³n de actos viciados'?",
       "opciones": [
         "a) Arreglar un acto nulo.",
-        "b) Los actos nulos o anulables que contengan los elementos constitutivos de otro distinto producirán los efectos de este.",
+        "b) Los actos nulos o anulables que contengan los elementos constitutivos de otro distinto producirÃ¡n los efectos de este.",
         "c) Volver a dictar el acto desde cero.",
         "d) No existe tal concepto."
       ],
-      "respuesta_correcta": "b) Los actos nulos o anulables que contengan los elementos constitutivos de otro distinto producirán los efectos de este."
+      "respuesta_correcta": "b) Los actos nulos o anulables que contengan los elementos constitutivos de otro distinto producirÃ¡n los efectos de este."
     },
     {
-      "pregunta": "¿Cuál es el plazo máximo para notificar la resolución de un recurso de alzada?",
+      "pregunta": "Â¿CuÃ¡l es el plazo mÃ¡ximo para notificar la resoluciÃ³n de un recurso de alzada?",
       "opciones": [
         "a) Un mes.",
         "b) Tres meses.",
         "c) Seis meses.",
-        "d) Diez días."
+        "d) Diez dÃ­as."
       ],
       "respuesta_correcta": "b) Tres meses."
     },
     {
-      "pregunta": "¿Ante quién se interpone el recurso de alzada?",
+      "pregunta": "Â¿Ante quiÃ©n se interpone el recurso de alzada?",
       "opciones": [
-        "a) Ante el órgano que dictó el acto o ante su superior jerárquico.",
-        "b) Exclusivamente ante el superior jerárquico.",
+        "a) Ante el Ã³rgano que dictÃ³ el acto o ante su superior jerÃ¡rquico.",
+        "b) Exclusivamente ante el superior jerÃ¡rquico.",
         "c) Ante los tribunales de justicia.",
         "d) Ante el Defensor del Pueblo."
       ],
-      "respuesta_correcta": "a) Ante el órgano que dictó el acto o ante su superior jerárquico."
+      "respuesta_correcta": "a) Ante el Ã³rgano que dictÃ³ el acto o ante su superior jerÃ¡rquico."
     },
     {
-      "pregunta": "¿Qué actos ponen fin a la vía administrativa?",
+      "pregunta": "Â¿QuÃ© actos ponen fin a la vÃ­a administrativa?",
       "opciones": [
         "a) Todos los actos administrativos.",
-        "b) Los actos de los miembros y órganos del Gobierno, entre otros.",
+        "b) Los actos de los miembros y Ã³rganos del Gobierno, entre otros.",
         "c) Solo los actos firmes.",
-        "d) Los actos de trámite no cualificados."
+        "d) Los actos de trÃ¡mite no cualificados."
       ],
-      "respuesta_correcta": "b) Los actos de los miembros y órganos del Gobierno, entre otros."
+      "respuesta_correcta": "b) Los actos de los miembros y Ã³rganos del Gobierno, entre otros."
     },
     {
-      "pregunta": "¿Cuál es el plazo para interponer recurso de reposición contra actos expresos?",
+      "pregunta": "Â¿CuÃ¡l es el plazo para interponer recurso de reposiciÃ³n contra actos expresos?",
       "opciones": [
         "a) Un mes.",
         "b) Tres meses.",
-        "c) Diez días.",
-        "d) Cuatro años."
+        "c) Diez dÃ­as.",
+        "d) Cuatro aÃ±os."
       ],
       "respuesta_correcta": "a) Un mes."
     },
     {
-      "pregunta": "¿Cuál es el plazo para interponer recurso extraordinario de revisión por error de hecho?",
+      "pregunta": "Â¿CuÃ¡l es el plazo para interponer recurso extraordinario de revisiÃ³n por error de hecho?",
       "opciones": [
         "a) Tres meses.",
-        "b) Cuatro años siguientes a la fecha de la notificación de la resolución impugnada.",
-        "c) Un año.",
+        "b) Cuatro aÃ±os siguientes a la fecha de la notificaciÃ³n de la resoluciÃ³n impugnada.",
+        "c) Un aÃ±o.",
         "d) No hay plazo."
       ],
-      "respuesta_correcta": "b) Cuatro años siguientes a la fecha de la notificación de la resolución impugnada."
+      "respuesta_correcta": "b) Cuatro aÃ±os siguientes a la fecha de la notificaciÃ³n de la resoluciÃ³n impugnada."
     },
     {
-      "pregunta": "¿Qué efecto tiene la falta de resolución expresa de un recurso de alzada?",
+      "pregunta": "Â¿QuÃ© efecto tiene la falta de resoluciÃ³n expresa de un recurso de alzada?",
       "opciones": [
         "a) Estimatorio siempre.",
-        "b) Desestimatorio, salvo que el recurso se haya interpuesto contra la desestimación por silencio administrativo de una solicitud.",
+        "b) Desestimatorio, salvo que el recurso se haya interpuesto contra la desestimaciÃ³n por silencio administrativo de una solicitud.",
         "c) Caducidad del procedimiento.",
         "d) Nulidad del acto."
       ],
-      "respuesta_correcta": "b) Desestimatorio, salvo que el recurso se haya interpuesto contra la desestimación por silencio administrativo de una solicitud."
+      "respuesta_correcta": "b) Desestimatorio, salvo que el recurso se haya interpuesto contra la desestimaciÃ³n por silencio administrativo de una solicitud."
     },
     {
-      "pregunta": "¿Es obligatorio el uso de medios electrónicos en la tramitación del procedimiento administrativo?",
+      "pregunta": "Â¿Es obligatorio el uso de medios electrÃ³nicos en la tramitaciÃ³n del procedimiento administrativo?",
       "opciones": [
-        "a) No, es opcional para la Administración.",
-        "b) Sí, los actos de instrucción se realizarán de oficio y a través de medios electrónicos.",
+        "a) No, es opcional para la AdministraciÃ³n.",
+        "b) SÃ­, los actos de instrucciÃ³n se realizarÃ¡n de oficio y a travÃ©s de medios electrÃ³nicos.",
         "c) Solo si lo pide el interesado.",
-        "d) Solo en la Administración General del Estado."
+        "d) Solo en la AdministraciÃ³n General del Estado."
       ],
-      "respuesta_correcta": "b) Sí, los actos de instrucción se realizarán de oficio y a través de medios electrónicos."
+      "respuesta_correcta": "b) SÃ­, los actos de instrucciÃ³n se realizarÃ¡n de oficio y a travÃ©s de medios electrÃ³nicos."
     },
     {
-      "pregunta": "¿Qué requisitos debe cumplir una notificación electrónica para entenderse practicada?",
+      "pregunta": "Â¿QuÃ© requisitos debe cumplir una notificaciÃ³n electrÃ³nica para entenderse practicada?",
       "opciones": [
-        "a) Que se envíe un email.",
-        "b) Que se produzca el acceso a su contenido en la sede electrónica o dirección habilitada.",
-        "c) Que pasen 5 días.",
+        "a) Que se envÃ­e un email.",
+        "b) Que se produzca el acceso a su contenido en la sede electrÃ³nica o direcciÃ³n habilitada.",
+        "c) Que pasen 5 dÃ­as.",
         "d) Que se publique en el BOE."
       ],
-      "respuesta_correcta": "b) Que se produzca el acceso a su contenido en la sede electrónica o dirección habilitada."
+      "respuesta_correcta": "b) Que se produzca el acceso a su contenido en la sede electrÃ³nica o direcciÃ³n habilitada."
     },
     {
-      "pregunta": "¿Cuándo se entiende rechazada una notificación electrónica obligatoria si no se accede al contenido?",
+      "pregunta": "Â¿CuÃ¡ndo se entiende rechazada una notificaciÃ³n electrÃ³nica obligatoria si no se accede al contenido?",
       "opciones": [
-        "a) A los 5 días naturales.",
-        "b) A los 10 días naturales desde la puesta a disposición.",
-        "c) A los 20 días hábiles.",
+        "a) A los 5 dÃ­as naturales.",
+        "b) A los 10 dÃ­as naturales desde la puesta a disposiciÃ³n.",
+        "c) A los 20 dÃ­as hÃ¡biles.",
         "d) Nunca se entiende rechazada."
       ],
-      "respuesta_correcta": "b) A los 10 días naturales desde la puesta a disposición."
+      "respuesta_correcta": "b) A los 10 dÃ­as naturales desde la puesta a disposiciÃ³n."
     },
     {
-      "pregunta": "¿Qué es la 'tramitación simplificada' del procedimiento?",
+      "pregunta": "Â¿QuÃ© es la 'tramitaciÃ³n simplificada' del procedimiento?",
       "opciones": [
         "a) Un procedimiento oral.",
-        "b) Un procedimiento con plazo máximo de resolución de treinta días y trámites reducidos.",
+        "b) Un procedimiento con plazo mÃ¡ximo de resoluciÃ³n de treinta dÃ­as y trÃ¡mites reducidos.",
         "c) Un procedimiento sin audiencia.",
         "d) Un procedimiento solo para multas."
       ],
-      "respuesta_correcta": "b) Un procedimiento con plazo máximo de resolución de treinta días y trámites reducidos."
+      "respuesta_correcta": "b) Un procedimiento con plazo mÃ¡ximo de resoluciÃ³n de treinta dÃ­as y trÃ¡mites reducidos."
     },
     {
-      "pregunta": "¿Puede la Administración desistir de un procedimiento iniciado de oficio?",
+      "pregunta": "Â¿Puede la AdministraciÃ³n desistir de un procedimiento iniciado de oficio?",
       "opciones": [
         "a) No, nunca.",
-        "b) Sí, motivadamente y en los supuestos y con los requisitos previstos en las Leyes.",
-        "c) Sí, libremente.",
+        "b) SÃ­, motivadamente y en los supuestos y con los requisitos previstos en las Leyes.",
+        "c) SÃ­, libremente.",
         "d) Solo si hay silencio administrativo."
       ],
-      "respuesta_correcta": "b) Sí, motivadamente y en los supuestos y con los requisitos previstos en las Leyes."
+      "respuesta_correcta": "b) SÃ­, motivadamente y en los supuestos y con los requisitos previstos en las Leyes."
     },
     {
-      "pregunta": "¿Qué sanción tiene el defecto de forma en un acto administrativo?",
+      "pregunta": "Â¿QuÃ© sanciÃ³n tiene el defecto de forma en un acto administrativo?",
       "opciones": [
         "a) Nulidad de pleno derecho siempre.",
-        "b) Anulabilidad solo si el acto carece de requisitos indispensables para su fin o causa indefensión.",
-        "c) Ninguna sanción.",
+        "b) Anulabilidad solo si el acto carece de requisitos indispensables para su fin o causa indefensiÃ³n.",
+        "c) Ninguna sanciÃ³n.",
         "d) Multa al funcionario."
       ],
-      "respuesta_correcta": "b) Anulabilidad solo si el acto carece de requisitos indispensables para su fin o causa indefensión."
+      "respuesta_correcta": "b) Anulabilidad solo si el acto carece de requisitos indispensables para su fin o causa indefensiÃ³n."
     },
     {
-      "pregunta": "¿Qué plazo tiene la Administración para resolver un procedimiento de responsabilidad patrimonial?",
+      "pregunta": "Â¿QuÃ© plazo tiene la AdministraciÃ³n para resolver un procedimiento de responsabilidad patrimonial?",
       "opciones": [
         "a) 3 meses.",
         "b) 6 meses.",
-        "c) 1 año.",
+        "c) 1 aÃ±o.",
         "d) 18 meses."
       ],
       "respuesta_correcta": "b) 6 meses."
     },
     {
-      "pregunta": "¿En qué consiste la 'ejecución subsidiaria'?",
+      "pregunta": "Â¿En quÃ© consiste la 'ejecuciÃ³n subsidiaria'?",
       "opciones": [
         "a) En multar al obligado.",
-        "b) En que la Administración realiza el acto por sí o a través de otros a costa del obligado.",
+        "b) En que la AdministraciÃ³n realiza el acto por sÃ­ o a travÃ©s de otros a costa del obligado.",
         "c) En embargar bienes.",
-        "d) En obligar físicamente a la persona."
+        "d) En obligar fÃ­sicamente a la persona."
       ],
-      "respuesta_correcta": "b) En que la Administración realiza el acto por sí o a través de otros a costa del obligado."
+      "respuesta_correcta": "b) En que la AdministraciÃ³n realiza el acto por sÃ­ o a travÃ©s de otros a costa del obligado."
     },
     {
-      "pregunta": "¿Qué recurso cabe contra una disposición administrativa de carácter general (un reglamento)?",
+      "pregunta": "Â¿QuÃ© recurso cabe contra una disposiciÃ³n administrativa de carÃ¡cter general (un reglamento)?",
       "opciones": [
         "a) Recurso de alzada.",
-        "b) Recurso de reposición.",
-        "c) No cabe recurso en vía administrativa (solo judicial).",
-        "d) Recurso de revisión."
+        "b) Recurso de reposiciÃ³n.",
+        "c) No cabe recurso en vÃ­a administrativa (solo judicial).",
+        "d) Recurso de revisiÃ³n."
       ],
-      "respuesta_correcta": "c) No cabe recurso en vía administrativa (solo judicial)."
+      "respuesta_correcta": "c) No cabe recurso en vÃ­a administrativa (solo judicial)."
     },
     {
-      "pregunta": "Según la Ley 40/2015, ¿cuándo tienen los órganos administrativos la consideración de tales?",
+      "pregunta": "SegÃºn la Ley 40/2015, Â¿cuÃ¡ndo tienen los Ã³rganos administrativos la consideraciÃ³n de tales?",
       "opciones": [
         "a) Siempre.",
-        "b) Cuando se les atribuyan funciones que tengan efectos jurídicos frente a terceros o su actuación sea preceptiva.",
-        "c) Solo si tienen rango de Dirección General.",
+        "b) Cuando se les atribuyan funciones que tengan efectos jurÃ­dicos frente a terceros o su actuaciÃ³n sea preceptiva.",
+        "c) Solo si tienen rango de DirecciÃ³n General.",
         "d) Solo si dependen de un Ministro."
       ],
-      "respuesta_correcta": "b) Cuando se les atribuyan funciones que tengan efectos jurídicos frente a terceros o su actuación sea preceptiva."
+      "respuesta_correcta": "b) Cuando se les atribuyan funciones que tengan efectos jurÃ­dicos frente a terceros o su actuaciÃ³n sea preceptiva."
     },
     {
-      "pregunta": "¿Qué requisito es indispensable para la creación de un nuevo órgano administrativo?",
+      "pregunta": "Â¿QuÃ© requisito es indispensable para la creaciÃ³n de un nuevo Ã³rgano administrativo?",
       "opciones": [
-        "a) Que tenga nombre en inglés.",
-        "b) Comprobación de que no existe duplicidad con otro órgano existente.",
+        "a) Que tenga nombre en inglÃ©s.",
+        "b) ComprobaciÃ³n de que no existe duplicidad con otro Ã³rgano existente.",
         "c) Que lo apruebe el Parlamento.",
         "d) Que tenga sede propia."
       ],
-      "respuesta_correcta": "b) Comprobación de que no existe duplicidad con otro órgano existente."
+      "respuesta_correcta": "b) ComprobaciÃ³n de que no existe duplicidad con otro Ã³rgano existente."
     },
     {
-      "pregunta": "¿Es renunciable la competencia administrativa?",
+      "pregunta": "Â¿Es renunciable la competencia administrativa?",
       "opciones": [
-        "a) Sí, por acuerdo entre órganos.",
-        "b) No, es irrenunciable, salvo casos de delegación o avocación previstos en la ley.",
-        "c) Sí, si hay exceso de trabajo.",
-        "d) Sí, si no hay presupuesto."
+        "a) SÃ­, por acuerdo entre Ã³rganos.",
+        "b) No, es irrenunciable, salvo casos de delegaciÃ³n o avocaciÃ³n previstos en la ley.",
+        "c) SÃ­, si hay exceso de trabajo.",
+        "d) SÃ­, si no hay presupuesto."
       ],
-      "respuesta_correcta": "b) No, es irrenunciable, salvo casos de delegación o avocación previstos en la ley."
+      "respuesta_correcta": "b) No, es irrenunciable, salvo casos de delegaciÃ³n o avocaciÃ³n previstos en la ley."
     },
     {
-      "pregunta": "¿Qué supone la 'avocación' de competencias?",
+      "pregunta": "Â¿QuÃ© supone la 'avocaciÃ³n' de competencias?",
       "opciones": [
         "a) Delegar hacia abajo.",
-        "b) Que los órganos superiores atraigan para sí el conocimiento de un asunto cuya resolución corresponda a sus órganos dependientes.",
-        "c) Transferir la competencia a otra Administración.",
+        "b) Que los Ã³rganos superiores atraigan para sÃ­ el conocimiento de un asunto cuya resoluciÃ³n corresponda a sus Ã³rganos dependientes.",
+        "c) Transferir la competencia a otra AdministraciÃ³n.",
         "d) Renunciar a la competencia."
       ],
-      "respuesta_correcta": "b) Que los órganos superiores atraigan para sí el conocimiento de un asunto cuya resolución corresponda a sus órganos dependientes."
+      "respuesta_correcta": "b) Que los Ã³rganos superiores atraigan para sÃ­ el conocimiento de un asunto cuya resoluciÃ³n corresponda a sus Ã³rganos dependientes."
     },
     {
-      "pregunta": "¿En quién puede delegarse la firma de resoluciones?",
+      "pregunta": "Â¿En quiÃ©n puede delegarse la firma de resoluciones?",
       "opciones": [
         "a) En cualquier funcionario.",
-        "b) En los titulares de los órganos o unidades administrativas que dependan del delegante.",
+        "b) En los titulares de los Ã³rganos o unidades administrativas que dependan del delegante.",
         "c) En personal externo.",
         "d) No se puede delegar la firma."
       ],
-      "respuesta_correcta": "b) En los titulares de los órganos o unidades administrativas que dependan del delegante."
+      "respuesta_correcta": "b) En los titulares de los Ã³rganos o unidades administrativas que dependan del delegante."
     },
     {
-      "pregunta": "¿Qué quórum se requiere para la válida constitución de un órgano colegiado (Art. 17 Ley 40/2015)?",
+      "pregunta": "Â¿QuÃ© quÃ³rum se requiere para la vÃ¡lida constituciÃ³n de un Ã³rgano colegiado (Art. 17 Ley 40/2015)?",
       "opciones": [
         "a) Todos los miembros.",
         "b) Presidente, Secretario y la mitad, al menos, de sus miembros.",
@@ -343,17 +343,17 @@
       "respuesta_correcta": "b) Presidente, Secretario y la mitad, al menos, de sus miembros."
     },
     {
-      "pregunta": "¿Pueden los órganos colegiados celebrar sesiones a distancia?",
+      "pregunta": "Â¿Pueden los Ã³rganos colegiados celebrar sesiones a distancia?",
       "opciones": [
         "a) No, deben ser presenciales.",
-        "b) Sí, por medios electrónicos, audiovisuales o telefónicos que aseguren la identidad y comunicación en tiempo real.",
+        "b) SÃ­, por medios electrÃ³nicos, audiovisuales o telefÃ³nicos que aseguren la identidad y comunicaciÃ³n en tiempo real.",
         "c) Solo si hay unanimidad.",
         "d) Solo en caso de emergencia."
       ],
-      "respuesta_correcta": "b) Sí, por medios electrónicos, audiovisuales o telefónicos que aseguren la identidad y comunicación en tiempo real."
+      "respuesta_correcta": "b) SÃ­, por medios electrÃ³nicos, audiovisuales o telefÃ³nicos que aseguren la identidad y comunicaciÃ³n en tiempo real."
     },
     {
-      "pregunta": "¿Qué debe hacer una autoridad en quien concurra motivo de abstención?",
+      "pregunta": "Â¿QuÃ© debe hacer una autoridad en quien concurra motivo de abstenciÃ³n?",
       "opciones": [
         "a) Continuar si es imparcial.",
         "b) Abstenerse de intervenir y comunicarlo a su superior inmediato.",
@@ -363,249 +363,249 @@
       "respuesta_correcta": "b) Abstenerse de intervenir y comunicarlo a su superior inmediato."
     },
     {
-      "pregunta": "¿Cuáles son motivos de abstención según la Ley 40/2015?",
+      "pregunta": "Â¿CuÃ¡les son motivos de abstenciÃ³n segÃºn la Ley 40/2015?",
       "opciones": [
-        "a) Tener interés personal, parentesco (hasta 4º grado consanguinidad / 2º afinidad), amistad íntima o enemistad manifiesta.",
+        "a) Tener interÃ©s personal, parentesco (hasta 4Âº grado consanguinidad / 2Âº afinidad), amistad Ã­ntima o enemistad manifiesta.",
         "b) Ser vecino del interesado.",
-        "c) Haber trabajado en la misma empresa hace 10 años.",
+        "c) Haber trabajado en la misma empresa hace 10 aÃ±os.",
         "d) Tener la misma edad."
       ],
-      "respuesta_correcta": "a) Tener interés personal, parentesco (hasta 4º grado consanguinidad / 2º afinidad), amistad íntima o enemistad manifiesta."
+      "respuesta_correcta": "a) Tener interÃ©s personal, parentesco (hasta 4Âº grado consanguinidad / 2Âº afinidad), amistad Ã­ntima o enemistad manifiesta."
     },
     {
-      "pregunta": "¿Quiénes tienen derecho a ser indemnizados por la responsabilidad patrimonial de la Administración?",
+      "pregunta": "Â¿QuiÃ©nes tienen derecho a ser indemnizados por la responsabilidad patrimonial de la AdministraciÃ³n?",
       "opciones": [
-        "a) Solo los ciudadanos españoles.",
-        "b) Los particulares, de toda lesión que sufran en sus bienes y derechos, salvo fuerza mayor, consecuencia del funcionamiento de los servicios públicos.",
+        "a) Solo los ciudadanos espaÃ±oles.",
+        "b) Los particulares, de toda lesiÃ³n que sufran en sus bienes y derechos, salvo fuerza mayor, consecuencia del funcionamiento de los servicios pÃºblicos.",
         "c) Solo las empresas.",
-        "d) Nadie, la Administración es irresponsable."
+        "d) Nadie, la AdministraciÃ³n es irresponsable."
       ],
-      "respuesta_correcta": "b) Los particulares, de toda lesión que sufran en sus bienes y derechos, salvo fuerza mayor, consecuencia del funcionamiento de los servicios públicos."
+      "respuesta_correcta": "b) Los particulares, de toda lesiÃ³n que sufran en sus bienes y derechos, salvo fuerza mayor, consecuencia del funcionamiento de los servicios pÃºblicos."
     },
     {
-      "pregunta": "¿Qué plazo hay para reclamar la responsabilidad patrimonial?",
+      "pregunta": "Â¿QuÃ© plazo hay para reclamar la responsabilidad patrimonial?",
       "opciones": [
         "a) 6 meses.",
-        "b) 1 año desde que se produjo el hecho o se curaron las lesiones.",
-        "c) 4 años.",
-        "d) 5 años."
+        "b) 1 aÃ±o desde que se produjo el hecho o se curaron las lesiones.",
+        "c) 4 aÃ±os.",
+        "d) 5 aÃ±os."
       ],
-      "respuesta_correcta": "b) 1 año desde que se produjo el hecho o se curaron las lesiones."
+      "respuesta_correcta": "b) 1 aÃ±o desde que se produjo el hecho o se curaron las lesiones."
     },
     {
-      "pregunta": "¿Qué es la Sede Electrónica según la Ley 40/2015?",
+      "pregunta": "Â¿QuÃ© es la Sede ElectrÃ³nica segÃºn la Ley 40/2015?",
       "opciones": [
-        "a) Una oficina física con ordenadores.",
-        "b) Una dirección electrónica disponible para los ciudadanos cuya titularidad y gestión corresponde a una Administración Pública.",
-        "c) Un correo electrónico.",
+        "a) Una oficina fÃ­sica con ordenadores.",
+        "b) Una direcciÃ³n electrÃ³nica disponible para los ciudadanos cuya titularidad y gestiÃ³n corresponde a una AdministraciÃ³n PÃºblica.",
+        "c) Un correo electrÃ³nico.",
         "d) Una red social."
       ],
-      "respuesta_correcta": "b) Una dirección electrónica disponible para los ciudadanos cuya titularidad y gestión corresponde a una Administración Pública."
+      "respuesta_correcta": "b) Una direcciÃ³n electrÃ³nica disponible para los ciudadanos cuya titularidad y gestiÃ³n corresponde a una AdministraciÃ³n PÃºblica."
     },
     {
-      "pregunta": "¿Qué sistema de identificación deben admitir las Administraciones Públicas?",
+      "pregunta": "Â¿QuÃ© sistema de identificaciÃ³n deben admitir las Administraciones PÃºblicas?",
       "opciones": [
-        "a) Solo el DNI físico.",
-        "b) Sistemas de firma electrónica cualificada/avanzada, sello electrónico y clave concertada, entre otros.",
+        "a) Solo el DNI fÃ­sico.",
+        "b) Sistemas de firma electrÃ³nica cualificada/avanzada, sello electrÃ³nico y clave concertada, entre otros.",
         "c) Solo la huella dactilar.",
-        "d) El pasaporte únicamente."
+        "d) El pasaporte Ãºnicamente."
       ],
-      "respuesta_correcta": "b) Sistemas de firma electrónica cualificada/avanzada, sello electrónico y clave concertada, entre otros."
+      "respuesta_correcta": "b) Sistemas de firma electrÃ³nica cualificada/avanzada, sello electrÃ³nico y clave concertada, entre otros."
     },
     {
-      "pregunta": "¿Qué es el Archivo Electrónico Único?",
+      "pregunta": "Â¿QuÃ© es el Archivo ElectrÃ³nico Ãšnico?",
       "opciones": [
         "a) Un disco duro externo.",
-        "b) El archivo de los documentos electrónicos que correspondan a procedimientos finalizados.",
+        "b) El archivo de los documentos electrÃ³nicos que correspondan a procedimientos finalizados.",
         "c) La papelera de reciclaje.",
         "d) Un registro de entrada."
       ],
-      "respuesta_correcta": "b) El archivo de los documentos electrónicos que correspondan a procedimientos finalizados."
+      "respuesta_correcta": "b) El archivo de los documentos electrÃ³nicos que correspondan a procedimientos finalizados."
     },
     {
-      "pregunta": "¿Qué garantiza el Esquema Nacional de Interoperabilidad?",
+      "pregunta": "Â¿QuÃ© garantiza el Esquema Nacional de Interoperabilidad?",
       "opciones": [
         "a) Que todos usen el mismo software.",
-        "b) El conjunto de criterios y recomendaciones que permiten el intercambio de información entre las Administraciones.",
+        "b) El conjunto de criterios y recomendaciones que permiten el intercambio de informaciÃ³n entre las Administraciones.",
         "c) Que no se usen ordenadores.",
         "d) La compra de equipos."
       ],
-      "respuesta_correcta": "b) El conjunto de criterios y recomendaciones que permiten el intercambio de información entre las Administraciones."
+      "respuesta_correcta": "b) El conjunto de criterios y recomendaciones que permiten el intercambio de informaciÃ³n entre las Administraciones."
     },
     {
-      "pregunta": "¿Pueden las Administraciones intercambiar datos electrónicamente entre sí?",
+      "pregunta": "Â¿Pueden las Administraciones intercambiar datos electrÃ³nicamente entre sÃ­?",
       "opciones": [
-        "a) No, está prohibido.",
-        "b) Sí, deben relacionarse entre sí a través de medios electrónicos.",
+        "a) No, estÃ¡ prohibido.",
+        "b) SÃ­, deben relacionarse entre sÃ­ a travÃ©s de medios electrÃ³nicos.",
         "c) Solo por fax.",
-        "d) Solo con autorización judicial."
+        "d) Solo con autorizaciÃ³n judicial."
       ],
-      "respuesta_correcta": "b) Sí, deben relacionarse entre sí a través de medios electrónicos."
+      "respuesta_correcta": "b) SÃ­, deben relacionarse entre sÃ­ a travÃ©s de medios electrÃ³nicos."
     },
     {
-      "pregunta": "¿Qué registro se crea mediante el RD 95/2009?",
+      "pregunta": "Â¿QuÃ© registro se crea mediante el RD 95/2009?",
       "opciones": [
         "a) El Registro Civil.",
-        "b) El Sistema de registros administrativos de apoyo a la Administración de Justicia.",
+        "b) El Sistema de registros administrativos de apoyo a la AdministraciÃ³n de Justicia.",
         "c) El Registro de la Propiedad.",
         "d) El Registro Mercantil."
       ],
-      "respuesta_correcta": "b) El Sistema de registros administrativos de apoyo a la Administración de Justicia."
+      "respuesta_correcta": "b) El Sistema de registros administrativos de apoyo a la AdministraciÃ³n de Justicia."
     },
     {
-      "pregunta": "¿Qué registros integran el Sistema regulado por el RD 95/2009?",
+      "pregunta": "Â¿QuÃ© registros integran el Sistema regulado por el RD 95/2009?",
       "opciones": [
         "a) Solo el de Penados.",
-        "b) Penados, Víctimas de Violencia Doméstica, Medidas Cautelares, Rebeldes Civiles y Sentencias de Menores.",
+        "b) Penados, VÃ­ctimas de Violencia DomÃ©stica, Medidas Cautelares, Rebeldes Civiles y Sentencias de Menores.",
         "c) Solo el de Rebeldes.",
         "d) Ninguno de los anteriores."
       ],
-      "respuesta_correcta": "b) Penados, Víctimas de Violencia Doméstica, Medidas Cautelares, Rebeldes Civiles y Sentencias de Menores."
+      "respuesta_correcta": "b) Penados, VÃ­ctimas de Violencia DomÃ©stica, Medidas Cautelares, Rebeldes Civiles y Sentencias de Menores."
     },
     {
-      "pregunta": "¿Cuál es la finalidad del Registro Central de Penados?",
+      "pregunta": "Â¿CuÃ¡l es la finalidad del Registro Central de Penados?",
       "opciones": [
         "a) Publicar las sentencias en prensa.",
-        "b) La inscripción de las resoluciones firmes por la comisión de delitos o faltas (antiguas) que impongan penas o medidas de seguridad.",
+        "b) La inscripciÃ³n de las resoluciones firmes por la comisiÃ³n de delitos o faltas (antiguas) que impongan penas o medidas de seguridad.",
         "c) Vigilar a los presos.",
         "d) Cobrar multas."
       ],
-      "respuesta_correcta": "b) La inscripción de las resoluciones firmes por la comisión de delitos o faltas (antiguas) que impongan penas o medidas de seguridad."
+      "respuesta_correcta": "b) La inscripciÃ³n de las resoluciones firmes por la comisiÃ³n de delitos o faltas (antiguas) que impongan penas o medidas de seguridad."
     },
     {
-      "pregunta": "¿Quién es el encargado del Registro Central de Penados?",
+      "pregunta": "Â¿QuiÃ©n es el encargado del Registro Central de Penados?",
       "opciones": [
         "a) El Ministro del Interior.",
         "b) El Ministerio de Justicia.",
         "c) El Consejo General del Poder Judicial.",
-        "d) La Policía Nacional."
+        "d) La PolicÃ­a Nacional."
       ],
       "respuesta_correcta": "b) El Ministerio de Justicia."
     },
     {
-      "pregunta": "¿Cuándo se cancelan los antecedentes penales?",
+      "pregunta": "Â¿CuÃ¡ndo se cancelan los antecedentes penales?",
       "opciones": [
         "a) Nunca.",
-        "b) De oficio o a instancia de parte, cuando se cumplan los requisitos del Código Penal (plazos sin delinquir tras extinguir pena).",
+        "b) De oficio o a instancia de parte, cuando se cumplan los requisitos del CÃ³digo Penal (plazos sin delinquir tras extinguir pena).",
         "c) Al morir el reo solamente.",
-        "d) A los 10 años siempre."
+        "d) A los 10 aÃ±os siempre."
       ],
-      "respuesta_correcta": "b) De oficio o a instancia de parte, cuando se cumplan los requisitos del Código Penal (plazos sin delinquir tras extinguir pena)."
+      "respuesta_correcta": "b) De oficio o a instancia de parte, cuando se cumplan los requisitos del CÃ³digo Penal (plazos sin delinquir tras extinguir pena)."
     },
     {
-      "pregunta": "¿Qué información contiene el Registro Central para la Protección de las Víctimas de Violencia Doméstica?",
+      "pregunta": "Â¿QuÃ© informaciÃ³n contiene el Registro Central para la ProtecciÃ³n de las VÃ­ctimas de Violencia DomÃ©stica?",
       "opciones": [
-        "a) Penas de tráfico.",
-        "b) Penas y medidas de seguridad, medidas cautelares y órdenes de protección dictadas en procedimientos de violencia doméstica o de género.",
+        "a) Penas de trÃ¡fico.",
+        "b) Penas y medidas de seguridad, medidas cautelares y Ã³rdenes de protecciÃ³n dictadas en procedimientos de violencia domÃ©stica o de gÃ©nero.",
         "c) Datos fiscales.",
         "d) Divorcios de mutuo acuerdo."
       ],
-      "respuesta_correcta": "b) Penas y medidas de seguridad, medidas cautelares y órdenes de protección dictadas en procedimientos de violencia doméstica o de género."
+      "respuesta_correcta": "b) Penas y medidas de seguridad, medidas cautelares y Ã³rdenes de protecciÃ³n dictadas en procedimientos de violencia domÃ©stica o de gÃ©nero."
     },
     {
-      "pregunta": "¿Quién tiene acceso a los datos del Sistema de Registros de apoyo a la Justicia?",
+      "pregunta": "Â¿QuiÃ©n tiene acceso a los datos del Sistema de Registros de apoyo a la Justicia?",
       "opciones": [
-        "a) Todo el mundo, son públicos.",
-        "b) Jueces, Tribunales, Ministerio Fiscal, Policía Judicial y autoridades habilitadas, en el ejercicio de sus funciones.",
+        "a) Todo el mundo, son pÃºblicos.",
+        "b) Jueces, Tribunales, Ministerio Fiscal, PolicÃ­a Judicial y autoridades habilitadas, en el ejercicio de sus funciones.",
         "c) Solo los jueces.",
-        "d) Solo la policía."
+        "d) Solo la policÃ­a."
       ],
-      "respuesta_correcta": "b) Jueces, Tribunales, Ministerio Fiscal, Policía Judicial y autoridades habilitadas, en el ejercicio de sus funciones."
+      "respuesta_correcta": "b) Jueces, Tribunales, Ministerio Fiscal, PolicÃ­a Judicial y autoridades habilitadas, en el ejercicio de sus funciones."
     },
     {
-      "pregunta": "¿Qué se inscribe en el Registro Central de Medidas Cautelares, Requisitorias y Sentencias no Firmes?",
+      "pregunta": "Â¿QuÃ© se inscribe en el Registro Central de Medidas Cautelares, Requisitorias y Sentencias no Firmes?",
       "opciones": [
         "a) Las sentencias firmes.",
-        "b) Las órdenes de busca y captura, prisión provisional, libertad provisional, rebeldía y sentencias pendientes de firmeza.",
-        "c) Las multas de tráfico.",
+        "b) Las Ã³rdenes de busca y captura, prisiÃ³n provisional, libertad provisional, rebeldÃ­a y sentencias pendientes de firmeza.",
+        "c) Las multas de trÃ¡fico.",
         "d) Los embargos civiles."
       ],
-      "respuesta_correcta": "b) Las órdenes de busca y captura, prisión provisional, libertad provisional, rebeldía y sentencias pendientes de firmeza."
+      "respuesta_correcta": "b) Las Ã³rdenes de busca y captura, prisiÃ³n provisional, libertad provisional, rebeldÃ­a y sentencias pendientes de firmeza."
     },
     {
-      "pregunta": "¿Qué es el SIRAJ?",
+      "pregunta": "Â¿QuÃ© es el SIRAJ?",
       "opciones": [
         "a) Un sindicato.",
-        "b) El Sistema de Registros Administrativos de Apoyo a la Administración de Justicia.",
+        "b) El Sistema de Registros Administrativos de Apoyo a la AdministraciÃ³n de Justicia.",
         "c) Una ley.",
         "d) Un juez."
       ],
-      "respuesta_correcta": "b) El Sistema de Registros Administrativos de Apoyo a la Administración de Justicia."
+      "respuesta_correcta": "b) El Sistema de Registros Administrativos de Apoyo a la AdministraciÃ³n de Justicia."
     },
     {
-      "pregunta": "¿Se cancelan automáticamente las medidas cautelares inscritas?",
+      "pregunta": "Â¿Se cancelan automÃ¡ticamente las medidas cautelares inscritas?",
       "opciones": [
-        "a) Sí, al mes.",
-        "b) No, deben cancelarse cuando el órgano judicial acuerde su levantamiento o finalice el procedimiento.",
+        "a) SÃ­, al mes.",
+        "b) No, deben cancelarse cuando el Ã³rgano judicial acuerde su levantamiento o finalice el procedimiento.",
         "c) No, son perpetuas.",
-        "d) Sí, al año."
+        "d) SÃ­, al aÃ±o."
       ],
-      "respuesta_correcta": "b) No, deben cancelarse cuando el órgano judicial acuerde su levantamiento o finalice el procedimiento."
+      "respuesta_correcta": "b) No, deben cancelarse cuando el Ã³rgano judicial acuerde su levantamiento o finalice el procedimiento."
     },
     {
-      "pregunta": "¿Qué derecho tiene el ciudadano respecto a sus datos en estos registros?",
+      "pregunta": "Â¿QuÃ© derecho tiene el ciudadano respecto a sus datos en estos registros?",
       "opciones": [
         "a) A borrarlos cuando quiera.",
-        "b) A obtener certificación de sus propios datos y solicitar la rectificación o cancelación si procede.",
+        "b) A obtener certificaciÃ³n de sus propios datos y solicitar la rectificaciÃ³n o cancelaciÃ³n si procede.",
         "c) A ver los datos de sus vecinos.",
         "d) Ninguno."
       ],
-      "respuesta_correcta": "b) A obtener certificación de sus propios datos y solicitar la rectificación o cancelación si procede."
+      "respuesta_correcta": "b) A obtener certificaciÃ³n de sus propios datos y solicitar la rectificaciÃ³n o cancelaciÃ³n si procede."
     },
     {
-      "pregunta": "¿Puede un tercero solicitar certificado de antecedentes penales de otra persona?",
+      "pregunta": "Â¿Puede un tercero solicitar certificado de antecedentes penales de otra persona?",
       "opciones": [
-        "a) Sí, libremente.",
-        "b) Solo si acredita la representación del titular.",
+        "a) SÃ­, libremente.",
+        "b) Solo si acredita la representaciÃ³n del titular.",
         "c) Solo si es familiar.",
         "d) No, nunca."
       ],
-      "respuesta_correcta": "b) Solo si acredita la representación del titular."
+      "respuesta_correcta": "b) Solo si acredita la representaciÃ³n del titular."
     },
     {
-      "pregunta": "¿Qué ocurre si un documento electrónico contiene código malicioso?",
+      "pregunta": "Â¿QuÃ© ocurre si un documento electrÃ³nico contiene cÃ³digo malicioso?",
       "opciones": [
         "a) Se acepta igual.",
-        "b) Se considerará no presentado a efectos de cumplimiento de plazos, suspendiéndose el trámite y requiriendo subsanación.",
+        "b) Se considerarÃ¡ no presentado a efectos de cumplimiento de plazos, suspendiÃ©ndose el trÃ¡mite y requiriendo subsanaciÃ³n.",
         "c) Se borra el archivo.",
-        "d) Se denuncia a la policía."
+        "d) Se denuncia a la policÃ­a."
       ],
-      "respuesta_correcta": "b) Se considerará no presentado a efectos de cumplimiento de plazos, suspendiéndose el trámite y requiriendo subsanación."
+      "respuesta_correcta": "b) Se considerarÃ¡ no presentado a efectos de cumplimiento de plazos, suspendiÃ©ndose el trÃ¡mite y requiriendo subsanaciÃ³n."
     },
     {
-      "pregunta": "¿Qué es la 'copia auténtica'?",
+      "pregunta": "Â¿QuÃ© es la 'copia autÃ©ntica'?",
       "opciones": [
         "a) Una fotocopia.",
-        "b) Una copia realizada por la Administración que tiene la misma validez y eficacia que el documento original.",
+        "b) Una copia realizada por la AdministraciÃ³n que tiene la misma validez y eficacia que el documento original.",
         "c) Un original.",
         "d) Una copia notarial."
       ],
-      "respuesta_correcta": "b) Una copia realizada por la Administración que tiene la misma validez y eficacia que el documento original."
+      "respuesta_correcta": "b) Una copia realizada por la AdministraciÃ³n que tiene la misma validez y eficacia que el documento original."
     },
     {
-      "pregunta": "¿Qué diferencia hay entre nulidad y anulabilidad respecto a la subsanación?",
+      "pregunta": "Â¿QuÃ© diferencia hay entre nulidad y anulabilidad respecto a la subsanaciÃ³n?",
       "opciones": [
         "a) No hay diferencia.",
-        "b) La nulidad no se puede convalidar, la anulabilidad sí (por el paso del tiempo o subsanación).",
-        "c) La anulabilidad es más grave.",
+        "b) La nulidad no se puede convalidar, la anulabilidad sÃ­ (por el paso del tiempo o subsanaciÃ³n).",
+        "c) La anulabilidad es mÃ¡s grave.",
         "d) La nulidad prescribe antes."
       ],
-      "respuesta_correcta": "b) La nulidad no se puede convalidar, la anulabilidad sí (por el paso del tiempo o subsanación)."
+      "respuesta_correcta": "b) La nulidad no se puede convalidar, la anulabilidad sÃ­ (por el paso del tiempo o subsanaciÃ³n)."
     },
     {
-      "pregunta": "¿Puede la Administración rectificar errores materiales en sus actos?",
+      "pregunta": "Â¿Puede la AdministraciÃ³n rectificar errores materiales en sus actos?",
       "opciones": [
         "a) No, debe ir al juez.",
-        "b) Sí, en cualquier momento, de oficio o a instancia de los interesados (errores materiales, de hecho o aritméticos).",
+        "b) SÃ­, en cualquier momento, de oficio o a instancia de los interesados (errores materiales, de hecho o aritmÃ©ticos).",
         "c) Solo en el plazo de un mes.",
         "d) Solo si son errores graves."
       ],
-      "respuesta_correcta": "b) Sí, en cualquier momento, de oficio o a instancia de los interesados (errores materiales, de hecho o aritméticos)."
+      "respuesta_correcta": "b) SÃ­, en cualquier momento, de oficio o a instancia de los interesados (errores materiales, de hecho o aritmÃ©ticos)."
     },
     {
-      "pregunta": "¿Qué recurso cabe contra la desestimación de un recurso de reposición?",
+      "pregunta": "Â¿QuÃ© recurso cabe contra la desestimaciÃ³n de un recurso de reposiciÃ³n?",
       "opciones": [
-        "a) Otro de reposición.",
+        "a) Otro de reposiciÃ³n.",
         "b) Recurso contencioso-administrativo.",
         "c) Recurso de alzada.",
         "d) Recurso de queja."
@@ -613,67 +613,67 @@
       "respuesta_correcta": "b) Recurso contencioso-administrativo."
     },
     {
-      "pregunta": "¿Cuándo se puede interponer el recurso de alzada contra actos presuntos?",
+      "pregunta": "Â¿CuÃ¡ndo se puede interponer el recurso de alzada contra actos presuntos?",
       "opciones": [
         "a) En un mes.",
-        "b) En cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio administrativo.",
+        "b) En cualquier momento a partir del dÃ­a siguiente a aquel en que se produzcan los efectos del silencio administrativo.",
         "c) En tres meses.",
         "d) Nunca."
       ],
-      "respuesta_correcta": "b) En cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
+      "respuesta_correcta": "b) En cualquier momento a partir del dÃ­a siguiente a aquel en que se produzcan los efectos del silencio administrativo."
     },
     {
-      "pregunta": "¿Qué es la 'declaración responsable'?",
+      "pregunta": "Â¿QuÃ© es la 'declaraciÃ³n responsable'?",
       "opciones": [
         "a) Un juramento.",
-        "b) El documento en el que el interesado manifiesta, bajo su responsabilidad, que cumple los requisitos para un derecho o actividad y dispone de la documentación que lo acredita.",
-        "c) Una solicitud de perdón.",
+        "b) El documento en el que el interesado manifiesta, bajo su responsabilidad, que cumple los requisitos para un derecho o actividad y dispone de la documentaciÃ³n que lo acredita.",
+        "c) Una solicitud de perdÃ³n.",
         "d) Un formulario de impuestos."
       ],
-      "respuesta_correcta": "b) El documento en el que el interesado manifiesta, bajo su responsabilidad, que cumple los requisitos para un derecho o actividad y dispone de la documentación que lo acredita."
+      "respuesta_correcta": "b) El documento en el que el interesado manifiesta, bajo su responsabilidad, que cumple los requisitos para un derecho o actividad y dispone de la documentaciÃ³n que lo acredita."
     },
     {
-      "pregunta": "¿Qué sucede si no se notifica la resolución de un procedimiento sancionador en plazo?",
+      "pregunta": "Â¿QuÃ© sucede si no se notifica la resoluciÃ³n de un procedimiento sancionador en plazo?",
       "opciones": [
         "a) Silencio positivo.",
         "b) Caducidad del procedimiento.",
         "c) Silencio negativo.",
-        "d) Se amplía el plazo automáticamente."
+        "d) Se amplÃ­a el plazo automÃ¡ticamente."
       ],
       "respuesta_correcta": "b) Caducidad del procedimiento."
     },
     {
-      "pregunta": "¿Qué principio rige la potestad sancionadora respecto a la irretroactividad?",
+      "pregunta": "Â¿QuÃ© principio rige la potestad sancionadora respecto a la irretroactividad?",
       "opciones": [
         "a) Siempre es retroactiva.",
-        "b) Serán de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos, salvo que la posterior sea más favorable.",
+        "b) SerÃ¡n de aplicaciÃ³n las disposiciones sancionadoras vigentes en el momento de producirse los hechos, salvo que la posterior sea mÃ¡s favorable.",
         "c) Nunca es retroactiva.",
         "d) Es retroactiva si lo decide el juez."
       ],
-      "respuesta_correcta": "b) Serán de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos, salvo que la posterior sea más favorable."
+      "respuesta_correcta": "b) SerÃ¡n de aplicaciÃ³n las disposiciones sancionadoras vigentes en el momento de producirse los hechos, salvo que la posterior sea mÃ¡s favorable."
     },
     {
-      "pregunta": "¿Cuándo prescriben las infracciones muy graves si la ley no fija plazo?",
+      "pregunta": "Â¿CuÃ¡ndo prescriben las infracciones muy graves si la ley no fija plazo?",
       "opciones": [
-        "a) A los 2 años.",
-        "b) A los 3 años.",
-        "c) A los 5 años.",
+        "a) A los 2 aÃ±os.",
+        "b) A los 3 aÃ±os.",
+        "c) A los 5 aÃ±os.",
         "d) A los 6 meses."
       ],
-      "respuesta_correcta": "b) A los 3 años."
+      "respuesta_correcta": "b) A los 3 aÃ±os."
     },
     {
-      "pregunta": "¿Cuándo prescriben las sanciones leves si la ley no fija plazo?",
+      "pregunta": "Â¿CuÃ¡ndo prescriben las sanciones leves si la ley no fija plazo?",
       "opciones": [
         "a) A los 6 meses.",
-        "b) Al año.",
-        "c) A los 2 años.",
+        "b) Al aÃ±o.",
+        "c) A los 2 aÃ±os.",
         "d) A los 3 meses."
       ],
-      "respuesta_correcta": "b) Al año."
+      "respuesta_correcta": "b) Al aÃ±o."
     },
     {
-      "pregunta": "¿Qué es la 'motivación' de los actos administrativos?",
+      "pregunta": "Â¿QuÃ© es la 'motivaciÃ³n' de los actos administrativos?",
       "opciones": [
         "a) Poner fecha y firma.",
         "b) Expresar sucintamente los hechos y fundamentos de derecho.",
@@ -683,29 +683,29 @@
       "respuesta_correcta": "b) Expresar sucintamente los hechos y fundamentos de derecho."
     },
     {
-      "pregunta": "¿Deben motivarse los actos que limiten derechos subjetivos?",
+      "pregunta": "Â¿Deben motivarse los actos que limiten derechos subjetivos?",
       "opciones": [
         "a) No hace falta.",
-        "b) Sí, siempre.",
+        "b) SÃ­, siempre.",
         "c) Solo si son graves.",
         "d) Solo si lo pide el interesado."
       ],
-      "respuesta_correcta": "b) Sí, siempre."
+      "respuesta_correcta": "b) SÃ­, siempre."
     },
     {
-      "pregunta": "¿Qué es la 'encomienda de gestión'?",
+      "pregunta": "Â¿QuÃ© es la 'encomienda de gestiÃ³n'?",
       "opciones": [
         "a) Un contrato de obras.",
-        "b) La realización de actividades de carácter material o técnico de la competencia de un órgano por otro, por razones de eficacia.",
+        "b) La realizaciÃ³n de actividades de carÃ¡cter material o tÃ©cnico de la competencia de un Ã³rgano por otro, por razones de eficacia.",
         "c) Una transferencia de titularidad.",
-        "d) Una privatización."
+        "d) Una privatizaciÃ³n."
       ],
-      "respuesta_correcta": "b) La realización de actividades de carácter material o técnico de la competencia de un órgano por otro, por razones de eficacia."
+      "respuesta_correcta": "b) La realizaciÃ³n de actividades de carÃ¡cter material o tÃ©cnico de la competencia de un Ã³rgano por otro, por razones de eficacia."
     },
     {
-      "pregunta": "¿Supone la encomienda de gestión cesión de la titularidad de la competencia?",
+      "pregunta": "Â¿Supone la encomienda de gestiÃ³n cesiÃ³n de la titularidad de la competencia?",
       "opciones": [
-        "a) Sí.",
+        "a) SÃ­.",
         "b) No.",
         "c) A veces.",
         "d) Solo si es entre Ministerios."
@@ -713,87 +713,87 @@
       "respuesta_correcta": "b) No."
     },
     {
-      "pregunta": "¿Qué son los 'órganos consultivos'?",
+      "pregunta": "Â¿QuÃ© son los 'Ã³rganos consultivos'?",
       "opciones": [
         "a) Los que deciden.",
-        "b) Los encargados de prestar asistencia jurídica o técnica mediante informes o dictámenes.",
+        "b) Los encargados de prestar asistencia jurÃ­dica o tÃ©cnica mediante informes o dictÃ¡menes.",
         "c) Los sindicatos.",
         "d) Los ciudadanos."
       ],
-      "respuesta_correcta": "b) Los encargados de prestar asistencia jurídica o técnica mediante informes o dictámenes."
+      "respuesta_correcta": "b) Los encargados de prestar asistencia jurÃ­dica o tÃ©cnica mediante informes o dictÃ¡menes."
     },
     {
-      "pregunta": "¿Qué ocurre si el Secretario de un órgano colegiado no es miembro del mismo?",
+      "pregunta": "Â¿QuÃ© ocurre si el Secretario de un Ã³rgano colegiado no es miembro del mismo?",
       "opciones": [
         "a) No puede asistir.",
         "b) Tiene voz pero no voto.",
         "c) Tiene voto de calidad.",
-        "d) Dirige la reunión."
+        "d) Dirige la reuniÃ³n."
       ],
       "respuesta_correcta": "b) Tiene voz pero no voto."
     },
     {
-      "pregunta": "¿Cuándo se entiende aprobado el acta de una sesión de un órgano colegiado?",
+      "pregunta": "Â¿CuÃ¡ndo se entiende aprobado el acta de una sesiÃ³n de un Ã³rgano colegiado?",
       "opciones": [
-        "a) En la misma reunión o en la inmediata siguiente.",
+        "a) En la misma reuniÃ³n o en la inmediata siguiente.",
         "b) Al mes.",
-        "c) Al año.",
+        "c) Al aÃ±o.",
         "d) Nunca."
       ],
-      "respuesta_correcta": "a) En la misma reunión o en la inmediata siguiente."
+      "respuesta_correcta": "a) En la misma reuniÃ³n o en la inmediata siguiente."
     },
     {
-      "pregunta": "¿Es obligatorio publicar las instrucciones y órdenes de servicio?",
+      "pregunta": "Â¿Es obligatorio publicar las instrucciones y Ã³rdenes de servicio?",
       "opciones": [
         "a) Siempre.",
-        "b) Cuando una disposición específica lo establezca o se estime conveniente por razón de los destinatarios.",
+        "b) Cuando una disposiciÃ³n especÃ­fica lo establezca o se estime conveniente por razÃ³n de los destinatarios.",
         "c) Nunca.",
         "d) Solo si son secretas."
       ],
-      "respuesta_correcta": "b) Cuando una disposición específica lo establezca o se estime conveniente por razón de los destinatarios."
+      "respuesta_correcta": "b) Cuando una disposiciÃ³n especÃ­fica lo establezca o se estime conveniente por razÃ³n de los destinatarios."
     },
     {
-      "pregunta": "¿Qué principio rige la relación entre órganos administrativos de la misma competencia?",
+      "pregunta": "Â¿QuÃ© principio rige la relaciÃ³n entre Ã³rganos administrativos de la misma competencia?",
       "opciones": [
         "a) Competencia feroz.",
-        "b) Coordinación y colaboración.",
+        "b) CoordinaciÃ³n y colaboraciÃ³n.",
         "c) Independencia total.",
         "d) Secreto."
       ],
-      "respuesta_correcta": "b) Coordinación y colaboración."
+      "respuesta_correcta": "b) CoordinaciÃ³n y colaboraciÃ³n."
     },
     {
-      "pregunta": "¿Qué es la 'delegación de firma'?",
+      "pregunta": "Â¿QuÃ© es la 'delegaciÃ³n de firma'?",
       "opciones": [
         "a) Falsificar la firma.",
-        "b) Delegar la firma de resoluciones y actos en titulares de órganos dependientes, sin alterar la competencia.",
+        "b) Delegar la firma de resoluciones y actos en titulares de Ã³rganos dependientes, sin alterar la competencia.",
         "c) Delegar la competencia completa.",
         "d) Contratar a alguien para que firme."
       ],
-      "respuesta_correcta": "b) Delegar la firma de resoluciones y actos en titulares de órganos dependientes, sin alterar la competencia."
+      "respuesta_correcta": "b) Delegar la firma de resoluciones y actos en titulares de Ã³rganos dependientes, sin alterar la competencia."
     },
     {
-      "pregunta": "¿Qué es el 'Punto de Acceso General electrónico'?",
+      "pregunta": "Â¿QuÃ© es el 'Punto de Acceso General electrÃ³nico'?",
       "opciones": [
         "a) Un edificio.",
-        "b) Un portal de entrada para acceder a la información y servicios de la Administración.",
-        "c) Una contraseña.",
+        "b) Un portal de entrada para acceder a la informaciÃ³n y servicios de la AdministraciÃ³n.",
+        "c) Una contraseÃ±a.",
         "d) Un funcionario."
       ],
-      "respuesta_correcta": "b) Un portal de entrada para acceder a la información y servicios de la Administración."
+      "respuesta_correcta": "b) Un portal de entrada para acceder a la informaciÃ³n y servicios de la AdministraciÃ³n."
     },
     {
-      "pregunta": "¿Qué implica la 'interoperabilidad'?",
+      "pregunta": "Â¿QuÃ© implica la 'interoperabilidad'?",
       "opciones": [
-        "a) Que los sistemas de diferentes Administraciones puedan compartir datos e información.",
+        "a) Que los sistemas de diferentes Administraciones puedan compartir datos e informaciÃ³n.",
         "b) Que cada uno use su sistema.",
         "c) Que no se usen ordenadores.",
         "d) Que se pague por los datos."
       ],
-      "respuesta_correcta": "a) Que los sistemas de diferentes Administraciones puedan compartir datos e información."
+      "respuesta_correcta": "a) Que los sistemas de diferentes Administraciones puedan compartir datos e informaciÃ³n."
     },
     {
-      "pregunta": "¿Qué se inscribe en el Registro Central de Menores?",
+      "pregunta": "Â¿QuÃ© se inscribe en el Registro Central de Menores?",
       "opciones": [
         "a) Nacimientos.",
         "b) Sentencias firmes dictadas por responsabilidad penal de los menores.",
@@ -803,57 +803,57 @@
       "respuesta_correcta": "b) Sentencias firmes dictadas por responsabilidad penal de los menores."
     },
     {
-      "pregunta": "¿Qué medidas cautelares se inscriben en el Registro Central?",
+      "pregunta": "Â¿QuÃ© medidas cautelares se inscriben en el Registro Central?",
       "opciones": [
-        "a) Solo la prisión provisional.",
-        "b) Prisión provisional, libertad provisional, órdenes de alejamiento, prohibiciones de comunicación, etc.",
+        "a) Solo la prisiÃ³n provisional.",
+        "b) PrisiÃ³n provisional, libertad provisional, Ã³rdenes de alejamiento, prohibiciones de comunicaciÃ³n, etc.",
         "c) Multas de aparcamiento.",
         "d) Embargos preventivos de cuentas."
       ],
-      "respuesta_correcta": "b) Prisión provisional, libertad provisional, órdenes de alejamiento, prohibiciones de comunicación, etc."
+      "respuesta_correcta": "b) PrisiÃ³n provisional, libertad provisional, Ã³rdenes de alejamiento, prohibiciones de comunicaciÃ³n, etc."
     },
     {
-      "pregunta": "¿Qué es un 'rebelde civil' a efectos del Registro?",
+      "pregunta": "Â¿QuÃ© es un 'rebelde civil' a efectos del Registro?",
       "opciones": [
         "a) Alguien que protesta.",
-        "b) El demandado en un proceso civil cuyo paradero se desconoce y es declarado en rebeldía.",
+        "b) El demandado en un proceso civil cuyo paradero se desconoce y es declarado en rebeldÃ­a.",
         "c) Un delincuente fugado.",
         "d) Un insumiso."
       ],
-      "respuesta_correcta": "b) El demandado en un proceso civil cuyo paradero se desconoce y es declarado en rebeldía."
+      "respuesta_correcta": "b) El demandado en un proceso civil cuyo paradero se desconoce y es declarado en rebeldÃ­a."
     },
     {
-      "pregunta": "¿Qué se necesita para cancelar una inscripción de antecedentes penales?",
+      "pregunta": "Â¿QuÃ© se necesita para cancelar una inscripciÃ³n de antecedentes penales?",
       "opciones": [
         "a) Pagar una tasa.",
         "b) Haber extinguido la pena y no haber delinquido de nuevo en los plazos legales.",
-        "c) Pedir perdón.",
+        "c) Pedir perdÃ³n.",
         "d) Que pase un mes."
       ],
       "respuesta_correcta": "b) Haber extinguido la pena y no haber delinquido de nuevo en los plazos legales."
     },
     {
-      "pregunta": "¿Qué efecto tiene la cancelación de antecedentes penales?",
+      "pregunta": "Â¿QuÃ© efecto tiene la cancelaciÃ³n de antecedentes penales?",
       "opciones": [
         "a) Ninguno.",
-        "b) La anulación del dato a todos los efectos, salvo que la ley disponga otra cosa.",
+        "b) La anulaciÃ³n del dato a todos los efectos, salvo que la ley disponga otra cosa.",
         "c) Se guardan en otro fichero.",
         "d) Se publican."
       ],
-      "respuesta_correcta": "b) La anulación del dato a todos los efectos, salvo que la ley disponga otra cosa."
+      "respuesta_correcta": "b) La anulaciÃ³n del dato a todos los efectos, salvo que la ley disponga otra cosa."
     },
     {
-      "pregunta": "¿Puede el Ministerio Fiscal acceder al Registro Central de Penados?",
+      "pregunta": "Â¿Puede el Ministerio Fiscal acceder al Registro Central de Penados?",
       "opciones": [
         "a) No.",
-        "b) Sí, directamente.",
+        "b) SÃ­, directamente.",
         "c) Solo con orden del juez.",
         "d) Solo si paga."
       ],
-      "respuesta_correcta": "b) Sí, directamente."
+      "respuesta_correcta": "b) SÃ­, directamente."
     },
     {
-      "pregunta": "¿Qué ocurre si una Administración causa un daño por funcionamiento anormal de un servicio?",
+      "pregunta": "Â¿QuÃ© ocurre si una AdministraciÃ³n causa un daÃ±o por funcionamiento anormal de un servicio?",
       "opciones": [
         "a) Nada.",
         "b) Debe indemnizar al particular lesionado (Responsabilidad Patrimonial).",
@@ -863,7 +863,7 @@
       "respuesta_correcta": "b) Debe indemnizar al particular lesionado (Responsabilidad Patrimonial)."
     },
     {
-      "pregunta": "¿Qué se entiende por 'fuerza mayor' en la responsabilidad patrimonial?",
+      "pregunta": "Â¿QuÃ© se entiende por 'fuerza mayor' en la responsabilidad patrimonial?",
       "opciones": [
         "a) Lluvia fuerte.",
         "b) Hechos ajenos al servicio, imprevisibles o inevitables.",
@@ -873,9 +873,9 @@
       "respuesta_correcta": "b) Hechos ajenos al servicio, imprevisibles o inevitables."
     },
     {
-      "pregunta": "¿Cubre la responsabilidad patrimonial los daños derivados de hechos o circunstancias que no se hubiesen podido prever o evitar según el estado de la ciencia?",
+      "pregunta": "Â¿Cubre la responsabilidad patrimonial los daÃ±os derivados de hechos o circunstancias que no se hubiesen podido prever o evitar segÃºn el estado de la ciencia?",
       "opciones": [
-        "a) Sí.",
+        "a) SÃ­.",
         "b) No, no son indemnizables.",
         "c) Depende del caso.",
         "d) Solo si hay seguro."
@@ -883,107 +883,107 @@
       "respuesta_correcta": "b) No, no son indemnizables."
     },
     {
-      "pregunta": "¿Qué es la 'identificación electrónica'?",
+      "pregunta": "Â¿QuÃ© es la 'identificaciÃ³n electrÃ³nica'?",
       "opciones": [
         "a) Decir el nombre.",
-        "b) El proceso de utilizar datos de identificación de una persona en formato electrónico que representan su identidad.",
+        "b) El proceso de utilizar datos de identificaciÃ³n de una persona en formato electrÃ³nico que representan su identidad.",
         "c) Mandar un email.",
         "d) Tener una web."
       ],
-      "respuesta_correcta": "b) El proceso de utilizar datos de identificación de una persona en formato electrónico que representan su identidad."
+      "respuesta_correcta": "b) El proceso de utilizar datos de identificaciÃ³n de una persona en formato electrÃ³nico que representan su identidad."
     },
     {
-      "pregunta": "¿Qué valor tienen los documentos electrónicos firmados electrónicamente por funcionarios habilitados?",
+      "pregunta": "Â¿QuÃ© valor tienen los documentos electrÃ³nicos firmados electrÃ³nicamente por funcionarios habilitados?",
       "opciones": [
         "a) Ninguno.",
-        "b) El de copia auténtica.",
+        "b) El de copia autÃ©ntica.",
         "c) Informativo.",
         "d) Privado."
       ],
-      "respuesta_correcta": "b) El de copia auténtica."
+      "respuesta_correcta": "b) El de copia autÃ©ntica."
     },
     {
-      "pregunta": "¿Qué deben hacer las Administraciones para facilitar la identificación y firma de los interesados?",
+      "pregunta": "Â¿QuÃ© deben hacer las Administraciones para facilitar la identificaciÃ³n y firma de los interesados?",
       "opciones": [
         "a) Nada.",
-        "b) Asistirles en el uso de medios electrónicos.",
+        "b) Asistirles en el uso de medios electrÃ³nicos.",
         "c) Cobrarles.",
         "d) Prohibir el papel."
       ],
-      "respuesta_correcta": "b) Asistirles en el uso de medios electrónicos."
+      "respuesta_correcta": "b) Asistirles en el uso de medios electrÃ³nicos."
     },
     {
-      "pregunta": "¿Qué son las 'Oficinas de Asistencia en materia de Registros'?",
+      "pregunta": "Â¿QuÃ© son las 'Oficinas de Asistencia en materia de Registros'?",
       "opciones": [
         "a) Las antiguas oficinas de registro, que ahora digitalizan y asisten.",
         "b) Oficinas de empleo.",
         "c) Correos.",
-        "d) Gestorías."
+        "d) GestorÃ­as."
       ],
       "respuesta_correcta": "a) Las antiguas oficinas de registro, que ahora digitalizan y asisten."
     },
     {
-      "pregunta": "¿Qué es el 'expediente administrativo' en la Ley 39/2015?",
+      "pregunta": "Â¿QuÃ© es el 'expediente administrativo' en la Ley 39/2015?",
       "opciones": [
-        "a) Una carpeta de cartón.",
-        "b) El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa.",
+        "a) Una carpeta de cartÃ³n.",
+        "b) El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resoluciÃ³n administrativa.",
         "c) La sentencia.",
         "d) El recurso."
       ],
-      "respuesta_correcta": "b) El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa."
+      "respuesta_correcta": "b) El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resoluciÃ³n administrativa."
     },
     {
-      "pregunta": "¿Qué formato debe tener el expediente administrativo?",
+      "pregunta": "Â¿QuÃ© formato debe tener el expediente administrativo?",
       "opciones": [
         "a) Papel.",
-        "b) Electrónico.",
+        "b) ElectrÃ³nico.",
         "c) Mixto.",
         "d) Microfilm."
       ],
-      "respuesta_correcta": "b) Electrónico."
+      "respuesta_correcta": "b) ElectrÃ³nico."
     },
     {
-      "pregunta": "¿Qué sucede si un acto es dictado prescindiendo total y absolutamente del procedimiento legalmente establecido?",
+      "pregunta": "Â¿QuÃ© sucede si un acto es dictado prescindiendo total y absolutamente del procedimiento legalmente establecido?",
       "opciones": [
         "a) Es anulable.",
         "b) Es nulo de pleno derecho.",
-        "c) Es válido si el fondo es correcto.",
+        "c) Es vÃ¡lido si el fondo es correcto.",
         "d) Se subsana."
       ],
       "respuesta_correcta": "b) Es nulo de pleno derecho."
     },
     {
-      "pregunta": "¿Qué principio rige la actuación de la Administración General del Estado?",
+      "pregunta": "Â¿QuÃ© principio rige la actuaciÃ³n de la AdministraciÃ³n General del Estado?",
       "opciones": [
-        "a) El beneficio económico.",
-        "b) Eficacia, jerarquía, descentralización, desconcentración y coordinación.",
+        "a) El beneficio econÃ³mico.",
+        "b) Eficacia, jerarquÃ­a, descentralizaciÃ³n, desconcentraciÃ³n y coordinaciÃ³n.",
         "c) La lentitud.",
         "d) La opacidad."
       ],
-      "respuesta_correcta": "b) Eficacia, jerarquía, descentralización, desconcentración y coordinación."
+      "respuesta_correcta": "b) Eficacia, jerarquÃ­a, descentralizaciÃ³n, desconcentraciÃ³n y coordinaciÃ³n."
     },
     {
-      "pregunta": "¿Qué es un órgano jerárquicamente superior?",
+      "pregunta": "Â¿QuÃ© es un Ã³rgano jerÃ¡rquicamente superior?",
       "opciones": [
         "a) El que manda.",
         "b) El que dirige, controla e instruye al inferior.",
-        "c) El más antiguo.",
-        "d) El que gana más."
+        "c) El mÃ¡s antiguo.",
+        "d) El que gana mÃ¡s."
       ],
       "respuesta_correcta": "b) El que dirige, controla e instruye al inferior."
     },
     {
-      "pregunta": "¿Qué es la 'desconcentración'?",
+      "pregunta": "Â¿QuÃ© es la 'desconcentraciÃ³n'?",
       "opciones": [
-        "a) Perder la atención.",
-        "b) Transferir la titularidad y el ejercicio de competencias de un órgano superior a uno inferior de la misma Administración.",
+        "a) Perder la atenciÃ³n.",
+        "b) Transferir la titularidad y el ejercicio de competencias de un Ã³rgano superior a uno inferior de la misma AdministraciÃ³n.",
         "c) Delegar.",
         "d) Privatizar."
       ],
-      "respuesta_correcta": "b) Transferir la titularidad y el ejercicio de competencias de un órgano superior a uno inferior de la misma Administración."
+      "respuesta_correcta": "b) Transferir la titularidad y el ejercicio de competencias de un Ã³rgano superior a uno inferior de la misma AdministraciÃ³n."
     },
     {
-      "pregunta": "¿Qué implica el principio de 'lealtad institucional'?",
+      "pregunta": "Â¿QuÃ© implica el principio de 'lealtad institucional'?",
       "opciones": [
         "a) Obedecer siempre.",
         "b) Respetar el ejercicio de competencias de otras Administraciones y colaborar con ellas.",
@@ -993,57 +993,57 @@
       "respuesta_correcta": "b) Respetar el ejercicio de competencias de otras Administraciones y colaborar con ellas."
     },
     {
-      "pregunta": "¿Qué recurso cabe contra una resolución que agota la vía administrativa?",
+      "pregunta": "Â¿QuÃ© recurso cabe contra una resoluciÃ³n que agota la vÃ­a administrativa?",
       "opciones": [
         "a) Alzada.",
-        "b) Potestativo de reposición o contencioso-administrativo.",
+        "b) Potestativo de reposiciÃ³n o contencioso-administrativo.",
         "c) Queja.",
         "d) Ninguno."
       ],
-      "respuesta_correcta": "b) Potestativo de reposición o contencioso-administrativo."
+      "respuesta_correcta": "b) Potestativo de reposiciÃ³n o contencioso-administrativo."
     },
     {
-      "pregunta": "¿Qué plazo hay para resolver el recurso de reposición?",
+      "pregunta": "Â¿QuÃ© plazo hay para resolver el recurso de reposiciÃ³n?",
       "opciones": [
         "a) 1 mes.",
         "b) 3 meses.",
         "c) 6 meses.",
-        "d) 10 días."
+        "d) 10 dÃ­as."
       ],
       "respuesta_correcta": "a) 1 mes."
     },
     {
-      "pregunta": "¿Quién puede solicitar la 'tramitación de urgencia'?",
+      "pregunta": "Â¿QuiÃ©n puede solicitar la 'tramitaciÃ³n de urgencia'?",
       "opciones": [
-        "a) El interesado o el órgano de oficio.",
+        "a) El interesado o el Ã³rgano de oficio.",
         "b) Solo el juez.",
         "c) Solo el Ministro.",
         "d) Nadie."
       ],
-      "respuesta_correcta": "a) El interesado o el órgano de oficio."
+      "respuesta_correcta": "a) El interesado o el Ã³rgano de oficio."
     },
     {
-      "pregunta": "¿Qué efecto tiene la tramitación de urgencia sobre los plazos?",
+      "pregunta": "Â¿QuÃ© efecto tiene la tramitaciÃ³n de urgencia sobre los plazos?",
       "opciones": [
         "a) Se duplican.",
-        "b) Se reducen a la mitad (salvo presentación de solicitudes y recursos).",
+        "b) Se reducen a la mitad (salvo presentaciÃ³n de solicitudes y recursos).",
         "c) Se eliminan.",
         "d) No afecta."
       ],
-      "respuesta_correcta": "b) Se reducen a la mitad (salvo presentación de solicitudes y recursos)."
+      "respuesta_correcta": "b) Se reducen a la mitad (salvo presentaciÃ³n de solicitudes y recursos)."
     },
     {
-      "pregunta": "¿Qué es el 'trámite de audiencia'?",
+      "pregunta": "Â¿QuÃ© es el 'trÃ¡mite de audiencia'?",
       "opciones": [
         "a) Un juicio.",
-        "b) La oportunidad del interesado de alegar y presentar documentos antes de la propuesta de resolución.",
-        "c) Escuchar música.",
+        "b) La oportunidad del interesado de alegar y presentar documentos antes de la propuesta de resoluciÃ³n.",
+        "c) Escuchar mÃºsica.",
         "d) Leer la sentencia."
       ],
-      "respuesta_correcta": "b) La oportunidad del interesado de alegar y presentar documentos antes de la propuesta de resolución."
+      "respuesta_correcta": "b) La oportunidad del interesado de alegar y presentar documentos antes de la propuesta de resoluciÃ³n."
     },
     {
-      "pregunta": "¿Cuándo se puede prescindir del trámite de audiencia?",
+      "pregunta": "Â¿CuÃ¡ndo se puede prescindir del trÃ¡mite de audiencia?",
       "opciones": [
         "a) Nunca.",
         "b) Cuando no figuren en el procedimiento ni sean tenidos en cuenta otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado.",
@@ -1053,37 +1053,37 @@
       "respuesta_correcta": "b) Cuando no figuren en el procedimiento ni sean tenidos en cuenta otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado."
     },
     {
-      "pregunta": "¿Qué es la 'información pública'?",
+      "pregunta": "Â¿QuÃ© es la 'informaciÃ³n pÃºblica'?",
       "opciones": [
         "a) Las noticias.",
-        "b) Un trámite para que cualquier persona pueda examinar el expediente y alegar.",
+        "b) Un trÃ¡mite para que cualquier persona pueda examinar el expediente y alegar.",
         "c) La publicidad institucional.",
         "d) El BOE."
       ],
-      "respuesta_correcta": "b) Un trámite para que cualquier persona pueda examinar el expediente y alegar."
+      "respuesta_correcta": "b) Un trÃ¡mite para que cualquier persona pueda examinar el expediente y alegar."
     },
     {
-      "pregunta": "¿Qué plazo mínimo debe tener la información pública?",
+      "pregunta": "Â¿QuÃ© plazo mÃ­nimo debe tener la informaciÃ³n pÃºblica?",
       "opciones": [
-        "a) 10 días.",
-        "b) 20 días.",
+        "a) 10 dÃ­as.",
+        "b) 20 dÃ­as.",
         "c) 1 mes.",
-        "d) 15 días."
+        "d) 15 dÃ­as."
       ],
-      "respuesta_correcta": "b) 20 días."
+      "respuesta_correcta": "b) 20 dÃ­as."
     },
     {
-      "pregunta": "¿Qué debe contener la resolución de un procedimiento?",
+      "pregunta": "Â¿QuÃ© debe contener la resoluciÃ³n de un procedimiento?",
       "opciones": [
         "a) Solo el fallo.",
-        "b) La decisión, motivación (cuando proceda), recursos que caben, plazo y órgano ante el que interponerlos.",
+        "b) La decisiÃ³n, motivaciÃ³n (cuando proceda), recursos que caben, plazo y Ã³rgano ante el que interponerlos.",
         "c) Una firma ilegible.",
         "d) El nombre del Rey."
       ],
-      "respuesta_correcta": "b) La decisión, motivación (cuando proceda), recursos que caben, plazo y órgano ante el que interponerlos."
+      "respuesta_correcta": "b) La decisiÃ³n, motivaciÃ³n (cuando proceda), recursos que caben, plazo y Ã³rgano ante el que interponerlos."
     },
     {
-      "pregunta": "¿Qué es el 'desistimiento'?",
+      "pregunta": "Â¿QuÃ© es el 'desistimiento'?",
       "opciones": [
         "a) Renunciar al derecho.",
         "b) Abandonar la solicitud (el procedimiento), pero no el derecho.",
@@ -1093,94 +1093,94 @@
       "respuesta_correcta": "b) Abandonar la solicitud (el procedimiento), pero no el derecho."
     },
     {
-      "pregunta": "¿Qué es la 'renuncia'?",
+      "pregunta": "Â¿QuÃ© es la 'renuncia'?",
       "opciones": [
-        "a) Abandonar el derecho, si no está prohibido.",
+        "a) Abandonar el derecho, si no estÃ¡ prohibido.",
         "b) Abandonar el procedimiento.",
         "c) No pagar.",
         "d) Irse."
       ],
-      "respuesta_correcta": "a) Abandonar el derecho, si no está prohibido."
+      "respuesta_correcta": "a) Abandonar el derecho, si no estÃ¡ prohibido."
     },
     {
-      "pregunta": "¿Qué es la 'caducidad' del procedimiento?",
+      "pregunta": "Â¿QuÃ© es la 'caducidad' del procedimiento?",
       "opciones": [
-        "a) Que el procedimiento termina por paralización imputable al interesado (tras advertencia) o por transcurso del plazo máximo para resolver en procedimientos de oficio desfavorables.",
+        "a) Que el procedimiento termina por paralizaciÃ³n imputable al interesado (tras advertencia) o por transcurso del plazo mÃ¡ximo para resolver en procedimientos de oficio desfavorables.",
         "b) Que el acto es nulo.",
         "c) Que prescriben los delitos.",
         "d) Que se pudre el expediente."
       ],
-      "respuesta_correcta": "a) Que el procedimiento termina por paralización imputable al interesado (tras advertencia) o por transcurso del plazo máximo para resolver en procedimientos de oficio desfavorables."
+      "respuesta_correcta": "a) Que el procedimiento termina por paralizaciÃ³n imputable al interesado (tras advertencia) o por transcurso del plazo mÃ¡ximo para resolver en procedimientos de oficio desfavorables."
     },
     {
-      "pregunta": "¿Se puede suspender la ejecución de un acto recurrido?",
+      "pregunta": "Â¿Se puede suspender la ejecuciÃ³n de un acto recurrido?",
       "opciones": [
         "a) No, los actos son ejecutivos.",
-        "b) Sí, si la ejecución pudiera causar perjuicios de imposible o difícil reparación o si la impugnación se fundamenta en nulidad de pleno derecho (previa ponderación).",
-        "c) Sí, siempre que se pida.",
+        "b) SÃ­, si la ejecuciÃ³n pudiera causar perjuicios de imposible o difÃ­cil reparaciÃ³n o si la impugnaciÃ³n se fundamenta en nulidad de pleno derecho (previa ponderaciÃ³n).",
+        "c) SÃ­, siempre que se pida.",
         "d) Solo si hay fianza."
       ],
-      "respuesta_correcta": "b) Sí, si la ejecución pudiera causar perjuicios de imposible o difícil reparación o si la impugnación se fundamenta en nulidad de pleno derecho (previa ponderación)."
+      "respuesta_correcta": "b) SÃ­, si la ejecuciÃ³n pudiera causar perjuicios de imposible o difÃ­cil reparaciÃ³n o si la impugnaciÃ³n se fundamenta en nulidad de pleno derecho (previa ponderaciÃ³n)."
     },
     {
-      "pregunta": "¿Qué es el 'recurso de revisión de oficio'?",
+      "pregunta": "Â¿QuÃ© es el 'recurso de revisiÃ³n de oficio'?",
       "opciones": [
         "a) Un recurso judicial.",
-        "b) La potestad de la Administración para declarar la nulidad de sus propios actos firmes en casos de nulidad de pleno derecho.",
+        "b) La potestad de la AdministraciÃ³n para declarar la nulidad de sus propios actos firmes en casos de nulidad de pleno derecho.",
         "c) Revisar un examen.",
-        "d) Cambiar de opinión."
+        "d) Cambiar de opiniÃ³n."
       ],
-      "respuesta_correcta": "b) La potestad de la Administración para declarar la nulidad de sus propios actos firmes en casos de nulidad de pleno derecho."
+      "respuesta_correcta": "b) La potestad de la AdministraciÃ³n para declarar la nulidad de sus propios actos firmes en casos de nulidad de pleno derecho."
     },
     {
-      "pregunta": "¿Qué dictamen es preceptivo para la revisión de oficio?",
+      "pregunta": "Â¿QuÃ© dictamen es preceptivo para la revisiÃ³n de oficio?",
       "opciones": [
-        "a) El del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma (favorable).",
+        "a) El del Consejo de Estado u Ã³rgano consultivo equivalente de la Comunidad AutÃ³noma (favorable).",
         "b) El del Ministerio Fiscal.",
         "c) El del Defensor del Pueblo.",
         "d) Ninguno."
       ],
-      "respuesta_correcta": "a) El del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma (favorable)."
+      "respuesta_correcta": "a) El del Consejo de Estado u Ã³rgano consultivo equivalente de la Comunidad AutÃ³noma (favorable)."
     },
     {
-      "pregunta": "¿Qué es la 'declaración de lesividad'?",
+      "pregunta": "Â¿QuÃ© es la 'declaraciÃ³n de lesividad'?",
       "opciones": [
-        "a) Declarar que alguien está herido.",
-        "b) El paso previo necesario para que la Administración pueda impugnar ante la justicia un acto propio favorable para el interesado que sea anulable.",
+        "a) Declarar que alguien estÃ¡ herido.",
+        "b) El paso previo necesario para que la AdministraciÃ³n pueda impugnar ante la justicia un acto propio favorable para el interesado que sea anulable.",
         "c) Una multa.",
         "d) Un recurso."
       ],
-      "respuesta_correcta": "b) El paso previo necesario para que la Administración pueda impugnar ante la justicia un acto propio favorable para el interesado que sea anulable."
+      "respuesta_correcta": "b) El paso previo necesario para que la AdministraciÃ³n pueda impugnar ante la justicia un acto propio favorable para el interesado que sea anulable."
     },
     {
-      "pregunta": "¿Qué plazo hay para declarar la lesividad?",
+      "pregunta": "Â¿QuÃ© plazo hay para declarar la lesividad?",
       "opciones": [
-        "a) 4 años desde que se dictó el acto.",
-        "b) 1 año.",
+        "a) 4 aÃ±os desde que se dictÃ³ el acto.",
+        "b) 1 aÃ±o.",
         "c) 3 meses.",
         "d) No caduca."
       ],
-      "respuesta_correcta": "a) 4 años desde que se dictó el acto."
+      "respuesta_correcta": "a) 4 aÃ±os desde que se dictÃ³ el acto."
     },
     {
-      "pregunta": "¿Qué regula el Título Preliminar, Capítulo V de la Ley 40/2015?",
+      "pregunta": "Â¿QuÃ© regula el TÃ­tulo Preliminar, CapÃ­tulo V de la Ley 40/2015?",
       "opciones": [
         "a) Los convenios.",
-        "b) El funcionamiento electrónico del sector público.",
+        "b) El funcionamiento electrÃ³nico del sector pÃºblico.",
         "c) La responsabilidad patrimonial.",
         "d) Las sanciones."
       ],
-      "respuesta_correcta": "b) El funcionamiento electrónico del sector público."
+      "respuesta_correcta": "b) El funcionamiento electrÃ³nico del sector pÃºblico."
     },
     {
-      "pregunta": "¿Deben las Administraciones mantener un directorio geográfico de oficinas?",
+      "pregunta": "Â¿Deben las Administraciones mantener un directorio geogrÃ¡fico de oficinas?",
       "opciones": [
-        "a) Sí, actualizado (Oficinas de Asistencia).",
+        "a) SÃ­, actualizado (Oficinas de Asistencia).",
         "b) No.",
         "c) Solo en papel.",
         "d) Solo de las centrales."
       ],
-      "respuesta_correcta": "a) Sí, actualizado (Oficinas de Asistencia)."
+      "respuesta_correcta": "a) SÃ­, actualizado (Oficinas de Asistencia)."
     }
   ]
-}
+}]

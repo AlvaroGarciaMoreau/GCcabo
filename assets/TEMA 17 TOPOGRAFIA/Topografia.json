@@ -1,7 +1,7 @@
 [
   {
   "tema": "TEMA 17.- TOPOGRAFÍA (Guardia Civil)",
-  "descripcion":"Batería de preguntas basado en textos de topografía",
+  "descripcion": "Batería de preguntas basado en textos de topografía",
   "preguntas": [
     {
       "pregunta": "¿Cuál es la ciencia que estudia el conjunto de principios y procedimientos que tienen por misión la representación gráfica de una parte de la superficie terrestre con sus formas y detalles?",
@@ -26,22 +26,22 @@
     {
       "pregunta": "¿Cuál es la inclinación del Eje Terrestre respecto al plano de la órbita de traslación?",
       "opciones": [
-        "a) $0^{\\circ}$ (es perpendicular).",
-        "b) $23^{\\circ} 27'$",
-        "c) $21^{\\circ} 56'$",
-        "d) $90^{\\circ} $ S."
+        "a) 0° (es perpendicular).",
+        "b) 23° 27'",
+        "c) 21° 56'",
+        "d) 90° S."
       ],
-      "respuesta_correcta": "b) $23^{\\circ} 27'$"
+      "respuesta_correcta": "b) 23° 27'"
     },
     {
       "pregunta": "¿Cuánto tiempo tarda la Tierra en hacer un giro completo sobre su propio eje en el movimiento de **Rotación**?",
       "opciones": [
-        "a) $365$ días, $6$ horas y $9$ minutos.",
-        "b) $23$ horas y $56$ minutos.",
-        "c) $24$ horas exactas.",
-        "d) $40.076$ kilómetros."
+        "a) 365 días, 6 horas y 9 minutos.",
+        "b) 23 horas y 56 minutos.",
+        "c) 24 horas exactas.",
+        "d) 40.076 kilómetros."
       ],
-      "respuesta_correcta": "b) $23$ horas y $56$ minutos."
+      "respuesta_correcta": "b) 23 horas y 56 minutos."
     },
     {
       "pregunta": "La línea imaginaria que recorre la Tierra a igual distancia del Polo Norte que del Polo Sur y que la divide en dos mitades iguales se llama:",
@@ -56,12 +56,12 @@
     {
       "pregunta": "Llamamos **Latitud Geográfica** a la distancia entre un punto de la Tierra y el Ecuador, midiendo esta distancia en ángulos. ¿Entre qué grados varía la Latitud en cada hemisferio?",
       "opciones": [
-        "a) $0^{\\circ}$ a $180^{\\circ}$ E/O.",
-        "b) $0^{\\circ}$ a $90^{\\circ}$ N/S.",
-        "c) $23^{\\circ} 27'$ a $66^{\\circ} 33'$ N/S.",
-        "d) $0^{circ}$ a $360^{\\circ}$."
+        "a) 0° a 180° E/O.",
+        "b) 0° a 90° N/S.",
+        "c) 23° 27' a 66° 33' N/S.",
+        "d) 0circ a 360°."
       ],
-      "respuesta_correcta": "b) $0^{\\circ}$ a $90^{\\circ}$ N/S."
+      "respuesta_correcta": "b) 0° a 90° N/S."
     },
     {
       "pregunta": "La línea imaginaria que une el Polo Norte y el Polo Sur y que sirve de referencia para medir la Longitud se llama:",
@@ -76,22 +76,22 @@
     {
       "pregunta": "La **Longitud Geográfica** se mide a partir del Meridiano de Greenwich. ¿Entre qué grados varía la Longitud hacia el Este y el Oeste?",
       "opciones": [
-        "a) $0^{\\circ}$ a $90^{\\circ}$ N/S.",
-        "b) $0^{\\circ}$ a $180^{\\circ}$ E/O.",
-        "c) $0^{\\circ}$ a $45^{\\circ}$ E/O.",
-        "d) $0^{\\circ}$ a $360^{\\circ}$."
+        "a) 0° a 90° N/S.",
+        "b) 0° a 180° E/O.",
+        "c) 0° a 45° E/O.",
+        "d) 0° a 360°."
       ],
-      "respuesta_correcta": "b) $0^{\\circ}$ a $180^{\\circ}$ E/O."
+      "respuesta_correcta": "b) 0° a 180° E/O."
     },
     {
       "pregunta": "El Trópico de Cáncer y el Trópico de Capricornio se encuentran, respectivamente, a la Latitud:",
       "opciones": [
-        "a) $23^{\\circ} $ N y $23^{\\circ}$ S.",
-        "b) $66^{\\circ} $ N y $66^{\\circ}$ S.",
-        "c) $23^{\\circ} 27'$ N y $23^{\\circ} 27'$ S.",
-        "d) $0^{\\circ}$."
+        "a) 23° N y 23° S.",
+        "b) 66° N y 66° S.",
+        "c) 23° 27' N y 23° 27' S.",
+        "d) 0°."
       ],
-      "respuesta_correcta": "a) $23^{\\circ} $ N y $23^{\\circ}$ S."
+      "respuesta_correcta": "a) 23° N y 23° S."
     },
     {
       "pregunta": "¿Qué nombre recibe el paralelo mayor que divide la tierra en dos partes iguales (hemisferio norte y hemisferio sur)?",
@@ -134,14 +134,14 @@
       "respuesta_correcta": "d) Acimut."
     },
     {
-      "pregunta": "Si el Acimut de una dirección es $289^{\\circ} 41' 17''$, ¿cuál es el cálculo correcto para obtener el **Contra-Acimut** (o acimut inverso)?",
+      "pregunta": "Si el Acimut de una dirección es 289° 41' 17'', ¿cuál es el cálculo correcto para obtener el **Contra-Acimut** (o acimut inverso)?",
       "opciones": [
-        "a) $\\text{Acimut} + 180^{\\circ} $",
-        "b) $\\text{Acimut} - 180^{\\circ} $",
-        "c) $360^{\\circ} - \\text{Acimut} $",
-        "d) $\\text{Acimut} + 90^{\\circ} $."
+        "a) Acimut + 180°",
+        "b) Acimut - 180°",
+        "c) 360° - Acimut",
+        "d) Acimut + 90°."
       ],
-      "respuesta_correcta": "b) $\\text{Acimut} - 180^{\\circ} $"
+      "respuesta_correcta": "b) Acimut - 180°"
     },
     {
       "pregunta": "El **Rumbo** se define como el ángulo formado por una dirección con el:",
@@ -154,7 +154,7 @@
       "respuesta_correcta": "c) Norte Magnético."
     },
     {
-      "pregunta": "La **Declinación Magnética** ($\text{Dm}$) es la diferencia angular entre el Norte Geográfico (o verdadero) y el:",
+      "pregunta": "La **Declinación Magnética** (Dm) es la diferencia angular entre el Norte Geográfico (o verdadero) y el:",
       "opciones": [
         "a) Norte Cartográfico.",
         "b) Norte de Cuadrícula.",
@@ -164,7 +164,7 @@
       "respuesta_correcta": "c) Norte Magnético."
     },
     {
-      "pregunta": "¿Cuál es la unidad de longitud establecida en el Sistema Internacional que se define como 'la longitud del trayecto recorrido en el vacío por la luz durante un tiempo de $1/299.792.458$ de segundo'?",
+      "pregunta": "¿Cuál es la unidad de longitud establecida en el Sistema Internacional que se define como 'la longitud del trayecto recorrido en el vacío por la luz durante un tiempo de 1/299.792.458 de segundo'?",
       "opciones": [
         "a) El kilómetro.",
         "b) El hectómetro.",
@@ -176,32 +176,32 @@
     {
       "pregunta": "En el Sistema Métrico Decimal, la unidad para medir superficies agrarias es el **área**, que equivale a:",
       "opciones": [
-        "a) El $m^{2} $ o centiárea.",
-        "b) El $Hm^{2} $ o hectárea.",
-        "c) El $dam^{2} $ o decámetro cuadrado.",
-        "d) El $Km^{2} $ o kilómetro cuadrado."
+        "a) El m^2 o centiárea.",
+        "b) El Hm^2 o hectárea.",
+        "c) El dam^2 o decámetro cuadrado.",
+        "d) El Km^2 o kilómetro cuadrado."
       ],
-      "respuesta_correcta": "c) El $dam^{2} $ o decámetro cuadrado."
+      "respuesta_correcta": "c) El dam^2 o decámetro cuadrado."
     },
     {
       "pregunta": "¿Cuál es la equivalencia del ángulo en la graduación **milésimal artillera** para una circunferencia completa?",
       "opciones": [
-        "a) $360^{\\circ} $.",
-        "b) $400^{\\text{g} } $.",
-        "c) $2\\pi $ radianes.",
-        "d) $6.400^{\\text{oo} } $."
+        "a) 360°.",
+        "b) 400g.",
+        "c) 2π radianes.",
+        "d) 6.400oo."
       ],
-      "respuesta_correcta": "d) $6.400^{\\text{oo} } $"
+      "respuesta_correcta": "d) 6.400oo"
     },
     {
-      "pregunta": "¿Cuántos minutos ($'$) componen un grado ($^{\\circ}$) en el Sistema Sexagesimal?",
+      "pregunta": "¿Cuántos minutos (') componen un grado (°) en el Sistema Sexagesimal?",
       "opciones": [
-        "a) $10$ minutos.",
-        "b) $60$ minutos.",
-        "c) $100$ minutos.",
-        "d) $3.600$ minutos."
+        "a) 10 minutos.",
+        "b) 60 minutos.",
+        "c) 100 minutos.",
+        "d) 3.600 minutos."
       ],
-      "respuesta_correcta": "b) $60$ minutos."
+      "respuesta_correcta": "b) 60 minutos."
     },
     {
       "pregunta": "La **Planimetría** es la parte de la Topografía que consiste en:",
@@ -234,34 +234,34 @@
       "respuesta_correcta": "d) Equidistancia."
     },
     {
-      "pregunta": "La **Pendiente** ($P$) entre dos puntos se calcula mediante la fórmula:",
+      "pregunta": "La **Pendiente** (P) entre dos puntos se calcula mediante la fórmula:",
       "opciones": [
-        "a) $P = \\frac{\\text{Distancia Vertical}}{\\text{Distancia Geométrica}} \\times 100 $",
-        "b) $P = \\frac{\\text{Distancia Vertical}}{\\text{Distancia Horizontal}} \\times 100 $",
-        "c) $P = \\frac{\\text{Distancia Horizontal}}{\\text{Distancia Vertical}} \\times 100 $",
-        "d) $P = \\text{Distancia Vertical} + \\text{Distancia Horizontal} $."
+        "a) P = (Distancia Vertical / Distancia Geométrica) x 100",
+        "b) P = (Distancia Vertical / Distancia Horizontal) x 100",
+        "c) P = (Distancia Horizontal / Distancia Vertical) x 100",
+        "d) P = Distancia Vertical + Distancia Horizontal."
       ],
-      "respuesta_correcta": "b) $P = \\frac{\\text{Distancia Vertical}}{\\text{Distancia Horizontal}} \\times 100 $"
+      "respuesta_correcta": "b) P = (Distancia Vertical / Distancia Horizontal) x 100"
     },
     {
-      "pregunta": "En un plano de escala $E=1:50.000$ hemos medido la distancia entre dos puntos, siendo ésta de $15$ milímetros. ¿Cuál es la distancia **reducida** en el terreno en metros?",
+      "pregunta": "En un plano de escala E=1:50.000 hemos medido la distancia entre dos puntos, siendo ésta de 15 milímetros. ¿Cuál es la distancia **reducida** en el terreno en metros?",
       "opciones": [
-        "a) $75$ metros.",
-        "b) $75.000$ metros.",
-        "c) $7.500$ metros.",
-        "d) $750$ metros."
+        "a) 75 metros.",
+        "b) 75.000 metros.",
+        "c) 7.500 metros.",
+        "d) 750 metros."
       ],
-      "respuesta_correcta": "d) $750$ metros."
+      "respuesta_correcta": "d) 750 metros."
     },
     {
-      "pregunta": "Si dos puntos están separados $2$ kilómetros ($2.000$ metros) en el terreno y en un mapa esos dos puntos están separados $10$ centímetros, ¿a qué escala está el plano?",
+      "pregunta": "Si dos puntos están separados 2 kilómetros (2.000 metros) en el terreno y en un mapa esos dos puntos están separados 10 centímetros, ¿a qué escala está el plano?",
       "opciones": [
-        "a) $1:2.000$",
-        "b) $1:20.000$",
-        "c) $1:50.000$",
-        "d) $1:25.000$"
+        "a) 1:2.000",
+        "b) 1:20.000",
+        "c) 1:50.000",
+        "d) 1:25.000"
       ],
-      "respuesta_correcta": "b) $1:20.000$"
+      "respuesta_correcta": "b) 1:20.000"
     },
     {
       "pregunta": "¿Qué punto tiene **mayor Latitud** en el mapa de coordenadas (Figura, puntos A, B, C y D)?",
@@ -284,34 +284,34 @@
       "respuesta_correcta": "d) Punto D."
     },
     {
-      "pregunta": "Calcular el Acimut inverso de una dirección que tiene un acimut de $90^{\\circ}$:",
+      "pregunta": "Calcular el Acimut inverso de una dirección que tiene un acimut de 90°:",
       "opciones": [
-        "a) $180^{\\circ} $.",
-        "b) $270^{\\circ} $.",
-        "c) $0^{\\circ} $.",
-        "d) $210^{\\circ} $."
+        "a) 180°.",
+        "b) 270°.",
+        "c) 0°.",
+        "d) 210°."
       ],
-      "respuesta_correcta": "b) $270^{\\circ} $"
+      "respuesta_correcta": "b) 270°"
     },
     {
-      "pregunta": "Calcular el Acimut de una dirección, si sabemos que el acimut inverso es de $13^{\\circ}$:",
+      "pregunta": "Calcular el Acimut de una dirección, si sabemos que el acimut inverso es de 13°:",
       "opciones": [
-        "a) $342^{\\circ} $.",
-        "b) $193^{\\circ} $.",
-        "c) $283^{\\circ} $.",
-        "d) $103^{\\circ} $."
+        "a) 342°.",
+        "b) 193°.",
+        "c) 283°.",
+        "d) 103°."
       ],
-      "respuesta_correcta": "b) $193^{\\circ} $"
+      "respuesta_correcta": "b) 193°"
     },
     {
-      "pregunta": "Calcule el rumbo ($\text{R}$) de una embarcación, si sabemos que el acimut ($\text{Az}$) es $43^{\\circ}$ y la Declinación Magnética ($\text{Dm}$) es $4^{\\circ}$ E ($\text{Dm} = -4^{\\circ} $ O):",
+      "pregunta": "Calcule el rumbo (R) de una embarcación, si sabemos que el acimut (Az) es 43° y la Declinación Magnética (Dm) es 4° E (Dm = -4° O):",
       "opciones": [
-        "a) $47^{\\circ} $ NW.",
-        "b) $39^{\\circ} $ NW.",
-        "c) $47^{\\circ} $ NE.",
-        "d) $39^{\\circ} $ NE."
+        "a) 47° NW.",
+        "b) 39° NW.",
+        "c) 47° NE.",
+        "d) 39° NE."
       ],
-      "respuesta_correcta": "d) $39^{\\circ} $ NE."
+      "respuesta_correcta": "d) 39° NE."
     },
     {
       "pregunta": "La parte más baja de la ladera o vertiente se denomina:",
@@ -414,44 +414,44 @@
       "respuesta_correcta": "c) Costa."
     },
     {
-      "pregunta": "La **Escala Numérica** ($E$) se define como la relación constante o razón de semejanza que hay entre:",
+      "pregunta": "La **Escala Numérica** (E) se define como la relación constante o razón de semejanza que hay entre:",
       "opciones": [
-        "a) Las líneas del terreno ($T$) y las líneas del plano ($P$), $E=T/P$.",
-        "b) Las líneas del plano ($P$) y las líneas del terreno ($T$), $E=P/T$.",
+        "a) Las líneas del terreno (T) y las líneas del plano (P), E=T/P.",
+        "b) Las líneas del plano (P) y las líneas del terreno (T), E=P/T.",
         "c) La distancia vertical y la distancia horizontal.",
         "d) La Longitud y la Latitud."
       ],
-      "respuesta_correcta": "b) Las líneas del plano ($P$) y las líneas del terreno ($T$), $E=P/T$."
+      "respuesta_correcta": "b) Las líneas del plano (P) y las líneas del terreno (T), E=P/T."
     },
     {
-      "pregunta": "Si tenemos dos planos del mismo tamaño, uno de Escala $1:1.000$ y otro de $1:25.000$, ¿cuál representa **más terreno**?",
+      "pregunta": "Si tenemos dos planos del mismo tamaño, uno de Escala 1:1.000 y otro de 1:25.000, ¿cuál representa **más terreno**?",
       "opciones": [
-        "a) El de Escala $1:1.000$.",
-        "b) El de Escala $1:25.000$.",
+        "a) El de Escala 1:1.000.",
+        "b) El de Escala 1:25.000.",
         "c) Ambos representan el mismo terreno.",
         "d) Depende del tipo de proyección."
       ],
-      "respuesta_correcta": "b) El de Escala $1:25.000$."
+      "respuesta_correcta": "b) El de Escala 1:25.000."
     },
     {
-      "pregunta": "En un mapa de escala $1:50.000$, la distancia medida entre dos puntos es de $3$ centímetros. Calcule la distancia en el terreno en metros.",
+      "pregunta": "En un mapa de escala 1:50.000, la distancia medida entre dos puntos es de 3 centímetros. Calcule la distancia en el terreno en metros.",
       "opciones": [
-        "a) $1.500$ metros.",
-        "b) $150$ metros.",
-        "c) $15$ kilómetros.",
-        "d) $150.000$ centímetros."
+        "a) 1.500 metros.",
+        "b) 150 metros.",
+        "c) 15 kilómetros.",
+        "d) 150.000 centímetros."
       ],
-      "respuesta_correcta": "a) $1.500$ metros."
+      "respuesta_correcta": "a) 1.500 metros."
     },
     {
-      "pregunta": "Si la distancia entre dos puntos en el terreno es de $3.000$ metros, y en un mapa, esos mismos puntos están separados $15$ centímetros, ¿a qué escala está el plano?",
+      "pregunta": "Si la distancia entre dos puntos en el terreno es de 3.000 metros, y en un mapa, esos mismos puntos están separados 15 centímetros, ¿a qué escala está el plano?",
       "opciones": [
-        "a) $1:200$",
-        "b) $1:2.000$",
-        "c) $1:20.000$",
-        "d) $1:50.000$"
+        "a) 1:200",
+        "b) 1:2.000",
+        "c) 1:20.000",
+        "d) 1:50.000"
       ],
-      "respuesta_correcta": "c) $1:20.000$"
+      "respuesta_correcta": "c) 1:20.000"
     },
     {
       "pregunta": "La **Curva Directora** en la representación del terreno es la curva de nivel que:",
@@ -464,17 +464,17 @@
       "respuesta_correcta": "c) Se dibuja con mayor grosor que las demás y lleva un número que indica su cota, normalmente cada cinco curvas."
     },
     {
-      "pregunta": "Calcule la pendiente en $$ entre dos puntos con cota $700$ metros y $1.450$ metros, sabiendo que la distancia en el plano es de $3$ centímetros y la escala del plano es $1:50.000$:",
+      "pregunta": "Calcule la pendiente en % entre dos puntos con cota 700 metros y 1.450 metros, sabiendo que la distancia en el plano es de 3 centímetros y la escala del plano es 1:50.000:",
       "opciones": [
-        "a) $5\\% $.",
-        "b) $50\\% $.",
-        "c) $25\\% $.",
-        "d) $2,5\\% $."
+        "a) 5% .",
+        "b) 50% .",
+        "c) 25% .",
+        "d) 2,5% ."
       ],
-      "respuesta_correcta": "b) $50\\% $"
+      "respuesta_correcta": "b) 50% "
     },
     {
-      "pregunta": "En el Sistema Centesimal, el grado centesimal se divide en $100$ partes iguales llamadas minutos, y cada minuto en otras $100$ partes llamadas:",
+      "pregunta": "En el Sistema Centesimal, el grado centesimal se divide en 100 partes iguales llamadas minutos, y cada minuto en otras 100 partes llamadas:",
       "opciones": [
         "a) Segundos sexagesimales.",
         "b) Segundos centesimales.",
@@ -484,14 +484,14 @@
       "respuesta_correcta": "b) Segundos centesimales."
     },
     {
-      "pregunta": "¿Cuántos grados centesimales ($^{\\text{g} } $) se obtienen al reducir $63^{\\circ} $ sexagesimales?",
+      "pregunta": "¿Cuántos grados centesimales (g) se obtienen al reducir 63° sexagesimales?",
       "opciones": [
-        "a) $70^{\\text{g} } $.",
-        "b) $50^{\\text{g} } $.",
-        "c) $45^{\\text{g} } $.",
-        "d) $80^{\\text{g} } $."
+        "a) 70g.",
+        "b) 50g.",
+        "c) 45g.",
+        "d) 80g."
       ],
-      "respuesta_correcta": "a) $70^{\\text{g} } $"
+      "respuesta_correcta": "a) 70g"
     },
     {
       "pregunta": "Si un punto se localiza en el cruce de un paralelo y un meridiano, ¿qué dos coordenadas geográficas definen su posición?",
@@ -506,12 +506,12 @@
     {
       "pregunta": "La **Milésima Artillera** es la unidad de graduación milésimal que se define como el ángulo que resulta al dividir la circunferencia en:",
       "opciones": [
-        "a) $1.000$ partes iguales.",
-        "b) $6.283$ partes iguales.",
-        "c) $6.400$ partes iguales.",
-        "d) $360$ partes iguales."
+        "a) 1.000 partes iguales.",
+        "b) 6.283 partes iguales.",
+        "c) 6.400 partes iguales.",
+        "d) 360 partes iguales."
       ],
-      "respuesta_correcta": "c) $6.400$ partes iguales."
+      "respuesta_correcta": "c) 6.400 partes iguales."
     },
     {
       "pregunta": "Un **Otero** se define como:",
@@ -534,7 +534,7 @@
       "respuesta_correcta": "b) Meseta."
     },
     {
-      "pregunta": "El movimiento de la Tierra que se produce alrededor del Sol y que tarda $365$ días, $6$ horas y $9$ minutos en completarse se llama:",
+      "pregunta": "El movimiento de la Tierra que se produce alrededor del Sol y que tarda 365 días, 6 horas y 9 minutos en completarse se llama:",
       "opciones": [
         "a) Rotación.",
         "b) Traslación.",
@@ -614,7 +614,7 @@
       "respuesta_correcta": "b) Acantilado."
     },
     {
-      "pregunta": "El ángulo que resulta de dividir un radián en $1.000$ partes iguales se denomina:",
+      "pregunta": "El ángulo que resulta de dividir un radián en 1.000 partes iguales se denomina:",
       "opciones": [
         "a) Grado centesimal.",
         "b) Milésima verdadera.",
@@ -624,14 +624,14 @@
       "respuesta_correcta": "b) Milésima verdadera."
     },
     {
-      "pregunta": "Calcule la declinación magnética ($\text{Dm}$) para el año $2020$ si la $\text{Dm}$ para el año $1960$ era de $-7^{\\circ} $ y el incremento anual es de $3'$:",
+      "pregunta": "Calcule la declinación magnética (Dm) para el año 2020 si la Dm para el año 1960 era de -7° y el incremento anual es de 3':",
       "opciones": [
-        "a) $-6^{\\circ} 57'$",
-        "b) $-4^{\\circ} $.",
-        "c) $-4^{\\circ} 0'$",
-        "d) $-4^{\\circ} 23'$"
+        "a) -6° 57'",
+        "b) -4° .",
+        "c) -4° 0'",
+        "d) -4° 23'"
       ],
-      "respuesta_correcta": "d) $-4^{\\circ} 23'$"
+      "respuesta_correcta": "d) -4° 23'"
     },
     {
       "pregunta": "En la representación del terreno, la recta imaginaria que une los dos puntos con diferente cota o nivel se conoce como:",
@@ -644,25 +644,24 @@
       "respuesta_correcta": "c) Distancia Geométrica."
     },
     {
-      "pregunta": "¿Cuál de los siguientes puntos en el mapa (Figura) está más cerca del **Trópico de Cáncer** ($23^{\\circ} \\text{N}$)?",
+      "pregunta": "¿Cuál de los siguientes puntos en el mapa (Figura) está más cerca del **Trópico de Cáncer** (23° N)?",
       "opciones": [
-        "a) Punto A ($\\approx 40^{\\circ} \\text{N}$).",
-        "b) Punto B ($\\approx 40^{\\circ} \\text{N}$).",
-        "c) Punto C ($\\approx 20^{\\circ} \\text{S}$).",
-        "d) Punto D ($\\approx 5^{\\circ} \\text{S}$)."
+        "a) Punto A (~ 40° N).",
+        "b) Punto B (~ 40° N).",
+        "c) Punto C (~ 20° S).",
+        "d) Punto D (~ 5° S)."
       ],
-      "respuesta_correcta": "d) Punto D ($\\approx 5^{\\circ} \\text{S}$)."
+      "respuesta_correcta": "d) Punto D (~ 5° S)."
     },
     {
-      "pregunta": "¿Qué **Longitud** separa el punto C ($\\approx 20^{\\circ} \\text{S}, 40^{\\circ} \\text{O}$) del punto D ($\\approx 5^{\\circ} \\text{S}, 30^{\\circ} \\text{E}$) en el mapa?",
+      "pregunta": "¿Qué **Longitud** separa el punto C (~ 20° S, 40° O) del punto D (~ 5° S, 30° E) en el mapa?",
       "opciones": [
-        "a) $10^{\\circ} $.",
-        "b) $50^{\\circ} $.",
-        "c) $70^{\\circ} $.",
-        "d) $35^{\\circ} $."
+        "a) 10° .",
+        "b) 50° .",
+        "c) 70° .",
+        "d) 35° ."
       ],
-      "respuesta_correcta": "c) $70^{\\circ} $"
+      "respuesta_correcta": "c) 70° "
     }
   ]
-}
-]
+}]

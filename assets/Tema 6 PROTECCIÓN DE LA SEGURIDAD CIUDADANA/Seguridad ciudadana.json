@@ -1,29 +1,29 @@
-{
-  "tema": "TEMA 6.- PROTECCIÓN DE LA SEGURIDAD CIUDADANA (100 PREGUNTAS)",
-  "descripcion": "Preguntas basadas en la Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana.",
+[{
+  "tema": "TEMA 6.- PROTECCIï¿½N DE LA SEGURIDAD CIUDADANA (100 PREGUNTAS)",
+  "descripcion": "Preguntas basadas en la Ley Orgï¿½nica 4/2015, de 30 de marzo, de protecciï¿½n de la seguridad ciudadana.",
   "preguntas": [
     {
-      "pregunta": "¿Cuál es el objeto de la Ley Orgánica 4/2015 según su artículo 1?",
+      "pregunta": "ï¿½Cuï¿½l es el objeto de la Ley Orgï¿½nica 4/2015 segï¿½n su artï¿½culo 1?",
       "opciones": [
-        "a) La regulación del Código Penal.",
-        "b) La regulación del ejercicio de los derechos y libertades en materia de seguridad ciudadana.",
-        "c) La organización de la Policía Nacional.",
+        "a) La regulaciï¿½n del Cï¿½digo Penal.",
+        "b) La regulaciï¿½n del ejercicio de los derechos y libertades en materia de seguridad ciudadana.",
+        "c) La organizaciï¿½n de la Policï¿½a Nacional.",
         "d) La defensa nacional."
       ],
-      "respuesta_correcta": "b) La regulación del ejercicio de los derechos y libertades en materia de seguridad ciudadana."
+      "respuesta_correcta": "b) La regulaciï¿½n del ejercicio de los derechos y libertades en materia de seguridad ciudadana."
     },
     {
-      "pregunta": "¿A quién corresponde la competencia exclusiva en materia de seguridad pública según la Constitución?",
+      "pregunta": "ï¿½A quiï¿½n corresponde la competencia exclusiva en materia de seguridad pï¿½blica segï¿½n la Constituciï¿½n?",
       "opciones": [
-        "a) A las Comunidades Autónomas.",
+        "a) A las Comunidades Autï¿½nomas.",
         "b) A los Ayuntamientos.",
         "c) Al Estado.",
-        "d) A la Unión Europea."
+        "d) A la Uniï¿½n Europea."
       ],
       "respuesta_correcta": "c) Al Estado."
     },
     {
-      "pregunta": "Según la LO 4/2015, la actividad de intervención se justifica por la existencia de:",
+      "pregunta": "Segï¿½n la LO 4/2015, la actividad de intervenciï¿½n se justifica por la existencia de:",
       "opciones": [
         "a) Una orden verbal.",
         "b) Una amenaza concreta o un comportamiento objetivamente peligroso.",
@@ -33,7 +33,7 @@
       "respuesta_correcta": "b) Una amenaza concreta o un comportamiento objetivamente peligroso."
     },
     {
-      "pregunta": "¿Qué principio debe regir la actuación de las autoridades y agentes en materia de seguridad ciudadana?",
+      "pregunta": "ï¿½Quï¿½ principio debe regir la actuaciï¿½n de las autoridades y agentes en materia de seguridad ciudadana?",
       "opciones": [
         "a) Arbitrariedad.",
         "b) Proporcionalidad.",
@@ -43,89 +43,89 @@
       "respuesta_correcta": "b) Proporcionalidad."
     },
     {
-      "pregunta": "¿Quiénes son los titulares de los órganos y autoridades competentes en materia de seguridad ciudadana?",
+      "pregunta": "ï¿½Quiï¿½nes son los titulares de los ï¿½rganos y autoridades competentes en materia de seguridad ciudadana?",
       "opciones": [
         "a) El Ministro del Interior y los Delegados del Gobierno.",
         "b) Solo los jueces.",
         "c) Los alcaldes exclusivamente.",
-        "d) Los jefes de policía."
+        "d) Los jefes de policï¿½a."
       ],
       "respuesta_correcta": "a) El Ministro del Interior y los Delegados del Gobierno."
     },
     {
-      "pregunta": "¿Es el Documento Nacional de Identidad (DNI) obligatorio?",
+      "pregunta": "ï¿½Es el Documento Nacional de Identidad (DNI) obligatorio?",
       "opciones": [
-        "a) Sí, para los mayores de 14 años residentes en España.",
-        "b) Sí, para todos los españoles desde el nacimiento.",
+        "a) Sï¿½, para los mayores de 14 aï¿½os residentes en Espaï¿½a.",
+        "b) Sï¿½, para todos los espaï¿½oles desde el nacimiento.",
         "c) No, es voluntario.",
         "d) Solo para viajar."
       ],
-      "respuesta_correcta": "a) Sí, para los mayores de 14 años residentes en España."
+      "respuesta_correcta": "a) Sï¿½, para los mayores de 14 aï¿½os residentes en Espaï¿½a."
     },
     {
-      "pregunta": "¿Qué validez temporal tiene el DNI para personas entre 30 y 70 años?",
+      "pregunta": "ï¿½Quï¿½ validez temporal tiene el DNI para personas entre 30 y 70 aï¿½os?",
       "opciones": [
-        "a) 5 años.",
-        "b) 10 años.",
+        "a) 5 aï¿½os.",
+        "b) 10 aï¿½os.",
         "c) Permanente.",
-        "d) 2 años."
+        "d) 2 aï¿½os."
       ],
-      "respuesta_correcta": "b) 10 años."
+      "respuesta_correcta": "b) 10 aï¿½os."
     },
     {
-      "pregunta": "¿Quién expide el DNI y el Pasaporte?",
+      "pregunta": "ï¿½Quiï¿½n expide el DNI y el Pasaporte?",
       "opciones": [
         "a) El Ministerio de Justicia.",
-        "b) El Ministerio del Interior (Dirección General de la Policía).",
+        "b) El Ministerio del Interior (Direcciï¿½n General de la Policï¿½a).",
         "c) El Ministerio de Asuntos Exteriores.",
         "d) Los Ayuntamientos."
       ],
-      "respuesta_correcta": "b) El Ministerio del Interior (Dirección General de la Policía)."
+      "respuesta_correcta": "b) El Ministerio del Interior (Direcciï¿½n General de la Policï¿½a)."
     },
     {
-      "pregunta": "¿Qué obligación tienen los titulares del DNI respecto a su conservación?",
+      "pregunta": "ï¿½Quï¿½ obligaciï¿½n tienen los titulares del DNI respecto a su conservaciï¿½n?",
       "opciones": [
         "a) Ninguna.",
         "b) Custodiarlo y conservarlo con la debida diligencia.",
-        "c) Renorvarlo cada año.",
-        "d) Entregarlo a la policía si lo piden para quedárselo."
+        "c) Renorvarlo cada aï¿½o.",
+        "d) Entregarlo a la policï¿½a si lo piden para quedï¿½rselo."
       ],
       "respuesta_correcta": "b) Custodiarlo y conservarlo con la debida diligencia."
     },
     {
-      "pregunta": "¿Se puede retener el DNI por parte de terceros como garantía?",
+      "pregunta": "ï¿½Se puede retener el DNI por parte de terceros como garantï¿½a?",
       "opciones": [
-        "a) Sí, en hoteles.",
-        "b) No, constituye una infracción administrativa o penal.",
-        "c) Sí, para alquilar un coche.",
-        "d) Sí, si el titular consiente."
+        "a) Sï¿½, en hoteles.",
+        "b) No, constituye una infracciï¿½n administrativa o penal.",
+        "c) Sï¿½, para alquilar un coche.",
+        "d) Sï¿½, si el titular consiente."
       ],
-      "respuesta_correcta": "b) No, constituye una infracción administrativa o penal."
+      "respuesta_correcta": "b) No, constituye una infracciï¿½n administrativa o penal."
     },
     {
-      "pregunta": "¿Qué es el Pasaporte?",
+      "pregunta": "ï¿½Quï¿½ es el Pasaporte?",
       "opciones": [
         "a) Un documento de viaje internacional.",
-        "b) El documento público que acredita la identidad y nacionalidad de los ciudadanos españoles fuera de España.",
+        "b) El documento pï¿½blico que acredita la identidad y nacionalidad de los ciudadanos espaï¿½oles fuera de Espaï¿½a.",
         "c) Un permiso de residencia.",
-        "d) Una tarjeta de crédito."
+        "d) Una tarjeta de crï¿½dito."
       ],
-      "respuesta_correcta": "b) El documento público que acredita la identidad y nacionalidad de los ciudadanos españoles fuera de España."
+      "respuesta_correcta": "b) El documento pï¿½blico que acredita la identidad y nacionalidad de los ciudadanos espaï¿½oles fuera de Espaï¿½a."
     },
     {
-      "pregunta": "¿Qué deben hacer las personas extranjeras que se encuentren en España?",
+      "pregunta": "ï¿½Quï¿½ deben hacer las personas extranjeras que se encuentren en Espaï¿½a?",
       "opciones": [
         "a) Nada.",
-        "b) Disponer de la documentación que acredite su identidad y situación regular.",
-        "c) Solicitar el DNI español.",
+        "b) Disponer de la documentaciï¿½n que acredite su identidad y situaciï¿½n regular.",
+        "c) Solicitar el DNI espaï¿½ol.",
         "d) Inscribirse en el consulado obligatoriamente."
       ],
-      "respuesta_correcta": "b) Disponer de la documentación que acredite su identidad y situación regular."
+      "respuesta_correcta": "b) Disponer de la documentaciï¿½n que acredite su identidad y situaciï¿½n regular."
     },
     {
-      "pregunta": "¿Quién debe comunicar la sustracción o extravío del DNI?",
+      "pregunta": "ï¿½Quiï¿½n debe comunicar la sustracciï¿½n o extravï¿½o del DNI?",
       "opciones": [
-        "a) La policía de oficio.",
+        "a) La policï¿½a de oficio.",
         "b) El titular, inmediatamente.",
         "c) El Ministerio Fiscal.",
         "d) No es necesario comunicar."
@@ -133,27 +133,27 @@
       "respuesta_correcta": "b) El titular, inmediatamente."
     },
     {
-      "pregunta": "¿Cuándo pueden los agentes requerir la identificación de una persona?",
+      "pregunta": "ï¿½Cuï¿½ndo pueden los agentes requerir la identificaciï¿½n de una persona?",
       "opciones": [
         "a) Cuando quieran.",
-        "b) Cuando existan indicios de que ha podido participar en la comisión de una infracción o para prevenir un delito.",
+        "b) Cuando existan indicios de que ha podido participar en la comisiï¿½n de una infracciï¿½n o para prevenir un delito.",
         "c) Solo si hay testigos.",
         "d) Solo si la persona va indocumentada."
       ],
-      "respuesta_correcta": "b) Cuando existan indicios de que ha podido participar en la comisión de una infracción o para prevenir un delito."
+      "respuesta_correcta": "b) Cuando existan indicios de que ha podido participar en la comisiï¿½n de una infracciï¿½n o para prevenir un delito."
     },
     {
-      "pregunta": "¿Qué sucede si una persona se niega a identificarse ante los agentes?",
+      "pregunta": "ï¿½Quï¿½ sucede si una persona se niega a identificarse ante los agentes?",
       "opciones": [
         "a) Se le deja ir.",
-        "b) Puede ser trasladada a dependencias policiales a efectos de identificación.",
+        "b) Puede ser trasladada a dependencias policiales a efectos de identificaciï¿½n.",
         "c) Se le detiene inmediatamente por delito.",
         "d) Se le pone una multa y se va."
       ],
-      "respuesta_correcta": "b) Puede ser trasladada a dependencias policiales a efectos de identificación."
+      "respuesta_correcta": "b) Puede ser trasladada a dependencias policiales a efectos de identificaciï¿½n."
     },
     {
-      "pregunta": "¿Cuál es el tiempo máximo de estancia en dependencias policiales para identificación?",
+      "pregunta": "ï¿½Cuï¿½l es el tiempo mï¿½ximo de estancia en dependencias policiales para identificaciï¿½n?",
       "opciones": [
         "a) 24 horas.",
         "b) 6 horas.",
@@ -163,57 +163,57 @@
       "respuesta_correcta": "b) 6 horas."
     },
     {
-      "pregunta": "¿Se debe expedir un volante acreditativo del tiempo de estancia en la identificación?",
+      "pregunta": "ï¿½Se debe expedir un volante acreditativo del tiempo de estancia en la identificaciï¿½n?",
       "opciones": [
         "a) No, nunca.",
-        "b) Sí, a la salida, si lo solicita la persona.",
-        "c) Sí, obligatoriamente de oficio.",
+        "b) Sï¿½, a la salida, si lo solicita la persona.",
+        "c) Sï¿½, obligatoriamente de oficio.",
         "d) Solo si hay abogado."
       ],
-      "respuesta_correcta": "c) Sí, obligatoriamente de oficio."
+      "respuesta_correcta": "c) Sï¿½, obligatoriamente de oficio."
     },
     {
-      "pregunta": "¿En qué libro-registro deben constar las diligencias de identificación?",
+      "pregunta": "ï¿½En quï¿½ libro-registro deben constar las diligencias de identificaciï¿½n?",
       "opciones": [
         "a) En ninguno.",
-        "b) En un Libro-Registro específico de diligencias de identificación.",
+        "b) En un Libro-Registro especï¿½fico de diligencias de identificaciï¿½n.",
         "c) En el libro de detenidos.",
         "d) En el libro de familia."
       ],
-      "respuesta_correcta": "b) En un Libro-Registro específico de diligencias de identificación."
+      "respuesta_correcta": "b) En un Libro-Registro especï¿½fico de diligencias de identificaciï¿½n."
     },
     {
-      "pregunta": "¿Pueden realizarse comprobaciones en la vía pública con desnudo parcial?",
+      "pregunta": "ï¿½Pueden realizarse comprobaciones en la vï¿½a pï¿½blica con desnudo parcial?",
       "opciones": [
-        "a) Sí, a la vista de todos.",
-        "b) Sí, pero en lugar reservado y fuera de la vista de terceros.",
+        "a) Sï¿½, a la vista de todos.",
+        "b) Sï¿½, pero en lugar reservado y fuera de la vista de terceros.",
         "c) No, nunca.",
         "d) Solo con orden judicial."
       ],
-      "respuesta_correcta": "b) Sí, pero en lugar reservado y fuera de la vista de terceros."
+      "respuesta_correcta": "b) Sï¿½, pero en lugar reservado y fuera de la vista de terceros."
     },
     {
-      "pregunta": "¿Quién debe realizar el registro corporal externo (cacheo)?",
+      "pregunta": "ï¿½Quiï¿½n debe realizar el registro corporal externo (cacheo)?",
       "opciones": [
         "a) Cualquier agente.",
         "b) Un agente del mismo sexo que la persona cacheada, salvo urgencia o imposibilidad.",
-        "c) Un médico.",
+        "c) Un mï¿½dico.",
         "d) Un juez."
       ],
       "respuesta_correcta": "b) Un agente del mismo sexo que la persona cacheada, salvo urgencia o imposibilidad."
     },
     {
-      "pregunta": "¿Se pueden establecer controles en la vía pública?",
+      "pregunta": "ï¿½Se pueden establecer controles en la vï¿½a pï¿½blica?",
       "opciones": [
         "a) No.",
-        "b) Sí, para el descubrimiento y detención de partícipes en un delito grave, muy grave o terrorismo.",
-        "c) Sí, para recaudar.",
+        "b) Sï¿½, para el descubrimiento y detenciï¿½n de partï¿½cipes en un delito grave, muy grave o terrorismo.",
+        "c) Sï¿½, para recaudar.",
         "d) Solo en fronteras."
       ],
-      "respuesta_correcta": "b) Sí, para el descubrimiento y detención de partícipes en un delito grave, muy grave o terrorismo."
+      "respuesta_correcta": "b) Sï¿½, para el descubrimiento y detenciï¿½n de partï¿½cipes en un delito grave, muy grave o terrorismo."
     },
     {
-      "pregunta": "¿Qué medidas de seguridad pueden adoptarse en espectáculos públicos?",
+      "pregunta": "ï¿½Quï¿½ medidas de seguridad pueden adoptarse en espectï¿½culos pï¿½blicos?",
       "opciones": [
         "a) Ninguna.",
         "b) Establecer zonas de seguridad, controles de acceso y registros.",
@@ -223,57 +223,57 @@
       "respuesta_correcta": "b) Establecer zonas de seguridad, controles de acceso y registros."
     },
     {
-      "pregunta": "¿Cuándo se puede restringir el tránsito por la vía pública?",
+      "pregunta": "ï¿½Cuï¿½ndo se puede restringir el trï¿½nsito por la vï¿½a pï¿½blica?",
       "opciones": [
         "a) Nunca.",
-        "b) En supuestos de alteración de la seguridad ciudadana o emergencia.",
+        "b) En supuestos de alteraciï¿½n de la seguridad ciudadana o emergencia.",
         "c) Solo en fiestas.",
         "d) Cuando llueve."
       ],
-      "respuesta_correcta": "b) En supuestos de alteración de la seguridad ciudadana o emergencia."
+      "respuesta_correcta": "b) En supuestos de alteraciï¿½n de la seguridad ciudadana o emergencia."
     },
     {
-      "pregunta": "¿Pueden los agentes ocupar temporalmente objetos o instrumentos peligrosos?",
+      "pregunta": "ï¿½Pueden los agentes ocupar temporalmente objetos o instrumentos peligrosos?",
       "opciones": [
         "a) No, es propiedad privada.",
-        "b) Sí, preventivamente si hay peligro para la seguridad ciudadana.",
+        "b) Sï¿½, preventivamente si hay peligro para la seguridad ciudadana.",
         "c) Solo si son armas de fuego.",
         "d) Solo con orden judicial."
       ],
-      "respuesta_correcta": "b) Sí, preventivamente si hay peligro para la seguridad ciudadana."
+      "respuesta_correcta": "b) Sï¿½, preventivamente si hay peligro para la seguridad ciudadana."
     },
     {
-      "pregunta": "¿Qué obligación tienen las personas respecto a la colaboración con las Fuerzas de Seguridad?",
+      "pregunta": "ï¿½Quï¿½ obligaciï¿½n tienen las personas respecto a la colaboraciï¿½n con las Fuerzas de Seguridad?",
       "opciones": [
         "a) Ninguna.",
-        "b) Prestar el auxilio y colaboración necesarios cuando sea requerido.",
+        "b) Prestar el auxilio y colaboraciï¿½n necesarios cuando sea requerido.",
         "c) Huir.",
-        "d) Grabar con el móvil."
+        "d) Grabar con el mï¿½vil."
       ],
-      "respuesta_correcta": "b) Prestar el auxilio y colaboración necesarios cuando sea requerido."
+      "respuesta_correcta": "b) Prestar el auxilio y colaboraciï¿½n necesarios cuando sea requerido."
     },
     {
-      "pregunta": "¿Pueden entrar las Fuerzas de Seguridad en un domicilio sin orden judicial?",
+      "pregunta": "ï¿½Pueden entrar las Fuerzas de Seguridad en un domicilio sin orden judicial?",
       "opciones": [
         "a) No, nunca.",
-        "b) Sí, en caso de flagrante delito, catástrofe o consentimiento del titular.",
-        "c) Sí, si tienen sospechas.",
-        "d) Sí, si es de día."
+        "b) Sï¿½, en caso de flagrante delito, catï¿½strofe o consentimiento del titular.",
+        "c) Sï¿½, si tienen sospechas.",
+        "d) Sï¿½, si es de dï¿½a."
       ],
-      "respuesta_correcta": "b) Sí, en caso de flagrante delito, catástrofe o consentimiento del titular."
+      "respuesta_correcta": "b) Sï¿½, en caso de flagrante delito, catï¿½strofe o consentimiento del titular."
     },
     {
-      "pregunta": "¿Qué se entiende por 'flagrante delito' a efectos de entrada en domicilio?",
+      "pregunta": "ï¿½Quï¿½ se entiende por 'flagrante delito' a efectos de entrada en domicilio?",
       "opciones": [
-        "a) Cuando se está cometiendo o se acaba de cometer y se persigue al autor.",
-        "b) Cuando se sabe quién es el autor.",
+        "a) Cuando se estï¿½ cometiendo o se acaba de cometer y se persigue al autor.",
+        "b) Cuando se sabe quiï¿½n es el autor.",
         "c) Cuando hay pruebas guardadas.",
         "d) Cuando lo dicen los vecinos."
       ],
-      "respuesta_correcta": "a) Cuando se está cometiendo o se acaba de cometer y se persigue al autor."
+      "respuesta_correcta": "a) Cuando se estï¿½ cometiendo o se acaba de cometer y se persigue al autor."
     },
     {
-      "pregunta": "¿Cómo se clasifican las infracciones en la LO 4/2015?",
+      "pregunta": "ï¿½Cï¿½mo se clasifican las infracciones en la LO 4/2015?",
       "opciones": [
         "a) Delitos y faltas.",
         "b) Muy graves, graves y leves.",
@@ -283,67 +283,67 @@
       "respuesta_correcta": "b) Muy graves, graves y leves."
     },
     {
-      "pregunta": "¿Cuándo prescriben las infracciones MUY GRAVES según la LO 4/2015?",
+      "pregunta": "ï¿½Cuï¿½ndo prescriben las infracciones MUY GRAVES segï¿½n la LO 4/2015?",
       "opciones": [
         "a) 6 meses.",
-        "b) 1 año.",
-        "c) 3 años.",
-        "d) 5 años."
+        "b) 1 aï¿½o.",
+        "c) 3 aï¿½os.",
+        "d) 5 aï¿½os."
       ],
-      "respuesta_correcta": "c) 3 años."
+      "respuesta_correcta": "c) 3 aï¿½os."
     },
     {
-      "pregunta": "¿Y las infracciones graves?",
+      "pregunta": "ï¿½Y las infracciones graves?",
       "opciones": [
         "a) 6 meses.",
-        "b) 1 año.",
-        "c) 2 años.",
-        "d) 3 años."
+        "b) 1 aï¿½o.",
+        "c) 2 aï¿½os.",
+        "d) 3 aï¿½os."
       ],
-      "respuesta_correcta": "b) 1 año."
+      "respuesta_correcta": "b) 1 aï¿½o."
     },
     {
-      "pregunta": "¿Y las infracciones leves?",
+      "pregunta": "ï¿½Y las infracciones leves?",
       "opciones": [
         "a) 3 meses.",
         "b) 6 meses.",
-        "c) 1 año.",
-        "d) 15 días."
+        "c) 1 aï¿½o.",
+        "d) 15 dï¿½as."
       ],
       "respuesta_correcta": "b) 6 meses."
     },
     {
-      "pregunta": "¿Es infracción manifestarse sin comunicación previa?",
+      "pregunta": "ï¿½Es infracciï¿½n manifestarse sin comunicaciï¿½n previa?",
       "opciones": [
         "a) No.",
-        "b) Sí, infracción leve para los asistentes.",
-        "c) Sí, infracción grave para los organizadores o promotores (si no hay violencia).",
+        "b) Sï¿½, infracciï¿½n leve para los asistentes.",
+        "c) Sï¿½, infracciï¿½n grave para los organizadores o promotores (si no hay violencia).",
         "d) Es delito."
       ],
-      "respuesta_correcta": "b) Sí, infracción leve (o grave según circunstancias, pero la falta de comunicación suele recaer como leve en participantes o responsabilidad de organizadores)."
+      "respuesta_correcta": "b) Sï¿½, infracciï¿½n leve (o grave segï¿½n circunstancias, pero la falta de comunicaciï¿½n suele recaer como leve en participantes o responsabilidad de organizadores)."
     },
     {
-      "pregunta": "La celebración de espectáculos públicos quebrantando la prohibición de la autoridad es:",
+      "pregunta": "La celebraciï¿½n de espectï¿½culos pï¿½blicos quebrantando la prohibiciï¿½n de la autoridad es:",
       "opciones": [
-        "a) Infracción leve.",
-        "b) Infracción grave.",
-        "c) Infracción muy grave.",
+        "a) Infracciï¿½n leve.",
+        "b) Infracciï¿½n grave.",
+        "c) Infracciï¿½n muy grave.",
         "d) Delito."
       ],
-      "respuesta_correcta": "c) Infracción muy grave."
+      "respuesta_correcta": "c) Infracciï¿½n muy grave."
     },
     {
-      "pregunta": "¿Qué tipo de infracción es el consumo de drogas en la vía pública?",
+      "pregunta": "ï¿½Quï¿½ tipo de infracciï¿½n es el consumo de drogas en la vï¿½a pï¿½blica?",
       "opciones": [
         "a) Leve.",
         "b) Grave.",
         "c) Muy grave.",
-        "d) No es infracción."
+        "d) No es infracciï¿½n."
       ],
       "respuesta_correcta": "b) Grave."
     },
     {
-      "pregunta": "¿Y la tenencia ilícita de drogas (aunque no se consuman) en vía pública?",
+      "pregunta": "ï¿½Y la tenencia ilï¿½cita de drogas (aunque no se consuman) en vï¿½a pï¿½blica?",
       "opciones": [
         "a) Leve.",
         "b) Grave.",
@@ -353,44 +353,44 @@
       "respuesta_correcta": "b) Grave."
     },
     {
-      "pregunta": "¿Qué sanción corresponde a las infracciones muy graves?",
+      "pregunta": "ï¿½Quï¿½ sanciï¿½n corresponde a las infracciones muy graves?",
       "opciones": [
         "a) 100 a 600 euros.",
         "b) 601 a 30.000 euros.",
         "c) 30.001 a 600.000 euros.",
-        "d) Prisión."
+        "d) Prisiï¿½n."
       ],
       "respuesta_correcta": "c) 30.001 a 600.000 euros."
     },
     {
-      "pregunta": "¿Qué sanción corresponde a las infracciones graves?",
+      "pregunta": "ï¿½Quï¿½ sanciï¿½n corresponde a las infracciones graves?",
       "opciones": [
         "a) 100 a 600 euros.",
         "b) 601 a 30.000 euros.",
         "c) 30.001 a 600.000 euros.",
-        "d) Multa de tráfico."
+        "d) Multa de trï¿½fico."
       ],
       "respuesta_correcta": "b) 601 a 30.000 euros."
     },
     {
-      "pregunta": "¿Qué sanción corresponde a las infracciones leves?",
+      "pregunta": "ï¿½Quï¿½ sanciï¿½n corresponde a las infracciones leves?",
       "opciones": [
         "a) 100 a 600 euros.",
         "b) 30 a 50 euros.",
         "c) Hasta 1.000 euros.",
-        "d) Amonestación verbal."
+        "d) Amonestaciï¿½n verbal."
       ],
       "respuesta_correcta": "a) 100 a 600 euros."
     },
     {
-      "pregunta": "La falta de respeto y consideración a un miembro de las Fuerzas y Cuerpos de Seguridad es:",
+      "pregunta": "La falta de respeto y consideraciï¿½n a un miembro de las Fuerzas y Cuerpos de Seguridad es:",
       "opciones": [
-        "a) Infracción leve.",
-        "b) Infracción grave.",
+        "a) Infracciï¿½n leve.",
+        "b) Infracciï¿½n grave.",
         "c) Delito de atentado.",
         "d) No es sancionable."
       ],
-      "respuesta_correcta": "a) Infracción leve (art. 37.4)."
+      "respuesta_correcta": "a) Infracciï¿½n leve (art. 37.4)."
     },
     {
       "pregunta": "La desobediencia o resistencia a la autoridad o agentes, cuando no sea delito, es:",
@@ -403,7 +403,7 @@
       "respuesta_correcta": "b) Grave (art. 36.6)."
     },
     {
-      "pregunta": "El uso público indebido de uniformes oficiales o insignias es:",
+      "pregunta": "El uso pï¿½blico indebido de uniformes oficiales o insignias es:",
       "opciones": [
         "a) Leve.",
         "b) Grave.",
@@ -413,17 +413,17 @@
       "respuesta_correcta": "b) Grave."
     },
     {
-      "pregunta": "¿Es infracción proyectar haces de luz (láser) sobre pilotos de aviones o conductores?",
+      "pregunta": "ï¿½Es infracciï¿½n proyectar haces de luz (lï¿½ser) sobre pilotos de aviones o conductores?",
       "opciones": [
         "a) No.",
-        "b) Sí, infracción muy grave.",
-        "c) Sí, infracción grave.",
-        "d) Sí, infracción leve."
+        "b) Sï¿½, infracciï¿½n muy grave.",
+        "c) Sï¿½, infracciï¿½n grave.",
+        "d) Sï¿½, infracciï¿½n leve."
       ],
-      "respuesta_correcta": "b) Sí, infracción muy grave (por el riesgo de accidente)."
+      "respuesta_correcta": "b) Sï¿½, infracciï¿½n muy grave (por el riesgo de accidente)."
     },
     {
-      "pregunta": "¿Quién es el responsable de la infracción cometida por un menor de 14 años?",
+      "pregunta": "ï¿½Quiï¿½n es el responsable de la infracciï¿½n cometida por un menor de 14 aï¿½os?",
       "opciones": [
         "a) El menor.",
         "b) Los padres, tutores o guardadores legales (responsabilidad solidaria).",
@@ -433,17 +433,17 @@
       "respuesta_correcta": "b) Los padres, tutores o guardadores legales (responsabilidad solidaria)."
     },
     {
-      "pregunta": "¿Qué ocurre si un menor comete una infracción de consumo de drogas?",
+      "pregunta": "ï¿½Quï¿½ ocurre si un menor comete una infracciï¿½n de consumo de drogas?",
       "opciones": [
         "a) Paga la multa siempre.",
-        "b) Se puede suspender la sanción si accede a tratamiento o rehabilitación.",
-        "c) Va a la cárcel.",
-        "d) Se le expulsa del país."
+        "b) Se puede suspender la sanciï¿½n si accede a tratamiento o rehabilitaciï¿½n.",
+        "c) Va a la cï¿½rcel.",
+        "d) Se le expulsa del paï¿½s."
       ],
-      "respuesta_correcta": "b) Se puede suspender la sanción si accede a tratamiento o rehabilitación."
+      "respuesta_correcta": "b) Se puede suspender la sanciï¿½n si accede a tratamiento o rehabilitaciï¿½n."
     },
     {
-      "pregunta": "¿Qué es el Registro Central de Infracciones contra la Seguridad Ciudadana?",
+      "pregunta": "ï¿½Quï¿½ es el Registro Central de Infracciones contra la Seguridad Ciudadana?",
       "opciones": [
         "a) Un fichero policial de antecedentes penales.",
         "b) Un registro administrativo para controlar la reincidencia en infracciones de esta ley.",
@@ -453,67 +453,67 @@
       "respuesta_correcta": "b) Un registro administrativo para controlar la reincidencia en infracciones de esta ley."
     },
     {
-      "pregunta": "¿Se pueden fraccionar las sanciones pecuniarias?",
+      "pregunta": "ï¿½Se pueden fraccionar las sanciones pecuniarias?",
       "opciones": [
-        "a) No, pago único.",
-        "b) Sí, se puede autorizar el pago fraccionado.",
+        "a) No, pago ï¿½nico.",
+        "b) Sï¿½, se puede autorizar el pago fraccionado.",
         "c) Solo si eres funcionario.",
         "d) Solo si es muy grave."
       ],
-      "respuesta_correcta": "b) Sí, se puede autorizar el pago fraccionado."
+      "respuesta_correcta": "b) Sï¿½, se puede autorizar el pago fraccionado."
     },
     {
-      "pregunta": "¿Hay descuento por pronto pago en las sanciones de la LO 4/2015?",
+      "pregunta": "ï¿½Hay descuento por pronto pago en las sanciones de la LO 4/2015?",
       "opciones": [
         "a) No.",
-        "b) Sí, del 50% si se paga en el plazo voluntario (generalmente 15 días).",
-        "c) Sí, del 20%.",
-        "d) Sí, del 10%."
+        "b) Sï¿½, del 50% si se paga en el plazo voluntario (generalmente 15 dï¿½as).",
+        "c) Sï¿½, del 20%.",
+        "d) Sï¿½, del 10%."
       ],
-      "respuesta_correcta": "b) Sí, del 50% si se paga en el plazo voluntario (generalmente 15 días)."
+      "respuesta_correcta": "b) Sï¿½, del 50% si se paga en el plazo voluntario (generalmente 15 dï¿½as)."
     },
     {
-      "pregunta": "¿Qué sanción accesoria puede imponerse en infracciones de drogas?",
+      "pregunta": "ï¿½Quï¿½ sanciï¿½n accesoria puede imponerse en infracciones de drogas?",
       "opciones": [
         "a) Arresto domiciliario.",
-        "b) Incautación de la sustancia.",
+        "b) Incautaciï¿½n de la sustancia.",
         "c) Retirada del carnet de conducir.",
-        "d) Prohibición de salir de casa."
+        "d) Prohibiciï¿½n de salir de casa."
       ],
-      "respuesta_correcta": "b) Incautación de la sustancia."
+      "respuesta_correcta": "b) Incautaciï¿½n de la sustancia."
     },
     {
-      "pregunta": "¿Quién tiene la potestad sancionadora en el ámbito de la Administración General del Estado?",
+      "pregunta": "ï¿½Quiï¿½n tiene la potestad sancionadora en el ï¿½mbito de la Administraciï¿½n General del Estado?",
       "opciones": [
         "a) El Ministro del Interior (muy graves) y Delegados del Gobierno (graves y leves).",
         "b) El Juez.",
-        "c) El Policía.",
+        "c) El Policï¿½a.",
         "d) El Alcalde."
       ],
       "respuesta_correcta": "a) El Ministro del Interior (muy graves) y Delegados del Gobierno (graves y leves)."
     },
     {
-      "pregunta": "¿Qué valor tienen las denuncias formuladas por los agentes de la autoridad?",
+      "pregunta": "ï¿½Quï¿½ valor tienen las denuncias formuladas por los agentes de la autoridad?",
       "opciones": [
         "a) Ninguno.",
-        "b) Valor probatorio (presunción de veracidad) respecto a los hechos presenciados, salvo prueba en contrario.",
+        "b) Valor probatorio (presunciï¿½n de veracidad) respecto a los hechos presenciados, salvo prueba en contrario.",
         "c) Valor absoluto.",
         "d) Valor indiciario."
       ],
-      "respuesta_correcta": "b) Valor probatorio (presunción de veracidad) respecto a los hechos presenciados, salvo prueba en contrario."
+      "respuesta_correcta": "b) Valor probatorio (presunciï¿½n de veracidad) respecto a los hechos presenciados, salvo prueba en contrario."
     },
     {
-      "pregunta": "La fabricación, reparación o comercio de armas prohibidas es:",
+      "pregunta": "La fabricaciï¿½n, reparaciï¿½n o comercio de armas prohibidas es:",
       "opciones": [
-        "a) Infracción leve.",
-        "b) Infracción grave.",
-        "c) Infracción muy grave.",
+        "a) Infracciï¿½n leve.",
+        "b) Infracciï¿½n grave.",
+        "c) Infracciï¿½n muy grave.",
         "d) Delito."
       ],
-      "respuesta_correcta": "c) Infracción muy grave."
+      "respuesta_correcta": "c) Infracciï¿½n muy grave."
     },
     {
-      "pregunta": "La perturbación de la seguridad ciudadana en actos públicos, espectáculos deportivos, etc., cuando no sea delito, es:",
+      "pregunta": "La perturbaciï¿½n de la seguridad ciudadana en actos pï¿½blicos, espectï¿½culos deportivos, etc., cuando no sea delito, es:",
       "opciones": [
         "a) Leve.",
         "b) Grave.",
@@ -523,7 +523,7 @@
       "respuesta_correcta": "b) Grave."
     },
     {
-      "pregunta": "La negativa a disolver reuniones en lugares de tránsito público cuando lo ordene la autoridad es:",
+      "pregunta": "La negativa a disolver reuniones en lugares de trï¿½nsito pï¿½blico cuando lo ordene la autoridad es:",
       "opciones": [
         "a) Leve.",
         "b) Grave.",
@@ -533,17 +533,17 @@
       "respuesta_correcta": "b) Grave."
     },
     {
-      "pregunta": "El escalamiento de edificios o monumentos sin autorización cuando haya riesgo es:",
+      "pregunta": "El escalamiento de edificios o monumentos sin autorizaciï¿½n cuando haya riesgo es:",
       "opciones": [
         "a) Leve.",
         "b) Grave.",
         "c) Muy grave.",
-        "d) Una hazaña."
+        "d) Una hazaï¿½a."
       ],
       "respuesta_correcta": "a) Leve."
     },
     {
-      "pregunta": "La remoción de vallas, encintados u otros elementos fijos de la policía es:",
+      "pregunta": "La remociï¿½n de vallas, encintados u otros elementos fijos de la policï¿½a es:",
       "opciones": [
         "a) Leve.",
         "b) Grave.",
@@ -553,47 +553,47 @@
       "respuesta_correcta": "a) Leve."
     },
     {
-      "pregunta": "¿Se puede suspender una sanción de multa por infracción de la LO 4/2015?",
+      "pregunta": "ï¿½Se puede suspender una sanciï¿½n de multa por infracciï¿½n de la LO 4/2015?",
       "opciones": [
         "a) Nunca.",
         "b) No se contempla.",
         "c) Solo en caso de menores por drogas.",
-        "d) Sí, si no tienes dinero."
+        "d) Sï¿½, si no tienes dinero."
       ],
       "respuesta_correcta": "c) Solo en caso de menores por drogas."
     },
     {
-      "pregunta": "¿Cuándo caduca el procedimiento sancionador ordinario si no se resuelve?",
+      "pregunta": "ï¿½Cuï¿½ndo caduca el procedimiento sancionador ordinario si no se resuelve?",
       "opciones": [
         "a) A los 3 meses.",
         "b) A los 6 meses.",
-        "c) Al año.",
+        "c) Al aï¿½o.",
         "d) A los 18 meses."
       ],
-      "respuesta_correcta": "c) Al año (según art. 51 LO 4/2015)."
+      "respuesta_correcta": "c) Al aï¿½o (segï¿½n art. 51 LO 4/2015)."
     },
     {
-      "pregunta": "¿Qué ocurre con las armas incautadas en una infracción grave?",
+      "pregunta": "ï¿½Quï¿½ ocurre con las armas incautadas en una infracciï¿½n grave?",
       "opciones": [
         "a) Se devuelven.",
         "b) Se subastan.",
-        "c) Se acuerda su comiso (destrucción o enajenación).",
+        "c) Se acuerda su comiso (destrucciï¿½n o enajenaciï¿½n).",
         "d) Se las queda el agente."
       ],
-      "respuesta_correcta": "c) Se acuerda su comiso (destrucción o enajenación)."
+      "respuesta_correcta": "c) Se acuerda su comiso (destrucciï¿½n o enajenaciï¿½n)."
     },
     {
-      "pregunta": "¿Pueden los alcaldes imponer sanciones según la LO 4/2015?",
+      "pregunta": "ï¿½Pueden los alcaldes imponer sanciones segï¿½n la LO 4/2015?",
       "opciones": [
         "a) No, solo el Delegado del Gobierno.",
-        "b) Sí, en las materias de su competencia (ej. ruidos, convivencia) según la legislación de régimen local y espectáculos.",
-        "c) Sí, todas.",
-        "d) Solo multas de tráfico."
+        "b) Sï¿½, en las materias de su competencia (ej. ruidos, convivencia) segï¿½n la legislaciï¿½n de rï¿½gimen local y espectï¿½culos.",
+        "c) Sï¿½, todas.",
+        "d) Solo multas de trï¿½fico."
       ],
-      "respuesta_correcta": "b) Sí, en las materias de su competencia (ej. ruidos, convivencia) según la legislación de régimen local y espectáculos."
+      "respuesta_correcta": "b) Sï¿½, en las materias de su competencia (ej. ruidos, convivencia) segï¿½n la legislaciï¿½n de rï¿½gimen local y espectï¿½culos."
     },
     {
-      "pregunta": "La tenencia de armas reglamentarias sin la documentación correspondiente es:",
+      "pregunta": "La tenencia de armas reglamentarias sin la documentaciï¿½n correspondiente es:",
       "opciones": [
         "a) Leve.",
         "b) Grave.",
@@ -603,17 +603,17 @@
       "respuesta_correcta": "b) Grave."
     },
     {
-      "pregunta": "¿Qué es la 'solicitud de servicios sexuales' en zonas de tránsito público cerca de menores?",
+      "pregunta": "ï¿½Quï¿½ es la 'solicitud de servicios sexuales' en zonas de trï¿½nsito pï¿½blico cerca de menores?",
       "opciones": [
         "a) Permitido.",
-        "b) Infracción leve.",
-        "c) Infracción grave.",
-        "d) Infracción muy grave."
+        "b) Infracciï¿½n leve.",
+        "c) Infracciï¿½n grave.",
+        "d) Infracciï¿½n muy grave."
       ],
-      "respuesta_correcta": "c) Infracción grave."
+      "respuesta_correcta": "c) Infracciï¿½n grave."
     },
     {
-      "pregunta": "El abandono de animales domésticos en condiciones de peligro para la vida de las personas es:",
+      "pregunta": "El abandono de animales domï¿½sticos en condiciones de peligro para la vida de las personas es:",
       "opciones": [
         "a) Leve.",
         "b) Grave.",
@@ -623,27 +623,27 @@
       "respuesta_correcta": "a) Leve (si no es delito)."
     },
     {
-      "pregunta": "¿Qué medidas provisionales pueden adoptarse antes de iniciar el procedimiento sancionador?",
+      "pregunta": "ï¿½Quï¿½ medidas provisionales pueden adoptarse antes de iniciar el procedimiento sancionador?",
       "opciones": [
         "a) Ninguna.",
         "b) Retirada de objetos, cierre de establecimientos, etc., para asegurar el procedimiento o evitar riesgos.",
-        "c) Prisión provisional.",
+        "c) Prisiï¿½n provisional.",
         "d) Multa provisional."
       ],
       "respuesta_correcta": "b) Retirada de objetos, cierre de establecimientos, etc., para asegurar el procedimiento o evitar riesgos."
     },
     {
-      "pregunta": "El 'botellón' (consumo de alcohol en vía pública) es sancionable por la LO 4/2015:",
+      "pregunta": "El 'botellï¿½n' (consumo de alcohol en vï¿½a pï¿½blica) es sancionable por la LO 4/2015:",
       "opciones": [
         "a) Siempre.",
         "b) Cuando perturbe gravemente la tranquilidad ciudadana.",
         "c) Solo si hay menores.",
-        "d) Es una infracción leve."
+        "d) Es una infracciï¿½n leve."
       ],
-      "respuesta_correcta": "d) Es una infracción leve."
+      "respuesta_correcta": "d) Es una infracciï¿½n leve."
     },
     {
-      "pregunta": "La plantación y cultivo ilícito de drogas en lugares visibles al público (no constitutivos de delito) es:",
+      "pregunta": "La plantaciï¿½n y cultivo ilï¿½cito de drogas en lugares visibles al pï¿½blico (no constitutivos de delito) es:",
       "opciones": [
         "a) Leve.",
         "b) Grave.",
@@ -653,47 +653,47 @@
       "respuesta_correcta": "b) Grave."
     },
     {
-      "pregunta": "El traslado de personas en vehículos para facilitar el acceso a drogas (cundas) es:",
+      "pregunta": "El traslado de personas en vehï¿½culos para facilitar el acceso a drogas (cundas) es:",
       "opciones": [
         "a) Leve.",
         "b) Grave.",
         "c) Muy grave.",
-        "d) Servicio público."
+        "d) Servicio pï¿½blico."
       ],
       "respuesta_correcta": "b) Grave."
     },
     {
-      "pregunta": "¿Quién es el responsable de las manifestaciones no comunicadas?",
+      "pregunta": "ï¿½Quiï¿½n es el responsable de las manifestaciones no comunicadas?",
       "opciones": [
         "a) Los asistentes.",
         "b) Los organizadores o promotores.",
-        "c) La policía.",
+        "c) La policï¿½a.",
         "d) Nadie."
       ],
       "respuesta_correcta": "b) Los organizadores o promotores."
     },
     {
-      "pregunta": "¿Qué se considera 'reincidencia' en la LO 4/2015?",
+      "pregunta": "ï¿½Quï¿½ se considera 'reincidencia' en la LO 4/2015?",
       "opciones": [
-        "a) Cometer dos infracciones cualesquiera en un año.",
-        "b) Cometer en el término de dos años más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme.",
+        "a) Cometer dos infracciones cualesquiera en un aï¿½o.",
+        "b) Cometer en el tï¿½rmino de dos aï¿½os mï¿½s de una infracciï¿½n de la misma naturaleza cuando asï¿½ haya sido declarado por resoluciï¿½n firme.",
         "c) Cometer tres leves.",
         "d) No existe."
       ],
-      "respuesta_correcta": "b) Cometer en el término de dos años más de una infracción de la misma naturaleza cuando así haya sido declarado por resolución firme."
+      "respuesta_correcta": "b) Cometer en el tï¿½rmino de dos aï¿½os mï¿½s de una infracciï¿½n de la misma naturaleza cuando asï¿½ haya sido declarado por resoluciï¿½n firme."
     },
     {
-      "pregunta": "¿Cómo se gradúan las sanciones?",
+      "pregunta": "ï¿½Cï¿½mo se gradï¿½an las sanciones?",
       "opciones": [
         "a) A ojo.",
-        "b) Según criterios de proporcionalidad (gravedad, riesgo, reincidencia, capacidad económica).",
+        "b) Segï¿½n criterios de proporcionalidad (gravedad, riesgo, reincidencia, capacidad econï¿½mica).",
         "c) Sorteo.",
-        "d) Siempre el máximo."
+        "d) Siempre el mï¿½ximo."
       ],
-      "respuesta_correcta": "b) Según criterios de proporcionalidad (gravedad, riesgo, reincidencia, capacidad económica)."
+      "respuesta_correcta": "b) Segï¿½n criterios de proporcionalidad (gravedad, riesgo, reincidencia, capacidad econï¿½mica)."
     },
     {
-      "pregunta": "La obstrucción a la inspección o control reglamentario de fábricas o locales es:",
+      "pregunta": "La obstrucciï¿½n a la inspecciï¿½n o control reglamentario de fï¿½bricas o locales es:",
       "opciones": [
         "a) Leve.",
         "b) Grave.",
@@ -703,27 +703,27 @@
       "respuesta_correcta": "b) Grave."
     },
     {
-      "pregunta": "¿Se puede sustituir la multa por trabajos en beneficio de la comunidad?",
+      "pregunta": "ï¿½Se puede sustituir la multa por trabajos en beneficio de la comunidad?",
       "opciones": [
         "a) No.",
-        "b) Sí, en menores de edad para infracciones de drogas.",
-        "c) Sí, para todos.",
+        "b) Sï¿½, en menores de edad para infracciones de drogas.",
+        "c) Sï¿½, para todos.",
         "d) Solo en delitos."
       ],
-      "respuesta_correcta": "b) Sí, en menores de edad para infracciones de drogas (actividades reeducativas o tratamiento)."
+      "respuesta_correcta": "b) Sï¿½, en menores de edad para infracciones de drogas (actividades reeducativas o tratamiento)."
     },
     {
-      "pregunta": "La pérdida del DNI tres veces o más en un año:",
+      "pregunta": "La pï¿½rdida del DNI tres veces o mï¿½s en un aï¿½o:",
       "opciones": [
         "a) Es indiferente.",
-        "b) Es infracción leve por negligencia en la custodia.",
+        "b) Es infracciï¿½n leve por negligencia en la custodia.",
         "c) Es grave.",
         "d) Se cobra triple."
       ],
-      "respuesta_correcta": "b) Es infracción leve por negligencia en la custodia."
+      "respuesta_correcta": "b) Es infracciï¿½n leve por negligencia en la custodia."
     },
     {
-      "pregunta": "Los daños en bienes muebles o inmuebles de uso público (ej. papeleras, bancos) si no es delito, es:",
+      "pregunta": "Los daï¿½os en bienes muebles o inmuebles de uso pï¿½blico (ej. papeleras, bancos) si no es delito, es:",
       "opciones": [
         "a) Leve.",
         "b) Grave.",
@@ -733,7 +733,7 @@
       "respuesta_correcta": "a) Leve."
     },
     {
-      "pregunta": "La intrusión en infraestructuras críticas prestando servicios (ej. centrales nucleares) es:",
+      "pregunta": "La intrusiï¿½n en infraestructuras crï¿½ticas prestando servicios (ej. centrales nucleares) es:",
       "opciones": [
         "a) Leve.",
         "b) Grave.",
@@ -743,27 +743,27 @@
       "respuesta_correcta": "c) Muy grave."
     },
     {
-      "pregunta": "¿Cuándo entran los agentes en un domicilio por 'catástrofe'?",
+      "pregunta": "ï¿½Cuï¿½ndo entran los agentes en un domicilio por 'catï¿½strofe'?",
       "opciones": [
-        "a) Cuando hay un incendio o inundación que peligra la vida.",
+        "a) Cuando hay un incendio o inundaciï¿½n que peligra la vida.",
         "b) Cuando hay ruido.",
         "c) Cuando no abren la puerta.",
         "d) Para notificar una multa."
       ],
-      "respuesta_correcta": "a) Cuando hay un incendio o inundación que peligra la vida."
+      "respuesta_correcta": "a) Cuando hay un incendio o inundaciï¿½n que peligra la vida."
     },
     {
-      "pregunta": "¿Qué ocurre si un extranjero comete una infracción grave o muy grave?",
+      "pregunta": "ï¿½Quï¿½ ocurre si un extranjero comete una infracciï¿½n grave o muy grave?",
       "opciones": [
-        "a) Paga igual que un español.",
-        "b) Podrá imponerse la expulsión del territorio español en lugar de la multa (si es residente ilegal).",
+        "a) Paga igual que un espaï¿½ol.",
+        "b) Podrï¿½ imponerse la expulsiï¿½n del territorio espaï¿½ol en lugar de la multa (si es residente ilegal).",
         "c) Se le perdona.",
         "d) No se le aplica la ley."
       ],
-      "respuesta_correcta": "b) Podrá imponerse la expulsión del territorio español en lugar de la multa (si es residente ilegal)."
+      "respuesta_correcta": "b) Podrï¿½ imponerse la expulsiï¿½n del territorio espaï¿½ol en lugar de la multa (si es residente ilegal)."
     },
     {
-      "pregunta": "¿Quién comunica las sanciones al Registro Central?",
+      "pregunta": "ï¿½Quiï¿½n comunica las sanciones al Registro Central?",
       "opciones": [
         "a) El sancionado.",
         "b) La autoridad sancionadora.",
@@ -773,137 +773,137 @@
       "respuesta_correcta": "b) La autoridad sancionadora."
     },
     {
-      "pregunta": "Las acciones u omisiones imprudentes, ¿se sancionan?",
+      "pregunta": "Las acciones u omisiones imprudentes, ï¿½se sancionan?",
       "opciones": [
         "a) No, solo las dolosas.",
-        "b) Sí, cuando la ley lo prevea.",
+        "b) Sï¿½, cuando la ley lo prevea.",
         "c) Siempre.",
         "d) Nunca."
       ],
-      "respuesta_correcta": "b) Sí, cuando la ley lo prevea."
+      "respuesta_correcta": "b) Sï¿½, cuando la ley lo prevea."
     },
     {
-      "pregunta": "¿Qué plazo hay para resolver el procedimiento abreviado (pago voluntario)?",
+      "pregunta": "ï¿½Quï¿½ plazo hay para resolver el procedimiento abreviado (pago voluntario)?",
       "opciones": [
         "a) Se termina con el pago.",
         "b) 6 meses.",
-        "c) 1 año.",
-        "d) 15 días."
+        "c) 1 aï¿½o.",
+        "d) 15 dï¿½as."
       ],
       "respuesta_correcta": "a) Se termina con el pago."
     },
     {
-      "pregunta": "¿Qué recurso cabe contra la resolución sancionadora?",
+      "pregunta": "ï¿½Quï¿½ recurso cabe contra la resoluciï¿½n sancionadora?",
       "opciones": [
-        "a) Alzada o reposición según el órgano.",
-        "b) Apelación.",
-        "c) Casación.",
-        "d) Súplica."
+        "a) Alzada o reposiciï¿½n segï¿½n el ï¿½rgano.",
+        "b) Apelaciï¿½n.",
+        "c) Casaciï¿½n.",
+        "d) Sï¿½plica."
       ],
-      "respuesta_correcta": "a) Alzada o reposición según el órgano."
+      "respuesta_correcta": "a) Alzada o reposiciï¿½n segï¿½n el ï¿½rgano."
     },
     {
-      "pregunta": "La negativa a someterse a las pruebas de alcohol o drogas por usuarios de la vía (si no es delito de tráfico) es:",
+      "pregunta": "La negativa a someterse a las pruebas de alcohol o drogas por usuarios de la vï¿½a (si no es delito de trï¿½fico) es:",
       "opciones": [
         "a) Leve.",
         "b) Grave.",
         "c) Muy grave.",
-        "d) Administrativa de tráfico, no seguridad ciudadana."
+        "d) Administrativa de trï¿½fico, no seguridad ciudadana."
       ],
-      "respuesta_correcta": "b) Grave (en LO 4/2015 se tipifica la tolerancia al consumo en locales, etc. La negativa en tráfico va por LSV o CP, pero la obstrucción a la inspección en locales es grave)."
+      "respuesta_correcta": "b) Grave (en LO 4/2015 se tipifica la tolerancia al consumo en locales, etc. La negativa en trï¿½fico va por LSV o CP, pero la obstrucciï¿½n a la inspecciï¿½n en locales es grave)."
     },
     {
-      "pregunta": "Rectificación: ¿El uso de imágenes de policías que ponga en peligro su seguridad es infracción?",
+      "pregunta": "Rectificaciï¿½n: ï¿½El uso de imï¿½genes de policï¿½as que ponga en peligro su seguridad es infracciï¿½n?",
       "opciones": [
         "a) No, libertad de prensa.",
-        "b) Sí, infracción grave.",
-        "c) Sí, infracción leve.",
-        "d) Sí, delito."
+        "b) Sï¿½, infracciï¿½n grave.",
+        "c) Sï¿½, infracciï¿½n leve.",
+        "d) Sï¿½, delito."
       ],
-      "respuesta_correcta": "b) Sí, infracción grave (Art. 36.23)."
+      "respuesta_correcta": "b) Sï¿½, infracciï¿½n grave (Art. 36.23)."
     },
     {
-      "pregunta": "¿Cuál es la edad mínima para tener DNI?",
+      "pregunta": "ï¿½Cuï¿½l es la edad mï¿½nima para tener DNI?",
       "opciones": [
-        "a) 14 años obligatorios, pero se puede obtener desde el nacimiento.",
-        "b) 18 años.",
-        "c) 16 años.",
-        "d) 12 años."
+        "a) 14 aï¿½os obligatorios, pero se puede obtener desde el nacimiento.",
+        "b) 18 aï¿½os.",
+        "c) 16 aï¿½os.",
+        "d) 12 aï¿½os."
       ],
-      "respuesta_correcta": "a) 14 años obligatorios, pero se puede obtener desde el nacimiento."
+      "respuesta_correcta": "a) 14 aï¿½os obligatorios, pero se puede obtener desde el nacimiento."
     },
     {
-      "pregunta": "¿Qué es la 'identificación en comisaría'?",
+      "pregunta": "ï¿½Quï¿½ es la 'identificaciï¿½n en comisarï¿½a'?",
       "opciones": [
-        "a) Una detención.",
-        "b) Una retención instrumental para identificar.",
+        "a) Una detenciï¿½n.",
+        "b) Una retenciï¿½n instrumental para identificar.",
         "c) Un arresto.",
         "d) Una visita."
       ],
-      "respuesta_correcta": "b) Una retención instrumental para identificar."
+      "respuesta_correcta": "b) Una retenciï¿½n instrumental para identificar."
     },
     {
-      "pregunta": "¿Se pueden usar videocámaras fijas para seguridad ciudadana?",
+      "pregunta": "ï¿½Se pueden usar videocï¿½maras fijas para seguridad ciudadana?",
       "opciones": [
         "a) No.",
-        "b) Sí, conforme a la legislación vigente (LO 4/1997).",
-        "c) Solo móviles.",
+        "b) Sï¿½, conforme a la legislaciï¿½n vigente (LO 4/1997).",
+        "c) Solo mï¿½viles.",
         "d) Solo privadas."
       ],
-      "respuesta_correcta": "b) Sí, conforme a la legislación vigente (LO 4/1997)."
+      "respuesta_correcta": "b) Sï¿½, conforme a la legislaciï¿½n vigente (LO 4/1997)."
     },
     {
-      "pregunta": "¿Qué fin tiene el registro de infracciones?",
+      "pregunta": "ï¿½Quï¿½ fin tiene el registro de infracciones?",
       "opciones": [
-        "a) Estadístico y apreciar la reincidencia.",
+        "a) Estadï¿½stico y apreciar la reincidencia.",
         "b) Publicitario.",
         "c) Fiscal.",
         "d) Laboral."
       ],
-      "respuesta_correcta": "a) Estadístico y apreciar la reincidencia."
+      "respuesta_correcta": "a) Estadï¿½stico y apreciar la reincidencia."
     },
     {
-      "pregunta": "¿A quién se entregan los objetos perdidos si no se halla al dueño?",
+      "pregunta": "ï¿½A quiï¿½n se entregan los objetos perdidos si no se halla al dueï¿½o?",
       "opciones": [
-        "a) Al que lo encontró.",
+        "a) Al que lo encontrï¿½.",
         "b) A la oficina de objetos perdidos del Ayuntamiento.",
         "c) Se tiran.",
-        "d) Se los queda la policía."
+        "d) Se los queda la policï¿½a."
       ],
       "respuesta_correcta": "b) A la oficina de objetos perdidos del Ayuntamiento."
     },
     {
-      "pregunta": "¿Cuándo prescribe la sanción leve?",
+      "pregunta": "ï¿½Cuï¿½ndo prescribe la sanciï¿½n leve?",
       "opciones": [
-        "a) Al año.",
+        "a) Al aï¿½o.",
         "b) A los 6 meses.",
         "c) A los 3 meses.",
         "d) Al mes."
       ],
-      "respuesta_correcta": "a) Al año."
+      "respuesta_correcta": "a) Al aï¿½o."
     },
     {
-      "pregunta": "¿Cuándo prescribe la sanción grave?",
+      "pregunta": "ï¿½Cuï¿½ndo prescribe la sanciï¿½n grave?",
       "opciones": [
-        "a) Al año.",
-        "b) A los 2 años.",
-        "c) A los 3 años.",
-        "d) A los 4 años."
+        "a) Al aï¿½o.",
+        "b) A los 2 aï¿½os.",
+        "c) A los 3 aï¿½os.",
+        "d) A los 4 aï¿½os."
       ],
-      "respuesta_correcta": "b) A los 2 años."
+      "respuesta_correcta": "b) A los 2 aï¿½os."
     },
     {
-      "pregunta": "¿Cuándo prescribe la sanción muy grave?",
+      "pregunta": "ï¿½Cuï¿½ndo prescribe la sanciï¿½n muy grave?",
       "opciones": [
-        "a) A los 2 años.",
-        "b) A los 3 años.",
-        "c) A los 4 años.",
-        "d) A los 5 años."
+        "a) A los 2 aï¿½os.",
+        "b) A los 3 aï¿½os.",
+        "c) A los 4 aï¿½os.",
+        "d) A los 5 aï¿½os."
       ],
-      "respuesta_correcta": "b) A los 3 años."
+      "respuesta_correcta": "b) A los 3 aï¿½os."
     },
     {
-      "pregunta": "¿Qué implica la 'firmeza' de la sanción?",
+      "pregunta": "ï¿½Quï¿½ implica la 'firmeza' de la sanciï¿½n?",
       "opciones": [
         "a) Que es dura.",
         "b) Que ya no cabe recurso administrativo contra ella.",
@@ -913,37 +913,37 @@
       "respuesta_correcta": "b) Que ya no cabe recurso administrativo contra ella."
     },
     {
-      "pregunta": "¿Qué es el 'decomiso'?",
+      "pregunta": "ï¿½Quï¿½ es el 'decomiso'?",
       "opciones": [
-        "a) La pérdida de los efectos o instrumentos de la infracción.",
+        "a) La pï¿½rdida de los efectos o instrumentos de la infracciï¿½n.",
         "b) Una multa.",
-        "c) La cárcel.",
+        "c) La cï¿½rcel.",
         "d) El registro."
       ],
-      "respuesta_correcta": "a) La pérdida de los efectos o instrumentos de la infracción."
+      "respuesta_correcta": "a) La pï¿½rdida de los efectos o instrumentos de la infracciï¿½n."
     },
     {
-      "pregunta": "¿Se pueden imponer sanciones de privación de libertad en la LO 4/2015?",
+      "pregunta": "ï¿½Se pueden imponer sanciones de privaciï¿½n de libertad en la LO 4/2015?",
       "opciones": [
-        "a) Sí, arresto de fin de semana.",
-        "b) No, nunca en vía administrativa.",
-        "c) Sí, subsidiario por impago.",
-        "d) Sí, en muy graves."
+        "a) Sï¿½, arresto de fin de semana.",
+        "b) No, nunca en vï¿½a administrativa.",
+        "c) Sï¿½, subsidiario por impago.",
+        "d) Sï¿½, en muy graves."
       ],
-      "respuesta_correcta": "b) No, nunca en vía administrativa."
+      "respuesta_correcta": "b) No, nunca en vï¿½a administrativa."
     },
     {
-      "pregunta": "¿Qué obligación tienen los establecimientos de compraventa de joyas?",
+      "pregunta": "ï¿½Quï¿½ obligaciï¿½n tienen los establecimientos de compraventa de joyas?",
       "opciones": [
         "a) Ninguna.",
-        "b) Llevar libros-registro y comunicar datos a la policía.",
+        "b) Llevar libros-registro y comunicar datos a la policï¿½a.",
         "c) Pagar tasas.",
         "d) Cerrar de noche."
       ],
-      "respuesta_correcta": "b) Llevar libros-registro y comunicar datos a la policía."
+      "respuesta_correcta": "b) Llevar libros-registro y comunicar datos a la policï¿½a."
     },
     {
-      "pregunta": "¿Qué se entiende por 'arma reglamentaria'?",
+      "pregunta": "ï¿½Quï¿½ se entiende por 'arma reglamentaria'?",
       "opciones": [
         "a) La que tiene papeles.",
         "b) La asignada oficialmente al funcionario.",
@@ -953,27 +953,27 @@
       "respuesta_correcta": "b) La asignada oficialmente al funcionario."
     },
     {
-      "pregunta": "¿Puede la policía disolver una fiesta privada en un domicilio?",
+      "pregunta": "ï¿½Puede la policï¿½a disolver una fiesta privada en un domicilio?",
       "opciones": [
-        "a) Sí, entrando a la fuerza.",
+        "a) Sï¿½, entrando a la fuerza.",
         "b) No, salvo delito flagrante o mandamiento judicial (aunque pueden sancionar el ruido desde fuera).",
-        "c) Sí, siempre.",
-        "d) Sí, si llaman los vecinos."
+        "c) Sï¿½, siempre.",
+        "d) Sï¿½, si llaman los vecinos."
       ],
       "respuesta_correcta": "b) No, salvo delito flagrante o mandamiento judicial (aunque pueden sancionar el ruido desde fuera)."
     },
     {
-      "pregunta": "¿Qué ocurre si te niegas a disolver una reunión en un lugar de tránsito público?",
+      "pregunta": "ï¿½Quï¿½ ocurre si te niegas a disolver una reuniï¿½n en un lugar de trï¿½nsito pï¿½blico?",
       "opciones": [
         "a) Nada.",
-        "b) Cometes una infracción grave.",
-        "c) Cometes un delito de sedición.",
+        "b) Cometes una infracciï¿½n grave.",
+        "c) Cometes un delito de sediciï¿½n.",
         "d) Te vas a casa."
       ],
-      "respuesta_correcta": "b) Cometes una infracción grave."
+      "respuesta_correcta": "b) Cometes una infracciï¿½n grave."
     },
     {
-      "pregunta": "La proyección de luz láser sobre conductores, si deslumbra, es:",
+      "pregunta": "La proyecciï¿½n de luz lï¿½ser sobre conductores, si deslumbra, es:",
       "opciones": [
         "a) Leve.",
         "b) Grave.",
@@ -983,27 +983,27 @@
       "respuesta_correcta": "c) Muy grave."
     },
     {
-      "pregunta": "El consumo de alcohol en la calle (botellón) es sancionable cuando:",
+      "pregunta": "El consumo de alcohol en la calle (botellï¿½n) es sancionable cuando:",
       "opciones": [
         "a) Siempre.",
         "b) Perturbe gravemente la tranquilidad ciudadana.",
         "c) Sea de noche.",
-        "d) Sean más de 3 personas."
+        "d) Sean mï¿½s de 3 personas."
       ],
       "respuesta_correcta": "b) Perturbe gravemente la tranquilidad ciudadana."
     },
     {
-      "pregunta": "¿Quién puede ser sancionado como organizador de una manifestación no comunicada?",
+      "pregunta": "ï¿½Quiï¿½n puede ser sancionado como organizador de una manifestaciï¿½n no comunicada?",
       "opciones": [
-        "a) El que la convoca, preside o ejerce la dirección.",
-        "b) El que pasa por allí.",
-        "c) El policía.",
+        "a) El que la convoca, preside o ejerce la direcciï¿½n.",
+        "b) El que pasa por allï¿½.",
+        "c) El policï¿½a.",
         "d) El alcalde."
       ],
-      "respuesta_correcta": "a) El que la convoca, preside o ejerce la dirección."
+      "respuesta_correcta": "a) El que la convoca, preside o ejerce la direcciï¿½n."
     },
     {
-      "pregunta": "¿Cuándo se puede identificar a alguien embozado (con la cara tapada)?",
+      "pregunta": "ï¿½Cuï¿½ndo se puede identificar a alguien embozado (con la cara tapada)?",
       "opciones": [
         "a) Siempre que se requiera para prevenir o investigar infracciones.",
         "b) Nunca.",
@@ -1013,7 +1013,7 @@
       "respuesta_correcta": "a) Siempre que se requiera para prevenir o investigar infracciones."
     },
     {
-      "pregunta": "¿Qué valor tiene el pasaporte dentro de España para españoles?",
+      "pregunta": "ï¿½Quï¿½ valor tiene el pasaporte dentro de Espaï¿½a para espaï¿½oles?",
       "opciones": [
         "a) Ninguno.",
         "b) Acredita la identidad igual que el DNI.",
@@ -1023,17 +1023,17 @@
       "respuesta_correcta": "b) Acredita la identidad igual que el DNI."
     },
     {
-      "pregunta": "¿Qué pasa si se rompe el precinto policial de un local?",
+      "pregunta": "ï¿½Quï¿½ pasa si se rompe el precinto policial de un local?",
       "opciones": [
         "a) Nada.",
-        "b) Es una infracción grave (si no es delito).",
+        "b) Es una infracciï¿½n grave (si no es delito).",
         "c) Es leve.",
         "d) Es muy grave."
       ],
-      "respuesta_correcta": "b) Es una infracción grave (si no es delito)."
+      "respuesta_correcta": "b) Es una infracciï¿½n grave (si no es delito)."
     },
     {
-      "pregunta": "¿Qué responsabilidad tienen los organizadores de espectáculos deportivos por los altercados?",
+      "pregunta": "ï¿½Quï¿½ responsabilidad tienen los organizadores de espectï¿½culos deportivos por los altercados?",
       "opciones": [
         "a) Ninguna.",
         "b) Pueden ser responsables de infracciones graves o muy graves por falta de medidas de seguridad.",
@@ -1043,57 +1043,57 @@
       "respuesta_correcta": "b) Pueden ser responsables de infracciones graves o muy graves por falta de medidas de seguridad."
     },
     {
-      "pregunta": "¿Qué es la 'retirada de la denuncia' en la LO 4/2015?",
+      "pregunta": "ï¿½Quï¿½ es la 'retirada de la denuncia' en la LO 4/2015?",
       "opciones": [
         "a) Que el agente se arrepiente.",
-        "b) No cabe retirada si es de oficio; el procedimiento sigue si hay interés público.",
+        "b) No cabe retirada si es de oficio; el procedimiento sigue si hay interï¿½s pï¿½blico.",
         "c) Que se archiva.",
         "d) Que se rompe el papel."
       ],
-      "respuesta_correcta": "b) No cabe retirada si es de oficio; el procedimiento sigue si hay interés público."
+      "respuesta_correcta": "b) No cabe retirada si es de oficio; el procedimiento sigue si hay interï¿½s pï¿½blico."
     },
     {
-      "pregunta": "¿Qué plazo hay para comunicar el cambio de domicilio en el DNI?",
+      "pregunta": "ï¿½Quï¿½ plazo hay para comunicar el cambio de domicilio en el DNI?",
       "opciones": [
         "a) 1 mes.",
-        "b) Lo antes posible (obligación de mantenerlo actualizado).",
-        "c) 1 año.",
+        "b) Lo antes posible (obligaciï¿½n de mantenerlo actualizado).",
+        "c) 1 aï¿½o.",
         "d) No es obligatorio."
       ],
-      "respuesta_correcta": "b) Lo antes posible (obligación de mantenerlo actualizado)."
+      "respuesta_correcta": "b) Lo antes posible (obligaciï¿½n de mantenerlo actualizado)."
     },
     {
-      "pregunta": "¿Quién firma el DNI?",
+      "pregunta": "ï¿½Quiï¿½n firma el DNI?",
       "opciones": [
         "a) El Rey.",
-        "b) El Director General de la Policía.",
+        "b) El Director General de la Policï¿½a.",
         "c) El Ministro.",
         "d) El ciudadano."
       ],
-      "respuesta_correcta": "b) El Director General de la Policía."
+      "respuesta_correcta": "b) El Director General de la Policï¿½a."
     },
     {
-      "pregunta": "¿Qué es el 'cacheo con desnudo integral'?",
+      "pregunta": "ï¿½Quï¿½ es el 'cacheo con desnudo integral'?",
       "opciones": [
-        "a) Una práctica habitual.",
-        "b) Una medida excepcional que requiere autorización y privacidad máxima, solo ante indicios muy fuertes.",
+        "a) Una prï¿½ctica habitual.",
+        "b) Una medida excepcional que requiere autorizaciï¿½n y privacidad mï¿½xima, solo ante indicios muy fuertes.",
         "c) Ilegal siempre.",
         "d) Permitido en la calle."
       ],
-      "respuesta_correcta": "b) Una medida excepcional que requiere autorización y privacidad máxima, solo ante indicios muy fuertes."
+      "respuesta_correcta": "b) Una medida excepcional que requiere autorizaciï¿½n y privacidad mï¿½xima, solo ante indicios muy fuertes."
     },
     {
-      "pregunta": "¿Qué es la 'seguridad ciudadana' según la LO 4/2015?",
+      "pregunta": "ï¿½Quï¿½ es la 'seguridad ciudadana' segï¿½n la LO 4/2015?",
       "opciones": [
         "a) La ausencia de delitos.",
-        "b) La garantía de que los derechos y libertades puedan ejercerse libremente.",
-        "c) Tener muchos policías.",
+        "b) La garantï¿½a de que los derechos y libertades puedan ejercerse libremente.",
+        "c) Tener muchos policï¿½as.",
         "d) Tener alarmas."
       ],
-      "respuesta_correcta": "b) La garantía de que los derechos y libertades puedan ejercerse libremente."
+      "respuesta_correcta": "b) La garantï¿½a de que los derechos y libertades puedan ejercerse libremente."
     },
     {
-      "pregunta": "¿Qué carácter tienen las multas de la LO 4/2015?",
+      "pregunta": "ï¿½Quï¿½ carï¿½cter tienen las multas de la LO 4/2015?",
       "opciones": [
         "a) Penal.",
         "b) Administrativo.",
@@ -1103,27 +1103,27 @@
       "respuesta_correcta": "b) Administrativo."
     },
     {
-      "pregunta": "¿Se puede recurrir una multa de la LO 4/2015 ante el juez?",
+      "pregunta": "ï¿½Se puede recurrir una multa de la LO 4/2015 ante el juez?",
       "opciones": [
         "a) No.",
-        "b) Sí, ante la jurisdicción contencioso-administrativa.",
-        "c) Sí, ante lo penal.",
-        "d) Sí, ante el constitucional."
+        "b) Sï¿½, ante la jurisdicciï¿½n contencioso-administrativa.",
+        "c) Sï¿½, ante lo penal.",
+        "d) Sï¿½, ante el constitucional."
       ],
-      "respuesta_correcta": "b) Sí, ante la jurisdicción contencioso-administrativa."
+      "respuesta_correcta": "b) Sï¿½, ante la jurisdicciï¿½n contencioso-administrativa."
     },
     {
-      "pregunta": "¿Qué plazo tiene la Administración para ejecutar la sanción?",
+      "pregunta": "ï¿½Quï¿½ plazo tiene la Administraciï¿½n para ejecutar la sanciï¿½n?",
       "opciones": [
-        "a) 1 año.",
-        "b) 2 años.",
-        "c) Depende de la prescripción de la sanción.",
-        "d) 5 años."
+        "a) 1 aï¿½o.",
+        "b) 2 aï¿½os.",
+        "c) Depende de la prescripciï¿½n de la sanciï¿½n.",
+        "d) 5 aï¿½os."
       ],
-      "respuesta_correcta": "c) Depende de la prescripción de la sanción."
+      "respuesta_correcta": "c) Depende de la prescripciï¿½n de la sanciï¿½n."
     },
     {
-      "pregunta": "¿Qué es la 'obstrucción a la autoridad'?",
+      "pregunta": "ï¿½Quï¿½ es la 'obstrucciï¿½n a la autoridad'?",
       "opciones": [
         "a) Ayudar.",
         "b) Impedir el ejercicio de sus funciones.",
@@ -1133,4 +1133,4 @@
       "respuesta_correcta": "b) Impedir el ejercicio de sus funciones."
     }
   ]
-}
+}]
