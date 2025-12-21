@@ -1,0 +1,996 @@
+ {
+  "tema": "TEMA 16.- TIC, LGTEL, ADMINISTRACIÓN DIGITAL Y CIBERSEGURIDAD (100 PREGUNTAS)",
+  "descripcion": "Preguntas basadas en Ley 11/2022 (Títulos I y III-Cap III), RD 1125/2024 (Caps I y III) y Guía CCN-CERT BP/01.",
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el objeto de la Ley 11/2022, General de Telecomunicaciones?",
+      "opciones": [
+        "a) Regular los servicios de comunicación audiovisual.",
+        "b) La regulación de las telecomunicaciones, que comprenden la instalación y explotación de redes y la prestación de servicios de comunicaciones electrónicas.",
+        "c) Regular exclusivamente el uso del espectro radioeléctrico.",
+        "d) Regular los contenidos de internet."
+      ],
+      "respuesta_correcta": "b) La regulación de las telecomunicaciones, que comprenden la instalación y explotación de redes y la prestación de servicios de comunicaciones electrónicas."
+    },
+    {
+      "pregunta": "¿Qué consideración tienen las telecomunicaciones según el artículo 2 de la Ley 11/2022?",
+      "opciones": [
+        "a) Servicios públicos de titularidad estatal.",
+        "b) Servicios de interés general que se prestan en régimen de libre competencia.",
+        "c) Servicios privados sin regulación.",
+        "d) Servicios esenciales de titularidad municipal."
+      ],
+      "respuesta_correcta": "b) Servicios de interés general que se prestan en régimen de libre competencia."
+    },
+    {
+      "pregunta": "¿Están incluidos los servicios de comunicación audiovisual en el ámbito de la Ley General de Telecomunicaciones?",
+      "opciones": [
+        "a) Sí, totalmente.",
+        "b) No, están excluidos (salvo en lo relativo al transporte de señales).",
+        "c) Sí, pero solo la televisión pública.",
+        "d) Sí, si son por internet."
+      ],
+      "respuesta_correcta": "b) No, están excluidos (salvo en lo relativo al transporte de señales)."
+    },
+    {
+      "pregunta": "¿Qué objetivo persigue la Ley 11/2022 respecto al despliegue de redes?",
+      "opciones": [
+        "a) Frenarlo para ahorrar costes.",
+        "b) Promover el despliegue de redes y servicios de muy alta capacidad (como 5G) y la conectividad.",
+        "c) Mantener las redes de cobre.",
+        "d) Nacionalizar las redes."
+      ],
+      "respuesta_correcta": "b) Promover el despliegue de redes y servicios de muy alta capacidad (como 5G) y la conectividad."
+    },
+    {
+      "pregunta": "¿Qué artículo de la LGTel regula los servicios de telecomunicaciones para la seguridad nacional y protección civil?",
+      "opciones": [
+        "a) Artículo 1.",
+        "b) Artículo 4.",
+        "c) Artículo 10.",
+        "d) Artículo 20."
+      ],
+      "respuesta_correcta": "b) Artículo 4."
+    },
+    {
+      "pregunta": "¿Pueden los operadores negarse a colaborar en materia de seguridad pública?",
+      "opciones": [
+        "a) Sí, son empresas privadas.",
+        "b) No, tienen obligaciones de carácter público vinculadas a la defensa nacional, seguridad pública y protección civil.",
+        "c) Solo si no les pagan.",
+        "d) Sí, salvo estado de guerra."
+      ],
+      "respuesta_correcta": "b) No, tienen obligaciones de carácter público vinculadas a la defensa nacional, seguridad pública y protección civil."
+    },
+    {
+      "pregunta": "¿Quién garantiza el secreto de las comunicaciones en la LGTel?",
+      "opciones": [
+        "a) Solo los jueces.",
+        "b) Los operadores de redes y servicios de comunicaciones electrónicas.",
+        "c) Los usuarios.",
+        "d) Nadie."
+      ],
+      "respuesta_correcta": "b) Los operadores de redes y servicios de comunicaciones electrónicas."
+    },
+    {
+      "pregunta": "¿Cuándo se permite la interceptación de las comunicaciones sin consentimiento de los usuarios?",
+      "opciones": [
+        "a) Nunca.",
+        "b) Cuando haya resolución judicial (o en los casos previstos en la Constitución y las leyes).",
+        "c) Cuando lo pida la policía.",
+        "d) Cuando lo decida el operador."
+      ],
+      "respuesta_correcta": "b) Cuando haya resolución judicial (o en los casos previstos en la Constitución y las leyes)."
+    },
+    {
+      "pregunta": "¿Qué deben promover los operadores respecto al cifrado de las comunicaciones?",
+      "opciones": [
+        "a) Deben prohibirlo.",
+        "b) Deben garantizar el cifrado de extremo a extremo cuando sea técnicamente posible.",
+        "c) Es indiferente.",
+        "d) Solo para empresas."
+      ],
+      "respuesta_correcta": "b) Deben garantizar el cifrado de extremo a extremo cuando sea técnicamente posible."
+    },
+    {
+      "pregunta": "¿Qué es el 'spam' o comunicaciones no solicitadas según la LGTel?",
+      "opciones": [
+        "a) Está permitido siempre.",
+        "b) Los usuarios tienen derecho a no recibir llamadas automáticas sin intervención humana o mensajes comerciales sin su consentimiento previo.",
+        "c) Solo se prohíbe por correo postal.",
+        "d) Es legal si llaman de día."
+      ],
+      "respuesta_correcta": "b) Los usuarios tienen derecho a no recibir llamadas automáticas sin intervención humana o mensajes comerciales sin su consentimiento previo."
+    },
+    {
+      "pregunta": "¿Qué derecho tienen los usuarios finales sobre las guías de abonados?",
+      "opciones": [
+        "a) A aparecer obligatoriamente.",
+        "b) A figurar en ellas, y a decidir qué datos personales se incluyen o a no figurar.",
+        "c) A cobrar por aparecer.",
+        "d) A recibir una copia gratis."
+      ],
+      "respuesta_correcta": "b) A figurar en ellas, y a decidir qué datos personales se incluyen o a no figurar."
+    },
+    {
+      "pregunta": "¿Qué número es el número armonizado de interés social para casos de niños desaparecidos?",
+      "opciones": [
+        "a) 112.",
+        "b) 116000.",
+        "c) 091.",
+        "d) 062."
+      ],
+      "respuesta_correcta": "b) 116000."
+    },
+    {
+      "pregunta": "¿Qué obligación tienen los operadores respecto al número 112?",
+      "opciones": [
+        "a) Ninguna.",
+        "b) Garantizar el acceso gratuito y facilitar la información sobre la ubicación de la persona que llama.",
+        "c) Cobrar una tarifa reducida.",
+        "d) Redirigirlo al 091."
+      ],
+      "respuesta_correcta": "b) Garantizar el acceso gratuito y facilitar la información sobre la ubicación de la persona que llama."
+    },
+    {
+      "pregunta": "¿Qué es la 'Lista Robinson'? [Contexto LGTel]",
+      "opciones": [
+        "a) Una lista de morosos.",
+        "b) Una lista de exclusión publicitaria donde los usuarios se inscriben para no recibir comunicaciones comerciales.",
+        "c) Una lista de VIPs.",
+        "d) Una lista de delincuentes."
+      ],
+      "respuesta_correcta": "b) Una lista de exclusión publicitaria donde los usuarios se inscriben para no recibir comunicaciones comerciales."
+    },
+    {
+      "pregunta": "¿Qué se entiende por 'brecha de seguridad' de datos personales en telecomunicaciones?",
+      "opciones": [
+        "a) Un corte de luz.",
+        "b) La violación de la seguridad que provoca la destrucción, pérdida, alteración o acceso no autorizado a datos personales.",
+        "c) Una factura impagada.",
+        "d) Una avería del router."
+      ],
+      "respuesta_correcta": "b) La violación de la seguridad que provoca la destrucción, pérdida, alteración o acceso no autorizado a datos personales."
+    },
+    {
+      "pregunta": "¿A quién debe notificar el operador una violación de seguridad de datos personales?",
+      "opciones": [
+        "a) A nadie.",
+        "b) A la Agencia Española de Protección de Datos (y al abonado si le afecta gravemente).",
+        "c) Al Ministerio del Interior.",
+        "d) A la prensa."
+      ],
+      "respuesta_correcta": "b) A la Agencia Española de Protección de Datos (y al abonado si le afecta gravemente)."
+    },
+    {
+      "pregunta": "¿Qué es la 'interceptación legal'?",
+      "opciones": [
+        "a) Un delito.",
+        "b) La obligación de los operadores de facilitar al agente facultado (con orden judicial) la interceptación de comunicaciones.",
+        "c) Grabar llamadas de clientes.",
+        "d) Cortar la línea."
+      ],
+      "respuesta_correcta": "b) La obligación de los operadores de facilitar al agente facultado (con orden judicial) la interceptación de comunicaciones."
+    },
+    {
+      "pregunta": "¿Qué tipo de datos deben conservar los operadores obligatoriamente (Ley 25/2007 citada en LGTel)?",
+      "opciones": [
+        "a) El contenido de las llamadas.",
+        "b) Datos relativos al tráfico y localización (quién, cuándo, dónde, pero no el 'qué').",
+        "c) Las grabaciones de voz.",
+        "d) Los correos electrónicos leídos."
+      ],
+      "respuesta_correcta": "b) Datos relativos al tráfico y localización (quién, cuándo, dónde, pero no el 'qué')."
+    },
+    {
+      "pregunta": "¿Qué derecho tienen los usuarios sobre la identificación de línea llamante?",
+      "opciones": [
+        "a) A ocultar su número y a rechazar llamadas anónimas.",
+        "b) A saber siempre quién llama, incluso si oculta el número.",
+        "c) No tienen derechos.",
+        "d) A cambiar de número gratis cada mes."
+      ],
+      "respuesta_correcta": "a) A ocultar su número y a rechazar llamadas anónimas."
+    },
+    {
+      "pregunta": "Según la LGTel, ¿se pueden enviar correos comerciales (spam) sin consentimiento?",
+      "opciones": [
+        "a) Sí.",
+        "b) No, salvo que exista una relación contractual previa y sean productos similares.",
+        "c) Sí, a empresas.",
+        "d) Sí, si es publicidad política."
+      ],
+      "respuesta_correcta": "b) No, salvo que exista una relación contractual previa y sean productos similares."
+    },
+    {
+      "pregunta": "¿Qué es el 'servicio universal' de telecomunicaciones?",
+      "opciones": [
+        "a) Internet gratis para todos.",
+        "b) El conjunto definido de servicios cuya prestación se garantiza a todos los usuarios con independencia de su ubicación geográfica, a un precio asequible.",
+        "c) Tener móvil.",
+        "d) Ver la televisión."
+      ],
+      "respuesta_correcta": "b) El conjunto definido de servicios cuya prestación se garantiza a todos los usuarios con independencia de su ubicación geográfica, a un precio asequible."
+    },
+    {
+      "pregunta": "¿Incluye el servicio universal el acceso a internet de banda ancha?",
+      "opciones": [
+        "a) No.",
+        "b) Sí, a una velocidad adecuada (actualmente fijada en 10 Mbps ampliables).",
+        "c) Solo en ciudades.",
+        "d) Solo por satélite."
+      ],
+      "respuesta_correcta": "b) Sí, a una velocidad adecuada (actualmente fijada en 10 Mbps ampliables)."
+    },
+    {
+      "pregunta": "¿Quién gestiona el espectro radioeléctrico en España?",
+      "opciones": [
+        "a) Las operadoras.",
+        "b) El Estado (Gobierno/Ministerio).",
+        "c) La UE.",
+        "d) Los Ayuntamientos."
+      ],
+      "respuesta_correcta": "b) El Estado (Gobierno/Ministerio)."
+    },
+    {
+      "pregunta": "¿Qué autoridad sanciona las infracciones muy graves en materia de telecomunicaciones?",
+      "opciones": [
+        "a) La CNMC o el Ministerio (según competencias).",
+        "b) El Juez.",
+        "c) La Policía.",
+        "d) El Defensor del Pueblo."
+      ],
+      "respuesta_correcta": "a) La CNMC o el Ministerio (según competencias)."
+    },
+    {
+      "pregunta": "¿Qué son las 'cookies' según la normativa de privacidad electrónica?",
+      "opciones": [
+        "a) Galletas.",
+        "b) Dispositivos de almacenamiento y recuperación de datos en equipos terminales (requieren consentimiento informado salvo excepciones técnicas).",
+        "c) Virus.",
+        "d) Programas espía."
+      ],
+      "respuesta_correcta": "b) Dispositivos de almacenamiento y recuperación de datos en equipos terminales (requieren consentimiento informado salvo excepciones técnicas)."
+    },
+    {
+      "pregunta": "¿Qué derecho tienen los usuarios con discapacidad?",
+      "opciones": [
+        "a) A no pagar.",
+        "b) A acceder a los servicios de comunicaciones electrónicas en condiciones equivalentes al resto de usuarios.",
+        "c) A un móvil gratis.",
+        "d) A nada especial."
+      ],
+      "respuesta_correcta": "b) A acceder a los servicios de comunicaciones electrónicas en condiciones equivalentes al resto de usuarios."
+    },
+    {
+      "pregunta": "¿Qué es la 'portabilidad'?",
+      "opciones": [
+        "a) Llevar el móvil encima.",
+        "b) El derecho a conservar el número al cambiar de operador.",
+        "c) Cambiar de titular.",
+        "d) Dar de baja la línea."
+      ],
+      "respuesta_correcta": "b) El derecho a conservar el número al cambiar de operador."
+    },
+    {
+      "pregunta": "¿Qué plazo máximo tienen los operadores para ejecutar la portabilidad móvil?",
+      "opciones": [
+        "a) 1 día laborable.",
+        "b) 1 semana.",
+        "c) 1 mes.",
+        "d) 15 días."
+      ],
+      "respuesta_correcta": "a) 1 día laborable."
+    },
+    {
+      "pregunta": "¿Qué sucede con los saldos prepago no consumidos al cambiar de operador?",
+      "opciones": [
+        "a) Se pierden.",
+        "b) El usuario tiene derecho a su reembolso (con posible coste de gestión).",
+        "c) Se los queda el Estado.",
+        "d) Se donan."
+      ],
+      "respuesta_correcta": "b) El usuario tiene derecho a su reembolso (con posible coste de gestión)."
+    },
+    {
+      "pregunta": "¿Qué objetivo de conectividad establece la LGTel para el futuro?",
+      "opciones": [
+        "a) 1 Mbps para todos.",
+        "b) Universalizar el acceso a 100 Mbps para 2025.",
+        "c) Eliminar Internet.",
+        "d) Volver al cobre."
+      ],
+      "respuesta_correcta": "b) Universalizar el acceso a 100 Mbps para 2025."
+    },
+    {
+      "pregunta": "¿Cuál es el objeto del Real Decreto 1125/2024?",
+      "opciones": [
+        "a) Regular Internet en España.",
+        "b) Regular la organización y los instrumentos operativos para la Administración Digital de la Administración del Estado (AGE).",
+        "c) Crear una web del Gobierno.",
+        "d) Regular el teletrabajo."
+      ],
+      "respuesta_correcta": "b) Regular la organización y los instrumentos operativos para la Administración Digital de la Administración del Estado (AGE)."
+    },
+    {
+      "pregunta": "¿A qué entidades se aplica el RD 1125/2024?",
+      "opciones": [
+        "a) Solo a Ministerios.",
+        "b) A la Administración General del Estado y sus Organismos Públicos y Entidades de Derecho Público vinculados.",
+        "c) A las empresas privadas.",
+        "d) A las CCAA."
+      ],
+      "respuesta_correcta": "b) A la Administración General del Estado y sus Organismos Públicos y Entidades de Derecho Público vinculados."
+    },
+    {
+      "pregunta": "¿Quién es el máximo responsable de la transformación digital en un Ministerio según el modelo de gobernanza?",
+      "opciones": [
+        "a) El Ministro.",
+        "b) El Subsecretario.",
+        "c) El Director TIC.",
+        "d) El informático."
+      ],
+      "respuesta_correcta": "b) El Subsecretario (preside la CMAD)."
+    },
+    {
+      "pregunta": "¿Qué órgano colegiado es el encargado de la estrategia TIC global de la AGE?",
+      "opciones": [
+        "a) La Comisión de Estrategia TIC (CETIC).",
+        "b) La Comisión Ministerial de Administración Digital (CMAD).",
+        "c) El Consejo de Ministros.",
+        "d) La SGAD."
+      ],
+      "respuesta_correcta": "a) La Comisión de Estrategia TIC (CETIC)."
+    },
+    {
+      "pregunta": "¿Quién preside la Comisión de Estrategia TIC (CETIC)?",
+      "opciones": [
+        "a) El Presidente del Gobierno.",
+        "b) El titular del Ministerio para la Transformación Digital y de la Función Pública.",
+        "c) El Secretario General de Administración Digital.",
+        "d) El Rey."
+      ],
+      "respuesta_correcta": "b) El titular del Ministerio para la Transformación Digital y de la Función Pública."
+    },
+    {
+      "pregunta": "¿Qué son las CMAD?",
+      "opciones": [
+        "a) Comisiones Ministeriales de Administración Digital.",
+        "b) Centros de Mando.",
+        "c) Comités de Marketing.",
+        "d) Clubes de montaña."
+      ],
+      "respuesta_correcta": "a) Comisiones Ministeriales de Administración Digital."
+    },
+    {
+      "pregunta": "¿Cuál es la función principal de una CMAD?",
+      "opciones": [
+        "a) Comprar ordenadores.",
+        "b) Actuar como órgano de gobernanza interna en cada Ministerio para impulsar la transformación digital.",
+        "c) Sancionar.",
+        "d) Desarrollar software."
+      ],
+      "respuesta_correcta": "b) Actuar como órgano de gobernanza interna en cada Ministerio para impulsar la transformación digital."
+    },
+    {
+      "pregunta": "¿Qué órgano directivo impulsa la administración digital en la AGE?",
+      "opciones": [
+        "a) La Secretaría General de Administración Digital (SGAD).",
+        "b) El CNI.",
+        "c) El CCN.",
+        "d) El INE."
+      ],
+      "respuesta_correcta": "a) La Secretaría General de Administración Digital (SGAD)."
+    },
+    {
+      "pregunta": "¿Qué principio rige el modelo de gobernanza TIC de la AGE?",
+      "opciones": [
+        "a) Descentralización total.",
+        "b) Coordinación, cooperación y uso eficiente de recursos (servicios compartidos).",
+        "c) Aislamiento.",
+        "d) Gasto libre."
+      ],
+      "respuesta_correcta": "b) Coordinación, cooperación y uso eficiente de recursos (servicios compartidos)."
+    },
+    {
+      "pregunta": "¿Qué es la 'Declaración de Servicios Compartidos'?",
+      "opciones": [
+        "a) Declarar impuestos juntos.",
+        "b) La declaración por la CETIC de ciertos servicios TIC como de uso obligatorio o preferente para toda la AGE.",
+        "c) Compartir coche.",
+        "d) Una red social."
+      ],
+      "respuesta_correcta": "b) La declaración por la CETIC de ciertos servicios TIC como de uso obligatorio o preferente para toda la AGE."
+    },
+    {
+      "pregunta": "¿Qué son las Unidades TIC?",
+      "opciones": [
+        "a) Unidades policiales.",
+        "b) Unidades encargadas de la provisión y gestión de servicios TIC en cada Ministerio u Organismo.",
+        "c) Tiendas de informática.",
+        "d) Aulas de formación."
+      ],
+      "respuesta_correcta": "b) Unidades encargadas de la provisión y gestión de servicios TIC en cada Ministerio u Organismo."
+    },
+    {
+      "pregunta": "¿Qué es la 'Estrategia TIC' de la AGE?",
+      "opciones": [
+        "a) Un plan de marketing.",
+        "b) El marco estratégico global aprobado por el Consejo de Ministros (a propuesta de la CETIC) para la transformación digital.",
+        "c) Un software.",
+        "d) Una ley."
+      ],
+      "respuesta_correcta": "b) El marco estratégico global aprobado por el Consejo de Ministros (a propuesta de la CETIC) para la transformación digital."
+    },
+    {
+      "pregunta": "¿Qué es el 'Plan de Acción Departamental para la Transformación Digital'?",
+      "opciones": [
+        "a) El plan específico de cada Ministerio para aplicar la estrategia digital, aprobado por su CMAD.",
+        "b) Un plan de evacuación.",
+        "c) Un presupuesto.",
+        "d) Un inventario."
+      ],
+      "respuesta_correcta": "a) El plan específico de cada Ministerio para aplicar la estrategia digital, aprobado por su CMAD."
+    },
+    {
+      "pregunta": "¿Quién aprueba el Plan de Acción Departamental?",
+      "opciones": [
+        "a) El Ministro.",
+        "b) La CMAD del Departamento (tras informe de la SGAD).",
+        "c) El BOE.",
+        "d) Los funcionarios."
+      ],
+      "respuesta_correcta": "b) La CMAD del Departamento (tras informe de la SGAD)."
+    },
+    {
+      "pregunta": "¿Qué función tiene la Agencia Estatal de Administración Tributaria en este modelo?",
+      "opciones": [
+        "a) Ninguna.",
+        "b) Tiene un régimen singular por sus especificidades, aunque se coordina.",
+        "c) Manda sobre todos.",
+        "d) Es la SGAD."
+      ],
+      "respuesta_correcta": "b) Tiene un régimen singular por sus especificidades, aunque se coordina."
+    },
+    {
+      "pregunta": "¿Qué es la 'Nube de la AGE'? [Contexto RD 1125/2024]",
+      "opciones": [
+        "a) Lluvia.",
+        "b) Infraestructura de computación en nube híbrida para la prestación de servicios a la AGE.",
+        "c) Un archivo físico.",
+        "d) Una red social."
+      ],
+      "respuesta_correcta": "b) Infraestructura de computación en nube híbrida para la prestación de servicios a la AGE."
+    },
+    {
+      "pregunta": "¿Qué es un 'hacker'?",
+      "opciones": [
+        "a) Un delincuente siempre.",
+        "b) Una persona con profundos conocimientos técnicos que puede usarlos para mejorar la seguridad (ético) o para atacar (ciberdelincuente/black hat).",
+        "c) Un virus.",
+        "d) Un antivirus."
+      ],
+      "respuesta_correcta": "b) Una persona con profundos conocimientos técnicos que puede usarlos para mejorar la seguridad (ético) o para atacar (ciberdelincuente/black hat)."
+    },
+    {
+      "pregunta": "¿Qué es el 'Hacktivismo'?",
+      "opciones": [
+        "a) Actividad física.",
+        "b) Ataques cibernéticos motivados por ideologías políticas, sociales o religiosas.",
+        "c) Robar dinero.",
+        "d) Espionaje industrial."
+      ],
+      "respuesta_correcta": "b) Ataques cibernéticos motivados por ideologías políticas, sociales o religiosas."
+    },
+    {
+      "pregunta": "¿Qué es la 'Internet Profunda' (Deep Web)?",
+      "opciones": [
+        "a) El fondo del mar.",
+        "b) El contenido de internet que no está indexado por los motores de búsqueda convencionales (ej. bases de datos privadas).",
+        "c) La Dark Web exclusivamente.",
+        "d) Google."
+      ],
+      "respuesta_correcta": "b) El contenido de internet que no está indexado por los motores de búsqueda convencionales (ej. bases de datos privadas)."
+    },
+    {
+      "pregunta": "¿Qué es la 'Dark Web'?",
+      "opciones": [
+        "a) Internet de noche.",
+        "b) Una pequeña parte de la Deep Web intencionalmente oculta, accesible solo con software específico (Tor), a menudo asociada a actividades ilícitas.",
+        "c) La web de la policía.",
+        "d) Facebook."
+      ],
+      "respuesta_correcta": "b) Una pequeña parte de la Deep Web intencionalmente oculta, accesible solo con software específico (Tor), a menudo asociada a actividades ilícitas."
+    },
+    {
+      "pregunta": "¿Qué es 'Tor'?",
+      "opciones": [
+        "a) Un dios nórdico.",
+        "b) Una red de anonimización que permite navegar por la Dark Web ocultando la IP.",
+        "c) Un antivirus.",
+        "d) Un virus."
+      ],
+      "respuesta_correcta": "b) Una red de anonimización que permite navegar por la Dark Web ocultando la IP."
+    },
+    {
+      "pregunta": "¿Qué es el 'Malware'?",
+      "opciones": [
+        "a) Software malicioso diseñado para dañar, espiar o tomar control de un sistema (virus, troyanos, etc.).",
+        "b) Un maletín.",
+        "c) Hardware roto.",
+        "d) Un programa de dibujo."
+      ],
+      "respuesta_correcta": "a) Software malicioso diseñado para dañar, espiar o tomar control de un sistema (virus, troyanos, etc.)."
+    },
+    {
+      "pregunta": "¿Qué es un 'Ransomware'?",
+      "opciones": [
+        "a) Un rescate.",
+        "b) Malware que cifra los datos del usuario y exige un pago (rescate) para descifrarlos.",
+        "c) Un antivirus gratuito.",
+        "d) Un firewall."
+      ],
+      "respuesta_correcta": "b) Malware que cifra los datos del usuario y exige un pago (rescate) para descifrarlos."
+    },
+    {
+      "pregunta": "¿Qué es el 'Phishing'?",
+      "opciones": [
+        "a) Pescar.",
+        "b) Técnica de ingeniería social (suplantación de identidad) para engañar al usuario y robarle credenciales o datos bancarios (generalmente por email).",
+        "c) Un virus.",
+        "d) Una actualización."
+      ],
+      "respuesta_correcta": "b) Técnica de ingeniería social (suplantación de identidad) para engañar al usuario y robarle credenciales o datos bancarios (generalmente por email)."
+    },
+    {
+      "pregunta": "¿Qué es la 'Ingeniería Social' en ciberseguridad?",
+      "opciones": [
+        "a) Construir puentes.",
+        "b) Manipulación psicológica de las personas para que revelen información confidencial o realicen acciones inseguras.",
+        "c) Programar en Java.",
+        "d) Redes sociales."
+      ],
+      "respuesta_correcta": "b) Manipulación psicológica de las personas para que revelen información confidencial o realicen acciones inseguras."
+    },
+    {
+      "pregunta": "¿Qué es una 'Botnet'?",
+      "opciones": [
+        "a) Un robot.",
+        "b) Una red de ordenadores infectados (zombis) controlados remotamente por un ciberdelincuente para lanzar ataques (DDoS, spam).",
+        "c) Una red social.",
+        "d) Un antivirus."
+      ],
+      "respuesta_correcta": "b) Una red de ordenadores infectados (zombis) controlados remotamente por un ciberdelincuente para lanzar ataques (DDoS, spam)."
+    },
+    {
+      "pregunta": "¿Qué es una 'APT' (Advanced Persistent Threat)?",
+      "opciones": [
+        "a) Un apartamento.",
+        "b) Amenaza Persistente Avanzada: ataque sofisticado, prolongado y dirigido, generalmente por estados o grupos criminales potentes, para espionaje o sabotaje.",
+        "c) Un virus simple.",
+        "d) Un error de Windows."
+      ],
+      "respuesta_correcta": "b) Amenaza Persistente Avanzada: ataque sofisticado, prolongado y dirigido, generalmente por estados o grupos criminales potentes, para espionaje o sabotaje."
+    },
+    {
+      "pregunta": "¿Por qué es importante mantener el software actualizado?",
+      "opciones": [
+        "a) Para tener iconos nuevos.",
+        "b) Para corregir vulnerabilidades de seguridad que podrían ser explotadas por atacantes.",
+        "c) Para gastar batería.",
+        "d) No es importante."
+      ],
+      "respuesta_correcta": "b) Para corregir vulnerabilidades de seguridad que podrían ser explotadas por atacantes."
+    },
+    {
+      "pregunta": "¿Qué es una contraseña robusta?",
+      "opciones": [
+        "a) 123456.",
+        "b) Una combinación larga de letras (mayúsculas/minúsculas), números y símbolos, difícil de adivinar y única para cada servicio.",
+        "c) El nombre de tu perro.",
+        "d) Tu fecha de nacimiento."
+      ],
+      "respuesta_correcta": "b) Una combinación larga de letras (mayúsculas/minúsculas), números y símbolos, difícil de adivinar y única para cada servicio."
+    },
+    {
+      "pregunta": "¿Qué es la autenticación de doble factor (2FA)?",
+      "opciones": [
+        "a) Poner la contraseña dos veces.",
+        "b) Usar dos métodos diferentes para verificar la identidad (ej. contraseña + código SMS o app).",
+        "c) Tener dos cuentas.",
+        "d) No usar contraseña."
+      ],
+      "respuesta_correcta": "b) Usar dos métodos diferentes para verificar la identidad (ej. contraseña + código SMS o app)."
+    },
+    {
+      "pregunta": "¿Qué indica el protocolo HTTPS en una web?",
+      "opciones": [
+        "a) Que es lenta.",
+        "b) Que la comunicación entre el navegador y el servidor está cifrada y es segura.",
+        "c) Que tiene virus.",
+        "d) Que es pública."
+      ],
+      "respuesta_correcta": "b) Que la comunicación entre el navegador y el servidor está cifrada y es segura."
+    },
+    {
+      "pregunta": "¿Qué riesgo tienen las redes Wi-Fi públicas y abiertas?",
+      "opciones": [
+        "a) Ninguno.",
+        "b) El tráfico puede ser interceptado fácilmente por atacantes (Man-in-the-Middle).",
+        "c) Son más rápidas.",
+        "d) Gastan más batería."
+      ],
+      "respuesta_correcta": "b) El tráfico puede ser interceptado fácilmente por atacantes (Man-in-the-Middle)."
+    },
+    {
+      "pregunta": "¿Qué es la 'virtualización' en seguridad?",
+      "opciones": [
+        "a) Usar gafas VR.",
+        "b) Ejecutar sistemas operativos o aplicaciones en un entorno aislado (sandbox) para evitar que el malware afecte al sistema principal.",
+        "c) Jugar online.",
+        "d) Ver vídeos."
+      ],
+      "respuesta_correcta": "b) Ejecutar sistemas operativos o aplicaciones en un entorno aislado (sandbox) para evitar que el malware afecte al sistema principal."
+    },
+    {
+      "pregunta": "¿Qué es el IMEI de un móvil?",
+      "opciones": [
+        "a) Un correo.",
+        "b) Un identificador único del dispositivo a nivel mundial.",
+        "c) La marca.",
+        "d) El número de teléfono."
+      ],
+      "respuesta_correcta": "b) Un identificador único del dispositivo a nivel mundial."
+    },
+    {
+      "pregunta": "¿Qué es el 'Internet de las Cosas' (IoT)?",
+      "opciones": [
+        "a) Internet para ricos.",
+        "b) La interconexión digital de objetos cotidianos con internet (cámaras, neveras, relojes).",
+        "c) Una tienda online.",
+        "d) Un videojuego."
+      ],
+      "respuesta_correcta": "b) La interconexión digital de objetos cotidianos con internet (cámaras, neveras, relojes)."
+    },
+    {
+      "pregunta": "¿Cuál es el principal riesgo de seguridad en dispositivos IoT?",
+      "opciones": [
+        "a) Que gastan luz.",
+        "b) El uso de contraseñas por defecto y la falta de actualizaciones de seguridad.",
+        "c) Que son caros.",
+        "d) Que no tienen pantalla."
+      ],
+      "respuesta_correcta": "b) El uso de contraseñas por defecto y la falta de actualizaciones de seguridad."
+    },
+    {
+      "pregunta": "¿Qué es un 'Troyano'?",
+      "opciones": [
+        "a) Un caballo.",
+        "b) Malware que se disfraza de software legítimo para engañar al usuario y ejecutarse.",
+        "c) Un antivirus.",
+        "d) Un archivo de texto."
+      ],
+      "respuesta_correcta": "b) Malware que se disfraza de software legítimo para engañar al usuario y ejecutarse."
+    },
+    {
+      "pregunta": "¿Qué es el 'Spyware'?",
+      "opciones": [
+        "a) Un espía.",
+        "b) Software espía que recopila información del usuario sin su conocimiento.",
+        "c) Una cámara.",
+        "d) Un micrófono."
+      ],
+      "respuesta_correcta": "b) Software espía que recopila información del usuario sin su conocimiento."
+    },
+    {
+      "pregunta": "¿Qué se debe hacer con los ficheros adjuntos de correos desconocidos?",
+      "opciones": [
+        "a) Abrirlos siempre.",
+        "b) No abrirlos nunca y desconfiar, podrían contener malware.",
+        "c) Reenviarlos.",
+        "d) Imprimirlos."
+      ],
+      "respuesta_correcta": "b) No abrirlos nunca y desconfiar, podrían contener malware."
+    },
+    {
+      "pregunta": "¿Qué es el 'borrado seguro'?",
+      "opciones": [
+        "a) Tirar a la papelera.",
+        "b) Eliminar datos de forma que sea imposible o muy difícil su recuperación (sobrescritura).",
+        "c) Formatear rápido.",
+        "d) Romper la pantalla."
+      ],
+      "respuesta_correcta": "b) Eliminar datos de forma que sea imposible o muy difícil su recuperación (sobrescritura)."
+    },
+    {
+      "pregunta": "¿Qué es una 'copia de seguridad' (backup)?",
+      "opciones": [
+        "a) Una fotocopia.",
+        "b) Duplicado de datos en otro soporte para poder recuperarlos en caso de pérdida o ataque.",
+        "c) Un archivo oculto.",
+        "d) Una impresión."
+      ],
+      "respuesta_correcta": "b) Duplicado de datos en otro soporte para poder recuperarlos en caso de pérdida o ataque."
+    },
+    {
+      "pregunta": "¿Qué es la regla 3-2-1 en backups? [Concepto básico seguridad]",
+      "opciones": [
+        "a) Contar hasta 3.",
+        "b) 3 copias, en 2 soportes diferentes, 1 de ellas fuera de línea/lugar.",
+        "c) 3 archivos, 2 carpetas, 1 disco.",
+        "d) Hacerlo 3 veces al día."
+      ],
+      "respuesta_correcta": "b) 3 copias, en 2 soportes diferentes, 1 de ellas fuera de línea/lugar."
+    },
+    {
+      "pregunta": "¿Qué riesgo tiene el 'Grooming' en redes sociales?",
+      "opciones": [
+        "a) Perder seguidores.",
+        "b) Acoso sexual a menores por parte de adultos que se ganan su confianza.",
+        "c) Virus.",
+        "d) Spam."
+      ],
+      "respuesta_correcta": "b) Acoso sexual a menores por parte de adultos que se ganan su confianza."
+    },
+    {
+      "pregunta": "¿Qué es el 'Sexting'?",
+      "opciones": [
+        "a) Enviar mensajes de texto.",
+        "b) Envío de contenidos de tipo sexual (fotos, vídeos) a través de dispositivos móviles.",
+        "c) Una red social.",
+        "d) Un virus."
+      ],
+      "respuesta_correcta": "b) Envío de contenidos de tipo sexual (fotos, vídeos) a través de dispositivos móviles."
+    },
+    {
+      "pregunta": "¿Qué es WPA2/WPA3?",
+      "opciones": [
+        "a) Modelos de router.",
+        "b) Protocolos de seguridad y cifrado para redes Wi-Fi (más seguros que WEP).",
+        "c) Nombres de virus.",
+        "d) Antivirus."
+      ],
+      "respuesta_correcta": "b) Protocolos de seguridad y cifrado para redes Wi-Fi (más seguros que WEP)."
+    },
+    {
+      "pregunta": "¿Qué es un 'Cortafuegos' (Firewall)?",
+      "opciones": [
+        "a) Un extintor.",
+        "b) Sistema que controla y filtra el tráfico de red entrante y saliente según reglas de seguridad.",
+        "c) Un antivirus.",
+        "d) Un navegador."
+      ],
+      "respuesta_correcta": "b) Sistema que controla y filtra el tráfico de red entrante y saliente según reglas de seguridad."
+    },
+    {
+      "pregunta": "¿Qué significa que un dispositivo está 'rooteado' o con 'jailbreak'?",
+      "opciones": [
+        "a) Que está roto.",
+        "b) Que se han eliminado las restricciones de seguridad del fabricante (aumenta el riesgo).",
+        "c) Que tiene virus.",
+        "d) Que es pirata."
+      ],
+      "respuesta_correcta": "b) Que se han eliminado las restricciones de seguridad del fabricante (aumenta el riesgo)."
+    },
+    {
+      "pregunta": "¿Qué es la 'Huella digital' en internet?",
+      "opciones": [
+        "a) Tocar la pantalla.",
+        "b) El rastro de información que dejamos al navegar e interactuar en internet.",
+        "c) Un escáner.",
+        "d) Una contraseña."
+      ],
+      "respuesta_correcta": "b) El rastro de información que dejamos al navegar e interactuar en internet."
+    },
+    {
+      "pregunta": "¿Es seguro usar la misma contraseña para todo?",
+      "opciones": [
+        "a) Sí, es más cómodo.",
+        "b) No, si la roban acceden a todos tus servicios.",
+        "c) Solo si es larga.",
+        "d) Solo en el móvil."
+      ],
+      "respuesta_correcta": "b) No, si la roban acceden a todos tus servicios."
+    },
+    {
+      "pregunta": "¿Qué es un 'Ataque de denegación de servicio' (DDoS)?",
+      "opciones": [
+        "a) Cortar el cable.",
+        "b) Saturar un servidor con tráfico masivo para que deje de funcionar.",
+        "c) Borrar datos.",
+        "d) Robar contraseñas."
+      ],
+      "respuesta_correcta": "b) Saturar un servidor con tráfico masivo para que deje de funcionar."
+    },
+    {
+      "pregunta": "¿Qué es el 'Cifrado'?",
+      "opciones": [
+        "a) Poner números.",
+        "b) Transformar la información para que sea ilegible sin la clave de descifrado.",
+        "c) Comprimir archivos.",
+        "d) Borrar datos."
+      ],
+      "respuesta_correcta": "b) Transformar la información para que sea ilegible sin la clave de descifrado."
+    },
+    {
+      "pregunta": "¿Qué es la 'VPN' (Red Privada Virtual)?",
+      "opciones": [
+        "a) Un canal de TV.",
+        "b) Tecnología que crea una conexión segura y cifrada sobre una red menos segura (internet).",
+        "c) Un virus.",
+        "d) Un navegador."
+      ],
+      "respuesta_correcta": "b) Tecnología que crea una conexión segura y cifrada sobre una red menos segura (internet)."
+    },
+    {
+      "pregunta": "¿Qué es el 'Spear Phishing'?",
+      "opciones": [
+        "a) Pesca con lanza.",
+        "b) Phishing dirigido específicamente a una persona o empresa concreta (más peligroso).",
+        "c) Phishing masivo.",
+        "d) Phishing por SMS."
+      ],
+      "respuesta_correcta": "b) Phishing dirigido específicamente a una persona o empresa concreta (más peligroso)."
+    },
+    {
+      "pregunta": "¿Qué es el 'Smishing'?",
+      "opciones": [
+        "a) Phishing por SMS.",
+        "b) Phishing por email.",
+        "c) Phishing por voz.",
+        "d) Sonreír."
+      ],
+      "respuesta_correcta": "a) Phishing por SMS."
+    },
+    {
+      "pregunta": "¿Qué es el 'Vishing'?",
+      "opciones": [
+        "a) Ver vídeos.",
+        "b) Phishing por llamada de voz (teléfono).",
+        "c) Phishing por vídeo.",
+        "d) Phishing visual."
+      ],
+      "respuesta_correcta": "b) Phishing por llamada de voz (teléfono)."
+    },
+    {
+      "pregunta": "¿Qué es un 'Zero-day' (Día cero)?",
+      "opciones": [
+        "a) El día de instalación.",
+        "b) Una vulnerabilidad desconocida por el fabricante para la que aún no hay parche.",
+        "c) Un virus viejo.",
+        "d) El primer día del año."
+      ],
+      "respuesta_correcta": "b) Una vulnerabilidad desconocida por el fabricante para la que aún no hay parche."
+    },
+    {
+      "pregunta": "¿Qué es la 'Esteganografía'? [Concepto técnico relacionado]",
+      "opciones": [
+        "a) Escribir rápido.",
+        "b) Ocultar información dentro de otros archivos (ej. mensajes en fotos).",
+        "c) Cifrar.",
+        "d) Comprimir."
+      ],
+      "respuesta_correcta": "b) Ocultar información dentro de otros archivos (ej. mensajes en fotos)."
+    },
+    {
+      "pregunta": "¿Qué se debe hacer antes de vender un móvil usado?",
+      "opciones": [
+        "a) Limpiarlo con un paño.",
+        "b) Restaurar a valores de fábrica y asegurar el borrado seguro de datos.",
+        "c) Quitar la funda.",
+        "d) Apagarlo."
+      ],
+      "respuesta_correcta": "b) Restaurar a valores de fábrica y asegurar el borrado seguro de datos."
+    },
+    {
+      "pregunta": "¿Qué es el 'bloqueo de pantalla' en móviles?",
+      "opciones": [
+        "a) Que se rompe.",
+        "b) Medida básica de seguridad (PIN, patrón, biometría) para impedir el acceso físico no autorizado.",
+        "c) Apagar la luz.",
+        "d) Modo avión."
+      ],
+      "respuesta_correcta": "b) Medida básica de seguridad (PIN, patrón, biometría) para impedir el acceso físico no autorizado."
+    },
+    {
+      "pregunta": "¿Qué es la 'geolocalización' y qué riesgo tiene?",
+      "opciones": [
+        "a) Saber dónde estás; riesgo de privacidad si se comparte en redes sociales (robo en casa, acoso).",
+        "b) Un mapa.",
+        "c) Un juego.",
+        "d) No tiene riesgo."
+      ],
+      "respuesta_correcta": "a) Saber dónde estás; riesgo de privacidad si se comparte en redes sociales (robo en casa, acoso)."
+    },
+    {
+      "pregunta": "¿Qué es el 'incidente de seguridad'?",
+      "opciones": [
+        "a) Un accidente.",
+        "b) Cualquier suceso que afecte a la confidencialidad, integridad o disponibilidad de los activos de información.",
+        "c) Romper el ordenador.",
+        "d) Perder el ratón."
+      ],
+      "respuesta_correcta": "b) Cualquier suceso que afecte a la confidencialidad, integridad o disponibilidad de los activos de información."
+    },
+    {
+      "pregunta": "¿Qué es el CCN-CERT? [Contexto documento]",
+      "opciones": [
+        "a) Una empresa.",
+        "b) La Capacidad de Respuesta a incidentes de Seguridad de la Información del Centro Criptológico Nacional.",
+        "c) Un juzgado.",
+        "d) Una universidad."
+      ],
+      "respuesta_correcta": "b) La Capacidad de Respuesta a incidentes de Seguridad de la Información del Centro Criptológico Nacional."
+    },
+    {
+      "pregunta": "¿Qué significa que una web empiece por 'http://' (sin S)?",
+      "opciones": [
+        "a) Que es segura.",
+        "b) Que la conexión no está cifrada y los datos viajan en texto claro (insegura).",
+        "c) Que es rápida.",
+        "d) Que es nueva."
+      ],
+      "respuesta_correcta": "b) Que la conexión no está cifrada y los datos viajan en texto claro (insegura)."
+    },
+    {
+      "pregunta": "¿Qué es el 'spam'?",
+      "opciones": [
+        "a) Carne en lata.",
+        "b) Correo basura no solicitado, generalmente publicitario o malicioso.",
+        "c) Un virus.",
+        "d) Un antivirus."
+      ],
+      "respuesta_correcta": "b) Correo basura no solicitado, generalmente publicitario o malicioso."
+    },
+    {
+      "pregunta": "¿Qué es la 'privacidad por defecto' en redes sociales?",
+      "opciones": [
+        "a) Que todo sea público.",
+        "b) Configuración donde la información solo es visible para el usuario y sus contactos, no para todo el mundo.",
+        "c) Borrar la cuenta.",
+        "d) No tener foto."
+      ],
+      "respuesta_correcta": "b) Configuración donde la información solo es visible para el usuario y sus contactos, no para todo el mundo."
+    },
+    {
+      "pregunta": "¿Qué es un 'Keylogger'?",
+      "opciones": [
+        "a) Una llave.",
+        "b) Malware que registra las pulsaciones del teclado para robar contraseñas.",
+        "c) Un candado.",
+        "d) Un juego."
+      ],
+      "respuesta_correcta": "b) Malware que registra las pulsaciones del teclado para robar contraseñas."
+    },
+    {
+      "pregunta": "¿Qué es la 'Integridad' de la información? [Concepto básico seguridad]",
+      "opciones": [
+        "a) Que sea verdad.",
+        "b) Garantía de que la información no ha sido modificada por no autorizados.",
+        "c) Que sea secreta.",
+        "d) Que esté disponible."
+      ],
+      "respuesta_correcta": "b) Garantía de que la información no ha sido modificada por no autorizados."
+    },
+    {
+      "pregunta": "¿Qué es la 'Confidencialidad'? [Concepto básico seguridad]",
+      "opciones": [
+        "a) Que nadie lo sepa.",
+        "b) Garantía de que la información solo es accesible por personas autorizadas.",
+        "c) Que no se borre.",
+        "d) Que sea rápida."
+      ],
+      "respuesta_correcta": "b) Garantía de que la información solo es accesible por personas autorizadas."
+    },
+    {
+      "pregunta": "¿Qué es la 'Disponibilidad'? [Concepto básico seguridad]",
+      "opciones": [
+        "a) Estar libre.",
+        "b) Garantía de que la información y los sistemas están accesibles cuando se necesitan.",
+        "c) Tener internet.",
+        "d) Tener batería."
+      ],
+      "respuesta_correcta": "b) Garantía de que la información y los sistemas están accesibles cuando se necesitan."
+    }
+  ]
+}

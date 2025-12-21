@@ -1,0 +1,1006 @@
+{
+  "tema": "TEMA 1.- ESTATUTO DEL PERSONAL DE LA GUARDIA CIVIL (100 PREGUNTAS)",
+  "descripcion": "Batería de preguntas basada en Ley 29/2014, LO 11/2007, LO 12/2007, Orden PRE/1983/2012 y Protocolos de Acoso.",
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es la naturaleza del Cuerpo de la Guardia Civil según la Ley 29/2014?",
+      "opciones": [
+        "a) Cuerpo de Seguridad Civil.",
+        "b) Instituto Armado de naturaleza militar.",
+        "c) Fuerza Armada permanente.",
+        "d) Cuerpo Policial Administrativo."
+      ],
+      "respuesta_correcta": "b) Instituto Armado de naturaleza militar."
+    },
+    {
+      "pregunta": "¿Qué escalas constituyen el Cuerpo de la Guardia Civil?",
+      "opciones": [
+        "a) Oficiales, Suboficiales y Tropa.",
+        "b) Superior, Ejecutiva y Básica.",
+        "c) Oficiales, Suboficiales y Cabos y Guardias.",
+        "d) Mando, Inspección y Ejecución."
+      ],
+      "respuesta_correcta": "c) Oficiales, Suboficiales y Cabos y Guardias."
+    },
+    {
+      "pregunta": "¿Cómo se adquiere la condición de guardia civil?",
+      "opciones": [
+        "a) Al aprobar la oposición.",
+        "b) Al ingresar en el centro de formación.",
+        "c) Al obtener el primer empleo, tras superar el plan de estudios y jurar o prometer el cargo.",
+        "d) Al cumplir un año de servicio."
+      ],
+      "respuesta_correcta": "c) Al obtener el primer empleo, tras superar el plan de estudios y jurar o prometer el cargo."
+    },
+    {
+      "pregunta": "¿Cuál es la edad de jubilación forzosa para los miembros de la Guardia Civil?",
+      "opciones": [
+        "a) 60 años.",
+        "b) 65 años.",
+        "c) 67 años.",
+        "d) 58 años."
+      ],
+      "respuesta_correcta": "b) 65 años."
+    },
+    {
+      "pregunta": "¿En qué situación administrativa se encuentra un guardia civil que cesa en el servicio activo por adquirir la condición de personal estatutario de la sanidad militar?",
+      "opciones": [
+        "a) Excedencia voluntaria por interés particular.",
+        "b) Servicios especiales.",
+        "c) Servicio en la Administración Civil.",
+        "d) Reserva."
+      ],
+      "respuesta_correcta": "b) Servicios especiales."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo mínimo de servicios efectivos para pasar a la excedencia voluntaria por interés particular?",
+      "opciones": [
+        "a) 3 años.",
+        "b) 5 años.",
+        "c) 2 años.",
+        "d) No hay tiempo mínimo."
+      ],
+      "respuesta_correcta": "b) 5 años."
+    },
+    {
+      "pregunta": "¿Qué situación administrativa conlleva el cese en el ejercicio de funciones y la pérdida de destino, pero computa a efectos de trienios y derechos pasivos?",
+      "opciones": [
+        "a) Suspensión de empleo.",
+        "b) Suspenso de funciones.",
+        "c) Excedencia voluntaria.",
+        "d) Servicio activo."
+      ],
+      "respuesta_correcta": "a) Suspensión de empleo."
+    },
+    {
+      "pregunta": "El empleo de Cabo Mayor, ¿a qué sistema de ascenso está sujeto?",
+      "opciones": [
+        "a) Antigüedad.",
+        "b) Concurso-oposición.",
+        "c) Elección.",
+        "d) Clasificación."
+      ],
+      "respuesta_correcta": "c) Elección."
+    },
+    {
+      "pregunta": "¿Cuál es el sistema de ascenso para el empleo de Cabo?",
+      "opciones": [
+        "a) Antigüedad.",
+        "b) Concurso-oposición.",
+        "c) Elección.",
+        "d) Clasificación."
+      ],
+      "respuesta_correcta": "b) Concurso-oposición."
+    },
+    {
+      "pregunta": "¿Qué condecoración se otorga para premiar la constancia en el servicio e intachable conducta?",
+      "opciones": [
+        "a) La Cruz del Mérito de la Guardia Civil.",
+        "b) La Real y Militar Orden de San Hermenegildo.",
+        "c) La Cruz de Plata.",
+        "d) La Orden del Mérito Militar."
+      ],
+      "respuesta_correcta": "b) La Real y Militar Orden de San Hermenegildo."
+    },
+    {
+      "pregunta": "Según la LO 11/2007, ¿tienen derecho de huelga los Guardias Civiles?",
+      "opciones": [
+        "a) Sí, con servicios mínimos.",
+        "b) No, no tienen derecho de huelga ni pueden realizar acciones sustitutivas.",
+        "c) Sí, si no visten uniforme.",
+        "d) Solo para reclamaciones no económicas."
+      ],
+      "respuesta_correcta": "b) No, no tienen derecho de huelga ni pueden realizar acciones sustitutivas."
+    },
+    {
+      "pregunta": "¿Pueden los Guardias Civiles pertenecer a partidos políticos?",
+      "opciones": [
+        "a) Sí, libremente.",
+        "b) Sí, pero no pueden ocupar cargos.",
+        "c) No, no podrán fundar ni afiliarse a partidos políticos.",
+        "d) Solo si están en situación de reserva."
+      ],
+      "respuesta_correcta": "c) No, no podrán fundar ni afiliarse a partidos políticos."
+    },
+    {
+      "pregunta": "¿Qué órgano se crea para mejorar las condiciones profesionales y como cauce de participación de los Guardias Civiles?",
+      "opciones": [
+        "a) El Consejo Superior de la Guardia Civil.",
+        "b) El Consejo de la Guardia Civil.",
+        "c) La Junta de Personal.",
+        "d) El Sindicato Unificado."
+      ],
+      "respuesta_correcta": "b) El Consejo de la Guardia Civil."
+    },
+    {
+      "pregunta": "¿Quién preside el Consejo de la Guardia Civil?",
+      "opciones": [
+        "a) El Director General de la Guardia Civil.",
+        "b) El Ministro del Interior.",
+        "c) El Rey.",
+        "d) El DAO."
+      ],
+      "respuesta_correcta": "b) El Ministro del Interior."
+    },
+    {
+      "pregunta": "El deber de secreto profesional afecta a:",
+      "opciones": [
+        "a) Solo a los oficiales.",
+        "b) Todos los miembros de la Guardia Civil sobre asuntos que conozcan por razón de su cargo que estén clasificados.",
+        "c) Solo a la información judicial.",
+        "d) Exclusivamente a temas de terrorismo."
+      ],
+      "respuesta_correcta": "b) Todos los miembros de la Guardia Civil sobre asuntos que conozcan por razón de su cargo que estén clasificados."
+    },
+    {
+      "pregunta": "¿Es obligatorio el uso del uniforme para los Guardias Civiles?",
+      "opciones": [
+        "a) Siempre, incluso fuera de servicio.",
+        "b) Sí, en la prestación del servicio, salvo las excepciones previstas.",
+        "c) Es opcional si el servicio es administrativo.",
+        "d) No, se puede elegir paisano."
+      ],
+      "respuesta_correcta": "b) Sí, en la prestación del servicio, salvo las excepciones previstas."
+    },
+    {
+      "pregunta": "¿Pueden las asociaciones profesionales de Guardias Civiles tener carácter lucrativo?",
+      "opciones": [
+        "a) Sí, para financiar sus actividades.",
+        "b) No, deben ser sin ánimo de lucro.",
+        "c) Sí, si lo aprueba el Consejo.",
+        "d) Depende de sus estatutos."
+      ],
+      "respuesta_correcta": "b) No, deben ser sin ánimo de lucro."
+    },
+    {
+      "pregunta": "¿Tienen derecho los Guardias Civiles a la libre circulación por el territorio nacional?",
+      "opciones": [
+        "a) No, está restringido.",
+        "b) Sí, sin limitación alguna.",
+        "c) Sí, pero con la obligación de comunicar su desplazamiento si es fuera de su residencia habitual (según normativa).",
+        "d) Solo en vacaciones."
+      ],
+      "respuesta_correcta": "c) Sí, pero con la obligación de comunicar su desplazamiento si es fuera de su residencia habitual (según normativa)."
+    },
+    {
+      "pregunta": "¿Qué tipo de quejas pueden presentar los Guardias Civiles?",
+      "opciones": [
+        "a) Solo operativas.",
+        "b) Sobre régimen de personal, condiciones de vida y funcionamiento de unidades.",
+        "c) Solo sobre salario.",
+        "d) Ninguna, está prohibido quejarse."
+      ],
+      "respuesta_correcta": "b) Sobre régimen de personal, condiciones de vida y funcionamiento de unidades."
+    },
+    {
+      "pregunta": "¿Pueden los Guardias Civiles ejercer el derecho de reunión?",
+      "opciones": [
+        "a) No, nunca.",
+        "b) Sí, pero no pueden asistir de uniforme ni con armas a reuniones públicas.",
+        "c) Sí, incluso de uniforme si es una manifestación legal.",
+        "d) Solo en recintos cerrados."
+      ],
+      "respuesta_correcta": "b) Sí, pero no pueden asistir de uniforme ni con armas a reuniones públicas."
+    },
+    {
+      "pregunta": "¿Cómo se clasifican las faltas disciplinarias según la LO 12/2007?",
+      "opciones": [
+        "a) Leves y Graves.",
+        "b) Leves, Menos Graves y Graves.",
+        "c) Leves, Graves y Muy Graves.",
+        "d) Simples y Complejas."
+      ],
+      "respuesta_correcta": "c) Leves, Graves y Muy Graves."
+    },
+    {
+      "pregunta": "¿Qué sanción corresponde exclusivamente a las faltas muy graves?",
+      "opciones": [
+        "a) Suspensión de empleo de un mes.",
+        "b) Separación del servicio.",
+        "c) Pérdida de destino.",
+        "d) Reprensión."
+      ],
+      "respuesta_correcta": "b) Separación del servicio."
+    },
+    {
+      "pregunta": "¿Cuál es la duración máxima de la sanción de pérdida de haberes para faltas leves?",
+      "opciones": [
+        "a) De 1 a 4 días.",
+        "b) De 5 a 10 días.",
+        "c) De 1 a 8 días.",
+        "d) De 1 a 30 días."
+      ],
+      "respuesta_correcta": "a) De 1 a 4 días."
+    },
+    {
+      "pregunta": "¿Cuándo prescriben las faltas muy graves?",
+      "opciones": [
+        "a) A los 2 años.",
+        "b) A los 3 años.",
+        "c) A los 4 años.",
+        "d) A los 6 meses."
+      ],
+      "respuesta_correcta": "b) A los 3 años."
+    },
+    {
+      "pregunta": "¿Cuándo prescriben las faltas graves?",
+      "opciones": [
+        "a) A los 2 años.",
+        "b) Al año.",
+        "c) A los 6 meses.",
+        "d) A los 3 años."
+      ],
+      "respuesta_correcta": "a) A los 2 años."
+    },
+    {
+      "pregunta": "¿Cuándo prescriben las faltas leves?",
+      "opciones": [
+        "a) Al mes.",
+        "b) A los 2 meses.",
+        "c) A los 6 meses.",
+        "d) A los 15 días."
+      ],
+      "respuesta_correcta": "b) A los 2 meses."
+    },
+    {
+      "pregunta": "¿Quién es competente para sancionar la separación del servicio?",
+      "opciones": [
+        "a) El Director General.",
+        "b) El Ministro del Interior.",
+        "c) El Ministro de Defensa.",
+        "d) El Consejo de Ministros."
+      ],
+      "respuesta_correcta": "c) El Ministro de Defensa."
+    },
+    {
+      "pregunta": "¿Quién impone la sanción de suspensión de empleo por falta muy grave?",
+      "opciones": [
+        "a) El Director General.",
+        "b) El Ministro del Interior.",
+        "c) El Ministro de Defensa.",
+        "d) El General de la Zona."
+      ],
+      "respuesta_correcta": "b) El Ministro del Interior."
+    },
+    {
+      "pregunta": "¿Qué autoridad puede imponer sanciones por faltas graves?",
+      "opciones": [
+        "a) Solo el Director General.",
+        "b) El Director General y los Oficiales Generales con mando.",
+        "c) Cualquier Oficial.",
+        "d) El Ministro de Defensa únicamente."
+      ],
+      "respuesta_correcta": "a) Solo el Director General."
+    },
+    {
+      "pregunta": "¿Qué supone la sanción de pérdida de destino?",
+      "opciones": [
+        "a) El cese en el destino actual y la prohibición de solicitarlo durante 2 años.",
+        "b) El cese en el destino y prohibición de solicitarlo durante 1 año.",
+        "c) El traslado forzoso a otra provincia.",
+        "d) La pérdida de la especialidad."
+      ],
+      "respuesta_correcta": "a) El cese en el destino actual y la prohibición de solicitarlo durante 2 años."
+    },
+    {
+      "pregunta": "La 'embriaguez o consumo de drogas durante el servicio o con habitualidad' es una falta:",
+      "opciones": [
+        "a) Leve.",
+        "b) Grave.",
+        "c) Muy Grave.",
+        "d) No es falta si no afecta al servicio."
+      ],
+      "respuesta_correcta": "b) Grave."
+    },
+    {
+      "pregunta": "El 'abuso de atribuciones que cause grave perjuicio a los ciudadanos' es una falta:",
+      "opciones": [
+        "a) Leve.",
+        "b) Grave.",
+        "c) Muy Grave.",
+        "d) Penal, no disciplinaria."
+      ],
+      "respuesta_correcta": "c) Muy Grave."
+    },
+    {
+      "pregunta": "La 'inexactitud en el cumplimiento de las órdenes recibidas' es una falta:",
+      "opciones": [
+        "a) Leve.",
+        "b) Grave.",
+        "c) Muy Grave.",
+        "d) Administrativa."
+      ],
+      "respuesta_correcta": "a) Leve."
+    },
+    {
+      "pregunta": "¿Qué medida cautelar puede acordarse durante la tramitación de un expediente disciplinario por falta muy grave?",
+      "opciones": [
+        "a) Arresto domiciliario.",
+        "b) Suspensión provisional de funciones.",
+        "c) Pérdida de sueldo total.",
+        "d) Retirada del uniforme."
+      ],
+      "respuesta_correcta": "b) Suspensión provisional de funciones."
+    },
+    {
+      "pregunta": "¿Cuál es la duración máxima de la suspensión provisional de funciones?",
+      "opciones": [
+        "a) 3 meses.",
+        "b) 6 meses.",
+        "c) 1 año.",
+        "d) El tiempo que dure el expediente."
+      ],
+      "respuesta_correcta": "b) 6 meses."
+    },
+    {
+      "pregunta": "El 'retraso, negligencia o inexactitud en el cumplimiento de los deberes u obligaciones' es falta:",
+      "opciones": [
+        "a) Leve.",
+        "b) Grave.",
+        "c) Muy Grave.",
+        "d) No es falta."
+      ],
+      "respuesta_correcta": "a) Leve."
+    },
+    {
+      "pregunta": "¿Qué recurso cabe contra una sanción disciplinaria por falta leve?",
+      "opciones": [
+        "a) Recurso de Reposición.",
+        "b) Recurso de Alzada.",
+        "c) Recurso Contencioso-Disciplinario Militar.",
+        "d) Recurso de Revisión."
+      ],
+      "respuesta_correcta": "b) Recurso de Alzada."
+    },
+    {
+      "pregunta": "¿Quiénes tienen potestad para ordenar la incoación de expediente por faltas graves?",
+      "opciones": [
+        "a) Cualquier Cabo.",
+        "b) Director General, Oficiales Generales, Jefes de Comandancia y Jefes de Unidad similar.",
+        "c) Solo el Ministro.",
+        "d) El Instructor."
+      ],
+      "respuesta_correcta": "b) Director General, Oficiales Generales, Jefes de Comandancia y Jefes de Unidad similar."
+    },
+    {
+      "pregunta": "¿En qué consiste la sanción de reprensión?",
+      "opciones": [
+        "a) Una multa económica.",
+        "b) La reprobación expresa, por escrito, de la conducta.",
+        "c) Un arresto de un día.",
+        "d) Una charla verbal."
+      ],
+      "respuesta_correcta": "b) La reprobación expresa, por escrito, de la conducta."
+    },
+    {
+      "pregunta": "La 'violación del secreto profesional' es una falta:",
+      "opciones": [
+        "a) Leve.",
+        "b) Grave.",
+        "c) Muy Grave.",
+        "d) Depende del perjuicio causado."
+      ],
+      "respuesta_correcta": "c) Muy Grave."
+    },
+    {
+      "pregunta": "¿Cuál es la norma fundamental que define el comportamiento del Guardia Civil según la Orden PRE/1983/2012?",
+      "opciones": [
+        "a) La disciplina.",
+        "b) El compañerismo.",
+        "c) El valor.",
+        "d) La eficacia."
+      ],
+      "respuesta_correcta": "a) La disciplina."
+    },
+    {
+      "pregunta": "¿Cómo deben ser las órdenes según la Orden PRE/1983/2012?",
+      "opciones": [
+        "a) Sugerencias claras.",
+        "b) Claras, concisas y precisas.",
+        "c) Largas y detalladas.",
+        "d) Escritas siempre."
+      ],
+      "respuesta_correcta": "b) Claras, concisas y precisas."
+    },
+    {
+      "pregunta": "El saludo militar, según las normas de régimen interior, es:",
+      "opciones": [
+        "a) Opcional fuera de servicio.",
+        "b) Expresión de respeto mutuo, disciplina y unión.",
+        "c) Solo obligatorio para subordinados.",
+        "d) Un gesto histórico sin valor actual."
+      ],
+      "respuesta_correcta": "b) Expresión de respeto mutuo, disciplina y unión."
+    },
+    {
+      "pregunta": "¿Quién tiene la responsabilidad de mantener la disciplina en una unidad?",
+      "opciones": [
+        "a) El más antiguo.",
+        "b) El Mando.",
+        "c) Todos los componentes.",
+        "d) El servicio de régimen interior."
+      ],
+      "respuesta_correcta": "b) El Mando."
+    },
+    {
+      "pregunta": "Si un Guardia Civil recibe una orden que considera contraria a la Constitución, ¿qué debe hacer?",
+      "opciones": [
+        "a) Cumplirla y luego reclamar.",
+        "b) No está obligado a obedecerla.",
+        "c) Cumplirla parcialmente.",
+        "d) Solicitarla por escrito."
+      ],
+      "respuesta_correcta": "b) No está obligado a obedecerla."
+    },
+    {
+      "pregunta": "¿Qué tratamiento se debe dar a los ciudadanos según las normas de conducta?",
+      "opciones": [
+        "a) De tú.",
+        "b) De usted, con corrección y esmero.",
+        "c) Autoritario.",
+        "d) Distante."
+      ],
+      "respuesta_correcta": "b) De usted, con corrección y esmero."
+    },
+    {
+      "pregunta": "¿Qué se entiende por 'conducto reglamentario'?",
+      "opciones": [
+        "a) El uso del correo electrónico oficial.",
+        "b) La transmisión de órdenes, informes y solicitudes a través de la cadena jerárquica.",
+        "c) Hablar directamente con el General.",
+        "d) El uso de la emisora."
+      ],
+      "respuesta_correcta": "b) La transmisión de órdenes, informes y solicitudes a través de la cadena jerárquica."
+    },
+    {
+      "pregunta": "En ausencia del Mando titular, ¿quién asume el mando?",
+      "opciones": [
+        "a) Nadie, se espera a su vuelta.",
+        "b) El de mayor empleo o antigüedad (Sucesión de Mando).",
+        "c) El que designe el titular.",
+        "d) El Guardia de Puertas."
+      ],
+      "respuesta_correcta": "b) El de mayor empleo o antigüedad (Sucesión de Mando)."
+    },
+    {
+      "pregunta": "¿Qué implica la 'iniciativa' en el ejercicio del mando?",
+      "opciones": [
+        "a) Hacer lo que uno quiera.",
+        "b) La capacidad de actuar ante situaciones imprevistas respetando el espíritu de las órdenes.",
+        "c) Desobedecer órdenes antiguas.",
+        "d) Modificar los reglamentos."
+      ],
+      "respuesta_correcta": "b) La capacidad de actuar ante situaciones imprevistas respetando el espíritu de las órdenes."
+    },
+    {
+      "pregunta": "¿Cómo debe ser la corrección al subordinado?",
+      "opciones": [
+        "a) Pública para que todos aprendan.",
+        "b) Privada siempre que sea posible, evitando humillaciones.",
+        "c) A gritos para imponer autoridad.",
+        "d) Por escrito siempre."
+      ],
+      "respuesta_correcta": "b) Privada siempre que sea posible, evitando humillaciones."
+    },
+    {
+      "pregunta": "En el protocolo de acoso laboral, ¿qué es el 'aislamiento social'?",
+      "opciones": [
+        "a) Trabajar en un puesto rural.",
+        "b) Ignorar la presencia de la persona, no dirigirle la palabra o restringir sus comunicaciones.",
+        "c) Prohibir el uso del móvil.",
+        "d) El arresto domiciliario."
+      ],
+      "respuesta_correcta": "b) Ignorar la presencia de la persona, no dirigirle la palabra o restringir sus comunicaciones."
+    },
+    {
+      "pregunta": "¿Qué es el 'acoso sexual' según el Protocolo de 2019?",
+      "opciones": [
+        "a) Cualquier comportamiento verbal o físico de naturaleza sexual no deseado que atente contra la dignidad.",
+        "b) Cualquier discriminación por sexo.",
+        "c) El trato desfavorable por embarazo.",
+        "d) Solo la agresión física."
+      ],
+      "respuesta_correcta": "a) Cualquier comportamiento verbal o físico de naturaleza sexual no deseado que atente contra la dignidad."
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre 'acoso sexual' y 'acoso por razón de sexo'?",
+      "opciones": [
+        "a) Son lo mismo.",
+        "b) El primero es de naturaleza sexual y el segundo es discriminación por el hecho de ser hombre o mujer.",
+        "c) El primero es físico y el segundo verbal.",
+        "d) El primero es delito y el segundo falta."
+      ],
+      "respuesta_correcta": "b) El primero es de naturaleza sexual y el segundo es discriminación por el hecho de ser hombre o mujer."
+    },
+    {
+      "pregunta": "¿Qué función tiene el 'Asesor Confidencial' en los protocolos de acoso?",
+      "opciones": [
+        "a) Sancionar al acosador.",
+        "b) Prestar apoyo, información y asesoramiento a la presunta víctima.",
+        "c) Defender al mando.",
+        "d) Publicar el caso en prensa."
+      ],
+      "respuesta_correcta": "b) Prestar apoyo, información y asesoramiento a la presunta víctima."
+    },
+    {
+      "pregunta": "¿Quién nombra a los Asesores Confidenciales?",
+      "opciones": [
+        "a) El Jefe de la Unidad.",
+        "b) El Director General de la Guardia Civil.",
+        "c) Las asociaciones.",
+        "d) Los propios compañeros."
+      ],
+      "respuesta_correcta": "b) El Director General de la Guardia Civil."
+    },
+    {
+      "pregunta": "¿Cómo se inicia el procedimiento por acoso?",
+      "opciones": [
+        "a) Solo de oficio.",
+        "b) Mediante parte o denuncia (solicitud de activación del protocolo).",
+        "c) Por rumorología.",
+        "d) Por queja anónima."
+      ],
+      "respuesta_correcta": "b) Mediante parte o denuncia (solicitud de activación del protocolo)."
+    },
+    {
+      "pregunta": "¿Qué principio rige la tramitación de los protocolos de acoso?",
+      "opciones": [
+        "a) Publicidad.",
+        "b) Confidencialidad.",
+        "c) Lentitud.",
+        "d) Oralidad exclusiva."
+      ],
+      "respuesta_correcta": "b) Confidencialidad."
+    },
+    {
+      "pregunta": "¿Puede el Mando adoptar medidas cautelares al activar el protocolo de acoso?",
+      "opciones": [
+        "a) No, debe esperar a la sanción.",
+        "b) Sí, como el cambio de servicio o dependencia para separar a las partes.",
+        "c) Sí, puede expulsar al denunciado inmediatamente.",
+        "d) No tiene competencias."
+      ],
+      "respuesta_correcta": "b) Sí, como el cambio de servicio o dependencia para separar a las partes."
+    },
+    {
+      "pregunta": "El chantaje sexual se considera:",
+      "opciones": [
+        "a) Acoso sexual 'Quid pro quo'.",
+        "b) Acoso ambiental.",
+        "c) Falta leve.",
+        "d) Trato discriminatorio."
+      ],
+      "respuesta_correcta": "a) Acoso sexual 'Quid pro quo'."
+    },
+    {
+      "pregunta": "¿Es el acoso laboral una falta disciplinaria?",
+      "opciones": [
+        "a) Sí, generalmente Muy Grave.",
+        "b) No, es solo un conflicto personal.",
+        "c) Solo si hay agresión.",
+        "d) Es falta leve."
+      ],
+      "respuesta_correcta": "a) Sí, generalmente Muy Grave."
+    },
+    {
+      "pregunta": "¿Qué empleo es el superior jerárquico inmediato del Cabo 1º?",
+      "opciones": [
+        "a) Cabo Mayor.",
+        "b) Sargento.",
+        "c) Guardia Civil.",
+        "d) Sargento 1º."
+      ],
+      "respuesta_correcta": "a) Cabo Mayor."
+    },
+    {
+      "pregunta": "¿Qué es la 'hoja de servicios'?",
+      "opciones": [
+        "a) El cuadrante de servicio mensual.",
+        "b) El documento donde constan los hechos y circunstancias de la vida profesional del guardia civil.",
+        "c) El expediente disciplinario.",
+        "d) El historial médico."
+      ],
+      "respuesta_correcta": "b) El documento donde constan los hechos y circunstancias de la vida profesional del guardia civil."
+    },
+    {
+      "pregunta": "¿Quién evalúa para el ascenso a los miembros de la escala de Cabos y Guardias?",
+      "opciones": [
+        "a) El Consejo Superior.",
+        "b) La Junta de Evaluación correspondiente.",
+        "c) El Jefe de la Unidad.",
+        "d) El Mando de Personal."
+      ],
+      "respuesta_correcta": "b) La Junta de Evaluación correspondiente."
+    },
+    {
+      "pregunta": "¿Qué sucede si un guardia civil rechaza una prueba de detección de alcohol o drogas?",
+      "opciones": [
+        "a) Nada, es su derecho.",
+        "b) Comete una falta grave.",
+        "c) Comete una falta muy grave.",
+        "d) Se le sanciona con multa."
+      ],
+      "respuesta_correcta": "c) Comete una falta muy grave."
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo máximo de arresto por falta leve si se aplicara el régimen disciplinario de las Fuerzas Armadas (en misiones internacionales)?",
+      "opciones": [
+        "a) 14 días.",
+        "b) 30 días.",
+        "c) 4 días.",
+        "d) 8 días."
+      ],
+      "respuesta_correcta": "a) 14 días."
+    },
+    {
+      "pregunta": "¿Qué efecto tiene la cancelación de una nota desfavorable en el expediente?",
+      "opciones": [
+        "a) Ninguno.",
+        "b) La anulación de sus efectos y su eliminación del expediente.",
+        "c) Se mantiene pero no cuenta para ascensos.",
+        "d) Se convierte en falta leve."
+      ],
+      "respuesta_correcta": "b) La anulación de sus efectos y su eliminación del expediente."
+    },
+    {
+      "pregunta": "¿Quién puede solicitar la incoación del procedimiento de Habeas Corpus en el ámbito disciplinario militar (arrestos)?",
+      "opciones": [
+        "a) Solo el abogado.",
+        "b) El sancionado, su cónyuge, descendientes, ascendientes o hermanos.",
+        "c) Solo el sancionado.",
+        "d) El Defensor del Pueblo."
+      ],
+      "respuesta_correcta": "b) El sancionado, su cónyuge, descendientes, ascendientes o hermanos."
+    },
+    {
+      "pregunta": "¿Qué es la 'Reserva' como situación administrativa?",
+      "opciones": [
+        "a) Estar jubilado.",
+        "b) Situación en la que se permanece a disposición del Ministro del Interior para el cumplimiento de funciones específicas.",
+        "c) Estar de baja médica.",
+        "d) Estar suspendido."
+      ],
+      "respuesta_correcta": "b) Situación en la que se permanece a disposición del Ministro del Interior para el cumplimiento de funciones específicas."
+    },
+    {
+      "pregunta": "¿Hasta qué edad se permanece en la situación de reserva?",
+      "opciones": [
+        "a) Hasta los 61 años.",
+        "b) Hasta los 63 años.",
+        "c) Hasta los 65 años.",
+        "d) De por vida."
+      ],
+      "respuesta_correcta": "c) Hasta los 65 años."
+    },
+    {
+      "pregunta": "¿Pueden los extranjeros ingresar en la Guardia Civil?",
+      "opciones": [
+        "a) Sí, si son de la UE.",
+        "b) No, se requiere nacionalidad española.",
+        "c) Sí, con permiso de residencia.",
+        "d) Solo latinoamericanos."
+      ],
+      "respuesta_correcta": "b) No, se requiere nacionalidad española."
+    },
+    {
+      "pregunta": "¿Qué requisito es indispensable para el ascenso a cualquier empleo?",
+      "opciones": [
+        "a) Tener una carrera universitaria.",
+        "b) Tener cumplido el tiempo mínimo de servicios en el empleo anterior.",
+        "c) Haber sido condecorado.",
+        "d) No tener hijos."
+      ],
+      "respuesta_correcta": "b) Tener cumplido el tiempo mínimo de servicios en el empleo anterior."
+    },
+    {
+      "pregunta": "La 'falta de colaboración con otras Fuerzas y Cuerpos de Seguridad' es falta:",
+      "opciones": [
+        "a) Leve.",
+        "b) Grave.",
+        "c) Muy Grave.",
+        "d) No es sancionable."
+      ],
+      "respuesta_correcta": "b) Grave."
+    },
+    {
+      "pregunta": "¿Qué implica la 'pérdida de puestos en el escalafón'?",
+      "opciones": [
+        "a) Bajar de empleo.",
+        "b) Retraso en el orden de escalafón dentro del mismo empleo.",
+        "c) Perder la antigüedad en el Cuerpo.",
+        "d) Ser el último de la promoción."
+      ],
+      "respuesta_correcta": "b) Retraso en el orden de escalafón dentro del mismo empleo."
+    },
+    {
+      "pregunta": "¿Cuándo se cancelan de oficio las notas desfavorables por faltas leves?",
+      "opciones": [
+        "a) A los 6 meses.",
+        "b) Al año.",
+        "c) A los 2 años.",
+        "d) A los 3 meses."
+      ],
+      "respuesta_correcta": "a) A los 6 meses."
+    },
+    {
+      "pregunta": "¿Cuándo se cancelan las faltas graves?",
+      "opciones": [
+        "a) A los 2 años.",
+        "b) A los 3 años.",
+        "c) A los 4 años.",
+        "d) A los 5 años."
+      ],
+      "respuesta_correcta": "a) A los 2 años."
+    },
+    {
+      "pregunta": "¿Qué ocurre si un guardia civil es condenado por sentencia firme a pena de inhabilitación absoluta?",
+      "opciones": [
+        "a) Pasa a la reserva.",
+        "b) Pierde la condición de guardia civil.",
+        "c) Suspensión de empleo.",
+        "d) Excedencia forzosa."
+      ],
+      "respuesta_correcta": "b) Pierde la condición de guardia civil."
+    },
+    {
+      "pregunta": "La 'asistencia de uniforme a manifestaciones políticas' es falta:",
+      "opciones": [
+        "a) Leve.",
+        "b) Grave.",
+        "c) Muy Grave.",
+        "d) Permitida."
+      ],
+      "respuesta_correcta": "b) Grave."
+    },
+    {
+      "pregunta": "¿Quién puede ordenar el 'arresto' como medida disciplinaria (solo en supuestos de LO 12/2007 aplicables a misiones militares/conflicto)?",
+      "opciones": [
+        "a) Cualquier mando.",
+        "b) El mando con potestad sancionadora.",
+        "c) El Juez Togado.",
+        "d) El Director General."
+      ],
+      "respuesta_correcta": "b) El mando con potestad sancionadora."
+    },
+    {
+      "pregunta": "¿Qué es el 'Servicio de Asuntos Internos'?",
+      "opciones": [
+        "a) Un sindicato.",
+        "b) La unidad encargada de investigar conductas contrarias a la ética y disciplina profesional.",
+        "c) El servicio de limpieza.",
+        "d) La oficina de bajas."
+      ],
+      "respuesta_correcta": "b) La unidad encargada de investigar conductas contrarias a la ética y disciplina profesional."
+    },
+    {
+      "pregunta": "En caso de catástrofe o calamidad pública, ¿está obligado el guardia civil a presentarse aunque esté fuera de servicio?",
+      "opciones": [
+        "a) No, es su tiempo libre.",
+        "b) Sí, debe presentarse en su unidad o en la más próxima.",
+        "c) Solo si le llaman por teléfono.",
+        "d) Solo si le pagan horas extra."
+      ],
+      "respuesta_correcta": "b) Sí, debe presentarse en su unidad o en la más próxima."
+    },
+    {
+      "pregunta": "¿Qué plazo tiene la Administración para resolver un expediente por falta muy grave?",
+      "opciones": [
+        "a) 3 meses.",
+        "b) 6 meses.",
+        "c) 9 meses.",
+        "d) 1 año."
+      ],
+      "respuesta_correcta": "b) 6 meses."
+    },
+    {
+      "pregunta": "¿Qué plazo tiene para resolver por falta grave?",
+      "opciones": [
+        "a) 3 meses.",
+        "b) 6 meses.",
+        "c) 1 mes.",
+        "d) 1 año."
+      ],
+      "respuesta_correcta": "b) 6 meses."
+    },
+    {
+      "pregunta": "¿Qué se entiende por 'conducta ejemplar' en el mando?",
+      "opciones": [
+        "a) No tener multas de tráfico.",
+        "b) Ser el espejo en el que deben mirarse los subordinados.",
+        "c) Ser el más antiguo.",
+        "d) No cometer errores."
+      ],
+      "respuesta_correcta": "b) Ser el espejo en el que deben mirarse los subordinados."
+    },
+    {
+      "pregunta": "¿Qué es el IPEC?",
+      "opciones": [
+        "a) Un impuesto.",
+        "b) El Informe Personal de Calificación.",
+        "c) El Instituto de Personal.",
+        "d) El Índice de Productividad."
+      ],
+      "respuesta_correcta": "b) El Informe Personal de Calificación."
+    },
+    {
+      "pregunta": "¿Quién califica en el IPEC?",
+      "opciones": [
+        "a) El compañero.",
+        "b) El superior jerárquico.",
+        "c) Uno mismo.",
+        "d) Recursos Humanos."
+      ],
+      "respuesta_correcta": "b) El superior jerárquico."
+    },
+    {
+      "pregunta": "El guardia civil que pase a situación de excedencia voluntaria por prestación de servicios en el sector público, ¿recibe retribuciones de la Guardia Civil?",
+      "opciones": [
+        "a) Sí, el 50%.",
+        "b) No, solo devenga trienios.",
+        "c) Sí, completas.",
+        "d) No, ninguna."
+      ],
+      "respuesta_correcta": "b) No, solo devenga trienios."
+    },
+    {
+      "pregunta": "¿Qué es la 'rehabilitación' de los guardias civiles separados del servicio?",
+      "opciones": [
+        "a) Volver a ingresar tras una baja médica.",
+        "b) No existe, la separación es definitiva.",
+        "c) Es posible excepcionalmente por acuerdo del Consejo de Ministros.",
+        "d) Se produce automáticamente a los 10 años."
+      ],
+      "respuesta_correcta": "c) Es posible excepcionalmente por acuerdo del Consejo de Ministros."
+    },
+    {
+      "pregunta": "¿Qué sucede si se agotan los plazos de instrucción sin resolución sancionadora?",
+      "opciones": [
+        "a) Se amplía el plazo.",
+        "b) Se produce la caducidad del procedimiento.",
+        "c) Se sanciona automáticamente.",
+        "d) Se envía al Juez."
+      ],
+      "respuesta_correcta": "b) Se produce la caducidad del procedimiento."
+    },
+    {
+      "pregunta": "¿Puede un guardia civil ser sancionado dos veces por los mismos hechos?",
+      "opciones": [
+        "a) Sí, penal y disciplinariamente.",
+        "b) No, principio 'Non bis in idem' (salvo compatibilidad penal/disciplinaria estricta, pero no dos sanciones administrativas).",
+        "c) Sí, si lo pide el fiscal.",
+        "d) Sí, si son faltas leves."
+      ],
+      "respuesta_correcta": "b) No, principio 'Non bis in idem' (salvo compatibilidad penal/disciplinaria estricta, pero no dos sanciones administrativas)."
+    },
+    {
+      "pregunta": "¿Quién nombra a los Instructores de los expedientes disciplinarios?",
+      "opciones": [
+        "a) La autoridad que ordena la incoación.",
+        "b) El sancionado.",
+        "c) El Juez.",
+        "d) El Secretario."
+      ],
+      "respuesta_correcta": "a) La autoridad que ordena la incoación."
+    },
+    {
+      "pregunta": "¿El guardia civil tiene derecho a asistencia letrada en el expediente disciplinario por falta grave?",
+      "opciones": [
+        "a) No.",
+        "b) Sí, siempre.",
+        "c) Solo si la paga él.",
+        "d) Solo para faltas muy graves."
+      ],
+      "respuesta_correcta": "b) Sí, siempre."
+    },
+    {
+      "pregunta": "¿Qué es la 'audiencia al interesado' en el procedimiento disciplinario?",
+      "opciones": [
+        "a) Un juicio oral.",
+        "b) El derecho del encartado a alegar y presentar pruebas.",
+        "c) La lectura de la sentencia.",
+        "d) La notificación final."
+      ],
+      "respuesta_correcta": "b) El derecho del encartado a alegar y presentar pruebas."
+    },
+    {
+      "pregunta": "Promover o participar en riñas con compañeros es falta:",
+      "opciones": [
+        "a) Leve.",
+        "b) Grave.",
+        "c) Muy Grave.",
+        "d) Delito."
+      ],
+      "respuesta_correcta": "b) Grave."
+    },
+    {
+      "pregunta": "¿Qué conducta es considerada falta muy grave en relación con el secreto profesional?",
+      "opciones": [
+        "a) Hablar de trabajo en casa.",
+        "b) La violación del secreto profesional.",
+        "c) No clasificar un documento.",
+        "d) Perder una llave."
+      ],
+      "respuesta_correcta": "b) La violación del secreto profesional."
+    },
+    {
+      "pregunta": "¿Qué es la 'revocación' de un destino?",
+      "opciones": [
+        "a) La confirmación del destino.",
+        "b) El cese en el destino por causas tasadas (pérdida de confianza, falta de idoneidad, etc.).",
+        "c) El ascenso.",
+        "d) La jubilación."
+      ],
+      "respuesta_correcta": "b) El cese en el destino por causas tasadas (pérdida de confianza, falta de idoneidad, etc.)."
+    },
+    {
+      "pregunta": "¿Quién debe velar por la igualdad efectiva entre mujeres y hombres en la Guardia Civil?",
+      "opciones": [
+        "a) Solo el Observatorio de la Mujer.",
+        "b) Los poderes públicos y la propia Institución.",
+        "c) Solo las mujeres.",
+        "d) El Ministerio de Igualdad exclusivamente."
+      ],
+      "respuesta_correcta": "b) Los poderes públicos y la propia Institución."
+    },
+    {
+      "pregunta": "La 'no comparecencia injustificada a un reconocimiento médico acordado' es falta:",
+      "opciones": [
+        "a) Leve.",
+        "b) Grave.",
+        "c) Muy Grave.",
+        "d) No es falta."
+      ],
+      "respuesta_correcta": "b) Grave."
+    },
+    {
+      "pregunta": "¿Qué valor moral fundamental se destaca en las Reales Ordenanzas aplicables a la Guardia Civil?",
+      "opciones": [
+        "a) La riqueza.",
+        "b) El espíritu de sacrificio.",
+        "c) La ambición.",
+        "d) La individualidad."
+      ],
+      "respuesta_correcta": "b) El espíritu de sacrificio."
+    },
+    {
+      "pregunta": "¿Qué se debe hacer al escuchar el Himno Nacional en un acto oficial vistiendo uniforme?",
+      "opciones": [
+        "a) Sentarse.",
+        "b) Ponerse en posición de saludo militar.",
+        "c) Aplaudir.",
+        "d) Cantarlo en voz alta."
+      ],
+      "respuesta_correcta": "b) Ponerse en posición de saludo militar."
+    },
+    {
+      "pregunta": "¿Cuál es la finalidad principal del régimen disciplinario?",
+      "opciones": [
+        "a) Castigar por castigar.",
+        "b) Garantizar la observancia de la Constitución y el ordenamiento jurídico y el mantenimiento de la disciplina.",
+        "c) Recaudar dinero con multas.",
+        "d) Reducir la plantilla."
+      ],
+      "respuesta_correcta": "b) Garantizar la observancia de la Constitución y el ordenamiento jurídico y el mantenimiento de la disciplina."
+    }
+  ]
+}

@@ -1,0 +1,1086 @@
+{
+  "tema": "TEMA 10.- VIOLENCIA DE GÉNERO Y MENORES (100 PREGUNTAS)",
+  "descripcion": "Preguntas basadas en LO 1/2004, CP (Arts. violencia), LECrim (Orden Protección), Instrucción 4/2019 (VioGén), Protocolo Telemático 2024 e Instrucción 1/2017 (Menores).",
+  "preguntas": [
+    {
+      "pregunta": "Según la LO 1/2004, ¿contra quién se manifiesta la violencia de género?",
+      "opciones": [
+        "a) Contra las mujeres y sus hijos menores exclusivamente.",
+        "b) Contra las mujeres por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.",
+        "c) Contra cualquier miembro de la unidad familiar.",
+        "d) Contra las mujeres, ancianos y niños en el ámbito doméstico."
+      ],
+      "respuesta_correcta": "b) Contra las mujeres por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia."
+    },
+    {
+      "pregunta": "¿Qué comprende la violencia de género según el artículo 1 de la LO 1/2004?",
+      "opciones": [
+        "a) Solo la violencia física.",
+        "b) Todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad.",
+        "c) Solo la violencia física y sexual.",
+        "d) La violencia física, psicológica y la económica exclusivamente."
+      ],
+      "respuesta_correcta": "b) Todo acto de violencia física y psicológica, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones o la privación arbitraria de libertad."
+    },
+    {
+      "pregunta": "¿Tienen derecho las víctimas de violencia de género a la asistencia jurídica gratuita?",
+      "opciones": [
+        "a) Sí, siempre que acrediten insuficiencia de recursos.",
+        "b) Sí, inmediata, con independencia de sus recursos económicos.",
+        "c) No, salvo que lo dictamine el juez.",
+        "d) Solo si hay sentencia firme."
+      ],
+      "respuesta_correcta": "b) Sí, inmediata, con independencia de sus recursos económicos."
+    },
+    {
+      "pregunta": "Las trabajadoras víctimas de violencia de género tienen derecho a:",
+      "opciones": [
+        "a) La reducción o reordenación de su tiempo de trabajo, movilidad geográfica, cambio de centro, suspensión de la relación laboral o extinción del contrato.",
+        "b) Un aumento de sueldo del 10%.",
+        "c) Vacaciones ilimitadas.",
+        "d) Solo a la baja médica."
+      ],
+      "respuesta_correcta": "a) La reducción o reordenación de su tiempo de trabajo, movilidad geográfica, cambio de centro, suspensión de la relación laboral o extinción del contrato."
+    },
+    {
+      "pregunta": "¿Qué organismo se encarga de la supervisión y coordinación de las políticas públicas en materia de violencia de género a nivel estatal?",
+      "opciones": [
+        "a) El Consejo de Estado.",
+        "b) La Delegación Especial del Gobierno contra la Violencia sobre la Mujer.",
+        "c) El Ministerio del Interior.",
+        "d) El Observatorio Estatal de Violencia sobre la Mujer."
+      ],
+      "respuesta_correcta": "b) La Delegación Especial del Gobierno contra la Violencia sobre la Mujer."
+    },
+    {
+      "pregunta": "¿Quién preside el Observatorio Estatal de Violencia sobre la Mujer?",
+      "opciones": [
+        "a) El Presidente del Gobierno.",
+        "b) El titular del Ministerio competente en materia de Asuntos Sociales (Igualdad).",
+        "c) El Ministro del Interior.",
+        "d) El Fiscal General del Estado."
+      ],
+      "respuesta_correcta": "b) El titular del Ministerio competente en materia de Asuntos Sociales (Igualdad)."
+    },
+    {
+      "pregunta": "Según el Código Penal, el que por cualquier medio o procedimiento causare a otro menoscabo psíquico o una lesión de menor gravedad (art. 153) a su esposa o exesposa, será castigado con:",
+      "opciones": [
+        "a) Multa solamente.",
+        "b) Prisión de seis meses a un año o trabajos en beneficio de la comunidad.",
+        "c) Prisión de 2 a 5 años.",
+        "d) Localización permanente."
+      ],
+      "respuesta_correcta": "b) Prisión de seis meses a un año o trabajos en beneficio de la comunidad."
+    },
+    {
+      "pregunta": "¿Qué delito comete quien acose a una persona de forma insistente y reiterada alterando gravemente su vida cotidiana (Stalking)?",
+      "opciones": [
+        "a) Coacciones leves.",
+        "b) Acoso (Art. 172 ter).",
+        "c) Amenazas.",
+        "d) Trato degradante."
+      ],
+      "respuesta_correcta": "b) Acoso (Art. 172 ter)."
+    },
+    {
+      "pregunta": "El delito de 'matrimonio forzado' (Art. 172 bis CP) castiga a quien:",
+      "opciones": [
+        "a) Se case por interés.",
+        "b) Con intimidación grave o violencia compeliere a otra persona a contraer matrimonio.",
+        "c) Se case con un menor de 18 años.",
+        "d) No pague la dote."
+      ],
+      "respuesta_correcta": "b) Con intimidación grave o violencia compeliere a otra persona a contraer matrimonio."
+    },
+    {
+      "pregunta": "¿Qué pena conlleva la habitualidad en la violencia física o psíquica (Art. 173.2 CP) sobre el cónyuge o persona ligada por análoga relación?",
+      "opciones": [
+        "a) Prisión de 6 meses a 3 años.",
+        "b) Multa de 1 a 2 meses.",
+        "c) Localización permanente.",
+        "d) Prisión de 5 a 10 años."
+      ],
+      "respuesta_correcta": "a) Prisión de 6 meses a 3 años."
+    },
+    {
+      "pregunta": "Según la LECrim, ¿qué naturaleza tiene la Orden de Protección (Art. 544 ter)?",
+      "opciones": [
+        "a) Exclusivamente penal.",
+        "b) Exclusivamente civil.",
+        "c) Unifica medidas de naturaleza penal y civil en una misma resolución.",
+        "d) Administrativa."
+      ],
+      "respuesta_correcta": "c) Unifica medidas de naturaleza penal y civil en una misma resolución."
+    },
+    {
+      "pregunta": "¿En qué plazo máximo debe celebrar el Juez la audiencia para la Orden de Protección desde su solicitud?",
+      "opciones": [
+        "a) 24 horas.",
+        "b) 48 horas.",
+        "c) 72 horas.",
+        "d) 1 semana."
+      ],
+      "respuesta_correcta": "c) 72 horas."
+    },
+    {
+      "pregunta": "¿Quién puede solicitar la Orden de Protección?",
+      "opciones": [
+        "a) Solo la víctima.",
+        "b) La víctima, sus parientes, el Ministerio Fiscal, o el Juez de oficio.",
+        "c) Solo la policía.",
+        "d) Solo el abogado."
+      ],
+      "respuesta_correcta": "b) La víctima, sus parientes, el Ministerio Fiscal, o el Juez de oficio."
+    },
+    {
+      "pregunta": "Según el Art. 544 bis de la LECrim, ¿qué medida puede imponer el juez para protección de la víctima?",
+      "opciones": [
+        "a) Prisión permanente revisable.",
+        "b) Prohibición de residir o acudir a determinados lugares, o de aproximarse o comunicarse con la víctima.",
+        "c) Multa coercitiva.",
+        "d) Expulsión del país."
+      ],
+      "respuesta_correcta": "b) Prohibición de residir o acudir a determinados lugares, o de aproximarse o comunicarse con la víctima."
+    },
+    {
+      "pregunta": "En la Instrucción 4/2019, ¿qué es el 'VPER'?",
+      "opciones": [
+        "a) Valoración Policial de Emergencia Rápida.",
+        "b) Valoración Policial de la Evolución del Riesgo.",
+        "c) Verificación Policial de Entrada y Registro.",
+        "d) Vigilancia Policial Específica de Riesgo."
+      ],
+      "respuesta_correcta": "b) Valoración Policial de la Evolución del Riesgo."
+    },
+    {
+      "pregunta": "¿Qué niveles de riesgo establece el sistema VioGén?",
+      "opciones": [
+        "a) Nulo, Bajo, Medio y Alto.",
+        "b) No apreciado, Bajo, Medio, Alto y Extremo.",
+        "c) Leve, Grave y Muy Grave.",
+        "d) Verde, Amarillo, Naranja y Rojo."
+      ],
+      "respuesta_correcta": "b) No apreciado, Bajo, Medio, Alto y Extremo."
+    },
+    {
+      "pregunta": "¿Cuándo se considera un caso 'Inactivo' en VioGén?",
+      "opciones": [
+        "a) Cuando la víctima retira la denuncia.",
+        "b) Cuando no es objeto de atención policial (temporal o definitivamente) por sentencia absolutoria, sobreseimiento, o ausencia de medidas y riesgo.",
+        "c) Cuando el agresor está en prisión.",
+        "d) Cuando la víctima se muda."
+      ],
+      "respuesta_correcta": "b) Cuando no es objeto de atención policial (temporal o definitivamente) por sentencia absolutoria, sobreseimiento, o ausencia de medidas y riesgo."
+    },
+    {
+      "pregunta": "Según la Instrucción 4/2019, ¿qué formulario se utiliza para la primera valoración de riesgo?",
+      "opciones": [
+        "a) Formulario VPER.",
+        "b) Formulario VPR (Valoración Policial del Riesgo).",
+        "c) Formulario H.",
+        "d) Formulario M."
+      ],
+      "respuesta_correcta": "b) Formulario VPR (Valoración Policial del Riesgo)."
+    },
+    {
+      "pregunta": "¿Qué se debe hacer en un nivel de riesgo 'Extremo'?",
+      "opciones": [
+        "a) Llamar a la víctima una vez a la semana.",
+        "b) Protección permanente de la víctima (vigilancia física 24h) hasta que deje de ser inminente.",
+        "c) Contacto telefónico esporádico.",
+        "d) Aconsejarle que se cambie de domicilio."
+      ],
+      "respuesta_correcta": "b) Protección permanente de la víctima (vigilancia física 24h) hasta que deje de ser inminente."
+    },
+    {
+      "pregunta": "¿Con qué frecuencia se debe revisar el riesgo 'Alto' según la Instrucción 4/2019?",
+      "opciones": [
+        "a) Cada 72 horas.",
+        "b) Cada 7 días.",
+        "c) Cada 30 días.",
+        "d) Cada 60 días."
+      ],
+      "respuesta_correcta": "b) Cada 7 días."
+    },
+    {
+      "pregunta": "¿Y la revisión del riesgo 'Medio'?",
+      "opciones": [
+        "a) Cada 7 días.",
+        "b) Cada 30 días.",
+        "c) Cada 60 días.",
+        "d) Cada 90 días."
+      ],
+      "respuesta_correcta": "b) Cada 30 días."
+    },
+    {
+      "pregunta": "En el sistema de seguimiento telemático (Cometa), ¿qué dispositivos lleva el inculpado?",
+      "opciones": [
+        "a) Solo un GPS.",
+        "b) Un brazalete de radiofrecuencia y un dispositivo de localización GPS.",
+        "c) Un teléfono móvil normal.",
+        "d) Una tobillera que da calambres."
+      ],
+      "respuesta_correcta": "b) Un brazalete de radiofrecuencia y un dispositivo de localización GPS."
+    },
+    {
+      "pregunta": "¿Para qué delitos se aplica el Protocolo de seguimiento telemático de 2024?",
+      "opciones": [
+        "a) Solo Violencia de Género.",
+        "b) Violencia de Género y Violencia Sexual.",
+        "c) Violencia Doméstica.",
+        "d) Terrorismo."
+      ],
+      "respuesta_correcta": "b) Violencia de Género y Violencia Sexual."
+    },
+    {
+      "pregunta": "¿Quién acuerda la instalación de los dispositivos telemáticos?",
+      "opciones": [
+        "a) La Policía.",
+        "b) La Autoridad Judicial.",
+        "c) La víctima.",
+        "d) El Centro Cometa."
+      ],
+      "respuesta_correcta": "b) La Autoridad Judicial."
+    },
+    {
+      "pregunta": "¿Qué ocurre si el agresor entra en la 'Zona de Exclusión' fija?",
+      "opciones": [
+        "a) El dispositivo emite una descarga.",
+        "b) Se genera una alerta en el Centro de Control que avisa a la Policía y a la víctima.",
+        "c) Se apaga el dispositivo.",
+        "d) Nada."
+      ],
+      "respuesta_correcta": "b) Se genera una alerta en el Centro de Control que avisa a la Policía y a la víctima."
+    },
+    {
+      "pregunta": "Según la Instrucción 1/2017 sobre menores, ¿cuál es el límite máximo de la detención policial de un menor?",
+      "opciones": [
+        "a) 72 horas.",
+        "b) 48 horas.",
+        "c) 24 horas.",
+        "d) 6 horas."
+      ],
+      "respuesta_correcta": "c) 24 horas."
+    },
+    {
+      "pregunta": "¿A quién se debe notificar inmediatamente la detención de un menor?",
+      "opciones": [
+        "a) Al Juez de Guardia.",
+        "b) Al Ministerio Fiscal y a quienes ejerzan la patria potestad, tutela o guarda.",
+        "c) Al Director del Colegio.",
+        "d) Al Defensor del Pueblo."
+      ],
+      "respuesta_correcta": "b) Al Ministerio Fiscal y a quienes ejerzan la patria potestad, tutela o guarda."
+    },
+    {
+      "pregunta": "¿Se pueden usar esposas con los menores detenidos?",
+      "opciones": [
+        "a) Sí, siempre.",
+        "b) No, nunca.",
+        "c) Excepcionalmente, cuando sea estrictamente necesario para garantizar la seguridad, de forma proporcional y respetuosa.",
+        "d) Solo si son mayores de 16 años."
+      ],
+      "respuesta_correcta": "c) Excepcionalmente, cuando sea estrictamente necesario para garantizar la seguridad, de forma proporcional y respetuosa."
+    },
+    {
+      "pregunta": "¿Dónde deben estar los menores detenidos en las dependencias policiales?",
+      "opciones": [
+        "a) Con los adultos.",
+        "b) En calabozos separados de los adultos.",
+        "c) En la oficina de denuncias.",
+        "d) En la calle."
+      ],
+      "respuesta_correcta": "b) En calabozos separados de los adultos."
+    },
+    {
+      "pregunta": "¿Se aplica el procedimiento de Habeas Corpus a los menores?",
+      "opciones": [
+        "a) No, tienen su propia ley.",
+        "b) Sí, les es de aplicación la LO 6/1984 de Habeas Corpus.",
+        "c) Solo si lo piden los padres.",
+        "d) Solo para delitos graves."
+      ],
+      "respuesta_correcta": "b) Sí, les es de aplicación la LO 6/1984 de Habeas Corpus."
+    },
+    {
+      "pregunta": "¿Cuál es la edad de responsabilidad penal del menor según la LO 5/2000?",
+      "opciones": [
+        "a) De 12 a 16 años.",
+        "b) De 14 a 18 años.",
+        "c) De 16 a 18 años.",
+        "d) De 14 a 21 años."
+      ],
+      "respuesta_correcta": "b) De 14 a 18 años."
+    },
+    {
+      "pregunta": "¿Qué ocurre con los menores de 14 años que cometen un hecho delictivo?",
+      "opciones": [
+        "a) Son detenidos.",
+        "b) Son inimputables penalmente (se remite a protección de menores y Fiscalía para protección).",
+        "c) Pagan una multa.",
+        "d) Van a un reformatorio."
+      ],
+      "respuesta_correcta": "b) Son inimputables penalmente (se remite a protección de menores y Fiscalía para protección)."
+    },
+    {
+      "pregunta": "¿Qué registro policial específico existe para menores?",
+      "opciones": [
+        "a) PERPOL.",
+        "b) Libro-Registro de Menores Detenidos.",
+        "c) SIRAJ.",
+        "d) VioGén."
+      ],
+      "respuesta_correcta": "b) Libro-Registro de Menores Detenidos."
+    },
+    {
+      "pregunta": "¿Qué es un MENA?",
+      "opciones": [
+        "a) Un menor nacional.",
+        "b) Menor Extranjero No Acompañado.",
+        "c) Menor en Abandono.",
+        "d) Medida Educativa No Asistencial."
+      ],
+      "respuesta_correcta": "b) Menor Extranjero No Acompañado."
+    },
+    {
+      "pregunta": "¿En qué registro se inscriben los MENAS?",
+      "opciones": [
+        "a) En el Registro Civil.",
+        "b) En el Registro de Menores Extranjeros No Acompañados (RMENA).",
+        "c) En el Padrón.",
+        "d) En el Registro de Penados."
+      ],
+      "respuesta_correcta": "b) En el Registro de Menores Extranjeros No Acompañados (RMENA)."
+    },
+    {
+      "pregunta": "¿Qué son los 'Casos de especial relevancia' en VioGén?",
+      "opciones": [
+        "a) Los que salen en TV.",
+        "b) Aquellos en los que, tras la valoración, se detecta un riesgo especial para menores a cargo o un riesgo de violencia muy grave/letal para la víctima.",
+        "c) Los de riesgo Bajo.",
+        "d) Los archivados."
+      ],
+      "respuesta_correcta": "b) Aquellos en los que, tras la valoración, se detecta un riesgo especial para menores a cargo o un riesgo de violencia muy grave/letal para la víctima."
+    },
+    {
+      "pregunta": "En la orden de protección, ¿qué medidas civiles se pueden adoptar?",
+      "opciones": [
+        "a) Prisión.",
+        "b) Atribución del uso de la vivienda familiar, régimen de custodia y visitas, pensión de alimentos.",
+        "c) Multa.",
+        "d) Alejamiento (es penal)."
+      ],
+      "respuesta_correcta": "b) Atribución del uso de la vivienda familiar, régimen de custodia y visitas, pensión de alimentos."
+    },
+    {
+      "pregunta": "¿Qué vigencia tienen las medidas civiles de la orden de protección si no se presenta demanda civil posterior?",
+      "opciones": [
+        "a) 30 días.",
+        "b) 1 año.",
+        "c) Indefinida.",
+        "d) 6 meses."
+      ],
+      "respuesta_correcta": "a) 30 días."
+    },
+    {
+      "pregunta": "¿Qué es la 'Renta Activa de Inserción' (RAI) para víctimas de violencia de género?",
+      "opciones": [
+        "a) Un préstamo.",
+        "b) Una ayuda económica específica para víctimas con dificultades de inserción laboral.",
+        "c) Un sueldo vitalicio.",
+        "d) Una indemnización del agresor."
+      ],
+      "respuesta_correcta": "b) Una ayuda económica específica para víctimas con dificultades de inserción laboral."
+    },
+    {
+      "pregunta": "¿Qué consideración tienen las ausencias al trabajo por violencia de género?",
+      "opciones": [
+        "a) Injustificadas.",
+        "b) Justificadas cuando así lo determinen los servicios sociales o de salud.",
+        "c) Vacaciones.",
+        "d) Permiso sin sueldo."
+      ],
+      "respuesta_correcta": "b) Justificadas cuando así lo determinen los servicios sociales o de salud."
+    },
+    {
+      "pregunta": "¿Qué agravante específico introduce la LO 1/2004 en el delito de lesiones (Art. 148 CP)?",
+      "opciones": [
+        "a) Ser de noche.",
+        "b) Si la víctima fuere o hubiere sido esposa, o mujer ligada por análoga relación de afectividad.",
+        "c) Usar coche.",
+        "d) Ser extranjero."
+      ],
+      "respuesta_correcta": "b) Si la víctima fuere o hubiere sido esposa, o mujer ligada por análoga relación de afectividad."
+    },
+    {
+      "pregunta": "La suspensión de la pena de prisión en delitos de violencia de género está condicionada a:",
+      "opciones": [
+        "a) Pagar una fianza.",
+        "b) El cumplimiento de prohibiciones (alejamiento) y la participación en programas formativos de igualdad y no violencia.",
+        "c) Pedir perdón.",
+        "d) No se puede suspender nunca."
+      ],
+      "respuesta_correcta": "b) El cumplimiento de prohibiciones (alejamiento) y la participación en programas formativos de igualdad y no violencia."
+    },
+    {
+      "pregunta": "¿Qué es el 'Plan de Seguridad Personalizado' (PSP)?",
+      "opciones": [
+        "a) Un seguro de vida.",
+        "b) El conjunto de medidas policiales de protección asignadas a una víctima en función de su nivel de riesgo en VioGén.",
+        "c) Un documento del juzgado.",
+        "d) Una alarma."
+      ],
+      "respuesta_correcta": "b) El conjunto de medidas policiales de protección asignadas a una víctima en función de su nivel de riesgo en VioGén."
+    },
+    {
+      "pregunta": "¿Pueden los menores de edad ser víctimas directas de violencia de género según la LO 1/2004 (tras reformas)?",
+      "opciones": [
+        "a) No, solo las madres.",
+        "b) Sí, los menores sujetos a tutela o guarda y custodia de las mujeres víctimas también son víctimas.",
+        "c) Solo si son niñas.",
+        "d) Solo si tienen 17 años."
+      ],
+      "respuesta_correcta": "b) Sí, los menores sujetos a tutela o guarda y custodia de las mujeres víctimas también son víctimas."
+    },
+    {
+      "pregunta": "¿Qué medida debe adoptar el Juez respecto a la patria potestad en casos graves de violencia de género?",
+      "opciones": [
+        "a) Nada.",
+        "b) La suspensión del ejercicio de la patria potestad o del régimen de visitas si es necesario para el interés del menor (Art. 544 quinquies).",
+        "c) Dársela a los abuelos siempre.",
+        "d) Dársela al Estado."
+      ],
+      "respuesta_correcta": "b) La suspensión del ejercicio de la patria potestad o del régimen de visitas si es necesario para el interés del menor (Art. 544 quinquies)."
+    },
+    {
+      "pregunta": "¿Qué principio rector destaca en la actuación con menores?",
+      "opciones": [
+        "a) El castigo.",
+        "b) El interés superior del menor.",
+        "c) La rapidez.",
+        "d) La publicidad."
+      ],
+      "respuesta_correcta": "b) El interés superior del menor."
+    },
+    {
+      "pregunta": "¿Debe estar asistido el menor detenido por un abogado?",
+      "opciones": [
+        "a) No, si confiesa.",
+        "b) Sí, designada de oficio o particular, desde el inicio de la detención.",
+        "c) Solo en el juicio.",
+        "d) Solo si los padres quieren."
+      ],
+      "respuesta_correcta": "b) Sí, designada de oficio o particular, desde el inicio de la detención."
+    },
+    {
+      "pregunta": "¿Se puede tomar declaración a un menor detenido sin sus padres?",
+      "opciones": [
+        "a) Sí, siempre.",
+        "b) No, salvo autorización judicial o Fiscalía, deben estar presentes quienes ejerzan la patria potestad/tutela (o defensor judicial en conflicto de intereses).",
+        "c) Sí, si está el abogado.",
+        "d) Sí, si el menor quiere."
+      ],
+      "respuesta_correcta": "b) No, salvo autorización judicial o Fiscalía, deben estar presentes quienes ejerzan la patria potestad/tutela (o defensor judicial en conflicto de intereses)."
+    },
+    {
+      "pregunta": "¿Qué es la 'Violencia Vicaria'? [Contexto general LO 1/2004 y reformas]",
+      "opciones": [
+        "a) Violencia entre vecinos.",
+        "b) Violencia ejercida sobre los hijos para dañar a la madre.",
+        "c) Violencia en el trabajo.",
+        "d) Violencia económica."
+      ],
+      "respuesta_correcta": "b) Violencia ejercida sobre los hijos para dañar a la madre."
+    },
+    {
+      "pregunta": "¿Qué juzgados son competentes para la violencia de género?",
+      "opciones": [
+        "a) Juzgados de Paz.",
+        "b) Juzgados de Violencia sobre la Mujer.",
+        "c) Juzgados de lo Social.",
+        "d) Audiencia Nacional."
+      ],
+      "respuesta_correcta": "b) Juzgados de Violencia sobre la Mujer."
+    },
+    {
+      "pregunta": "¿Qué sucede si una víctima de violencia de género se acoge a su derecho a no declarar (dispensa)?",
+      "opciones": [
+        "a) Se archiva todo inmediatamente.",
+        "b) La Policía y el Fiscal deben intentar continuar la investigación con otras pruebas (partes médicos, testigos, etc.).",
+        "c) Se multa a la víctima.",
+        "d) Se detiene a la víctima."
+      ],
+      "respuesta_correcta": "b) La Policía y el Fiscal deben intentar continuar la investigación con otras pruebas (partes médicos, testigos, etc.)."
+    },
+    {
+      "pregunta": "¿Qué es la 'Valoración Policial de la Evolución del Riesgo' (VPER)?",
+      "opciones": [
+        "a) La primera valoración.",
+        "b) La reevaluación periódica del nivel de riesgo para ajustar las medidas de protección.",
+        "c) Un juicio.",
+        "d) Una denuncia."
+      ],
+      "respuesta_correcta": "b) La reevaluación periódica del nivel de riesgo para ajustar las medidas de protección."
+    },
+    {
+      "pregunta": "¿Quién realiza el traslado de los menores detenidos?",
+      "opciones": [
+        "a) Sus padres.",
+        "b) La policía, en vehículos no logotipados preferentemente y separados de adultos.",
+        "c) El autobús.",
+        "d) El juez."
+      ],
+      "respuesta_correcta": "b) La policía, en vehículos no logotipados preferentemente y separados de adultos."
+    },
+    {
+      "pregunta": "¿Pueden los menores de edad solicitar la Orden de Protección por violencia de género?",
+      "opciones": [
+        "a) No.",
+        "b) Sí, a través de sus representantes legales o el Ministerio Fiscal.",
+        "c) Sí, directamente.",
+        "d) Solo si están emancipados."
+      ],
+      "respuesta_correcta": "b) Sí, a través de sus representantes legales o el Ministerio Fiscal."
+    },
+    {
+      "pregunta": "¿Qué recurso cabe contra la denegación de una Orden de Protección?",
+      "opciones": [
+        "a) Ninguno.",
+        "b) Recurso de apelación.",
+        "c) Recurso de casación.",
+        "d) Recurso de amparo."
+      ],
+      "respuesta_correcta": "b) Recurso de apelación."
+    },
+    {
+      "pregunta": "¿Qué es el 'Formulario H' en VioGén?",
+      "opciones": [
+        "a) Hoja de servicio.",
+        "b) Formulario de valoración complementaria para hijos menores (H).",
+        "c) Formulario de Hospital.",
+        "d) Formulario de Huida."
+      ],
+      "respuesta_correcta": "b) Formulario de valoración complementaria para hijos menores (H)."
+    },
+    {
+      "pregunta": "¿Qué es el 'Atestado' en casos de violencia de género?",
+      "opciones": [
+        "a) Un resumen.",
+        "b) El documento oficial que recoge las diligencias policiales, denuncias, declaraciones y pruebas para entregar al Juez.",
+        "c) Un testigo.",
+        "d) Una sentencia."
+      ],
+      "respuesta_correcta": "b) El documento oficial que recoge las diligencias policiales, denuncias, declaraciones y pruebas para entregar al Juez."
+    },
+    {
+      "pregunta": "¿Qué implica la 'inmediación' en los juicios rápidos de violencia de género?",
+      "opciones": [
+        "a) Que el juez debe estar presente.",
+        "b) Que se celebran muy rápido (en la guardia del Juzgado de Violencia si es posible).",
+        "c) Que no hay abogado.",
+        "d) Que se perdona."
+      ],
+      "respuesta_correcta": "b) Que se celebran muy rápido (en la guardia del Juzgado de Violencia si es posible)."
+    },
+    {
+      "pregunta": "¿Qué es la 'orden de alejamiento'?",
+      "opciones": [
+        "a) Prohibición de aproximarse a la víctima a una distancia determinada.",
+        "b) Irse de vacaciones.",
+        "c) Cambiar de ciudad.",
+        "d) Divorciarse."
+      ],
+      "respuesta_correcta": "a) Prohibición de aproximarse a la víctima a una distancia determinada."
+    },
+    {
+      "pregunta": "¿Qué sucede si el agresor rompe la pulsera telemática?",
+      "opciones": [
+        "a) Nada.",
+        "b) Se genera una alarma de manipulación/rotura, se verifica y puede constituir delito de quebrantamiento.",
+        "c) Se le pone otra.",
+        "d) Paga una multa."
+      ],
+      "respuesta_correcta": "b) Se genera una alarma de manipulación/rotura, se verifica y puede constituir delito de quebrantamiento."
+    },
+    {
+      "pregunta": "¿Qué derechos tienen los extranjeros en situación irregular víctimas de violencia de género?",
+      "opciones": [
+        "a) Ninguno.",
+        "b) Los mismos que las españolas (asistencia, protección) y posibilidad de autorización de residencia temporal por circunstancias excepcionales.",
+        "c) Son expulsadas.",
+        "d) Solo asistencia médica."
+      ],
+      "respuesta_correcta": "b) Los mismos que las españolas (asistencia, protección) y posibilidad de autorización de residencia temporal por circunstancias excepcionales."
+    },
+    {
+      "pregunta": "¿Qué es la 'Unidad de Familia y Mujer' (UFAM) en Policía Nacional o EMUME en Guardia Civil? [Contexto general]",
+      "opciones": [
+        "a) Unidades administrativas.",
+        "b) Unidades policiales especializadas en la lucha contra la violencia de género y doméstica y protección de menores.",
+        "c) Unidades de tráfico.",
+        "d) ONGs."
+      ],
+      "respuesta_correcta": "b) Unidades policiales especializadas en la lucha contra la violencia de género y doméstica y protección de menores."
+    },
+    {
+      "pregunta": "¿Qué se entiende por 'revictimización' o 'victimización secundaria'? [Contexto LO 1/2004 y protocolos]",
+      "opciones": [
+        "a) Ser víctima dos veces.",
+        "b) El sufrimiento añadido que el sistema legal/policial causa a la víctima (interrogatorios repetitivos, trato inadecuado).",
+        "c) Ser víctima de robo.",
+        "d) La violencia de los hijos."
+      ],
+      "respuesta_correcta": "b) El sufrimiento añadido que el sistema legal/policial causa a la víctima (interrogatorios repetitivos, trato inadecuado)."
+    },
+    {
+      "pregunta": "¿Qué es el teléfono 016? [Contexto LO 1/2004]",
+      "opciones": [
+        "a) Emergencias.",
+        "b) Información y asesoramiento jurídico en violencia de género (no deja rastro en factura).",
+        "c) Policía.",
+        "d) Bomberos."
+      ],
+      "respuesta_correcta": "b) Información y asesoramiento jurídico en violencia de género (no deja rastro en factura)."
+    },
+    {
+      "pregunta": "¿Qué debe hacer el centro educativo ante indicios de violencia de género en alumnos?",
+      "opciones": [
+        "a) Nada.",
+        "b) Comunicarlo a las autoridades competentes.",
+        "c) Expulsar al alumno.",
+        "d) Llamar a la prensa."
+      ],
+      "respuesta_correcta": "b) Comunicarlo a las autoridades competentes."
+    },
+    {
+      "pregunta": "¿Qué es la 'escolarización inmediata'?",
+      "opciones": [
+        "a) Ir al colegio pronto.",
+        "b) Derecho de los hijos de víctimas que cambian de residencia a ser escolarizados inmediatamente en el nuevo lugar.",
+        "c) Clases particulares.",
+        "d) Escuela de verano."
+      ],
+      "respuesta_correcta": "b) Derecho de los hijos de víctimas que cambian de residencia a ser escolarizados inmediatamente en el nuevo lugar."
+    },
+    {
+      "pregunta": "¿Qué penalidad tiene el quebrantamiento de condena o medida cautelar (orden de alejamiento) en violencia de género?",
+      "opciones": [
+        "a) Multa.",
+        "b) Prisión de 6 meses a 1 año.",
+        "c) Trabajos comunitarios.",
+        "d) Nada."
+      ],
+      "respuesta_correcta": "b) Prisión de 6 meses a 1 año (Art. 468 CP)."
+    },
+    {
+      "pregunta": "¿Se pueden cachear a los menores detenidos?",
+      "opciones": [
+        "a) No.",
+        "b) Sí, registro personal por seguridad, respetando su intimidad y dignidad.",
+        "c) Solo desnudos.",
+        "d) Solo si llevan armas."
+      ],
+      "respuesta_correcta": "b) Sí, registro personal por seguridad, respetando su intimidad y dignidad."
+    },
+    {
+      "pregunta": "¿Qué es la 'Fiscalía de Menores'?",
+      "opciones": [
+        "a) Un colegio.",
+        "b) El órgano especializado del Ministerio Fiscal encargado de la instrucción de los procedimientos de menores infractores.",
+        "c) La policía de menores.",
+        "d) Un juzgado civil."
+      ],
+      "respuesta_correcta": "b) El órgano especializado del Ministerio Fiscal encargado de la instrucción de los procedimientos de menores infractores."
+    },
+    {
+      "pregunta": "¿Quién instruye los delitos cometidos por menores?",
+      "opciones": [
+        "a) El Juez de Instrucción.",
+        "b) El Ministerio Fiscal.",
+        "c) La Policía.",
+        "d) El Juez de Menores."
+      ],
+      "respuesta_correcta": "b) El Ministerio Fiscal."
+    },
+    {
+      "pregunta": "¿Quién juzga los delitos cometidos por menores?",
+      "opciones": [
+        "a) El Fiscal.",
+        "b) El Juez de Menores.",
+        "c) El Juez de Instrucción.",
+        "d) Un jurado."
+      ],
+      "respuesta_correcta": "b) El Juez de Menores."
+    },
+    {
+      "pregunta": "¿Qué son las 'medidas de autoprotección' para la víctima?",
+      "opciones": [
+        "a) Comprar un arma.",
+        "b) Consejos de seguridad personal facilitados por la policía (cambio de rutas, llaves, teléfono, etc.).",
+        "c) Contratar un guardaespaldas.",
+        "d) Encerrarse en casa."
+      ],
+      "respuesta_correcta": "b) Consejos de seguridad personal facilitados por la policía (cambio de rutas, llaves, teléfono, etc.)."
+    },
+    {
+      "pregunta": "¿Qué es el 'consentimiento' en la instalación de dispositivos telemáticos?",
+      "opciones": [
+        "a) Es obligatorio para el inculpado si lo ordena el juez; la víctima debe consentir llevar su dispositivo.",
+        "b) Ambos deben querer.",
+        "c) Nadie tiene que consentir.",
+        "d) Solo el agresor consiente."
+      ],
+      "respuesta_correcta": "a) Es obligatorio para el inculpado si lo ordena el juez; la víctima debe consentir llevar su dispositivo."
+    },
+    {
+      "pregunta": "¿Qué es la 'Violencia Económica' en el contexto de género? [Contexto LO 1/2004]",
+      "opciones": [
+        "a) Gastar mucho.",
+        "b) Privación intencionada de recursos para el bienestar físico o psicológico de la víctima y sus hijos (impago de pensiones, control del dinero).",
+        "c) Ser pobre.",
+        "d) Robar un banco."
+      ],
+      "respuesta_correcta": "b) Privación intencionada de recursos para el bienestar físico o psicológico de la víctima y sus hijos (impago de pensiones, control del dinero)."
+    },
+    {
+      "pregunta": "¿Qué es el 'agente protector' en VioGén?",
+      "opciones": [
+        "a) Un seguro.",
+        "b) El funcionario policial asignado específicamente para el seguimiento y protección de una víctima concreta.",
+        "c) El abogado.",
+        "d) El juez."
+      ],
+      "respuesta_correcta": "b) El funcionario policial asignado específicamente para el seguimiento y protección de una víctima concreta."
+    },
+    {
+      "pregunta": "¿Qué se hace con las armas del agresor en violencia de género?",
+      "opciones": [
+        "a) Se le devuelven.",
+        "b) Privación del derecho a la tenencia y porte de armas (pena accesoria o medida cautelar).",
+        "c) Se guardan en su casa.",
+        "d) Nada."
+      ],
+      "respuesta_correcta": "b) Privación del derecho a la tenencia y porte de armas (pena accesoria o medida cautelar)."
+    },
+    {
+      "pregunta": "¿Qué es la 'Orden de Protección Europea'? [Contexto general]",
+      "opciones": [
+        "a) Una orden militar.",
+        "b) Instrumento que permite extender la protección de una víctima a otro país de la UE.",
+        "c) Un tratado.",
+        "d) Una moneda."
+      ],
+      "respuesta_correcta": "b) Instrumento que permite extender la protección de una víctima a otro país de la UE."
+    },
+    {
+      "pregunta": "¿Qué es el 'maltrato habitual' (Art. 173 CP)?",
+      "opciones": [
+        "a) Pegar una vez.",
+        "b) Ejercer violencia física o psíquica de manera reiterada (clima de violencia), independientemente de que los actos aislados hayan sido juzgados.",
+        "c) Insultar un día.",
+        "d) No existe."
+      ],
+      "respuesta_correcta": "b) Ejercer violencia física o psíquica de manera reiterada (clima de violencia), independientemente de que los actos aislados hayan sido juzgados."
+    },
+    {
+      "pregunta": "¿Qué es la 'declaración de la víctima' como prueba? [Contexto procesal]",
+      "opciones": [
+        "a) No vale nada.",
+        "b) Puede ser prueba de cargo suficiente para desvirtuar la presunción de inocencia si cumple requisitos (ausencia de incredibilidad subjetiva, verosimilitud, persistencia).",
+        "c) Es prueba plena siempre.",
+        "d) Necesita testigos siempre."
+      ],
+      "respuesta_correcta": "b) Puede ser prueba de cargo suficiente para desvirtuar la presunción de inocencia si cumple requisitos (ausencia de incredibilidad subjetiva, verosimilitud, persistencia)."
+    },
+    {
+      "pregunta": "¿Qué es el 'acompañamiento' a la víctima?",
+      "opciones": [
+        "a) Ir al cine.",
+        "b) Asistencia policial para recoger enseres del domicilio, acudir al juicio, etc., garantizando su seguridad.",
+        "c) Llevarla de compras.",
+        "d) Nada."
+      ],
+      "respuesta_correcta": "b) Asistencia policial para recoger enseres del domicilio, acudir al juicio, etc., garantizando su seguridad."
+    },
+    {
+      "pregunta": "¿Qué es el 'fichero de protección' de menores?",
+      "opciones": [
+        "a) No existe.",
+        "b) Registro de datos sobre menores en situación de riesgo o desamparo para coordinar con servicios sociales.",
+        "c) El registro civil.",
+        "d) El padrón."
+      ],
+      "respuesta_correcta": "b) Registro de datos sobre menores en situación de riesgo o desamparo para coordinar con servicios sociales."
+    },
+    {
+      "pregunta": "¿Qué prioridad tienen las denuncias de violencia de género?",
+      "opciones": [
+        "a) Ninguna.",
+        "b) Tramitación preferente y urgente.",
+        "c) Normal.",
+        "d) Baja."
+      ],
+      "respuesta_correcta": "b) Tramitación preferente y urgente."
+    },
+    {
+      "pregunta": "¿Qué es la 'exploración del menor'?",
+      "opciones": [
+        "a) Un reconocimiento médico.",
+        "b) La toma de declaración judicial o fiscal a un menor, en condiciones adaptadas a su edad.",
+        "c) Un viaje.",
+        "d) Un juego."
+      ],
+      "respuesta_correcta": "b) La toma de declaración judicial o fiscal a un menor, en condiciones adaptadas a su edad."
+    },
+    {
+      "pregunta": "¿Qué es la 'prueba preconstituida' con menores víctimas? [Contexto procesal]",
+      "opciones": [
+        "a) Grabar la declaración del menor en instrucción para evitar que tenga que declarar en el juicio oral (evitar revictimización).",
+        "b) Un examen.",
+        "c) Una rueda de reconocimiento.",
+        "d) Nada."
+      ],
+      "respuesta_correcta": "a) Grabar la declaración del menor en instrucción para evitar que tenga que declarar en el juicio oral (evitar revictimización)."
+    },
+    {
+      "pregunta": "¿Qué es el 'protocolo sanitario' en violencia de género? [Contexto LO 1/2004]",
+      "opciones": [
+        "a) Curar heridas.",
+        "b) Pautas de actuación para profesionales sanitarios ante sospecha de VG (parte de lesiones al juzgado).",
+        "c) Dar medicinas.",
+        "d) Operar."
+      ],
+      "respuesta_correcta": "b) Pautas de actuación para profesionales sanitarios ante sospecha de VG (parte de lesiones al juzgado)."
+    },
+    {
+      "pregunta": "¿Qué es la 'Unidad de Valoración Forense Integral'?",
+      "opciones": [
+        "a) La policía científica.",
+        "b) Equipo técnico adscrito a los Juzgados de Violencia (médico forense, psicólogo, trabajador social) para valorar el caso.",
+        "c) Un hospital.",
+        "d) Una funeraria."
+      ],
+      "respuesta_correcta": "b) Equipo técnico adscrito a los Juzgados de Violencia (médico forense, psicólogo, trabajador social) para valorar el caso."
+    },
+    {
+      "pregunta": "¿Qué ocurre si la víctima y el agresor reanudan la convivencia teniendo una orden de alejamiento vigente? [Contexto penal]",
+      "opciones": [
+        "a) Se anula la orden automáticamente.",
+        "b) El agresor comete delito de quebrantamiento (la orden la quita el juez, no la víctima).",
+        "c) No pasa nada.",
+        "d) Es falta leve."
+      ],
+      "respuesta_correcta": "b) El agresor comete delito de quebrantamiento (la orden la quita el juez, no la víctima)."
+    },
+    {
+      "pregunta": "¿Qué es la 'Orden de alejamiento' como medida cautelar?",
+      "opciones": [
+        "a) Una condena.",
+        "b) Una medida provisional para proteger a la víctima mientras se tramita el proceso.",
+        "c) Una sugerencia.",
+        "d) Un consejo."
+      ],
+      "respuesta_correcta": "b) Una medida provisional para proteger a la víctima mientras se tramita el proceso."
+    },
+    {
+      "pregunta": "¿Qué es el 'Sistema de Registros Administrativos de Apoyo a la Administración de Justicia' (SIRAJ) en relación con VG? [Contexto general]",
+      "opciones": [
+        "a) Un archivo.",
+        "b) Base de datos que incluye el Registro Central de Protección de Víctimas de Violencia Doméstica y de Género.",
+        "c) Un juzgado.",
+        "d) Una cárcel."
+      ],
+      "respuesta_correcta": "b) Base de datos que incluye el Registro Central de Protección de Víctimas de Violencia Doméstica y de Género."
+    },
+    {
+      "pregunta": "¿Qué es la 'orden de salida del domicilio'?",
+      "opciones": [
+        "a) Echar al agresor de la vivienda familiar.",
+        "b) Que la víctima se vaya.",
+        "c) Vender la casa.",
+        "d) Ir de viaje."
+      ],
+      "respuesta_correcta": "a) Echar al agresor de la vivienda familiar."
+    },
+    {
+      "pregunta": "¿Qué es el 'acogimiento de menores'? [Contexto protección menores]",
+      "opciones": [
+        "a) Una fiesta.",
+        "b) Medida de protección para menores desamparados (familia o centro).",
+        "c) Adoptar.",
+        "d) Regalar."
+      ],
+      "respuesta_correcta": "b) Medida de protección para menores desamparados (familia o centro)."
+    },
+    {
+      "pregunta": "¿Qué es la 'tutela institucional'?",
+      "opciones": [
+        "a) La cárcel.",
+        "b) El conjunto de órganos y organismos encargados de garantizar el cumplimiento de la Ley Integral.",
+        "c) La policía.",
+        "d) El gobierno."
+      ],
+      "respuesta_correcta": "b) El conjunto de órganos y organismos encargados de garantizar el cumplimiento de la Ley Integral."
+    },
+    {
+      "pregunta": "¿Qué es el 'principio de especialización' en los juzgados?",
+      "opciones": [
+        "a) Que saben de todo.",
+        "b) Creación de juzgados exclusivos (Violencia sobre la Mujer) para tratar estos temas de forma integral.",
+        "c) Que son rápidos.",
+        "d) Que son caros."
+      ],
+      "respuesta_correcta": "b) Creación de juzgados exclusivos (Violencia sobre la Mujer) para tratar estos temas de forma integral."
+    },
+    {
+      "pregunta": "¿Qué es la 'victimización terciaria'? [Contexto doctrina]",
+      "opciones": [
+        "a) La que sufre el agresor.",
+        "b) La que sufre la víctima por el rechazo social o de su entorno.",
+        "c) La policial.",
+        "d) La judicial."
+      ],
+      "respuesta_correcta": "b) La que sufre la víctima por el rechazo social o de su entorno."
+    },
+    {
+      "pregunta": "¿Qué es el 'Plan de Seguridad' en la valoración policial?",
+      "opciones": [
+        "a) Un mapa.",
+        "b) Recomendaciones de autoprotección personalizadas entregadas a la víctima.",
+        "c) Un contrato.",
+        "d) Una alarma."
+      ],
+      "respuesta_correcta": "b) Recomendaciones de autoprotección personalizadas entregadas a la víctima."
+    },
+    {
+      "pregunta": "¿Qué es el 'dispositivo de control telemático' (pulsera)?",
+      "opciones": [
+        "a) Un reloj.",
+        "b) Sistema electrónico para verificar el cumplimiento de la orden de alejamiento.",
+        "c) Un teléfono.",
+        "d) Una cámara."
+      ],
+      "respuesta_correcta": "b) Sistema electrónico para verificar el cumplimiento de la orden de alejamiento."
+    },
+    {
+      "pregunta": "¿Qué es el 'Centro COMETA'?",
+      "opciones": [
+        "a) Centro de Control de las Medidas Telemáticas de Alejamiento.",
+        "b) Un observatorio espacial.",
+        "c) Una comisaría.",
+        "d) Un juzgado."
+      ],
+      "respuesta_correcta": "a) Centro de Control de las Medidas Telemáticas de Alejamiento."
+    },
+    {
+      "pregunta": "¿Qué es la 'orden de protección de menores' frente a la violencia de género?",
+      "opciones": [
+        "a) No existe.",
+        "b) Medidas específicas para proteger a los hijos (suspensión de visitas, patria potestad, etc.).",
+        "c) Llevarlos a un internado.",
+        "d) Esconderlos."
+      ],
+      "respuesta_correcta": "b) Medidas específicas para proteger a los hijos (suspensión de visitas, patria potestad, etc.)."
+    },
+    {
+      "pregunta": "¿Qué es el 'protocolo cero' (implícito en Instrucción 4/2019 y práctica policial)?",
+      "opciones": [
+        "a) No hacer nada.",
+        "b) Actuación policial de oficio ante violencia de género cuando la víctima no quiere denunciar (valoración de riesgo policial).",
+        "c) Archivar.",
+        "d) Mediar."
+      ],
+      "respuesta_correcta": "b) Actuación policial de oficio ante violencia de género cuando la víctima no quiere denunciar (valoración de riesgo policial)."
+    },
+    {
+      "pregunta": "¿Qué es la 'mediación' en casos de violencia de género?",
+      "opciones": [
+        "a) Recomendada.",
+        "b) Prohibida expresamente por la Ley Integral.",
+        "c) Obligatoria.",
+        "d) Opcional."
+      ],
+      "respuesta_correcta": "b) Prohibida expresamente por la Ley Integral."
+    },
+    {
+      "pregunta": "¿Qué es el 'Pacto de Estado contra la Violencia de Género'? [Contexto general]",
+      "opciones": [
+        "a) Una ley.",
+        "b) Un acuerdo parlamentario con medidas presupuestarias y legislativas para combatir la VG.",
+        "c) Una manifestación.",
+        "d) Un tratado internacional."
+      ],
+      "respuesta_correcta": "b) Un acuerdo parlamentario con medidas presupuestarias y legislativas para combatir la VG."
+    },
+    {
+      "pregunta": "¿Qué es la 'perspectiva de género' en la justicia? [Contexto LO 1/2004]",
+      "opciones": [
+        "a) Favorecer a la mujer.",
+        "b) Juzgar teniendo en cuenta las desigualdades estructurales y relaciones de poder entre sexos para evitar discriminación.",
+        "c) Ignorar la ley.",
+        "d) Juzgar solo por juezas."
+      ],
+      "respuesta_correcta": "b) Juzgar teniendo en cuenta las desigualdades estructurales y relaciones de poder entre sexos para evitar discriminación."
+    },
+    {
+      "pregunta": "¿Qué es la 'violencia psicológica'?",
+      "opciones": [
+        "a) Insultos, vejaciones, amenazas, control, aislamiento.",
+        "b) Pegar.",
+        "c) Romper cosas.",
+        "d) No existe."
+      ],
+      "respuesta_correcta": "a) Insultos, vejaciones, amenazas, control, aislamiento."
+    },
+    {
+      "pregunta": "¿Qué es el 'ciclo de la violencia' (Leonore Walker)? [Concepto base en formación policial VG]",
+      "opciones": [
+        "a) Una rueda.",
+        "b) Fases de acumulación de tensión, explosión y luna de miel (arrepentimiento).",
+        "c) Siempre pegar.",
+        "d) Nunca acaba."
+      ],
+      "respuesta_correcta": "b) Fases de acumulación de tensión, explosión y luna de miel (arrepentimiento)."
+    },
+    {
+      "pregunta": "¿Qué es la 'indefensión aprendida'? [Concepto base en formación policial VG]",
+      "opciones": [
+        "a) No saber defenderse.",
+        "b) Estado psicológico de la víctima que cree que no puede escapar de la violencia haga lo que haga.",
+        "c) Ser débil.",
+        "d) No tener abogado."
+      ],
+      "respuesta_correcta": "b) Estado psicológico de la víctima que cree que no puede escapar de la violencia haga lo que haga."
+    },
+    {
+      "pregunta": "¿Qué es la 'casa de acogida'?",
+      "opciones": [
+        "a) Un hotel.",
+        "b) Recurso residencial temporal y seguro para víctimas y sus hijos.",
+        "c) Una cárcel.",
+        "d) Un hospital."
+      ],
+      "respuesta_correcta": "b) Recurso residencial temporal y seguro para víctimas y sus hijos."
+    },
+    {
+      "pregunta": "¿Qué es el 'derecho a la información' de la víctima?",
+      "opciones": [
+        "a) Ver la tele.",
+        "b) Derecho a recibir información clara y accesible sobre sus derechos, recursos y situación procesal.",
+        "c) Leer el periódico.",
+        "d) Saber la vida del agresor."
+      ],
+      "respuesta_correcta": "b) Derecho a recibir información clara y accesible sobre sus derechos, recursos y situación procesal."
+    },
+    {
+      "pregunta": "¿Qué es la 'violencia sexual' según la Ley 10/2022 (Solo sí es sí)? [Relacionado con Protocolo Telemático 2024]",
+      "opciones": [
+        "a) Solo violación.",
+        "b) Cualquier acto de naturaleza sexual no consentido.",
+        "c) Acoso callejero solo.",
+        "d) Pornografía."
+      ],
+      "respuesta_correcta": "b) Cualquier acto de naturaleza sexual no consentido."
+    }
+  ]
+}

@@ -1,0 +1,1026 @@
+{
+  "tema": "TEMA 8.- ARMAS, EXPLOSIVOS, ARTÍCULOS PIROTÉCNICOS Y CARTUCHERÍA (100 PREGUNTAS)",
+  "descripcion": "Preguntas basadas en RD 137/1993 (Armas), RD 130/2017 (Explosivos) y RD 989/2015 (Pirotecnia y Cartuchería).",
+  "preguntas": [
+    {
+      "pregunta": "¿Qué se considera 'arma de fuego corta' según el Reglamento de Armas?",
+      "opciones": [
+        "a) Aquella cuyo cañón no exceda de 20 cm o cuya longitud total no exceda de 40 cm.",
+        "b) Aquella cuyo cañón no exceda de 30 cm o cuya longitud total no exceda de 60 cm.",
+        "c) Cualquier pistola o revólver.",
+        "d) Aquella que se puede ocultar bajo la ropa."
+      ],
+      "respuesta_correcta": "b) Aquella cuyo cañón no exceda de 30 cm o cuya longitud total no exceda de 60 cm."
+    },
+    {
+      "pregunta": "¿A qué categoría pertenecen las armas de fuego cortas (pistolas y revólveres)?",
+      "opciones": [
+        "a) 1.ª categoría.",
+        "b) 2.ª categoría.",
+        "c) 3.ª categoría.",
+        "d) 4.ª categoría."
+      ],
+      "respuesta_correcta": "a) 1.ª categoría."
+    },
+    {
+      "pregunta": "¿Qué armas comprende la 2.ª categoría, grupo 1?",
+      "opciones": [
+        "a) Escopetas de caza.",
+        "b) Armas de fuego largas para vigilancia y guardería.",
+        "c) Armas de fuego largas rayadas para caza mayor.",
+        "d) Pistolas de señales."
+      ],
+      "respuesta_correcta": "b) Armas de fuego largas para vigilancia y guardería."
+    },
+    {
+      "pregunta": "¿En qué categoría se clasifican las escopetas y demás armas de fuego largas de ánima lisa?",
+      "opciones": [
+        "a) 2.ª categoría.",
+        "b) 3.ª categoría, grupo 1.",
+        "c) 3.ª categoría, grupo 2.",
+        "d) 3.ª categoría, grupo 3."
+      ],
+      "respuesta_correcta": "c) 3.ª categoría, grupo 2."
+    },
+    {
+      "pregunta": "¿Qué armas están prohibidas a particulares según el Reglamento de Armas?",
+      "opciones": [
+        "a) Las armas de fuego automáticas.",
+        "b) Los bastones-estoque.",
+        "c) Las llaves de pugilato.",
+        "d) Todas las anteriores."
+      ],
+      "respuesta_correcta": "d) Todas las anteriores."
+    },
+    {
+      "pregunta": "¿Qué documento es necesario para la adquisición y tenencia de armas de fuego de la 1.ª categoría por particulares?",
+      "opciones": [
+        "a) Licencia de armas B.",
+        "b) Licencia de armas D.",
+        "c) Licencia de armas E.",
+        "d) Licencia de armas F."
+      ],
+      "respuesta_correcta": "a) Licencia de armas B."
+    },
+    {
+      "pregunta": "¿Cuál es la vigencia de la licencia de armas tipo B (pistolas y revólveres)?",
+      "opciones": [
+        "a) 1 año.",
+        "b) 3 años.",
+        "c) 5 años.",
+        "d) Indefinida."
+      ],
+      "respuesta_correcta": "b) 3 años."
+    },
+    {
+      "pregunta": "¿A quién va destinada la licencia de armas tipo C?",
+      "opciones": [
+        "a) A cazadores de caza mayor.",
+        "b) Al personal de vigilancia y seguridad.",
+        "c) A tiradores deportivos.",
+        "d) A coleccionistas."
+      ],
+      "respuesta_correcta": "b) Al personal de vigilancia y seguridad."
+    },
+    {
+      "pregunta": "¿Qué armas ampara la licencia de armas tipo D?",
+      "opciones": [
+        "a) Armas de fuego cortas.",
+        "b) Armas de fuego largas rayadas para caza mayor.",
+        "c) Escopetas de caza.",
+        "d) Carabinas de aire comprimido."
+      ],
+      "respuesta_correcta": "b) Armas de fuego largas rayadas para caza mayor."
+    },
+    {
+      "pregunta": "¿Cuántas armas de la categoría 2.ª.2 (largas rayadas para caza mayor) se pueden poseer con la licencia D?",
+      "opciones": [
+        "a) Una.",
+        "b) Cinco.",
+        "c) Hasta cinco.",
+        "d) Un número ilimitado."
+      ],
+      "respuesta_correcta": "d) Un número ilimitado (siempre que se guarden en armeros homologados)."
+    },
+    {
+      "pregunta": "¿Cuál es el periodo de validez de las licencias de armas tipo D y E?",
+      "opciones": [
+        "a) 3 años.",
+        "b) 5 años.",
+        "c) 10 años.",
+        "d) Permanente hasta los 70 años."
+      ],
+      "respuesta_correcta": "b) 5 años."
+    },
+    {
+      "pregunta": "¿Qué edad mínima se requiere para obtener la licencia de armas tipo E (escopetas)?",
+      "opciones": [
+        "a) 14 años.",
+        "b) 16 años.",
+        "c) 18 años.",
+        "d) 21 años."
+      ],
+      "respuesta_correcta": "c) 18 años."
+    },
+    {
+      "pregunta": "¿Qué documento autoriza el uso de armas de la categoría 4.ª (aire comprimido) fuera del domicilio?",
+      "opciones": [
+        "a) La licencia E.",
+        "b) La tarjeta de armas concedida por el Alcalde.",
+        "c) La guía de pertenencia.",
+        "d) No necesitan autorización."
+      ],
+      "respuesta_correcta": "b) La tarjeta de armas concedida por el Alcalde."
+    },
+    {
+      "pregunta": "¿Qué edad mínima es necesaria para utilizar armas de la 4.ª categoría?",
+      "opciones": [
+        "a) 12 años.",
+        "b) 14 años.",
+        "c) 16 años.",
+        "d) 18 años."
+      ],
+      "respuesta_correcta": "b) 14 años."
+    },
+    {
+      "pregunta": "¿Qué documento debe acompañar siempre al arma de fuego para documentar su tenencia legal?",
+      "opciones": [
+        "a) La factura de compra.",
+        "b) La Guía de Pertenencia.",
+        "c) El DNI del titular.",
+        "d) La licencia de caza."
+      ],
+      "respuesta_correcta": "b) La Guía de Pertenencia."
+    },
+    {
+      "pregunta": "¿Quién expide las Guías de Pertenencia de las armas de fuego?",
+      "opciones": [
+        "a) El Alcalde.",
+        "b) Las Intervenciones de Armas de la Guardia Civil.",
+        "c) La Policía Nacional.",
+        "d) El armero vendedor."
+      ],
+      "respuesta_correcta": "b) Las Intervenciones de Armas de la Guardia Civil."
+    },
+    {
+      "pregunta": "¿Está permitido portar armas de fuego en establecimientos públicos y lugares de reunión?",
+      "opciones": [
+        "a) Sí, si se tiene licencia.",
+        "b) Sí, si están ocultas.",
+        "c) No, salvo a los funcionarios públicos encargados de la seguridad.",
+        "d) Sí, si están descargadas."
+      ],
+      "respuesta_correcta": "c) No, salvo a los funcionarios públicos encargados de la seguridad."
+    },
+    {
+      "pregunta": "¿Qué licencia documenta las armas de concurso de tiro deportivo?",
+      "opciones": [
+        "a) La licencia D.",
+        "b) La licencia F.",
+        "c) La licencia B.",
+        "d) La autorización A."
+      ],
+      "respuesta_correcta": "b) La licencia F."
+    },
+    {
+      "pregunta": "¿Qué es una Autorización Especial de armas para menores (AEM)?",
+      "opciones": [
+        "a) Para que usen pistolas.",
+        "b) Para que mayores de 14 y menores de 18 puedan usar armas de 2ª.2 o 3ª para caza o competiciones deportivas.",
+        "c) Para usar navajas.",
+        "d) No existe."
+      ],
+      "respuesta_correcta": "b) Para que mayores de 14 y menores de 18 puedan usar armas de 2ª.2 o 3ª para caza o competiciones deportivas."
+    },
+    {
+      "pregunta": "¿Qué sucede si se inutiliza un arma de fuego?",
+      "opciones": [
+        "a) Se tira a la basura.",
+        "b) Debe pasar por el Banco Oficial de Pruebas para certificar la inutilización.",
+        "c) Se guarda sin más.",
+        "d) Se entrega al Ayuntamiento."
+      ],
+      "respuesta_correcta": "b) Debe pasar por el Banco Oficial de Pruebas para certificar la inutilización."
+    },
+    {
+      "pregunta": "¿Quién ejerce las competencias en materia de armas y explosivos en España?",
+      "opciones": [
+        "a) Las Policías Locales.",
+        "b) La Guardia Civil (Intervención Central de Armas y Explosivos).",
+        "c) La seguridad privada.",
+        "d) El Ejército de Tierra."
+      ],
+      "respuesta_correcta": "b) La Guardia Civil (Intervención Central de Armas y Explosivos)."
+    },
+    {
+      "pregunta": "¿Qué armas se clasifican en la 5.ª categoría?",
+      "opciones": [
+        "a) Las armas blancas y las hojas de armas blancas.",
+        "b) Las armas históricas.",
+        "c) Las armas de inyección anestésica.",
+        "d) Las armas de alarma."
+      ],
+      "respuesta_correcta": "a) Las armas blancas y las hojas de armas blancas."
+    },
+    {
+      "pregunta": "¿Qué longitud de hoja máxima está permitida para las navajas de uso general (no prohibidas)?",
+      "opciones": [
+        "a) 7 cm.",
+        "b) 11 cm.",
+        "c) 15 cm.",
+        "d) 20 cm."
+      ],
+      "respuesta_correcta": "b) 11 cm."
+    },
+    {
+      "pregunta": "¿Qué son las armas de la 7.ª categoría?",
+      "opciones": [
+        "a) Armas de inyección anestésica, ballestas, arcos, lanzacabos y armas de alarma/señales.",
+        "b) Cañones.",
+        "c) Ametralladoras.",
+        "d) Espadas."
+      ],
+      "respuesta_correcta": "a) Armas de inyección anestésica, ballestas, arcos, lanzacabos y armas de alarma/señales."
+    },
+    {
+      "pregunta": "¿Qué armas se consideran 'de guerra'?",
+      "opciones": [
+        "a) Las de calibre igual o superior a 20 mm, las automáticas, las de calibre 5,56 mm, etc.",
+        "b) Las escopetas de caza.",
+        "c) Las pistolas de 9 mm parabellum de particulares.",
+        "d) Los rifles de caza mayor."
+      ],
+      "respuesta_correcta": "a) Las de calibre igual o superior a 20 mm, las automáticas, las de calibre 5,56 mm, etc."
+    },
+    {
+      "pregunta": "¿Pueden los particulares poseer armas de guerra?",
+      "opciones": [
+        "a) Sí, con licencia especial.",
+        "b) No, está prohibido.",
+        "c) Sí, si están desactivadas.",
+        "d) Sí, para colección."
+      ],
+      "respuesta_correcta": "b) No, está prohibido."
+    },
+    {
+      "pregunta": "¿Qué es la Tarjeta Europea de Armas de Fuego?",
+      "opciones": [
+        "a) Una licencia para cazar en África.",
+        "b) El documento que habilita para llevar y utilizar armas de fuego en los Estados miembros de la UE.",
+        "c) Un visado.",
+        "d) Un permiso de importación."
+      ],
+      "respuesta_correcta": "b) El documento que habilita para llevar y utilizar armas de fuego en los Estados miembros de la UE."
+    },
+    {
+      "pregunta": "¿Cuándo se pasa revista a las armas de fuego?",
+      "opciones": [
+        "a) Nunca.",
+        "b) Cada vez que se renueva la licencia de armas.",
+        "c) Anualmente.",
+        "d) Mensualmente."
+      ],
+      "respuesta_correcta": "b) Cada vez que se renueva la licencia de armas."
+    },
+    {
+      "pregunta": "Según el Reglamento de Explosivos, ¿quién tiene la competencia exclusiva sobre el régimen de explosivos?",
+      "opciones": [
+        "a) Las Comunidades Autónomas.",
+        "b) El Estado.",
+        "c) Los Ayuntamientos.",
+        "d) La Unión Europea."
+      ],
+      "respuesta_correcta": "b) El Estado."
+    },
+    {
+      "pregunta": "¿Qué órgano de la Guardia Civil ejerce las funciones de control sobre explosivos?",
+      "opciones": [
+        "a) El SEPRONA.",
+        "b) La Intervención de Armas y Explosivos.",
+        "c) La Policía Judicial.",
+        "d) Tráfico."
+      ],
+      "respuesta_correcta": "b) La Intervención de Armas y Explosivos."
+    },
+    {
+      "pregunta": "¿Cómo se clasifican los explosivos según su riesgo (Divisiones)?",
+      "opciones": [
+        "a) De la 1.1 a la 1.6.",
+        "b) A, B y C.",
+        "c) Leves, graves y muy graves.",
+        "d) 1ª, 2ª y 3ª categoría."
+      ],
+      "respuesta_correcta": "a) De la 1.1 a la 1.6."
+    },
+    {
+      "pregunta": "¿Qué división de explosivos corresponde al 'Riesgo de explosión en masa'?",
+      "opciones": [
+        "a) 1.1",
+        "b) 1.3",
+        "c) 1.4",
+        "d) 1.6"
+      ],
+      "respuesta_correcta": "a) 1.1"
+    },
+    {
+      "pregunta": "¿Es obligatorio catalogar los explosivos para su fabricación o importación?",
+      "opciones": [
+        "a) No, es voluntario.",
+        "b) Sí, deben estar catalogados por el Ministerio competente (Industria/Energía).",
+        "c) Solo si son militares.",
+        "d) Solo si se exportan."
+      ],
+      "respuesta_correcta": "b) Sí, deben estar catalogados por el Ministerio competente (Industria/Energía)."
+    },
+    {
+      "pregunta": "¿Qué autorización se requiere para establecer una fábrica de explosivos?",
+      "opciones": [
+        "a) Licencia municipal.",
+        "b) Autorización del Gobierno o del Ministerio competente (según el caso, previo informe de Defensa e Interior).",
+        "c) Permiso de la Guardia Civil.",
+        "d) No se requiere autorización."
+      ],
+      "respuesta_correcta": "b) Autorización del Gobierno o del Ministerio competente (según el caso, previo informe de Defensa e Interior)."
+    },
+    {
+      "pregunta": "¿Qué es un depósito de explosivos?",
+      "opciones": [
+        "a) Un camión.",
+        "b) Un lugar autorizado para el almacenamiento de materias reglamentadas.",
+        "c) Una tienda.",
+        "d) Una cantera."
+      ],
+      "respuesta_correcta": "b) Un lugar autorizado para el almacenamiento de materias reglamentadas."
+    },
+    {
+      "pregunta": "¿Qué medidas de seguridad industrial deben tener las fábricas de explosivos?",
+      "opciones": [
+        "a) Ninguna.",
+        "b) Las establecidas en el Reglamento y sus Instrucciones Técnicas Complementarias (ITC).",
+        "c) Las que decida el dueño.",
+        "d) Solo extintores."
+      ],
+      "respuesta_correcta": "b) Las establecidas en el Reglamento y sus Instrucciones Técnicas Complementarias (ITC)."
+    },
+    {
+      "pregunta": "¿Quién autoriza el transporte de explosivos por carretera?",
+      "opciones": [
+        "a) La DGT.",
+        "b) La Intervención de Armas y Explosivos de la Guardia Civil (Delegación/Subdelegación del Gobierno).",
+        "c) El Ayuntamiento.",
+        "d) El transportista."
+      ],
+      "respuesta_correcta": "b) La Intervención de Armas y Explosivos de la Guardia Civil (Delegación/Subdelegación del Gobierno)."
+    },
+    {
+      "pregunta": "¿Qué documentación debe acompañar al transporte de explosivos?",
+      "opciones": [
+        "a) Guía de Circulación.",
+        "b) Factura.",
+        "c) Albarán.",
+        "d) DNI del conductor."
+      ],
+      "respuesta_correcta": "a) Guía de Circulación."
+    },
+    {
+      "pregunta": "¿Qué es un 'consumidor de explosivos'?",
+      "opciones": [
+        "a) Quien los come.",
+        "b) La persona física o jurídica autorizada para su utilización en una actividad autorizada.",
+        "c) El fabricante.",
+        "d) El vendedor."
+      ],
+      "respuesta_correcta": "b) La persona física o jurídica autorizada para su utilización en una actividad autorizada."
+    },
+    {
+      "pregunta": "¿Se pueden vender explosivos a particulares no autorizados?",
+      "opciones": [
+        "a) Sí, libremente.",
+        "b) No, está terminantemente prohibido.",
+        "c) Sí, pequeñas cantidades.",
+        "d) Sí, en Navidad."
+      ],
+      "respuesta_correcta": "b) No, está terminantemente prohibido."
+    },
+    {
+      "pregunta": "¿Qué edad mínima se requiere para obtener el carné de artillero (manipulador de explosivos)?",
+      "opciones": [
+        "a) 16 años.",
+        "b) 18 años.",
+        "c) 21 años.",
+        "d) 25 años."
+      ],
+      "respuesta_correcta": "b) 18 años."
+    },
+    {
+      "pregunta": "¿Qué son los artículos pirotécnicos según el RD 989/2015?",
+      "opciones": [
+        "a) Fuegos artificiales solamente.",
+        "b) Artículos que contienen materias explosivas destinados a producir un efecto calorífico, luminoso, sonoro, gaseoso o fumígeno.",
+        "c) Balas.",
+        "d) Bombas."
+      ],
+      "respuesta_correcta": "b) Artículos que contienen materias explosivas destinados a producir un efecto calorífico, luminoso, sonoro, gaseoso o fumígeno."
+    },
+    {
+      "pregunta": "¿Cómo se clasifican los artículos pirotécnicos de 'fuegos artificiales'?",
+      "opciones": [
+        "a) Clases A, B y C.",
+        "b) Categorías F1, F2, F3 y F4.",
+        "c) Tipos 1, 2 y 3.",
+        "d) Leves y graves."
+      ],
+      "respuesta_correcta": "b) Categorías F1, F2, F3 y F4."
+    },
+    {
+      "pregunta": "¿Qué característica tiene la categoría F1?",
+      "opciones": [
+        "a) Muy baja peligrosidad y nivel de ruido insignificante (uso incluso en interiores).",
+        "b) Peligrosidad media.",
+        "c) Uso profesional.",
+        "d) Prohibidos."
+      ],
+      "respuesta_correcta": "a) Muy baja peligrosidad y nivel de ruido insignificante (uso incluso en interiores)."
+    },
+    {
+      "pregunta": "¿Cuál es la edad mínima para adquirir artículos de la categoría F1?",
+      "opciones": [
+        "a) 10 años.",
+        "b) 12 años.",
+        "c) 14 años.",
+        "d) 16 años."
+      ],
+      "respuesta_correcta": "b) 12 años."
+    },
+    {
+      "pregunta": "¿Cuál es la edad mínima para la categoría F2?",
+      "opciones": [
+        "a) 12 años.",
+        "b) 14 años.",
+        "c) 16 años.",
+        "d) 18 años."
+      ],
+      "respuesta_correcta": "c) 16 años."
+    },
+    {
+      "pregunta": "¿Cuál es la edad mínima para la categoría F3?",
+      "opciones": [
+        "a) 16 años.",
+        "b) 18 años.",
+        "c) 21 años.",
+        "d) Solo profesionales."
+      ],
+      "respuesta_correcta": "b) 18 años."
+    },
+    {
+      "pregunta": "¿Quién puede utilizar artículos de la categoría F4?",
+      "opciones": [
+        "a) Mayores de 18 años.",
+        "b) Exclusivamente expertos (profesionales).",
+        "c) Cualquiera en fiestas.",
+        "d) Ayuntamientos."
+      ],
+      "respuesta_correcta": "b) Exclusivamente expertos (profesionales)."
+    },
+    {
+      "pregunta": "¿Qué son los artículos pirotécnicos de categoría T1 y T2?",
+      "opciones": [
+        "a) Para teatro (uso en escenarios).",
+        "b) Para transporte.",
+        "c) Para tracas.",
+        "d) Para talleres."
+      ],
+      "respuesta_correcta": "a) Para teatro (uso en escenarios)."
+    },
+    {
+      "pregunta": "¿Qué son los artículos de categoría P1 y P2?",
+      "opciones": [
+        "a) Pirotecnia recreativa.",
+        "b) Otros artículos pirotécnicos distintos de los fuegos artificiales y teatrales (ej. airbags, pretensores).",
+        "c) Petardos.",
+        "d) Prohibidos."
+      ],
+      "respuesta_correcta": "b) Otros artículos pirotécnicos distintos de los fuegos artificiales y teatrales (ej. airbags, pretensores)."
+    },
+    {
+      "pregunta": "¿Qué marcado deben llevar los artículos pirotécnicos para su comercialización?",
+      "opciones": [
+        "a) Marcado CE.",
+        "b) Marcado ONU.",
+        "c) Sello de la GC.",
+        "d) No necesitan marcado."
+      ],
+      "respuesta_correcta": "a) Marcado CE."
+    },
+    {
+      "pregunta": "¿Qué es la cartuchería?",
+      "opciones": [
+        "a) Papel.",
+        "b) Artículos pirotécnicos que consisten en un proyectil con carga propulsora (munición).",
+        "c) Cajas.",
+        "d) Mechas."
+      ],
+      "respuesta_correcta": "b) Artículos pirotécnicos que consisten en un proyectil con carga propulsora (munición)."
+    },
+    {
+      "pregunta": "¿Se puede vender cartuchería a particulares sin licencia de armas?",
+      "opciones": [
+        "a) Sí.",
+        "b) No, solo a titulares de licencias o autorizaciones de armas.",
+        "c) Sí, si es metálica.",
+        "d) Sí, si es de caza."
+      ],
+      "respuesta_correcta": "b) No, solo a titulares de licencias o autorizaciones de armas."
+    },
+    {
+      "pregunta": "¿Dónde se debe depositar el arma si su titular fallece?",
+      "opciones": [
+        "a) Se la queda el heredero.",
+        "b) En la Intervención de Armas de la Guardia Civil para su custodia.",
+        "c) Se vende.",
+        "d) Se tira."
+      ],
+      "respuesta_correcta": "b) En la Intervención de Armas de la Guardia Civil para su custodia."
+    },
+    {
+      "pregunta": "¿Qué plazo hay para adjudicar o inutilizar un arma depositada por fallecimiento?",
+      "opciones": [
+        "a) 6 meses.",
+        "b) 1 año.",
+        "c) 2 años.",
+        "d) Indefinido."
+      ],
+      "respuesta_correcta": "b) 1 año."
+    },
+    {
+      "pregunta": "¿Qué sucede si transcurre el plazo de depósito sin que el arma tenga destino?",
+      "opciones": [
+        "a) Se devuelve.",
+        "b) Se enajena en pública subasta.",
+        "c) Se destruye.",
+        "d) Se regala."
+      ],
+      "respuesta_correcta": "b) Se enajena en pública subasta."
+    },
+    {
+      "pregunta": "¿Qué son las armas de alarma y señales?",
+      "opciones": [
+        "a) Armas de 1ª categoría.",
+        "b) Armas de 7ª categoría, diseñadas para lanzar señales pirotécnicas o producir ruido.",
+        "c) Juguetes.",
+        "d) Armas prohibidas."
+      ],
+      "respuesta_correcta": "b) Armas de 7ª categoría, diseñadas para lanzar señales pirotécnicas o producir ruido."
+    },
+    {
+      "pregunta": "¿Se permite el uso de silenciadores en armas de fuego?",
+      "opciones": [
+        "a) Sí, para no molestar.",
+        "b) No, están prohibidos (salvo funcionarios especialmente habilitados).",
+        "c) Sí, en caza.",
+        "d) Sí, en galerías."
+      ],
+      "respuesta_correcta": "b) No, están prohibidos (salvo funcionarios especialmente habilitados)."
+    },
+    {
+      "pregunta": "¿Qué armas se pueden guiar con la licencia E?",
+      "opciones": [
+        "a) Pistolas.",
+        "b) Escopetas de caza (3ª.2), armas largas rayadas de calibre 5.6mm (.22) (3ª.1), y ballestas (7ª.2).",
+        "c) Rifles de caza mayor.",
+        "d) Cañones."
+      ],
+      "respuesta_correcta": "b) Escopetas de caza (3ª.2), armas largas rayadas de calibre 5.6mm (.22) (3ª.1), y ballestas (7ª.2)."
+    },
+    {
+      "pregunta": "¿Cuántas escopetas se pueden poseer con licencia E?",
+      "opciones": [
+        "a) 6.",
+        "b) 12.",
+        "c) Ilimitadas.",
+        "d) 1."
+      ],
+      "respuesta_correcta": "c) Ilimitadas (anteriormente 6, modificado para permitir número ilimitado en condiciones de seguridad)."
+    },
+    {
+      "pregunta": "¿Cuántas carabinas del .22 se pueden tener con licencia E?",
+      "opciones": [
+        "a) 6.",
+        "b) 12.",
+        "c) Ilimitadas.",
+        "d) 1."
+      ],
+      "respuesta_correcta": "a) 6."
+    },
+    {
+      "pregunta": "¿Qué es un 'armero'?",
+      "opciones": [
+        "a) Un mueble.",
+        "b) La persona física o jurídica autorizada para fabricar, reparar o vender armas.",
+        "c) Un soldado.",
+        "d) Un cazador."
+      ],
+      "respuesta_correcta": "b) La persona física o jurídica autorizada para fabricar, reparar o vender armas."
+    },
+    {
+      "pregunta": "¿Qué medidas de seguridad deben tener los armeros particulares para armas de licencia D (rifles)?",
+      "opciones": [
+        "a) Ninguna.",
+        "b) Guardar las armas en cajas fuertes o armeros homologados.",
+        "c) Guardarlas bajo llave.",
+        "d) Esconderlas."
+      ],
+      "respuesta_correcta": "b) Guardar las armas en cajas fuertes o armeros homologados."
+    },
+    {
+      "pregunta": "¿Es obligatorio denunciar la pérdida o robo de un arma?",
+      "opciones": [
+        "a) Sí, inmediatamente a la Guardia Civil.",
+        "b) No, si se compra otra.",
+        "c) Solo si es de guerra.",
+        "d) Al mes."
+      ],
+      "respuesta_correcta": "a) Sí, inmediatamente a la Guardia Civil."
+    },
+    {
+      "pregunta": "¿Qué es la 'revista de armas'?",
+      "opciones": [
+        "a) Una publicación.",
+        "b) El acto administrativo de control físico del arma por la Intervención de Armas.",
+        "c) Un desfile.",
+        "d) Un examen."
+      ],
+      "respuesta_correcta": "b) El acto administrativo de control físico del arma por la Intervención de Armas."
+    },
+    {
+      "pregunta": "¿Qué sucede si no se pasa la revista de armas?",
+      "opciones": [
+        "a) Nada.",
+        "b) Se puede sancionar y revocar la licencia.",
+        "c) Se pasa al año siguiente.",
+        "d) Se paga doble."
+      ],
+      "respuesta_correcta": "b) Se puede sancionar y revocar la licencia."
+    },
+    {
+      "pregunta": "¿Se pueden enviar armas por correo ordinario?",
+      "opciones": [
+        "a) Sí.",
+        "b) No, solo por empresas de transporte autorizadas y con guía de circulación.",
+        "c) Sí, desmontadas.",
+        "d) Sí, si no lo saben."
+      ],
+      "respuesta_correcta": "b) No, solo por empresas de transporte autorizadas y con guía de circulación."
+    },
+    {
+      "pregunta": "¿Qué es la 'guía de circulación' de un arma?",
+      "opciones": [
+        "a) Un mapa.",
+        "b) El documento que ampara el traslado de armas entre dos lugares.",
+        "c) La licencia.",
+        "d) El DNI."
+      ],
+      "respuesta_correcta": "b) El documento que ampara el traslado de armas entre dos lugares."
+    },
+    {
+      "pregunta": "¿Qué es un 'explosivo de seguridad'?",
+      "opciones": [
+        "a) El que no explota.",
+        "b) Explosivo especial para uso en minas con atmósferas inflamables (grisú).",
+        "c) Dinamita.",
+        "d) Pólvora."
+      ],
+      "respuesta_correcta": "b) Explosivo especial para uso en minas con atmósferas inflamables (grisú)."
+    },
+    {
+      "pregunta": "¿Qué es la 'cartuchería metálica'?",
+      "opciones": [
+        "a) Cartuchos con vaina metálica.",
+        "b) Cartuchos de papel.",
+        "c) Balas de plástico.",
+        "d) Perdigones sueltos."
+      ],
+      "respuesta_correcta": "a) Cartuchos con vaina metálica."
+    },
+    {
+      "pregunta": "¿Cuántos cartuchos metálicos puede almacenar un particular (caza mayor)?",
+      "opciones": [
+        "a) 100.",
+        "b) 200 (salvo autorización de aumento).",
+        "c) 1000.",
+        "d) 5000."
+      ],
+      "respuesta_correcta": "b) 200 (salvo autorización de aumento)."
+    },
+    {
+      "pregunta": "¿Cuántos cartuchos de caza menor puede almacenar un particular?",
+      "opciones": [
+        "a) 1000.",
+        "b) 5000.",
+        "c) Ilimitados.",
+        "d) 200."
+      ],
+      "respuesta_correcta": "b) 5000."
+    },
+    {
+      "pregunta": "¿Qué es la 'recarga de munición' por particulares?",
+      "opciones": [
+        "a) Ilegal.",
+        "b) Permitida con autorización y curso de capacitación.",
+        "c) Libre.",
+        "d) Solo para militares."
+      ],
+      "respuesta_correcta": "b) Permitida con autorización y curso de capacitación."
+    },
+    {
+      "pregunta": "¿Qué es el 'Libro de Coleccionista'?",
+      "opciones": [
+        "a) Un libro de historia.",
+        "b) El documento donde se inscriben las armas históricas o artísticas de un coleccionista autorizado.",
+        "c) Un catálogo.",
+        "d) Una revista."
+      ],
+      "respuesta_correcta": "b) El documento donde se inscriben las armas históricas o artísticas de un coleccionista autorizado."
+    },
+    {
+      "pregunta": "¿Se pueden usar armas inscritas en el Libro de Coleccionista?",
+      "opciones": [
+        "a) Sí, para cazar.",
+        "b) No, salvo autorización especial para pruebas.",
+        "c) Sí, siempre.",
+        "d) Sí, en defensa propia."
+      ],
+      "respuesta_correcta": "b) No, salvo autorización especial para pruebas."
+    },
+    {
+      "pregunta": "¿Qué es la 'tarjeta de armas'?",
+      "opciones": [
+        "a) La licencia B.",
+        "b) El documento municipal para armas de 4ª categoría (aire comprimido).",
+        "c) El DNI.",
+        "d) La guía."
+      ],
+      "respuesta_correcta": "b) El documento municipal para armas de 4ª categoría (aire comprimido)."
+    },
+    {
+      "pregunta": "¿Quién concede la tarjeta de armas?",
+      "opciones": [
+        "a) El Alcalde del municipio de residencia.",
+        "b) La Guardia Civil.",
+        "c) La Policía Nacional.",
+        "d) El Rey."
+      ],
+      "respuesta_correcta": "a) El Alcalde del municipio de residencia."
+    },
+    {
+      "pregunta": "¿Qué es el 'depósito de armas'?",
+      "opciones": [
+        "a) Dejarlas en el coche.",
+        "b) Entregarlas en la Intervención de Armas por motivos legales (caducidad licencia, sanción, etc.).",
+        "c) Un banco.",
+        "d) Una caja fuerte."
+      ],
+      "respuesta_correcta": "b) Entregarlas en la Intervención de Armas por motivos legales (caducidad licencia, sanción, etc.)."
+    },
+    {
+      "pregunta": "¿Qué plazo hay para recuperar un arma depositada por caducidad de licencia?",
+      "opciones": [
+        "a) 1 año.",
+        "b) 1 mes.",
+        "c) 6 meses.",
+        "d) 5 años."
+      ],
+      "respuesta_correcta": "a) 1 año."
+    },
+    {
+      "pregunta": "¿Qué es la 'transferencia de armas'?",
+      "opciones": [
+        "a) Moverlas.",
+        "b) El cambio de titularidad (venta o regalo) que debe realizarse ante la Intervención de Armas.",
+        "c) Prestarlas.",
+        "d) Tirarlas."
+      ],
+      "respuesta_correcta": "b) El cambio de titularidad (venta o regalo) que debe realizarse ante la Intervención de Armas."
+    },
+    {
+      "pregunta": "¿Se puede prestar un arma de caza?",
+      "opciones": [
+        "a) No, es personal.",
+        "b) Sí, temporalmente a quien tenga licencia válida, con autorización escrita y guía.",
+        "c) Sí, a cualquiera.",
+        "d) Solo a familiares."
+      ],
+      "respuesta_correcta": "b) Sí, temporalmente a quien tenga licencia válida, con autorización escrita y guía."
+    },
+    {
+      "pregunta": "¿Qué es el 'Informe de Aptitud Psicofísica'?",
+      "opciones": [
+        "a) Un análisis de sangre.",
+        "b) El certificado médico necesario para obtener o renovar licencias de armas.",
+        "c) Un test de inteligencia.",
+        "d) Una prueba de tiro."
+      ],
+      "respuesta_correcta": "b) El certificado médico necesario para obtener o renovar licencias de armas."
+    },
+    {
+      "pregunta": "¿Quién realiza las pruebas de capacitación para obtener licencias D y E?",
+      "opciones": [
+        "a) La Guardia Civil.",
+        "b) La Federación de Caza.",
+        "c) El Ayuntamiento.",
+        "d) Nadie."
+      ],
+      "respuesta_correcta": "a) La Guardia Civil."
+    },
+    {
+      "pregunta": "¿Qué es un 'arma de avancarga'?",
+      "opciones": [
+        "a) La que se carga por la boca del cañón (6ª categoría).",
+        "b) Una ametralladora.",
+        "c) Una pistola moderna.",
+        "d) Un misil."
+      ],
+      "respuesta_correcta": "a) La que se carga por la boca del cañón (6ª categoría)."
+    },
+    {
+      "pregunta": "¿Qué autorización necesitan las armas de avancarga?",
+      "opciones": [
+        "a) Licencia E.",
+        "b) Autorización Especial (AE).",
+        "c) Licencia B.",
+        "d) Ninguna."
+      ],
+      "respuesta_correcta": "b) Autorización Especial (AE)."
+    },
+    {
+      "pregunta": "¿Qué son los 'sprays de defensa'?",
+      "opciones": [
+        "a) Desodorantes.",
+        "b) Armas prohibidas salvo los homologados por Sanidad y vendidos en armerías a mayores de 18 años.",
+        "c) Juguetes.",
+        "d) Armas de guerra."
+      ],
+      "respuesta_correcta": "b) Armas prohibidas salvo los homologados por Sanidad y vendidos en armerías a mayores de 18 años."
+    },
+    {
+      "pregunta": "¿Qué son las 'defensas eléctricas'?",
+      "opciones": [
+        "a) Baterías.",
+        "b) Armas prohibidas a particulares (salvo funcionarios habilitados).",
+        "c) Herramientas.",
+        "d) Juguetes."
+      ],
+      "respuesta_correcta": "b) Armas prohibidas a particulares (salvo funcionarios habilitados)."
+    },
+    {
+      "pregunta": "¿Qué se entiende por 'munición'?",
+      "opciones": [
+        "a) El arma.",
+        "b) El conjunto de cartuchos necesarios para el funcionamiento del arma.",
+        "c) La pólvora sola.",
+        "d) El plomo."
+      ],
+      "respuesta_correcta": "b) El conjunto de cartuchos necesarios para el funcionamiento del arma."
+    },
+    {
+      "pregunta": "¿Qué es la 'trazabilidad' de los explosivos?",
+      "opciones": [
+        "a) Saber dónde están en todo momento desde fabricación hasta uso.",
+        "b) Dibujarlos.",
+        "c) Pesarlos.",
+        "d) Quemarlos."
+      ],
+      "respuesta_correcta": "a) Saber dónde están en todo momento desde fabricación hasta uso."
+    },
+    {
+      "pregunta": "¿Qué sistema se usa para la identificación única de explosivos?",
+      "opciones": [
+        "a) Un código alfanumérico y de barras/matriz.",
+        "b) Un color.",
+        "c) Un olor.",
+        "d) Una foto."
+      ],
+      "respuesta_correcta": "a) Un código alfanumérico y de barras/matriz."
+    },
+    {
+      "pregunta": "¿Qué es un 'polvorín'?",
+      "opciones": [
+        "a) Un lugar con polvo.",
+        "b) Una edificación o recinto acondicionado para almacenar explosivos.",
+        "c) Un bar.",
+        "d) Una fábrica."
+      ],
+      "respuesta_correcta": "b) Una edificación o recinto acondicionado para almacenar explosivos."
+    },
+    {
+      "pregunta": "¿Qué distancia de seguridad deben guardar los polvorines?",
+      "opciones": [
+        "a) Ninguna.",
+        "b) Distancias reglamentarias respecto a núcleos de población, carreteras, etc.",
+        "c) 1 metro.",
+        "d) 10 metros."
+      ],
+      "respuesta_correcta": "b) Distancias reglamentarias respecto a núcleos de población, carreteras, etc."
+    },
+    {
+      "pregunta": "¿Qué es la 'destrucción de explosivos'?",
+      "opciones": [
+        "a) Tirarlos.",
+        "b) Eliminación controlada de explosivos caducados o deteriorados.",
+        "c) Venderlos.",
+        "d) Usarlos."
+      ],
+      "respuesta_correcta": "b) Eliminación controlada de explosivos caducados o deteriorados."
+    },
+    {
+      "pregunta": "¿Quién puede destruir explosivos?",
+      "opciones": [
+        "a) Cualquiera.",
+        "b) Personal especializado y autorizado.",
+        "c) Los niños.",
+        "d) El transportista."
+      ],
+      "respuesta_correcta": "b) Personal especializado y autorizado."
+    },
+    {
+      "pregunta": "¿Qué es la 'importación de explosivos'?",
+      "opciones": [
+        "a) Traerlos de fuera de la UE.",
+        "b) Comprarlos.",
+        "c) Fabricarlos.",
+        "d) Moverlos."
+      ],
+      "respuesta_correcta": "a) Traerlos de fuera de la UE."
+    },
+    {
+      "pregunta": "¿Qué autorización requiere la importación de explosivos?",
+      "opciones": [
+        "a) Del Ministerio competente (Industria/Comercio) previo informe de Interior (GC).",
+        "b) Del Alcalde.",
+        "c) De nadie.",
+        "d) Del vendedor."
+      ],
+      "respuesta_correcta": "a) Del Ministerio competente (Industria/Comercio) previo informe de Interior (GC)."
+    },
+    {
+      "pregunta": "¿Qué son los 'fuegos artificiales de uso profesional' (F4)?",
+      "opciones": [
+        "a) Los más peligrosos, solo para expertos.",
+        "b) Los de los niños.",
+        "c) Las bengalas.",
+        "d) Los petardos pequeños."
+      ],
+      "respuesta_correcta": "a) Los más peligrosos, solo para expertos."
+    },
+    {
+      "pregunta": "¿Qué es un 'experto' en pirotecnia?",
+      "opciones": [
+        "a) Alguien que le gustan los fuegos.",
+        "b) Persona con formación reconocida y autorizada para manipular artificios F4.",
+        "c) Un vendedor.",
+        "d) Un espectador."
+      ],
+      "respuesta_correcta": "b) Persona con formación reconocida y autorizada para manipular artificios F4."
+    },
+    {
+      "pregunta": "¿Qué es un 'taller de pirotecnia'?",
+      "opciones": [
+        "a) Donde se fabrican o preparan los artificios.",
+        "b) Una tienda.",
+        "c) Un almacén.",
+        "d) Una fiesta."
+      ],
+      "respuesta_correcta": "a) Donde se fabrican o preparan los artificios."
+    },
+    {
+      "pregunta": "¿Se pueden vender petardos a borrachos?",
+      "opciones": [
+        "a) Sí.",
+        "b) No, prohibida la venta a personas bajo efectos del alcohol o drogas.",
+        "c) Depende.",
+        "d) Solo si son mayores."
+      ],
+      "respuesta_correcta": "b) No, prohibida la venta a personas bajo efectos del alcohol o drogas."
+    },
+    {
+      "pregunta": "¿Qué obligación tienen los vendedores de pirotecnia?",
+      "opciones": [
+        "a) Ninguna.",
+        "b) Comprobar la edad del comprador y la categoría del producto.",
+        "c) Tirar los fuegos.",
+        "d) Regalar mecheros."
+      ],
+      "respuesta_correcta": "b) Comprobar la edad del comprador y la categoría del producto."
+    },
+    {
+      "pregunta": "¿Qué es la 'traca'?",
+      "opciones": [
+        "a) Un conjunto de petardos unidos que explotan sucesivamente.",
+        "b) Un cohete.",
+        "c) Una bengala.",
+        "d) Un volcán."
+      ],
+      "respuesta_correcta": "a) Un conjunto de petardos unidos que explotan sucesivamente."
+    }
+  ]
+}

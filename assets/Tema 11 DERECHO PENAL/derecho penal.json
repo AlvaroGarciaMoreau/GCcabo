@@ -1,0 +1,976 @@
+{
+  "tema": "TEMA 11.- DERECHO PENAL (100 PREGUNTAS)",
+  "descripcion": "Preguntas basadas en el Libro I de la LO 10/1995 del Código Penal: Títulos I, II, III (Cap. I, Sec. 1ª), IV (Cap. I), V (Cap. I y II), VI y VII.",
+  "preguntas": [
+    {
+      "pregunta": "¿Qué son los delitos según el artículo 10 del Código Penal?",
+      "opciones": [
+        "a) Las acciones u omisiones dolosas penadas por la ley.",
+        "b) Las acciones u omisiones dolosas o imprudentes penadas por la ley.",
+        "c) Solo las acciones tipificadas como graves.",
+        "d) Las infracciones administrativas castigadas penalmente."
+      ],
+      "respuesta_correcta": "b) Las acciones u omisiones dolosas o imprudentes penadas por la ley."
+    },
+    {
+      "pregunta": "¿Cuándo se castigan las acciones u omisiones imprudentes?",
+      "opciones": [
+        "a) Siempre.",
+        "b) Nunca, solo las dolosas.",
+        "c) Solo cuando expresamente lo disponga la Ley.",
+        "d) Cuando el juez lo estime oportuno."
+      ],
+      "respuesta_correcta": "c) Solo cuando expresamente lo disponga la Ley."
+    },
+    {
+      "pregunta": "¿A qué equivale la omisión según el artículo 11 del CP?",
+      "opciones": [
+        "a) A la acción, solo si hay una ley específica.",
+        "b) A la acción, cuando exista un deber jurídico de actuar (posición de garante).",
+        "c) A una falta administrativa.",
+        "d) A la imprudencia."
+      ],
+      "respuesta_correcta": "b) A la acción, cuando exista un deber jurídico de actuar (posición de garante)."
+    },
+    {
+      "pregunta": "El error invencible sobre un hecho constitutivo de la infracción penal:",
+      "opciones": [
+        "a) Atenúa la pena.",
+        "b) Excluye la responsabilidad criminal.",
+        "c) Convierte el delito en imprudente.",
+        "d) No tiene efectos."
+      ],
+      "respuesta_correcta": "b) Excluye la responsabilidad criminal."
+    },
+    {
+      "pregunta": "¿Qué efecto tiene el error vencible sobre un hecho constitutivo de la infracción?",
+      "opciones": [
+        "a) Se castiga como imprudente.",
+        "b) Exime de pena.",
+        "c) Se castiga como doloso pero atenuado.",
+        "d) Es una eximente incompleta."
+      ],
+      "respuesta_correcta": "a) Se castiga como imprudente."
+    },
+    {
+      "pregunta": "¿Cuándo existe tentativa?",
+      "opciones": [
+        "a) Cuando se piensa en cometer el delito.",
+        "b) Cuando el sujeto da principio a la ejecución del delito por hechos exteriores y no se produce el resultado por causas independientes de su voluntad.",
+        "c) Cuando se provoca a otro para delinquir.",
+        "d) Cuando se consuma el delito parcialmente."
+      ],
+      "respuesta_correcta": "b) Cuando el sujeto da principio a la ejecución del delito por hechos exteriores y no se produce el resultado por causas independientes de su voluntad."
+    },
+    {
+      "pregunta": "¿Queda exento de responsabilidad penal quien evite voluntariamente la consumación del delito en la tentativa?",
+      "opciones": [
+        "a) No, se le castiga por tentativa.",
+        "b) Sí, quedará exento de responsabilidad penal por el delito intentado.",
+        "c) Solo si avisa a la policía.",
+        "d) Se le atenúa la pena."
+      ],
+      "respuesta_correcta": "b) Sí, quedará exento de responsabilidad penal por el delito intentado."
+    },
+    {
+      "pregunta": "¿Cuándo existe conspiración?",
+      "opciones": [
+        "a) Cuando dos o más personas se conciertan para la ejecución de un delito y resuelven ejecutarlo.",
+        "b) Cuando se invita a otro a delinquir.",
+        "c) Cuando se intenta el delito.",
+        "d) Cuando se comete el delito en grupo."
+      ],
+      "respuesta_correcta": "a) Cuando dos o más personas se conciertan para la ejecución de un delito y resuelven ejecutarlo."
+    },
+    {
+      "pregunta": "¿Cuándo se castigan la conspiración, la proposición y la provocación?",
+      "opciones": [
+        "a) Siempre.",
+        "b) Nunca.",
+        "c) Solo en los casos especialmente previstos en la Ley.",
+        "d) Cuando el delito sea grave."
+      ],
+      "respuesta_correcta": "c) Solo en los casos especialmente previstos en la Ley."
+    },
+    {
+      "pregunta": "La apología se considera una forma de:",
+      "opciones": [
+        "a) Conspiración.",
+        "b) Proposición.",
+        "c) Provocación.",
+        "d) Tentativa."
+      ],
+      "respuesta_correcta": "c) Provocación."
+    },
+    {
+      "pregunta": "¿Está exento de responsabilidad criminal quien actúe en defensa de derechos propios o ajenos?",
+      "opciones": [
+        "a) Sí, siempre que concurran los requisitos de agresión ilegítima, necesidad racional del medio y falta de provocación suficiente.",
+        "b) No, solo se atenúa.",
+        "c) Sí, aunque no haya agresión ilegítima.",
+        "d) Solo si es defensa propia, no ajena."
+      ],
+      "respuesta_correcta": "a) Sí, siempre que concurran los requisitos de agresión ilegítima, necesidad racional del medio y falta de provocación suficiente."
+    },
+    {
+      "pregunta": "El 'estado de necesidad' exime de responsabilidad si:",
+      "opciones": [
+        "a) El mal causado es mayor que el que se trata de evitar.",
+        "b) El mal causado no es mayor que el que se trata de evitar, la situación no fue provocada intencionadamente y no hay obligación de sacrificarse.",
+        "c) Se actúa por miedo.",
+        "d) Se tiene hambre."
+      ],
+      "respuesta_correcta": "b) El mal causado no es mayor que el que se trata de evitar, la situación no fue provocada intencionadamente y no hay obligación de sacrificarse."
+    },
+    {
+      "pregunta": "¿Es eximente obrar en cumplimiento de un deber o en el ejercicio legítimo de un derecho?",
+      "opciones": [
+        "a) No.",
+        "b) Sí, es una causa de exención de la responsabilidad criminal (Art. 20.7).",
+        "c) Es solo atenuante.",
+        "d) Depende del juez."
+      ],
+      "respuesta_correcta": "b) Sí, es una causa de exención de la responsabilidad criminal (Art. 20.7)."
+    },
+    {
+      "pregunta": "La intoxicación plena por consumo de bebidas alcohólicas o drogas, que impida comprender la ilicitud del hecho:",
+      "opciones": [
+        "a) Es agravante.",
+        "b) Es eximente, siempre que no haya sido buscada de propósito para delinquir (actio libera in causa).",
+        "c) Es atenuante siempre.",
+        "d) No afecta."
+      ],
+      "respuesta_correcta": "b) Es eximente, siempre que no haya sido buscada de propósito para delinquir (actio libera in causa)."
+    },
+    {
+      "pregunta": "¿Qué circunstancia es atenuante según el artículo 21?",
+      "opciones": [
+        "a) La alevosía.",
+        "b) Actuar a causa de su grave adicción a sustancias tóxicas.",
+        "c) El disfraz.",
+        "d) La reincidencia."
+      ],
+      "respuesta_correcta": "b) Actuar a causa de su grave adicción a sustancias tóxicas."
+    },
+    {
+      "pregunta": "La confesión de la infracción a las autoridades es atenuante si se produce:",
+      "opciones": [
+        "a) En cualquier momento.",
+        "b) Antes de conocer que el procedimiento judicial se dirige contra él.",
+        "c) Durante el juicio.",
+        "d) Después de la sentencia."
+      ],
+      "respuesta_correcta": "b) Antes de conocer que el procedimiento judicial se dirige contra él."
+    },
+    {
+      "pregunta": "¿Qué es la alevosía?",
+      "opciones": [
+        "a) Una eximente.",
+        "b) Una agravante que se da en delitos contra las personas cuando se emplean medios que aseguran la ejecución sin riesgo para el autor.",
+        "c) Una atenuante.",
+        "d) Un delito en sí mismo."
+      ],
+      "respuesta_correcta": "b) Una agravante que se da en delitos contra las personas cuando se emplean medios que aseguran la ejecución sin riesgo para el autor."
+    },
+    {
+      "pregunta": "¿Cuándo hay reincidencia?",
+      "opciones": [
+        "a) Cuando se cometen dos delitos leves.",
+        "b) Cuando el culpable haya sido condenado ejecutoriamente por un delito comprendido en el mismo título y de la misma naturaleza.",
+        "c) Cuando se comete cualquier delito.",
+        "d) Cuando se tienen antecedentes policiales."
+      ],
+      "respuesta_correcta": "b) Cuando el culpable haya sido condenado ejecutoriamente por un delito comprendido en el mismo título y de la misma naturaleza."
+    },
+    {
+      "pregunta": "¿Qué circunstancia puede ser atenuante o agravante según la naturaleza del delito?",
+      "opciones": [
+        "a) La alevosía.",
+        "b) La circunstancia mixta de parentesco.",
+        "c) El precio.",
+        "d) La reincidencia."
+      ],
+      "respuesta_correcta": "b) La circunstancia mixta de parentesco."
+    },
+    {
+      "pregunta": "¿Quiénes son responsables criminalmente de los delitos?",
+      "opciones": [
+        "a) Solo los autores.",
+        "b) Los autores y los cómplices.",
+        "c) Los encubridores.",
+        "d) Los testigos."
+      ],
+      "respuesta_correcta": "b) Los autores y los cómplices."
+    },
+    {
+      "pregunta": "¿Quiénes se consideran autores según el artículo 28?",
+      "opciones": [
+        "a) Solo los que ejecutan el hecho por sí solos.",
+        "b) Los que realizan el hecho por sí solos, conjuntamente o por medio de otro. También los que inducen y los cooperadores necesarios.",
+        "c) Los cómplices.",
+        "d) Los encubridores."
+      ],
+      "respuesta_correcta": "b) Los que realizan el hecho por sí solos, conjuntamente o por medio de otro. También los que inducen y los cooperadores necesarios."
+    },
+    {
+      "pregunta": "¿Qué caracteriza a los cómplices?",
+      "opciones": [
+        "a) Realizan actos necesarios para el delito.",
+        "b) Cooperan a la ejecución del hecho con actos anteriores o simultáneos no necesarios.",
+        "c) Inducen al delito.",
+        "d) Ayudan después del delito."
+      ],
+      "respuesta_correcta": "b) Cooperan a la ejecución del hecho con actos anteriores o simultáneos no necesarios."
+    },
+    {
+      "pregunta": "¿Pueden las personas jurídicas ser penalmente responsables?",
+      "opciones": [
+        "a) No, nunca.",
+        "b) Sí, en los supuestos previstos en el Código Penal (Art. 31 bis).",
+        "c) Solo civilmente.",
+        "d) Solo administrativamente."
+      ],
+      "respuesta_correcta": "b) Sí, en los supuestos previstos en el Código Penal (Art. 31 bis)."
+    },
+    {
+      "pregunta": "¿Cómo se clasifican las penas según su naturaleza (Art. 32)?",
+      "opciones": [
+        "a) Graves, menos graves y leves.",
+        "b) Privativas de libertad, privativas de otros derechos y multa.",
+        "c) De prisión y de multa.",
+        "d) Principales y accesorias."
+      ],
+      "respuesta_correcta": "b) Privativas de libertad, privativas de otros derechos y multa."
+    },
+    {
+      "pregunta": "¿Cómo se clasifican las penas según su gravedad (Art. 33)?",
+      "opciones": [
+        "a) Altas, medias y bajas.",
+        "b) Graves, menos graves y leves.",
+        "c) Delitos y faltas.",
+        "d) Criminales y civiles."
+      ],
+      "respuesta_correcta": "b) Graves, menos graves y leves."
+    },
+    {
+      "pregunta": "¿La prisión permanente revisable es una pena grave?",
+      "opciones": [
+        "a) Sí.",
+        "b) No, es menos grave.",
+        "c) No existe.",
+        "d) Depende del delito."
+      ],
+      "respuesta_correcta": "a) Sí."
+    },
+    {
+      "pregunta": "¿La pena de prisión superior a cinco años es considerada:",
+      "opciones": [
+        "a) Leve.",
+        "b) Menos grave.",
+        "c) Grave.",
+        "d) Extraordinaria."
+      ],
+      "respuesta_correcta": "c) Grave."
+    },
+    {
+      "pregunta": "¿La pena de prisión de tres meses a cinco años es considerada:",
+      "opciones": [
+        "a) Leve.",
+        "b) Menos grave.",
+        "c) Grave.",
+        "d) Administrativa."
+      ],
+      "respuesta_correcta": "b) Menos grave."
+    },
+    {
+      "pregunta": "¿La inhabilitación absoluta es una pena:",
+      "opciones": [
+        "a) Grave.",
+        "b) Menos grave.",
+        "c) Leve.",
+        "d) Accesoria siempre."
+      ],
+      "respuesta_correcta": "a) Grave."
+    },
+    {
+      "pregunta": "La privación del derecho a conducir vehículos a motor superior a 8 años es pena:",
+      "opciones": [
+        "a) Grave.",
+        "b) Menos grave.",
+        "c) Leve.",
+        "d) Muy grave."
+      ],
+      "respuesta_correcta": "a) Grave."
+    },
+    {
+      "pregunta": "La privación del derecho a la tenencia y porte de armas de 3 meses a 1 año es pena:",
+      "opciones": [
+        "a) Grave.",
+        "b) Menos grave.",
+        "c) Leve.",
+        "d) Administrativa."
+      ],
+      "respuesta_correcta": "c) Leve."
+    },
+    {
+      "pregunta": "La multa de más de dos meses (sistema días-multa) es pena:",
+      "opciones": [
+        "a) Grave.",
+        "b) Menos grave.",
+        "c) Leve.",
+        "d) No es pena."
+      ],
+      "respuesta_correcta": "b) Menos grave."
+    },
+    {
+      "pregunta": "La multa de hasta dos meses es pena:",
+      "opciones": [
+        "a) Grave.",
+        "b) Menos grave.",
+        "c) Leve.",
+        "d) Administrativa."
+      ],
+      "respuesta_correcta": "c) Leve."
+    },
+    {
+      "pregunta": "Los trabajos en beneficio de la comunidad de 31 a 180 días son pena:",
+      "opciones": [
+        "a) Grave.",
+        "b) Menos grave.",
+        "c) Leve.",
+        "d) Opcional."
+      ],
+      "respuesta_correcta": "b) Menos grave."
+    },
+    {
+      "pregunta": "Los trabajos en beneficio de la comunidad de uno a 30 días son pena:",
+      "opciones": [
+        "a) Grave.",
+        "b) Menos grave.",
+        "c) Leve.",
+        "d) Administrativa."
+      ],
+      "respuesta_correcta": "c) Leve."
+    },
+    {
+      "pregunta": "La localización permanente es una pena:",
+      "opciones": [
+        "a) Grave.",
+        "b) Menos grave.",
+        "c) Leve.",
+        "d) De seguridad."
+      ],
+      "respuesta_correcta": "c) Leve."
+    },
+    {
+      "pregunta": "¿Se considera pena la detención preventiva?",
+      "opciones": [
+        "a) Sí, leve.",
+        "b) No, no se reputará pena (Art. 34).",
+        "c) Sí, grave.",
+        "d) Depende de la duración."
+      ],
+      "respuesta_correcta": "b) No, no se reputará pena (Art. 34)."
+    },
+    {
+      "pregunta": "¿Se consideran penas las multas administrativas?",
+      "opciones": [
+        "a) Sí.",
+        "b) No (Art. 34).",
+        "c) Sí, si son altas.",
+        "d) Solo las de tráfico."
+      ],
+      "respuesta_correcta": "b) No (Art. 34)."
+    },
+    {
+      "pregunta": "¿Qué son las medidas de seguridad según el Código Penal?",
+      "opciones": [
+        "a) Penas adicionales.",
+        "b) Medidas que se aplican fundamentadas en la peligrosidad criminal del sujeto.",
+        "c) Medidas administrativas.",
+        "d) Fianzas."
+      ],
+      "respuesta_correcta": "b) Medidas que se aplican fundamentadas en la peligrosidad criminal del sujeto."
+    },
+    {
+      "pregunta": "¿Cuándo se pueden imponer medidas de seguridad privativas de libertad?",
+      "opciones": [
+        "a) Siempre que haya delito.",
+        "b) Solo si el delito lleva aparejada pena de prisión y el sujeto es inimputable o semiimputable con peligrosidad.",
+        "c) Cuando el juez quiera.",
+        "d) A los reincidentes."
+      ],
+      "respuesta_correcta": "b) Solo si el delito lleva aparejada pena de prisión y el sujeto es inimputable o semiimputable con peligrosidad."
+    },
+    {
+      "pregunta": "¿Puede la medida de seguridad ser más gravosa que la pena que correspondería al delito?",
+      "opciones": [
+        "a) Sí, si es peligroso.",
+        "b) No, ni exceder el límite de lo necesario.",
+        "c) Sí, el doble.",
+        "d) Depende del fiscal."
+      ],
+      "respuesta_correcta": "b) No, ni exceder el límite de lo necesario."
+    },
+    {
+      "pregunta": "La responsabilidad civil derivada del delito comprende:",
+      "opciones": [
+        "a) Solo la restitución.",
+        "b) La restitución, la reparación del daño y la indemnización de perjuicios materiales y morales.",
+        "c) La multa.",
+        "d) Las costas solo."
+      ],
+      "respuesta_correcta": "b) La restitución, la reparación del daño y la indemnización de perjuicios materiales y morales."
+    },
+    {
+      "pregunta": "¿Quién es el responsable civil directo del delito?",
+      "opciones": [
+        "a) El Estado siempre.",
+        "b) El responsable criminal (autor o cómplice).",
+        "c) La víctima.",
+        "d) El seguro."
+      ],
+      "respuesta_correcta": "b) El responsable criminal (autor o cómplice)."
+    },
+    {
+      "pregunta": "¿Son responsables civiles los exentos de responsabilidad criminal por anomalía psíquica?",
+      "opciones": [
+        "a) No.",
+        "b) Sí, quienes los tengan bajo su potestad o guarda, o ellos mismos si tienen patrimonio.",
+        "c) Solo si quieren.",
+        "d) El Estado paga."
+      ],
+      "respuesta_correcta": "b) Sí, quienes los tengan bajo su potestad o guarda, o ellos mismos si tienen patrimonio."
+    },
+    {
+      "pregunta": "¿Qué responsabilidad civil tienen los aseguradores?",
+      "opciones": [
+        "a) Ninguna.",
+        "b) Responsabilidad civil directa hasta el límite de la indemnización legalmente establecida o pactada.",
+        "c) Subsidiaria.",
+        "d) Solidaria con la víctima."
+      ],
+      "respuesta_correcta": "b) Responsabilidad civil directa hasta el límite de la indemnización legalmente establecida o pactada."
+    },
+    {
+      "pregunta": "¿Cuándo responden los padres subsidiariamente por los delitos de sus hijos menores de 18 años?",
+      "opciones": [
+        "a) Siempre responden solidariamente según la Ley del Menor, no subsidiariamente (matiz importante: Art 120 CP aplica a mayores sujetos a patria potestad, pero la Ley del Menor tiene régimen propio solidario).",
+        "b) Según el Art. 120.1 CP, responden subsidiariamente por los delitos de los mayores de 18 sujetos a su potestad que vivan con ellos, si hay culpa in vigilando.",
+        "c) Nunca.",
+        "d) Solo si son ricos."
+      ],
+      "respuesta_correcta": "b) Según el Art. 120.1 CP, responden subsidiariamente por los delitos de los mayores de 18 sujetos a su potestad que vivan con ellos, si hay culpa in vigilando."
+    },
+    {
+      "pregunta": "¿Es responsable civil subsidiario el Estado por delitos de funcionarios públicos?",
+      "opciones": [
+        "a) No.",
+        "b) Sí, cuando actúen en el ejercicio de sus cargos o funciones.",
+        "c) Solo si es delito leve.",
+        "d) Solo si el funcionario no tiene dinero."
+      ],
+      "respuesta_correcta": "b) Sí, cuando actúen en el ejercicio de sus cargos o funciones."
+    },
+    {
+      "pregunta": "¿Qué es el decomiso (consecuencia accesoria)?",
+      "opciones": [
+        "a) Una multa.",
+        "b) La pérdida de los efectos que provengan del delito y de los instrumentos utilizados para cometerlo, así como de las ganancias.",
+        "c) La cárcel.",
+        "d) Un embargo provisional."
+      ],
+      "respuesta_correcta": "b) La pérdida de los efectos que provengan del delito y de los instrumentos utilizados para cometerlo, así como de las ganancias."
+    },
+    {
+      "pregunta": "¿Cómo se extinguen la responsabilidad criminal?",
+      "opciones": [
+        "a) Por la muerte del reo.",
+        "b) Por el cumplimiento de la condena.",
+        "c) Por la prescripción del delito o de la pena.",
+        "d) Todas las anteriores son correctas."
+      ],
+      "respuesta_correcta": "d) Todas las anteriores son correctas."
+    },
+    {
+      "pregunta": "¿El indulto extingue la responsabilidad civil?",
+      "opciones": [
+        "a) Sí.",
+        "b) No, solo la penal.",
+        "c) Depende del Rey.",
+        "d) Sí, si es total."
+      ],
+      "respuesta_correcta": "b) No, solo la penal."
+    },
+    {
+      "pregunta": "¿Cuándo prescriben los delitos graves castigados con pena máxima de prisión de 15 o más años?",
+      "opciones": [
+        "a) A los 20 años.",
+        "b) A los 15 años.",
+        "c) A los 10 años.",
+        "d) A los 30 años."
+      ],
+      "respuesta_correcta": "a) A los 20 años."
+    },
+    {
+      "pregunta": "¿Prescriben los delitos de lesa humanidad y genocidio?",
+      "opciones": [
+        "a) Sí, a los 30 años.",
+        "b) No, no prescriben en ningún caso.",
+        "c) Sí, a los 40 años.",
+        "d) Sí, a los 100 años."
+      ],
+      "respuesta_correcta": "b) No, no prescriben en ningún caso."
+    },
+    {
+      "pregunta": "¿Cuándo prescriben los delitos leves?",
+      "opciones": [
+        "a) A los 6 meses.",
+        "b) Al año.",
+        "c) A los 5 años.",
+        "d) A los 3 meses."
+      ],
+      "respuesta_correcta": "b) Al año."
+    },
+    {
+      "pregunta": "¿Cuándo prescribe la pena de prisión superior a 20 años?",
+      "opciones": [
+        "a) A los 30 años.",
+        "b) A los 20 años.",
+        "c) A los 25 años.",
+        "d) A los 40 años."
+      ],
+      "respuesta_correcta": "a) A los 30 años."
+    },
+    {
+      "pregunta": "¿Cuándo prescriben las penas leves?",
+      "opciones": [
+        "a) Al año.",
+        "b) A los 6 meses.",
+        "c) A los 3 años.",
+        "d) A los 5 años."
+      ],
+      "respuesta_correcta": "a) Al año."
+    },
+    {
+      "pregunta": "¿Qué es la 'Responsabilidad personal subsidiaria por impago de multa'?",
+      "opciones": [
+        "a) Una deuda.",
+        "b) La privación de libertad (o trabajos) que sustituye a la multa cuando el condenado no paga voluntariamente ni por vía de apremio.",
+        "c) Pagar el doble.",
+        "d) Embargo."
+      ],
+      "respuesta_correcta": "b) La privación de libertad (o trabajos) que sustituye a la multa cuando el condenado no paga voluntariamente ni por vía de apremio."
+    },
+    {
+      "pregunta": "¿Cuál es la conversión de la responsabilidad personal subsidiaria?",
+      "opciones": [
+        "a) Un día de prisión por cada dos cuotas diarias no satisfechas.",
+        "b) Un día de prisión por cada cuota diaria no satisfecha.",
+        "c) Un mes por cada cuota.",
+        "d) No hay conversión."
+      ],
+      "respuesta_correcta": "a) Un día de prisión por cada dos cuotas diarias no satisfechas."
+    },
+    {
+      "pregunta": "¿Qué se entiende por 'Dolo'? [Concepto general Título I]",
+      "opciones": [
+        "a) Equivocación.",
+        "b) Conocimiento y voluntad de realizar el hecho típico.",
+        "c) Descuido.",
+        "d) Falta de atención."
+      ],
+      "respuesta_correcta": "b) Conocimiento y voluntad de realizar el hecho típico."
+    },
+    {
+      "pregunta": "¿Qué se entiende por 'Imprudencia grave'? [Concepto general Título I]",
+      "opciones": [
+        "a) Querer matar.",
+        "b) La omisión de la diligencia más elemental exigible.",
+        "c) Un accidente fortuito.",
+        "d) Una falta leve."
+      ],
+      "respuesta_correcta": "b) La omisión de la diligencia más elemental exigible."
+    },
+    {
+      "pregunta": "¿Qué es el 'Delito leve'?",
+      "opciones": [
+        "a) Una infracción administrativa.",
+        "b) La infracción que la ley castiga con pena leve.",
+        "c) Un delito sin importancia.",
+        "d) Una falta antigua."
+      ],
+      "respuesta_correcta": "b) La infracción que la ley castiga con pena leve."
+    },
+    {
+      "pregunta": "¿Qué penas son 'privativas de derechos'?",
+      "opciones": [
+        "a) Prisión.",
+        "b) Inhabilitación absoluta, especial, suspensión de empleo, privación derecho conducir, armas, etc.",
+        "c) Multa.",
+        "d) Localización permanente."
+      ],
+      "respuesta_correcta": "b) Inhabilitación absoluta, especial, suspensión de empleo, privación derecho conducir, armas, etc."
+    },
+    {
+      "pregunta": "La suspensión de empleo o cargo público por tiempo superior a 5 años es pena:",
+      "opciones": [
+        "a) Grave.",
+        "b) Menos grave.",
+        "c) Leve.",
+        "d) Muy grave."
+      ],
+      "respuesta_correcta": "a) Grave."
+    },
+    {
+      "pregunta": "¿Qué es la 'inhabilitación absoluta'?",
+      "opciones": [
+        "a) No poder conducir.",
+        "b) La privación definitiva de todos los honores, empleos y cargos públicos, aunque sean electivos.",
+        "c) No poder viajar.",
+        "d) No poder votar."
+      ],
+      "respuesta_correcta": "b) La privación definitiva de todos los honores, empleos y cargos públicos, aunque sean electivos."
+    },
+    {
+      "pregunta": "¿Qué duración máxima tiene la pena de prisión (salvo prisión permanente o reglas especiales de concurso)?",
+      "opciones": [
+        "a) 15 años.",
+        "b) 20 años (como regla general de máximo ordinario por un delito, aunque hay excepciones).",
+        "c) 30 años.",
+        "d) 10 años."
+      ],
+      "respuesta_correcta": "b) 20 años (como regla general de máximo ordinario por un delito, aunque hay excepciones)."
+    },
+    {
+      "pregunta": "¿Cuál es la duración mínima de la pena de prisión?",
+      "opciones": [
+        "a) 6 meses.",
+        "b) 3 meses.",
+        "c) 1 año.",
+        "d) 15 días."
+      ],
+      "respuesta_correcta": "b) 3 meses."
+    },
+    {
+      "pregunta": "¿Qué es la 'autoría mediata'?",
+      "opciones": [
+        "a) Cometer el delito por medio de otro del que se sirve como instrumento.",
+        "b) Ayudar.",
+        "c) Inducir.",
+        "d) Encubrir."
+      ],
+      "respuesta_correcta": "a) Cometer el delito por medio de otro del que se sirve como instrumento."
+    },
+    {
+      "pregunta": "¿Qué es el 'cooperador necesario'?",
+      "opciones": [
+        "a) Un cómplice.",
+        "b) Quien coopera a la ejecución con un acto sin el cual no se habría efectuado (se considera autor).",
+        "c) Un encubridor.",
+        "d) Un testigo."
+      ],
+      "respuesta_correcta": "b) Quien coopera a la ejecución con un acto sin el cual no se habría efectuado (se considera autor)."
+    },
+    {
+      "pregunta": "¿Qué es la 'inducción'?",
+      "opciones": [
+        "a) Convencer.",
+        "b) Hacer que otro ejecute el delito (se considera autor).",
+        "c) Hipnosis.",
+        "d) Obligar."
+      ],
+      "respuesta_correcta": "b) Hacer que otro ejecute el delito (se considera autor)."
+    },
+    {
+      "pregunta": "¿Qué es la 'provocación' al delito?",
+      "opciones": [
+        "a) Insultar.",
+        "b) Incitar directamente por medio de imprenta, radiodifusión u otro medio de eficacia semejante, que facilite la publicidad, a la perpetración de un delito.",
+        "c) Pegar.",
+        "d) Proponer."
+      ],
+      "respuesta_correcta": "b) Incitar directamente por medio de imprenta, radiodifusión u otro medio de eficacia semejante, que facilite la publicidad, a la perpetración de un delito."
+    },
+    {
+      "pregunta": "¿Qué es la 'proposición'?",
+      "opciones": [
+        "a) Proponer matrimonio.",
+        "b) Cuando el que ha resuelto cometer un delito invita a otra u otras personas a participar en él.",
+        "c) Pedir dinero.",
+        "d) Intentar el delito."
+      ],
+      "respuesta_correcta": "b) Cuando el que ha resuelto cometer un delito invita a otra u otras personas a participar en él."
+    },
+    {
+      "pregunta": "¿Qué es el 'miedo insuperable'?",
+      "opciones": [
+        "a) Una atenuante.",
+        "b) Una eximente (Art. 20.6).",
+        "c) Una agravante.",
+        "d) Nada."
+      ],
+      "respuesta_correcta": "b) Una eximente (Art. 20.6)."
+    },
+    {
+      "pregunta": "¿Qué es el 'arrebato, obcecación o estado pasional'?",
+      "opciones": [
+        "a) Una eximente.",
+        "b) Una atenuante (Art. 21.3).",
+        "c) Una agravante.",
+        "d) Locura."
+      ],
+      "respuesta_correcta": "b) Una atenuante (Art. 21.3)."
+    },
+    {
+      "pregunta": "¿Qué es la 'reparación del daño' como atenuante?",
+      "opciones": [
+        "a) Arreglar lo roto.",
+        "b) Haber procedido el culpable a reparar el daño o disminuir sus efectos, en cualquier momento del procedimiento y con anterioridad a la celebración del acto del juicio oral.",
+        "c) Pagar la multa.",
+        "d) Pedir perdón."
+      ],
+      "respuesta_correcta": "b) Haber procedido el culpable a reparar el daño o disminuir sus efectos, en cualquier momento del procedimiento y con anterioridad a la celebración del acto del juicio oral."
+    },
+    {
+      "pregunta": "¿Qué es la 'disfraz' como agravante?",
+      "opciones": [
+        "a) Ir de carnaval.",
+        "b) Ejecutar el hecho mediante disfraz para evitar la identificación.",
+        "c) Usar guantes.",
+        "d) Ir de noche."
+      ],
+      "respuesta_correcta": "b) Ejecutar el hecho mediante disfraz para evitar la identificación."
+    },
+    {
+      "pregunta": "¿Qué es el 'precio, recompensa o promesa' como agravante?",
+      "opciones": [
+        "a) Cobrar barato.",
+        "b) Cometer el delito por motivos económicos.",
+        "c) Pagar la fianza.",
+        "d) Sobornar."
+      ],
+      "respuesta_correcta": "b) Cometer el delito por motivos económicos."
+    },
+    {
+      "pregunta": "¿Qué es el 'ensañamiento' como agravante?",
+      "opciones": [
+        "a) Pegar fuerte.",
+        "b) Aumentar deliberada e inhumanamente el sufrimiento de la víctima, causando padecimientos innecesarios.",
+        "c) Matar rápido.",
+        "d) Insultar."
+      ],
+      "respuesta_correcta": "b) Aumentar deliberada e inhumanamente el sufrimiento de la víctima, causando padecimientos innecesarios."
+    },
+    {
+      "pregunta": "¿Qué es el 'abuso de confianza' como agravante?",
+      "opciones": [
+        "a) Fiarse de alguien.",
+        "b) Obrar con abuso de confianza.",
+        "c) Ser amigo.",
+        "d) Ser familiar."
+      ],
+      "respuesta_correcta": "b) Obrar con abuso de confianza."
+    },
+    {
+      "pregunta": "¿Qué es la 'prevalencia del carácter público' como agravante?",
+      "opciones": [
+        "a) Ser funcionario.",
+        "b) Prevalerse del carácter público que tenga el culpable.",
+        "c) Ser famoso.",
+        "d) Ser político."
+      ],
+      "respuesta_correcta": "b) Prevalerse del carácter público que tenga el culpable."
+    },
+    {
+      "pregunta": "¿Qué es la 'reincidencia múltiple' (multirreincidencia) a efectos de agravante cualificada?",
+      "opciones": [
+        "a) Tener dos antecedentes.",
+        "b) Haber sido condenado ejecutoriamente por al menos tres delitos comprendidos en el mismo título y de la misma naturaleza (Art. 66).",
+        "c) Ser delincuente habitual.",
+        "d) Tener 10 multas."
+      ],
+      "respuesta_correcta": "b) Haber sido condenado ejecutoriamente por al menos tres delitos comprendidos en el mismo título y de la misma naturaleza (Art. 66)."
+    },
+    {
+      "pregunta": "¿Qué es la 'analogía' en las atenuantes?",
+      "opciones": [
+        "a) Comparar.",
+        "b) Cualquier otra circunstancia de análoga significación a las anteriores (atenuante analógica, Art. 21.7).",
+        "c) No se permite.",
+        "d) Es agravante."
+      ],
+      "respuesta_correcta": "b) Cualquier otra circunstancia de análoga significación a las anteriores (atenuante analógica, Art. 21.7)."
+    },
+    {
+      "pregunta": "¿Qué es la 'responsabilidad civil ex delicto'?",
+      "opciones": [
+        "a) La penal.",
+        "b) La obligación de reparar el daño causado por el delito.",
+        "c) La administrativa.",
+        "d) La moral."
+      ],
+      "respuesta_correcta": "b) La obligación de reparar el daño causado por el delito."
+    },
+    {
+      "pregunta": "¿A quién corresponde la acción civil derivada del delito?",
+      "opciones": [
+        "a) Al perjudicado.",
+        "b) Al Fiscal (salvo renuncia o reserva).",
+        "c) A ambos.",
+        "d) Al Estado."
+      ],
+      "respuesta_correcta": "c) A ambos (el Fiscal la ejerce si no se renuncia/reserva)."
+    },
+    {
+      "pregunta": "¿Qué sucede con las costas procesales?",
+      "opciones": [
+        "a) Son gratis.",
+        "b) Se entienden impuestas por la ley a los criminalmente responsables de todo delito.",
+        "c) Las paga el juez.",
+        "d) Las paga el Estado."
+      ],
+      "respuesta_correcta": "b) Se entienden impuestas por la ley a los criminalmente responsables de todo delito."
+    },
+    {
+      "pregunta": "¿Qué incluye el 'decomiso ampliado'?",
+      "opciones": [
+        "a) Quitar todo.",
+        "b) El decomiso de bienes cuando se presuma que proceden de actividades delictivas (en delitos graves/terrorismo/organización criminal) y no se acredite origen lícito.",
+        "c) Multas extra.",
+        "d) Impuestos."
+      ],
+      "respuesta_correcta": "b) El decomiso de bienes cuando se presuma que proceden de actividades delictivas (en delitos graves/terrorismo/organización criminal) y no se acredite origen lícito."
+    },
+    {
+      "pregunta": "¿Qué es la 'Oficina de Recuperación y Gestión de Activos' (ORGA)? [Contexto Título VI]",
+      "opciones": [
+        "a) Un banco.",
+        "b) Organismo encargado de gestionar los bienes decomisados.",
+        "c) Una inmobiliaria.",
+        "d) La policía."
+      ],
+      "respuesta_correcta": "b) Organismo encargado de gestionar los bienes decomisados."
+    },
+    {
+      "pregunta": "¿El perdón del ofendido extingue la responsabilidad criminal?",
+      "opciones": [
+        "a) Siempre.",
+        "b) Solo en delitos leves perseguibles a instancias del agraviado o delitos privados, y si la ley lo prevé.",
+        "c) Nunca.",
+        "d) Solo en familia."
+      ],
+      "respuesta_correcta": "b) Solo en delitos leves perseguibles a instancias del agraviado o delitos privados, y si la ley lo prevé."
+    },
+    {
+      "pregunta": "¿La prescripción del delito se interrumpe?",
+      "opciones": [
+        "a) No.",
+        "b) Sí, cuando el procedimiento se dirija contra el culpable.",
+        "c) Solo por el juez.",
+        "d) Solo por la policía."
+      ],
+      "respuesta_correcta": "b) Sí, cuando el procedimiento se dirija contra el culpable."
+    },
+    {
+      "pregunta": "¿Cuándo comienza a correr el plazo de prescripción de la pena?",
+      "opciones": [
+        "a) Desde el delito.",
+        "b) Desde la fecha de la sentencia firme o desde el quebrantamiento de condena.",
+        "c) Desde la detención.",
+        "d) Desde el juicio."
+      ],
+      "respuesta_correcta": "b) Desde la fecha de la sentencia firme o desde el quebrantamiento de condena."
+    },
+    {
+      "pregunta": "¿Qué es la 'cancelación de antecedentes penales'?",
+      "opciones": [
+        "a) Borrarlos.",
+        "b) Derecho de los condenados que hayan extinguido su responsabilidad penal y cumplido ciertos plazos sin delinquir.",
+        "c) Olvidarlos.",
+        "d) Romper el papel."
+      ],
+      "respuesta_correcta": "b) Derecho de los condenados que hayan extinguido su responsabilidad penal y cumplido ciertos plazos sin delinquir."
+    },
+    {
+      "pregunta": "¿Qué es el 'delito masa'? [Contexto Título I]",
+      "opciones": [
+        "a) Un delito gordo.",
+        "b) Delito continuado patrimonial que afecta a una generalidad de personas (agravado).",
+        "c) Una manifestación.",
+        "d) Un robo grande."
+      ],
+      "respuesta_correcta": "b) Delito continuado patrimonial que afecta a una generalidad de personas (agravado)."
+    },
+    {
+      "pregunta": "¿Qué es el 'delito permanente'? [Contexto Título I]",
+      "opciones": [
+        "a) El que dura siempre.",
+        "b) Aquel cuya consumación se prolonga en el tiempo (ej. detención ilegal).",
+        "c) El que no prescribe.",
+        "d) El asesinato."
+      ],
+      "respuesta_correcta": "b) Aquel cuya consumación se prolonga en el tiempo (ej. detención ilegal)."
+    },
+    {
+      "pregunta": "¿Qué es la 'aberratio ictus'? [Concepto jurídico penal Título I]",
+      "opciones": [
+        "a) Error en el golpe.",
+        "b) Error de prohibición.",
+        "c) Error de tipo.",
+        "d) Error de persona."
+      ],
+      "respuesta_correcta": "a) Error en el golpe."
+    },
+    {
+      "pregunta": "¿Qué es la 'legítima defensa putativa'? [Concepto jurídico penal Título I]",
+      "opciones": [
+        "a) Creer erróneamente que se es agredido (error).",
+        "b) Defenderse de verdad.",
+        "c) Defender a otro.",
+        "d) Pegar primero."
+      ],
+      "respuesta_correcta": "a) Creer erróneamente que se es agredido (error)."
+    },
+    {
+      "pregunta": "¿Qué es el 'miedo insuperable' como causa de exculpación?",
+      "opciones": [
+        "a) Cobardía.",
+        "b) Estado anímico de temor que anula la capacidad de decisión.",
+        "c) Pánico.",
+        "d) Susto."
+      ],
+      "respuesta_correcta": "b) Estado anímico de temor que anula la capacidad de decisión."
+    },
+    {
+      "pregunta": "¿Qué es la 'alteración en la percepción'?",
+      "opciones": [
+        "a) Ser ciego.",
+        "b) Eximente (Art. 20.3) para quien sufra alteraciones desde el nacimiento o infancia que afecten gravemente a su conciencia de la realidad.",
+        "c) Ser sordo.",
+        "d) Drogadicción."
+      ],
+      "respuesta_correcta": "b) Eximente (Art. 20.3) para quien sufra alteraciones desde el nacimiento o infancia que afecten gravemente a su conciencia de la realidad."
+    },
+    {
+      "pregunta": "¿Qué es el 'trastorno mental transitorio'?",
+      "opciones": [
+        "a) Estar loco.",
+        "b) Eximente (Art. 20.1) si es pleno y no provocado.",
+        "c) Estar borracho.",
+        "d) Estar enfadado."
+      ],
+      "respuesta_correcta": "b) Eximente (Art. 20.1) si es pleno y no provocado."
+    },
+    {
+      "pregunta": "¿Qué es la 'minoría de edad penal'?",
+      "opciones": [
+        "a) Tener menos de 21.",
+        "b) Tener menos de 18 años (Art. 19 CP).",
+        "c) Tener menos de 16.",
+        "d) Tener menos de 14."
+      ],
+      "respuesta_correcta": "b) Tener menos de 18 años (Art. 19 CP)."
+    }
+  ]
+}

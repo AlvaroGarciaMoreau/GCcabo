@@ -1,0 +1,1066 @@
+{
+  "tema": "TEMA 13.- LEY DE ENJUICIAMIENTO CRIMINAL (100 PREGUNTAS)",
+  "descripcion": "Preguntas basadas en el Real Decreto de 14 de septiembre de 1882 (Ley de Enjuiciamiento Criminal), cubriendo los Libros I, II, IV y VI según los epígrafes del temario.",
+  "preguntas": [
+    {
+      "pregunta": "¿Es prorrogable la jurisdicción criminal según la Ley de Enjuiciamiento Criminal?",
+      "opciones": [
+        "a) Sí, por acuerdo de las partes.",
+        "b) No, es siempre improrrogable.",
+        "c) Sí, en delitos leves.",
+        "d) Solo en la fase de instrucción."
+      ],
+      "respuesta_correcta": "b) No, es siempre improrrogable."
+    },
+    {
+      "pregunta": "¿A quién corresponde la competencia para instruir las causas por delitos cometidos en su partido?",
+      "opciones": [
+        "a) Al Juez de lo Penal.",
+        "b) Al Juez de Instrucción.",
+        "c) A la Audiencia Provincial.",
+        "d) Al Ministerio Fiscal."
+      ],
+      "respuesta_correcta": "b) Al Juez de Instrucción."
+    },
+    {
+      "pregunta": "Cuando no conste el lugar en que se haya cometido un delito, ¿qué Juez es competente en primer lugar?",
+      "opciones": [
+        "a) El de la residencia del reo presunto.",
+        "b) El del lugar donde se hayan descubierto pruebas materiales del delito.",
+        "c) El del lugar donde el reo haya sido aprehendido.",
+        "d) Cualquiera que hubiese tenido noticia del delito."
+      ],
+      "respuesta_correcta": "b) El del lugar donde se hayan descubierto pruebas materiales del delito."
+    },
+    {
+      "pregunta": "¿Qué ocurre con la competencia cuando consta el lugar del delito después de iniciadas las diligencias por otro juzgado?",
+      "opciones": [
+        "a) Continúa conociendo el que inició las diligencias.",
+        "b) Se inhibirá a favor del competente, remitiendo las diligencias y detenidos.",
+        "c) Se plantea una cuestión de competencia ante el superior jerárquico.",
+        "d) El Ministerio Fiscal decide quién continúa."
+      ],
+      "respuesta_correcta": "b) Se inhibirá a favor del competente, remitiendo las diligencias y detenidos."
+    },
+    {
+      "pregunta": "¿Quién es competente para conocer de los delitos conexos?",
+      "opciones": [
+        "a) El Juez del territorio donde se haya cometido el delito con pena mayor.",
+        "b) El Juez que primero comenzó la causa en todo caso.",
+        "c) Siempre la Audiencia Nacional.",
+        "d) El Juez del lugar de residencia de los imputados."
+      ],
+      "respuesta_correcta": "a) El Juez del territorio donde se haya cometido el delito con pena mayor."
+    },
+    {
+      "pregunta": "La acción penal es:",
+      "opciones": [
+        "a) Privada.",
+        "b) Pública.",
+        "c) Mixta.",
+        "d) Administrativa."
+      ],
+      "respuesta_correcta": "b) Pública."
+    },
+    {
+      "pregunta": "¿Quiénes pueden ejercitar la acción penal?",
+      "opciones": [
+        "a) Solo el Ministerio Fiscal.",
+        "b) Solo los perjudicados.",
+        "c) Todos los ciudadanos españoles con arreglo a las prescripciones de la Ley.",
+        "d) Solo las Fuerzas y Cuerpos de Seguridad."
+      ],
+      "respuesta_correcta": "c) Todos los ciudadanos españoles con arreglo a las prescripciones de la Ley."
+    },
+    {
+      "pregunta": "¿Puede renunciarse a la acción penal?",
+      "opciones": [
+        "a) Sí, en todos los casos.",
+        "b) No, la acción penal pública no se extingue por la renuncia de la persona ofendida.",
+        "c) Sí, pero solo si hay acuerdo con el delincuente.",
+        "d) Solo en los delitos graves."
+      ],
+      "respuesta_correcta": "b) No, la acción penal pública no se extingue por la renuncia de la persona ofendida."
+    },
+    {
+      "pregunta": "Si se renuncia a la acción civil, ¿se pierde la penal?",
+      "opciones": [
+        "a) Sí, ambas van unidas.",
+        "b) No, la renuncia de la acción civil no perjudica a la penal.",
+        "c) Sí, salvo que el Fiscal decida continuar.",
+        "d) Solo si se hace ante Notario."
+      ],
+      "respuesta_correcta": "b) No, la renuncia de la acción civil no perjudica a la penal."
+    },
+    {
+      "pregunta": "¿Quién debe entablar la acción civil junto con la penal?",
+      "opciones": [
+        "a) El perjudicado obligatoriamente.",
+        "b) El Ministerio Fiscal, haya o no acusador particular, salvo renuncia expresa del ofendido.",
+        "c) El Juez de oficio.",
+        "d) El Abogado del Estado."
+      ],
+      "respuesta_correcta": "b) El Ministerio Fiscal, haya o no acusador particular, salvo renuncia expresa del ofendido."
+    },
+    {
+      "pregunta": "¿Quién tiene obligación de denunciar un delito público?",
+      "opciones": [
+        "a) Solo la policía.",
+        "b) El que presenciare la perpetración de cualquier delito público.",
+        "c) Solo los funcionarios públicos.",
+        "d) Nadie está obligado."
+      ],
+      "respuesta_correcta": "b) El que presenciare la perpetración de cualquier delito público."
+    },
+    {
+      "pregunta": "¿Están obligados a denunciar los cónyuges entre sí?",
+      "opciones": [
+        "a) Sí, siempre.",
+        "b) No están obligados a denunciar el cónyuge del delincuente no separado legalmente.",
+        "c) Sí, salvo en delitos leves.",
+        "d) Sí, si viven juntos."
+      ],
+      "respuesta_correcta": "b) No están obligados a denunciar el cónyuge del delincuente no separado legalmente."
+    },
+    {
+      "pregunta": "¿Cómo puede hacerse la denuncia?",
+      "opciones": [
+        "a) Solo por escrito.",
+        "b) Solo de palabra.",
+        "c) Por escrito o de palabra, personalmente o por medio de mandatario.",
+        "d) Solo ante el Juez."
+      ],
+      "respuesta_correcta": "c) Por escrito o de palabra, personalmente o por medio de mandatario."
+    },
+    {
+      "pregunta": "¿Es necesario prestar fianza para denunciar?",
+      "opciones": [
+        "a) Sí, siempre.",
+        "b) No, el denunciante no está obligado a prestar fianza.",
+        "c) Solo en delitos graves.",
+        "d) Sí, si es extranjero."
+      ],
+      "respuesta_correcta": "b) No, el denunciante no está obligado a prestar fianza."
+    },
+    {
+      "pregunta": "¿Qué responsabilidad incurre el que denunciare falsamente?",
+      "opciones": [
+        "a) Ninguna.",
+        "b) Responsabilidad civil y penal con arreglo al Código Penal.",
+        "c) Solo administrativa.",
+        "d) Una multa leve."
+      ],
+      "respuesta_correcta": "b) Responsabilidad civil y penal con arreglo al Código Penal."
+    },
+    {
+      "pregunta": "¿Ante quién se puede presentar una denuncia?",
+      "opciones": [
+        "a) Solo ante el Juez.",
+        "b) Ante el Juez, el Fiscal o funcionarios de Policía.",
+        "c) Solo ante la Policía.",
+        "d) Ante el Alcalde exclusivamente."
+      ],
+      "respuesta_correcta": "b) Ante el Juez, el Fiscal o funcionarios de Policía."
+    },
+    {
+      "pregunta": "La denuncia formalizada verbalmente ante la policía requiere:",
+      "opciones": [
+        "a) La presencia de abogado.",
+        "b) Que se extienda un acta firmada por el declarante y el funcionario.",
+        "c) Que se grabe en video.",
+        "d) Que se ratifique ante notario."
+      ],
+      "respuesta_correcta": "b) Que se extienda un acta firmada por el declarante y el funcionario."
+    },
+    {
+      "pregunta": "¿El denunciante se convierte en parte del proceso por el mero hecho de denunciar?",
+      "opciones": [
+        "a) Sí, siempre.",
+        "b) No, no contrae más obligación que la de decir verdad ni adquiere más derechos que los de la ley.",
+        "c) Sí, si el delito es grave.",
+        "d) Sí, si paga las costas."
+      ],
+      "respuesta_correcta": "b) No, no contrae más obligación que la de decir verdad ni adquiere más derechos que los de la ley."
+    },
+    {
+      "pregunta": "Los profesores de medicina que notaren signos de delito en una persona están obligados a:",
+      "opciones": [
+        "a) Guardar secreto profesional.",
+        "b) Dar parte a la autoridad judicial o policial.",
+        "c) Curar y callar.",
+        "d) Informar al colegio de médicos."
+      ],
+      "respuesta_correcta": "b) Dar parte a la autoridad judicial o policial."
+    },
+    {
+      "pregunta": "¿Es válida la denuncia anónima?",
+      "opciones": [
+        "a) Sí, siempre.",
+        "b) No, la denuncia debe estar firmada por el denunciante o mandatario.",
+        "c) Sí, en delitos de drogas.",
+        "d) Sí, por teléfono."
+      ],
+      "respuesta_correcta": "b) No, la denuncia debe estar firmada por el denunciante o mandatario."
+    },
+    {
+      "pregunta": "¿Cómo se interpone la querella?",
+      "opciones": [
+        "a) Verbalmente.",
+        "b) Por escrito firmado por Abogado y Procurador.",
+        "c) Por correo electrónico.",
+        "d) Ante la policía."
+      ],
+      "respuesta_correcta": "b) Por escrito firmado por Abogado y Procurador."
+    },
+    {
+      "pregunta": "¿Ante quién se presenta la querella?",
+      "opciones": [
+        "a) Ante la Policía.",
+        "b) Ante el Juez de Instrucción competente.",
+        "c) Ante el Alcalde.",
+        "d) Ante el Fiscal."
+      ],
+      "respuesta_correcta": "b) Ante el Juez de Instrucción competente."
+    },
+    {
+      "pregunta": "¿Qué fianza se exige al querellante extranjero?",
+      "opciones": [
+        "a) Ninguna.",
+        "b) La que fije el Juez para responder de las resultas del juicio, salvo tratados internacionales o reciprocidad.",
+        "c) Siempre 1.000 euros.",
+        "d) No pueden querellarse."
+      ],
+      "respuesta_correcta": "b) La que fije el Juez para responder de las resultas del juicio, salvo tratados internacionales o reciprocidad."
+    },
+    {
+      "pregunta": "¿Cuándo se considera abandonada la querella?",
+      "opciones": [
+        "a) Si el querellante no asiste a las diligencias de prueba.",
+        "b) Si deja de instar el procedimiento dentro de los diez días siguientes a la notificación del auto de archivo.",
+        "c) Si muere el querellado.",
+        "d) Por fallecimiento o inacción del querellante en delitos privados."
+      ],
+      "respuesta_correcta": "d) Por fallecimiento o inacción del querellante en delitos privados."
+    },
+    {
+      "pregunta": "¿Qué diferencia principal hay entre denuncia y querella?",
+      "opciones": [
+        "a) La denuncia es verbal y la querella escrita.",
+        "b) En la querella el querellante se constituye en parte acusadora.",
+        "c) La denuncia es para delitos leves y la querella para graves.",
+        "d) No hay diferencia."
+      ],
+      "respuesta_correcta": "b) En la querella el querellante se constituye en parte acusadora."
+    },
+    {
+      "pregunta": "¿Cuál es la función principal de la Policía Judicial?",
+      "opciones": [
+        "a) Juzgar delitos.",
+        "b) Averiguar los delitos públicos, practicar diligencias para comprobarlos y descubrir a los delincuentes.",
+        "c) Cobrar multas.",
+        "d) Regular el tráfico."
+      ],
+      "respuesta_correcta": "b) Averiguar los delitos públicos, practicar diligencias para comprobarlos y descubrir a los delincuentes."
+    },
+    {
+      "pregunta": "¿De quién dependen funcionalmente los miembros de la Policía Judicial?",
+      "opciones": [
+        "a) Del Ministerio del Interior.",
+        "b) De los Jueces, Tribunales y Ministerio Fiscal.",
+        "c) Del Delegado del Gobierno.",
+        "d) Del Alcalde."
+      ],
+      "respuesta_correcta": "b) De los Jueces, Tribunales y Ministerio Fiscal."
+    },
+    {
+      "pregunta": "¿Qué deben hacer los funcionarios de Policía Judicial al tener conocimiento de un delito público?",
+      "opciones": [
+        "a) Archivarlo.",
+        "b) Participarlo inmediatamente a la Autoridad Judicial o al Ministerio Fiscal.",
+        "c) Esperar 24 horas.",
+        "d) Publicarlo en prensa."
+      ],
+      "respuesta_correcta": "b) Participarlo inmediatamente a la Autoridad Judicial o al Ministerio Fiscal."
+    },
+    {
+      "pregunta": "¿Cuándo debe cesar la Policía Judicial en sus diligencias?",
+      "opciones": [
+        "a) Nunca.",
+        "b) Cuando se persone la Autoridad Judicial en el lugar o se encargue de las actuaciones.",
+        "c) Cuando lo diga el abogado.",
+        "d) A las 72 horas."
+      ],
+      "respuesta_correcta": "b) Cuando se persone la Autoridad Judicial en el lugar o se encargue de las actuaciones."
+    },
+    {
+      "pregunta": "Si no hay autor conocido, ¿la Policía Judicial remite el atestado al Juez?",
+      "opciones": [
+        "a) Sí, siempre.",
+        "b) No, lo conserva a disposición del Fiscal y Juez, salvo delitos contra la vida, integridad física, libertad sexual o corrupción.",
+        "c) Lo destruye.",
+        "d) Lo envía al archivo municipal."
+      ],
+      "respuesta_correcta": "b) No, lo conserva a disposición del Fiscal y Juez, salvo delitos contra la vida, integridad física, libertad sexual o corrupción."
+    },
+    {
+      "pregunta": "¿Qué plazo tiene la Policía Judicial para remitir el atestado si no hay autor conocido pero se practica alguna diligencia con resultado?",
+      "opciones": [
+        "a) 24 horas.",
+        "b) 72 horas.",
+        "c) 5 días.",
+        "d) 1 semana."
+      ],
+      "respuesta_correcta": "b) 72 horas."
+    },
+    {
+      "pregunta": "¿Qué deben hacer los agentes si recogen armas o efectos en el lugar del delito?",
+      "opciones": [
+        "a) Llevárselos a casa.",
+        "b) Extender diligencia expresiva del lugar, tiempo y ocasión, con descripción minuciosa.",
+        "c) Venderlos.",
+        "d) No tocarlos."
+      ],
+      "respuesta_correcta": "b) Extender diligencia expresiva del lugar, tiempo y ocasión, con descripción minuciosa."
+    },
+    {
+      "pregunta": "¿Qué obligación tiene la Policía Judicial respecto a la protección de víctimas?",
+      "opciones": [
+        "a) Ninguna.",
+        "b) Realizar una valoración de las circunstancias para determinar medidas provisionales de protección.",
+        "c) Solo si lo pide el Juez.",
+        "d) Derivarlas a servicios sociales sin más."
+      ],
+      "respuesta_correcta": "b) Realizar una valoración de las circunstancias para determinar medidas provisionales de protección."
+    },
+    {
+      "pregunta": "¿Qué valor tienen las diligencias de prevención practicadas por la Policía Judicial?",
+      "opciones": [
+        "a) De prueba plena.",
+        "b) De denuncia para los efectos legales.",
+        "c) De sentencia.",
+        "d) Ninguno."
+      ],
+      "respuesta_correcta": "b) De denuncia para los efectos legales."
+    },
+    {
+      "pregunta": "Para la averiguación del delito, la Policía Judicial podrá:",
+      "opciones": [
+        "a) Torturar.",
+        "b) Requerir el auxilio de otros miembros de las Fuerzas y Cuerpos de Seguridad.",
+        "c) Juzgar.",
+        "d) Allanar moradas sin orden."
+      ],
+      "respuesta_correcta": "b) Requerir el auxilio de otros miembros de las Fuerzas y Cuerpos de Seguridad."
+    },
+    {
+      "pregunta": "¿Qué es la inspección ocular?",
+      "opciones": [
+        "a) Mirar por la ventana.",
+        "b) El examen del lugar del delito por el Juez instructor para consignar su estado y recoger vestigios.",
+        "c) Una prueba de visión.",
+        "d) Un informe médico."
+      ],
+      "respuesta_correcta": "b) El examen del lugar del delito por el Juez instructor para consignar su estado y recoger vestigios."
+    },
+    {
+      "pregunta": "Si el delito ha dejado huellas, el Juez instructor:",
+      "opciones": [
+        "a) Las borrará.",
+        "b) Las describirá detalladamente y recogerá las pruebas materiales.",
+        "c) No hará nada.",
+        "d) Llamará a la prensa."
+      ],
+      "respuesta_correcta": "b) Las describirá detalladamente y recogerá las pruebas materiales."
+    },
+    {
+      "pregunta": "¿Qué es el 'cuerpo del delito'?",
+      "opciones": [
+        "a) El cadáver.",
+        "b) Las armas, instrumentos y efectos de cualquier clase que puedan tener relación con el delito.",
+        "c) El detenido.",
+        "d) La sentencia."
+      ],
+      "respuesta_correcta": "b) Las armas, instrumentos y efectos de cualquier clase que puedan tener relación con el delito."
+    },
+    {
+      "pregunta": "En caso de muerte violenta, ¿qué diligencia es esencial?",
+      "opciones": [
+        "a) La autopsia.",
+        "b) El levantamiento del cadáver, identificación y autopsia.",
+        "c) El entierro inmediato.",
+        "d) Avisar a la familia."
+      ],
+      "respuesta_correcta": "b) El levantamiento del cadáver, identificación y autopsia."
+    },
+    {
+      "pregunta": "¿Quién realiza la autopsia?",
+      "opciones": [
+        "a) El Juez.",
+        "b) Los Médicos Forenses.",
+        "c) La Policía.",
+        "d) El Secretario."
+      ],
+      "respuesta_correcta": "b) Los Médicos Forenses."
+    },
+    {
+      "pregunta": "¿Se puede destruir la droga incautada antes del juicio?",
+      "opciones": [
+        "a) No, hay que guardarla toda.",
+        "b) Sí, conservando muestras suficientes para contraanálisis, previa autorización judicial.",
+        "c) Sí, la policía decide.",
+        "d) No, se subasta."
+      ],
+      "respuesta_correcta": "b) Sí, conservando muestras suficientes para contraanálisis, previa autorización judicial."
+    },
+    {
+      "pregunta": "¿Cómo se identifica al delincuente?",
+      "opciones": [
+        "a) Por el nombre que diga.",
+        "b) Por cualquier medio legal (testigos, reconocimiento en rueda, huellas, ADN).",
+        "c) Por el DNI solamente.",
+        "d) Preguntando a los vecinos."
+      ],
+      "respuesta_correcta": "b) Por cualquier medio legal (testigos, reconocimiento en rueda, huellas, ADN)."
+    },
+    {
+      "pregunta": "¿Cuándo procede la toma de muestras de ADN?",
+      "opciones": [
+        "a) A cualquier ciudadano.",
+        "b) Al sospechoso de delitos graves, con autorización judicial y motivación, o con su consentimiento.",
+        "c) En delitos leves.",
+        "d) Solo a condenados."
+      ],
+      "respuesta_correcta": "b) Al sospechoso de delitos graves, con autorización judicial y motivación, o con su consentimiento."
+    },
+    {
+      "pregunta": "¿Qué es el reconocimiento en rueda?",
+      "opciones": [
+        "a) Una tortura.",
+        "b) Poner al sospechoso entre otras personas de características similares para que el testigo lo identifique.",
+        "c) Un careo.",
+        "d) Una foto."
+      ],
+      "respuesta_correcta": "b) Poner al sospechoso entre otras personas de características similares para que el testigo lo identifique."
+    },
+    {
+      "pregunta": "Si hay dudas sobre la edad del procesado, ¿qué se hace?",
+      "opciones": [
+        "a) Se le pregunta.",
+        "b) Se realizan pruebas médicas forenses para determinarla.",
+        "c) Se le considera mayor de edad.",
+        "d) Se le considera menor."
+      ],
+      "respuesta_correcta": "b) Se realizan pruebas médicas forenses para determinarla."
+    },
+    {
+      "pregunta": "¿Cuándo se puede detener a una persona?",
+      "opciones": [
+        "a) Cuando se quiera.",
+        "b) Cuando haya motivos racionalmente bastantes para creer en la existencia de un delito y en la participación de la persona.",
+        "c) Solo si hay condena.",
+        "d) Solo si es extranjero."
+      ],
+      "respuesta_correcta": "b) Cuando haya motivos racionalmente bastantes para creer en la existencia de un delito y en la participación de la persona."
+    },
+    {
+      "pregunta": "¿Puede un particular detener a alguien?",
+      "opciones": [
+        "a) No, nunca.",
+        "b) Sí, en caso de delito flagrante, al fugado, o al procesado en rebeldía.",
+        "c) Solo si es seguridad privada.",
+        "d) Sí, por sospechas."
+      ],
+      "respuesta_correcta": "b) Sí, en caso de delito flagrante, al fugado, o al procesado en rebeldía."
+    },
+    {
+      "pregunta": "¿Cuál es el plazo máximo de detención policial ordinaria?",
+      "opciones": [
+        "a) 24 horas.",
+        "b) 72 horas.",
+        "c) 48 horas.",
+        "d) 5 días."
+      ],
+      "respuesta_correcta": "b) 72 horas."
+    },
+    {
+      "pregunta": "¿En qué plazo debe ser puesto el detenido a disposición judicial o en libertad?",
+      "opciones": [
+        "a) En el plazo estrictamente necesario para las averiguaciones y, en todo caso, máximo 72 horas.",
+        "b) En 24 horas.",
+        "c) En 7 días.",
+        "d) Inmediatamente siempre."
+      ],
+      "respuesta_correcta": "a) En el plazo estrictamente necesario para las averiguaciones y, en todo caso, máximo 72 horas."
+    },
+    {
+      "pregunta": "¿Se puede detener por delitos leves?",
+      "opciones": [
+        "a) Sí, siempre.",
+        "b) No, salvo que el presunto reo no tenga domicilio conocido ni dé fianza bastante.",
+        "c) Solo si hay violencia.",
+        "d) Sí, por la noche."
+      ],
+      "respuesta_correcta": "b) No, salvo que el presunto reo no tenga domicilio conocido ni dé fianza bastante."
+    },
+    {
+      "pregunta": "¿Qué derecho tiene el detenido inmediatamente?",
+      "opciones": [
+        "a) A ducharse.",
+        "b) A ser informado de los hechos que se le imputan y de las razones de su privación de libertad, así como de sus derechos.",
+        "c) A ver la televisión.",
+        "d) A salir a fumar."
+      ],
+      "respuesta_correcta": "b) A ser informado de los hechos que se le imputan y de las razones de su privación de libertad, así como de sus derechos."
+    },
+    {
+      "pregunta": "¿Tiene derecho el detenido a guardar silencio?",
+      "opciones": [
+        "a) No, debe confesar.",
+        "b) Sí, a no declarar si no quiere y a no contestar alguna pregunta.",
+        "c) Solo si paga.",
+        "d) Solo ante el Juez."
+      ],
+      "respuesta_correcta": "b) Sí, a no declarar si no quiere y a no contestar alguna pregunta."
+    },
+    {
+      "pregunta": "¿Tiene derecho el detenido a designar abogado?",
+      "opciones": [
+        "a) Sí, de confianza o de oficio.",
+        "b) No, se le asigna uno.",
+        "c) Solo si tiene dinero.",
+        "d) Solo en delitos graves."
+      ],
+      "respuesta_correcta": "a) Sí, de confianza o de oficio."
+    },
+    {
+      "pregunta": "¿Puede el detenido comunicarse telefónicamente con un tercero?",
+      "opciones": [
+        "a) No.",
+        "b) Sí, tiene derecho a que se ponga en conocimiento del familiar o persona que desee su detención y lugar de custodia.",
+        "c) Solo por carta.",
+        "d) Solo si es menor."
+      ],
+      "respuesta_correcta": "b) Sí, tiene derecho a que se ponga en conocimiento del familiar o persona que desee su detención y lugar de custodia."
+    },
+    {
+      "pregunta": "¿Qué es el 'Habeas Corpus'?",
+      "opciones": [
+        "a) Un cuerpo de policía.",
+        "b) Un procedimiento para poner a disposición judicial inmediata a los detenidos ilegalmente.",
+        "c) Un delito.",
+        "d) Una sentencia."
+      ],
+      "respuesta_correcta": "b) Un procedimiento para poner a disposición judicial inmediata a los detenidos ilegalmente."
+    },
+    {
+      "pregunta": "¿Puede el detenido renunciar a la asistencia letrada?",
+      "opciones": [
+        "a) Sí, siempre.",
+        "b) En general sí, si se le ha informado, pero no en delitos contra la seguridad del tráfico (según jurisprudencia y redacción actual es restringido, la detención requiere abogado).",
+        "c) No, la asistencia letrada al detenido es irrenunciable en las diligencias policiales y judiciales de detención.",
+        "d) Solo si es abogado."
+      ],
+      "respuesta_correcta": "c) No, la asistencia letrada al detenido es irrenunciable en las diligencias policiales y judiciales de detención."
+    },
+    {
+      "pregunta": "¿Qué derechos específicos tienen los detenidos extranjeros?",
+      "opciones": [
+        "a) A intérprete gratuito y a comunicar con su Consulado.",
+        "b) A ser expulsados.",
+        "c) A no ser detenidos.",
+        "d) A un abogado de su país."
+      ],
+      "respuesta_correcta": "a) A intérprete gratuito y a comunicar con su Consulado."
+    },
+    {
+      "pregunta": "¿Cuándo se acuerda la prisión provisional?",
+      "opciones": [
+        "a) Siempre que se detiene a alguien.",
+        "b) Cuando conste en la causa la existencia de uno o varios hechos que presenten caracteres de delito sancionado con pena cuyo máximo sea igual o superior a dos años de prisión (regla general), haya motivos bastantes de responsabilidad y se persigan fines constitucionales (riesgo fuga, destrucción pruebas, reiteración).",
+        "c) En delitos leves.",
+        "d) Por sospechas."
+      ],
+      "respuesta_correcta": "b) Cuando conste en la causa la existencia de uno o varios hechos que presenten caracteres de delito sancionado con pena cuyo máximo sea igual o superior a dos años de prisión (regla general), haya motivos bastantes de responsabilidad y se persigan fines constitucionales (riesgo fuga, destrucción pruebas, reiteración)."
+    },
+    {
+      "pregunta": "¿Cuál es la duración máxima de la prisión provisional para delitos graves (pena > 3 años)?",
+      "opciones": [
+        "a) 1 año.",
+        "b) 2 años, prorrogables por otros 2.",
+        "c) 6 meses.",
+        "d) 10 años."
+      ],
+      "respuesta_correcta": "b) 2 años, prorrogables por otros 2."
+    },
+    {
+      "pregunta": "¿Cuándo puede acordarse la entrada y registro en domicilio?",
+      "opciones": [
+        "a) Siempre que quiera la policía.",
+        "b) Con consentimiento del titular o autorización judicial.",
+        "c) Solo de día.",
+        "d) Solo si hay testigos."
+      ],
+      "respuesta_correcta": "b) Con consentimiento del titular o autorización judicial."
+    },
+    {
+      "pregunta": "¿Qué excepción permite la entrada en domicilio sin orden judicial?",
+      "opciones": [
+        "a) La sospecha.",
+        "b) El delito flagrante.",
+        "c) La denuncia anónima.",
+        "d) Ninguna."
+      ],
+      "respuesta_correcta": "b) El delito flagrante."
+    },
+    {
+      "pregunta": "¿A qué horas se puede practicar el registro domiciliario?",
+      "opciones": [
+        "a) Solo de día.",
+        "b) A cualquier hora del día o de la noche si es urgente o con consentimiento, pero por orden judicial se suele especificar; la ley permite día y noche si es necesario.",
+        "c) De 8 a 15.",
+        "d) Solo días laborables."
+      ],
+      "respuesta_correcta": "b) A cualquier hora del día o de la noche si es urgente o con consentimiento, pero por orden judicial se suele especificar; la ley permite día y noche si es necesario."
+    },
+    {
+      "pregunta": "¿Quién debe estar presente en el registro?",
+      "opciones": [
+        "a) Solo la policía.",
+        "b) El interesado (o quien le represente) y el Secretario Judicial (Letrado de la Administración de Justicia).",
+        "c) El Juez.",
+        "d) El Fiscal."
+      ],
+      "respuesta_correcta": "b) El interesado (o quien le represente) y el Secretario Judicial (Letrado de la Administración de Justicia)."
+    },
+    {
+      "pregunta": "¿Se puede registrar un edificio público sin autorización?",
+      "opciones": [
+        "a) Sí.",
+        "b) No, se necesita oficiar a la autoridad competente (salvo flagrante delito).",
+        "c) Sí, si es de día.",
+        "d) Sí, si está abierto."
+      ],
+      "respuesta_correcta": "b) No, se necesita oficiar a la autoridad competente (salvo flagrante delito)."
+    },
+    {
+      "pregunta": "¿Cuándo se puede interceptar la correspondencia?",
+      "opciones": [
+        "a) Siempre.",
+        "b) Con autorización judicial motivada.",
+        "c) Si es sospechoso.",
+        "d) En Correos."
+      ],
+      "respuesta_correcta": "b) Con autorización judicial motivada."
+    },
+    {
+      "pregunta": "¿Quién practica la apertura de la correspondencia?",
+      "opciones": [
+        "a) El policía.",
+        "b) El Juez.",
+        "c) El cartero.",
+        "d) El Fiscal."
+      ],
+      "respuesta_correcta": "b) El Juez."
+    },
+    {
+      "pregunta": "¿Para qué delitos se pueden intervenir las comunicaciones telefónicas?",
+      "opciones": [
+        "a) Para cualquiera.",
+        "b) Para delitos dolosos castigados con pena de al menos 3 años de prisión, delitos de terrorismo, o cometidos a través de instrumentos informáticos.",
+        "c) Solo tráfico de drogas.",
+        "d) Solo terrorismo."
+      ],
+      "respuesta_correcta": "b) Para delitos dolosos castigados con pena de al menos 3 años de prisión, delitos de terrorismo, o cometidos a través de instrumentos informáticos."
+    },
+    {
+      "pregunta": "¿Quién autoriza las escuchas telefónicas?",
+      "opciones": [
+        "a) La policía.",
+        "b) El Juez de Instrucción.",
+        "c) El Fiscal.",
+        "d) El Ministro del Interior."
+      ],
+      "respuesta_correcta": "b) El Juez de Instrucción."
+    },
+    {
+      "pregunta": "¿Qué duración máxima inicial tiene la intervención telefónica?",
+      "opciones": [
+        "a) 1 mes.",
+        "b) 3 meses, prorrogables.",
+        "c) 6 meses.",
+        "d) 1 año."
+      ],
+      "respuesta_correcta": "b) 3 meses, prorrogables."
+    },
+    {
+      "pregunta": "¿Puede la policía instalar dispositivos de escucha ambiental (micrófonos)?",
+      "opciones": [
+        "a) No, está prohibido.",
+        "b) Sí, con autorización judicial para delitos graves y cuando sea necesario.",
+        "c) Sí, sin orden.",
+        "d) Solo en la calle."
+      ],
+      "respuesta_correcta": "b) Sí, con autorización judicial para delitos graves y cuando sea necesario."
+    },
+    {
+      "pregunta": "¿Se pueden utilizar agentes encubiertos informáticos?",
+      "opciones": [
+        "a) No.",
+        "b) Sí, con autorización judicial para investigar delitos cometidos a través de internet.",
+        "c) Solo en terrorismo.",
+        "d) Sí, sin límites."
+      ],
+      "respuesta_correcta": "b) Sí, con autorización judicial para investigar delitos cometidos a través de internet."
+    },
+    {
+      "pregunta": "¿Qué es el registro remoto de equipos informáticos?",
+      "opciones": [
+        "a) Hackear legalmente.",
+        "b) Medida de investigación tecnológica autorizada por el juez para acceder a ordenadores a distancia (troyanos) en delitos muy graves.",
+        "c) Mirar Facebook.",
+        "d) Robar wifi."
+      ],
+      "respuesta_correcta": "b) Medida de investigación tecnológica autorizada por el juez para acceder a ordenadores a distancia (troyanos) en delitos muy graves."
+    },
+    {
+      "pregunta": "¿Cuándo puede el Ministerio Fiscal ordenar la detención y apertura de correspondencia?",
+      "opciones": [
+        "a) Nunca.",
+        "b) No puede ordenar apertura (es derecho fundamental), salvo en casos de terrorismo con ratificación judicial inmediata.",
+        "c) Siempre.",
+        "d) En delitos leves."
+      ],
+      "respuesta_correcta": "b) No puede ordenar apertura (es derecho fundamental), salvo en casos de terrorismo con ratificación judicial inmediata."
+    },
+    {
+      "pregunta": "¿Qué es la 'entrega vigilada'?",
+      "opciones": [
+        "a) Un paquete urgente.",
+        "b) Técnica de investigación que permite la circulación de remesas ilícitas (drogas, etc.) bajo vigilancia para descubrir a los autores.",
+        "c) Una detención.",
+        "d) Un registro."
+      ],
+      "respuesta_correcta": "b) Técnica de investigación que permite la circulación de remesas ilícitas (drogas, etc.) bajo vigilancia para descubrir a los autores."
+    },
+    {
+      "pregunta": "¿A qué delitos se aplica el Procedimiento Abreviado?",
+      "opciones": [
+        "a) A todos.",
+        "b) A los castigados con pena privativa de libertad no superior a 9 años o de otra naturaleza de cualquier cuantía.",
+        "c) A los de más de 9 años.",
+        "d) A los delitos leves."
+      ],
+      "respuesta_correcta": "b) A los castigados con pena privativa de libertad no superior a 9 años o de otra naturaleza de cualquier cuantía."
+    },
+    {
+      "pregunta": "¿Quién instruye el Procedimiento Abreviado?",
+      "opciones": [
+        "a) El Juez de lo Penal.",
+        "b) El Juez de Instrucción.",
+        "c) El Fiscal.",
+        "d) La Policía."
+      ],
+      "respuesta_correcta": "b) El Juez de Instrucción."
+    },
+    {
+      "pregunta": "¿Quién juzga en el Procedimiento Abreviado si la pena es de hasta 5 años de prisión?",
+      "opciones": [
+        "a) El Juez de lo Penal.",
+        "b) La Audiencia Provincial.",
+        "c) El Juez de Instrucción.",
+        "d) El Jurado."
+      ],
+      "respuesta_correcta": "a) El Juez de lo Penal."
+    },
+    {
+      "pregunta": "¿Quién juzga en el Procedimiento Abreviado si la pena es de 5 a 9 años de prisión?",
+      "opciones": [
+        "a) El Juez de lo Penal.",
+        "b) La Audiencia Provincial.",
+        "c) El Supremo.",
+        "d) El TSJ."
+      ],
+      "respuesta_correcta": "b) La Audiencia Provincial."
+    },
+    {
+      "pregunta": "¿Qué función tiene el Ministerio Fiscal en el Procedimiento Abreviado?",
+      "opciones": [
+        "a) Dictar sentencia.",
+        "b) Impulsar el procedimiento y formular acusación (o pedir sobreseimiento).",
+        "c) Defender al reo.",
+        "d) Archivar la causa."
+      ],
+      "respuesta_correcta": "b) Impulsar el procedimiento y formular acusación (o pedir sobreseimiento)."
+    },
+    {
+      "pregunta": "¿Qué son las 'Diligencias Previas'?",
+      "opciones": [
+        "a) La fase de instrucción en el Procedimiento Abreviado.",
+        "b) El sumario ordinario.",
+        "c) Las detenciones.",
+        "d) Las multas."
+      ],
+      "respuesta_correcta": "a) La fase de instrucción en el Procedimiento Abreviado."
+    },
+    {
+      "pregunta": "¿Es obligatoria la presencia de abogado en el Procedimiento Abreviado?",
+      "opciones": [
+        "a) No.",
+        "b) Sí, desde la detención o imputación.",
+        "c) Solo en el juicio.",
+        "d) Solo si se pide."
+      ],
+      "respuesta_correcta": "b) Sí, desde la detención o imputación."
+    },
+    {
+      "pregunta": "¿Qué se hace si el hecho no es delito al terminar la instrucción?",
+      "opciones": [
+        "a) Se abre juicio oral.",
+        "b) Se sobresee (archiva) la causa.",
+        "c) Se remite a delitos leves.",
+        "d) Se detiene al denunciante."
+      ],
+      "respuesta_correcta": "b) Se sobresee (archiva) la causa."
+    },
+    {
+      "pregunta": "¿Cuándo se aplica el procedimiento de Juicio Rápido?",
+      "opciones": [
+        "a) Delitos con pena hasta 5 años prisión (o 10 años otras penas), iniciados por atestado policial, con detenido o citado ante el Juzgado de Guardia, y que sean flagrantes, sencillos o delitos específicos (hurto, robo, tráfico, violencia doméstica...).",
+        "b) Para todos los delitos.",
+        "c) Para delitos de más de 9 años.",
+        "d) Solo para delitos leves."
+      ],
+      "respuesta_correcta": "a) Delitos con pena hasta 5 años prisión (o 10 años otras penas), iniciados por atestado policial, con detenido o citado ante el Juzgado de Guardia, y que sean flagrantes, sencillos o delitos específicos (hurto, robo, tráfico, violencia doméstica...)."
+    },
+    {
+      "pregunta": "¿Qué debe hacer la Policía Judicial en un Juicio Rápido?",
+      "opciones": [
+        "a) Nada especial.",
+        "b) Citar a denunciados, testigos y perjudicados ante el Juzgado de Guardia, y practicar las pruebas urgentes (alcohol, periciales) para remitirlas con el atestado.",
+        "c) Detener a todos.",
+        "d) Juzgar."
+      ],
+      "respuesta_correcta": "b) Citar a denunciados, testigos y perjudicados ante el Juzgado de Guardia, y practicar las pruebas urgentes (alcohol, periciales) para remitirlas con el atestado."
+    },
+    {
+      "pregunta": "¿Qué son las 'Diligencias Urgentes'?",
+      "opciones": [
+        "a) La instrucción en el Juicio Rápido ante el Juzgado de Guardia.",
+        "b) Las detenciones.",
+        "c) El juicio oral.",
+        "d) La sentencia."
+      ],
+      "respuesta_correcta": "a) La instrucción en el Juicio Rápido ante el Juzgado de Guardia."
+    },
+    {
+      "pregunta": "¿Se puede dictar sentencia de conformidad en el Juicio Rápido ante el Juez de Guardia?",
+      "opciones": [
+        "a) No, hay que ir al Penal.",
+        "b) Sí, si el acusado reconoce los hechos y la pena no supera los 3 años de prisión, se dicta sentencia con rebaja de un tercio de la pena (Art. 801).",
+        "c) Sí, siempre.",
+        "d) No, está prohibido."
+      ],
+      "respuesta_correcta": "b) Sí, si el acusado reconoce los hechos y la pena no supera los 3 años de prisión, se dicta sentencia con rebaja de un tercio de la pena (Art. 801)."
+    },
+    {
+      "pregunta": "¿Cuál es la reducción de pena por conformidad en Juicio Rápido?",
+      "opciones": [
+        "a) La mitad.",
+        "b) Un tercio.",
+        "c) Un cuarto.",
+        "d) No hay reducción."
+      ],
+      "respuesta_correcta": "b) Un tercio."
+    },
+    {
+      "pregunta": "¿Qué pasa si no hay conformidad en el Juicio Rápido?",
+      "opciones": [
+        "a) Se archiva.",
+        "b) Se remiten las actuaciones al Juez de lo Penal para la celebración del juicio oral en plazo breve (15 días).",
+        "c) Se convierte en sumario.",
+        "d) Se detiene al acusado."
+      ],
+      "respuesta_correcta": "b) Se remiten las actuaciones al Juez de lo Penal para la celebración del juicio oral en plazo breve (15 días)."
+    },
+    {
+      "pregunta": "¿Es necesaria la presencia de abogado en el Juicio Rápido?",
+      "opciones": [
+        "a) Sí, es preceptiva.",
+        "b) No.",
+        "c) Solo para el denunciante.",
+        "d) Solo si la pena es grave."
+      ],
+      "respuesta_correcta": "a) Sí, es preceptiva."
+    },
+    {
+      "pregunta": "¿Cuándo se celebra el juicio sobre delitos leves?",
+      "opciones": [
+        "a) Cuando se quiera.",
+        "b) Inmediatamente en el Juzgado de Guardia si es posible, o en plazo breve (7 días).",
+        "c) Al año.",
+        "d) En la Audiencia Provincial."
+      ],
+      "respuesta_correcta": "b) Inmediatamente en el Juzgado de Guardia si es posible, o en plazo breve (7 días)."
+    },
+    {
+      "pregunta": "¿Es preceptivo abogado y procurador en delitos leves?",
+      "opciones": [
+        "a) Sí.",
+        "b) No, salvo que la multa sea alta (generalmente no es preceptivo para multas de hasta 6 meses, sí recomendable).",
+        "c) Solo procurador.",
+        "d) Solo abogado."
+      ],
+      "respuesta_correcta": "b) No, salvo que la multa sea alta (generalmente no es preceptivo para multas de hasta 6 meses, sí recomendable)."
+    },
+    {
+      "pregunta": "¿Quién juzga los delitos leves?",
+      "opciones": [
+        "a) El Juez de Instrucción (o de Paz en algunos casos muy limitados) en funciones de guardia o el competente.",
+        "b) La Audiencia.",
+        "c) El Fiscal.",
+        "d) La Policía."
+      ],
+      "respuesta_correcta": "a) El Juez de Instrucción (o de Paz en algunos casos muy limitados) en funciones de guardia o el competente."
+    },
+    {
+      "pregunta": "¿Cabe recurso contra la sentencia de delito leve?",
+      "opciones": [
+        "a) No, es firme.",
+        "b) Sí, apelación ante la Audiencia Provincial (en un solo efecto).",
+        "c) Sí, casación.",
+        "d) Sí, amparo."
+      ],
+      "respuesta_correcta": "b) Sí, apelación ante la Audiencia Provincial (en un solo efecto)."
+    },
+    {
+      "pregunta": "Si el denunciado por delito leve reside fuera de la demarcación, ¿puede declarar por escrito?",
+      "opciones": [
+        "a) No, debe ir.",
+        "b) Sí, o apoderar a abogado/procurador para que le represente.",
+        "c) Se suspende el juicio.",
+        "d) Se le detiene."
+      ],
+      "respuesta_correcta": "b) Sí, o apoderar a abogado/procurador para que le represente."
+    },
+    {
+      "pregunta": "¿Qué ocurre si el denunciado no comparece al juicio de delito leve estando citado?",
+      "opciones": [
+        "a) Se suspende.",
+        "b) Se celebra en su ausencia si no hay causa justa.",
+        "c) Se le multa.",
+        "d) Se le busca."
+      ],
+      "respuesta_correcta": "b) Se celebra en su ausencia si no hay causa justa."
+    },
+    {
+      "pregunta": "¿La Policía Judicial puede citar a juicio inmediato por delito leve?",
+      "opciones": [
+        "a) Sí, si el juzgado de guardia puede celebrarlo.",
+        "b) No.",
+        "c) Solo si hay detenidos.",
+        "d) Solo si es hurto."
+      ],
+      "respuesta_correcta": "a) Sí, si el juzgado de guardia puede celebrarlo."
+    },
+    {
+      "pregunta": "¿Qué principio rige la práctica de la prueba en el juicio oral?",
+      "opciones": [
+        "a) Secreto.",
+        "b) Publicidad, oralidad, inmediación y contradicción.",
+        "c) Escritura.",
+        "d) Lentitud."
+      ],
+      "respuesta_correcta": "b) Publicidad, oralidad, inmediación y contradicción."
+    },
+    {
+      "pregunta": "¿Qué es el 'secreto de sumario'?",
+      "opciones": [
+        "a) Que nadie lo sepa.",
+        "b) Medida excepcional por la que el Juez restringe el conocimiento de las actuaciones a las partes (excepto al Fiscal) por tiempo limitado (1 mes prorrogable) para garantizar la investigación.",
+        "c) Que no salga en la tele.",
+        "d) Que sea privado."
+      ],
+      "respuesta_correcta": "b) Medida excepcional por la que el Juez restringe el conocimiento de las actuaciones a las partes (excepto al Fiscal) por tiempo limitado (1 mes prorrogable) para garantizar la investigación."
+    },
+    {
+      "pregunta": "¿Qué sucede con los objetos del delito tras la sentencia firme?",
+      "opciones": [
+        "a) Se devuelven a los dueños si no son ilícitos, o se decomisan/destruyen.",
+        "b) Se venden.",
+        "c) Se tiran.",
+        "d) Se los queda el juez."
+      ],
+      "respuesta_correcta": "a) Se devuelven a los dueños si no son ilícitos, o se decomisan/destruyen."
+    },
+    {
+      "pregunta": "¿Qué es la 'prisión comunicada'?",
+      "opciones": [
+        "a) Con teléfono.",
+        "b) El régimen ordinario de prisión provisional donde el interno puede recibir visitas y comunicaciones.",
+        "c) La incomunicada.",
+        "d) La domiciliaria."
+      ],
+      "respuesta_correcta": "b) El régimen ordinario de prisión provisional donde el interno puede recibir visitas y comunicaciones."
+    },
+    {
+      "pregunta": "¿Cuándo se acuerda la incomunicación del detenido?",
+      "opciones": [
+        "a) Para castigarle.",
+        "b) Para evitar que sustraiga pruebas, influya en testigos o cometa nuevos delitos (especialmente en terrorismo/banda armada).",
+        "c) Siempre.",
+        "d) Nunca."
+      ],
+      "respuesta_correcta": "b) Para evitar que sustraiga pruebas, influya en testigos o cometa nuevos delitos (especialmente en terrorismo/banda armada)."
+    },
+    {
+      "pregunta": "¿Cuánto dura la incomunicación policial?",
+      "opciones": [
+        "a) Lo que dure la detención (máximo 72h + prorroga judicial hasta 5 días en terrorismo).",
+        "b) 1 mes.",
+        "c) 1 día.",
+        "d) 10 días."
+      ],
+      "respuesta_correcta": "a) Lo que dure la detención (máximo 72h + prorroga judicial hasta 5 días en terrorismo)."
+    },
+    {
+      "pregunta": "¿Tiene derecho el detenido incomunicado a designar abogado?",
+      "opciones": [
+        "a) Sí.",
+        "b) No, se le designa de oficio.",
+        "c) Sí, de su familia.",
+        "d) No tiene derecho a abogado."
+      ],
+      "respuesta_correcta": "b) No, se le designa de oficio."
+    },
+    {
+      "pregunta": "¿Quién autoriza la prórroga de la detención más allá de las 72 horas (en terrorismo)?",
+      "opciones": [
+        "a) La policía.",
+        "b) El Juez, por otras 48 horas.",
+        "c) El Fiscal.",
+        "d) El Ministro."
+      ],
+      "respuesta_correcta": "b) El Juez, por otras 48 horas."
+    },
+    {
+      "pregunta": "¿Qué es la 'fianza' para la libertad provisional?",
+      "opciones": [
+        "a) Un pago.",
+        "b) Garantía económica para asegurar que el procesado no eludirá la acción de la justicia.",
+        "c) Una multa.",
+        "d) Un soborno."
+      ],
+      "respuesta_correcta": "b) Garantía económica para asegurar que el procesado no eludirá la acción de la justicia."
+    },
+    {
+      "pregunta": "¿Puede el Juez decretar libertad provisional sin fianza?",
+      "opciones": [
+        "a) Sí (libertad con cargos apud acta).",
+        "b) No.",
+        "c) Solo en delitos leves.",
+        "d) Solo si es inocente."
+      ],
+      "respuesta_correcta": "a) Sí (libertad con cargos apud acta)."
+    }
+  ]
+}

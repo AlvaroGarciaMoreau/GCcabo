@@ -1,0 +1,1066 @@
+{
+  "tema": "TEMA 12.- PODER JUDICIAL",
+  "descripcion": "Preguntas basadas en la Ley Orgánica 6/1985 (Libro I, Título IV) según texto consolidado facilitado (incluyendo Tribunales de Instancia). Artículos: TS (53-55, 55bis, 57), AN (62-65), TSJ (70-73), AP (80-82), T. Instancia (88-89) y Paz (99-100).",
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales?",
+      "opciones": [
+        "a) La Audiencia Nacional.",
+        "b) El Tribunal Constitucional.",
+        "c) El Tribunal Supremo.",
+        "d) El Consejo General del Poder Judicial."
+      ],
+      "respuesta_correcta": "c) El Tribunal Supremo."
+    },
+    {
+      "pregunta": "Según el artículo 53, ¿dónde tiene su sede el Tribunal Supremo?",
+      "opciones": [
+        "a) En Madrid.",
+        "b) En la villa de Madrid.",
+        "c) Donde determine el Gobierno.",
+        "d) Es itinerante."
+      ],
+      "respuesta_correcta": "b) En la villa de Madrid."
+    },
+    {
+      "pregunta": "¿A qué ámbito se extiende la jurisdicción del Tribunal Supremo?",
+      "opciones": [
+        "a) A todo el territorio nacional.",
+        "b) Solo a las Comunidades Autónomas.",
+        "c) A Madrid y zonas adyacentes.",
+        "d) Al territorio peninsular."
+      ],
+      "respuesta_correcta": "a) A todo el territorio nacional."
+    },
+    {
+      "pregunta": "¿Quién compone el Tribunal Supremo según el artículo 54?",
+      "opciones": [
+        "a) Su Presidente y los Magistrados.",
+        "b) Su Presidente, los Presidentes de Sala y los Magistrados que determine la ley.",
+        "c) El Presidente y 20 Magistrados.",
+        "d) El Presidente y los Vocales."
+      ],
+      "respuesta_correcta": "b) Su Presidente, los Presidentes de Sala y los Magistrados que determine la ley."
+    },
+    {
+      "pregunta": "¿Cuántas Salas tiene el Tribunal Supremo según el artículo 55?",
+      "opciones": [
+        "a) Cuatro.",
+        "b) Cinco.",
+        "c) Seis.",
+        "d) Tres."
+      ],
+      "respuesta_correcta": "b) Cinco."
+    },
+    {
+      "pregunta": "¿Cuál es la Sala Segunda del Tribunal Supremo?",
+      "opciones": [
+        "a) De lo Civil.",
+        "b) De lo Penal.",
+        "c) De lo Contencioso-Administrativo.",
+        "d) De lo Social."
+      ],
+      "respuesta_correcta": "b) De lo Penal."
+    },
+    {
+      "pregunta": "¿Cuál es la Sala Tercera del Tribunal Supremo?",
+      "opciones": [
+        "a) De lo Social.",
+        "b) De lo Militar.",
+        "c) De lo Contencioso-Administrativo.",
+        "d) De lo Civil."
+      ],
+      "respuesta_correcta": "c) De lo Contencioso-Administrativo."
+    },
+    {
+      "pregunta": "¿Cuál es la Sala Quinta del Tribunal Supremo?",
+      "opciones": [
+        "a) De lo Militar.",
+        "b) De lo Social.",
+        "c) De vigilancia penitenciaria.",
+        "d) No existe."
+      ],
+      "respuesta_correcta": "a) De lo Militar."
+    },
+    {
+      "pregunta": "Según el artículo 55 bis, ¿de qué conocerán las Salas de lo Civil y de lo Penal del Tribunal Supremo además de sus competencias habituales?",
+      "opciones": [
+        "a) De los recursos de amparo.",
+        "b) De la tramitación y enjuiciamiento de las acciones civiles y penales contra la Reina consorte o el consorte de la Reina, la Princesa o Príncipe de Asturias y su consorte, y contra el Rey abdicado y su consorte.",
+        "c) De los delitos de terrorismo.",
+        "d) De las demandas contra el Presidente del Gobierno."
+      ],
+      "respuesta_correcta": "b) De la tramitación y enjuiciamiento de las acciones civiles y penales contra la Reina consorte o el consorte de la Reina, la Princesa o Príncipe de Asturias y su consorte, y contra el Rey abdicado y su consorte."
+    },
+    {
+      "pregunta": "¿Quién conocerá de la instrucción y enjuiciamiento de las causas contra el Presidente del Gobierno en materia penal?",
+      "opciones": [
+        "a) La Audiencia Nacional.",
+        "b) La Sala de lo Penal del Tribunal Supremo.",
+        "c) El Tribunal Constitucional.",
+        "d) El Tribunal Superior de Justicia de Madrid."
+      ],
+      "respuesta_correcta": "b) La Sala de lo Penal del Tribunal Supremo."
+    },
+    {
+      "pregunta": "¿Qué Sala del Tribunal Supremo es competente para instruir y enjuiciar causas contra Diputados y Senadores?",
+      "opciones": [
+        "a) Sala Primera.",
+        "b) Sala Segunda.",
+        "c) Sala Tercera.",
+        "d) Sala Especial."
+      ],
+      "respuesta_correcta": "b) Sala Segunda."
+    },
+    {
+      "pregunta": "La Sala de lo Penal del Tribunal Supremo conoce de los recursos de casación, revisión y otros extraordinarios en materia:",
+      "opciones": [
+        "a) Civil.",
+        "b) Penal.",
+        "c) Administrativa.",
+        "d) Laboral."
+      ],
+      "respuesta_correcta": "b) Penal."
+    },
+    {
+      "pregunta": "¿Es competente la Sala de lo Penal del TS para causas contra Magistrados del Tribunal Constitucional?",
+      "opciones": [
+        "a) Sí.",
+        "b) No, corresponde al propio Tribunal Constitucional.",
+        "c) Solo si es delito leve.",
+        "d) No, corresponde a la Audiencia Nacional."
+      ],
+      "respuesta_correcta": "a) Sí."
+    },
+    {
+      "pregunta": "¿Quién instruye las causas que corresponden a la Sala de lo Penal del Tribunal Supremo?",
+      "opciones": [
+        "a) El Presidente de la Sala.",
+        "b) Un Magistrado de la Sala designado al efecto, que no formará parte de la Sala para enjuiciarlas.",
+        "c) Un Juez de Instrucción de Madrid.",
+        "d) La Policía Judicial."
+      ],
+      "respuesta_correcta": "b) Un Magistrado de la Sala designado al efecto, que no formará parte de la Sala para enjuiciarlas."
+    },
+    {
+      "pregunta": "La Audiencia Nacional tiene su sede en:",
+      "opciones": [
+        "a) La villa de Madrid.",
+        "b) Barcelona.",
+        "c) Valencia.",
+        "d) Es itinerante."
+      ],
+      "respuesta_correcta": "a) La villa de Madrid."
+    },
+    {
+      "pregunta": "¿Cuál es la jurisdicción de la Audiencia Nacional?",
+      "opciones": [
+        "a) La Comunidad de Madrid.",
+        "b) Todo el territorio nacional.",
+        "c) Las ciudades autónomas.",
+        "d) El extranjero."
+      ],
+      "respuesta_correcta": "b) Todo el territorio nacional."
+    },
+    {
+      "pregunta": "¿De qué Salas se compone la Audiencia Nacional?",
+      "opciones": [
+        "a) De Apelación, Penal, Contencioso-Administrativo y Social.",
+        "b) Civil, Penal y Social.",
+        "c) Militar y Civil.",
+        "d) Instrucción y Fallo."
+      ],
+      "respuesta_correcta": "a) De Apelación, Penal, Contencioso-Administrativo y Social."
+    },
+    {
+      "pregunta": "¿Qué órgano de la Audiencia Nacional conoce de los enjuiciamientos por delitos contra la Corona o Altos Organismos de la Nación?",
+      "opciones": [
+        "a) La Sala de lo Contencioso.",
+        "b) La Sala de lo Penal.",
+        "c) El Juzgado Central de Instrucción.",
+        "d) El Tribunal Supremo."
+      ],
+      "respuesta_correcta": "b) La Sala de lo Penal."
+    },
+    {
+      "pregunta": "¿Conoce la Sala de lo Penal de la Audiencia Nacional de las falsificaciones de moneda?",
+      "opciones": [
+        "a) No, corresponde al juzgado local.",
+        "b) Sí, siempre.",
+        "c) Sí, delitos de falsificación de moneda y tarjetas de crédito o débito, salvo que corresponda a Sala de lo Penal de Tribunal de Instancia.",
+        "d) Solo si es moneda extranjera."
+      ],
+      "respuesta_correcta": "c) Sí, delitos de falsificación de moneda y tarjetas de crédito o débito, salvo que corresponda a Sala de lo Penal de Tribunal de Instancia."
+    },
+    {
+      "pregunta": "¿Qué órgano conoce de los delitos de terrorismo?",
+      "opciones": [
+        "a) La Audiencia Provincial.",
+        "b) La Sala de lo Penal de la Audiencia Nacional.",
+        "c) El Tribunal Supremo.",
+        "d) El Juzgado de Paz."
+      ],
+      "respuesta_correcta": "b) La Sala de lo Penal de la Audiencia Nacional."
+    },
+    {
+      "pregunta": "La Sala de lo Penal de la Audiencia Nacional conoce de la ejecución de:",
+      "opciones": [
+        "a) Sentencias dictadas por Juzgados de Paz.",
+        "b) Órdenes Europeas de Detención y Entrega (OEDE) y procedimientos de extradición pasiva.",
+        "c) Divorcios.",
+        "d) Despidos."
+      ],
+      "respuesta_correcta": "b) Órdenes Europeas de Detención y Entrega (OEDE) y procedimientos de extradición pasiva."
+    },
+    {
+      "pregunta": "¿De qué conoce la Sala de lo Contencioso-Administrativo de la Audiencia Nacional respecto a los Ministros?",
+      "opciones": [
+        "a) De sus divorcios.",
+        "b) De los recursos contra sus actos y disposiciones cuando rectifiquen en vía administrativa actos de órganos inferiores.",
+        "c) De sus delitos.",
+        "d) No tiene competencia."
+      ],
+      "respuesta_correcta": "b) De los recursos contra sus actos y disposiciones cuando rectifiquen en vía administrativa actos de órganos inferiores."
+    },
+    {
+      "pregunta": "¿Conoce la Audiencia Nacional de recursos contra actos de la Comisión de Vigilancia de Actividades de Financiación del Terrorismo?",
+      "opciones": [
+        "a) Sí, su Sala de lo Contencioso-Administrativo.",
+        "b) No.",
+        "c) Solo el Tribunal Supremo.",
+        "d) Sí, su Sala de lo Penal."
+      ],
+      "respuesta_correcta": "a) Sí, su Sala de lo Contencioso-Administrativo."
+    },
+    {
+      "pregunta": "¿De qué conoce la Sala de Apelación de la Audiencia Nacional?",
+      "opciones": [
+        "a) De los recursos contra la Sala de lo Social.",
+        "b) De los recursos contra resoluciones de la Sala de lo Penal.",
+        "c) De los recursos contra Juzgados Centrales.",
+        "d) De nada."
+      ],
+      "respuesta_correcta": "b) De los recursos contra resoluciones de la Sala de lo Penal."
+    },
+    {
+      "pregunta": "¿Cuándo conoce la Sala de Apelación de la AN de recursos contra sentencias del Tribunal Central de Instancia (Sala Penal)?",
+      "opciones": [
+        "a) Siempre.",
+        "b) Nunca.",
+        "c) Cuando la Sala de lo Penal no sea competente.",
+        "d) No existe esa competencia."
+      ],
+      "respuesta_correcta": "c) Cuando la Sala de lo Penal no sea competente (Nota: La redacción exacta suele atribuir a la Sala Penal los recursos contra Juzgados/TCI Centrales, y a la Sala de Apelación los recursos contra la Sala Penal)."
+    },
+    {
+      "pregunta": "La Sala de lo Penal de la Audiencia Nacional conoce de los recursos contra actuaciones de:",
+      "opciones": [
+        "a) Los Juzgados de Instrucción de Madrid.",
+        "b) La Sala de lo Penal del Tribunal Central de Instancia y el Juzgado Central de Menores.",
+        "c) El Tribunal Supremo.",
+        "d) La Policía."
+      ],
+      "respuesta_correcta": "b) La Sala de lo Penal del Tribunal Central de Instancia y el Juzgado Central de Menores."
+    },
+    {
+      "pregunta": "¿Qué tráfico ilícito es competencia de la Sala de lo Penal de la AN?",
+      "opciones": [
+        "a) Tráfico de influencias.",
+        "b) Tráfico de drogas o estupefacientes, siempre que sea realizado por bandas organizadas o produzca efectos en varias provincias.",
+        "c) Tráfico de vehículos.",
+        "d) Tráfico de animales."
+      ],
+      "respuesta_correcta": "b) Tráfico de drogas o estupefacientes, siempre que sea realizado por bandas organizadas o produzca efectos en varias provincias."
+    },
+    {
+      "pregunta": "¿Dónde culmina la organización judicial en el ámbito territorial de la Comunidad Autónoma?",
+      "opciones": [
+        "a) En la Audiencia Provincial.",
+        "b) En el Tribunal Superior de Justicia.",
+        "c) En el Tribunal Supremo.",
+        "d) En la Delegación del Gobierno."
+      ],
+      "respuesta_correcta": "b) En el Tribunal Superior de Justicia."
+    },
+    {
+      "pregunta": "El Tribunal Superior de Justicia tomará el nombre de:",
+      "opciones": [
+        "a) La capital de la provincia.",
+        "b) La Comunidad Autónoma.",
+        "c) El Rey.",
+        "d) El Presidente del TSJ."
+      ],
+      "respuesta_correcta": "b) La Comunidad Autónoma."
+    },
+    {
+      "pregunta": "¿De cuántas Salas se compone el Tribunal Superior de Justicia?",
+      "opciones": [
+        "a) Cuatro.",
+        "b) Tres: Civil y Penal, Contencioso-Administrativo y Social.",
+        "c) Dos: Civil y Penal.",
+        "d) Cinco."
+      ],
+      "respuesta_correcta": "b) Tres: Civil y Penal, Contencioso-Administrativo y Social."
+    },
+    {
+      "pregunta": "¿De qué conoce la Sala de lo Civil y Penal del TSJ como Sala de lo Civil?",
+      "opciones": [
+        "a) Divorcios comunes.",
+        "b) Recurso de casación fundado en infracción de normas de derecho civil foral o especial propio de la Comunidad.",
+        "c) Desahucios.",
+        "d) Multas de tráfico."
+      ],
+      "respuesta_correcta": "b) Recurso de casación fundado en infracción de normas de derecho civil foral o especial propio de la Comunidad."
+    },
+    {
+      "pregunta": "En materia penal, ¿de qué conoce la Sala de lo Civil y Penal del TSJ respecto a los miembros del Gobierno y Asamblea de la Comunidad Autónoma?",
+      "opciones": [
+        "a) De nada, son aforados al Supremo.",
+        "b) De la instrucción y fallo de las causas penales contra ellos, si así lo determina el Estatuto de Autonomía.",
+        "c) De las faltas leves.",
+        "d) De los recursos de apelación."
+      ],
+      "respuesta_correcta": "b) De la instrucción y fallo de las causas penales contra ellos, si así lo determina el Estatuto de Autonomía."
+    },
+    {
+      "pregunta": "¿Quién instruye las causas penales en el TSJ?",
+      "opciones": [
+        "a) El Presidente.",
+        "b) Un Magistrado de la Sala designado al efecto que no formará parte de la Sala para enjuiciar.",
+        "c) Un juez de instrucción de la ciudad.",
+        "d) La fiscalía."
+      ],
+      "respuesta_correcta": "b) Un Magistrado de la Sala designado al efecto que no formará parte de la Sala para enjuiciar."
+    },
+    {
+      "pregunta": "¿De qué conoce la Sala de lo Contencioso-Administrativo del TSJ?",
+      "opciones": [
+        "a) De recursos contra actos de entidades locales y de la administración autonómica no atribuidos a otros órganos.",
+        "b) De recursos contra actos del Consejo de Ministros.",
+        "c) De juicios por despido.",
+        "d) De delitos fiscales."
+      ],
+      "respuesta_correcta": "a) De recursos contra actos de entidades locales y de la administración autonómica no atribuidos a otros órganos."
+    },
+    {
+      "pregunta": "Según el artículo 73.3, ¿de qué conoce la Sala de lo Social del TSJ?",
+      "opciones": [
+        "a) De despidos individuales.",
+        "b) En única instancia, de procesos sobre conflictos colectivos o sindicales que excedan del ámbito de un Tribunal de Instancia pero no de la Comunidad.",
+        "c) De recursos de casación.",
+        "d) De divorcios."
+      ],
+      "respuesta_correcta": "b) En única instancia, de procesos sobre conflictos colectivos o sindicales que excedan del ámbito de un Tribunal de Instancia pero no de la Comunidad."
+    },
+    {
+      "pregunta": "Según el artículo 73.4, ¿de qué recursos conoce la Sala de lo Social del TSJ?",
+      "opciones": [
+        "a) Recursos de casación.",
+        "b) Recursos de suplicación contra resoluciones de los Tribunales de Instancia de lo Social de la Comunidad.",
+        "c) Recursos de amparo.",
+        "d) Recursos de revisión."
+      ],
+      "respuesta_correcta": "b) Recursos de suplicación contra resoluciones de los Tribunales de Instancia de lo Social de la Comunidad."
+    },
+    {
+      "pregunta": "¿Qué cuestiones de competencia resuelve la Sala de lo Social del TSJ (Art. 73.5)?",
+      "opciones": [
+        "a) Entre juzgados penales.",
+        "b) Entre Tribunales de Instancia del orden social de la Comunidad Autónoma.",
+        "c) Entre TSJ y TS.",
+        "d) Entre juzgados civiles y sociales."
+      ],
+      "respuesta_correcta": "b) Entre Tribunales de Instancia del orden social de la Comunidad Autónoma."
+    },
+    {
+      "pregunta": "Según el artículo 73.6, la Sala de lo Social del TSJ conoce de las recusaciones de:",
+      "opciones": [
+        "a) Sus propios Magistrados.",
+        "b) Los Jueces de lo Social (Secciones de lo Social de Tribunales de Instancia).",
+        "c) Los Fiscales.",
+        "d) Los Secretarios Judiciales."
+      ],
+      "respuesta_correcta": "b) Los Jueces de lo Social (Secciones de lo Social de Tribunales de Instancia)."
+    },
+    {
+      "pregunta": "¿Dónde tienen su sede las Audiencias Provinciales?",
+      "opciones": [
+        "a) En Madrid.",
+        "b) En la capital de la provincia.",
+        "c) En cada partido judicial.",
+        "d) Donde decida el Presidente."
+      ],
+      "respuesta_correcta": "b) En la capital de la provincia."
+    },
+    {
+      "pregunta": "¿A qué órdenes jurisdiccionales extiende su conocimiento la Audiencia Provincial?",
+      "opciones": [
+        "a) Civil y Penal.",
+        "b) Civil, Penal y Social.",
+        "c) Civil, Penal y Contencioso.",
+        "d) Todos."
+      ],
+      "respuesta_correcta": "a) Civil y Penal."
+    },
+    {
+      "pregunta": "¿Pueden crearse Secciones de la Audiencia Provincial fuera de la capital?",
+      "opciones": [
+        "a) No, nunca.",
+        "b) Sí, a las que se adscribirán uno o varios partidos judiciales.",
+        "c) Sí, pero sin jurisdicción.",
+        "d) Solo en islas."
+      ],
+      "respuesta_correcta": "b) Sí, a las que se adscribirán uno o varios partidos judiciales."
+    },
+    {
+      "pregunta": "¿Quién preside la Audiencia Provincial?",
+      "opciones": [
+        "a) El Presidente del TSJ.",
+        "b) Un Magistrado.",
+        "c) El Presidente de la Diputación.",
+        "d) El Juez Decano."
+      ],
+      "respuesta_correcta": "b) Un Magistrado."
+    },
+    {
+      "pregunta": "Según el artículo 82.1, las Audiencias Provinciales conocen en orden penal de las causas por delito...:",
+      "opciones": [
+        "a) Aforadas.",
+        "b) Exceptuadas las que la Ley atribuye a otros Tribunales (ej. TSJ o AN) o a los Tribunales de Instancia.",
+        "c) Todas.",
+        "d) Solo delitos leves."
+      ],
+      "respuesta_correcta": "b) Exceptuadas las que la Ley atribuye a otros Tribunales (ej. TSJ o AN) o a los Tribunales de Instancia."
+    },
+    {
+      "pregunta": "¿De qué recursos conoce la Audiencia Provincial en materia penal?",
+      "opciones": [
+        "a) De casación.",
+        "b) De los recursos contra resoluciones de los juzgados de instrucción (Secciones de Instrucción de Tribunales de Instancia) y de lo penal de la provincia.",
+        "c) De amparo.",
+        "d) De revisión."
+      ],
+      "respuesta_correcta": "b) De los recursos contra resoluciones de los juzgados de instrucción (Secciones de Instrucción de Tribunales de Instancia) y de lo penal de la provincia."
+    },
+    {
+      "pregunta": "En los Tribunales de Instancia, ¿a qué se extiende la jurisdicción de las Secciones de Instrucción con carácter general?",
+      "opciones": [
+        "a) A toda la provincia.",
+        "b) A un partido judicial.",
+        "c) A la Comunidad Autónoma.",
+        "d) Al municipio."
+      ],
+      "respuesta_correcta": "b) A un partido judicial."
+    },
+    {
+      "pregunta": "Según el artículo 88, ¿de qué conocen las Secciones de Instrucción de los Tribunales de Instancia?",
+      "opciones": [
+        "a) Del fallo de delitos graves.",
+        "b) De la instrucción de las causas por delito cuyo enjuiciamiento corresponda a las Audiencias Provinciales o Secciones de lo Penal.",
+        "c) De divorcios.",
+        "d) De despidos."
+      ],
+      "respuesta_correcta": "b) De la instrucción de las causas por delito cuyo enjuiciamiento corresponda a las Audiencias Provinciales o Secciones de lo Penal."
+    },
+    {
+      "pregunta": "¿Quién conoce de los procedimientos de 'Habeas Corpus'?",
+      "opciones": [
+        "a) La Audiencia Provincial.",
+        "b) Las Secciones de Instrucción de los Tribunales de Instancia.",
+        "c) El Tribunal Supremo.",
+        "d) El Juez de Paz."
+      ],
+      "respuesta_correcta": "b) Las Secciones de Instrucción de los Tribunales de Instancia."
+    },
+    {
+      "pregunta": "¿Conocen las Secciones de Instrucción de los delitos leves?",
+      "opciones": [
+        "a) No, nunca.",
+        "b) Sí, del conocimiento y fallo de los delitos leves, salvo que corresponda al Juez de Violencia sobre la Mujer.",
+        "c) Solo si son graves.",
+        "d) Solo si lo pide el fiscal."
+      ],
+      "respuesta_correcta": "b) Sí, del conocimiento y fallo de los delitos leves, salvo que corresponda al Juez de Violencia sobre la Mujer."
+    },
+    {
+      "pregunta": "¿Qué función tienen las Secciones de Instrucción respecto al Jurado?",
+      "opciones": [
+        "a) Ser jurado.",
+        "b) Dictar sentencia.",
+        "c) Instruir las causas que le correspondan para juicio por Jurado.",
+        "d) Ninguna."
+      ],
+      "respuesta_correcta": "c) Instruir las causas que le correspondan para juicio por Jurado."
+    },
+    {
+      "pregunta": "¿Pueden las Secciones de Instrucción conocer de la adopción de la Orden de Protección?",
+      "opciones": [
+        "a) Sí, a las víctimas de violencia doméstica y de género (cuando no corresponda a Sección de Violencia sobre la Mujer).",
+        "b) No.",
+        "c) Solo si hay denuncia falsa.",
+        "d) Solo en la capital."
+      ],
+      "respuesta_correcta": "a) Sí, a las víctimas de violencia doméstica y de género (cuando no corresponda a Sección de Violencia sobre la Mujer)."
+    },
+    {
+      "pregunta": "Según el artículo 89.1, ¿quién puede acordar que asuntos de violencia sobre la mujer sean conocidos por Secciones de Instrucción o Únicas donde no haya Sección especializada?",
+      "opciones": [
+        "a) El Gobierno.",
+        "b) El Consejo General del Poder Judicial, previo informe de las Salas de Gobierno.",
+        "c) El Juez Decano.",
+        "d) El Fiscal."
+      ],
+      "respuesta_correcta": "b) El Consejo General del Poder Judicial, previo informe de las Salas de Gobierno."
+    },
+    {
+      "pregunta": "¿Qué asuntos de violencia sobre la mujer se mencionan en el Art. 89?",
+      "opciones": [
+        "a) Solo civiles.",
+        "b) Instrucción de delitos de homicidio, aborto, lesiones, etc., cometidos con violencia de género.",
+        "c) Solo laborales.",
+        "d) Solo administrativos."
+      ],
+      "respuesta_correcta": "b) Instrucción de delitos de homicidio, aborto, lesiones, etc., cometidos con violencia de género."
+    },
+    {
+      "pregunta": "¿Qué competencia civil tienen las Secciones que asumen violencia sobre la mujer (Art. 89)?",
+      "opciones": [
+        "a) Ninguna.",
+        "b) Filiación, maternidad, paternidad, nulidad, separación y divorcio, si hay proceso penal por violencia de género simultáneo.",
+        "c) Herencias.",
+        "d) Contratos."
+      ],
+      "respuesta_correcta": "b) Filiación, maternidad, paternidad, nulidad, separación y divorcio, si hay proceso penal por violencia de género simultáneo."
+    },
+    {
+      "pregunta": "Para que la Sección de Violencia conozca del asunto civil, ¿qué requisito es necesario respecto a las partes?",
+      "opciones": [
+        "a) Que estén casadas.",
+        "b) Que alguna de las partes del proceso civil sea víctima y la otra imputado por violencia de género.",
+        "c) Que vivan en Madrid.",
+        "d) Que tengan hijos."
+      ],
+      "respuesta_correcta": "b) Que alguna de las partes del proceso civil sea víctima y la otra imputado por violencia de género."
+    },
+    {
+      "pregunta": "¿Qué ocurre si se inicia un proceso penal por violencia de género tras haberse iniciado uno civil de divorcio ante la Sección Civil?",
+      "opciones": [
+        "a) Siguen separados.",
+        "b) La Sección Civil se inhibirá a favor de la Sección de Violencia sobre la Mujer (o quien asuma sus funciones).",
+        "c) Se anula el divorcio.",
+        "d) El penal espera al civil."
+      ],
+      "respuesta_correcta": "b) La Sección Civil se inhibirá a favor de la Sección de Violencia sobre la Mujer (o quien asuma sus funciones)."
+    },
+    {
+      "pregunta": "¿Dónde habrá un Juez de Paz según el artículo 99?",
+      "opciones": [
+        "a) En cada municipio donde no exista Tribunal de Instancia.",
+        "b) En todas las capitales.",
+        "c) En cada barrio.",
+        "d) En el campo."
+      ],
+      "respuesta_correcta": "a) En cada municipio donde no exista Tribunal de Instancia."
+    },
+    {
+      "pregunta": "¿Quién nombra a los Jueces de Paz?",
+      "opciones": [
+        "a) El Alcalde.",
+        "b) La Sala de Gobierno del Tribunal Superior de Justicia.",
+        "c) El Ministerio de Justicia.",
+        "d) El pueblo por votación."
+      ],
+      "respuesta_correcta": "b) La Sala de Gobierno del Tribunal Superior de Justicia."
+    },
+    {
+      "pregunta": "¿A propuesta de quién nombra la Sala de Gobierno al Juez de Paz?",
+      "opciones": [
+        "a) Del Ayuntamiento respectivo (Pleno).",
+        "b) Del Juez Decano.",
+        "c) Del Gobernador.",
+        "d) De nadie."
+      ],
+      "respuesta_correcta": "a) Del Ayuntamiento respectivo (Pleno)."
+    },
+    {
+      "pregunta": "¿Por cuánto tiempo son nombrados los Jueces de Paz?",
+      "opciones": [
+        "a) 2 años.",
+        "b) 4 años.",
+        "c) Vitalicio.",
+        "d) 5 años."
+      ],
+      "respuesta_correcta": "b) 4 años."
+    },
+    {
+      "pregunta": "¿Qué sucede si el Ayuntamiento no propone Juez de Paz en plazo?",
+      "opciones": [
+        "a) Se queda vacante.",
+        "b) La Sala de Gobierno del TSJ procederá a su nombramiento.",
+        "c) El Alcalde lo es automáticamente.",
+        "d) Se cierran el juzgado."
+      ],
+      "respuesta_correcta": "b) La Sala de Gobierno del TSJ procederá a su nombramiento."
+    },
+    {
+      "pregunta": "¿Cómo se eligen los Magistrados del Tribunal Supremo?",
+      "opciones": [
+        "a) Por oposición libre.",
+        "b) Son nombrados por el Rey a propuesta del CGPJ entre miembros de la Carrera Judicial y juristas de prestigio.",
+        "c) Por el Gobierno.",
+        "d) Por antigüedad."
+      ],
+      "respuesta_correcta": "b) Son nombrados por el Rey a propuesta del CGPJ entre miembros de la Carrera Judicial y juristas de prestigio."
+    },
+    {
+      "pregunta": "¿Conoce el Tribunal Supremo de las demandas de responsabilidad civil contra el Presidente del Gobierno por hechos en el ejercicio de su cargo?",
+      "opciones": [
+        "a) No, es inmune.",
+        "b) Sí, la Sala de lo Civil.",
+        "c) Sí, la Sala de lo Penal.",
+        "d) Sí, la Sala de lo Contencioso."
+      ],
+      "respuesta_correcta": "b) Sí, la Sala de lo Civil."
+    },
+    {
+      "pregunta": "¿Quién conoce de los procesos de ilegalización de partidos políticos?",
+      "opciones": [
+        "a) La Audiencia Nacional.",
+        "b) La Sala Especial del Tribunal Supremo (Art. 61, aunque no pedido explícitamente, es competencia TS).",
+        "c) El Tribunal Constitucional.",
+        "d) El Ministerio del Interior."
+      ],
+      "respuesta_correcta": "b) La Sala Especial del Tribunal Supremo (Art. 61, aunque no pedido explícitamente, es competencia TS)."
+    },
+    {
+      "pregunta": "¿De qué conoce la Sala de lo Contencioso de la AN respecto a la Comisión de Vigilancia de Financiación del Terrorismo?",
+      "opciones": [
+        "a) De los recursos contra sus actos.",
+        "b) De su nombramiento.",
+        "c) De su presupuesto.",
+        "d) De nada."
+      ],
+      "respuesta_correcta": "a) De los recursos contra sus actos."
+    },
+    {
+      "pregunta": "¿Qué es la 'cuestión de competencia' entre juzgados?",
+      "opciones": [
+        "a) Una pelea.",
+        "b) Disputa sobre quién debe conocer un asunto.",
+        "c) Un examen.",
+        "d) Una colaboración."
+      ],
+      "respuesta_correcta": "b) Disputa sobre quién debe conocer un asunto."
+    },
+    {
+      "pregunta": "¿Quién resuelve la competencia entre Tribunales de Instancia de la misma provincia?",
+      "opciones": [
+        "a) El TSJ.",
+        "b) La Audiencia Provincial.",
+        "c) El Supremo.",
+        "d) El Decano."
+      ],
+      "respuesta_correcta": "b) La Audiencia Provincial."
+    },
+    {
+      "pregunta": "¿Quién conoce de los recursos contra actos de las Juntas Electorales Provinciales?",
+      "opciones": [
+        "a) La Audiencia Provincial.",
+        "b) La Sala de lo Contencioso del TSJ.",
+        "c) El Supremo.",
+        "d) La Junta Central."
+      ],
+      "respuesta_correcta": "b) La Sala de lo Contencioso del TSJ."
+    },
+    {
+      "pregunta": "¿Quién conoce de los delitos cometidos fuera del territorio nacional cuando las leyes lo autoricen?",
+      "opciones": [
+        "a) El Tribunal Supremo.",
+        "b) La Audiencia Nacional (Sala Penal).",
+        "c) Cualquier juzgado.",
+        "d) El Consulado."
+      ],
+      "respuesta_correcta": "b) La Audiencia Nacional (Sala Penal)."
+    },
+    {
+      "pregunta": "¿De qué conoce la Sala de lo Social de la Audiencia Nacional?",
+      "opciones": [
+        "a) Despidos individuales.",
+        "b) Impugnación de convenios colectivos cuyo ámbito exceda de una Comunidad Autónoma.",
+        "c) Seguridad Social.",
+        "d) Divorcios."
+      ],
+      "respuesta_correcta": "b) Impugnación de convenios colectivos cuyo ámbito exceda de una Comunidad Autónoma."
+    },
+    {
+      "pregunta": "¿Qué Sala de la AN conoce de los recursos contra el Ministro del Interior?",
+      "opciones": [
+        "a) La de lo Penal.",
+        "b) La de lo Contencioso-Administrativo.",
+        "c) La de Apelación.",
+        "d) El Supremo."
+      ],
+      "respuesta_correcta": "b) La de lo Contencioso-Administrativo."
+    },
+    {
+      "pregunta": "El Tribunal Central de Instancia tiene jurisdicción en:",
+      "opciones": [
+        "a) Madrid.",
+        "b) Toda España.",
+        "c) Las capitales.",
+        "d) Las islas."
+      ],
+      "respuesta_correcta": "b) Toda España."
+    },
+    {
+      "pregunta": "¿Qué órganos se integran en el Tribunal Central de Instancia?",
+      "opciones": [
+        "a) Los antiguos Juzgados Centrales (Instrucción, Penal, Contencioso, Menores, Vigilancia).",
+        "b) Las Audiencias.",
+        "c) Los TSJ.",
+        "d) Los Juzgados de Paz."
+      ],
+      "respuesta_correcta": "a) Los antiguos Juzgados Centrales (Instrucción, Penal, Contencioso, Menores, Vigilancia)."
+    },
+    {
+      "pregunta": "Las Secciones de Instrucción del Tribunal Central de Instancia instruyen causas cuyo enjuiciamiento corresponde a:",
+      "opciones": [
+        "a) La Sala de lo Penal de la Audiencia Nacional o la Sala de lo Penal del propio Tribunal Central.",
+        "b) Al Supremo.",
+        "c) A la Audiencia Provincial.",
+        "d) Al TSJ."
+      ],
+      "respuesta_correcta": "a) La Sala de lo Penal de la Audiencia Nacional o la Sala de lo Penal del propio Tribunal Central."
+    },
+    {
+      "pregunta": "¿Quién conoce de la ejecución de sentencias dictadas por la Sala de lo Penal de la AN?",
+      "opciones": [
+        "a) La propia Sala.",
+        "b) La Sección de Ejecución Penal del Tribunal Central de Instancia (antiguo Juzgado Central de lo Penal/Ejecución).",
+        "c) Instituciones Penitenciarias.",
+        "d) El Supremo."
+      ],
+      "respuesta_correcta": "a) La propia Sala (o tribunal sentenciador, salvo que la ley disponga otra cosa)."
+    },
+    {
+      "pregunta": "¿Quién conoce de los delitos de piratería aérea?",
+      "opciones": [
+        "a) La Audiencia Provincial.",
+        "b) La Audiencia Nacional.",
+        "c) El Supremo.",
+        "d) El Ejército."
+      ],
+      "respuesta_correcta": "b) La Audiencia Nacional."
+    },
+    {
+      "pregunta": "¿Quién conoce de la defraudación que produzca grave perjuicio a la economía nacional?",
+      "opciones": [
+        "a) La Audiencia Nacional.",
+        "b) La Audiencia Provincial.",
+        "c) El Juzgado de lo Penal.",
+        "d) Hacienda."
+      ],
+      "respuesta_correcta": "a) La Audiencia Nacional."
+    },
+    {
+      "pregunta": "¿Quién instruye las causas contra aforados al TSJ?",
+      "opciones": [
+        "a) Un Magistrado de la Sala Civil/Penal del TSJ.",
+        "b) El Presidente del TSJ.",
+        "c) Un juez de instrucción.",
+        "d) El Fiscal Superior."
+      ],
+      "respuesta_correcta": "a) Un Magistrado de la Sala Civil/Penal del TSJ."
+    },
+    {
+      "pregunta": "¿De qué recursos conoce la Audiencia Provincial en materia civil?",
+      "opciones": [
+        "a) De los recursos contra sentencias de los Tribunales de Instancia de la provincia en materia civil.",
+        "b) Casación.",
+        "c) Revisión.",
+        "d) Amparo."
+      ],
+      "respuesta_correcta": "a) De los recursos contra sentencias de los Tribunales de Instancia de la provincia en materia civil."
+    },
+    {
+      "pregunta": "¿Qué asuntos mercantiles ven los Tribunales de Instancia?",
+      "opciones": [
+        "a) Concursos de acreedores (Sección Mercantil).",
+        "b) Robos.",
+        "c) Divorcios.",
+        "d) Multas."
+      ],
+      "respuesta_correcta": "a) Concursos de acreedores (Sección Mercantil)."
+    },
+    {
+      "pregunta": "¿Quién nombra a los Jueces de Paz sustitutos?",
+      "opciones": [
+        "a) La Sala de Gobierno del TSJ.",
+        "b) El Alcalde.",
+        "c) El Juez titular.",
+        "d) El Ministerio."
+      ],
+      "respuesta_correcta": "a) La Sala de Gobierno del TSJ."
+    },
+    {
+      "pregunta": "¿Qué requisitos se exigen para ser Juez de Paz?",
+      "opciones": [
+        "a) Ser Licenciado en Derecho.",
+        "b) Ser español, mayor de edad y no estar incurso en causa de incapacidad (no hace falta ser licenciado).",
+        "c) Ser funcionario.",
+        "d) Ser rico."
+      ],
+      "respuesta_correcta": "b) Ser español, mayor de edad y no estar incurso en causa de incapacidad (no hace falta ser licenciado)."
+    },
+    {
+      "pregunta": "¿De qué conoce la Sala de lo Contencioso del TS respecto al Consejo de Ministros?",
+      "opciones": [
+        "a) De los recursos contra sus actos y disposiciones.",
+        "b) De nada.",
+        "c) De sus sueldos.",
+        "d) De sus viajes."
+      ],
+      "respuesta_correcta": "a) De los recursos contra sus actos y disposiciones."
+    },
+    {
+      "pregunta": "¿Qué recurso conoce la Sala de lo Contencioso del TSJ contra actos de las Entidades Locales?",
+      "opciones": [
+        "a) Apelación.",
+        "b) Recurso contencioso-administrativo en única instancia (salvo atribución a juzgados).",
+        "c) Casación.",
+        "d) Queja."
+      ],
+      "respuesta_correcta": "b) Recurso contencioso-administrativo en única instancia (salvo atribución a juzgados)."
+    },
+    {
+      "pregunta": "¿Quién resuelve los conflictos de jurisdicción entre Juzgados y Administración?",
+      "opciones": [
+        "a) El Tribunal de Conflictos de Jurisdicción.",
+        "b) El TS.",
+        "c) El Gobierno.",
+        "d) El Rey."
+      ],
+      "respuesta_correcta": "a) El Tribunal de Conflictos de Jurisdicción."
+    },
+    {
+      "pregunta": "¿Qué es la Audiencia Nacional en términos de competencia territorial?",
+      "opciones": [
+        "a) Un tribunal central.",
+        "b) Un tribunal regional.",
+        "c) Un tribunal local.",
+        "d) Un tribunal internacional."
+      ],
+      "respuesta_correcta": "a) Un tribunal central."
+    },
+    {
+      "pregunta": "¿Puede la Sala de lo Penal de la AN conocer de delitos cometidos por personas integradas en bandas armadas?",
+      "opciones": [
+        "a) Sí.",
+        "b) No.",
+        "c) Solo si matan.",
+        "d) Solo si roban."
+      ],
+      "respuesta_correcta": "a) Sí."
+    },
+    {
+      "pregunta": "¿Qué es la 'Sección de Enjuiciamiento' en los Tribunales de Instancia?",
+      "opciones": [
+        "a) La parte del Tribunal que celebra los juicios (Sección Penal).",
+        "b) La instrucción.",
+        "c) La apelación.",
+        "d) La guardia."
+      ],
+      "respuesta_correcta": "a) La parte del Tribunal que celebra los juicios (Sección Penal)."
+    },
+    {
+      "pregunta": "¿Qué es el 'partido judicial'?",
+      "opciones": [
+        "a) Un partido político.",
+        "b) La unidad territorial para la administración de justicia, integrada por uno o más municipios limítrofes.",
+        "c) Un juego.",
+        "d) Una provincia."
+      ],
+      "respuesta_correcta": "b) La unidad territorial para la administración de justicia, integrada por uno o más municipios limítrofes."
+    },
+    {
+      "pregunta": "¿Quién crea los Tribunales de Instancia?",
+      "opciones": [
+        "a) La Ley de Demarcación y Planta Judicial.",
+        "b) El Alcalde.",
+        "c) El CGPJ.",
+        "d) El Juez."
+      ],
+      "respuesta_correcta": "a) La Ley de Demarcación y Planta Judicial."
+    },
+    {
+      "pregunta": "¿Qué son los 'Juzgados de lo Mercantil'?",
+      "opciones": [
+        "a) En el nuevo modelo, son Secciones de lo Mercantil dentro de los Tribunales de Instancia.",
+        "b) Juzgados independientes.",
+        "c) Oficinas de comercio.",
+        "d) No existen."
+      ],
+      "respuesta_correcta": "a) En el nuevo modelo, son Secciones de lo Mercantil dentro de los Tribunales de Instancia."
+    },
+    {
+      "pregunta": "¿Qué es la 'jurisdicción militar'?",
+      "opciones": [
+        "a) Parte del Poder Judicial (Sala Quinta del TS y órganos militares), limitada al ámbito castrense y estado de sitio.",
+        "b) Un poder independiente.",
+        "c) Una policía.",
+        "d) No es justicia."
+      ],
+      "respuesta_correcta": "a) Parte del Poder Judicial (Sala Quinta del TS y órganos militares), limitada al ámbito castrense y estado de sitio."
+    },
+    {
+      "pregunta": "¿Qué recurso cabe contra las sentencias de la Sala de Apelación de la AN?",
+      "opciones": [
+        "a) Casación ante el Tribunal Supremo.",
+        "b) Apelación ante el TS.",
+        "c) Ninguno.",
+        "d) Amparo."
+      ],
+      "respuesta_correcta": "a) Casación ante el Tribunal Supremo."
+    },
+    {
+      "pregunta": "¿Quién conoce de los delitos de terrorismo cometidos por menores?",
+      "opciones": [
+        "a) El Juzgado Central de Menores (integrado en Tribunal Central de Instancia).",
+        "b) La Audiencia Nacional.",
+        "c) El Juez de Menores de provincia.",
+        "d) El TS."
+      ],
+      "respuesta_correcta": "a) El Juzgado Central de Menores (integrado en Tribunal Central de Instancia)."
+    },
+    {
+      "pregunta": "¿Qué es la Sala de Gobierno?",
+      "opciones": [
+        "a) El órgano de gobierno interno de los Tribunales (TS, AN, TSJ).",
+        "b) Una sala de juicios.",
+        "c) El Ministerio.",
+        "d) El Consejo de Ministros."
+      ],
+      "respuesta_correcta": "a) El órgano de gobierno interno de los Tribunales (TS, AN, TSJ)."
+    },
+    {
+      "pregunta": "¿Quién aprueba las normas de reparto de asuntos?",
+      "opciones": [
+        "a) La Sala de Gobierno.",
+        "b) El Decano.",
+        "c) El informático.",
+        "d) El Secretario."
+      ],
+      "respuesta_correcta": "a) La Sala de Gobierno."
+    },
+    {
+      "pregunta": "¿Qué es el 'Juez Decano'?",
+      "opciones": [
+        "a) El representante de los jueces en un partido judicial o Tribunal de Instancia.",
+        "b) El más viejo.",
+        "c) El que manda.",
+        "d) Un cargo político."
+      ],
+      "respuesta_correcta": "a) El representante de los jueces en un partido judicial o Tribunal de Instancia."
+    },
+    {
+      "pregunta": "¿Qué son los 'Juzgados de Violencia sobre la Mujer'?",
+      "opciones": [
+        "a) En el nuevo modelo, Secciones de Violencia sobre la Mujer de los Tribunales de Instancia.",
+        "b) Juzgados de Familia.",
+        "c) ONGs.",
+        "d) Comisarías."
+      ],
+      "respuesta_correcta": "a) En el nuevo modelo, Secciones de Violencia sobre la Mujer de los Tribunales de Instancia."
+    },
+    {
+      "pregunta": "¿Tienen competencia civil las Secciones de Violencia sobre la Mujer?",
+      "opciones": [
+        "a) Sí, exclusiva y excluyente en ciertos asuntos si hay causa penal.",
+        "b) No, solo penal.",
+        "c) Sí, en todo.",
+        "d) No, van al juez civil."
+      ],
+      "respuesta_correcta": "a) Sí, exclusiva y excluyente en ciertos asuntos si hay causa penal."
+    },
+    {
+      "pregunta": "¿Qué es el 'aforamiento'? [Contexto artículos competencia TS/TSJ]",
+      "opciones": [
+        "a) Pagar aforo.",
+        "b) Privilegio procesal por el que ciertos cargos son juzgados por tribunales superiores (TS o TSJ) y no por el ordinario.",
+        "c) Inmunidad total.",
+        "d) Juicio rápido."
+      ],
+      "respuesta_correcta": "b) Privilegio procesal por el que ciertos cargos son juzgados por tribunales superiores (TS o TSJ) y no por el ordinario."
+    },
+    {
+      "pregunta": "¿De qué conoce la Sala Primera del Tribunal Supremo?",
+      "opciones": [
+        "a) Civil.",
+        "b) Penal.",
+        "c) Social.",
+        "d) Militar."
+      ],
+      "respuesta_correcta": "a) Civil."
+    },
+    {
+      "pregunta": "¿De qué conoce la Sala Cuarta del Tribunal Supremo?",
+      "opciones": [
+        "a) Social.",
+        "b) Militar.",
+        "c) Civil.",
+        "d) Contencioso."
+      ],
+      "respuesta_correcta": "a) Social."
+    },
+    {
+      "pregunta": "¿Cuántos Presidentes de Sala tiene el TSJ?",
+      "opciones": [
+        "a) Uno por cada Sala (3).",
+        "b) Uno total.",
+        "c) Cinco.",
+        "d) Dos."
+      ],
+      "respuesta_correcta": "a) Uno por cada Sala (3)."
+    },
+    {
+      "pregunta": "¿Quién elige al Presidente del Tribunal Supremo?",
+      "opciones": [
+        "a) El Consejo General del Poder Judicial.",
+        "b) El Gobierno.",
+        "c) Los jueces.",
+        "d) El pueblo."
+      ],
+      "respuesta_correcta": "a) El Consejo General del Poder Judicial."
+    },
+    {
+      "pregunta": "¿El Presidente del TS lo es también del CGPJ?",
+      "opciones": [
+        "a) Sí.",
+        "b) No.",
+        "c) A veces.",
+        "d) Son cargos distintos."
+      ],
+      "respuesta_correcta": "a) Sí."
+    },
+    {
+      "pregunta": "¿Qué es la 'casación'? [Contexto TS]",
+      "opciones": [
+        "a) Casarse.",
+        "b) Recurso extraordinario ante el Tribunal Supremo para anular sentencias por infracción de ley o quebrantamiento de forma.",
+        "c) Una apelación normal.",
+        "d) Un juicio nuevo."
+      ],
+      "respuesta_correcta": "b) Recurso extraordinario ante el Tribunal Supremo para anular sentencias por infracción de ley o quebrantamiento de forma."
+    },
+    {
+      "pregunta": "¿Qué es la 'unificación de doctrina'? [Contexto TS]",
+      "opciones": [
+        "a) Que todos piensen igual.",
+        "b) Función del TS para asegurar la interpretación uniforme de la ley mediante sentencias.",
+        "c) Una ley nueva.",
+        "d) Un curso."
+      ],
+      "respuesta_correcta": "b) Función del TS para asegurar la interpretación uniforme de la ley mediante sentencias."
+    }
+  ]
+}

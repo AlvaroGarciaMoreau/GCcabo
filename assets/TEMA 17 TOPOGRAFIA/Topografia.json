@@ -1,0 +1,668 @@
+[
+  {
+  "tema": "TEMA 17.- TOPOGRAFÍA (Guardia Civil)",
+  "descripcion":"Batería de preguntas basado en textos de topografía",
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es la ciencia que estudia el conjunto de principios y procedimientos que tienen por misión la representación gráfica de una parte de la superficie terrestre con sus formas y detalles?",
+      "opciones": [
+        "a) La Taquimetría.",
+        "b) La Topografía.",
+        "c) La Geodesia.",
+        "d) La Planimetría."
+      ],
+      "respuesta_correcta": "b) La Topografía."
+    },
+    {
+      "pregunta": "¿Cómo se denomina la parte de la Topografía que se ocupa de los procedimientos para confeccionar o levantar un plano por medio de diversos instrumentos, generalmente teodolitos o taquímetros?",
+      "opciones": [
+        "a) La Planimetría.",
+        "b) La Altimetría.",
+        "c) La Cartografía.",
+        "d) La Taquimetría."
+      ],
+      "respuesta_correcta": "d) La Taquimetría."
+    },
+    {
+      "pregunta": "¿Cuál es la inclinación del Eje Terrestre respecto al plano de la órbita de traslación?",
+      "opciones": [
+        "a) $0^{\\circ}$ (es perpendicular).",
+        "b) $23^{\\circ} 27'$",
+        "c) $21^{\\circ} 56'$",
+        "d) $90^{\\circ} $ S."
+      ],
+      "respuesta_correcta": "b) $23^{\\circ} 27'$"
+    },
+    {
+      "pregunta": "¿Cuánto tiempo tarda la Tierra en hacer un giro completo sobre su propio eje en el movimiento de **Rotación**?",
+      "opciones": [
+        "a) $365$ días, $6$ horas y $9$ minutos.",
+        "b) $23$ horas y $56$ minutos.",
+        "c) $24$ horas exactas.",
+        "d) $40.076$ kilómetros."
+      ],
+      "respuesta_correcta": "b) $23$ horas y $56$ minutos."
+    },
+    {
+      "pregunta": "La línea imaginaria que recorre la Tierra a igual distancia del Polo Norte que del Polo Sur y que la divide en dos mitades iguales se llama:",
+      "opciones": [
+        "a) Meridiano de Greenwich.",
+        "b) Eje Terrestre.",
+        "c) Ecuador.",
+        "d) Paralelo de Cáncer."
+      ],
+      "respuesta_correcta": "c) Ecuador."
+    },
+    {
+      "pregunta": "Llamamos **Latitud Geográfica** a la distancia entre un punto de la Tierra y el Ecuador, midiendo esta distancia en ángulos. ¿Entre qué grados varía la Latitud en cada hemisferio?",
+      "opciones": [
+        "a) $0^{\\circ}$ a $180^{\\circ}$ E/O.",
+        "b) $0^{\\circ}$ a $90^{\\circ}$ N/S.",
+        "c) $23^{\\circ} 27'$ a $66^{\\circ} 33'$ N/S.",
+        "d) $0^{circ}$ a $360^{\\circ}$."
+      ],
+      "respuesta_correcta": "b) $0^{\\circ}$ a $90^{\\circ}$ N/S."
+    },
+    {
+      "pregunta": "La línea imaginaria que une el Polo Norte y el Polo Sur y que sirve de referencia para medir la Longitud se llama:",
+      "opciones": [
+        "a) Ecuador.",
+        "b) Círculo Polar Ártico.",
+        "c) Trópico de Cáncer.",
+        "d) Meridiano de Greenwich."
+      ],
+      "respuesta_correcta": "d) Meridiano de Greenwich."
+    },
+    {
+      "pregunta": "La **Longitud Geográfica** se mide a partir del Meridiano de Greenwich. ¿Entre qué grados varía la Longitud hacia el Este y el Oeste?",
+      "opciones": [
+        "a) $0^{\\circ}$ a $90^{\\circ}$ N/S.",
+        "b) $0^{\\circ}$ a $180^{\\circ}$ E/O.",
+        "c) $0^{\\circ}$ a $45^{\\circ}$ E/O.",
+        "d) $0^{\\circ}$ a $360^{\\circ}$."
+      ],
+      "respuesta_correcta": "b) $0^{\\circ}$ a $180^{\\circ}$ E/O."
+    },
+    {
+      "pregunta": "El Trópico de Cáncer y el Trópico de Capricornio se encuentran, respectivamente, a la Latitud:",
+      "opciones": [
+        "a) $23^{\\circ} $ N y $23^{\\circ}$ S.",
+        "b) $66^{\\circ} $ N y $66^{\\circ}$ S.",
+        "c) $23^{\\circ} 27'$ N y $23^{\\circ} 27'$ S.",
+        "d) $0^{\\circ}$."
+      ],
+      "respuesta_correcta": "a) $23^{\\circ} $ N y $23^{\\circ}$ S."
+    },
+    {
+      "pregunta": "¿Qué nombre recibe el paralelo mayor que divide la tierra en dos partes iguales (hemisferio norte y hemisferio sur)?",
+      "opciones": [
+        "a) El Círculo Máximo.",
+        "b) El Ecuador.",
+        "c) El Trópico Principal.",
+        "d) El Meridiano Cero."
+      ],
+      "respuesta_correcta": "b) El Ecuador."
+    },
+    {
+      "pregunta": "El Polo Norte Geográfico nos indica la dirección del **Norte Geográfico** (o Norte verdadero). ¿Qué nombre recibe el Norte que nos marcan las brújulas?",
+      "opciones": [
+        "a) Norte Universal.",
+        "b) Norte Cartográfico.",
+        "c) Norte Magnético.",
+        "d) Norte Astronómico."
+      ],
+      "respuesta_correcta": "c) Norte Magnético."
+    },
+    {
+      "pregunta": "¿Qué elemento geográfico son círculos máximos perpendiculares al Ecuador, que pasan por los Polos, y dividen la Tierra en dos hemisferios (occidental y oriental)?",
+      "opciones": [
+        "a) Los Paralelos.",
+        "b) Los Trópicos.",
+        "c) Los Meridianos.",
+        "d) Los Círculos Polares."
+      ],
+      "respuesta_correcta": "c) Los Meridianos."
+    },
+    {
+      "pregunta": "El ángulo que forma una dirección entre dos puntos (AB) con el Norte Geográfico, medido en el sentido de las agujas del reloj, se denomina:",
+      "opciones": [
+        "a) Rumbo.",
+        "b) Orientación.",
+        "c) Declinación Magnética.",
+        "d) Acimut."
+      ],
+      "respuesta_correcta": "d) Acimut."
+    },
+    {
+      "pregunta": "Si el Acimut de una dirección es $289^{\\circ} 41' 17''$, ¿cuál es el cálculo correcto para obtener el **Contra-Acimut** (o acimut inverso)?",
+      "opciones": [
+        "a) $\\text{Acimut} + 180^{\\circ} $",
+        "b) $\\text{Acimut} - 180^{\\circ} $",
+        "c) $360^{\\circ} - \\text{Acimut} $",
+        "d) $\\text{Acimut} + 90^{\\circ} $."
+      ],
+      "respuesta_correcta": "b) $\\text{Acimut} - 180^{\\circ} $"
+    },
+    {
+      "pregunta": "El **Rumbo** se define como el ángulo formado por una dirección con el:",
+      "opciones": [
+        "a) Norte Geográfico.",
+        "b) Meridiano Cero.",
+        "c) Norte Magnético.",
+        "d) Ecuador."
+      ],
+      "respuesta_correcta": "c) Norte Magnético."
+    },
+    {
+      "pregunta": "La **Declinación Magnética** ($\text{Dm}$) es la diferencia angular entre el Norte Geográfico (o verdadero) y el:",
+      "opciones": [
+        "a) Norte Cartográfico.",
+        "b) Norte de Cuadrícula.",
+        "c) Norte Magnético.",
+        "d) El Contra-Acimut."
+      ],
+      "respuesta_correcta": "c) Norte Magnético."
+    },
+    {
+      "pregunta": "¿Cuál es la unidad de longitud establecida en el Sistema Internacional que se define como 'la longitud del trayecto recorrido en el vacío por la luz durante un tiempo de $1/299.792.458$ de segundo'?",
+      "opciones": [
+        "a) El kilómetro.",
+        "b) El hectómetro.",
+        "c) El metro.",
+        "d) El decámetro."
+      ],
+      "respuesta_correcta": "c) El metro."
+    },
+    {
+      "pregunta": "En el Sistema Métrico Decimal, la unidad para medir superficies agrarias es el **área**, que equivale a:",
+      "opciones": [
+        "a) El $m^{2} $ o centiárea.",
+        "b) El $Hm^{2} $ o hectárea.",
+        "c) El $dam^{2} $ o decámetro cuadrado.",
+        "d) El $Km^{2} $ o kilómetro cuadrado."
+      ],
+      "respuesta_correcta": "c) El $dam^{2} $ o decámetro cuadrado."
+    },
+    {
+      "pregunta": "¿Cuál es la equivalencia del ángulo en la graduación **milésimal artillera** para una circunferencia completa?",
+      "opciones": [
+        "a) $360^{\\circ} $.",
+        "b) $400^{\\text{g} } $.",
+        "c) $2\\pi $ radianes.",
+        "d) $6.400^{\\text{oo} } $."
+      ],
+      "respuesta_correcta": "d) $6.400^{\\text{oo} } $"
+    },
+    {
+      "pregunta": "¿Cuántos minutos ($'$) componen un grado ($^{\\circ}$) en el Sistema Sexagesimal?",
+      "opciones": [
+        "a) $10$ minutos.",
+        "b) $60$ minutos.",
+        "c) $100$ minutos.",
+        "d) $3.600$ minutos."
+      ],
+      "respuesta_correcta": "b) $60$ minutos."
+    },
+    {
+      "pregunta": "La **Planimetría** es la parte de la Topografía que consiste en:",
+      "opciones": [
+        "a) La determinación de las alturas de los diferentes puntos del terreno.",
+        "b) La proyección de cada punto del terreno sobre un plano horizontal, tomado como referencia.",
+        "c) La representación del terreno a través de curvas de nivel.",
+        "d) La medición de distancias horizontales entre dos puntos."
+      ],
+      "respuesta_correcta": "b) La proyección de cada punto del terreno sobre un plano horizontal, tomado como referencia."
+    },
+    {
+      "pregunta": "¿Cuál es el nivel de referencia que se emplea en España para la **Altimetría** o nivelación?",
+      "opciones": [
+        "a) El nivel del mar en Cádiz.",
+        "b) El nivel del mar en Greenwich.",
+        "c) El nivel del mar en Alicante.",
+        "d) El nivel del mar en Barcelona."
+      ],
+      "respuesta_correcta": "c) El nivel del mar en Alicante."
+    },
+    {
+      "pregunta": "En la representación del terreno por curvas de nivel, se dibujan curvas de forma tal que la diferencia de nivel entre cada dos consecutivas sea una cantidad constante. Esta diferencia constante se denomina:",
+      "opciones": [
+        "a) Pendiente.",
+        "b) Curva Directora.",
+        "c) Desnivel.",
+        "d) Equidistancia."
+      ],
+      "respuesta_correcta": "d) Equidistancia."
+    },
+    {
+      "pregunta": "La **Pendiente** ($P$) entre dos puntos se calcula mediante la fórmula:",
+      "opciones": [
+        "a) $P = \\frac{\\text{Distancia Vertical}}{\\text{Distancia Geométrica}} \\times 100 $",
+        "b) $P = \\frac{\\text{Distancia Vertical}}{\\text{Distancia Horizontal}} \\times 100 $",
+        "c) $P = \\frac{\\text{Distancia Horizontal}}{\\text{Distancia Vertical}} \\times 100 $",
+        "d) $P = \\text{Distancia Vertical} + \\text{Distancia Horizontal} $."
+      ],
+      "respuesta_correcta": "b) $P = \\frac{\\text{Distancia Vertical}}{\\text{Distancia Horizontal}} \\times 100 $"
+    },
+    {
+      "pregunta": "En un plano de escala $E=1:50.000$ hemos medido la distancia entre dos puntos, siendo ésta de $15$ milímetros. ¿Cuál es la distancia **reducida** en el terreno en metros?",
+      "opciones": [
+        "a) $75$ metros.",
+        "b) $75.000$ metros.",
+        "c) $7.500$ metros.",
+        "d) $750$ metros."
+      ],
+      "respuesta_correcta": "d) $750$ metros."
+    },
+    {
+      "pregunta": "Si dos puntos están separados $2$ kilómetros ($2.000$ metros) en el terreno y en un mapa esos dos puntos están separados $10$ centímetros, ¿a qué escala está el plano?",
+      "opciones": [
+        "a) $1:2.000$",
+        "b) $1:20.000$",
+        "c) $1:50.000$",
+        "d) $1:25.000$"
+      ],
+      "respuesta_correcta": "b) $1:20.000$"
+    },
+    {
+      "pregunta": "¿Qué punto tiene **mayor Latitud** en el mapa de coordenadas (Figura, puntos A, B, C y D)?",
+      "opciones": [
+        "a) Punto A.",
+        "b) Punto B.",
+        "c) Punto C.",
+        "d) Punto D."
+      ],
+      "respuesta_correcta": "a) Punto A."
+    },
+    {
+      "pregunta": "¿Qué punto tiene **menor Longitud** en el mapa de coordenadas (Figura, puntos A, B, C y D)?",
+      "opciones": [
+        "a) Punto A.",
+        "b) Punto B.",
+        "c) Punto C.",
+        "d) Punto D."
+      ],
+      "respuesta_correcta": "d) Punto D."
+    },
+    {
+      "pregunta": "Calcular el Acimut inverso de una dirección que tiene un acimut de $90^{\\circ}$:",
+      "opciones": [
+        "a) $180^{\\circ} $.",
+        "b) $270^{\\circ} $.",
+        "c) $0^{\\circ} $.",
+        "d) $210^{\\circ} $."
+      ],
+      "respuesta_correcta": "b) $270^{\\circ} $"
+    },
+    {
+      "pregunta": "Calcular el Acimut de una dirección, si sabemos que el acimut inverso es de $13^{\\circ}$:",
+      "opciones": [
+        "a) $342^{\\circ} $.",
+        "b) $193^{\\circ} $.",
+        "c) $283^{\\circ} $.",
+        "d) $103^{\\circ} $."
+      ],
+      "respuesta_correcta": "b) $193^{\\circ} $"
+    },
+    {
+      "pregunta": "Calcule el rumbo ($\text{R}$) de una embarcación, si sabemos que el acimut ($\text{Az}$) es $43^{\\circ}$ y la Declinación Magnética ($\text{Dm}$) es $4^{\\circ}$ E ($\text{Dm} = -4^{\\circ} $ O):",
+      "opciones": [
+        "a) $47^{\\circ} $ NW.",
+        "b) $39^{\\circ} $ NW.",
+        "c) $47^{\\circ} $ NE.",
+        "d) $39^{\\circ} $ NE."
+      ],
+      "respuesta_correcta": "d) $39^{\\circ} $ NE."
+    },
+    {
+      "pregunta": "La parte más baja de la ladera o vertiente se denomina:",
+      "opciones": [
+        "a) Vaguada.",
+        "b) Divisoria.",
+        "c) Cresta.",
+        "d) Falda."
+      ],
+      "respuesta_correcta": "d) Falda."
+    },
+    {
+      "pregunta": "Una pequeña elevación del terreno respecto del que le rodea, de forma troncocónica, se denomina:",
+      "opciones": [
+        "a) Colina.",
+        "b) Mogote.",
+        "c) Macizo.",
+        "d) Sierra."
+      ],
+      "respuesta_correcta": "b) Mogote."
+    },
+    {
+      "pregunta": "Un grupo de montañas que se extienden en todas direcciones se llama:",
+      "opciones": [
+        "a) Cordillera.",
+        "b) Sierra.",
+        "c) Cresta.",
+        "d) Macizo."
+      ],
+      "respuesta_correcta": "d) Macizo."
+    },
+    {
+      "pregunta": "La línea imaginaria que forman los puntos del terreno y que marca la separación de las aguas de lluvia hacia dos laderas distintas se denomina:",
+      "opciones": [
+        "a) Vaguada.",
+        "b) Divisoria.",
+        "c) Cresta.",
+        "d) Collado."
+      ],
+      "respuesta_correcta": "b) Divisoria."
+    },
+    {
+      "pregunta": "La unión de dos laderas opuestas, por su parte inferior, y a la que afluyen las aguas que provienen de ellas se llama:",
+      "opciones": [
+        "a) Divisoria.",
+        "b) Collado.",
+        "c) Vaguada.",
+        "d) Torrente."
+      ],
+      "respuesta_correcta": "c) Vaguada."
+    },
+    {
+      "pregunta": "Una vaguada muy encajonada y profunda se denomina:",
+      "opciones": [
+        "a) Arroyo.",
+        "b) Desfiladero.",
+        "c) Barranco.",
+        "d) Cañada."
+      ],
+      "respuesta_correcta": "c) Barranco."
+    },
+    {
+      "pregunta": "Una depresión entre dos divisorias que, cuando es larga y estrecha, se denomina **garganta** y, si es profunda y de laderas escarpadas, **desfiladero**, es un:",
+      "opciones": [
+        "a) Macizo.",
+        "b) Collado.",
+        "c) Otero.",
+        "d) Cañón."
+      ],
+      "respuesta_correcta": "b) Collado."
+    },
+    {
+      "pregunta": "El lugar de un arroyo o río donde, por tener poca profundidad, escasa corriente y lecho firme, es factible su paso a pie o en vehículo se denomina:",
+      "opciones": [
+        "a) Desembocadura.",
+        "b) Confluencia.",
+        "c) Vado.",
+        "d) Pantano."
+      ],
+      "respuesta_correcta": "c) Vado."
+    },
+    {
+      "pregunta": "Una depresión del terreno respecto al que le rodea, que si en ella existe agua continuamente y ocupa gran extensión de terreno, se llama **lago**, es una:",
+      "opciones": [
+        "a) Laguna.",
+        "b) Hoya.",
+        "c) Vaguada.",
+        "d) Cañada."
+      ],
+      "respuesta_correcta": "b) Hoya."
+    },
+    {
+      "pregunta": "La faja de terreno colindante con el mar que si es abrupta y escarpada recibe el nombre de **acantilado** se llama:",
+      "opciones": [
+        "a) Playa.",
+        "b) Acantilado.",
+        "c) Costa.",
+        "d) Ensenada."
+      ],
+      "respuesta_correcta": "c) Costa."
+    },
+    {
+      "pregunta": "La **Escala Numérica** ($E$) se define como la relación constante o razón de semejanza que hay entre:",
+      "opciones": [
+        "a) Las líneas del terreno ($T$) y las líneas del plano ($P$), $E=T/P$.",
+        "b) Las líneas del plano ($P$) y las líneas del terreno ($T$), $E=P/T$.",
+        "c) La distancia vertical y la distancia horizontal.",
+        "d) La Longitud y la Latitud."
+      ],
+      "respuesta_correcta": "b) Las líneas del plano ($P$) y las líneas del terreno ($T$), $E=P/T$."
+    },
+    {
+      "pregunta": "Si tenemos dos planos del mismo tamaño, uno de Escala $1:1.000$ y otro de $1:25.000$, ¿cuál representa **más terreno**?",
+      "opciones": [
+        "a) El de Escala $1:1.000$.",
+        "b) El de Escala $1:25.000$.",
+        "c) Ambos representan el mismo terreno.",
+        "d) Depende del tipo de proyección."
+      ],
+      "respuesta_correcta": "b) El de Escala $1:25.000$."
+    },
+    {
+      "pregunta": "En un mapa de escala $1:50.000$, la distancia medida entre dos puntos es de $3$ centímetros. Calcule la distancia en el terreno en metros.",
+      "opciones": [
+        "a) $1.500$ metros.",
+        "b) $150$ metros.",
+        "c) $15$ kilómetros.",
+        "d) $150.000$ centímetros."
+      ],
+      "respuesta_correcta": "a) $1.500$ metros."
+    },
+    {
+      "pregunta": "Si la distancia entre dos puntos en el terreno es de $3.000$ metros, y en un mapa, esos mismos puntos están separados $15$ centímetros, ¿a qué escala está el plano?",
+      "opciones": [
+        "a) $1:200$",
+        "b) $1:2.000$",
+        "c) $1:20.000$",
+        "d) $1:50.000$"
+      ],
+      "respuesta_correcta": "c) $1:20.000$"
+    },
+    {
+      "pregunta": "La **Curva Directora** en la representación del terreno es la curva de nivel que:",
+      "opciones": [
+        "a) Se dibuja con menor grosor que las demás.",
+        "b) Coincide con la cota del nivel del mar en Alicante.",
+        "c) Se dibuja con mayor grosor que las demás y lleva un número que indica su cota, normalmente cada cinco curvas.",
+        "d) Marca la separación de las aguas de lluvia."
+      ],
+      "respuesta_correcta": "c) Se dibuja con mayor grosor que las demás y lleva un número que indica su cota, normalmente cada cinco curvas."
+    },
+    {
+      "pregunta": "Calcule la pendiente en $$ entre dos puntos con cota $700$ metros y $1.450$ metros, sabiendo que la distancia en el plano es de $3$ centímetros y la escala del plano es $1:50.000$:",
+      "opciones": [
+        "a) $5\\% $.",
+        "b) $50\\% $.",
+        "c) $25\\% $.",
+        "d) $2,5\\% $."
+      ],
+      "respuesta_correcta": "b) $50\\% $"
+    },
+    {
+      "pregunta": "En el Sistema Centesimal, el grado centesimal se divide en $100$ partes iguales llamadas minutos, y cada minuto en otras $100$ partes llamadas:",
+      "opciones": [
+        "a) Segundos sexagesimales.",
+        "b) Segundos centesimales.",
+        "c) Milésimas.",
+        "d) Radianes."
+      ],
+      "respuesta_correcta": "b) Segundos centesimales."
+    },
+    {
+      "pregunta": "¿Cuántos grados centesimales ($^{\\text{g} } $) se obtienen al reducir $63^{\\circ} $ sexagesimales?",
+      "opciones": [
+        "a) $70^{\\text{g} } $.",
+        "b) $50^{\\text{g} } $.",
+        "c) $45^{\\text{g} } $.",
+        "d) $80^{\\text{g} } $."
+      ],
+      "respuesta_correcta": "a) $70^{\\text{g} } $"
+    },
+    {
+      "pregunta": "Si un punto se localiza en el cruce de un paralelo y un meridiano, ¿qué dos coordenadas geográficas definen su posición?",
+      "opciones": [
+        "a) Altitud y Cota.",
+        "b) Norte Geográfico y Norte Magnético.",
+        "c) Latitud y Longitud.",
+        "d) Acimut y Rumbo."
+      ],
+      "respuesta_correcta": "c) Latitud y Longitud."
+    },
+    {
+      "pregunta": "La **Milésima Artillera** es la unidad de graduación milésimal que se define como el ángulo que resulta al dividir la circunferencia en:",
+      "opciones": [
+        "a) $1.000$ partes iguales.",
+        "b) $6.283$ partes iguales.",
+        "c) $6.400$ partes iguales.",
+        "d) $360$ partes iguales."
+      ],
+      "respuesta_correcta": "c) $6.400$ partes iguales."
+    },
+    {
+      "pregunta": "Un **Otero** se define como:",
+      "opciones": [
+        "a) Una gran elevación del terreno.",
+        "b) Un grupo de montañas alineadas en una única dirección.",
+        "c) Un cerro aislado desde el que se domina un llano.",
+        "d) Una depresión entre dos divisorias."
+      ],
+      "respuesta_correcta": "c) Un cerro aislado desde el que se domina un llano."
+    },
+    {
+      "pregunta": "Cuando una cima es alargada se denomina **Cresta**, y si es plana se denomina:",
+      "opciones": [
+        "a) Pico.",
+        "b) Meseta.",
+        "c) Macizo.",
+        "d) Colina."
+      ],
+      "respuesta_correcta": "b) Meseta."
+    },
+    {
+      "pregunta": "El movimiento de la Tierra que se produce alrededor del Sol y que tarda $365$ días, $6$ horas y $9$ minutos en completarse se llama:",
+      "opciones": [
+        "a) Rotación.",
+        "b) Traslación.",
+        "c) Equinoccio.",
+        "d) Solsticio."
+      ],
+      "respuesta_correcta": "b) Traslación."
+    },
+    {
+      "pregunta": "El Meridiano Origen o Internacional es el que pasa por el Observatorio Astronómico de:",
+      "opciones": [
+        "a) París.",
+        "b) Nueva York.",
+        "c) Madrid.",
+        "d) Greenwich (Londres)."
+      ],
+      "respuesta_correcta": "d) Greenwich (Londres)."
+    },
+    {
+      "pregunta": "Si una cima termina en punta, se denomina:",
+      "opciones": [
+        "a) Cresta.",
+        "b) Pico.",
+        "c) Meseta.",
+        "d) Colina."
+      ],
+      "respuesta_correcta": "b) Pico."
+    },
+    {
+      "pregunta": "Una **Sierra** se define como:",
+      "opciones": [
+        "a) Un grupo de montañas que se extienden en todas direcciones.",
+        "b) Una sucesión de varias cordilleras.",
+        "c) Un grupo de montañas que se alinean en una única dirección.",
+        "d) Una elevación de terreno pequeña y alargada."
+      ],
+      "respuesta_correcta": "c) Un grupo de montañas que se alinean en una única dirección."
+    },
+    {
+      "pregunta": "Un **Torrente** es una corriente de agua que:",
+      "opciones": [
+        "a) Solo circula en tiempo de lluvia, en forma impetuosa y turbulenta.",
+        "b) Es una vaguada muy encajonada y profunda.",
+        "c) Es la unión de dos cursos de agua.",
+        "d) Vierte sus aguas al mar (desembocadura)."
+      ],
+      "respuesta_correcta": "a) Solo circula en tiempo de lluvia, en forma impetuosa y turbulenta."
+    },
+    {
+      "pregunta": "La **Confluencia** es el punto de unión de:",
+      "opciones": [
+        "a) Un río y el mar (desembocadura).",
+        "b) Dos cursos de agua.",
+        "c) Una playa y un acantilado.",
+        "d) Dos divisorias."
+      ],
+      "respuesta_correcta": "b) Dos cursos de agua."
+    },
+    {
+      "pregunta": "Una **Cordillera** es:",
+      "opciones": [
+        "a) Un Monte peñascoso con laderas de pendientes pronunciadas.",
+        "b) Un grupo de montañas que se alinean en una única dirección.",
+        "c) Una pequeña elevación del terreno, generalmente desprovista de arbolado.",
+        "d) Una sucesión de varias sierras."
+      ],
+      "respuesta_correcta": "d) Una sucesión de varias sierras."
+    },
+    {
+      "pregunta": "Si la **Costa** es abrupta y escarpada, recibe el nombre de:",
+      "opciones": [
+        "a) Playa.",
+        "b) Acantilado.",
+        "c) Ensenada.",
+        "d) Bahía."
+      ],
+      "respuesta_correcta": "b) Acantilado."
+    },
+    {
+      "pregunta": "El ángulo que resulta de dividir un radián en $1.000$ partes iguales se denomina:",
+      "opciones": [
+        "a) Grado centesimal.",
+        "b) Milésima verdadera.",
+        "c) Milésima artillera.",
+        "d) Segundo sexagesimal."
+      ],
+      "respuesta_correcta": "b) Milésima verdadera."
+    },
+    {
+      "pregunta": "Calcule la declinación magnética ($\text{Dm}$) para el año $2020$ si la $\text{Dm}$ para el año $1960$ era de $-7^{\\circ} $ y el incremento anual es de $3'$:",
+      "opciones": [
+        "a) $-6^{\\circ} 57'$",
+        "b) $-4^{\\circ} $.",
+        "c) $-4^{\\circ} 0'$",
+        "d) $-4^{\\circ} 23'$"
+      ],
+      "respuesta_correcta": "d) $-4^{\\circ} 23'$"
+    },
+    {
+      "pregunta": "En la representación del terreno, la recta imaginaria que une los dos puntos con diferente cota o nivel se conoce como:",
+      "opciones": [
+        "a) Distancia Horizontal o Reducida.",
+        "b) Distancia Natural.",
+        "c) Distancia Geométrica.",
+        "d) Distancia Vertical o Desnivel."
+      ],
+      "respuesta_correcta": "c) Distancia Geométrica."
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes puntos en el mapa (Figura) está más cerca del **Trópico de Cáncer** ($23^{\\circ} \\text{N}$)?",
+      "opciones": [
+        "a) Punto A ($\\approx 40^{\\circ} \\text{N}$).",
+        "b) Punto B ($\\approx 40^{\\circ} \\text{N}$).",
+        "c) Punto C ($\\approx 20^{\\circ} \\text{S}$).",
+        "d) Punto D ($\\approx 5^{\\circ} \\text{S}$)."
+      ],
+      "respuesta_correcta": "d) Punto D ($\\approx 5^{\\circ} \\text{S}$)."
+    },
+    {
+      "pregunta": "¿Qué **Longitud** separa el punto C ($\\approx 20^{\\circ} \\text{S}, 40^{\\circ} \\text{O}$) del punto D ($\\approx 5^{\\circ} \\text{S}, 30^{\\circ} \\text{E}$) en el mapa?",
+      "opciones": [
+        "a) $10^{\\circ} $.",
+        "b) $50^{\\circ} $.",
+        "c) $70^{\\circ} $.",
+        "d) $35^{\\circ} $."
+      ],
+      "respuesta_correcta": "c) $70^{\\circ} $"
+    }
+  ]
+}
+]
