@@ -1,4 +1,4 @@
-package com.example.gccabo
+package com.moreausoft.gccabo
 
 import io.flutter.embedding.android.FlutterActivity
 
