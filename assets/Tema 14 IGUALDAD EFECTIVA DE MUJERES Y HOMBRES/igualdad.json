@@ -3,7 +3,7 @@
   "descripcion": "Preguntas basadas en la Ley Orgánica 3/2007 (T. Preliminar, T. I y T. V Caps. III, IV y V).",
   "preguntas": [
     {
-      [cite_start]"pregunta": "¿Cuál es el objeto de la Ley Orgánica 3/2007 según su artículo 1? [cite: 905]",
+      "pregunta": "¿Cuál es el objeto de la Ley Orgánica 3/2007 según su artículo 1? [cite: 905]",
       "opciones": [
         "a) Regular el sistema de cuotas en las empresas privadas.",
         "b) Hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres.",
@@ -13,7 +13,7 @@
       "respuesta_correcta": "b) Hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres."
     },
     {
-      [cite_start]"pregunta": "¿A quiénes son de aplicación las obligaciones establecidas en la Ley Orgánica 3/2007? [cite: 909]",
+      "pregunta": "¿A quiénes son de aplicación las obligaciones establecidas en la Ley Orgánica 3/2007? [cite: 909]",
       "opciones": [
         "a) Solo a las personas físicas de nacionalidad española.",
         "b) A toda persona, física o jurídica, que se encuentre o actúe en territorio español, cualquiera que fuese su nacionalidad, domicilio o residencia.",
@@ -23,7 +23,7 @@
       "respuesta_correcta": "b) A toda persona, física o jurídica, que se encuentre o actúe en territorio español, cualquiera que fuese su nacionalidad, domicilio o residencia."
     },
     {
-      [cite_start]"pregunta": "¿Qué supone el principio de igualdad de trato entre mujeres y hombres según el artículo 3? [cite: 915]",
+      "pregunta": "¿Qué supone el principio de igualdad de trato entre mujeres y hombres según el artículo 3? [cite: 915]",
       "opciones": [
         "a) La ausencia de toda discriminación, directa o indirecta, por razón de sexo.",
         "b) La paridad absoluta en todos los órganos.",
@@ -33,7 +33,7 @@
       "respuesta_correcta": "a) La ausencia de toda discriminación, directa o indirecta, por razón de sexo."
     },
     {
-      [cite_start]"pregunta": "¿Qué consideración tiene la igualdad de trato y de oportunidades en el ordenamiento jurídico? [cite: 917]",
+      "pregunta": "¿Qué consideración tiene la igualdad de trato y de oportunidades en el ordenamiento jurídico? [cite: 917]",
       "opciones": [
         "a) Es un principio informador.",
         "b) Es una recomendación.",
@@ -43,7 +43,7 @@
       "respuesta_correcta": "a) Es un principio informador."
     },
     {
-      [cite_start]"pregunta": "¿Cuándo existe discriminación directa por razón de sexo? [cite: 922]",
+      "pregunta": "¿Cuándo existe discriminación directa por razón de sexo? [cite: 922]",
       "opciones": [
         "a) Cuando una disposición aparentemente neutra pone a personas de un sexo en desventaja.",
         "b) Cuando una persona sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable.",
@@ -53,7 +53,7 @@
       "respuesta_correcta": "b) Cuando una persona sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable."
     },
     {
-      [cite_start]"pregunta": "¿Qué define la discriminación indirecta por razón de sexo? [cite: 923]",
+      "pregunta": "¿Qué define la discriminación indirecta por razón de sexo? [cite: 923]",
       "opciones": [
         "a) El trato desfavorable por embarazo.",
         "b) La situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro.",
@@ -63,7 +63,7 @@
       "respuesta_correcta": "b) La situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro."
     },
     {
-      [cite_start]"pregunta": "¿Se considera discriminatoria la orden de discriminar? [cite: 924]",
+      "pregunta": "¿Se considera discriminatoria la orden de discriminar? [cite: 924]",
       "opciones": [
         "a) No, solo la ejecución de la orden.",
         "b) Sí, en cualquier caso.",
@@ -73,7 +73,7 @@
       "respuesta_correcta": "b) Sí, en cualquier caso."
     },
     {
-      [cite_start]"pregunta": "¿Qué se entiende por acoso sexual en esta Ley? [cite: 926]",
+      "pregunta": "¿Qué se entiende por acoso sexual en esta Ley? [cite: 926]",
       "opciones": [
         "a) Cualquier comportamiento realizado en función del sexo de una persona.",
         "b) Cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona, en particular cuando se crea un entorno intimidatorio, degradante u ofensivo.",
@@ -83,7 +83,7 @@
       "respuesta_correcta": "b) Cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona, en particular cuando se crea un entorno intimidatorio, degradante u ofensivo."
     },
     {
-      [cite_start]"pregunta": "¿Constituye el acoso sexual un acto de discriminación? [cite: 928]",
+      "pregunta": "¿Constituye el acoso sexual un acto de discriminación? [cite: 928]",
       "opciones": [
         "a) No, es un delito pero no discriminación.",
         "b) Sí, se considerará en todo caso discriminatorio.",
@@ -93,7 +93,7 @@
       "respuesta_correcta": "b) Sí, se considerará en todo caso discriminatorio."
     },
     {
-      [cite_start]"pregunta": "¿Qué es el acoso por razón de sexo? [cite: 927]",
+      "pregunta": "¿Qué es el acoso por razón de sexo? [cite: 927]",
       "opciones": [
         "a) El comportamiento de naturaleza sexual no deseado.",
         "b) Cualquier comportamiento realizado en función del sexo de una persona, con el propósito o el efecto de atentar contra su dignidad y de crear un entorno intimidatorio, degradante u ofensivo.",
@@ -103,7 +103,7 @@
       "respuesta_correcta": "b) Cualquier comportamiento realizado en función del sexo de una persona, con el propósito o el efecto de atentar contra su dignidad y de crear un entorno intimidatorio, degradante u ofensivo."
     },
     {
-      [cite_start]"pregunta": "¿Qué tipo de discriminación constituye el trato desfavorable a las mujeres relacionado con el embarazo o la maternidad? [cite: 934]",
+      "pregunta": "¿Qué tipo de discriminación constituye el trato desfavorable a las mujeres relacionado con el embarazo o la maternidad? [cite: 934]",
       "opciones": [
         "a) Discriminación indirecta.",
         "b) Discriminación directa por razón de sexo.",
@@ -113,7 +113,7 @@
       "respuesta_correcta": "b) Discriminación directa por razón de sexo."
     },
     {
-      [cite_start]"pregunta": "¿Qué es la indemnidad frente a represalias? [cite: 936]",
+      "pregunta": "¿Qué es la indemnidad frente a represalias? [cite: 936]",
       "opciones": [
         "a) La prohibición de despedir.",
         "b) La consideración como discriminación del trato adverso producido como consecuencia de la presentación de una queja o demanda destinada a impedir la discriminación.",
@@ -123,7 +123,7 @@
       "respuesta_correcta": "b) La consideración como discriminación del trato adverso producido como consecuencia de la presentación de una queja o demanda destinada a impedir la discriminación."
     },
     {
-      [cite_start]"pregunta": "¿Qué consecuencia jurídica tienen los actos que constituyan discriminación por razón de sexo? [cite: 938]",
+      "pregunta": "¿Qué consecuencia jurídica tienen los actos que constituyan discriminación por razón de sexo? [cite: 938]",
       "opciones": [
         "a) Son anulables.",
         "b) Se considerarán nulos y sin efecto.",
@@ -133,7 +133,7 @@
       "respuesta_correcta": "b) Se considerarán nulos y sin efecto."
     },
     {
-      [cite_start]"pregunta": "¿Qué son las acciones positivas según el artículo 11? [cite: 940]",
+      "pregunta": "¿Qué son las acciones positivas según el artículo 11? [cite: 940]",
       "opciones": [
         "a) Medidas generales para todos los ciudadanos.",
         "b) Medidas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres.",
@@ -143,7 +143,7 @@
       "respuesta_correcta": "b) Medidas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres."
     },
     {
-      [cite_start]"pregunta": "¿Quién puede adoptar medidas de acción positiva? [cite: 940, 942]",
+      "pregunta": "¿Quién puede adoptar medidas de acción positiva? [cite: 940, 942]",
       "opciones": [
         "a) Solo los Poderes Públicos.",
         "b) Solo las empresas privadas.",
@@ -153,7 +153,7 @@
       "respuesta_correcta": "c) Los Poderes Públicos y también las personas físicas y jurídicas privadas."
     },
     {
-      [cite_start]"pregunta": "¿Quién está legitimado para recabar la tutela del derecho a la igualdad ante los tribunales? [cite: 944]",
+      "pregunta": "¿Quién está legitimado para recabar la tutela del derecho a la igualdad ante los tribunales? [cite: 944]",
       "opciones": [
         "a) Solo las mujeres.",
         "b) Cualquier persona.",
@@ -163,7 +163,7 @@
       "respuesta_correcta": "b) Cualquier persona."
     },
     {
-      [cite_start]"pregunta": "En los litigios sobre acoso sexual y acoso por razón de sexo, ¿quién está legitimado? [cite: 946]",
+      "pregunta": "En los litigios sobre acoso sexual y acoso por razón de sexo, ¿quién está legitimado? [cite: 946]",
       "opciones": [
         "a) Cualquier persona.",
         "b) Los sindicatos.",
@@ -173,7 +173,7 @@
       "respuesta_correcta": "c) La persona acosada será la única legitimada."
     },
     {
-      [cite_start]"pregunta": "¿A quién corresponde la carga de la prueba en procedimientos sobre discriminación por razón de sexo? [cite: 948]",
+      "pregunta": "¿A quién corresponde la carga de la prueba en procedimientos sobre discriminación por razón de sexo? [cite: 948]",
       "opciones": [
         "a) Siempre a la parte actora.",
         "b) Al Ministerio Fiscal.",
@@ -183,7 +183,7 @@
       "respuesta_correcta": "c) Corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad."
     },
     {
-      [cite_start]"pregunta": "¿Se aplica la inversión de la carga de la prueba a los procesos penales? [cite: 950]",
+      "pregunta": "¿Se aplica la inversión de la carga de la prueba a los procesos penales? [cite: 950]",
       "opciones": [
         "a) Sí, siempre.",
         "b) No, no será de aplicación.",
@@ -193,7 +193,7 @@
       "respuesta_correcta": "b) No, no será de aplicación."
     },
     {
-      [cite_start]"pregunta": "¿Qué deben acompañar las convocatorias de pruebas selectivas para el acceso al empleo público? [cite: 1211]",
+      "pregunta": "¿Qué deben acompañar las convocatorias de pruebas selectivas para el acceso al empleo público? [cite: 1211]",
       "opciones": [
         "a) Un plan de igualdad.",
         "b) Un informe de impacto de género, salvo en casos de urgencia.",
@@ -203,7 +203,7 @@
       "respuesta_correcta": "b) Un informe de impacto de género, salvo en casos de urgencia."
     },
     {
-      [cite_start]"pregunta": "En los concursos para la provisión de puestos de trabajo, ¿se computa el tiempo de excedencia por cuidado de familiares? [cite: 1216]",
+      "pregunta": "En los concursos para la provisión de puestos de trabajo, ¿se computa el tiempo de excedencia por cuidado de familiares? [cite: 1216]",
       "opciones": [
         "a) No, nunca.",
         "b) Sí, a los efectos de valoración del trabajo desarrollado y de los correspondientes méritos.",
@@ -213,7 +213,7 @@
       "respuesta_correcta": "b) Sí, a los efectos de valoración del trabajo desarrollado y de los correspondientes méritos."
     },
     {
-      [cite_start]"pregunta": "¿Cuándo se concede licencia por riesgo durante el embarazo a una funcionaria? [cite: 1218]",
+      "pregunta": "¿Cuándo se concede licencia por riesgo durante el embarazo a una funcionaria? [cite: 1218]",
       "opciones": [
         "a) Cuando lo solicite.",
         "b) Cuando las condiciones del puesto pudieran influir negativamente en su salud o la del hijo y no sea posible el cambio de puesto.",
@@ -223,7 +223,7 @@
       "respuesta_correcta": "b) Cuando las condiciones del puesto pudieran influir negativamente en su salud o la del hijo y no sea posible el cambio de puesto."
     },
     {
-      [cite_start]"pregunta": "Durante la licencia por riesgo durante el embarazo, ¿qué derechos económicos se garantizan? [cite: 1219]",
+      "pregunta": "Durante la licencia por riesgo durante el embarazo, ¿qué derechos económicos se garantizan? [cite: 1219]",
       "opciones": [
         "a) El 75% de las retribuciones.",
         "b) Las retribuciones básicas solamente.",
@@ -233,7 +233,7 @@
       "respuesta_correcta": "c) La plenitud de los derechos económicos."
     },
     {
-      [cite_start]"pregunta": "¿Qué ocurre con las vacaciones si coinciden con una incapacidad temporal derivada del embarazo? [cite: 1222]",
+      "pregunta": "¿Qué ocurre con las vacaciones si coinciden con una incapacidad temporal derivada del embarazo? [cite: 1222]",
       "opciones": [
         "a) Se pierden.",
         "b) Se pagan.",
@@ -243,7 +243,7 @@
       "respuesta_correcta": "c) La empleada pública tendrá derecho a disfrutarlas en fecha distinta, aunque haya terminado el año natural."
     },
     {
-      [cite_start]"pregunta": "¿Se aplica el derecho a posponer vacaciones al permiso de paternidad? [cite: 1223]",
+      "pregunta": "¿Se aplica el derecho a posponer vacaciones al permiso de paternidad? [cite: 1223]",
       "opciones": [
         "a) No.",
         "b) Sí, gozarán de este mismo derecho.",
@@ -253,7 +253,7 @@
       "respuesta_correcta": "b) Sí, gozarán de este mismo derecho."
     },
     {
-      [cite_start]"pregunta": "¿Qué preferencia se otorga en los cursos de formación tras incorporarse de un permiso de maternidad/paternidad? [cite: 1225]",
+      "pregunta": "¿Qué preferencia se otorga en los cursos de formación tras incorporarse de un permiso de maternidad/paternidad? [cite: 1225]",
       "opciones": [
         "a) Ninguna.",
         "b) Preferencia durante un año en la adjudicación de plazas.",
@@ -263,7 +263,7 @@
       "respuesta_correcta": "b) Preferencia durante un año en la adjudicación de plazas."
     },
     {
-      [cite_start]"pregunta": "Para facilitar la promoción profesional de las empleadas públicas, ¿qué reserva de plazas se establece en cursos de formación? [cite: 1229]",
+      "pregunta": "Para facilitar la promoción profesional de las empleadas públicas, ¿qué reserva de plazas se establece en cursos de formación? [cite: 1229]",
       "opciones": [
         "a) El 50%.",
         "b) Al menos un 40% de las plazas para quienes reúnan los requisitos.",
@@ -273,7 +273,7 @@
       "respuesta_correcta": "b) Al menos un 40% de las plazas para quienes reúnan los requisitos."
     },
     {
-      [cite_start]"pregunta": "¿Qué deben contemplar todas las pruebas de acceso al empleo público de la AGE? [cite: 1231]",
+      "pregunta": "¿Qué deben contemplar todas las pruebas de acceso al empleo público de la AGE? [cite: 1231]",
       "opciones": [
         "a) Un examen de inglés.",
         "b) El estudio y la aplicación del principio de igualdad entre mujeres y hombres.",
@@ -283,7 +283,7 @@
       "respuesta_correcta": "b) El estudio y la aplicación del principio de igualdad entre mujeres y hombres."
     },
     {
-      [cite_start]"pregunta": "¿Qué deben negociar las Administraciones públicas para la prevención del acoso sexual? [cite: 1234]",
+      "pregunta": "¿Qué deben negociar las Administraciones públicas para la prevención del acoso sexual? [cite: 1234]",
       "opciones": [
         "a) Un convenio colectivo.",
         "b) Un protocolo de actuación.",
@@ -293,7 +293,7 @@
       "respuesta_correcta": "b) Un protocolo de actuación."
     },
     {
-      [cite_start]"pregunta": "¿Con qué frecuencia deben remitir información los Ministerios sobre la aplicación del principio de igualdad? [cite: 1240]",
+      "pregunta": "¿Con qué frecuencia deben remitir información los Ministerios sobre la aplicación del principio de igualdad? [cite: 1240]",
       "opciones": [
         "a) Mensualmente.",
         "b) Trimestralmente.",
@@ -303,7 +303,7 @@
       "respuesta_correcta": "c) Al menos anualmente."
     },
     {
-      [cite_start]"pregunta": "¿Cuándo aprobará el Gobierno el Plan para la Igualdad en la AGE? [cite: 1242]",
+      "pregunta": "¿Cuándo aprobará el Gobierno el Plan para la Igualdad en la AGE? [cite: 1242]",
       "opciones": [
         "a) Anualmente.",
         "b) Al inicio de cada legislatura.",
@@ -313,7 +313,7 @@
       "respuesta_correcta": "b) Al inicio de cada legislatura."
     },
     {
-      [cite_start]"pregunta": "¿Con quién se negocia el Plan de Igualdad de la AGE? [cite: 1244]",
+      "pregunta": "¿Con quién se negocia el Plan de Igualdad de la AGE? [cite: 1244]",
       "opciones": [
         "a) Con nadie, lo aprueba el Gobierno.",
         "b) Con las asociaciones de mujeres.",
@@ -323,7 +323,7 @@
       "respuesta_correcta": "c) Con la representación legal de los empleados públicos."
     },
     {
-      [cite_start]"pregunta": "¿Quién evalúa el cumplimiento del Plan de Igualdad de la AGE? [cite: 1244]",
+      "pregunta": "¿Quién evalúa el cumplimiento del Plan de Igualdad de la AGE? [cite: 1244]",
       "opciones": [
         "a) El Parlamento.",
         "b) El Consejo de Ministros, anualmente.",
@@ -333,7 +333,7 @@
       "respuesta_correcta": "b) El Consejo de Ministros, anualmente."
     },
     {
-      [cite_start]"pregunta": "¿Qué deben procurar las normas sobre personal de las Fuerzas Armadas según el artículo 65? [cite: 1250]",
+      "pregunta": "¿Qué deben procurar las normas sobre personal de las Fuerzas Armadas según el artículo 65? [cite: 1250]",
       "opciones": [
         "a) La disciplina ante todo.",
         "b) La efectividad del principio de igualdad entre mujeres y hombres.",
@@ -343,7 +343,7 @@
       "respuesta_correcta": "b) La efectividad del principio de igualdad entre mujeres y hombres."
     },
     {
-      [cite_start]"pregunta": "¿Son de aplicación en las Fuerzas Armadas las normas de igualdad del personal de las administraciones públicas? [cite: 1252]",
+      "pregunta": "¿Son de aplicación en las Fuerzas Armadas las normas de igualdad del personal de las administraciones públicas? [cite: 1252]",
       "opciones": [
         "a) No, tienen régimen propio exclusivo.",
         "b) Sí, con las adaptaciones que resulten necesarias y en los términos de su normativa específica.",
@@ -353,7 +353,7 @@
       "respuesta_correcta": "b) Sí, con las adaptaciones que resulten necesarias y en los términos de su normativa específica."
     },
     {
-      [cite_start]"pregunta": "¿Qué deben promover las normas reguladoras de las Fuerzas y Cuerpos de Seguridad del Estado? [cite: 1256]",
+      "pregunta": "¿Qué deben promover las normas reguladoras de las Fuerzas y Cuerpos de Seguridad del Estado? [cite: 1256]",
       "opciones": [
         "a) La igualdad efectiva entre mujeres y hombres.",
         "b) La fuerza física.",
@@ -363,7 +363,7 @@
       "respuesta_correcta": "a) La igualdad efectiva entre mujeres y hombres."
     },
     {
-      [cite_start]"pregunta": "¿Se aplican las normas de igualdad de los funcionarios a las Fuerzas y Cuerpos de Seguridad? [cite: 1258]",
+      "pregunta": "¿Se aplican las normas de igualdad de los funcionarios a las Fuerzas y Cuerpos de Seguridad? [cite: 1258]",
       "opciones": [
         "a) No.",
         "b) Sí, adaptándose a las peculiaridades de sus funciones.",
@@ -373,7 +373,7 @@
       "respuesta_correcta": "b) Sí, adaptándose a las peculiaridades de sus funciones."
     },
     {
-      [cite_start]"pregunta": "¿Qué se entiende por 'condicionamiento de un derecho a la aceptación de acoso sexual'? [cite: 930]",
+      "pregunta": "¿Qué se entiende por 'condicionamiento de un derecho a la aceptación de acoso sexual'? [cite: 930]",
       "opciones": [
         "a) Chantaje.",
         "b) Acto de discriminación por razón de sexo.",
@@ -383,7 +383,7 @@
       "respuesta_correcta": "b) Acto de discriminación por razón de sexo."
     },
     {
-      [cite_start]"pregunta": "Según la Ley Orgánica 3/2007, las mujeres y los hombres son: [cite: 904]",
+      "pregunta": "Según la Ley Orgánica 3/2007, las mujeres y los hombres son: [cite: 904]",
       "opciones": [
         "a) Diferentes en derechos.",
         "b) Iguales en dignidad humana, e iguales en derechos y deberes.",
@@ -393,7 +393,7 @@
       "respuesta_correcta": "b) Iguales en dignidad humana, e iguales en derechos y deberes."
     },
     {
-      [cite_start]"pregunta": "¿Qué tipo de discriminación es una disposición aparentemente neutra que perjudica más a un sexo? [cite: 923]",
+      "pregunta": "¿Qué tipo de discriminación es una disposición aparentemente neutra que perjudica más a un sexo? [cite: 923]",
       "opciones": [
         "a) Directa.",
         "b) Indirecta.",
@@ -403,7 +403,7 @@
       "respuesta_correcta": "b) Indirecta."
     },
     {
-      [cite_start]"pregunta": "¿Cuándo no es discriminatoria una diferencia de trato en el acceso al empleo? [cite: 920]",
+      "pregunta": "¿Cuándo no es discriminatoria una diferencia de trato en el acceso al empleo? [cite: 920]",
       "opciones": [
         "a) Nunca.",
         "b) Cuando el sexo sea un requisito profesional esencial y determinante, legítimo y proporcionado.",
@@ -413,7 +413,7 @@
       "respuesta_correcta": "b) Cuando el sexo sea un requisito profesional esencial y determinante, legítimo y proporcionado."
     },
     {
-      [cite_start]"pregunta": "¿Qué medidas de protección se contemplan para la maternidad en el empleo público? [cite: 1213]",
+      "pregunta": "¿Qué medidas de protección se contemplan para la maternidad en el empleo público? [cite: 1213]",
       "opciones": [
         "a) Solo permisos no retribuidos.",
         "b) Régimen de excedencias, reducciones de jornada, permisos u otros beneficios.",
@@ -423,7 +423,7 @@
       "respuesta_correcta": "b) Régimen de excedencias, reducciones de jornada, permisos u otros beneficios."
     },
     {
-      [cite_start]"pregunta": "¿Qué información deben desagregar por sexo los Ministerios en su informe anual? [cite: 1240]",
+      "pregunta": "¿Qué información deben desagregar por sexo los Ministerios en su informe anual? [cite: 1240]",
       "opciones": [
         "a) Solo el número total de empleados.",
         "b) Distribución de plantilla, grupo de titulación, nivel de complemento de destino y retribuciones promediadas.",
@@ -433,7 +433,7 @@
       "respuesta_correcta": "b) Distribución de plantilla, grupo de titulación, nivel de complemento de destino y retribuciones promediadas."
     },
     {
-      [cite_start]"pregunta": "¿Qué principio debe regir la interpretación de las normas jurídicas? [cite: 917]",
+      "pregunta": "¿Qué principio debe regir la interpretación de las normas jurídicas? [cite: 917]",
       "opciones": [
         "a) La igualdad de trato y de oportunidades entre mujeres y hombres.",
         "b) La costumbre.",
@@ -443,7 +443,7 @@
       "respuesta_correcta": "a) La igualdad de trato y de oportunidades entre mujeres y hombres."
     },
     {
-      [cite_start]"pregunta": "¿Se considera discriminación el acoso por razón de sexo? [cite: 928]",
+      "pregunta": "¿Se considera discriminación el acoso por razón de sexo? [cite: 928]",
       "opciones": [
         "a) Sí, en todo caso.",
         "b) No, es violencia.",
@@ -453,7 +453,7 @@
       "respuesta_correcta": "a) Sí, en todo caso."
     },
     {
-      [cite_start]"pregunta": "¿Qué efecto tienen las cláusulas de negocios jurídicos que causen discriminación? [cite: 938]",
+      "pregunta": "¿Qué efecto tienen las cláusulas de negocios jurídicos que causen discriminación? [cite: 938]",
       "opciones": [
         "a) Son válidas.",
         "b) Son nulas y sin efecto.",
@@ -463,7 +463,7 @@
       "respuesta_correcta": "b) Son nulas y sin efecto."
     },
     {
-      [cite_start]"pregunta": "¿Qué se entiende por 'transversalidad' del principio de igualdad? [cite: 972]",
+      "pregunta": "¿Qué se entiende por 'transversalidad' del principio de igualdad? [cite: 972]",
       "opciones": [
         "a) Que informa la actuación de todos los Poderes Públicos en todas sus políticas.",
         "b) Que cruza de un lado a otro.",
@@ -473,7 +473,7 @@
       "respuesta_correcta": "a) Que informa la actuación de todos los Poderes Públicos en todas sus políticas."
     },
     {
-      [cite_start]"pregunta": "¿Qué deben hacer las Administraciones Públicas para facilitar la conciliación? [cite: 1189]",
+      "pregunta": "¿Qué deben hacer las Administraciones Públicas para facilitar la conciliación? [cite: 1189]",
       "opciones": [
         "a) Reducir sueldos.",
         "b) Facilitar la conciliación de la vida personal, familiar y laboral, sin menoscabo de la promoción profesional.",
@@ -483,7 +483,7 @@
       "respuesta_correcta": "b) Facilitar la conciliación de la vida personal, familiar y laboral, sin menoscabo de la promoción profesional."
     },
     {
-      [cite_start]"pregunta": "¿Es obligatorio el informe de impacto de género en leyes? [cite: 984]",
+      "pregunta": "¿Es obligatorio el informe de impacto de género en leyes? [cite: 984]",
       "opciones": [
         "a) No, es voluntario.",
         "b) Sí, en proyectos de disposiciones generales y planes de especial relevancia que apruebe el Consejo de Ministros.",
@@ -493,7 +493,7 @@
       "respuesta_correcta": "b) Sí, en proyectos de disposiciones generales y planes de especial relevancia que apruebe el Consejo de Ministros."
     },
     {
-      [cite_start]"pregunta": "¿Qué deben incluir las estadísticas públicas? [cite: 987]",
+      "pregunta": "¿Qué deben incluir las estadísticas públicas? [cite: 987]",
       "opciones": [
         "a) La variable de sexo sistemáticamente.",
         "b) Nombres y apellidos.",
@@ -503,7 +503,7 @@
       "respuesta_correcta": "a) La variable de sexo sistemáticamente."
     },
     {
-      [cite_start]"pregunta": "¿Qué implica la presencia equilibrada? [cite: 1305]",
+      "pregunta": "¿Qué implica la presencia equilibrada? [cite: 1305]",
       "opciones": [
         "a) 50% exacto de cada sexo.",
         "b) Que ningún sexo supere el 60% ni sea menos del 40%.",
@@ -513,7 +513,7 @@
       "respuesta_correcta": "b) Que ningún sexo supere el 60% ni sea menos del 40%."
     },
     {
-      [cite_start]"pregunta": "¿Deben los tribunales de selección de la AGE responder al principio de presencia equilibrada? [cite: 1200]",
+      "pregunta": "¿Deben los tribunales de selección de la AGE responder al principio de presencia equilibrada? [cite: 1200]",
       "opciones": [
         "a) No es necesario.",
         "b) Sí, salvo razones fundadas y objetivas debidamente motivadas.",
@@ -523,7 +523,7 @@
       "respuesta_correcta": "b) Sí, salvo razones fundadas y objetivas debidamente motivadas."
     },
     {
-      [cite_start]"pregunta": "¿En qué licencia se garantiza la plenitud de derechos económicos de la funcionaria? [cite: 1219]",
+      "pregunta": "¿En qué licencia se garantiza la plenitud de derechos económicos de la funcionaria? [cite: 1219]",
       "opciones": [
         "a) Asuntos propios.",
         "b) Licencia por riesgo durante el embarazo.",
@@ -533,7 +533,7 @@
       "respuesta_correcta": "b) Licencia por riesgo durante el embarazo."
     },
     {
-      [cite_start]"pregunta": "¿Puede disfrutarse la vacación anual en fecha distinta si coincide con la lactancia? [cite: 1222]",
+      "pregunta": "¿Puede disfrutarse la vacación anual en fecha distinta si coincide con la lactancia? [cite: 1222]",
       "opciones": [
         "a) Sí.",
         "b) No.",
@@ -543,7 +543,7 @@
       "respuesta_correcta": "a) Sí."
     },
     {
-      [cite_start]"pregunta": "¿Qué deben hacer las Administraciones Públicas frente a la discriminación retributiva? [cite: 1193]",
+      "pregunta": "¿Qué deben hacer las Administraciones Públicas frente a la discriminación retributiva? [cite: 1193]",
       "opciones": [
         "a) Ignorarla.",
         "b) Establecer medidas efectivas para eliminar cualquier discriminación retributiva, directa o indirecta, por razón de sexo.",
@@ -553,7 +553,7 @@
       "respuesta_correcta": "b) Establecer medidas efectivas para eliminar cualquier discriminación retributiva, directa o indirecta, por razón de sexo."
     },
     {
-      [cite_start]"pregunta": "¿Qué comprende el protocolo frente al acoso sexual en la AGE? [cite: 1234]",
+      "pregunta": "¿Qué comprende el protocolo frente al acoso sexual en la AGE? [cite: 1234]",
       "opciones": [
         "a) Sanciones penales.",
         "b) El compromiso de no tolerarlo, instrucción al personal, tratamiento reservado de denuncias, etc.",
@@ -563,7 +563,7 @@
       "respuesta_correcta": "b) El compromiso de no tolerarlo, instrucción al personal, tratamiento reservado de denuncias, etc."
     },
     {
-      [cite_start]"pregunta": "¿En qué ámbito territorial se aplica la Ley Orgánica 3/2007? [cite: 909]",
+      "pregunta": "¿En qué ámbito territorial se aplica la Ley Orgánica 3/2007? [cite: 909]",
       "opciones": [
         "a) Solo en la Península.",
         "b) En todo el territorio español.",
@@ -573,7 +573,7 @@
       "respuesta_correcta": "b) En todo el territorio español."
     },
     {
-      [cite_start]"pregunta": "¿Qué se considera discriminación directa por maternidad? [cite: 934]",
+      "pregunta": "¿Qué se considera discriminación directa por maternidad? [cite: 934]",
       "opciones": [
         "a) Todo trato desfavorable relacionado con el embarazo o la maternidad.",
         "b) Dar permisos de maternidad.",
@@ -583,7 +583,7 @@
       "respuesta_correcta": "a) Todo trato desfavorable relacionado con el embarazo o la maternidad."
     },
     {
-      [cite_start]"pregunta": "¿Quién tiene legitimación en litigios sobre acoso sexual? [cite: 946]",
+      "pregunta": "¿Quién tiene legitimación en litigios sobre acoso sexual? [cite: 946]",
       "opciones": [
         "a) Los sindicatos.",
         "b) La persona acosada exclusivamente.",
@@ -593,7 +593,7 @@
       "respuesta_correcta": "b) La persona acosada exclusivamente."
     },
     {
-      [cite_start]"pregunta": "¿Qué deben hacer las Administraciones Públicas en relación con la violencia de género en el empleo público? [cite: 1232]",
+      "pregunta": "¿Qué deben hacer las Administraciones Públicas en relación con la violencia de género en el empleo público? [cite: 1232]",
       "opciones": [
         "a) Impartir cursos de formación sobre prevención de la violencia de género.",
         "b) Ocultarla.",
@@ -603,7 +603,7 @@
       "respuesta_correcta": "a) Impartir cursos de formación sobre prevención de la violencia de género."
     },
     {
-      [cite_start]"pregunta": "¿Cómo deben ser los nombramientos de órganos directivos de la AGE? [cite: 1198]",
+      "pregunta": "¿Cómo deben ser los nombramientos de órganos directivos de la AGE? [cite: 1198]",
       "opciones": [
         "a) Por libre designación siempre.",
         "b) Atendiendo al principio de presencia equilibrada de mujeres y hombres.",
@@ -613,7 +613,7 @@
       "respuesta_correcta": "b) Atendiendo al principio de presencia equilibrada de mujeres y hombres."
     },
     {
-      [cite_start]"pregunta": "¿Qué deben promover las normas de las Fuerzas y Cuerpos de Seguridad? [cite: 1256]",
+      "pregunta": "¿Qué deben promover las normas de las Fuerzas y Cuerpos de Seguridad? [cite: 1256]",
       "opciones": [
         "a) La fuerza.",
         "b) La igualdad efectiva entre mujeres y hombres, impidiendo discriminación profesional.",
@@ -623,7 +623,7 @@
       "respuesta_correcta": "b) La igualdad efectiva entre mujeres y hombres, impidiendo discriminación profesional."
     },
     {
-      [cite_start]"pregunta": "¿Se aplica la Ley de Igualdad a los contratos de la AGE? [cite: 1076]",
+      "pregunta": "¿Se aplica la Ley de Igualdad a los contratos de la AGE? [cite: 1076]",
       "opciones": [
         "a) No.",
         "b) Sí, el Consejo de Ministros determinará los contratos que obligatoriamente incluirán medidas de promoción de la igualdad.",
@@ -633,7 +633,7 @@
       "respuesta_correcta": "b) Sí, el Consejo de Ministros determinará los contratos que obligatoriamente incluirán medidas de promoción de la igualdad."
     },
     {
-      [cite_start]"pregunta": "¿Qué es la tutela judicial efectiva en materia de igualdad? [cite: 944]",
+      "pregunta": "¿Qué es la tutela judicial efectiva en materia de igualdad? [cite: 944]",
       "opciones": [
         "a) El derecho a recabar de los tribunales la defensa del derecho a la igualdad.",
         "b) Un juicio rápido.",
@@ -643,7 +643,7 @@
       "respuesta_correcta": "a) El derecho a recabar de los tribunales la defensa del derecho a la igualdad."
     },
     {
-      [cite_start]"pregunta": "¿Pueden las personas jurídicas reclamar la tutela del derecho a la igualdad? [cite: 945]",
+      "pregunta": "¿Pueden las personas jurídicas reclamar la tutela del derecho a la igualdad? [cite: 945]",
       "opciones": [
         "a) No, solo personas físicas.",
         "b) Sí, si tienen interés legítimo.",
@@ -653,7 +653,7 @@
       "respuesta_correcta": "b) Sí, si tienen interés legítimo."
     },
     {
-      [cite_start]"pregunta": "¿Qué debe hacer el órgano judicial si se alega discriminación? [cite: 949]",
+      "pregunta": "¿Qué debe hacer el órgano judicial si se alega discriminación? [cite: 949]",
       "opciones": [
         "a) Creer al demandante.",
         "b) Puede recabar informe de organismos públicos competentes.",
@@ -663,7 +663,7 @@
       "respuesta_correcta": "b) Puede recabar informe de organismos públicos competentes."
     },
     {
-      [cite_start]"pregunta": "¿En qué ámbito se garantiza la igualdad de trato según el artículo 5? [cite: 919]",
+      "pregunta": "¿En qué ámbito se garantiza la igualdad de trato según el artículo 5? [cite: 919]",
       "opciones": [
         "a) Solo en el empleo público.",
         "b) En el empleo privado y en el público.",
@@ -673,7 +673,7 @@
       "respuesta_correcta": "b) En el empleo privado y en el público."
     },
     {
-      [cite_start]"pregunta": "¿Qué incluye la igualdad en las condiciones de trabajo? [cite: 919]",
+      "pregunta": "¿Qué incluye la igualdad en las condiciones de trabajo? [cite: 919]",
       "opciones": [
         "a) Solo el salario.",
         "b) Las retributivas y las de despido.",
@@ -683,7 +683,7 @@
       "respuesta_correcta": "b) Las retributivas y las de despido."
     },
     {
-      [cite_start]"pregunta": "¿Qué se entiende por presencia equilibrada en órganos colegiados? [cite: 1305]",
+      "pregunta": "¿Qué se entiende por presencia equilibrada en órganos colegiados? [cite: 1305]",
       "opciones": [
         "a) Que haya al menos una mujer.",
         "b) Que las personas de cada sexo no superen el 60% ni sean menos del 40%.",
@@ -693,7 +693,7 @@
       "respuesta_correcta": "b) Que las personas de cada sexo no superen el 60% ni sean menos del 40%."
     },
     {
-      [cite_start]"pregunta": "¿Cómo se designan los representantes de la AGE en órganos colegiados? [cite: 1203]",
+      "pregunta": "¿Cómo se designan los representantes de la AGE en órganos colegiados? [cite: 1203]",
       "opciones": [
         "a) Libremente.",
         "b) De acuerdo con el principio de presencia equilibrada, salvo razones fundadas.",
@@ -703,7 +703,7 @@
       "respuesta_correcta": "b) De acuerdo con el principio de presencia equilibrada, salvo razones fundadas."
     },
     {
-      [cite_start]"pregunta": "¿Qué se debe fomentar en la formación de empleados públicos? [cite: 1190]",
+      "pregunta": "¿Qué se debe fomentar en la formación de empleados públicos? [cite: 1190]",
       "opciones": [
         "a) La informática.",
         "b) La formación en igualdad.",
@@ -713,7 +713,7 @@
       "respuesta_correcta": "b) La formación en igualdad."
     },
     {
-      [cite_start]"pregunta": "¿Qué sucede con la licencia por riesgo durante la lactancia natural en la función pública? [cite: 1220]",
+      "pregunta": "¿Qué sucede con la licencia por riesgo durante la lactancia natural en la función pública? [cite: 1220]",
       "opciones": [
         "a) No existe.",
         "b) Se aplica lo dispuesto para el riesgo durante el embarazo.",
@@ -723,7 +723,7 @@
       "respuesta_correcta": "b) Se aplica lo dispuesto para el riesgo durante el embarazo."
     },
     {
-      [cite_start]"pregunta": "¿Qué trato se da a las situaciones de violencia de género en el empleo público? [cite: 1232]",
+      "pregunta": "¿Qué trato se da a las situaciones de violencia de género en el empleo público? [cite: 1232]",
       "opciones": [
         "a) Se imparten cursos de prevención.",
         "b) Se ignora.",
@@ -733,7 +733,7 @@
       "respuesta_correcta": "a) Se imparten cursos de prevención."
     },
     {
-      [cite_start]"pregunta": "¿Deben las Fuerzas Armadas aplicar normas de conciliación? [cite: 1252]",
+      "pregunta": "¿Deben las Fuerzas Armadas aplicar normas de conciliación? [cite: 1252]",
       "opciones": [
         "a) No, por su naturaleza militar.",
         "b) Sí, las normas de las administraciones públicas con las adaptaciones necesarias.",
@@ -743,7 +743,7 @@
       "respuesta_correcta": "b) Sí, las normas de las administraciones públicas con las adaptaciones necesarias."
     },
     {
-      [cite_start]"pregunta": "¿Qué implica la transversalidad? [cite: 973]",
+      "pregunta": "¿Qué implica la transversalidad? [cite: 973]",
       "opciones": [
         "a) Integrar el principio de igualdad en la adopción y ejecución de disposiciones normativas y políticas públicas.",
         "b) Cruzar datos.",
@@ -763,7 +763,7 @@
       "respuesta_correcta": "b) Trato desfavorable a una persona por su relación con otra (aunque la ley española define directa/indirecta, este concepto se integra)."
     },
     {
-      [cite_start]"pregunta": "¿Cuándo se considera nulo un despido por discriminación? [cite: 938]",
+      "pregunta": "¿Cuándo se considera nulo un despido por discriminación? [cite: 938]",
       "opciones": [
         "a) Cuando se basa en razón de sexo.",
         "b) Cuando es improcedente.",
@@ -773,7 +773,7 @@
       "respuesta_correcta": "a) Cuando se basa en razón de sexo."
     },
     {
-      [cite_start]"pregunta": "¿Qué deben hacer los poderes públicos con las estadísticas? [cite: 987]",
+      "pregunta": "¿Qué deben hacer los poderes públicos con las estadísticas? [cite: 987]",
       "opciones": [
         "a) Incluir la variable de sexo.",
         "b) Hacerlas anónimas.",
@@ -783,7 +783,7 @@
       "respuesta_correcta": "a) Incluir la variable de sexo."
     },
     {
-      [cite_start]"pregunta": "¿Qué se busca con las acciones de planificación equitativa de los tiempos? [cite: 999]",
+      "pregunta": "¿Qué se busca con las acciones de planificación equitativa de los tiempos? [cite: 999]",
       "opciones": [
         "a) Trabajar más.",
         "b) Avanzar hacia un reparto equitativo de los tiempos entre mujeres y hombres.",
@@ -793,7 +793,7 @@
       "respuesta_correcta": "b) Avanzar hacia un reparto equitativo de los tiempos entre mujeres y hombres."
     },
     {
-      [cite_start]"pregunta": "¿Qué es el Plan Estratégico de Igualdad de Oportunidades? [cite: 979]",
+      "pregunta": "¿Qué es el Plan Estratégico de Igualdad de Oportunidades? [cite: 979]",
       "opciones": [
         "a) Un documento aprobado periódicamente por el Gobierno.",
         "b) Una ley.",
@@ -803,7 +803,7 @@
       "respuesta_correcta": "a) Un documento aprobado periódicamente por el Gobierno."
     },
     {
-      [cite_start]"pregunta": "¿Qué incluye la protección frente al acoso sexual en la función pública? [cite: 1237]",
+      "pregunta": "¿Qué incluye la protección frente al acoso sexual en la función pública? [cite: 1237]",
       "opciones": [
         "a) El tratamiento reservado de las denuncias.",
         "b) Publicidad de los hechos.",
@@ -813,7 +813,7 @@
       "respuesta_correcta": "a) El tratamiento reservado de las denuncias."
     },
     {
-      [cite_start]"pregunta": "¿Qué deben identificar los protocolos de acoso? [cite: 1238]",
+      "pregunta": "¿Qué deben identificar los protocolos de acoso? [cite: 1238]",
       "opciones": [
         "a) A las víctimas.",
         "b) A las personas responsables de atender a quienes formulen una queja.",
@@ -833,7 +833,7 @@
       "respuesta_correcta": "b) Crear un entorno intimidatorio, degradante u ofensivo."
     },
     {
-      [cite_start]"pregunta": "¿Qué permiso se reconoce para fomentar la corresponsabilidad? [cite: 1214]",
+      "pregunta": "¿Qué permiso se reconoce para fomentar la corresponsabilidad? [cite: 1214]",
       "opciones": [
         "a) Permiso de paternidad.",
         "b) Permiso de fútbol.",
@@ -843,7 +843,7 @@
       "respuesta_correcta": "a) Permiso de paternidad."
     },
     {
-      [cite_start]"pregunta": "¿En qué consiste la discriminación por embarazo? [cite: 934]",
+      "pregunta": "¿En qué consiste la discriminación por embarazo? [cite: 934]",
       "opciones": [
         "a) Trato favorable.",
         "b) Trato desfavorable a las mujeres relacionado con el embarazo.",
@@ -853,7 +853,7 @@
       "respuesta_correcta": "b) Trato desfavorable a las mujeres relacionado con el embarazo."
     },
     {
-      [cite_start]"pregunta": "¿Qué se debe evitar en la política de educación? [cite: 1009]",
+      "pregunta": "¿Qué se debe evitar en la política de educación? [cite: 1009]",
       "opciones": [
         "a) Los libros.",
         "b) Comportamientos sexistas y estereotipos sociales.",
@@ -863,7 +863,7 @@
       "respuesta_correcta": "b) Comportamientos sexistas y estereotipos sociales."
     },
     {
-      [cite_start]"pregunta": "¿Qué deben fomentar las Administraciones en educación superior? [cite: 1018]",
+      "pregunta": "¿Qué deben fomentar las Administraciones en educación superior? [cite: 1018]",
       "opciones": [
         "a) La enseñanza e investigación sobre igualdad.",
         "b) Las fiestas.",
@@ -873,7 +873,7 @@
       "respuesta_correcta": "a) La enseñanza e investigación sobre igualdad."
     },
     {
-      [cite_start]"pregunta": "¿Qué se debe integrar en la política de salud? [cite: 1035]",
+      "pregunta": "¿Qué se debe integrar en la política de salud? [cite: 1035]",
       "opciones": [
         "a) Las distintas necesidades de mujeres y hombres.",
         "b) Solo la salud de los hombres.",
@@ -883,7 +883,7 @@
       "respuesta_correcta": "a) Las distintas necesidades de mujeres y hombres."
     },
     {
-      [cite_start]"pregunta": "¿Qué se promueve en la Sociedad de la Información? [cite: 1046]",
+      "pregunta": "¿Qué se promueve en la Sociedad de la Información? [cite: 1046]",
       "opciones": [
         "a) La plena incorporación de las mujeres.",
         "b) El uso de videojuegos.",
@@ -893,7 +893,7 @@
       "respuesta_correcta": "a) La plena incorporación de las mujeres."
     },
     {
-      [cite_start]"pregunta": "¿Qué se debe evitar en la publicidad institucional? [cite: 1113]",
+      "pregunta": "¿Qué se debe evitar en la publicidad institucional? [cite: 1113]",
       "opciones": [
         "a) Conductas discriminatorias.",
         "b) Gastar dinero.",
@@ -903,7 +903,7 @@
       "respuesta_correcta": "a) Conductas discriminatorias."
     },
     {
-      [cite_start]"pregunta": "¿Qué es el distintivo de igualdad? [cite: 1174]",
+      "pregunta": "¿Qué es el distintivo de igualdad? [cite: 1174]",
       "opciones": [
         "a) Un premio en metálico.",
         "b) Un reconocimiento a empresas que destacan en políticas de igualdad.",
@@ -913,7 +913,7 @@
       "respuesta_correcta": "b) Un reconocimiento a empresas que destacan en políticas de igualdad."
     },
     {
-      [cite_start]"pregunta": "¿Son obligatorios los planes de igualdad en la AGE? [cite: 1242]",
+      "pregunta": "¿Son obligatorios los planes de igualdad en la AGE? [cite: 1242]",
       "opciones": [
         "a) Sí, se aprueba uno al inicio de cada legislatura.",
         "b) No.",
@@ -923,7 +923,7 @@
       "respuesta_correcta": "a) Sí, se aprueba uno al inicio de cada legislatura."
     },
     {
-      [cite_start]"pregunta": "¿Qué deben hacer las fuerzas de seguridad en sus normas de acceso? [cite: 1256]",
+      "pregunta": "¿Qué deben hacer las fuerzas de seguridad en sus normas de acceso? [cite: 1256]",
       "opciones": [
         "a) Impedir cualquier situación de discriminación profesional.",
         "b) Poner pruebas más fáciles a mujeres.",
@@ -933,7 +933,7 @@
       "respuesta_correcta": "a) Impedir cualquier situación de discriminación profesional."
     },
     {
-      [cite_start]"pregunta": "¿Se aplica la Ley de Igualdad a los actos administrativos? [cite: 973]",
+      "pregunta": "¿Se aplica la Ley de Igualdad a los actos administrativos? [cite: 973]",
       "opciones": [
         "a) Sí, transversalmente.",
         "b) No, solo a leyes.",
@@ -943,7 +943,7 @@
       "respuesta_correcta": "a) Sí, transversalmente."
     },
     {
-      [cite_start]"pregunta": "¿Qué implica la 'inversión de la carga de la prueba'? [cite: 948]",
+      "pregunta": "¿Qué implica la 'inversión de la carga de la prueba'? [cite: 948]",
       "opciones": [
         "a) Que el demandado debe probar que no discriminó.",
         "b) Que el demandante debe probar todo.",
@@ -953,7 +953,7 @@
       "respuesta_correcta": "a) Que el demandado debe probar que no discriminó."
     },
     {
-      [cite_start]"pregunta": "¿Qué derecho tienen las víctimas de discriminación? [cite: 938]",
+      "pregunta": "¿Qué derecho tienen las víctimas de discriminación? [cite: 938]",
       "opciones": [
         "a) A indemnización.",
         "b) A nada.",
@@ -963,7 +963,7 @@
       "respuesta_correcta": "a) A indemnización."
     },
     {
-      [cite_start]"pregunta": "¿Qué deben remover las Administraciones Públicas? [cite: 1188]",
+      "pregunta": "¿Qué deben remover las Administraciones Públicas? [cite: 1188]",
       "opciones": [
         "a) Los obstáculos que impliquen la pervivencia de cualquier tipo de discriminación.",
         "b) Los árboles.",
@@ -973,7 +973,7 @@
       "respuesta_correcta": "a) Los obstáculos que impliquen la pervivencia de cualquier tipo de discriminación."
     },
     {
-      [cite_start]"pregunta": "¿Qué se debe fomentar en el acceso al empleo público? [cite: 1190]",
+      "pregunta": "¿Qué se debe fomentar en el acceso al empleo público? [cite: 1190]",
       "opciones": [
         "a) La formación en igualdad.",
         "b) La competencia desleal.",
@@ -983,7 +983,7 @@
       "respuesta_correcta": "a) La formación en igualdad."
     },
     {
-      [cite_start]"pregunta": "¿Qué pasa si un acto administrativo causa discriminación? [cite: 938]",
+      "pregunta": "¿Qué pasa si un acto administrativo causa discriminación? [cite: 938]",
       "opciones": [
         "a) Es nulo.",
         "b) Es válido.",
@@ -993,7 +993,7 @@
       "respuesta_correcta": "a) Es nulo."
     },
     {
-      [cite_start]"pregunta": "¿Puede una asociación defender el derecho a la igualdad de sus socios? [cite: 945]",
+      "pregunta": "¿Puede una asociación defender el derecho a la igualdad de sus socios? [cite: 945]",
       "opciones": [
         "a) Sí, si tienen interés legítimo.",
         "b) No.",
@@ -1003,7 +1003,7 @@
       "respuesta_correcta": "a) Sí, si tienen interés legítimo."
     },
     {
-      [cite_start]"pregunta": "¿Qué es el informe de impacto de género? [cite: 984]",
+      "pregunta": "¿Qué es el informe de impacto de género? [cite: 984]",
       "opciones": [
         "a) Un documento que analiza el impacto de una norma en hombres y mujeres.",
         "b) Una denuncia.",
@@ -1013,7 +1013,7 @@
       "respuesta_correcta": "a) Un documento que analiza el impacto de una norma en hombres y mujeres."
     },
     {
-      [cite_start]"pregunta": "¿Es obligatorio el uso de lenguaje no sexista? [cite: 969]",
+      "pregunta": "¿Es obligatorio el uso de lenguaje no sexista? [cite: 969]",
       "opciones": [
         "a) Se implanta en el ámbito administrativo.",
         "b) No.",
@@ -1023,7 +1023,7 @@
       "respuesta_correcta": "a) Se implanta en el ámbito administrativo."
     },
     {
-      [cite_start]"pregunta": "¿Qué deben hacer las empresas respecto al acoso? [cite: 1167]",
+      "pregunta": "¿Qué deben hacer las empresas respecto al acoso? [cite: 1167]",
       "opciones": [
         "a) Promover condiciones de trabajo que lo eviten.",
         "b) Nada.",
@@ -1033,7 +1033,7 @@
       "respuesta_correcta": "a) Promover condiciones de trabajo que lo eviten."
     },
     {
-      [cite_start]"pregunta": "¿Qué se considera represalia? [cite: 936]",
+      "pregunta": "¿Qué se considera represalia? [cite: 936]",
       "opciones": [
         "a) Trato adverso por denunciar discriminación.",
         "b) Despido procedente.",
@@ -1043,7 +1043,7 @@
       "respuesta_correcta": "a) Trato adverso por denunciar discriminación."
     },
     {
-      [cite_start]"pregunta": "¿Qué deben incluir los temarios de oposiciones? [cite: 1231]",
+      "pregunta": "¿Qué deben incluir los temarios de oposiciones? [cite: 1231]",
       "opciones": [
         "a) El estudio del principio de igualdad.",
         "b) Cocina.",
@@ -1053,7 +1053,7 @@
       "respuesta_correcta": "a) El estudio del principio de igualdad."
     },
     {
-      [cite_start]"pregunta": "¿Quién debe velar por el cumplimiento de la Ley de Igualdad en los Ministerios? [cite: 1300]",
+      "pregunta": "¿Quién debe velar por el cumplimiento de la Ley de Igualdad en los Ministerios? [cite: 1300]",
       "opciones": [
         "a) Las Unidades de Igualdad.",
         "b) El Ministro solo.",

@@ -1,0 +1,17 @@
+# Habilita WebAssembly para Flutter Web (CanvasKit)
+<IfModule mod_headers.c>
+  # Ajusta la CSP para permitir Wasm (wasm-unsafe-eval). Si tu hosting no acepta esto, contacta soporte IONOS.
+  Header set Content-Security-Policy "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; object-src 'none';"
+</IfModule>
+
+<IfModule mod_mime.c>
+  # Asegura el tipo MIME correcto para archivos .wasm
+  AddType application/wasm .wasm
+</IfModule>
+
+# Si por alguna razón necesitas usar el fallback menos seguro, puedes reemplazar
+# 'wasm-unsafe-eval' por 'unsafe-eval' en la directiva script-src (no recomendado).
+# Ejemplo de fallback (descomentar si es necesario):
+# <IfModule mod_headers.c>
+#   Header set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; object-src 'none';"
+# </IfModule>
