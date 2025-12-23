@@ -11,6 +11,9 @@ class ResultsScreen extends StatefulWidget {
   final String topic;
   final String topicJson; // Added topicJson
   final bool saveResult;
+  final bool randomizeAcrossTopics;
+  final List<String>? allTopicsJson;
+  final int? presetQuestionCount;
 
   const ResultsScreen({
     super.key,
@@ -21,6 +24,9 @@ class ResultsScreen extends StatefulWidget {
     required this.topic,
     required this.topicJson, // Added topicJson
     this.saveResult = true,
+    this.randomizeAcrossTopics = false,
+    this.allTopicsJson,
+    this.presetQuestionCount,
   });
 
   @override
@@ -118,6 +124,9 @@ class _ResultsScreenState extends State<ResultsScreen> {
         'answers': widget.answers,
         'failedQuestions': failedQuestions,
         'topic': widget.topic,
+        'randomizeAcrossTopics': widget.randomizeAcrossTopics,
+        'presetQuestionCount': widget.presetQuestionCount,
+        'allTopicsJson': widget.allTopicsJson,
       };
 
       debugPrint('Saving payload: $payload');
@@ -262,6 +271,9 @@ class _ResultsScreenState extends State<ResultsScreen> {
                     builder: (context) => QuizScreen(
                       topic: widget.topic,
                       topicJson: widget.topicJson,
+                      randomizeAcrossTopics: widget.randomizeAcrossTopics,
+                      allTopicsJson: widget.allTopicsJson,
+                      presetQuestionCount: widget.presetQuestionCount,
                     ),
                   ),
                 );

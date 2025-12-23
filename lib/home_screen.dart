@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:gccabo/quiz_screen.dart';
+import 'package:gccabo/pdf_generator.dart';
+import 'dart:convert';
+import 'package:flutter/services.dart';
+import 'package:share_plus/share_plus.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:shared_preferences/shared_preferences.dart';
-import 'package:gccabo/auth/login_screen.dart';
 import 'package:gccabo/settings_screen.dart';
 import 'package:gccabo/results_list_screen.dart';
 
@@ -72,42 +74,230 @@ class HomeScreen extends StatelessWidget {
             icon: const Icon(Icons.logout),
             onPressed: () async {
               await FirebaseAuth.instance.signOut();
-
-              final prefs = await SharedPreferences.getInstance();
-              await prefs.setBool('isLoggedIn', false);
-
-              if (!context.mounted) return;
-
-              Navigator.of(context).pushAndRemoveUntil(
-                MaterialPageRoute(builder: (context) => const LoginScreen()),
-                (Route<dynamic> route) => false,
-              );
             },
           ),
         ],
       ),
-      body: ListView.builder(
-        itemCount: topics.length,
-        itemBuilder: (context, index) {
-          String topic = topics.keys.elementAt(index);
-          return Card(
-            color: Colors.green[200],
-            child: ListTile(
-              title: Text(topic),
-              onTap: () {
-                Navigator.of(context).push(
-                  MaterialPageRoute(
-                    builder: (context) => QuizScreen(
-                      topicJson: topics[topic]!,
-                      topic: topic,
+      body: ListView(
+        padding: const EdgeInsets.symmetric(vertical: 8),
+        children: [
+          ...topics.entries.map((entry) {
+            return Card(
+              color: Colors.green[200],
+              child: ListTile(
+                title: Text(entry.key),
+                onTap: () {
+                  Navigator.of(context).push(
+                    MaterialPageRoute(
+                      builder: (context) => QuizScreen(
+                        topicJson: entry.value,
+                        topic: entry.key,
+                      ),
                     ),
-                  ),
-                );
-              },
+                  );
+                },
+              ),
+            );
+          }),
+          const SizedBox(height: 12),
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 12.0),
+            child: Card(
+              color: Colors.blueGrey[50],
+              child: ListTile(
+                leading: const Icon(Icons.school),
+                title: const Text('Examen general'),
+                subtitle: const Text('Preguntas aleatorias de todos los temas'),
+                trailing: const Icon(Icons.arrow_forward_ios, size: 16),
+                onTap: () => _showExamDialog(context),
+              ),
             ),
-          );
-        },
+          ),
+          Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 12.0),
+            child: Card(
+              color: Colors.orange[50],
+              child: ListTile(
+                leading: const Icon(Icons.picture_as_pdf),
+                title: const Text('Generar PDF'),
+                subtitle: const Text('Crear PDF de preguntas y compartir'),
+                trailing: const Icon(Icons.arrow_forward_ios, size: 16),
+                onTap: () => _showPdfDialog(context),
+              ),
+            ),
+          ),
+          const SizedBox(height: 12),
+        ],
       ),
     );
+  }
+
+  void _showExamDialog(BuildContext context) {
+    showDialog(
+      context: context,
+      builder: (ctx) => AlertDialog(
+        title: const Text('Examen general'),
+        content: const Text('Elige cuántas preguntas quieres responder.'),
+        actions: [
+          TextButton(
+            onPressed: () {
+              Navigator.of(ctx).pop();
+              _startGeneralExam(context, 50);
+            },
+            child: const Text('50 preguntas'),
+          ),
+          TextButton(
+            onPressed: () {
+              Navigator.of(ctx).pop();
+              _startGeneralExam(context, 100);
+            },
+            child: const Text('100 preguntas'),
+          ),
+          TextButton(
+            onPressed: () => Navigator.of(ctx).pop(),
+            child: const Text('Cancelar'),
+          ),
+        ],
+      ),
+    );
+  }
+
+  void _startGeneralExam(BuildContext context, int totalQuestions) {
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => QuizScreen(
+          topicJson: '',
+          topic: 'Examen general',
+          randomizeAcrossTopics: true,
+          allTopicsJson: topics.values.toList(),
+          presetQuestionCount: totalQuestions,
+        ),
+      ),
+    );
+  }
+
+  void _showPdfDialog(BuildContext context) {
+    final TextEditingController numberController =
+        TextEditingController(text: '50');
+    String selectedTopic = topics.keys.first;
+
+    showDialog(
+      context: context,
+      builder: (ctx) => StatefulBuilder(
+        builder: (ctx, setState) => AlertDialog(
+          title: const Text('Generar PDF'),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text('Origen de las preguntas:'),
+              const SizedBox(height: 8),
+              DropdownButton<String>(
+                value: selectedTopic,
+                isExpanded: true,
+                items: [
+                  ...topics.keys.map((topic) => DropdownMenuItem(
+                        value: topic,
+                        child: Text(topic),
+                      )),
+                  const DropdownMenuItem(
+                    value: 'examen',
+                    child: Text('Examen general (todos los temas)'),
+                  ),
+                ],
+                onChanged: (value) {
+                  if (value == null) return;
+                  setState(() {
+                    selectedTopic = value;
+                  });
+                },
+              ),
+              const SizedBox(height: 12),
+              const Text('Número de preguntas:'),
+              TextField(
+                controller: numberController,
+                keyboardType: TextInputType.number,
+                decoration: const InputDecoration(
+                  hintText: 'Ej: 50',
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(ctx).pop(),
+              child: const Text('Cancelar'),
+            ),
+            TextButton(
+              onPressed: () async {
+                final count = int.tryParse(numberController.text) ?? 0;
+                if (count <= 0) return;
+                Navigator.of(ctx).pop();
+                await _handleGeneratePdf(context,
+                    topicKey: selectedTopic, count: count);
+              },
+              child: const Text('Generar'),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Future<void> _handleGeneratePdf(
+    BuildContext context, {
+    required String topicKey,
+    required int count,
+  }) async {
+    try {
+      List<Map<String, dynamic>> questions = [];
+      String title;
+
+      if (topicKey == 'examen') {
+        title = 'PDF de preguntas (Examen general)';
+        final List<Map<String, dynamic>> combined = [];
+        for (final path in topics.values) {
+          final String response = await rootBundle.loadString(path);
+          final data = await json.decode(response);
+          final qs = List<Map<String, dynamic>>.from(data[0]['preguntas']);
+          combined.addAll(qs);
+        }
+        combined.shuffle();
+        questions = combined.take(count).toList();
+      } else {
+        title = 'PDF de preguntas ($topicKey)';
+        final topicPath = topics[topicKey];
+        if (topicPath == null) {
+          throw Exception('Topic not found');
+        }
+        final String response = await rootBundle.loadString(topicPath);
+        final data = await json.decode(response);
+        final allQuestions =
+            List<Map<String, dynamic>>.from(data[0]['preguntas']);
+        allQuestions.shuffle();
+        questions = allQuestions.take(count).toList();
+      }
+
+      if (questions.isEmpty) {
+        if (!context.mounted) return;
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+              content: Text('No se pudieron cargar preguntas para el PDF.')),
+        );
+        return;
+      }
+
+      final file = await generateQuizPdf(title: title, questions: questions);
+
+      await Share.shareXFiles(
+        [XFile(file.path)],
+        text: 'Cuestionario GCcabo',
+      );
+    } catch (e) {
+      if (!context.mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Error generando PDF: $e')),
+      );
+    }
   }
 }

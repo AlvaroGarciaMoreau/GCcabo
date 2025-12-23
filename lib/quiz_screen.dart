@@ -7,8 +7,18 @@ import 'package:gccabo/results_screen.dart';
 class QuizScreen extends StatefulWidget {
   final String topic;
   final String topicJson;
+  final List<String>? allTopicsJson;
+  final bool randomizeAcrossTopics;
+  final int? presetQuestionCount;
 
-  const QuizScreen({super.key, required this.topic, required this.topicJson});
+  const QuizScreen({
+    super.key,
+    required this.topic,
+    required this.topicJson,
+    this.allTopicsJson,
+    this.randomizeAcrossTopics = false,
+    this.presetQuestionCount,
+  });
 
   @override
   QuizScreenState createState() => QuizScreenState();
@@ -34,7 +44,13 @@ class QuizScreenState extends State<QuizScreen> {
   void initState() {
     super.initState();
     WidgetsBinding.instance.addPostFrameCallback((_) {
-      _showNumberOfQuestionsDialog();
+      if (widget.randomizeAcrossTopics) {
+        final count = widget.presetQuestionCount ?? 50;
+        _numberOfQuestions = count;
+        _loadQuestionsFromMultipleTopics(count);
+      } else {
+        _showNumberOfQuestionsDialog();
+      }
     });
   }
 
@@ -49,6 +65,41 @@ class QuizScreenState extends State<QuizScreen> {
       _elapsedSeconds = 0;
     });
     _startTimer();
+  }
+
+  Future<void> _loadQuestionsFromMultipleTopics(int count) async {
+    try {
+      final List<Map<String, dynamic>> combined = [];
+      final topicSources = widget.allTopicsJson ?? [];
+
+      for (final jsonPath in topicSources) {
+        final String response = await rootBundle.loadString(jsonPath);
+        final data = await json.decode(response);
+        final questions = List<Map<String, dynamic>>.from(data[0]['preguntas']);
+        combined.addAll(questions);
+      }
+
+      if (combined.isEmpty) {
+        if (!mounted) return;
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('No se pudieron cargar preguntas.')),
+        );
+        return;
+      }
+
+      combined.shuffle();
+      setState(() {
+        _questions = combined.take(count).toList();
+        _startTime = DateTime.now();
+        _elapsedSeconds = 0;
+      });
+      _startTimer();
+    } catch (e) {
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Error cargando preguntas: $e')),
+      );
+    }
   }
 
   void _showNumberOfQuestionsDialog() {
@@ -154,6 +205,9 @@ class QuizScreenState extends State<QuizScreen> {
             answers: _answers,
             topic: widget.topic,
             topicJson: widget.topicJson, // Pass topicJson
+            randomizeAcrossTopics: widget.randomizeAcrossTopics,
+            allTopicsJson: widget.allTopicsJson,
+            presetQuestionCount: widget.presetQuestionCount,
           ),
         ),
       );

@@ -32,7 +32,7 @@ class RegisterScreenState extends State<RegisterScreen> {
 
         _showVerificationDialog();
       } on FirebaseAuthException catch (e) {
-        if (e.code == 'Contraseña debil') {
+        if (e.code == 'weak-password') {
           _errorMessage = 'La contraseña proporcionada es demasiado débil.';
         } else if (e.code == 'email-already-in-use') {
           _errorMessage = 'La cuenta ya existe para ese correo electrónico.';

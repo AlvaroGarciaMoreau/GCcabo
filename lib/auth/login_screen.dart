@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:gccabo/auth/register_screen.dart';
 import 'package:gccabo/home_screen.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
@@ -30,9 +29,6 @@ class LoginScreenState extends State<LoginScreen> {
         if (!mounted) return;
 
         if (userCredential.user!.emailVerified) {
-          final prefs = await SharedPreferences.getInstance();
-          await prefs.setBool('isLoggedIn', true);
-          if (!mounted) return;
           Navigator.of(context).pushReplacement(
             MaterialPageRoute(builder: (context) => HomeScreen()),
           );
@@ -44,9 +40,9 @@ class LoginScreenState extends State<LoginScreen> {
         }
       }
     } on FirebaseAuthException catch (e) {
-      if (e.code == 'usuario no existe') {
+      if (e.code == 'user-not-found') {
         _errorMessage = 'Ususario no encontrado con este email.';
-      } else if (e.code == 'Contraseña erronea') {
+      } else if (e.code == 'wrong-password') {
         _errorMessage = 'Contraseña erronea para este usuario.';
       } else {
         _errorMessage = e.message!;

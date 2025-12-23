@@ -49,6 +49,11 @@ class ResultsListScreen extends StatelessWidget {
               final total = data['totalQuestions'] ?? 0;
               final timeTaken = data['timeTaken'] ?? 0;
               final topic = data['topic'] ?? '';
+              final randomizeAcrossTopics = data['randomizeAcrossTopics'] == true;
+              final presetQuestionCount = data['presetQuestionCount'];
+              final allTopicsJson = (data['allTopicsJson'] as List<dynamic>?)
+                      ?.map((e) => e.toString())
+                      .toList();
               final date = data['date'] != null && data['date'] is Timestamp
                   ? (data['date'] as Timestamp).toDate()
                   : null;
@@ -83,6 +88,9 @@ class ResultsListScreen extends StatelessWidget {
                       answers: answers,
                       topic: topic ?? '',
                       topicJson: '',
+                      randomizeAcrossTopics: randomizeAcrossTopics,
+                      allTopicsJson: allTopicsJson,
+                      presetQuestionCount: presetQuestionCount is int ? presetQuestionCount : null,
                       saveResult: false, // don't save again when viewing
                     ),
                   ));
