@@ -9,11 +9,8 @@ class ResultsScreen extends StatefulWidget {
   final int timeTaken;
   final Map<String, Map<String, dynamic>> answers;
   final String topic;
-  final String topicJson; // Added topicJson
+  final List<String> topicJsons; // Changed to list
   final bool saveResult;
-  final bool randomizeAcrossTopics;
-  final List<String>? allTopicsJson;
-  final int? presetQuestionCount;
 
   const ResultsScreen({
     super.key,
@@ -22,11 +19,8 @@ class ResultsScreen extends StatefulWidget {
     required this.timeTaken,
     required this.answers,
     required this.topic,
-    required this.topicJson, // Added topicJson
+    required this.topicJsons, // Changed
     this.saveResult = true,
-    this.randomizeAcrossTopics = false,
-    this.allTopicsJson,
-    this.presetQuestionCount,
   });
 
   @override
@@ -124,9 +118,6 @@ class _ResultsScreenState extends State<ResultsScreen> {
         'answers': widget.answers,
         'failedQuestions': failedQuestions,
         'topic': widget.topic,
-        'randomizeAcrossTopics': widget.randomizeAcrossTopics,
-        'presetQuestionCount': widget.presetQuestionCount,
-        'allTopicsJson': widget.allTopicsJson,
       };
 
       debugPrint('Saving payload: $payload');
@@ -256,6 +247,13 @@ class _ResultsScreenState extends State<ResultsScreen> {
                             'Respuesta correcta: $correct',
                             style: const TextStyle(color: Colors.green),
                           ),
+                          if (data['cita'] != null) ...[
+                            const SizedBox(height: 4),
+                            Text(
+                              'Cita: ${data['cita']}',
+                              style: const TextStyle(fontSize: 10, fontStyle: FontStyle.italic, color: Colors.grey),
+                            ),
+                          ],
                         ],
                       ),
                     ),
@@ -270,10 +268,7 @@ class _ResultsScreenState extends State<ResultsScreen> {
                   MaterialPageRoute(
                     builder: (context) => QuizScreen(
                       topic: widget.topic,
-                      topicJson: widget.topicJson,
-                      randomizeAcrossTopics: widget.randomizeAcrossTopics,
-                      allTopicsJson: widget.allTopicsJson,
-                      presetQuestionCount: widget.presetQuestionCount,
+                      topicJsons: widget.topicJsons,
                     ),
                   ),
                 );

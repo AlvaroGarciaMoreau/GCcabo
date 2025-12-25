@@ -6,19 +6,10 @@ import 'package:gccabo/results_screen.dart';
 
 class QuizScreen extends StatefulWidget {
   final String topic;
-  final String topicJson;
-  final List<String>? allTopicsJson;
-  final bool randomizeAcrossTopics;
-  final int? presetQuestionCount;
+  final List<String> topicJsons;
+  final int? fixedNumberOfQuestions;
 
-  const QuizScreen({
-    super.key,
-    required this.topic,
-    required this.topicJson,
-    this.allTopicsJson,
-    this.randomizeAcrossTopics = false,
-    this.presetQuestionCount,
-  });
+  const QuizScreen({super.key, required this.topic, required this.topicJsons, this.fixedNumberOfQuestions});
 
   @override
   QuizScreenState createState() => QuizScreenState();
@@ -43,21 +34,30 @@ class QuizScreenState extends State<QuizScreen> {
   @override
   void initState() {
     super.initState();
-    WidgetsBinding.instance.addPostFrameCallback((_) {
-      if (widget.randomizeAcrossTopics) {
-        final count = widget.presetQuestionCount ?? 50;
-        _numberOfQuestions = count;
-        _loadQuestionsFromMultipleTopics(count);
-      } else {
+    if (widget.fixedNumberOfQuestions != null) {
+      _loadQuestions(widget.fixedNumberOfQuestions!);
+    } else {
+      WidgetsBinding.instance.addPostFrameCallback((_) {
         _showNumberOfQuestionsDialog();
-      }
-    });
+      });
+    }
   }
 
   Future<void> _loadQuestions(int count) async {
-    final String response = await rootBundle.loadString(widget.topicJson);
-    final data = await json.decode(response);
-    final allQuestions = List<Map<String, dynamic>>.from(data[0]['preguntas']);
+    List<Map<String, dynamic>> allQuestions = [];
+    for (String jsonPath in widget.topicJsons) {
+      final String response = await rootBundle.loadString(jsonPath);
+      final data = await json.decode(response);
+      List<Map<String, dynamic>> questions;
+      if (data[0] is List) {
+        // Tema 1 has [[obj]]
+        questions = List<Map<String, dynamic>>.from(data[0][0]['preguntas']);
+      } else {
+        // Other temas have [obj]
+        questions = List<Map<String, dynamic>>.from(data[0]['preguntas']);
+      }
+      allQuestions.addAll(questions);
+    }
     allQuestions.shuffle();
     setState(() {
       _questions = allQuestions.take(count).toList();
@@ -65,41 +65,6 @@ class QuizScreenState extends State<QuizScreen> {
       _elapsedSeconds = 0;
     });
     _startTimer();
-  }
-
-  Future<void> _loadQuestionsFromMultipleTopics(int count) async {
-    try {
-      final List<Map<String, dynamic>> combined = [];
-      final topicSources = widget.allTopicsJson ?? [];
-
-      for (final jsonPath in topicSources) {
-        final String response = await rootBundle.loadString(jsonPath);
-        final data = await json.decode(response);
-        final questions = List<Map<String, dynamic>>.from(data[0]['preguntas']);
-        combined.addAll(questions);
-      }
-
-      if (combined.isEmpty) {
-        if (!mounted) return;
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(content: Text('No se pudieron cargar preguntas.')),
-        );
-        return;
-      }
-
-      combined.shuffle();
-      setState(() {
-        _questions = combined.take(count).toList();
-        _startTime = DateTime.now();
-        _elapsedSeconds = 0;
-      });
-      _startTimer();
-    } catch (e) {
-      if (!mounted) return;
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text('Error cargando preguntas: $e')),
-      );
-    }
   }
 
   void _showNumberOfQuestionsDialog() {
@@ -145,13 +110,15 @@ class QuizScreenState extends State<QuizScreen> {
         _answers[questionText] = {
           'correct': correctAnswer,
           'selected': selectedAnswer,
-          'isCorrect': true
+          'isCorrect': true,
+          'cita': _questions[_currentQuestionIndex]['cita']
         };
       } else {
         _answers[questionText] = {
           'correct': correctAnswer,
           'selected': selectedAnswer,
-          'isCorrect': false
+          'isCorrect': false,
+          'cita': _questions[_currentQuestionIndex]['cita']
         };
       }
     });
@@ -204,10 +171,7 @@ class QuizScreenState extends State<QuizScreen> {
             timeTaken: timeTaken,
             answers: _answers,
             topic: widget.topic,
-            topicJson: widget.topicJson, // Pass topicJson
-            randomizeAcrossTopics: widget.randomizeAcrossTopics,
-            allTopicsJson: widget.allTopicsJson,
-            presetQuestionCount: widget.presetQuestionCount,
+            topicJsons: widget.topicJsons, // Pass topicJsons
           ),
         ),
       );
@@ -280,6 +244,14 @@ class QuizScreenState extends State<QuizScreen> {
                     _questions[_currentQuestionIndex]['pregunta'],
                     style: const TextStyle(fontSize: 18),
                   ),
+                  if (_questions[_currentQuestionIndex]['cita'] != null)
+                    Padding(
+                      padding: const EdgeInsets.only(top: 8.0),
+                      child: Text(
+                        'Cita: ${_questions[_currentQuestionIndex]['cita']}',
+                        style: const TextStyle(fontSize: 12, fontStyle: FontStyle.italic, color: Colors.grey),
+                      ),
+                    ),
                   const SizedBox(height: 20),
                   ...(_questions[_currentQuestionIndex]['opciones'] as List<dynamic>)
                       .map((answer) {

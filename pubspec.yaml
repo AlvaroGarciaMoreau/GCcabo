@@ -1,29 +1,29 @@
 name: gccabo
-description: "A new Flutter project."
+description: "Quiz de preguntas y respuestas sobre ascenso a Cabo de la Guardia Civil."
 
 
 
 version: 1.0.0+1
 
 environment:
-  sdk: ^3.10.3
+  sdk: '>=3.0.0 <4.0.0'
 
 
 dependencies:
   flutter:
     sdk: flutter
 
- 
+
   cupertino_icons: ^1.0.8
-  firebase_core: ^2.32.0
-  firebase_auth: ^4.20.0
+  firebase_core: ^2.31.0
+  firebase_auth: ^4.19.0
   provider: ^6.1.2
   shared_preferences: ^2.2.3
-  cloud_firestore: ^4.17.3
+  cloud_firestore: ^4.17.0
   intl: ^0.18.1
-  pdf: ^3.11.0
-  path_provider: ^2.1.5
-  share_plus: ^10.0.0
+  pdf: ^3.10.7
+  printing: ^5.12.0
+  fl_chart: ^0.66.2
 
 dev_dependencies:
   flutter_test:

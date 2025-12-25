@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'gccabo.firebasestorage.app',
     measurementId: 'G-LECZKRF5PN',
   );
+
 }

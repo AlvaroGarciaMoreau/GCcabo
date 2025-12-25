@@ -3,6 +3,8 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:gccabo/auth/login_screen.dart';
 import 'package:gccabo/theme_provider.dart';
+import 'package:flutter/services.dart' show rootBundle;
+import 'dart:convert';
 
 class SettingsScreen extends StatefulWidget {
   const SettingsScreen({super.key});
@@ -13,6 +15,7 @@ class SettingsScreen extends StatefulWidget {
 
 class _SettingsScreenState extends State<SettingsScreen> {
   bool _darkMode = false;
+  int totalQuestions = 0;
 
   final _formKey = GlobalKey<FormState>();
   final TextEditingController _currentPasswordController = TextEditingController();
@@ -28,6 +31,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
   void initState() {
     super.initState();
     _loadPrefs();
+    _countTotalQuestions();
   }
 
   Future<void> _loadPrefs() async {
@@ -35,6 +39,39 @@ class _SettingsScreenState extends State<SettingsScreen> {
     setState(() {
       _darkMode = prefs.getBool('darkMode') ?? false;
     });
+  }
+
+  Future<void> _countTotalQuestions() async {
+    int count = 0;
+    List<String> jsonPaths = [
+      'assets/Tema 1 ESTATUTO DEL PERSONAL DE LA GUARDIA CIVIL/ESTATUTO DEL PERSONAL DE LA GUARDIA CIVIL.json',
+      'assets/Tema 2 RÉGIMEN INTERIOR/Regimen anterior.json',
+      'assets/Tema 3 DEONTOLOGÍA PROFESIONAL/Deontologia profesional.json',
+      'assets/Tema 4 DERECHOS HUMANOS/Derechos Humanos.json',
+      'assets/Tema 5 DERECHO ADMINISTRATIVO/Derecho administrativo.json',
+      'assets/Tema 6 PROTECCIÓN DE LA SEGURIDAD CIUDADANA/Seguridad ciudadana.json',
+      'assets/Tema 7 DERECHO FISCAL/Derecho fiscal.json',
+      'assets/Tema 8 ARMAS, EXPLOSIVOS, ARTÍCULOS PIROTÉCNICOS Y CARTUCHERÍA/reglamento de armas.json',
+      'assets/Tema 9 PATRIMONIO NATURAL Y BIODIVERSIDAD/Patrimonio natural.json',
+      'assets/Tema 10 PROTECCIÓN INTEGRAL CONTRA LA VIOLENCIA DE GÉNERO Y ACTUACIÓN CON MENORES/Genero y menores.json',
+      'assets/Tema 11 DERECHO PENAL/derecho penal.json',
+      'assets/Tema 12 PODER JUDICIAL/poder judicial.json',
+      'assets/Tema 13 LEY DE ENJUICIAMIENTO CRIMINAL/Ley enjuiciamiento criminal.json',
+      'assets/Tema 14 IGUALDAD EFECTIVA DE MUJERES Y HOMBRES/igualdad.json',
+      'assets/Tema 15 PROTECCION CIVIL/Proteccion Civil.json',
+      'assets/Tema 16 TECNOLOGIAS DE LA INFORMACION Y LA COMUNICACION/Tecnologias.json',
+      'assets/TEMA 17 TOPOGRAFIA/Topografia.json',
+    ];
+    for (String path in jsonPaths) {
+      try {
+        String jsonString = await rootBundle.loadString(path);
+        List<dynamic> data = json.decode(jsonString);
+        count += (data[0]['preguntas'] as List).length;
+      } catch (e) {
+        // ignore errors
+      }
+    }
+    setState(() => totalQuestions = count);
   }
 
   Future<void> _setPref(String key, bool value) async {
@@ -204,12 +241,12 @@ class _SettingsScreenState extends State<SettingsScreen> {
           Center(
             child: Column(
               mainAxisSize: MainAxisSize.min,
-              children: const [
-                Text('Creado por Moreausoft', style: TextStyle(fontWeight: FontWeight.bold)),
-                SizedBox(height: 4),
-                Text('Diseñado especialmente para el Gua. Marrero.', style: TextStyle(fontSize: 12, color: Colors.grey)),
-                SizedBox(height: 6),
-                Text('Total preguntas 1768', style: TextStyle(fontSize: 12)),
+              children: [
+                const Text('Creado por Moreausoft', style: TextStyle(fontWeight: FontWeight.bold)),
+                const SizedBox(height: 4),
+                const Text('Diseñado especialmente para el Gua. Marrero.', style: TextStyle(fontSize: 12, color: Colors.grey)),
+                const SizedBox(height: 6),
+                Text('Total preguntas $totalQuestions', style: TextStyle(fontSize: 12)),
               ],
             ),
           ),
