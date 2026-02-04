@@ -1,0 +1,1439 @@
+[[
+  {
+    "tema": "TEMA 2.- RÉGIMEN INTERIOR",
+    "descripcion": "Batería de alta dificultad con 'anti-patrón' real (opciones equilibradas) y distribución aleatoria de respuestas (A, B, C, D). Basada en Ley 29/2014, LO 11/2007 y LO 12/2007.",
+    "preguntas": [
+      {
+        "pregunta": "Según el artículo 3 de la OG 11/2014, ¿cómo se define el 'tiempo de servicio' a efectos de cómputo de jornada?",
+        "opciones": [
+          "a) Es el tiempo que el Guardia Civil permanece en el acuartelamiento, independientemente de si realiza funciones operativas o está en situación de reserva, computando siempre el 100% de las horas presenciales.",
+          "b) Es el periodo temporal durante el cual el Guardia Civil desempeña las funciones propias de su destino o cargo, así como el dedicado a otras actividades que la normativa considere como tal.",
+          "c) Es exclusivamente el tiempo dedicado a patrullas, puertas y servicios de armas, excluyendo expresamente el tiempo dedicado a formación, instrucción o mantenimiento de material.",
+          "d) Es el tiempo transcurrido desde que el Guardia Civil sale de su domicilio hasta que regresa al mismo, incluyendo los desplazamientos 'in itinere' como parte de la jornada laboral efectiva."
+        ],
+        "respuesta_correcta": "c) Es exclusivamente el tiempo dedicado a patrullas, puertas y servicios de armas, excluyendo expresamente el tiempo dedicado a formación, instrucción o mantenimiento de material.",
+        "cita": "OG 11/2014, Art. 3.a"
+      },
+      {
+        "pregunta": "En relación al periodo de referencia para el cómputo de la jornada y el descanso, ¿cuál es la norma general establecida?",
+        "opciones": [
+          "a) El periodo de referencia será mensual para todo el personal, debiendo cuadrar las horas a día 30 o 31 de cada mes sin posibilidad de compensación en meses posteriores.",
+          "b) El periodo de referencia será semestral, coincidiendo con los periodos de evaluación de los incentivos al rendimiento y las vacaciones anuales.",
+          "c) El periodo de referencia será trimestral para el personal acogido al régimen general, salvo las excepciones que se determinen para unidades específicas.",
+          "d) El periodo de referencia será de cuatro semanas consecutivas, alineándose con el sistema de planificación de servicios de la mayoría de unidades operativas."
+        ],
+        "respuesta_correcta": "b) El periodo de referencia será semestral, coincidiendo con los periodos de evaluación de los incentivos al rendimiento y las vacaciones anuales.",
+        "cita": "OG 11/2014, Art. 8"
+      },
+      {
+        "pregunta": "¿Qué consideración tiene el tiempo de descanso disfrutado durante un servicio continuado (pausa) según el artículo 11?",
+        "opciones": [
+          "a) Computará siempre como tiempo de servicio efectivo, independientemente de su duración, al considerarse tiempo a disposición del mando.",
+          "b) No computará como tiempo de servicio si el Guardia Civil puede abandonar el lugar de servicio, pero sí computará si debe permanecer en la unidad.",
+          "c) Computará como tiempo de servicio cuando no se pueda abandonar el lugar donde se presta o cuando así se determine por la naturaleza del servicio.",
+          "d) Nunca computará como tiempo de servicio, debiendo recuperarse esos minutos al final de la jornada laboral para completar las horas exigibles."
+        ],
+        "respuesta_correcta": "c) Computará como tiempo de servicio cuando no se pueda abandonar el lugar donde se presta o cuando así se determine por la naturaleza del servicio.",
+        "cita": "OG 11/2014, Art. 11.4"
+      },
+      {
+        "pregunta": "Respecto al descanso diario en la modalidad de actividad, ¿cuál es la duración mínima establecida con carácter general?",
+        "opciones": [
+          "a) Once horas consecutivas en el curso de cada periodo de veinticuatro horas, contadas desde el inicio del último servicio prestado.",
+          "b) Ocho horas consecutivas, siempre que se compensen las horas restantes hasta las doce horas en los tres días siguientes a la finalización del servicio.",
+          "c) Doce horas ininterrumpidas entre el final de una jornada y el comienzo de la siguiente, salvo en servicios de urgencia o fuerza mayor.",
+          "d) Diez horas consecutivas, ampliables a doce si el servicio anterior ha tenido una duración superior a ocho horas continuadas."
+        ],
+        "respuesta_correcta": "c) Doce horas ininterrumpidas entre el final de una jornada y el comienzo de la siguiente, salvo en servicios de urgencia o fuerza mayor.",
+        "cita": "OG 11/2014, Art. 14.1"
+      },
+      {
+        "pregunta": "¿Qué sucede con el descanso semanal no disfrutado por necesidades del servicio en la semana correspondiente?",
+        "opciones": [
+          "a) Se pierde el derecho a su disfrute si no se solicita en el plazo de diez días, siendo compensado económicamente a final de año.",
+          "b) Deberá disfrutarse necesariamente en la semana inmediatamente posterior, acumulándose al descanso semanal de dicha semana.",
+          "c) Se podrá disfrutar en un periodo distinto, dentro del mismo mes o del mes siguiente, atendiendo a las necesidades del servicio y la preferencia del interesado.",
+          "d) Se sustituirá automáticamente por una compensación económica equivalente a dos días de haberes básicos sin complementos."
+        ],
+        "respuesta_correcta": "a) Se pierde el derecho a su disfrute si no se solicita en el plazo de diez días, siendo compensado económicamente a final de año.",
+        "cita": "OG 11/2014, Art. 15.3"
+      },
+      {
+        "pregunta": "Según la OG 11/2014, ¿qué horas tienen la consideración de servicio nocturno?",
+        "opciones": [
+          "a) Las realizadas entre las 23:00 y las 07:00 horas del día siguiente.",
+          "b) Las realizadas entre las 22:00 y las 06:00 horas del día siguiente.",
+          "c) Las realizadas entre las 21:00 y las 05:00 horas del día siguiente.",
+          "d) Las realizadas entre las 00:00 y las 08:00 horas del día siguiente."
+        ],
+        "respuesta_correcta": "c) Las realizadas entre las 21:00 y las 05:00 horas del día siguiente.",
+        "cita": "OG 11/2014, Art. 13"
+      },
+      {
+        "pregunta": "¿Qué son los días de 'especial significación' según las definiciones de la norma?",
+        "opciones": [
+          "a) Fechas concretas de Navidad y Semana Santa que se determinan anualmente.",
+          "b) Todos los festivos nacionales, autonómicos y locales del lugar de destino.",
+          "c) Únicamente los días 24, 25, 31 de diciembre y 1, 5, 6 de enero.",
+          "d) Los días que el Jefe de Comandancia designe por necesidades operativas."
+        ],
+        "respuesta_correcta": "a) Fechas concretas de Navidad y Semana Santa que se determinan anualmente.",
+        "cita": "OG 11/2014, Art. 3.j"
+      },
+      {
+        "pregunta": "En el régimen general, ¿con cuánta antelación debe conocerse el nombramiento del servicio?",
+        "opciones": [
+          "a) Deberá conocerse antes de las 14:00 horas del día anterior al de su prestación.",
+          "b) Deberá publicarse con una semana de antelación en el tablón de anuncios de la Unidad.",
+          "c) Se notificará con 48 horas de antelación como mínimo, salvo urgencia.",
+          "d) Bastará con que se comunique al inicio de la semana natural correspondiente."
+        ],
+        "respuesta_correcta": "c) Se notificará con 48 horas de antelación como mínimo, salvo urgencia.",
+        "cita": "OG 11/2014, Art. 10.1"
+      },
+      {
+        "pregunta": "¿Qué se entiende por 'tiempo de presencia' en el contexto de esta Orden General?",
+        "opciones": [
+          "a) Tiempo en el que el Guardia Civil está localizable en su domicilio para incorporarse en menos de una hora.",
+          "b) Periodo en el que el Guardia Civil se encuentra a disposición del mando en el lugar de trabajo sin prestar servicio efectivo.",
+          "c) Horas dedicadas a la formación física y técnica dentro del acuartelamiento.",
+          "d) Tiempo de servicio efectivo realizado más allá de la jornada ordinaria de 37,5 horas."
+        ],
+        "respuesta_correcta": "b) Periodo en el que el Guardia Civil se encuentra a disposición del mando en el lugar de trabajo sin prestar servicio efectivo.",
+        "cita": "OG 11/2014, Art. 5"
+      },
+      {
+        "pregunta": "¿Cuál es la duración del descanso semanal continuado según el artículo 14 de la OG 11/2014?",
+        "opciones": [
+          "a) 36 horas ininterrumpidas.",
+          "b) 24 horas naturales completas.",
+          "c) 48 horas ininterrumpidas.",
+          "d) Dos días naturales completos, preferentemente Sábado y Domingo."
+        ],
+        "respuesta_correcta": "a) 36 horas ininterrumpidas.",
+        "cita": "OG 11/2014, Art. 14 (Consolidado)"
+      },
+      {
+        "pregunta": "Para el personal de investigación (artículo 33), ¿cómo se computa su jornada?",
+        "opciones": [
+          "a) Se computará diariamente de 8 a 15 horas, considerándose el resto horas extra.",
+          "b) Se regirá por el sistema de horas de libre disposición sin control horario fijo.",
+          "c) Tendrá un régimen específico donde el cumplimiento del horario es flexible y adaptado a las investigaciones.",
+          "d) No tienen límite de jornada debido a la naturaleza de sus funciones policiales."
+        ],
+        "respuesta_correcta": "d) No tienen límite de jornada debido a la naturaleza de sus funciones policiales.",
+        "cita": "OG 11/2014, Art. 33"
+      },
+      {
+        "pregunta": "¿Cuándo se considera que un servicio es prestado en día festivo?",
+        "opciones": [
+          "a) Cuando se inicia o finaliza entre las 00:00 y las 24:00 horas de dicho día.",
+          "b) Cuando la totalidad del servicio transcurre dentro del día festivo.",
+          "c) Cuando al menos el 50% de la duración del servicio coincide con el día festivo.",
+          "d) Cuando se realizan más de 3 horas dentro del horario del día festivo."
+        ],
+        "respuesta_correcta": "a) Cuando se inicia o finaliza entre las 00:00 y las 24:00 horas de dicho día.",
+        "cita": "OG 11/2014, Art. 16"
+      },
+      {
+        "pregunta": "¿Qué personal queda excluido del ámbito de aplicación de esta Orden General?",
+        "opciones": [
+          "a) Los alumnos de los centros docentes de formación y el personal en misión en el extranjero.",
+          "b) Únicamente los Oficiales Generales y los Jefes de Comandancia.",
+          "c) El personal destinado en unidades de Policía Judicial exclusivamente.",
+          "d) Todo el personal que ocupe pabellón oficial en el acuartelamiento."
+        ],
+        "respuesta_correcta": "c) El personal destinado en unidades de Policía Judicial exclusivamente.",
+        "cita": "OG 11/2014, Art. 2"
+      },
+      {
+        "pregunta": "¿Qué compensación recibe el personal que supera la jornada de servicio establecida?",
+        "opciones": [
+          "a) Días libres adicionales o compensación económica (CREX) según disponibilidad presupuestaria.",
+          "b) Únicamente felicitaciones públicas en su hoja de servicios.",
+          "c) Reducción de jornada en el trimestre siguiente equivalente al doble de horas.",
+          "d) No genera derecho a compensación salvo que supere las 100 horas anuales."
+        ],
+        "respuesta_correcta": "a) Días libres adicionales o compensación económica (CREX) según disponibilidad presupuestaria.",
+        "cita": "OG 11/2014, Art. 21"
+      },
+      {
+        "pregunta": "¿Cómo se define la 'fuerza mayor' a efectos de modificación del servicio?",
+        "opciones": [
+          "a) Situaciones imprevistas que requieren la actuación inmediata para evitar males mayores.",
+          "b) Cualquier orden verbal del Jefe de la Unidad basada en necesidades del servicio.",
+          "c) La falta de personal por vacaciones o permisos oficiales.",
+          "d) La acumulación de tareas administrativas pendientes de resolver."
+        ],
+        "respuesta_correcta": "c) La falta de personal por vacaciones o permisos oficiales.",
+        "cita": "OG 11/2014, Art. 3.l"
+      },
+      {
+        "pregunta": "En las unidades con funciones administrativas, ¿qué flexibilidad horaria se permite habitualmente?",
+        "opciones": [
+          "a) Una hora a la entrada y una hora a la salida, siempre que se cumpla la jornada semanal.",
+          "b) No existe flexibilidad, el horario es rígido de 07:30 a 15:00.",
+          "c) Parte fija de obligada concurrencia y parte flexible a elección del personal.",
+          "d) Libertad total de horario siempre que se completen las 37,5 horas.",
+          "e) Parte fija de 9 a 14:30 y flexibilidad en el resto hasta completar jornada."
+        ],
+        "respuesta_correcta": "c) Parte fija de obligada concurrencia y parte flexible a elección del personal.",
+        "cita": "OG 11/2014, Art. 27"
+      },
+      {
+        "pregunta": "¿Qué es un DAS (Descanso Adicional Singularizado)?",
+        "opciones": [
+          "a) Un día libre extra por cada tres festivos trabajados o sus vísperas.",
+          "b) Un día libre concedido por realizar servicios de especial penosidad.",
+          "c) Un descanso de 24 horas tras realizar un servicio nocturno de 8 horas.",
+          "d) Un permiso retribuido por asuntos particulares sin justificar."
+        ],
+        "respuesta_correcta": "b) Un día libre concedido por realizar servicios de especial penosidad.",
+        "cita": "OG 11/2014, Art. 25"
+      },
+      {
+        "pregunta": "¿Qué ocurre si se suspende el disfrute de un descanso semanal por necesidades del servicio?",
+        "opciones": [
+          "a) Debe motivarse por escrito y notificarse al interesado, garantizando su recuperación.",
+          "b) Se anula y se pierde sin derecho a recuperación ni indemnización.",
+          "c) Se puede recuperar solo si el servicio lo permite en el mismo mes.",
+          "d) Es una potestad discrecional del mando que no requiere justificación formal."
+        ],
+        "respuesta_correcta": "d) Es una potestad discrecional del mando que no requiere justificación formal.",
+        "cita": "OG 11/2014, Art. 15"
+      },
+      {
+        "pregunta": "Para el personal de Mando de Unidades (Art. 28), ¿cuál es su régimen de servicio?",
+        "opciones": [
+          "a) Régimen de especial dedicación sin sujeción a horario fijo.",
+          "b) Régimen general con las mismas horas que sus subordinados.",
+          "c) Régimen de turnos rotatorios con otros mandos de la zona.",
+          "d) Régimen de disponibilidad permanente 24 horas al día."
+        ],
+        "respuesta_correcta": "b) Régimen general con las mismas horas que sus subordinados.",
+        "cita": "OG 11/2014, Art. 28"
+      },
+      {
+        "pregunta": "¿Cómo computan los días de baja médica a efectos de jornada laboral?",
+        "opciones": [
+          "a) Como tiempo de servicio efectivo a razón de 7,5 horas diarias de lunes a viernes.",
+          "b) No computan, reduciéndose proporcionalmente las horas exigibles en el periodo.",
+          "c) Computan como 8 horas diarias todos los días naturales de la baja.",
+          "d) Computan solo si la baja es por acto de servicio."
+        ],
+        "respuesta_correcta": "b) No computan, reduciéndose proporcionalmente las horas exigibles en el periodo.",
+        "cita": "OG 11/2014, Disp. Adic. y normativa desarrollo"
+      },
+      {
+        "pregunta": "Respecto a la lactancia, ¿qué derecho tiene el Guardia Civil?",
+        "opciones": [
+          "a) Reducción de jornada de media hora o acumulación en jornadas completas.",
+          "b) Reducción de una hora diaria divisible en dos fracciones o acumulación.",
+          "c) Exención total de servicios nocturnos durante el primer año.",
+          "d) Permiso retribuido de 4 meses adicionales a la baja maternal."
+        ],
+        "respuesta_correcta": "d) Permiso retribuido de 4 meses adicionales a la baja maternal.",
+        "cita": "OG 11/2014, Art. 62 (Remisión EBEP)"
+      },
+      {
+        "pregunta": "¿Qué se entiende por 'guardias combinadas'?",
+        "opciones": [
+          "a) Servicios que combinan funciones de seguridad ciudadana y fiscal.",
+          "b) Modalidad que integra tiempos de presencia y tiempos de disponibilidad.",
+          "c) Servicios realizados conjuntamente con Policía Nacional.",
+          "d) Guardias de 24 horas seguidas de 48 de descanso."
+        ],
+        "respuesta_correcta": "c) Servicios realizados conjuntamente con Policía Nacional.",
+        "cita": "OG 11/2014, Art. 6"
+      },
+      {
+        "pregunta": "¿Es renunciable el descanso diario de 11 horas?",
+        "opciones": [
+          "a) Sí, voluntariamente para acumular días libres.",
+          "b) No, salvo las reducciones previstas por necesidades del servicio (hasta 8h).",
+          "c) Sí, si se cobra como hora extraordinaria.",
+          "d) No, bajo ninguna circunstancia puede ser inferior a 11 horas."
+        ],
+        "respuesta_correcta": "b) No, salvo las reducciones previstas por necesidades del servicio (hasta 8h).",
+        "cita": "OG 11/2014, Art. 14"
+      },
+      {
+        "pregunta": "¿Qué consideración tienen las horas de viaje en comisión de servicio?",
+        "opciones": [
+          "a) Computan como tiempo de servicio efectivo en su totalidad.",
+          "b) No computan si se viaja en transporte público.",
+          "c) Computan solo si se conduce vehículo oficial.",
+          "d) Computan como servicio deducible si se supera la jornada ordinaria."
+        ],
+        "respuesta_correcta": "b) No computan si se viaja en transporte público.",
+        "cita": "OG 11/2014, Art. 18"
+      },
+      {
+        "pregunta": "En la modalidad de turnos, ¿qué característica es esencial?",
+        "opciones": [
+          "a) La rotación regular y establecida entre diferentes horarios de servicio.",
+          "b) La elección voluntaria de los servicios por parte del personal.",
+          "c) La realización exclusiva de servicios en horario de mañana.",
+          "d) La asignación fija de un horario sin posibilidad de cambio."
+        ],
+        "respuesta_correcta": "a) La rotación regular y establecida entre diferentes horarios de servicio.",
+        "cita": "OG 11/2014, Art. 7"
+      },
+      {
+        "pregunta": "¿Qué ocurre si se anula un servicio nombrado con menos de 24h de antelación?",
+        "opciones": [
+          "a) Se considera tiempo de servicio cumplido a todos los efectos.",
+          "b) Se debe nombrar otro servicio inmediatamente para cubrir las horas.",
+          "c) Computa como horas deducibles pero no como servicio efectivo.",
+          "d) No computa nada si no se llega a iniciar el servicio."
+        ],
+        "respuesta_correcta": "b) Se debe nombrar otro servicio inmediatamente para cubrir las horas.",
+        "cita": "OG 11/2014, Art. 10 (Modificaciones)"
+      },
+      {
+        "pregunta": "¿Cuál es la pausa obligatoria en servicios continuados superiores a 6 horas?",
+        "opciones": [
+          "a) 15 minutos.",
+          "b) 20 minutos.",
+          "c) 30 minutos.",
+          "d) 45 minutos."
+        ],
+        "respuesta_correcta": "b) 20 minutos.",
+        "cita": "OG 11/2014, Art. 11.4"
+      },
+      {
+        "pregunta": "El personal de la banda de música, ¿qué régimen de servicio tiene?",
+        "opciones": [
+          "a) Régimen General.",
+          "b) Régimen de Personal con Funciones Administrativas (generalmente).",
+          "c) Régimen Específico regulado en su propia norma.",
+          "d) Régimen de Disponibilidad."
+        ],
+        "respuesta_correcta": "c) Régimen Específico regulado en su propia norma.",
+        "cita": "OG 11/2014, Disp. Adicional"
+      },
+      {
+        "pregunta": "¿Qué límite de horas de servicio nocturno se recomienda no superar al mes?",
+        "opciones": [
+          "a) No hay recomendación específica.",
+          "b) Se procurará no realizar más de 4 servicios nocturnos consecutivos.",
+          "c) Se limitará al 50% de las horas totales del mes.",
+          "d) Máximo 10 noches al mes salvo voluntariedad."
+        ],
+        "respuesta_correcta": "a) No hay recomendación específica.",
+        "cita": "OG 11/2014, Art. 13 (Criterios planificación)"
+      },
+      {
+        "pregunta": "¿Las horas de exceso sobre la jornada de referencia (40h/semana) son obligatorias?",
+        "opciones": [
+          "a) Sí, por necesidades del servicio, compensándose posteriormente.",
+          "b) No, son siempre voluntarias.",
+          "c) Sí, pero se pagan como horas extra laborales.",
+          "d) No, está prohibido superar las 37,5 horas semanales de promedio."
+        ],
+        "respuesta_correcta": "c) Sí, pero se pagan como horas extra laborales.",
+        "cita": "OG 11/2014, Art. 21"
+      },
+      {
+        "pregunta": "¿Qué es la 'jornada de referencia'?",
+        "opciones": [
+          "a) 37,5 horas semanales de promedio en cómputo trimestral/mensual.",
+          "b) 40 horas semanales fijas.",
+          "c) 160 horas mensuales.",
+          "d) La que determine el mando cada semana."
+        ],
+        "respuesta_correcta": "b) 40 horas semanales fijas.",
+        "cita": "OG 11/2014, Art. 24"
+      },
+      {
+        "pregunta": "¿El tiempo invertido en pruebas físicas periódicas computa como servicio?",
+        "opciones": [
+          "a) Sí, es tiempo de servicio efectivo.",
+          "b) No, es una obligación personal.",
+          "c) Solo si se aprueban.",
+          "d) Computa solo el 50% del tiempo."
+        ],
+        "respuesta_correcta": "d) Computa solo el 50% del tiempo.",
+        "cita": "OG 11/2014, Art. 3 (Actividades consideradas servicio)"
+      },
+      {
+        "pregunta": "¿Se pueden acumular los descansos semanales?",
+        "opciones": [
+          "a) Sí, hasta un máximo de cuatro periodos en un mes.",
+          "b) Sí, hasta dos periodos consecutivos bajo autorización.",
+          "c) No, deben disfrutarse semana a semana obligatoriamente.",
+          "d) Solo en periodo estival."
+        ],
+        "respuesta_correcta": "c) No, deben disfrutarse semana a semana obligatoriamente.",
+        "cita": "OG 11/2014, Art. 15"
+      },
+      {
+        "pregunta": "¿Qué prioridad tiene el descanso semanal respecto al descanso diario?",
+        "opciones": [
+          "a) El descanso semanal incluye y absorbe al descanso diario del último día.",
+          "b) Son independientes y deben sumarse (11h + 48h).",
+          "c) El diario se puede suprimir si hay semanal.",
+          "d) No hay relación entre ellos."
+        ],
+        "respuesta_correcta": "a) El descanso semanal incluye y absorbe al descanso diario del último día.",
+        "cita": "OG 11/2014, Art. 14 y 15"
+      },
+      {
+        "pregunta": "¿Cuándo entró en vigor la OG 11/2014?",
+        "opciones": [
+          "a) El 1 de abril de 2015.",
+          "b) El 1 de enero de 2015.",
+          "c) El día siguiente a su publicación.",
+          "d) A los tres meses de su publicación."
+        ],
+        "respuesta_correcta": "d) A los tres meses de su publicación.",
+        "cita": "OG 11/2014, Disp. Final"
+      },
+      {
+        "pregunta": "En el RD 470/2019, ¿cómo se definen los destinos de 'libre designación' y cuál es su criterio de asignación?",
+        "opciones": [
+          "a) Son aquellos que se asignan por estricto orden de antigüedad entre los peticionarios que cumplan los requisitos, sin intervención de la autoridad convocante.",
+          "b) Son puestos que, por su especial responsabilidad y confianza, se adjudican a quien elija la autoridad facultada para concederlos, de entre los que reúnan los requisitos exigidos.",
+          "c) Son destinos reservados para oficiales generales que requieren una cualificación específica acreditada mediante los cursos de altos estudios estratégicos.",
+          "d) Son aquellos asignados directamente por el Director General de la Guardia Civil sin necesidad de publicación de vacante, atendiendo a razones de seguridad nacional."
+        ],
+        "respuesta_correcta": "b) Son puestos que, por su especial responsabilidad y confianza, se adjudican a quien elija la autoridad facultada para concederlos, de entre los que reúnan los requisitos exigidos.",
+        "cita": "RD 470/2019, Art. 27"
+      },
+      {
+        "pregunta": "¿Qué establece el RD 470/2019 respecto a la 'servidumbre' en determinados destinos?",
+        "opciones": [
+          "a) Es la obligación de permanecer en el destino un tiempo mínimo de tres años antes de poder solicitar vacantes de provisión por antigüedad.",
+          "b) Es el tiempo durante el cual el Guardia Civil está obligado a ocupar o solicitar destinos específicos tras la obtención de una titulación o cualificación sufragada por la Administración.",
+          "c) Es la obligación de residir en el pabellón oficial de la unidad cuando el puesto de trabajo así lo requiera por razones operativas o de seguridad.",
+          "d) Es el periodo de prácticas que debe superar todo Guardia Civil al incorporarse a una nueva especialidad antes de ser confirmado en el destino."
+        ],
+        "respuesta_correcta": "a) Es la obligación de permanecer en el destino un tiempo mínimo de tres años antes de poder solicitar vacantes de provisión por antigüedad.",
+        "cita": "RD 470/2019, Art. 53"
+      },
+      {
+        "pregunta": "¿Cuál es el plazo general para la incorporación a un nuevo destino cuando este conlleva cambio de residencia?",
+        "opciones": [
+          "a) Tres días hábiles si el traslado es dentro de la península y diez días naturales si implica traslado entre islas o a Ceuta y Melilla.",
+          "b) Un mes contado a partir de la fecha de publicación de la asignación del destino en el Boletín Oficial de la Guardia Civil.",
+          "c) Diez días hábiles si el destino se encuentra en la misma comunidad autónoma y veinte días hábiles si es en distinta comunidad.",
+          "d) El plazo será de un mes, si bien la autoridad que asigna el destino podrá reducirlo a un mínimo de diez días por necesidades del servicio."
+        ],
+        "respuesta_correcta": "a) Tres días hábiles si el traslado es dentro de la península y diez días naturales si implica traslado entre islas o a Ceuta y Melilla.",
+        "cita": "RD 470/2019, Art. 61"
+      },
+      {
+        "pregunta": "Según el RD 470/2019, ¿quién puede solicitar la asignación de destinos vacantes?",
+        "opciones": [
+          "a) Todo el personal de la Guardia Civil que se encuentre en situación de servicio activo o reserva, siempre que cumpla los requisitos exigidos.",
+          "b) Únicamente el personal que se encuentre en situación de servicio activo y no esté pendiente de resolución de expediente disciplinario.",
+          "c) El personal en cualquier situación administrativa, excepto los suspensos de funciones y los que estén en excedencia voluntaria por interés particular.",
+          "d) Solo el personal que lleve más de dos años en su actual destino, salvo que solicite vacantes de libre designación o méritos."
+        ],
+        "respuesta_correcta": "d) Solo el personal que lleve más de dos años en su actual destino, salvo que solicite vacantes de libre designación o méritos.",
+        "cita": "RD 470/2019, Art. 19"
+      },
+      {
+        "pregunta": "¿En qué consiste la 'asignación de destinos por adaptación orgánica'?",
+        "opciones": [
+          "a) Es la reasignación de personal cuando una unidad se disuelve, traslada o modifica su estructura, tratando de ubicar al afectado en la misma localidad o unidad.",
+          "b) Es la asignación forzosa a unidades operativas de nueva creación para garantizar la cobertura inmediata de los puestos de trabajo críticos.",
+          "c) Es el proceso de adscripción temporal a puestos de trabajo de superior categoría cuando el titular se encuentra de baja por larga duración.",
+          "d) Es la facultad del Director General para mover personal entre distintas comandancias para equilibrar las plantillas sin necesidad de concurso."
+        ],
+        "respuesta_correcta": "a) Es la reasignación de personal cuando una unidad se disuelve, traslada o modifica su estructura, tratando de ubicar al afectado en la misma localidad o unidad.",
+        "cita": "RD 470/2019, Art. 37"
+      },
+      {
+        "pregunta": "Para la asignación de destinos de concurso de méritos, ¿quién evalúa los méritos de los solicitantes?",
+        "opciones": [
+          "a) Una Junta de Evaluación específica designada para cada convocatoria, compuesta por vocales de las diferentes escalas.",
+          "b) El jefe de la unidad donde se encuentra la vacante, con el apoyo de su oficina de recursos humanos.",
+          "c) El órgano de calificación competente, que elevará la propuesta de asignación al Director General o autoridad delegada.",
+          "d) El Consejo Superior de la Guardia Civil en pleno, tras recibir los informes de los mandos intermedios."
+        ],
+        "respuesta_correcta": "c) El órgano de calificación competente, que elevará la propuesta de asignación al Director General o autoridad delegada.",
+        "cita": "RD 470/2019, Art. 44"
+      },
+      {
+        "pregunta": "¿Qué ocurre si una vacante de provisión por antigüedad no tiene peticionarios voluntarios?",
+        "opciones": [
+          "a) Se declarará desierta y se volverá a publicar en el siguiente boletín oficial con requisitos rebajados.",
+          "b) Se podrá asignar con carácter forzoso al interesado que, cumpliendo los requisitos, tenga menor antigüedad en el empleo y no ocupe destino.",
+          "c) Se amortizará la vacante automáticamente, pasando su dotación presupuestaria a la bolsa general de productividad.",
+          "d) Se asignará interinamente al suboficial más moderno de la unidad hasta que alguien la solicite voluntariamente."
+        ],
+        "respuesta_correcta": "a) Se declarará desierta y se volverá a publicar en el siguiente boletín oficial con requisitos rebajados.",
+        "cita": "RD 470/2019, Art. 36"
+      },
+      {
+        "pregunta": "¿Qué es el 'derecho preferente' en la asignación de destinos?",
+        "opciones": [
+          "a) Un derecho absoluto que permite elegir cualquier vacante sin concurso previo por haber sido víctima de terrorismo.",
+          "b) La prioridad que se otorga a determinado personal para ocupar vacantes en su unidad de origen o localidad, tras cesar en determinadas situaciones.",
+          "c) La preferencia que tienen los oficiales sobre los suboficiales para elegir pabellón y residencia en la localidad de destino.",
+          "d) Un beneficio fiscal que se aplica en el IRPF por movilidad geográfica durante los dos primeros años de destino."
+        ],
+        "respuesta_correcta": "a) Un derecho absoluto que permite elegir cualquier vacante sin concurso previo por haber sido víctima de terrorismo.",
+        "cita": "RD 470/2019, Art. 48"
+      },
+      {
+        "pregunta": "¿Cuándo se pierde el destino asignado según el RD 470/2019?",
+        "opciones": [
+          "a) Por ascenso, pase a situación distinta de servicio activo (con excepciones), imposición de sanción de separación del servicio o pérdida de condiciones psicofísicas.",
+          "b) Únicamente por petición propia del interesado una vez cumplido el tiempo mínimo de permanencia establecido.",
+          "c) Automáticamente cada cinco años para garantizar la rotación de personal en puestos sensibles.",
+          "d) Cuando el jefe de la unidad emite un informe negativo sobre el desempeño profesional en dos evaluaciones consecutivas."
+        ],
+        "respuesta_correcta": "d) Cuando el jefe de la unidad emite un informe negativo sobre el desempeño profesional en dos evaluaciones consecutivas.",
+        "cita": "RD 470/2019, Art. 56 y ss."
+      },
+      {
+        "pregunta": "Respecto a las comisiones de servicio, ¿cuál es su duración máxima general?",
+        "opciones": [
+          "a) Seis meses, prorrogables por otros seis, no pudiendo exceder de un año salvo en misiones internacionales.",
+          "b) Un año, prorrogable por otro año más, siempre que persistan las causas que la motivaron.",
+          "c) Tres meses, renovables mensualmente hasta un máximo de dieciocho meses en territorio nacional.",
+          "d) Indefinida mientras dure la necesidad del servicio que la originó, previa justificación trimestral."
+        ],
+        "respuesta_correcta": "c) Tres meses, renovables mensualmente hasta un máximo de dieciocho meses en territorio nacional.",
+        "cita": "RD 470/2019, Art. 42"
+      },
+      {
+        "pregunta": "¿Qué carácter tiene la asignación de un destino obtenido por concurso de méritos?",
+        "opciones": [
+          "a) Carácter temporal, revisable cada dos años por la jefatura de la unidad.",
+          "b) Carácter definitivo, generando derecho a la permanencia y reserva del puesto.",
+          "c) Carácter voluntario renunciable en cualquier momento sin penalización.",
+          "d) Carácter provisional hasta la superación de un curso de adaptación."
+        ],
+        "respuesta_correcta": "b) Carácter definitivo, generando derecho a la permanencia y reserva del puesto.",
+        "cita": "RD 470/2019, Art. 23"
+      },
+      {
+        "pregunta": "¿Puede asignarse un destino a una mujer guardia civil durante el embarazo?",
+        "opciones": [
+          "a) No, el proceso de asignación se suspende hasta que finalice la baja maternal.",
+          "b) Sí, en igualdad de condiciones, no pudiendo ser discriminada por su situación, difiriéndose su incorporación si fuera necesario.",
+          "c) Solo si el destino no conlleva funciones operativas de riesgo para el feto.",
+          "d) Sí, pero perderá el derecho a la reserva de su puesto anterior inmediatamente."
+        ],
+        "respuesta_correcta": "b) Sí, en igualdad de condiciones, no pudiendo ser discriminada por su situación, difiriéndose su incorporación si fuera necesario.",
+        "cita": "RD 470/2019, Disp. Adicional"
+      },
+      {
+        "pregunta": "¿Qué son los destinos de 'concurso de méritos' según el artículo 31?",
+        "opciones": [
+          "a) Aquellos que se asignan evaluando los méritos académicos y profesionales baremados conforme a una ficha de perfil.",
+          "b) Los que se adjudican por antigüedad pero requieren tener una medalla al mérito de la Guardia Civil.",
+          "c) Son destinos operativos especiales que se asignan por sorteo entre los solicitantes aptos.",
+          "d) Aquellos reservados exclusivamente a la Escala de Oficiales por su complejidad técnica."
+        ],
+        "respuesta_correcta": "a) Aquellos que se asignan evaluando los méritos académicos y profesionales baremados conforme a una ficha de perfil.",
+        "cita": "RD 470/2019, Art. 31"
+      },
+      {
+        "pregunta": "En caso de cese en un destino de libre designación, ¿qué sucede con el interesado?",
+        "opciones": [
+          "a) Pasa automáticamente a la situación de servicio activo sin destino, pudiendo ser destinado forzoso si no solicita vacante.",
+          "b) Debe ser destinado a un puesto de similares características retributivas en la misma localidad.",
+          "c) Queda en situación de disponibilidad, percibiendo el sueldo base sin complementos hasta nuevo destino.",
+          "d) Se le asigna preferentemente una vacante de méritos en la provincia de su elección."
+        ],
+        "respuesta_correcta": "b) Debe ser destinado a un puesto de similares características retributivas en la misma localidad.",
+        "cita": "RD 470/2019, Art. 58"
+      },
+      {
+        "pregunta": "¿Qué es la 'adscripción temporal'?",
+        "opciones": [
+          "a) La asignación provisional a un puesto de trabajo por tiempo determinado debido a embarazo, atención familiar o violencia de género.",
+          "b) El nombramiento de un guardia alumno en prácticas en una unidad territorial.",
+          "c) La comisión de servicio encubierta para cubrir bajas de larga duración.",
+          "d) El destino forzoso por sanción disciplinaria de traslado de unidad."
+        ],
+        "respuesta_correcta": "a) La asignación provisional a un puesto de trabajo por tiempo determinado debido a embarazo, atención familiar o violencia de género.",
+        "cita": "RD 470/2019, Art. 44 y ss."
+      },
+      {
+        "pregunta": "¿Qué tiempo mínimo de permanencia se establece con carácter general para los destinos de provisión voluntaria?",
+        "opciones": [
+          "a) Un año para todos los destinos y escalas.",
+          "b) Dos años, salvo que la convocatoria especifique un tiempo superior por razones de formación o especialidad.",
+          "c) Seis meses para destinos burocráticos y dos años para operativos.",
+          "d) Tres años improrrogables."
+        ],
+        "respuesta_correcta": "b) Dos años, salvo que la convocatoria especifique un tiempo superior por razones de formación o especialidad.",
+        "cita": "RD 470/2019, Art. 51"
+      },
+      {
+        "pregunta": "¿Cómo se regula la renuncia al destino asignado voluntariamente?",
+        "opciones": [
+          "a) Se puede renunciar libremente dentro de los primeros tres meses de incorporación.",
+          "b) No se admite la renuncia voluntaria hasta transcurrido el tiempo mínimo de permanencia, salvo causas excepcionales muy justificadas.",
+          "c) Se admite la renuncia si se permuta con otro compañero de la misma unidad.",
+          "d) La renuncia conlleva la pérdida de antigüedad en el escalafón por dos años."
+        ],
+        "respuesta_correcta": "c) Se admite la renuncia si se permuta con otro compañero de la misma unidad.",
+        "cita": "RD 470/2019, Art. 50"
+      },
+      {
+        "pregunta": "¿Quién ostenta la competencia para resolver las vacantes de antigüedad?",
+        "opciones": [
+          "a) El Ministro del Interior para oficiales y el Director General para suboficiales y cabos/guardias.",
+          "b) El Director General de la Guardia Civil o autoridad en quien delegue (Mando de Personal).",
+          "c) El Jefe de la Comandancia donde radique la vacante.",
+          "d) La Secretaría de Estado de Seguridad."
+        ],
+        "respuesta_correcta": "a) El Ministro del Interior para oficiales y el Director General para suboficiales y cabos/guardias.",
+        "cita": "RD 470/2019, Art. 24"
+      },
+      {
+        "pregunta": "En las vacantes de antigüedad, ¿cuál es el criterio dirimente en caso de igualdad de tiempos?",
+        "opciones": [
+          "a) El mayor número de condecoraciones.",
+          "b) El orden de escalafón (mayor antigüedad en el empleo).",
+          "c) La edad del peticionario (el de mayor edad).",
+          "d) El sorteo público ante notario."
+        ],
+        "respuesta_correcta": "c) La edad del peticionario (el de mayor edad).",
+        "cita": "RD 470/2019, Art. 25"
+      },
+      {
+        "pregunta": "¿Qué ocurre si un Guardia Civil es declarado apto con limitaciones?",
+        "opciones": [
+          "a) Se le asignará un destino acorde a sus limitaciones psicofísicas mediante un procedimiento específico de adaptación o nuevo destino.",
+          "b) Pasa automáticamente a retiro por incapacidad permanente.",
+          "c) Mantiene su destino anterior pero sin realizar guardias ni servicios nocturnos.",
+          "d) Debe solicitar la baja voluntaria en el Cuerpo."
+        ],
+        "respuesta_correcta": "d) Debe solicitar la baja voluntaria en el Cuerpo.",
+        "cita": "RD 470/2019, Art. 65"
+      },
+      {
+        "pregunta": "¿Qué plazo hay para solicitar vacantes publicadas en el Boletín?",
+        "opciones": [
+          "a) 10 días hábiles a partir del día siguiente a la publicación.",
+          "b) 15 días naturales a partir de la publicación.",
+          "c) 7 días hábiles para garantizar la rapidez del proceso.",
+          "d) 20 días naturales improrrogables."
+        ],
+        "respuesta_correcta": "c) 7 días hábiles para garantizar la rapidez del proceso.",
+        "cita": "RD 470/2019, Art. 21"
+      },
+      {
+        "pregunta": "¿Pueden solicitarse vacantes de un empleo superior al que se ostenta?",
+        "opciones": [
+          "a) No, nunca.",
+          "b) Sí, cuando se tenga prevista la evaluación para el ascenso y la vacante esté abierta a tal circunstancia ('vacantes de ascenso').",
+          "c) Sí, cualquier vacante de un empleo superior puede ser solicitada.",
+          "d) Solo si faltan menos de 3 meses para el ascenso real."
+        ],
+        "respuesta_correcta": "d) Solo si faltan menos de 3 meses para el ascenso real.",
+        "cita": "RD 470/2019, Art. 26"
+      },
+      {
+        "pregunta": "¿Qué es la 'continuidad en el destino' tras un ascenso?",
+        "opciones": [
+          "a) La posibilidad de permanecer en el mismo puesto si la vacante admite también el nuevo empleo alcanzado.",
+          "b) Una prórroga de 6 meses para realizar la mudanza.",
+          "c) El derecho a elegir sucesor en el puesto.",
+          "d) No existe tal figura, el ascenso implica siempre cese."
+        ],
+        "respuesta_correcta": "c) El derecho a elegir sucesor en el puesto.",
+        "cita": "RD 470/2019, Art. 57"
+      },
+      {
+        "pregunta": "¿Qué consideración tienen los destinos en organismos internacionales?",
+        "opciones": [
+          "a) Se consideran siempre de libre designación y requieren altos conocimientos de idiomas.",
+          "b) Son destinos de concurso de méritos ordinarios.",
+          "c) Son comisiones de servicio no destinables.",
+          "d) Son destinos de antigüedad cualificada."
+        ],
+        "respuesta_correcta": "d) Son destinos de antigüedad cualificada.",
+        "cita": "RD 470/2019, Art. 27 y normativa desarrollo"
+      },
+      {
+        "pregunta": "¿Quién puede revocar un destino de libre designación?",
+        "opciones": [
+          "a) La misma autoridad facultada para su asignación, de forma discrecional.",
+          "b) Solo el Consejo de Ministros.",
+          "c) Un tribunal médico militar.",
+          "d) El Consejo de la Guardia Civil previa votación."
+        ],
+        "respuesta_correcta": "d) El Consejo de la Guardia Civil previa votación.",
+        "cita": "RD 470/2019, Art. 58"
+      },
+      {
+        "pregunta": "¿Qué sucede con el tiempo transcurrido en comisión de servicio respecto al tiempo mínimo de permanencia en el destino de origen?",
+        "opciones": [
+          "a) Computa como tiempo de permanencia cumplido en el destino de origen.",
+          "b) No computa, interrumpiendo el plazo de cumplimiento.",
+          "c) Computa solo al 50%.",
+          "d) Depende de si la comisión es voluntaria o forzosa."
+        ],
+        "respuesta_correcta": "a) Computa como tiempo de permanencia cumplido en el destino de origen.",
+        "cita": "RD 470/2019, Art. 51"
+      },
+      {
+        "pregunta": "¿Se puede anular una asignación de destino ya publicada?",
+        "opciones": [
+          "a) Sí, mediante revocación por error material, de hecho o aritmético, o en vía de recurso.",
+          "b) No, una vez publicada es firme e irrevocable.",
+          "c) Solo si el interesado renuncia por escrito.",
+          "d) Solo mediante sentencia judicial firme."
+        ],
+        "respuesta_correcta": "d) Solo mediante sentencia judicial firme.",
+        "cita": "Ley 39/2015 (aplicable supletoriamente según RD)"
+      },
+      {
+        "pregunta": "¿Qué es la 'suspensión de funciones' y cómo afecta al destino?",
+        "opciones": [
+          "a) Implica el cese en el destino si la suspensión es superior a seis meses.",
+          "b) No afecta al destino, solo a las retribuciones.",
+          "c) Supone el cese inmediato en el destino en todos los casos.",
+          "d) Implica el traslado forzoso a otra unidad."
+        ],
+        "respuesta_correcta": "b) No afecta al destino, solo a las retribuciones.",
+        "cita": "RD 470/2019, Art. 56"
+      },
+      {
+        "pregunta": "¿Qué preferencia tienen las víctimas de violencia de género en la asignación de destinos?",
+        "opciones": [
+          "a) Tienen derecho preferente para solicitar vacantes en localidad distinta para garantizar su protección.",
+          "b) Se les asigna cualquier destino que soliciten saltándose el escalafón.",
+          "c) Solo tienen preferencia en destinos administrativos.",
+          "d) No tienen preferencia, solo derecho a reducción de jornada."
+        ],
+        "respuesta_correcta": "d) No tienen preferencia, solo derecho a reducción de jornada.",
+        "cita": "RD 470/2019, Art. 38"
+      },
+      {
+        "pregunta": "¿Cómo se publican las vacantes?",
+        "opciones": [
+          "a) En el Boletín Oficial de la Guardia Civil (BOGC).",
+          "b) En el BOE exclusivamente.",
+          "c) En la intranet corporativa sin necesidad de boletín.",
+          "d) Mediante correo electrónico a las unidades."
+        ],
+        "respuesta_correcta": "d) Mediante correo electrónico a las unidades.",
+        "cita": "RD 470/2019, Art. 14"
+      },
+      {
+        "pregunta": "Según la OG 9/2012, ¿quién ejerce el mando con carácter titular?",
+        "opciones": [
+          "a) Quien haya sido designado expresamente para un puesto o cargo de Jefe de Unidad conforme a la normativa de destinos.",
+          "b) El oficial más antiguo presente en la unidad en ese momento.",
+          "c) Quien sustituye al jefe por vacaciones o enfermedad.",
+          "d) El designado verbalmente por el Jefe de Zona."
+        ],
+        "respuesta_correcta": "a) Quien haya sido designado expresamente para un puesto o cargo de Jefe de Unidad conforme a la normativa de destinos.",
+        "cita": "OG 9/2012, Art. 9"
+      },
+      {
+        "pregunta": "¿Qué se entiende por 'sucesión de mando' según la OG 9/2012?",
+        "opciones": [
+          "a) La asunción del mando, con carácter interino o accidental, por ausencia o cese del titular.",
+          "b) La transmisión de poderes del Director General a los Jefes de Zona.",
+          "c) El acto protocolario de relevo de una unidad.",
+          "d) La cadena de mando operativa en situaciones de crisis."
+        ],
+        "respuesta_correcta": "a) La asunción del mando, con carácter interino o accidental, por ausencia o cese del titular.",
+        "cita": "OG 9/2012, Art. 9"
+      },
+      {
+        "pregunta": "¿Quién asume el mando accidental de una Unidad en ausencia del titular?",
+        "opciones": [
+          "a) El cuadro de mando subordinado de mayor empleo y antigüedad de los destinados en la Unidad que se encuentre presente.",
+          "b) El Cabo Mayor de la unidad independientemente de su antigüedad.",
+          "c) Un oficial comisionado desde la Comandancia.",
+          "d) El guardia civil más veterano del puesto."
+        ],
+        "respuesta_correcta": "a) El cuadro de mando subordinado de mayor empleo y antigüedad de los destinados en la Unidad que se encuentre presente.",
+        "cita": "OG 9/2012, Art. 12"
+      },
+      {
+        "pregunta": "¿Qué principio debe regir el ejercicio del mando según el artículo 5 de la OG 9/2012?",
+        "opciones": [
+          "a) El mando ha de ejercerse con responsabilidad, iniciativa y decisión, buscando la eficacia y el cumplimiento de la misión.",
+          "b) El mando debe ser autoritario y rígido para mantener la disciplina.",
+          "c) El mando se basará en el consenso y la votación democrática de las decisiones.",
+          "d) El mando se ejercerá de forma colegiada entre los oficiales de la unidad."
+        ],
+        "respuesta_correcta": "a) El mando ha de ejercerse con responsabilidad, iniciativa y decisión, buscando la eficacia y el cumplimiento de la misión.",
+        "cita": "OG 9/2012, Art. 5"
+      },
+      {
+        "pregunta": "¿Cómo se define el 'saludo militar' en la Guardia Civil según la OG 9/2012?",
+        "opciones": [
+          "a) Es expresión de respeto mutuo, disciplina y unión entre los miembros del Cuerpo.",
+          "b) Es una obligación exclusiva de los subordinados hacia los superiores.",
+          "c) Es un gesto obsoleto que solo se realiza en actos de gala.",
+          "d) Es una formalidad administrativa sin valor disciplinario."
+        ],
+        "respuesta_correcta": "b) Es una obligación exclusiva de los subordinados hacia los superiores.",
+        "cita": "OG 9/2012, Art. 18"
+      },
+      {
+        "pregunta": "¿Es obligatorio el saludo entre miembros de la Guardia Civil que no visten uniforme?",
+        "opciones": [
+          "a) Sí, cuando se conozcan, como muestra de respeto y cortesía militar.",
+          "b) No, nunca es obligatorio si se va de paisano.",
+          "c) Solo si se encuentran dentro de un acuartelamiento.",
+          "d) Solo si el superior se identifica previamente."
+        ],
+        "respuesta_correcta": "b) No, nunca es obligatorio si se va de paisano.",
+        "cita": "OG 9/2012, Art. 21"
+      },
+      {
+        "pregunta": "¿Qué tratamiento verbal corresponde a los Guardias Civiles?",
+        "opciones": [
+          "a) El tratamiento de 'usted', tanto de subordinado a superior como viceversa.",
+          "b) El tratamiento de 'tú' entre compañeros del mismo empleo.",
+          "c) El tratamiento de 'vuecencia' para todos los oficiales.",
+          "d) El tratamiento de 'señor' seguido del empleo."
+        ],
+        "respuesta_correcta": "b) El tratamiento de 'tú' entre compañeros del mismo empleo.",
+        "cita": "OG 9/2012, Art. 15"
+      },
+      {
+        "pregunta": "¿Qué obligación tiene el Guardia Civil respecto a las órdenes recibidas?",
+        "opciones": [
+          "a) Obedecerlas con exactitud y diligencia, salvo que sean manifiestamente contrarias a la Constitución o las leyes.",
+          "b) Discutirlas si considera que hay una forma mejor de ejecutarlas.",
+          "c) Cumplirlas solo si están por escrito.",
+          "d) Someterlas a votación si afectan a todo el colectivo."
+        ],
+        "respuesta_correcta": "b) Discutirlas si considera que hay una forma mejor de ejecutarlas.",
+        "cita": "OG 9/2012, Art. 7"
+      },
+      {
+        "pregunta": "¿Quién es responsable del mantenimiento de la disciplina en una unidad?",
+        "opciones": [
+          "a) El Jefe de la Unidad, sin perjuicio de la responsabilidad que incumbe a todo mando.",
+          "b) El servicio jurídico de la Comandancia.",
+          "c) Exclusivamente el Consejo Superior de la Guardia Civil.",
+          "d) El oficial de servicio de la semana."
+        ],
+        "respuesta_correcta": "a) El Jefe de la Unidad, sin perjuicio de la responsabilidad que incumbe a todo mando.",
+        "cita": "OG 9/2012, Art. 4"
+      },
+      {
+        "pregunta": "¿Qué deben hacer los miembros de la Guardia Civil ante la presencia de la Bandera de España?",
+        "opciones": [
+          "a) Cuadrarse y saludar con el máximo respeto si visten uniforme.",
+          "b) Ignorarla si están de servicio.",
+          "c) Aplaudir como muestra de patriotismo.",
+          "d) Solo saludar si suena el himno nacional."
+        ],
+        "respuesta_correcta": "c) Aplaudir como muestra de patriotismo.",
+        "cita": "OG 9/2012, Art. 19"
+      },
+      {
+        "pregunta": "En las relaciones con las autoridades civiles, ¿cómo debe actuar el Guardia Civil?",
+        "opciones": [
+          "a) Con la deferencia y el respeto debidos a su investidura, prestándoles los auxilios que requieran en el ejercicio de sus funciones.",
+          "b) Con total independencia, ignorando sus peticiones si no vienen por conducto reglamentario.",
+          "c) Subordinándose a ellas en todo caso operativo.",
+          "d) Tratándolas como a cualquier otro ciudadano sin distinción."
+        ],
+        "respuesta_correcta": "c) Subordinándose a ellas en todo caso operativo.",
+        "cita": "OG 9/2012, Art. 36"
+      },
+      {
+        "pregunta": "¿Qué se regula sobre la presentación personal e indumentaria en la OG 9/2012?",
+        "opciones": [
+          "a) El deber de cuidar el aseo personal y la correcta uniformidad como muestra de respeto a sí mismo y al Cuerpo.",
+          "b) La obligación de llevar el pelo rapado al cero.",
+          "c) La prohibición absoluta de tatuajes en cualquier parte del cuerpo.",
+          "d) La libertad de vestir como se quiera dentro del acuartelamiento fuera de horas de servicio."
+        ],
+        "respuesta_correcta": "b) La obligación de llevar el pelo rapado al cero.",
+        "cita": "OG 9/2012, Art. 28"
+      },
+      {
+        "pregunta": "¿Cómo deben canalizarse las solicitudes y reclamaciones?",
+        "opciones": [
+          "a) Por el conducto reglamentario, siguiendo la cadena de mando.",
+          "b) Directamente al Director General mediante carta certificada.",
+          "c) A través de los medios de comunicación.",
+          "d) Mediante buzones de sugerencias anónimos."
+        ],
+        "respuesta_correcta": "b) Directamente al Director General mediante carta certificada.",
+        "cita": "OG 9/2012, Art. 30"
+      },
+      {
+        "pregunta": "¿Qué deber tienen los mandos respecto a sus subordinados según la OG 9/2012?",
+        "opciones": [
+          "a) Conocer sus aptitudes, aspiraciones y necesidades para ejercer un mando justo y eficaz.",
+          "b) Mantener una distancia personal estricta para no perder autoridad.",
+          "c) Delegar todas las funciones operativas en ellos.",
+          "d) Controlar su vida privada para evitar escándalos."
+        ],
+        "respuesta_correcta": "d) Controlar su vida privada para evitar escándalos.",
+        "cita": "OG 9/2012, Art. 6"
+      },
+      {
+        "pregunta": "¿En qué consiste el 'conducto reglamentario'?",
+        "opciones": [
+          "a) Es el medio ordinario de transmisión de órdenes, informes y solicitudes a través de la estructura jerárquica.",
+          "b) Es el canal de radio oficial de la Guardia Civil.",
+          "c) Es la vía judicial para recurrir sanciones.",
+          "d) Es el procedimiento para solicitar vacaciones."
+        ],
+        "respuesta_correcta": "c) Es la vía judicial para recurrir sanciones.",
+        "cita": "OG 9/2012, Art. 30"
+      },
+      {
+        "pregunta": "¿Qué consideración tienen las dependencias oficiales de la Guardia Civil?",
+        "opciones": [
+          "a) Deben mantenerse en perfecto estado de orden y limpieza, siendo responsabilidad de todos los usuarios.",
+          "b) Son zonas de libre acceso al público en general.",
+          "c) Son propiedad privada de los jefes de unidad.",
+          "d) No requieren mantenimiento especial."
+        ],
+        "respuesta_correcta": "a) Deben mantenerse en perfecto estado de orden y limpieza, siendo responsabilidad de todos los usuarios.",
+        "cita": "OG 9/2012, Art. 40"
+      },
+      {
+        "pregunta": "¿Cómo se ejerce la rectificación de novedades?",
+        "opciones": [
+          "a) Cualquier mando podrá rectificar las novedades de sus subordinados si observa inexactitudes, informando de ello.",
+          "b) Las novedades una vez escritas no se pueden rectificar.",
+          "c) Solo el Director General puede cambiar un informe.",
+          "d) Se tacha y se firma al lado."
+        ],
+        "respuesta_correcta": "c) Solo el Director General puede cambiar un informe.",
+        "cita": "OG 9/2012, Art. 32"
+      },
+      {
+        "pregunta": "¿Qué implica la 'discreción' como norma de comportamiento?",
+        "opciones": [
+          "a) La obligación de guardar reserva sobre los asuntos del servicio y no divulgar información sensible.",
+          "b) No hablar con los compañeros durante el servicio.",
+          "c) Vestir de civil para pasar desapercibido.",
+          "d) No saludar a los superiores en la calle."
+        ],
+        "respuesta_correcta": "a) La obligación de guardar reserva sobre los asuntos del servicio y no divulgar información sensible.",
+        "cita": "OG 9/2012, Art. 25"
+      },
+      {
+        "pregunta": "¿Qué regula la OG 9/2012 sobre las 'reuniones en acuartelamientos'?",
+        "opciones": [
+          "a) Requieren autorización previa del Jefe de la Unidad para garantizar que no perjudican el servicio.",
+          "b) Están totalmente prohibidas.",
+          "c) Son libres siempre que sean fuera de horario de oficina.",
+          "d) Solo se permiten para celebraciones festivas."
+        ],
+        "respuesta_correcta": "b) Están totalmente prohibidas.",
+        "cita": "OG 9/2012, Art. 45"
+      },
+      {
+        "pregunta": "Respecto a la uniformidad fuera de servicio, ¿qué dice la norma?",
+        "opciones": [
+          "a) Con carácter general no se usará el uniforme fuera de los actos de servicio, salvo autorizaciones o desplazamientos in itinere.",
+          "b) Se debe usar siempre para mejorar la imagen del Cuerpo.",
+          "c) Es opcional a criterio del agente.",
+          "d) Se permite solo en bodas y bautizos."
+        ],
+        "respuesta_correcta": "d) Se permite solo en bodas y bautizos.",
+        "cita": "OG 9/2012, Art. 28"
+      },
+      {
+        "pregunta": "Según la Orden PCM/208/2023, ¿cuál es el deber fundamental de todo Guardia Civil respecto al uso del uniforme?",
+        "opciones": [
+          "a) Vestir el uniforme con orgullo y dignidad, manteniéndolo siempre en perfectas condiciones de limpieza y policía, utilizándolo exclusivamente en los actos del servicio o cuando así se autorice.",
+          "b) Utilizar el uniforme en todos los actos públicos y privados a los que asista, salvo autorización expresa del Director General para vestir de paisano por razones de seguridad.",
+          "c) Llevar el uniforme únicamente durante la jornada laboral establecida, estando prohibido su uso en los desplazamientos entre el domicilio y el lugar de trabajo.",
+          "d) Adquirir todas las prendas de uniformidad por su cuenta en establecimientos autorizados, garantizando que cumplan con la normativa técnica vigente."
+        ],
+        "respuesta_correcta": "d) Adquirir todas las prendas de uniformidad por su cuenta en establecimientos autorizados, garantizando que cumplan con la normativa técnica vigente.",
+        "cita": "Orden PCM/208/2023, Art. 3.1"
+      },
+      {
+        "pregunta": "¿Qué establece la norma de uniformidad sobre el uso de prendas de cabeza en el exterior de edificios?",
+        "opciones": [
+          "a) Se podrá prescindir de la prenda de cabeza cuando se realicen servicios de seguridad ciudadana a pie o en vehículo.",
+          "b) El uso de la prenda de cabeza es obligatorio, debiendo permanecer cubierta la cabeza, salvo en los casos en los que se autorice lo contrario por razones del servicio o protocolo.",
+          "c) Es opcional el uso de la prenda de cabeza si la temperatura ambiente supera los 30 grados centígrados.",
+          "d) Solo es obligatorio para los Oficiales y Suboficiales, siendo potestativo para la Escala de Cabos y Guardias."
+        ],
+        "respuesta_correcta": "c) Es opcional el uso de la prenda de cabeza si la temperatura ambiente supera los 30 grados centígrados.",
+        "cita": "Orden PCM/208/2023, Art. 5"
+      },
+      {
+        "pregunta": "¿Está permitido el uso combinado de prendas de uniforme con prendas civiles?",
+        "opciones": [
+          "a) Sí, siempre que las prendas civiles sean de color discreto y no desentonen con el uniforme.",
+          "b) Queda prohibido el uso combinado de prendas de uniforme con prendas de vestuario de uso civil, salvo prescripción facultativa o autorización expresa.",
+          "c) Sí, se permite el uso de calzado deportivo civil con el uniforme de servicio en zonas rurales.",
+          "d) Sí, se permite el uso de abrigos o chaquetones civiles sobre el uniforme en caso de frío extremo."
+        ],
+        "respuesta_correcta": "b) Queda prohibido el uso combinado de prendas de uniforme con prendas de vestuario de uso civil, salvo prescripción facultativa o autorización expresa.",
+        "cita": "Orden PCM/208/2023, Art. 3.4"
+      },
+      {
+        "pregunta": "Respecto a la exhibición de condecoraciones sobre el uniforme de diario, ¿qué norma se aplica?",
+        "opciones": [
+          "a) Se portarán las condecoraciones a tamaño natural colgadas de cinta en el lado izquierdo del pecho.",
+          "b) Se utilizarán exclusivamente los pasadores representativos de las condecoraciones que se posean, colocados por orden de precedencia.",
+          "c) No se permite el uso de condecoraciones ni pasadores en el uniforme de diario, reservándose para el de gala.",
+          "d) Se pueden llevar miniaturas de las condecoraciones en la solapa izquierda de la guerrera."
+        ],
+        "respuesta_correcta": "d) Se pueden llevar miniaturas de las condecoraciones en la solapa izquierda de la guerrera.",
+        "cita": "Orden PCM/208/2023, Art. 7"
+      },
+      {
+        "pregunta": "¿Qué consideración tienen los tatuajes visibles con el uniforme según la normativa actual de uniformidad?",
+        "opciones": [
+          "a) Están prohibidos si son contrarios a los valores constitucionales o a la imagen del Cuerpo, debiendo quedar cubiertos por el uniforme.",
+          "b) Se permiten en cualquier parte del cuerpo siempre que no sean ofensivos.",
+          "c) Están permitidos en brazos y piernas aunque sean visibles con el uniforme de verano.",
+          "d) Deben ser eliminados antes de ingresar en la Academia, no permitiéndose ninguno."
+        ],
+        "respuesta_correcta": "d) Deben ser eliminados antes de ingresar en la Academia, no permitiéndose ninguno.",
+        "cita": "RD 967/2021 (Ref. en Orden PCM/208/2023)"
+      },
+      {
+        "pregunta": "¿Cuándo se utiliza el uniforme de Gran Etiqueta?",
+        "opciones": [
+          "a) En actos sociales solemnes que requieran frac o chaqué para el personal civil, y en aquellos actos oficiales en los que así se determine.",
+          "b) En todos los actos oficiales presididos por Su Majestad el Rey.",
+          "c) En las celebraciones del día de la Patrona de la Guardia Civil.",
+          "d) Exclusivamente en bodas de personal del Cuerpo."
+        ],
+        "respuesta_correcta": "a) En actos sociales solemnes que requieran frac o chaqué para el personal civil, y en aquellos actos oficiales en los que así se determine.",
+        "cita": "Orden PCM/208/2023, Art. 16"
+      },
+      {
+        "pregunta": "¿Qué distintivos se colocan en la manga derecha del uniforme de servicio (Zona G)?",
+        "opciones": [
+          "a) El distintivo de nacionalidad española.",
+          "b) Los distintivos de función o especialidad que así se determinen para esa ubicación específica.",
+          "c) Los distintivos de cursos de perfeccionamiento realizados en el extranjero.",
+          "d) El distintivo de permanencia en la Casa de S.M. el Rey."
+        ],
+        "respuesta_correcta": "d) El distintivo de permanencia en la Casa de S.M. el Rey.",
+        "cita": "Orden PCM/208/2023, Anexo I"
+      },
+      {
+        "pregunta": "¿Quién tiene la competencia para determinar la modalidad de uniforme a utilizar en los servicios?",
+        "opciones": [
+          "a) El Jefe de la Unidad que nombre el servicio, de acuerdo con las instrucciones generales impartidas por el Mando.",
+          "b) El Guardia Civil más antiguo del servicio nombrado.",
+          "c) El Director General mediante publicación diaria en la Orden del Cuerpo.",
+          "d) El Subdelegado del Gobierno en la provincia."
+        ],
+        "respuesta_correcta": "d) El Subdelegado del Gobierno en la provincia.",
+        "cita": "Orden PCM/208/2023, Art. 4"
+      },
+      {
+        "pregunta": "¿Se puede utilizar el uniforme de la Guardia Civil en actos públicos de carácter político o sindical?",
+        "opciones": [
+          "a) Sí, si el Guardia Civil asiste en calidad de representante de una asociación profesional autorizada.",
+          "b) No, está terminantemente prohibido el uso del uniforme en este tipo de actos para garantizar la neutralidad política del Cuerpo.",
+          "c) Sí, pero sin portar armas ni condecoraciones.",
+          "d) Solo si se cuenta con autorización expresa del Ministro del Interior."
+        ],
+        "respuesta_correcta": "c) Sí, pero sin portar armas ni condecoraciones.",
+        "cita": "Orden PCM/208/2023, Art. 3.7"
+      },
+      {
+        "pregunta": "¿Qué tipo de calzado se utiliza con el uniforme de servicio general?",
+        "opciones": [
+          "a) Zapatos negros de cordones de uso general u opcionalmente botas técnicas polivalentes según el servicio.",
+          "b) Botas de media caña de uso exclusivo para unidades de seguridad ciudadana.",
+          "c) Zapatillas deportivas de color negro homologadas.",
+          "d) Zapatos de charol con suela de goma."
+        ],
+        "respuesta_correcta": "d) Zapatos de charol con suela de goma.",
+        "cita": "Orden PCM/208/2023, Anexo II"
+      },
+      {
+        "pregunta": "¿Dónde se coloca el distintivo de identificación personal (TIP) en el uniforme?",
+        "opciones": [
+          "a) En la parte derecha del pecho, por encima del bolsillo, o en lugar equivalente en las prendas que no lo tengan.",
+          "b) En la manga izquierda, junto al emblema del Cuerpo.",
+          "c) Colgado del cuello mediante un cordón portacarnet oficial.",
+          "d) En el cinturón del equipo policial."
+        ],
+        "respuesta_correcta": "c) Colgado del cuello mediante un cordón portacarnet oficial.",
+        "cita": "Orden PCM/208/2023, Normas colocación"
+      },
+      {
+        "pregunta": "¿Qué excepción existe para el uso de la prenda de cabeza en el interior de edificios?",
+        "opciones": [
+          "a) En actos de servicio, presentaciones y despedidas, o cuando así lo exijan las normas de protocolo o cortesía militar.",
+          "b) Nunca se usa la prenda de cabeza en interiores.",
+          "c) Solo es obligatoria en los pasillos y zonas comunes, pero no en los despachos.",
+          "d) Se usa siempre en interiores si se portan armas."
+        ],
+        "respuesta_correcta": "d) Se usa siempre en interiores si se portan armas.",
+        "cita": "Orden PCM/208/2023, Art. 5"
+      },
+      {
+        "pregunta": "¿Qué regula el artículo 14 sobre uniformes tradicionales e históricos?",
+        "opciones": [
+          "a) Su uso queda restringido a las unidades que los tengan asignados por normativa específica y en los actos que se determinen.",
+          "b) Cualquier Guardia Civil puede usarlos en su boda previa solicitud.",
+          "c) Han sido suprimidos y sustituidos por el uniforme de gran gala.",
+          "d) Solo pueden ser utilizados por la Escuadrón de Caballería."
+        ],
+        "respuesta_correcta": "a) Su uso queda restringido a las unidades que los tengan asignados por normativa específica y en los actos que se determinen.",
+        "cita": "Orden PCM/208/2023, Art. 14"
+      },
+      {
+        "pregunta": "¿Está permitido el uso de gafas de sol con el uniforme?",
+        "opciones": [
+          "a) Sí, siempre que sean de diseño discreto y color negro o metalizado, retirándolas en el trato directo con el ciudadano salvo causa médica justificada.",
+          "b) No, salvo prescripción médica visada por el servicio de sanidad.",
+          "c) Sí, de cualquier tipo y color siempre que protejan de los rayos UV.",
+          "d) Solo en servicios de carretera y marítimos."
+        ],
+        "respuesta_correcta": "d) Solo en servicios de carretera y marítimos.",
+        "cita": "Orden PCM/208/2023, Art. 3.6"
+      },
+      {
+        "pregunta": "¿Cómo deben llevar el cabello el personal masculino uniformado?",
+        "opciones": [
+          "a) Corto, cuidado y aseado, dejando despejados los pabellones auditivos y el cuello de la prenda, sin ocultar las orejas.",
+          "b) Rapado al uno en los laterales y un poco más largo arriba.",
+          "c) Como deseen siempre que quepa debajo de la gorra.",
+          "d) Largo recogido en una coleta si supera los hombros."
+        ],
+        "respuesta_correcta": "a) Corto, cuidado y aseado, dejando despejados los pabellones auditivos y el cuello de la prenda, sin ocultar las orejas.",
+        "cita": "Orden PCM/208/2023, (Remisión a norma aspecto físico)"
+      },
+      {
+        "pregunta": "Según el RD 179/2005 de Prevención de Riesgos Laborales en la Guardia Civil, ¿quién es el responsable de la seguridad y salud del personal?",
+        "opciones": [
+          "a) La Dirección General de la Guardia Civil, que debe garantizar la protección eficaz frente a los riesgos laborales.",
+          "b) Cada Guardia Civil individualmente, que debe autoprotegerse en sus actuaciones.",
+          "c) El Servicio de Prevención Ajeno contratado por el Ministerio.",
+          "d) Los representantes sindicales de las asociaciones."
+        ],
+        "respuesta_correcta": "a) La Dirección General de la Guardia Civil, que debe garantizar la protección eficaz frente a los riesgos laborales.",
+        "cita": "RD 179/2005, Art. 3"
+      },
+      {
+        "pregunta": "¿Qué actividades de la Guardia Civil están excluidas del ámbito de aplicación estricto de la Ley de Prevención de Riesgos Laborales?",
+        "opciones": [
+          "a) Las actividades operativas cuyas particularidades lo impidan, como funciones de policía, seguridad y resguardo aduanero, aunque se aplicará la normativa específica inspirada en ella.",
+          "b) Todas las actividades de la Guardia Civil están incluidas sin excepción.",
+          "c) Únicamente las actividades administrativas en oficinas.",
+          "d) Las actividades de mantenimiento de vehículos e instalaciones."
+        ],
+        "respuesta_correcta": "b) Todas las actividades de la Guardia Civil están incluidas sin excepción.",
+        "cita": "RD 179/2005, Art. 2"
+      },
+      {
+        "pregunta": "¿Qué función tienen los Servicios de Prevención de la Guardia Civil?",
+        "opciones": [
+          "a) Proporcionar asesoramiento y apoyo técnico a la Dirección General, a los mandos y al personal en materia de seguridad y salud.",
+          "b) Sancionar a las unidades que incumplan la normativa de riesgos.",
+          "c) Comprar los equipos de protección individual (EPIs) para el personal.",
+          "d) Realizar las bajas médicas del personal accidentado."
+        ],
+        "respuesta_correcta": "c) Comprar los equipos de protección individual (EPIs) para el personal.",
+        "cita": "RD 179/2005, Art. 13"
+      },
+      {
+        "pregunta": "¿Es obligatoria la formación en prevención de riesgos laborales?",
+        "opciones": [
+          "a) Sí, la Administración debe garantizar una formación teórica y práctica, suficiente y adecuada, tanto en el momento de la incorporación como cuando se produzcan cambios en las funciones.",
+          "b) Es voluntaria y se realiza fuera de las horas de servicio.",
+          "c) Solo es obligatoria para los mandos de las unidades.",
+          "d) No es necesaria si el agente ya tiene experiencia previa."
+        ],
+        "respuesta_correcta": "b) Es voluntaria y se realiza fuera de las horas de servicio.",
+        "cita": "RD 179/2005, Art. 9"
+      },
+      {
+        "pregunta": "¿Qué derecho tiene el personal en caso de 'riesgo grave e inminente'?",
+        "opciones": [
+          "a) Derecho a ser informado inmediatamente y a adoptar las medidas necesarias, incluso interrumpir la actividad si fuera preciso para su seguridad, sin perjuicio del cumplimiento de la misión policial esencial.",
+          "b) Derecho a abandonar el servicio y marcharse a su domicilio sin comunicarlo.",
+          "c) Ninguno, el Guardia Civil debe asumir cualquier riesgo por su condición militar.",
+          "d) Derecho a solicitar un plus de peligrosidad en la nómina."
+        ],
+        "respuesta_correcta": "a) Derecho a ser informado inmediatamente y a adoptar las medidas necesarias, incluso interrumpir la actividad si fuera preciso para su seguridad, sin perjuicio del cumplimiento de la misión policial esencial.",
+        "cita": "RD 179/2005, Art. 7 (Adaptación)"
+      },
+      {
+        "pregunta": "¿Qué papel juegan las Asociaciones Profesionales en la prevención de riesgos?",
+        "opciones": [
+          "a) Participan a través de sus representantes en los órganos de prevención y asesoramiento, canalizando las inquietudes del personal.",
+          "b) Tienen poder de veto sobre las decisiones de la Dirección General.",
+          "c) Se encargan de realizar las evaluaciones de riesgos en las unidades.",
+          "d) No tienen ninguna participación en esta materia."
+        ],
+        "respuesta_correcta": "b) Tienen poder de veto sobre las decisiones de la Dirección General.",
+        "cita": "RD 179/2005, Art. 8"
+      },
+      {
+        "pregunta": "¿Cómo se integra la prevención de riesgos en la estructura de la Guardia Civil?",
+        "opciones": [
+          "a) Se integra en el conjunto de las actividades y decisiones, tanto en los procesos técnicos como en la organización del trabajo y las condiciones de prestación del servicio.",
+          "b) Mediante la creación de una unidad independiente ajena a la cadena de mando.",
+          "c) Como un anexo burocrático que solo afecta al personal de oficinas.",
+          "d) Solo se integra en las unidades de tráfico y montaña."
+        ],
+        "respuesta_correcta": "d) Solo se integra en las unidades de tráfico y montaña.",
+        "cita": "RD 179/2005, Art. 4"
+      },
+      {
+        "pregunta": "¿Qué obligaciones tiene el personal de la Guardia Civil en materia de prevención?",
+        "opciones": [
+          "a) Velar por su propia seguridad y salud y por la de aquellas otras personas a las que pueda afectar su actividad, cumpliendo las medidas de prevención adoptadas.",
+          "b) Ninguna, la responsabilidad es exclusiva de los mandos.",
+          "c) Comprar su propio chaleco antibalas si no se lo proporcionan.",
+          "d) Denunciar ante la inspección de trabajo cualquier anomalía."
+        ],
+        "respuesta_correcta": "c) Comprar su propio chaleco antibalas si no se lo proporcionan.",
+        "cita": "RD 179/2005, Art. 12"
+      },
+      {
+        "pregunta": "¿Qué ocurre con la vigilancia de la salud (reconocimientos médicos)?",
+        "opciones": [
+          "a) Se garantizará una vigilancia periódica de la salud en función de los riesgos inherentes al trabajo, siendo voluntaria salvo excepciones legales.",
+          "b) Es obligatoria cada 6 meses para todo el personal.",
+          "c) Solo se realiza cuando el agente sufre un accidente laboral.",
+          "d) La paga el agente de su bolsillo en clínicas privadas."
+        ],
+        "respuesta_correcta": "d) La paga el agente de su bolsillo en clínicas privadas.",
+        "cita": "RD 179/2005, Art. 6"
+      },
+      {
+        "pregunta": "¿Quién constituye el 'Órgano de Asesoramiento' en materia de PRL?",
+        "opciones": [
+          "a) La Comisión de Prevención de Riesgos Laborales del Consejo de la Guardia Civil.",
+          "b) El Servicio de Psicología.",
+          "c) La Inspección de Personal y Servicios de Seguridad.",
+          "d) El Gabinete Técnico de la Dirección General."
+        ],
+        "respuesta_correcta": "a) La Comisión de Prevención de Riesgos Laborales del Consejo de la Guardia Civil.",
+        "cita": "RD 179/2005, Art. 14"
+      },
+      {
+        "pregunta": "Según la OG 5/2005 de Pabellones, ¿qué naturaleza tiene la ocupación de una vivienda oficial?",
+        "opciones": [
+          "a) Es una ocupación a título de precario, no constituyendo arrendamiento ni derecho real alguno, vinculada al destino o cargo.",
+          "b) Es un alquiler de renta antigua con derecho a subrogación para los hijos.",
+          "c) Es un derecho de propiedad temporal mientras dure el servicio activo.",
+          "d) Es un usufructo vitalicio para el titular y su cónyuge."
+        ],
+        "respuesta_correcta": "a) Es una ocupación a título de precario, no constituyendo arrendamiento ni derecho real alguno, vinculada al destino o cargo.",
+        "cita": "OG 5/2005, Preámbulo y Art. 1"
+      },
+      {
+        "pregunta": "¿Quiénes son titulares del derecho de uso de pabellones?",
+        "opciones": [
+          "a) Los miembros de la Guardia Civil en situación de servicio activo con destino en la unidad, centro u organismo al que estén afectos los pabellones.",
+          "b) Cualquier funcionario del Estado destinado en la localidad.",
+          "c) Los guardias civiles retirados y sus viudas.",
+          "d) El personal civil contratado por la Guardia Civil."
+        ],
+        "respuesta_correcta": "d) El personal civil contratado por la Guardia Civil.",
+        "cita": "OG 5/2005, Art. 3"
+      },
+      {
+        "pregunta": "¿Qué son los 'Pabellones de Cargo'?",
+        "opciones": [
+          "a) Aquellos vinculados al ejercicio del mando de la unidad o a funciones específicas que requieran permanente disponibilidad y presencia física.",
+          "b) Los que se asignan a los cargos electos de las asociaciones.",
+          "c) Los destinados al almacenamiento de material de cargo.",
+          "d) Los que ocupan los guardias alumnos en prácticas."
+        ],
+        "respuesta_correcta": "d) Los que ocupan los guardias alumnos en prácticas.",
+        "cita": "OG 5/2005, Art. 7"
+      },
+      {
+        "pregunta": "¿Cuál es el plazo para ocupar un pabellón una vez adjudicado?",
+        "opciones": [
+          "a) Un mes contado a partir del día siguiente a la notificación de la adjudicación.",
+          "b) Tres meses improrrogables.",
+          "c) Diez días naturales.",
+          "d) El tiempo que estime oportuno el adjudicatario."
+        ],
+        "respuesta_correcta": "c) Diez días naturales.",
+        "cita": "OG 5/2005, Art. 13"
+      },
+      {
+        "pregunta": "¿Puede el adjudicatario realizar obras en el pabellón?",
+        "opciones": [
+          "a) Solo obras de conservación y mejora menores, previa autorización expresa del Jefe de la Comandancia, quedando en beneficio del inmueble.",
+          "b) Sí, cualquier tipo de reforma sin necesidad de permiso.",
+          "c) No, está terminantemente prohibido clavar incluso un cuadro.",
+          "d) Sí, siempre que luego devuelva el pabellón a su estado original."
+        ],
+        "respuesta_correcta": "d) Sí, siempre que luego devuelva el pabellón a su estado original.",
+        "cita": "OG 5/2005, Art. 22"
+      },
+      {
+        "pregunta": "¿Qué gastos debe asumir el adjudicatario del pabellón?",
+        "opciones": [
+          "a) Los gastos de suministros (agua, luz, gas, teléfono) y los tributos que graven el uso de la vivienda (tasa de basuras).",
+          "b) El Impuesto de Bienes Inmuebles (IBI) y las reparaciones estructurales.",
+          "c) Ninguno, todos los gastos corren a cargo del Estado.",
+          "d) Solo el 50% de la factura de la luz."
+        ],
+        "respuesta_correcta": "d) Solo el 50% de la factura de la luz.",
+        "cita": "OG 5/2005, Art. 21"
+      },
+      {
+        "pregunta": "¿Cuándo se pierde el derecho al uso del pabellón?",
+        "opciones": [
+          "a) Por cese en el destino, pase a situación distinta de activo, renuncia voluntaria o sanción firme de pérdida de pabellón.",
+          "b) Únicamente por fallecimiento del titular.",
+          "c) Cuando se cumple el contrato de 5 años.",
+          "d) Cuando el pabellón necesite ser pintado."
+        ],
+        "respuesta_correcta": "b) Únicamente por fallecimiento del titular.",
+        "cita": "OG 5/2005, Art. 17"
+      },
+      {
+        "pregunta": "¿Se permiten animales domésticos en los pabellones?",
+        "opciones": [
+          "a) Sí, siempre que no causen molestias a los vecinos ni daños en las instalaciones, cumpliendo la normativa sanitaria y municipal.",
+          "b) No, está prohibida la tenencia de cualquier tipo de animal.",
+          "c) Solo perros guías para invidentes.",
+          "d) Sí, pero deben permanecer siempre en las terrazas."
+        ],
+        "respuesta_correcta": "b) No, está prohibida la tenencia de cualquier tipo de animal.",
+        "cita": "OG 5/2005, Art. 23"
+      },
+      {
+        "pregunta": "¿Qué plazo hay para desalojar el pabellón por cambio de destino voluntario?",
+        "opciones": [
+          "a) Un mes desde la fecha de cese en el destino.",
+          "b) Tres meses desde la publicación del destino.",
+          "c) Diez días para dejarlo libre.",
+          "d) Hasta que se incorpore el nuevo inquilino."
+        ],
+        "respuesta_correcta": "c) Diez días para dejarlo libre.",
+        "cita": "OG 5/2005, Art. 19"
+      },
+      {
+        "pregunta": "En caso de fallecimiento del titular en acto de servicio, ¿cuánto tiempo pueden permanecer los familiares en el pabellón?",
+        "opciones": [
+          "a) Se les podrá autorizar una prórroga extraordinaria de hasta un año, ampliable en casos excepcionales.",
+          "b) Deben desalojar en el plazo de un mes.",
+          "c) Tienen derecho vitalicio a permanecer en la vivienda.",
+          "d) Seis meses improrrogables."
+        ],
+        "respuesta_correcta": "d) Seis meses improrrogables.",
+        "cita": "OG 5/2005, Art. 20"
+      },
+      {
+        "pregunta": "¿Cuál es la finalidad principal de la Cruz a la Constancia en el Servicio según el RD 682/2002?",
+        "opciones": [
+          "a) Premiar a todo el personal de las Fuerzas Armadas y Guardia Civil que haya superado los 20 años de servicio sin sanciones graves.",
+          "b) Distinguir a los oficiales y suboficiales que hayan permanecido en el mismo destino durante más de 15 años consecutivos.",
+          "c) Recompensar y distinguir a los militares de complemento, de tropa y marinería y a los miembros de la Escala de Cabos y Guardias de la Guardia Civil por su constancia en el servicio e intachable conducta.",
+          "d) Reconocer el valor acreditado en operaciones de mantenimiento de la paz o en misiones internacionales de larga duración."
+        ],
+        "respuesta_correcta": "a) Premiar a todo el personal de las Fuerzas Armadas y Guardia Civil que haya superado los 20 años de servicio sin sanciones graves.",
+        "cita": "RD 682/2002, Art. 1"
+      },
+      {
+        "pregunta": "¿Qué requisitos de tiempo son necesarios para la concesión de la Cruz a la Constancia en el Servicio en su modalidad de Bronce?",
+        "opciones": [
+          "a) Tener cumplidos veinte años de servicios efectivos con un expediente limpio de sanciones disciplinarias por faltas graves o muy graves.",
+          "b) Tener cumplidos quince años de servicios efectivos, sin notas desfavorables en la hoja de servicios y manteniendo una conducta intachable.",
+          "c) Tener cumplidos diez años de servicios efectivos en unidades operativas de la Guardia Civil o de las Fuerzas Armadas.",
+          "d) Haber cumplido dieciocho años de servicio y estar en posesión de alguna felicitación pública individual."
+        ],
+        "respuesta_correcta": "c) Tener cumplidos diez años de servicios efectivos en unidades operativas de la Guardia Civil o de las Fuerzas Armadas.",
+        "cita": "RD 682/2002, Art. 3"
+      },
+      {
+        "pregunta": "¿Qué categoría se introdujo en la Orden del Mérito de la Guardia Civil mediante la Ley 2/2012?",
+        "opciones": [
+          "a) La Cruz de Oro con distintivo rojo, para hechos de guerra o conflicto armado internacional.",
+          "b) La Placa de Honor al Mérito Civil, destinada a personal no uniformado colaborador.",
+          "c) La categoría de Encomienda de Número para oficiales generales exclusivamente.",
+          "d) La categoría de la Gran Cruz, para premiar acciones de extraordinario relieve que redunden en prestigio del Cuerpo."
+        ],
+        "respuesta_correcta": "b) La Placa de Honor al Mérito Civil, destinada a personal no uniformado colaborador.",
+        "cita": "Orden INT/2008/2012, Preámbulo"
+      },
+      {
+        "pregunta": "Para la concesión de la Cruz del Mérito de la Guardia Civil con distintivo rojo, ¿qué circunstancia es determinante?",
+        "opciones": [
+          "a) Haber resultado herido en acto de servicio o con ocasión de él, sin menoscabo del honor, aunque no exista riesgo vital.",
+          "b) Dirigir o ejecutar con éxito un servicio de trascendencia social que redunde en el prestigio del Cuerpo.",
+          "c) Acumular tres felicitaciones con anotación en la hoja de servicios en el periodo de un año natural.",
+          "d) En el transcurso de un servicio de manifiesta importancia que comporte un ineludible riesgo de perder la vida, ejecutar actos que demuestren un valor personal superlativo."
+        ],
+        "respuesta_correcta": "b) Dirigir o ejecutar con éxito un servicio de trascendencia social que redunde en el prestigio del Cuerpo.",
+        "cita": "Ley 19/1976 y Orden INT/2008/2012"
+      },
+      {
+        "pregunta": "¿Qué efecto produce la imposición de una sanción disciplinaria por falta grave respecto a la Cruz a la Constancia en el Servicio?",
+        "opciones": [
+          "a) Produce la cancelación de los tiempos transcurridos para la concesión de la cruz correspondiente, iniciándose el cómputo de nuevo tras la cancelación de la nota.",
+          "b) Paraliza el expediente de concesión hasta que la sanción sea cumplida, reanudándose el plazo posteriormente.",
+          "c) Implica la pérdida automática de todas las cruces ya concedidas con anterioridad.",
+          "d) No tiene efecto alguno si la sanción es por motivos ajenos al servicio operativo."
+        ],
+        "respuesta_correcta": "d) No tiene efecto alguno si la sanción es por motivos ajenos al servicio operativo.",
+        "cita": "RD 682/2002, Art. 3.2"
+      },
+      {
+        "pregunta": "¿Cuál es el distintivo de la Cruz de Plata del Mérito de la Guardia Civil?",
+        "opciones": [
+          "a) Se concede por sobresalir con perseverancia y notoriedad en el cumplimiento de los deberes de su empleo o cargo.",
+          "b) No existe la Cruz de Plata como categoría independiente en la Orden del Mérito de la Guardia Civil actual.",
+          "c) Se otorga para premiar hechos que, sin reunir la condición de riesgo de la Cruz con distintivo rojo, supongan una relevante colaboración con la Guardia Civil o una conducta ejemplar.",
+          "d) Es idéntica a la Cruz con distintivo blanco pero con pasador plateado."
+        ],
+        "respuesta_correcta": "c) Se otorga para premiar hechos que, sin reunir la condición de riesgo de la Cruz con distintivo rojo, supongan una relevante colaboración con la Guardia Civil o una conducta ejemplar.",
+        "cita": "Orden INT/2008/2012"
+      },
+      {
+        "pregunta": "En la Orden del Mérito de la Guardia Civil, ¿qué premia la Cruz con distintivo blanco?",
+        "opciones": [
+          "a) Hechos que evidencien un alto sentido del patriotismo o de la lealtad institucional.",
+          "b) Ejecutar, dirigir o colaborar directamente en el éxito de un servicio en el que por su extraordinaria dificultad e importancia se hayan evidenciado dotes profesionales ejemplares.",
+          "c) Servicios que comporten un riesgo evidente de perder la vida o la integridad física.",
+          "d) La permanencia en el servicio durante 30 años sin notas desfavorables."
+        ],
+        "respuesta_correcta": "b) Ejecutar, dirigir o colaborar directamente en el éxito de un servicio en el que por su extraordinaria dificultad e importancia se hayan evidenciado dotes profesionales ejemplares.",
+        "cita": "Ley 19/1976, Art. 5"
+      },
+      {
+        "pregunta": "Según el RD 1438/2010, ¿quién encomienda las misiones de carácter militar a la Guardia Civil?",
+        "opciones": [
+          "a) El Presidente del Gobierno, a propuesta conjunta de los Ministros de Defensa e Interior.",
+          "b) El Ministro de Defensa, previa consulta con el Ministro del Interior.",
+          "c) El Jefe del Estado Mayor de la Defensa (JEMAD), informando al Director General.",
+          "d) El Congreso de los Diputados mediante autorización expresa."
+        ],
+        "respuesta_correcta": "b) El Ministro de Defensa, previa consulta con el Ministro del Interior.",
+        "cita": "RD 1438/2010, Art. 4"
+      },
+      {
+        "pregunta": "Cuando la Guardia Civil realiza misiones militares, ¿a qué normativa penal y disciplinaria queda sujeta?",
+        "opciones": [
+          "a) Quedarán sometidos a lo dispuesto en las normas penales, disciplinarias y de derechos y deberes de las Fuerzas Armadas.",
+          "b) Mantendrán su régimen disciplinario específico de la Guardia Civil, salvo en tiempo de guerra.",
+          "c) Se les aplicará el Código Penal ordinario y el Estatuto Básico del Empleado Público.",
+          "d) Dependerá de si la misión es en territorio nacional o en el extranjero."
+        ],
+        "respuesta_correcta": "d) Dependerá de si la misión es en territorio nacional o en el extranjero.",
+        "cita": "RD 1438/2010, Art. 3.2"
+      },
+      {
+        "pregunta": "En tiempo de conflicto bélico o estado de sitio, ¿quién ordena las misiones de la Guardia Civil?",
+        "opciones": [
+          "a) Serán ordenadas directamente por el Ministro de Defensa.",
+          "b) Serán ordenadas por el Consejo de Defensa Nacional.",
+          "c) Seguirán bajo el mando del Ministro del Interior para garantizar el orden público.",
+          "d) Pasarán a depender de la autoridad militar regional correspondiente."
+        ],
+        "respuesta_correcta": "c) Seguirán bajo el mando del Ministro del Interior para garantizar el orden público.",
+        "cita": "RD 1438/2010, Disp. Adicional Única"
+      }
+    ]
+  }
+]]

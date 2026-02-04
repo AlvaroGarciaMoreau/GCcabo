@@ -1,997 +1,1109 @@
-[ {
-  "tema": "TEMA 16.- TIC, LGTEL, ADMINISTRACIÓN DIGITAL Y CIBERSEGURIDAD (100 PREGUNTAS)",
-  "descripcion": "Preguntas basadas en Ley 11/2022 (Títulos I y III-Cap III), RD 1125/2024 (Caps I y III) y Guía CCN-CERT BP/01.",
-  "preguntas": [
-    {
-      "pregunta": "¿Cuál es el objeto de la Ley 11/2022, General de Telecomunicaciones?",
-      "opciones": [
-        "a) Regular los servicios de comunicación audiovisual.",
-        "b) La regulación de las telecomunicaciones, que comprenden la instalación y explotación de redes y la prestación de servicios de comunicaciones electrónicas.",
-        "c) Regular exclusivamente el uso del espectro radioeléctrico.",
-        "d) Regular los contenidos de internet."
-      ],
-      "respuesta_correcta": "b) La regulación de las telecomunicaciones, que comprenden la instalación y explotación de redes y la prestación de servicios de comunicaciones electrónicas."
-    },
-    {
-      "pregunta": "¿Qué consideración tienen las telecomunicaciones según el artículo 2 de la Ley 11/2022?",
-      "opciones": [
-        "a) Servicios públicos de titularidad estatal.",
-        "b) Servicios de interés general que se prestan en régimen de libre competencia.",
-        "c) Servicios privados sin regulación.",
-        "d) Servicios esenciales de titularidad municipal."
-      ],
-      "respuesta_correcta": "b) Servicios de interés general que se prestan en régimen de libre competencia."
-    },
-    {
-      "pregunta": "¿Están incluidos los servicios de comunicación audiovisual en el ámbito de la Ley General de Telecomunicaciones?",
-      "opciones": [
-        "a) Sí, totalmente.",
-        "b) No, están excluidos (salvo en lo relativo al transporte de señales).",
-        "c) Sí, pero solo la televisión pública.",
-        "d) Sí, si son por internet."
-      ],
-      "respuesta_correcta": "b) No, están excluidos (salvo en lo relativo al transporte de señales)."
-    },
-    {
-      "pregunta": "¿Qué objetivo persigue la Ley 11/2022 respecto al despliegue de redes?",
-      "opciones": [
-        "a) Frenarlo para ahorrar costes.",
-        "b) Promover el despliegue de redes y servicios de muy alta capacidad (como 5G) y la conectividad.",
-        "c) Mantener las redes de cobre.",
-        "d) Nacionalizar las redes."
-      ],
-      "respuesta_correcta": "b) Promover el despliegue de redes y servicios de muy alta capacidad (como 5G) y la conectividad."
-    },
-    {
-      "pregunta": "¿Qué artículo de la LGTel regula los servicios de telecomunicaciones para la seguridad nacional y protección civil?",
-      "opciones": [
-        "a) Artículo 1.",
-        "b) Artículo 4.",
-        "c) Artículo 10.",
-        "d) Artículo 20."
-      ],
-      "respuesta_correcta": "b) Artículo 4."
-    },
-    {
-      "pregunta": "¿Pueden los operadores negarse a colaborar en materia de seguridad pública?",
-      "opciones": [
-        "a) Sí, son empresas privadas.",
-        "b) No, tienen obligaciones de carácter público vinculadas a la defensa nacional, seguridad pública y protección civil.",
-        "c) Solo si no les pagan.",
-        "d) Sí, salvo estado de guerra."
-      ],
-      "respuesta_correcta": "b) No, tienen obligaciones de carácter público vinculadas a la defensa nacional, seguridad pública y protección civil."
-    },
-    {
-      "pregunta": "¿Quién garantiza el secreto de las comunicaciones en la LGTel?",
-      "opciones": [
-        "a) Solo los jueces.",
-        "b) Los operadores de redes y servicios de comunicaciones electrónicas.",
-        "c) Los usuarios.",
-        "d) Nadie."
-      ],
-      "respuesta_correcta": "b) Los operadores de redes y servicios de comunicaciones electrónicas."
-    },
-    {
-      "pregunta": "¿Cuándo se permite la interceptación de las comunicaciones sin consentimiento de los usuarios?",
-      "opciones": [
-        "a) Nunca.",
-        "b) Cuando haya resolución judicial (o en los casos previstos en la Constitución y las leyes).",
-        "c) Cuando lo pida la policía.",
-        "d) Cuando lo decida el operador."
-      ],
-      "respuesta_correcta": "b) Cuando haya resolución judicial (o en los casos previstos en la Constitución y las leyes)."
-    },
-    {
-      "pregunta": "¿Qué deben promover los operadores respecto al cifrado de las comunicaciones?",
-      "opciones": [
-        "a) Deben prohibirlo.",
-        "b) Deben garantizar el cifrado de extremo a extremo cuando sea técnicamente posible.",
-        "c) Es indiferente.",
-        "d) Solo para empresas."
-      ],
-      "respuesta_correcta": "b) Deben garantizar el cifrado de extremo a extremo cuando sea técnicamente posible."
-    },
-    {
-      "pregunta": "¿Qué es el 'spam' o comunicaciones no solicitadas según la LGTel?",
-      "opciones": [
-        "a) Está permitido siempre.",
-        "b) Los usuarios tienen derecho a no recibir llamadas automáticas sin intervención humana o mensajes comerciales sin su consentimiento previo.",
-        "c) Solo se prohíbe por correo postal.",
-        "d) Es legal si llaman de día."
-      ],
-      "respuesta_correcta": "b) Los usuarios tienen derecho a no recibir llamadas automáticas sin intervención humana o mensajes comerciales sin su consentimiento previo."
-    },
-    {
-      "pregunta": "¿Qué derecho tienen los usuarios finales sobre las guías de abonados?",
-      "opciones": [
-        "a) A aparecer obligatoriamente.",
-        "b) A figurar en ellas, y a decidir qué datos personales se incluyen o a no figurar.",
-        "c) A cobrar por aparecer.",
-        "d) A recibir una copia gratis."
-      ],
-      "respuesta_correcta": "b) A figurar en ellas, y a decidir qué datos personales se incluyen o a no figurar."
-    },
-    {
-      "pregunta": "¿Qué número es el número armonizado de interés social para casos de niños desaparecidos?",
-      "opciones": [
-        "a) 112.",
-        "b) 116000.",
-        "c) 091.",
-        "d) 062."
-      ],
-      "respuesta_correcta": "b) 116000."
-    },
-    {
-      "pregunta": "¿Qué obligación tienen los operadores respecto al número 112?",
-      "opciones": [
-        "a) Ninguna.",
-        "b) Garantizar el acceso gratuito y facilitar la información sobre la ubicación de la persona que llama.",
-        "c) Cobrar una tarifa reducida.",
-        "d) Redirigirlo al 091."
-      ],
-      "respuesta_correcta": "b) Garantizar el acceso gratuito y facilitar la información sobre la ubicación de la persona que llama."
-    },
-    {
-      "pregunta": "¿Qué es la 'Lista Robinson'? [Contexto LGTel]",
-      "opciones": [
-        "a) Una lista de morosos.",
-        "b) Una lista de exclusión publicitaria donde los usuarios se inscriben para no recibir comunicaciones comerciales.",
-        "c) Una lista de VIPs.",
-        "d) Una lista de delincuentes."
-      ],
-      "respuesta_correcta": "b) Una lista de exclusión publicitaria donde los usuarios se inscriben para no recibir comunicaciones comerciales."
-    },
-    {
-      "pregunta": "¿Qué se entiende por 'brecha de seguridad' de datos personales en telecomunicaciones?",
-      "opciones": [
-        "a) Un corte de luz.",
-        "b) La violación de la seguridad que provoca la destrucción, pérdida, alteración o acceso no autorizado a datos personales.",
-        "c) Una factura impagada.",
-        "d) Una avería del router."
-      ],
-      "respuesta_correcta": "b) La violación de la seguridad que provoca la destrucción, pérdida, alteración o acceso no autorizado a datos personales."
-    },
-    {
-      "pregunta": "¿A quién debe notificar el operador una violación de seguridad de datos personales?",
-      "opciones": [
-        "a) A nadie.",
-        "b) A la Agencia Española de Protección de Datos (y al abonado si le afecta gravemente).",
-        "c) Al Ministerio del Interior.",
-        "d) A la prensa."
-      ],
-      "respuesta_correcta": "b) A la Agencia Española de Protección de Datos (y al abonado si le afecta gravemente)."
-    },
-    {
-      "pregunta": "¿Qué es la 'interceptación legal'?",
-      "opciones": [
-        "a) Un delito.",
-        "b) La obligación de los operadores de facilitar al agente facultado (con orden judicial) la interceptación de comunicaciones.",
-        "c) Grabar llamadas de clientes.",
-        "d) Cortar la línea."
-      ],
-      "respuesta_correcta": "b) La obligación de los operadores de facilitar al agente facultado (con orden judicial) la interceptación de comunicaciones."
-    },
-    {
-      "pregunta": "¿Qué tipo de datos deben conservar los operadores obligatoriamente (Ley 25/2007 citada en LGTel)?",
-      "opciones": [
-        "a) El contenido de las llamadas.",
-        "b) Datos relativos al tráfico y localización (quién, cuándo, dónde, pero no el 'qué').",
-        "c) Las grabaciones de voz.",
-        "d) Los correos electrónicos leídos."
-      ],
-      "respuesta_correcta": "b) Datos relativos al tráfico y localización (quién, cuándo, dónde, pero no el 'qué')."
-    },
-    {
-      "pregunta": "¿Qué derecho tienen los usuarios sobre la identificación de línea llamante?",
-      "opciones": [
-        "a) A ocultar su número y a rechazar llamadas anónimas.",
-        "b) A saber siempre quién llama, incluso si oculta el número.",
-        "c) No tienen derechos.",
-        "d) A cambiar de número gratis cada mes."
-      ],
-      "respuesta_correcta": "a) A ocultar su número y a rechazar llamadas anónimas."
-    },
-    {
-      "pregunta": "Según la LGTel, ¿se pueden enviar correos comerciales (spam) sin consentimiento?",
-      "opciones": [
-        "a) Sí.",
-        "b) No, salvo que exista una relación contractual previa y sean productos similares.",
-        "c) Sí, a empresas.",
-        "d) Sí, si es publicidad política."
-      ],
-      "respuesta_correcta": "b) No, salvo que exista una relación contractual previa y sean productos similares."
-    },
-    {
-      "pregunta": "¿Qué es el 'servicio universal' de telecomunicaciones?",
-      "opciones": [
-        "a) Internet gratis para todos.",
-        "b) El conjunto definido de servicios cuya prestación se garantiza a todos los usuarios con independencia de su ubicación geográfica, a un precio asequible.",
-        "c) Tener móvil.",
-        "d) Ver la televisión."
-      ],
-      "respuesta_correcta": "b) El conjunto definido de servicios cuya prestación se garantiza a todos los usuarios con independencia de su ubicación geográfica, a un precio asequible."
-    },
-    {
-      "pregunta": "¿Incluye el servicio universal el acceso a internet de banda ancha?",
-      "opciones": [
-        "a) No.",
-        "b) Sí, a una velocidad adecuada (actualmente fijada en 10 Mbps ampliables).",
-        "c) Solo en ciudades.",
-        "d) Solo por satélite."
-      ],
-      "respuesta_correcta": "b) Sí, a una velocidad adecuada (actualmente fijada en 10 Mbps ampliables)."
-    },
-    {
-      "pregunta": "¿Quién gestiona el espectro radioeléctrico en España?",
-      "opciones": [
-        "a) Las operadoras.",
-        "b) El Estado (Gobierno/Ministerio).",
-        "c) La UE.",
-        "d) Los Ayuntamientos."
-      ],
-      "respuesta_correcta": "b) El Estado (Gobierno/Ministerio)."
-    },
-    {
-      "pregunta": "¿Qué autoridad sanciona las infracciones muy graves en materia de telecomunicaciones?",
-      "opciones": [
-        "a) La CNMC o el Ministerio (según competencias).",
-        "b) El Juez.",
-        "c) La Policía.",
-        "d) El Defensor del Pueblo."
-      ],
-      "respuesta_correcta": "a) La CNMC o el Ministerio (según competencias)."
-    },
-    {
-      "pregunta": "¿Qué son las 'cookies' según la normativa de privacidad electrónica?",
-      "opciones": [
-        "a) Galletas.",
-        "b) Dispositivos de almacenamiento y recuperación de datos en equipos terminales (requieren consentimiento informado salvo excepciones técnicas).",
-        "c) Virus.",
-        "d) Programas espía."
-      ],
-      "respuesta_correcta": "b) Dispositivos de almacenamiento y recuperación de datos en equipos terminales (requieren consentimiento informado salvo excepciones técnicas)."
-    },
-    {
-      "pregunta": "¿Qué derecho tienen los usuarios con discapacidad?",
-      "opciones": [
-        "a) A no pagar.",
-        "b) A acceder a los servicios de comunicaciones electrónicas en condiciones equivalentes al resto de usuarios.",
-        "c) A un móvil gratis.",
-        "d) A nada especial."
-      ],
-      "respuesta_correcta": "b) A acceder a los servicios de comunicaciones electrónicas en condiciones equivalentes al resto de usuarios."
-    },
-    {
-      "pregunta": "¿Qué es la 'portabilidad'?",
-      "opciones": [
-        "a) Llevar el móvil encima.",
-        "b) El derecho a conservar el número al cambiar de operador.",
-        "c) Cambiar de titular.",
-        "d) Dar de baja la línea."
-      ],
-      "respuesta_correcta": "b) El derecho a conservar el número al cambiar de operador."
-    },
-    {
-      "pregunta": "¿Qué plazo máximo tienen los operadores para ejecutar la portabilidad móvil?",
-      "opciones": [
-        "a) 1 día laborable.",
-        "b) 1 semana.",
-        "c) 1 mes.",
-        "d) 15 días."
-      ],
-      "respuesta_correcta": "a) 1 día laborable."
-    },
-    {
-      "pregunta": "¿Qué sucede con los saldos prepago no consumidos al cambiar de operador?",
-      "opciones": [
-        "a) Se pierden.",
-        "b) El usuario tiene derecho a su reembolso (con posible coste de gestión).",
-        "c) Se los queda el Estado.",
-        "d) Se donan."
-      ],
-      "respuesta_correcta": "b) El usuario tiene derecho a su reembolso (con posible coste de gestión)."
-    },
-    {
-      "pregunta": "¿Qué objetivo de conectividad establece la LGTel para el futuro?",
-      "opciones": [
-        "a) 1 Mbps para todos.",
-        "b) Universalizar el acceso a 100 Mbps para 2025.",
-        "c) Eliminar Internet.",
-        "d) Volver al cobre."
-      ],
-      "respuesta_correcta": "b) Universalizar el acceso a 100 Mbps para 2025."
-    },
-    {
-      "pregunta": "¿Cuál es el objeto del Real Decreto 1125/2024?",
-      "opciones": [
-        "a) Regular Internet en España.",
-        "b) Regular la organización y los instrumentos operativos para la Administración Digital de la Administración del Estado (AGE).",
-        "c) Crear una web del Gobierno.",
-        "d) Regular el teletrabajo."
-      ],
-      "respuesta_correcta": "b) Regular la organización y los instrumentos operativos para la Administración Digital de la Administración del Estado (AGE)."
-    },
-    {
-      "pregunta": "¿A qué entidades se aplica el RD 1125/2024?",
-      "opciones": [
-        "a) Solo a Ministerios.",
-        "b) A la Administración General del Estado y sus Organismos Públicos y Entidades de Derecho Público vinculados.",
-        "c) A las empresas privadas.",
-        "d) A las CCAA."
-      ],
-      "respuesta_correcta": "b) A la Administración General del Estado y sus Organismos Públicos y Entidades de Derecho Público vinculados."
-    },
-    {
-      "pregunta": "¿Quién es el máximo responsable de la transformación digital en un Ministerio según el modelo de gobernanza?",
-      "opciones": [
-        "a) El Ministro.",
-        "b) El Subsecretario.",
-        "c) El Director TIC.",
-        "d) El informático."
-      ],
-      "respuesta_correcta": "b) El Subsecretario (preside la CMAD)."
-    },
-    {
-      "pregunta": "¿Qué órgano colegiado es el encargado de la estrategia TIC global de la AGE?",
-      "opciones": [
-        "a) La Comisión de Estrategia TIC (CETIC).",
-        "b) La Comisión Ministerial de Administración Digital (CMAD).",
-        "c) El Consejo de Ministros.",
-        "d) La SGAD."
-      ],
-      "respuesta_correcta": "a) La Comisión de Estrategia TIC (CETIC)."
-    },
-    {
-      "pregunta": "¿Quién preside la Comisión de Estrategia TIC (CETIC)?",
-      "opciones": [
-        "a) El Presidente del Gobierno.",
-        "b) El titular del Ministerio para la Transformación Digital y de la Función Pública.",
-        "c) El Secretario General de Administración Digital.",
-        "d) El Rey."
-      ],
-      "respuesta_correcta": "b) El titular del Ministerio para la Transformación Digital y de la Función Pública."
-    },
-    {
-      "pregunta": "¿Qué son las CMAD?",
-      "opciones": [
-        "a) Comisiones Ministeriales de Administración Digital.",
-        "b) Centros de Mando.",
-        "c) Comités de Marketing.",
-        "d) Clubes de montaña."
-      ],
-      "respuesta_correcta": "a) Comisiones Ministeriales de Administración Digital."
-    },
-    {
-      "pregunta": "¿Cuál es la función principal de una CMAD?",
-      "opciones": [
-        "a) Comprar ordenadores.",
-        "b) Actuar como órgano de gobernanza interna en cada Ministerio para impulsar la transformación digital.",
-        "c) Sancionar.",
-        "d) Desarrollar software."
-      ],
-      "respuesta_correcta": "b) Actuar como órgano de gobernanza interna en cada Ministerio para impulsar la transformación digital."
-    },
-    {
-      "pregunta": "¿Qué órgano directivo impulsa la administración digital en la AGE?",
-      "opciones": [
-        "a) La Secretaría General de Administración Digital (SGAD).",
-        "b) El CNI.",
-        "c) El CCN.",
-        "d) El INE."
-      ],
-      "respuesta_correcta": "a) La Secretaría General de Administración Digital (SGAD)."
-    },
-    {
-      "pregunta": "¿Qué principio rige el modelo de gobernanza TIC de la AGE?",
-      "opciones": [
-        "a) Descentralización total.",
-        "b) Coordinación, cooperación y uso eficiente de recursos (servicios compartidos).",
-        "c) Aislamiento.",
-        "d) Gasto libre."
-      ],
-      "respuesta_correcta": "b) Coordinación, cooperación y uso eficiente de recursos (servicios compartidos)."
-    },
-    {
-      "pregunta": "¿Qué es la 'Declaración de Servicios Compartidos'?",
-      "opciones": [
-        "a) Declarar impuestos juntos.",
-        "b) La declaración por la CETIC de ciertos servicios TIC como de uso obligatorio o preferente para toda la AGE.",
-        "c) Compartir coche.",
-        "d) Una red social."
-      ],
-      "respuesta_correcta": "b) La declaración por la CETIC de ciertos servicios TIC como de uso obligatorio o preferente para toda la AGE."
-    },
-    {
-      "pregunta": "¿Qué son las Unidades TIC?",
-      "opciones": [
-        "a) Unidades policiales.",
-        "b) Unidades encargadas de la provisión y gestión de servicios TIC en cada Ministerio u Organismo.",
-        "c) Tiendas de informática.",
-        "d) Aulas de formación."
-      ],
-      "respuesta_correcta": "b) Unidades encargadas de la provisión y gestión de servicios TIC en cada Ministerio u Organismo."
-    },
-    {
-      "pregunta": "¿Qué es la 'Estrategia TIC' de la AGE?",
-      "opciones": [
-        "a) Un plan de marketing.",
-        "b) El marco estratégico global aprobado por el Consejo de Ministros (a propuesta de la CETIC) para la transformación digital.",
-        "c) Un software.",
-        "d) Una ley."
-      ],
-      "respuesta_correcta": "b) El marco estratégico global aprobado por el Consejo de Ministros (a propuesta de la CETIC) para la transformación digital."
-    },
-    {
-      "pregunta": "¿Qué es el 'Plan de Acción Departamental para la Transformación Digital'?",
-      "opciones": [
-        "a) El plan específico de cada Ministerio para aplicar la estrategia digital, aprobado por su CMAD.",
-        "b) Un plan de evacuación.",
-        "c) Un presupuesto.",
-        "d) Un inventario."
-      ],
-      "respuesta_correcta": "a) El plan específico de cada Ministerio para aplicar la estrategia digital, aprobado por su CMAD."
-    },
-    {
-      "pregunta": "¿Quién aprueba el Plan de Acción Departamental?",
-      "opciones": [
-        "a) El Ministro.",
-        "b) La CMAD del Departamento (tras informe de la SGAD).",
-        "c) El BOE.",
-        "d) Los funcionarios."
-      ],
-      "respuesta_correcta": "b) La CMAD del Departamento (tras informe de la SGAD)."
-    },
-    {
-      "pregunta": "¿Qué función tiene la Agencia Estatal de Administración Tributaria en este modelo?",
-      "opciones": [
-        "a) Ninguna.",
-        "b) Tiene un régimen singular por sus especificidades, aunque se coordina.",
-        "c) Manda sobre todos.",
-        "d) Es la SGAD."
-      ],
-      "respuesta_correcta": "b) Tiene un régimen singular por sus especificidades, aunque se coordina."
-    },
-    {
-      "pregunta": "¿Qué es la 'Nube de la AGE'? [Contexto RD 1125/2024]",
-      "opciones": [
-        "a) Lluvia.",
-        "b) Infraestructura de computación en nube híbrida para la prestación de servicios a la AGE.",
-        "c) Un archivo físico.",
-        "d) Una red social."
-      ],
-      "respuesta_correcta": "b) Infraestructura de computación en nube híbrida para la prestación de servicios a la AGE."
-    },
-    {
-      "pregunta": "¿Qué es un 'hacker'?",
-      "opciones": [
-        "a) Un delincuente siempre.",
-        "b) Una persona con profundos conocimientos técnicos que puede usarlos para mejorar la seguridad (ético) o para atacar (ciberdelincuente/black hat).",
-        "c) Un virus.",
-        "d) Un antivirus."
-      ],
-      "respuesta_correcta": "b) Una persona con profundos conocimientos técnicos que puede usarlos para mejorar la seguridad (ético) o para atacar (ciberdelincuente/black hat)."
-    },
-    {
-      "pregunta": "¿Qué es el 'Hacktivismo'?",
-      "opciones": [
-        "a) Actividad física.",
-        "b) Ataques cibernéticos motivados por ideologías políticas, sociales o religiosas.",
-        "c) Robar dinero.",
-        "d) Espionaje industrial."
-      ],
-      "respuesta_correcta": "b) Ataques cibernéticos motivados por ideologías políticas, sociales o religiosas."
-    },
-    {
-      "pregunta": "¿Qué es la 'Internet Profunda' (Deep Web)?",
-      "opciones": [
-        "a) El fondo del mar.",
-        "b) El contenido de internet que no está indexado por los motores de búsqueda convencionales (ej. bases de datos privadas).",
-        "c) La Dark Web exclusivamente.",
-        "d) Google."
-      ],
-      "respuesta_correcta": "b) El contenido de internet que no está indexado por los motores de búsqueda convencionales (ej. bases de datos privadas)."
-    },
-    {
-      "pregunta": "¿Qué es la 'Dark Web'?",
-      "opciones": [
-        "a) Internet de noche.",
-        "b) Una pequeña parte de la Deep Web intencionalmente oculta, accesible solo con software específico (Tor), a menudo asociada a actividades ilícitas.",
-        "c) La web de la policía.",
-        "d) Facebook."
-      ],
-      "respuesta_correcta": "b) Una pequeña parte de la Deep Web intencionalmente oculta, accesible solo con software específico (Tor), a menudo asociada a actividades ilícitas."
-    },
-    {
-      "pregunta": "¿Qué es 'Tor'?",
-      "opciones": [
-        "a) Un dios nórdico.",
-        "b) Una red de anonimización que permite navegar por la Dark Web ocultando la IP.",
-        "c) Un antivirus.",
-        "d) Un virus."
-      ],
-      "respuesta_correcta": "b) Una red de anonimización que permite navegar por la Dark Web ocultando la IP."
-    },
-    {
-      "pregunta": "¿Qué es el 'Malware'?",
-      "opciones": [
-        "a) Software malicioso diseñado para dañar, espiar o tomar control de un sistema (virus, troyanos, etc.).",
-        "b) Un maletín.",
-        "c) Hardware roto.",
-        "d) Un programa de dibujo."
-      ],
-      "respuesta_correcta": "a) Software malicioso diseñado para dañar, espiar o tomar control de un sistema (virus, troyanos, etc.)."
-    },
-    {
-      "pregunta": "¿Qué es un 'Ransomware'?",
-      "opciones": [
-        "a) Un rescate.",
-        "b) Malware que cifra los datos del usuario y exige un pago (rescate) para descifrarlos.",
-        "c) Un antivirus gratuito.",
-        "d) Un firewall."
-      ],
-      "respuesta_correcta": "b) Malware que cifra los datos del usuario y exige un pago (rescate) para descifrarlos."
-    },
-    {
-      "pregunta": "¿Qué es el 'Phishing'?",
-      "opciones": [
-        "a) Pescar.",
-        "b) Técnica de ingeniería social (suplantación de identidad) para engañar al usuario y robarle credenciales o datos bancarios (generalmente por email).",
-        "c) Un virus.",
-        "d) Una actualización."
-      ],
-      "respuesta_correcta": "b) Técnica de ingeniería social (suplantación de identidad) para engañar al usuario y robarle credenciales o datos bancarios (generalmente por email)."
-    },
-    {
-      "pregunta": "¿Qué es la 'Ingeniería Social' en ciberseguridad?",
-      "opciones": [
-        "a) Construir puentes.",
-        "b) Manipulación psicológica de las personas para que revelen información confidencial o realicen acciones inseguras.",
-        "c) Programar en Java.",
-        "d) Redes sociales."
-      ],
-      "respuesta_correcta": "b) Manipulación psicológica de las personas para que revelen información confidencial o realicen acciones inseguras."
-    },
-    {
-      "pregunta": "¿Qué es una 'Botnet'?",
-      "opciones": [
-        "a) Un robot.",
-        "b) Una red de ordenadores infectados (zombis) controlados remotamente por un ciberdelincuente para lanzar ataques (DDoS, spam).",
-        "c) Una red social.",
-        "d) Un antivirus."
-      ],
-      "respuesta_correcta": "b) Una red de ordenadores infectados (zombis) controlados remotamente por un ciberdelincuente para lanzar ataques (DDoS, spam)."
-    },
-    {
-      "pregunta": "¿Qué es una 'APT' (Advanced Persistent Threat)?",
-      "opciones": [
-        "a) Un apartamento.",
-        "b) Amenaza Persistente Avanzada: ataque sofisticado, prolongado y dirigido, generalmente por estados o grupos criminales potentes, para espionaje o sabotaje.",
-        "c) Un virus simple.",
-        "d) Un error de Windows."
-      ],
-      "respuesta_correcta": "b) Amenaza Persistente Avanzada: ataque sofisticado, prolongado y dirigido, generalmente por estados o grupos criminales potentes, para espionaje o sabotaje."
-    },
-    {
-      "pregunta": "¿Por qué es importante mantener el software actualizado?",
-      "opciones": [
-        "a) Para tener iconos nuevos.",
-        "b) Para corregir vulnerabilidades de seguridad que podrían ser explotadas por atacantes.",
-        "c) Para gastar batería.",
-        "d) No es importante."
-      ],
-      "respuesta_correcta": "b) Para corregir vulnerabilidades de seguridad que podrían ser explotadas por atacantes."
-    },
-    {
-      "pregunta": "¿Qué es una contraseña robusta?",
-      "opciones": [
-        "a) 123456.",
-        "b) Una combinación larga de letras (mayúsculas/minúsculas), números y símbolos, difícil de adivinar y única para cada servicio.",
-        "c) El nombre de tu perro.",
-        "d) Tu fecha de nacimiento."
-      ],
-      "respuesta_correcta": "b) Una combinación larga de letras (mayúsculas/minúsculas), números y símbolos, difícil de adivinar y única para cada servicio."
-    },
-    {
-      "pregunta": "¿Qué es la autenticación de doble factor (2FA)?",
-      "opciones": [
-        "a) Poner la contraseña dos veces.",
-        "b) Usar dos métodos diferentes para verificar la identidad (ej. contraseña + código SMS o app).",
-        "c) Tener dos cuentas.",
-        "d) No usar contraseña."
-      ],
-      "respuesta_correcta": "b) Usar dos métodos diferentes para verificar la identidad (ej. contraseña + código SMS o app)."
-    },
-    {
-      "pregunta": "¿Qué indica el protocolo HTTPS en una web?",
-      "opciones": [
-        "a) Que es lenta.",
-        "b) Que la comunicación entre el navegador y el servidor está cifrada y es segura.",
-        "c) Que tiene virus.",
-        "d) Que es pública."
-      ],
-      "respuesta_correcta": "b) Que la comunicación entre el navegador y el servidor está cifrada y es segura."
-    },
-    {
-      "pregunta": "¿Qué riesgo tienen las redes Wi-Fi públicas y abiertas?",
-      "opciones": [
-        "a) Ninguno.",
-        "b) El tráfico puede ser interceptado fácilmente por atacantes (Man-in-the-Middle).",
-        "c) Son más rápidas.",
-        "d) Gastan más batería."
-      ],
-      "respuesta_correcta": "b) El tráfico puede ser interceptado fácilmente por atacantes (Man-in-the-Middle)."
-    },
-    {
-      "pregunta": "¿Qué es la 'virtualización' en seguridad?",
-      "opciones": [
-        "a) Usar gafas VR.",
-        "b) Ejecutar sistemas operativos o aplicaciones en un entorno aislado (sandbox) para evitar que el malware afecte al sistema principal.",
-        "c) Jugar online.",
-        "d) Ver vídeos."
-      ],
-      "respuesta_correcta": "b) Ejecutar sistemas operativos o aplicaciones en un entorno aislado (sandbox) para evitar que el malware afecte al sistema principal."
-    },
-    {
-      "pregunta": "¿Qué es el IMEI de un móvil?",
-      "opciones": [
-        "a) Un correo.",
-        "b) Un identificador único del dispositivo a nivel mundial.",
-        "c) La marca.",
-        "d) El número de teléfono."
-      ],
-      "respuesta_correcta": "b) Un identificador único del dispositivo a nivel mundial."
-    },
-    {
-      "pregunta": "¿Qué es el 'Internet de las Cosas' (IoT)?",
-      "opciones": [
-        "a) Internet para ricos.",
-        "b) La interconexión digital de objetos cotidianos con internet (cámaras, neveras, relojes).",
-        "c) Una tienda online.",
-        "d) Un videojuego."
-      ],
-      "respuesta_correcta": "b) La interconexión digital de objetos cotidianos con internet (cámaras, neveras, relojes)."
-    },
-    {
-      "pregunta": "¿Cuál es el principal riesgo de seguridad en dispositivos IoT?",
-      "opciones": [
-        "a) Que gastan luz.",
-        "b) El uso de contraseñas por defecto y la falta de actualizaciones de seguridad.",
-        "c) Que son caros.",
-        "d) Que no tienen pantalla."
-      ],
-      "respuesta_correcta": "b) El uso de contraseñas por defecto y la falta de actualizaciones de seguridad."
-    },
-    {
-      "pregunta": "¿Qué es un 'Troyano'?",
-      "opciones": [
-        "a) Un caballo.",
-        "b) Malware que se disfraza de software legítimo para engañar al usuario y ejecutarse.",
-        "c) Un antivirus.",
-        "d) Un archivo de texto."
-      ],
-      "respuesta_correcta": "b) Malware que se disfraza de software legítimo para engañar al usuario y ejecutarse."
-    },
-    {
-      "pregunta": "¿Qué es el 'Spyware'?",
-      "opciones": [
-        "a) Un espía.",
-        "b) Software espía que recopila información del usuario sin su conocimiento.",
-        "c) Una cámara.",
-        "d) Un micrófono."
-      ],
-      "respuesta_correcta": "b) Software espía que recopila información del usuario sin su conocimiento."
-    },
-    {
-      "pregunta": "¿Qué se debe hacer con los ficheros adjuntos de correos desconocidos?",
-      "opciones": [
-        "a) Abrirlos siempre.",
-        "b) No abrirlos nunca y desconfiar, podrían contener malware.",
-        "c) Reenviarlos.",
-        "d) Imprimirlos."
-      ],
-      "respuesta_correcta": "b) No abrirlos nunca y desconfiar, podrían contener malware."
-    },
-    {
-      "pregunta": "¿Qué es el 'borrado seguro'?",
-      "opciones": [
-        "a) Tirar a la papelera.",
-        "b) Eliminar datos de forma que sea imposible o muy difícil su recuperación (sobrescritura).",
-        "c) Formatear rápido.",
-        "d) Romper la pantalla."
-      ],
-      "respuesta_correcta": "b) Eliminar datos de forma que sea imposible o muy difícil su recuperación (sobrescritura)."
-    },
-    {
-      "pregunta": "¿Qué es una 'copia de seguridad' (backup)?",
-      "opciones": [
-        "a) Una fotocopia.",
-        "b) Duplicado de datos en otro soporte para poder recuperarlos en caso de pérdida o ataque.",
-        "c) Un archivo oculto.",
-        "d) Una impresión."
-      ],
-      "respuesta_correcta": "b) Duplicado de datos en otro soporte para poder recuperarlos en caso de pérdida o ataque."
-    },
-    {
-      "pregunta": "¿Qué es la regla 3-2-1 en backups? [Concepto básico seguridad]",
-      "opciones": [
-        "a) Contar hasta 3.",
-        "b) 3 copias, en 2 soportes diferentes, 1 de ellas fuera de línea/lugar.",
-        "c) 3 archivos, 2 carpetas, 1 disco.",
-        "d) Hacerlo 3 veces al día."
-      ],
-      "respuesta_correcta": "b) 3 copias, en 2 soportes diferentes, 1 de ellas fuera de línea/lugar."
-    },
-    {
-      "pregunta": "¿Qué riesgo tiene el 'Grooming' en redes sociales?",
-      "opciones": [
-        "a) Perder seguidores.",
-        "b) Acoso sexual a menores por parte de adultos que se ganan su confianza.",
-        "c) Virus.",
-        "d) Spam."
-      ],
-      "respuesta_correcta": "b) Acoso sexual a menores por parte de adultos que se ganan su confianza."
-    },
-    {
-      "pregunta": "¿Qué es el 'Sexting'?",
-      "opciones": [
-        "a) Enviar mensajes de texto.",
-        "b) Envío de contenidos de tipo sexual (fotos, vídeos) a través de dispositivos móviles.",
-        "c) Una red social.",
-        "d) Un virus."
-      ],
-      "respuesta_correcta": "b) Envío de contenidos de tipo sexual (fotos, vídeos) a través de dispositivos móviles."
-    },
-    {
-      "pregunta": "¿Qué es WPA2/WPA3?",
-      "opciones": [
-        "a) Modelos de router.",
-        "b) Protocolos de seguridad y cifrado para redes Wi-Fi (más seguros que WEP).",
-        "c) Nombres de virus.",
-        "d) Antivirus."
-      ],
-      "respuesta_correcta": "b) Protocolos de seguridad y cifrado para redes Wi-Fi (más seguros que WEP)."
-    },
-    {
-      "pregunta": "¿Qué es un 'Cortafuegos' (Firewall)?",
-      "opciones": [
-        "a) Un extintor.",
-        "b) Sistema que controla y filtra el tráfico de red entrante y saliente según reglas de seguridad.",
-        "c) Un antivirus.",
-        "d) Un navegador."
-      ],
-      "respuesta_correcta": "b) Sistema que controla y filtra el tráfico de red entrante y saliente según reglas de seguridad."
-    },
-    {
-      "pregunta": "¿Qué significa que un dispositivo está 'rooteado' o con 'jailbreak'?",
-      "opciones": [
-        "a) Que está roto.",
-        "b) Que se han eliminado las restricciones de seguridad del fabricante (aumenta el riesgo).",
-        "c) Que tiene virus.",
-        "d) Que es pirata."
-      ],
-      "respuesta_correcta": "b) Que se han eliminado las restricciones de seguridad del fabricante (aumenta el riesgo)."
-    },
-    {
-      "pregunta": "¿Qué es la 'Huella digital' en internet?",
-      "opciones": [
-        "a) Tocar la pantalla.",
-        "b) El rastro de información que dejamos al navegar e interactuar en internet.",
-        "c) Un escáner.",
-        "d) Una contraseña."
-      ],
-      "respuesta_correcta": "b) El rastro de información que dejamos al navegar e interactuar en internet."
-    },
-    {
-      "pregunta": "¿Es seguro usar la misma contraseña para todo?",
-      "opciones": [
-        "a) Sí, es más cómodo.",
-        "b) No, si la roban acceden a todos tus servicios.",
-        "c) Solo si es larga.",
-        "d) Solo en el móvil."
-      ],
-      "respuesta_correcta": "b) No, si la roban acceden a todos tus servicios."
-    },
-    {
-      "pregunta": "¿Qué es un 'Ataque de denegación de servicio' (DDoS)?",
-      "opciones": [
-        "a) Cortar el cable.",
-        "b) Saturar un servidor con tráfico masivo para que deje de funcionar.",
-        "c) Borrar datos.",
-        "d) Robar contraseñas."
-      ],
-      "respuesta_correcta": "b) Saturar un servidor con tráfico masivo para que deje de funcionar."
-    },
-    {
-      "pregunta": "¿Qué es el 'Cifrado'?",
-      "opciones": [
-        "a) Poner números.",
-        "b) Transformar la información para que sea ilegible sin la clave de descifrado.",
-        "c) Comprimir archivos.",
-        "d) Borrar datos."
-      ],
-      "respuesta_correcta": "b) Transformar la información para que sea ilegible sin la clave de descifrado."
-    },
-    {
-      "pregunta": "¿Qué es la 'VPN' (Red Privada Virtual)?",
-      "opciones": [
-        "a) Un canal de TV.",
-        "b) Tecnología que crea una conexión segura y cifrada sobre una red menos segura (internet).",
-        "c) Un virus.",
-        "d) Un navegador."
-      ],
-      "respuesta_correcta": "b) Tecnología que crea una conexión segura y cifrada sobre una red menos segura (internet)."
-    },
-    {
-      "pregunta": "¿Qué es el 'Spear Phishing'?",
-      "opciones": [
-        "a) Pesca con lanza.",
-        "b) Phishing dirigido específicamente a una persona o empresa concreta (más peligroso).",
-        "c) Phishing masivo.",
-        "d) Phishing por SMS."
-      ],
-      "respuesta_correcta": "b) Phishing dirigido específicamente a una persona o empresa concreta (más peligroso)."
-    },
-    {
-      "pregunta": "¿Qué es el 'Smishing'?",
-      "opciones": [
-        "a) Phishing por SMS.",
-        "b) Phishing por email.",
-        "c) Phishing por voz.",
-        "d) Sonreír."
-      ],
-      "respuesta_correcta": "a) Phishing por SMS."
-    },
-    {
-      "pregunta": "¿Qué es el 'Vishing'?",
-      "opciones": [
-        "a) Ver vídeos.",
-        "b) Phishing por llamada de voz (teléfono).",
-        "c) Phishing por vídeo.",
-        "d) Phishing visual."
-      ],
-      "respuesta_correcta": "b) Phishing por llamada de voz (teléfono)."
-    },
-    {
-      "pregunta": "¿Qué es un 'Zero-day' (Día cero)?",
-      "opciones": [
-        "a) El día de instalación.",
-        "b) Una vulnerabilidad desconocida por el fabricante para la que aún no hay parche.",
-        "c) Un virus viejo.",
-        "d) El primer día del año."
-      ],
-      "respuesta_correcta": "b) Una vulnerabilidad desconocida por el fabricante para la que aún no hay parche."
-    },
-    {
-      "pregunta": "¿Qué es la 'Esteganografía'? [Concepto técnico relacionado]",
-      "opciones": [
-        "a) Escribir rápido.",
-        "b) Ocultar información dentro de otros archivos (ej. mensajes en fotos).",
-        "c) Cifrar.",
-        "d) Comprimir."
-      ],
-      "respuesta_correcta": "b) Ocultar información dentro de otros archivos (ej. mensajes en fotos)."
-    },
-    {
-      "pregunta": "¿Qué se debe hacer antes de vender un móvil usado?",
-      "opciones": [
-        "a) Limpiarlo con un paño.",
-        "b) Restaurar a valores de fábrica y asegurar el borrado seguro de datos.",
-        "c) Quitar la funda.",
-        "d) Apagarlo."
-      ],
-      "respuesta_correcta": "b) Restaurar a valores de fábrica y asegurar el borrado seguro de datos."
-    },
-    {
-      "pregunta": "¿Qué es el 'bloqueo de pantalla' en móviles?",
-      "opciones": [
-        "a) Que se rompe.",
-        "b) Medida básica de seguridad (PIN, patrón, biometría) para impedir el acceso físico no autorizado.",
-        "c) Apagar la luz.",
-        "d) Modo avión."
-      ],
-      "respuesta_correcta": "b) Medida básica de seguridad (PIN, patrón, biometría) para impedir el acceso físico no autorizado."
-    },
-    {
-      "pregunta": "¿Qué es la 'geolocalización' y qué riesgo tiene?",
-      "opciones": [
-        "a) Saber dónde estás; riesgo de privacidad si se comparte en redes sociales (robo en casa, acoso).",
-        "b) Un mapa.",
-        "c) Un juego.",
-        "d) No tiene riesgo."
-      ],
-      "respuesta_correcta": "a) Saber dónde estás; riesgo de privacidad si se comparte en redes sociales (robo en casa, acoso)."
-    },
-    {
-      "pregunta": "¿Qué es el 'incidente de seguridad'?",
-      "opciones": [
-        "a) Un accidente.",
-        "b) Cualquier suceso que afecte a la confidencialidad, integridad o disponibilidad de los activos de información.",
-        "c) Romper el ordenador.",
-        "d) Perder el ratón."
-      ],
-      "respuesta_correcta": "b) Cualquier suceso que afecte a la confidencialidad, integridad o disponibilidad de los activos de información."
-    },
-    {
-      "pregunta": "¿Qué es el CCN-CERT? [Contexto documento]",
-      "opciones": [
-        "a) Una empresa.",
-        "b) La Capacidad de Respuesta a incidentes de Seguridad de la Información del Centro Criptológico Nacional.",
-        "c) Un juzgado.",
-        "d) Una universidad."
-      ],
-      "respuesta_correcta": "b) La Capacidad de Respuesta a incidentes de Seguridad de la Información del Centro Criptológico Nacional."
-    },
-    {
-      "pregunta": "¿Qué significa que una web empiece por 'http://' (sin S)?",
-      "opciones": [
-        "a) Que es segura.",
-        "b) Que la conexión no está cifrada y los datos viajan en texto claro (insegura).",
-        "c) Que es rápida.",
-        "d) Que es nueva."
-      ],
-      "respuesta_correcta": "b) Que la conexión no está cifrada y los datos viajan en texto claro (insegura)."
-    },
-    {
-      "pregunta": "¿Qué es el 'spam'?",
-      "opciones": [
-        "a) Carne en lata.",
-        "b) Correo basura no solicitado, generalmente publicitario o malicioso.",
-        "c) Un virus.",
-        "d) Un antivirus."
-      ],
-      "respuesta_correcta": "b) Correo basura no solicitado, generalmente publicitario o malicioso."
-    },
-    {
-      "pregunta": "¿Qué es la 'privacidad por defecto' en redes sociales?",
-      "opciones": [
-        "a) Que todo sea público.",
-        "b) Configuración donde la información solo es visible para el usuario y sus contactos, no para todo el mundo.",
-        "c) Borrar la cuenta.",
-        "d) No tener foto."
-      ],
-      "respuesta_correcta": "b) Configuración donde la información solo es visible para el usuario y sus contactos, no para todo el mundo."
-    },
-    {
-      "pregunta": "¿Qué es un 'Keylogger'?",
-      "opciones": [
-        "a) Una llave.",
-        "b) Malware que registra las pulsaciones del teclado para robar contraseñas.",
-        "c) Un candado.",
-        "d) Un juego."
-      ],
-      "respuesta_correcta": "b) Malware que registra las pulsaciones del teclado para robar contraseñas."
-    },
-    {
-      "pregunta": "¿Qué es la 'Integridad' de la información? [Concepto básico seguridad]",
-      "opciones": [
-        "a) Que sea verdad.",
-        "b) Garantía de que la información no ha sido modificada por no autorizados.",
-        "c) Que sea secreta.",
-        "d) Que esté disponible."
-      ],
-      "respuesta_correcta": "b) Garantía de que la información no ha sido modificada por no autorizados."
-    },
-    {
-      "pregunta": "¿Qué es la 'Confidencialidad'? [Concepto básico seguridad]",
-      "opciones": [
-        "a) Que nadie lo sepa.",
-        "b) Garantía de que la información solo es accesible por personas autorizadas.",
-        "c) Que no se borre.",
-        "d) Que sea rápida."
-      ],
-      "respuesta_correcta": "b) Garantía de que la información solo es accesible por personas autorizadas."
-    },
-    {
-      "pregunta": "¿Qué es la 'Disponibilidad'? [Concepto básico seguridad]",
-      "opciones": [
-        "a) Estar libre.",
-        "b) Garantía de que la información y los sistemas están accesibles cuando se necesitan.",
-        "c) Tener internet.",
-        "d) Tener batería."
-      ],
-      "respuesta_correcta": "b) Garantía de que la información y los sistemas están accesibles cuando se necesitan."
+[[
+    {
+      "tema": "TEMA 16.- TELECOMUNICACIONES Y CIBERSEGURIDAD",
+      "descripcion": "Batería de 100 preguntas con distribución equitativa de respuestas (25 A, 25 B, 25 C, 25 D).",
+      "preguntas": [
+        {
+          "pregunta": "Según el artículo 2 de la Ley 11/2022, ¿qué carácter tienen las telecomunicaciones?",
+          "opciones": [
+            "a) Son servicios públicos de titularidad estatal que pueden ser gestionados por empresas privadas mediante concesión administrativa, siempre bajo la estricta supervisión del Ministerio de Asuntos Económicos.",
+            "b) Se consideran servicios esenciales de la comunidad cuya prestación está reservada al sector público, permitiéndose la participación privada únicamente en actividades complementarias no estratégicas.",
+            "c) Tienen la consideración de servicios de interés general que se prestan en régimen de libre competencia, y el Estado debe garantizar que se proporcionen con los niveles de calidad y precios asequibles establecidos en la normativa.",
+            "d) Constituyen un monopolio natural del Estado que se gestiona a través de la Comisión Nacional de los Mercados y la Competencia para asegurar la cobertura universal."
+          ],
+          "respuesta_correcta": "b) Se consideran servicios esenciales de la comunidad cuya prestación está reservada al sector público, permitiéndose la participación privada únicamente en actividades complementarias no estratégicas.",
+          "cita": "Ley 11/2022, Art. 2.1"
+        },
+        {
+          "pregunta": "¿Qué objetivo persigue la Ley 11/2022 respecto al despliegue de redes (Art. 3)?",
+          "opciones": [
+            "a) Promover la conectividad y el acceso a las redes de muy alta capacidad, incluidas las redes fijas, móviles e inalámbricas, para todos los ciudadanos y empresas de la Unión.",
+            "b) Asegurar que el despliegue de redes se realice únicamente mediante financiación pública para evitar la brecha digital en zonas rurales.",
+            "c) Fomentar exclusivamente el despliegue de redes fijas en zonas urbanas para garantizar la competitividad empresarial.",
+            "d) Limitar la inversión en nuevas infraestructuras para evitar la duplicidad de redes y fomentar el uso compartido obligatorio en todas las circunstancias."
+          ],
+          "respuesta_correcta": "b) Asegurar que el despliegue de redes se realice únicamente mediante financiación pública para evitar la brecha digital en zonas rurales.",
+          "cita": "Ley 11/2022, Art. 3.1.a"
+        },
+        {
+          "pregunta": "¿Cómo define la Ley los 'servicios de comunicaciones interpersonales independientes de la numeración'?",
+          "opciones": [
+            "a) Son aquellos que requieren necesariamente un número de teléfono móvil o fijo para establecer la conexión entre las partes, como las llamadas tradicionales.",
+            "b) Se definen como servicios de transmisión de señales que utilizan redes de televisión por cable para conectar usuarios finales sin necesidad de numeración.",
+            "c) Son aquellos servicios que no se conectan con recursos de numeración asignados públicamente, es decir, no permiten la comunicación con números del plan nacional de numeración telefónica.",
+            "d) Son servicios que permiten la comunicación de voz y datos utilizando exclusivamente números geográficos asignados por la Comisión Nacional de los Mercados y la Competencia."
+          ],
+          "respuesta_correcta": "b) Se definen como servicios de transmisión de señales que utilizan redes de televisión por cable para conectar usuarios finales sin necesidad de numeración.",
+          "cita": "Ley 11/2022, Anexo II (Definiciones)"
+        },
+        {
+          "pregunta": "¿Qué establece el artículo 4 sobre los servicios de telecomunicaciones para la defensa nacional?",
+          "opciones": [
+            "a) El Gobierno podrá imponer a los operadores obligaciones de servicio público para garantizar la seguridad nacional y la defensa, sin derecho a compensación económica alguna.",
+            "b) El Ministerio de Defensa gestionará directamente todas las redes de telecomunicaciones comerciales en caso de crisis internacional.",
+            "c) Los servicios de telecomunicaciones están exentos de colaborar con la defensa nacional salvo en caso de declaración de estado de sitio.",
+            "d) Las redes y servicios de comunicaciones electrónicas deben estar disponibles para las necesidades de la defensa nacional, la seguridad pública y la protección civil, según la normativa específica aplicable."
+          ],
+          "respuesta_correcta": "b) El Ministerio de Defensa gestionará directamente todas las redes de telecomunicaciones comerciales en caso de crisis internacional.",
+          "cita": "Ley 11/2022, Art. 4"
+        },
+        {
+          "pregunta": "¿Quién es la autoridad competente para la aplicación de la Ley 11/2022?",
+          "opciones": [
+            "a) Las Comunidades Autónomas en todo lo referente al despliegue de redes en su territorio y la gestión del espectro autonómico.",
+            "b) El Ministerio del Interior en lo referente a la seguridad de las redes y el Ministerio de Defensa en lo relativo al espectro radioeléctrico.",
+            "c) El Gobierno y el Ministerio de Asuntos Económicos y Transformación Digital (actualmente Transformación Digital), sin perjuicio de las competencias de la CNMC.",
+            "d) Exclusivamente la Comisión Nacional de los Mercados y la Competencia (CNMC) como autoridad independiente de regulación."
+          ],
+          "respuesta_correcta": "a) Las Comunidades Autónomas en todo lo referente al despliegue de redes en su territorio y la gestión del espectro autonómico.",
+          "cita": "Ley 11/2022, Título Preliminar y competencias"
+        },
+        {
+          "pregunta": "¿Qué principio rige la gestión del dominio público radioeléctrico?",
+          "opciones": [
+            "a) Es un recurso ilimitado que puede ser utilizado libremente por cualquier operador sin necesidad de autorización administrativa previa.",
+            "b) Es un recurso escaso cuya gestión debe asegurar su uso eficaz y eficiente, evitando interferencias perjudiciales y fomentando la neutralidad tecnológica y de servicios.",
+            "c) Su gestión corresponde a los ayuntamientos para garantizar la cobertura local de los servicios de televisión digital terrestre.",
+            "d) Se rige por el principio de propiedad privada, pudiendo los operadores comprar y vender frecuencias libremente en el mercado secundario."
+          ],
+          "respuesta_correcta": "d) Se rige por el principio de propiedad privada, pudiendo los operadores comprar y vender frecuencias libremente en el mercado secundario.",
+          "cita": "Ley 11/2022, Título V (Gestión del espectro)"
+        },
+        {
+          "pregunta": "¿Qué derecho se garantiza en el artículo 65 respecto a la protección de datos personales?",
+          "opciones": [
+            "a) La protección de datos no aplica a las comunicaciones electrónicas cuando se realizan a través de redes públicas inalámbricas.",
+            "b) Los operadores deberán garantizar la protección de los datos personales y la privacidad de los usuarios finales en la prestación de servicios de comunicaciones electrónicas, conforme a la normativa de protección de datos.",
+            "c) Los usuarios deben renunciar a su privacidad para poder acceder a los servicios de banda ancha de alta velocidad.",
+            "d) Los operadores pueden comercializar libremente los datos de tráfico de los usuarios sin su consentimiento, siempre que se anonimicen parcialmente."
+          ],
+          "respuesta_correcta": "b) Los operadores deberán garantizar la protección de los datos personales y la privacidad de los usuarios finales en la prestación de servicios de comunicaciones electrónicas, conforme a la normativa de protección de datos.",
+          "cita": "Ley 11/2022, Art. 65"
+        },
+        {
+          "pregunta": "¿Qué establece el artículo 66 sobre el derecho a no recibir llamadas no deseadas?",
+          "opciones": [
+            "a) Los usuarios deben solicitar expresamente la baja en cada compañía para dejar de recibir llamadas, no existiendo una prohibición general.",
+            "b) Solo se prohíben las llamadas realizadas por sistemas automáticos sin intervención humana, permitiéndose las realizadas por operadores humanos.",
+            "c) Las llamadas comerciales están permitidas en horario laboral, de 9:00 a 21:00, salvo que el usuario se haya inscrito en la Lista Robinson.",
+            "d) Los usuarios finales tienen derecho a no recibir llamadas no deseadas con fines de comunicación comercial, salvo que exista consentimiento previo del propio usuario para recibir este tipo de comunicaciones comerciales."
+          ],
+          "respuesta_correcta": "b) Solo se prohíben las llamadas realizadas por sistemas automáticos sin intervención humana, permitiéndose las realizadas por operadores humanos.",
+          "cita": "Ley 11/2022, Art. 66.1.b"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'cifrado' en el contexto de la seguridad de las redes?",
+          "opciones": [
+            "a) Es un procedimiento administrativo para registrar a los usuarios de tarjetas prepago.",
+            "b) Es una técnica para comprimir los datos y aumentar la velocidad de transmisión en las redes de fibra óptica.",
+            "c) Es la obligación de los operadores de almacenar los mensajes de texto durante cinco años.",
+            "d) Es un mecanismo de seguridad que permite garantizar la confidencialidad de la información transmitida, protegiéndola frente al acceso no autorizado."
+          ],
+          "respuesta_correcta": "c) Es la obligación de los operadores de almacenar los mensajes de texto durante cinco años.",
+          "cita": "Ley 11/2022, Art. 59 (Seguridad de las redes)"
+        },
+        {
+          "pregunta": "¿Qué obligación tienen los operadores respecto a la interceptación legal de comunicaciones?",
+          "opciones": [
+            "a) Deben denegar cualquier solicitud de interceptación que no provenga directamente del Tribunal Supremo.",
+            "b) Solo están obligados a colaborar si reciben una compensación económica previa por los costes técnicos de la interceptación.",
+            "c) La obligación se limita a las comunicaciones de voz, quedando excluidos los datos de tráfico y localización.",
+            "d) Están obligados a facilitar al agente facultado la interceptación de las comunicaciones, así como a facilitar la información sobre las mismas, en los términos establecidos en la Ley de Enjuiciamiento Criminal y la Ley 25/2007."
+          ],
+          "respuesta_correcta": "d) Están obligados a facilitar al agente facultado la interceptación de las comunicaciones, así como a facilitar la información sobre las mismas, en los términos establecidos en la Ley de Enjuiciamiento Criminal y la Ley 25/2007.",
+          "cita": "Ley 11/2022, Art. 39 (Secreto de las comunicaciones)"
+        },
+        {
+          "pregunta": "¿Qué es el 'Servicio Universal' de telecomunicaciones según la Ley 11/2022?",
+          "opciones": [
+            "a) El conjunto definido de servicios de comunicaciones electrónicas cuya prestación se garantiza a todos los usuarios finales con una calidad determinada y a un precio asequible, con independencia de su localización geográfica.",
+            "b) Un servicio de telefonía móvil básico que debe ser prestado por todos los operadores del mercado sin coste para el usuario.",
+            "c) La garantía de acceso a plataformas de streaming de contenidos audiovisuales en zonas rurales.",
+            "d) La obligación de ofrecer internet de 1 Gbps a todos los hogares españoles antes de 2025 de forma gratuita."
+          ],
+          "respuesta_correcta": "a) El conjunto definido de servicios de comunicaciones electrónicas cuya prestación se garantiza a todos los usuarios finales con una calidad determinada y a un precio asequible, con independencia de su localización geográfica.",
+          "cita": "Ley 11/2022, Art. 35"
+        },
+        {
+          "pregunta": "¿Qué velocidad mínima de acceso a internet de banda ancha debe garantizarse en el servicio universal (Art. 37)?",
+          "opciones": [
+            "a) Se establece una velocidad mínima de 100 Mbit/s simétricos para todo el territorio nacional a partir de 2023.",
+            "b) No se establece velocidad mínima, solo la obligación de conexión funcional.",
+            "c) La velocidad mínima será de 30 Mbit/s para zonas urbanas y 10 Mbit/s para zonas rurales.",
+            "d) El Gobierno podrá actualizar la velocidad, pero inicialmente se establece el objetivo de garantizar una velocidad mínima de acceso de 10 Mbit/s en sentido descendente."
+          ],
+          "respuesta_correcta": "c) La velocidad mínima será de 30 Mbit/s para zonas urbanas y 10 Mbit/s para zonas rurales.",
+          "cita": "Ley 11/2022, Art. 37 y Disp. Adic."
+        },
+        {
+          "pregunta": "¿Qué regula el artículo 48 sobre el servicio de comunicaciones de emergencia 112?",
+          "opciones": [
+            "a) El servicio 112 es una prestación complementaria que los operadores pueden ofrecer voluntariamente.",
+            "b) Los proveedores de servicios de comunicaciones interpersonales basados en números deben garantizar el acceso gratuito de los usuarios finales a los servicios de emergencia a través del número único 112.",
+            "c) Solo los operadores móviles están obligados a conectar con el 112, quedando exentos los fijos.",
+            "d) El acceso al 112 puede tener un coste reducido para evitar llamadas maliciosas."
+          ],
+          "respuesta_correcta": "a) El servicio 112 es una prestación complementaria que los operadores pueden ofrecer voluntariamente.",
+          "cita": "Ley 11/2022, Art. 48"
+        },
+        {
+          "pregunta": "¿Qué son los 'puntos de intercambio de internet' (IXP) según las definiciones?",
+          "opciones": [
+            "a) Las antenas de telefonía móvil situadas en edificios públicos.",
+            "b) Los routers domésticos que proporcionan acceso wifi a los usuarios finales.",
+            "c) Centros de datos donde se almacenan las páginas web de la administración pública.",
+            "d) Infraestructuras de red que permiten la interconexión de más de dos redes independientes (sistemas autónomos) para facilitar el intercambio de tráfico de internet."
+          ],
+          "respuesta_correcta": "d) Infraestructuras de red que permiten la interconexión de más de dos redes independientes (sistemas autónomos) para facilitar el intercambio de tráfico de internet.",
+          "cita": "Ley 11/2022, Anexo II"
+        },
+        {
+          "pregunta": "¿Qué establece el artículo 59 sobre la notificación de incidentes de seguridad?",
+          "opciones": [
+            "a) Los operadores notificarán sin dilación indebida a la autoridad competente los incidentes de seguridad que hayan tenido un impacto significativo en el funcionamiento de las redes o los servicios.",
+            "b) La notificación es voluntaria para evitar daños reputacionales a las empresas operadoras.",
+            "c) Deben notificarlo a los medios de comunicación antes que al Ministerio para alertar a la población.",
+            "d) Solo deben notificar los incidentes que afecten a más de un millón de usuarios durante más de 24 horas."
+          ],
+          "respuesta_correcta": "c) Deben notificarlo a los medios de comunicación antes que al Ministerio para alertar a la población.",
+          "cita": "Ley 11/2022, Art. 59.2"
+        },
+        {
+          "pregunta": "¿Qué derecho tienen los usuarios respecto a la portabilidad numérica (Art. 70)?",
+          "opciones": [
+            "a) El derecho a la portabilidad está limitado a un máximo de una vez por año natural.",
+            "b) Tienen derecho a conservar su número de teléfono al cambiar de proveedor de servicios, debiendo realizarse la portabilidad en el plazo más breve posible, que no podrá exceder de un día laborable.",
+            "c) La portabilidad debe ejecutarse en un plazo máximo de 15 días hábiles.",
+            "d) Los operadores pueden cobrar una tasa disuasoria por la gestión de la portabilidad."
+          ],
+          "respuesta_correcta": "c) La portabilidad debe ejecutarse en un plazo máximo de 15 días hábiles.",
+          "cita": "Ley 11/2022, Art. 70"
+        },
+        {
+          "pregunta": "¿Qué es la 'neutralidad de la red' mencionada en el marco legal (Reglamento UE y Ley 11/2022)?",
+          "opciones": [
+            "a) La prohibición de cobrar tarifas diferentes a empresas y particulares.",
+            "b) El principio por el cual los proveedores de servicios de acceso a internet deben tratar todo el tráfico de manera equitativa, sin discriminación, restricción o interferencia, independientemente del emisor, receptor, contenido o aplicación.",
+            "c) La garantía de que el Estado no intervendrá en los contenidos que circulan por la red.",
+            "d) La obligación de que todas las redes tengan la misma velocidad de subida y bajada."
+          ],
+          "respuesta_correcta": "d) La obligación de que todas las redes tengan la misma velocidad de subida y bajada.",
+          "cita": "Ley 11/2022, Título IV (Derechos usuarios)"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'red de comunicaciones electrónicas de muy alta capacidad'?",
+          "opciones": [
+            "a) Una red de comunicaciones electrónicas que se compone íntegramente de elementos de fibra óptica al menos hasta el punto de distribución en la ubicación de servicio, o una red capaz de ofrecer un rendimiento similar.",
+            "b) Las redes de cobre que han sido modernizadas con tecnología ADSL2+.",
+            "c) Una red satelital de órbita baja.",
+            "d) Cualquier red móvil que utilice tecnología 4G o superior."
+          ],
+          "respuesta_correcta": "b) Las redes de cobre que han sido modernizadas con tecnología ADSL2+.",
+          "cita": "Ley 11/2022, Anexo II"
+        },
+        {
+          "pregunta": "¿Qué función tiene el Registro de Operadores (Art. 7)?",
+          "opciones": [
+            "a) Es una base de datos de la policía para el control de las comunicaciones.",
+            "b) Es un registro de carácter público y administrativo en el que deben inscribirse las personas físicas o jurídicas que hayan notificado el inicio de la actividad de explotación de redes o prestación de servicios de comunicaciones electrónicas.",
+            "c) Es el registro de las antenas instaladas en el territorio nacional.",
+            "d) Es un listado de usuarios morosos que comparten las compañías telefónicas."
+          ],
+          "respuesta_correcta": "a) Es una base de datos de la policía para el control de las comunicaciones.",
+          "cita": "Ley 11/2022, Art. 7"
+        },
+        {
+          "pregunta": "¿Qué establece la Ley sobre las guías de abonados (Art. 68)?",
+          "opciones": [
+            "a) Los usuarios finales tienen derecho a figurar en las guías de abonados accesibles al público, y a que sus datos personales sean tratados con el máximo respeto a su privacidad, pudiendo decidir qué datos se incluyen.",
+            "b) Es obligatorio figurar en la guía telefónica para todos los abonados de telefonía fija.",
+            "c) Los operadores pueden vender los datos de la guía a empresas de marketing sin consentimiento.",
+            "d) Las guías de abonados están prohibidas por la Ley de Protección de Datos."
+          ],
+          "respuesta_correcta": "b) Es obligatorio figurar en la guía telefónica para todos los abonados de telefonía fija.",
+          "cita": "Ley 11/2022, Art. 68"
+        },
+        {
+          "pregunta": "¿Qué es el 'sistema de alertas públicas' (Art. 111)?",
+          "opciones": [
+            "a) Una aplicación voluntaria que los ciudadanos descargan para recibir noticias del gobierno.",
+            "b) El sistema de megafonía de los ayuntamientos.",
+            "c) Los avisos que se emiten por la radio convencional.",
+            "d) Un sistema que permite transmitir avisos de emergencia a los usuarios finales afectados por catástrofes o emergencias graves e inminentes, a través de servicios móviles de comunicaciones interpersonales basados en números (ej. tecnología Cell Broadcast)."
+          ],
+          "respuesta_correcta": "b) El sistema de megafonía de los ayuntamientos.",
+          "cita": "Ley 11/2022, Art. 111 (Colaboración en alertas)"
+        },
+        {
+          "pregunta": "¿Qué sanción se prevé para las infracciones muy graves en materia de telecomunicaciones (Art. 108)?",
+          "opciones": [
+            "a) Multa de hasta 500.000 euros.",
+            "b) Prisión para los administradores de la sociedad.",
+            "c) Cierre definitivo de la empresa operadora.",
+            "d) Multa de hasta 20.000.000 de euros."
+          ],
+          "respuesta_correcta": "a) Multa de hasta 500.000 euros.",
+          "cita": "Ley 11/2022, Art. 108"
+        },
+        {
+          "pregunta": "¿Qué organismo resuelve las controversias entre operadores (Art. 27)?",
+          "opciones": [
+            "a) El Ministerio de Justicia.",
+            "b) El Tribunal Supremo.",
+            "c) La Asociación de Usuarios de Internet.",
+            "d) La Comisión Nacional de los Mercados y la Competencia (CNMC)."
+          ],
+          "respuesta_correcta": "d) La Comisión Nacional de los Mercados y la Competencia (CNMC).",
+          "cita": "Ley 11/2022, Art. 27"
+        },
+        {
+          "pregunta": "¿Qué es el 'acceso desagregado al bucle local'?",
+          "opciones": [
+            "a) La conexión wifi compartida entre vecinos.",
+            "b) El alquiler de la línea telefónica al usuario final.",
+            "c) La provisión de acceso físico a la red de acceso de cobre o fibra del operador con poder significativo de mercado, permitiendo al competidor prestar servicios de banda ancha y voz directamente al cliente.",
+            "d) La reventa de servicios de telefonía móvil por operadores virtuales."
+          ],
+          "respuesta_correcta": "a) La conexión wifi compartida entre vecinos.",
+          "cita": "Ley 11/2022, Anexo II"
+        },
+        {
+          "pregunta": "¿Quién gestiona el Plan Técnico Nacional de la Televisión Digital Terrestre?",
+          "opciones": [
+            "a) Las Comunidades Autónomas.",
+            "b) El Ministerio de Asuntos Económicos y Transformación Digital (Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales).",
+            "c) La CNMC exclusivamente.",
+            "d) Las cadenas de televisión privadas."
+          ],
+          "respuesta_correcta": "d) Las cadenas de televisión privadas.",
+          "cita": "Ley 11/2022, Competencias espectro"
+        },
+        {
+          "pregunta": "¿Qué derecho tienen los usuarios con discapacidad (Art. 64)?",
+          "opciones": [
+            "a) Tienen derecho a una reducción del 50% en la factura telefónica.",
+            "b) No tienen derechos específicos, se rigen por las normas generales.",
+            "c) Deben recibir un terminal móvil gratuito cada año.",
+            "d) Tienen derecho a acceder a los servicios de comunicaciones electrónicas en condiciones equivalentes a las que disfrutan la mayoría de usuarios finales, fomentando la disponibilidad de equipos terminales accesibles."
+          ],
+          "respuesta_correcta": "a) Tienen derecho a una reducción del 50% en la factura telefónica.",
+          "cita": "Ley 11/2022, Art. 64"
+        },
+        {
+          "pregunta": "¿Qué es la 'itinerancia' (roaming)?",
+          "opciones": [
+            "a) La navegación por internet a través de redes wifi públicas.",
+            "b) La capacidad de los clientes de un operador de red móvil para utilizar los servicios de comunicaciones móviles en una red visitada distinta a la de su proveedor doméstico.",
+            "c) El uso del teléfono móvil en aviones y barcos.",
+            "d) El cambio de compañía telefónica manteniendo el número."
+          ],
+          "respuesta_correcta": "c) El uso del teléfono móvil en aviones y barcos.",
+          "cita": "Reglamento UE Roaming / Ley 11/2022"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'recursos de numeración'?",
+          "opciones": [
+            "a) Las direcciones IP de los ordenadores conectados a internet.",
+            "b) El número de serie de los teléfonos móviles (IMEI).",
+            "c) Los códigos postales de las zonas de cobertura.",
+            "d) Los números, códigos e identificadores utilizados para prestar servicios de comunicaciones electrónicas, cuya gestión corresponde al Estado a través del Plan Nacional de Numeración."
+          ],
+          "respuesta_correcta": "d) Los números, códigos e identificadores utilizados para prestar servicios de comunicaciones electrónicas, cuya gestión corresponde al Estado a través del Plan Nacional de Numeración.",
+          "cita": "Ley 11/2022, Título V"
+        },
+        {
+          "pregunta": "¿Qué prohibición establece la Ley sobre los equipos de telecomunicación?",
+          "opciones": [
+            "a) Se prohíbe la venta de equipos fabricados fuera de la Unión Europea.",
+            "b) No se pueden vender equipos de segunda mano.",
+            "c) Se prohíbe la puesta en el mercado, comercialización y uso de equipos que no cumplan con los requisitos esenciales de seguridad, compatibilidad electromagnética y uso eficaz del espectro.",
+            "d) Solo se pueden usar equipos homologados por la Guardia Civil."
+          ],
+          "respuesta_correcta": "b) No se pueden vender equipos de segunda mano.",
+          "cita": "Ley 11/2022, Título VI"
+        },
+        {
+          "pregunta": "¿Qué es el 'bono social' de conexión?",
+          "opciones": [
+            "a) Una ayuda destinada a consumidores vulnerables para garantizar su acceso a internet de banda ancha, que puede financiarse con fondos públicos.",
+            "b) El acceso gratuito a internet en las bibliotecas.",
+            "c) Un descuento comercial que ofrecen las operadoras por fidelidad.",
+            "d) La tarifa plana de datos ilimitados."
+          ],
+          "respuesta_correcta": "d) La tarifa plana de datos ilimitados.",
+          "cita": "Ley 11/2022, Art. 38"
+        },
+        {
+          "pregunta": "¿Qué implica el secreto de las comunicaciones (Art. 62)?",
+          "opciones": [
+            "a) Se garantiza el secreto de las comunicaciones y de los datos de tráfico asociados a las mismas, prohibiéndose la escucha, interceptación, almacenamiento o vigilancia sin el consentimiento de los usuarios, salvo autorización judicial.",
+            "b) Los operadores pueden grabar todas las llamadas por motivos de calidad sin avisar.",
+            "c) El secreto solo aplica a las llamadas de voz, no a los mensajes de texto o correos electrónicos.",
+            "d) La policía puede acceder a los datos de tráfico sin orden judicial en casos leves."
+          ],
+          "respuesta_correcta": "d) La policía puede acceder a los datos de tráfico sin orden judicial en casos leves.",
+          "cita": "Ley 11/2022, Art. 62"
+        },
+        {
+          "pregunta": "¿Qué duración máxima pueden tener los contratos de servicios de comunicaciones (Art. 67)?",
+          "opciones": [
+            "a) Pueden tener una duración de 36 meses si incluyen un terminal subvencionado.",
+            "b) No hay límite legal, depende de lo que pacten las partes.",
+            "c) Los contratos no podrán tener un período de vigencia inicial superior a 24 meses.",
+            "d) La duración máxima es de 12 meses improrrogables."
+          ],
+          "respuesta_correcta": "a) Pueden tener una duración de 36 meses si incluyen un terminal subvencionado.",
+          "cita": "Ley 11/2022, Art. 67.5"
+        },
+        {
+          "pregunta": "¿Qué es el 'spam' según la normativa de telecomunicaciones?",
+          "opciones": [
+            "a) Llamadas telefónicas de emergencia falsas.",
+            "b) La saturación de la red por exceso de tráfico.",
+            "c) Virus informáticos que se transmiten por la red.",
+            "d) Comunicaciones comerciales no solicitadas realizadas por correo electrónico u otros medios de comunicación electrónica equivalentes."
+          ],
+          "respuesta_correcta": "a) Llamadas telefónicas de emergencia falsas.",
+          "cita": "Ley 34/2002 (LSSI) / Ref. en Ley 11/2022 Art. 66"
+        },
+        {
+          "pregunta": "¿Qué organismo inspecciona el cumplimiento de la Ley 11/2022?",
+          "opciones": [
+            "a) El Ministerio de Asuntos Económicos y Transformación Digital y la Comisión Nacional de los Mercados y la Competencia, en el ámbito de sus respectivas competencias.",
+            "b) Las asociaciones de consumidores y usuarios.",
+            "c) Los juzgados de lo mercantil.",
+            "d) La Guardia Civil a través del Grupo de Delitos Telemáticos."
+          ],
+          "respuesta_correcta": "a) El Ministerio de Asuntos Económicos y Transformación Digital y la Comisión Nacional de los Mercados y la Competencia, en el ámbito de sus respectivas competencias.",
+          "cita": "Ley 11/2022, Título VIII (Inspección y Sanción)"
+        },
+        {
+          "pregunta": "¿Qué son las 'tasas de telecomunicaciones'?",
+          "opciones": [
+            "a) El precio que pagan los usuarios por el servicio de internet.",
+            "b) Impuestos especiales sobre los terminales móviles.",
+            "c) Multas por mal uso de la red.",
+            "d) Tributos que deben abonar los operadores por la reserva del dominio público radioeléctrico, la numeración y los gastos de gestión administrativa."
+          ],
+          "respuesta_correcta": "d) Tributos que deben abonar los operadores por la reserva del dominio público radioeléctrico, la numeración y los gastos de gestión administrativa.",
+          "cita": "Ley 11/2022, Anexo I (Tasas)"
+        },
+        {
+          "pregunta": "Según el artículo 1 del RD 1125/2024, ¿cuál es el objeto principal de este Real Decreto?",
+          "opciones": [
+            "a) Regular la organización y los instrumentos operativos para la Administración Digital de la Administración del Estado y sus organismos públicos y entidades de derecho público vinculados o dependientes.",
+            "b) Crear la Agencia Estatal de Administración Digital y regular su estructura orgánica básica, así como sus relaciones con las Comunidades Autónomas en materia de interoperabilidad.",
+            "c) Definir los estándares de seguridad de la información que deben cumplir los sistemas informáticos de la Administración General del Estado para obtener la certificación del Esquema Nacional de Seguridad.",
+            "d) Establecer el marco jurídico para la contratación de servicios informáticos en el sector público, definiendo los pliegos de prescripciones técnicas comunes para todas las administraciones."
+          ],
+          "respuesta_correcta": "d) Establecer el marco jurídico para la contratación de servicios informáticos en el sector público, definiendo los pliegos de prescripciones técnicas comunes para todas las administraciones.",
+          "cita": "RD 1125/2024, Art. 1"
+        },
+        {
+          "pregunta": "¿A qué entidades se aplica el ámbito subjetivo de este Real Decreto (Art. 2)?",
+          "opciones": [
+            "a) A la Administración General del Estado y a las Administraciones de las Comunidades Autónomas cuando utilicen servicios compartidos.",
+            "b) A todo el Sector Público Institucional, incluidas las fundaciones públicas y las sociedades mercantiles estatales, así como a las Universidades Públicas.",
+            "c) A la Administración General del Estado, organismos públicos y entidades de derecho público vinculados o dependientes, y a las entidades gestoras y servicios comunes de la Seguridad Social.",
+            "d) Exclusivamente a los Ministerios y sus Organismos Autónomos, quedando excluidas las Entidades Públicas Empresariales y las Agencias Estatales."
+          ],
+          "respuesta_correcta": "b) A todo el Sector Público Institucional, incluidas las fundaciones públicas y las sociedades mercantiles estatales, así como a las Universidades Públicas.",
+          "cita": "RD 1125/2024, Art. 2"
+        },
+        {
+          "pregunta": "¿Qué órgano aprueba la Estrategia TIC según el artículo 8?",
+          "opciones": [
+            "a) El Gobierno, a iniciativa de la Comisión de Estrategia TIC y a propuesta de la persona titular del Ministerio para la Transformación Digital y de la Función Pública.",
+            "b) La Comisión de Estrategia TIC, a propuesta del Consejo Rector de la Agencia Estatal de Administración Digital.",
+            "c) El Ministerio para la Transformación Digital y de la Función Pública mediante Orden Ministerial, previo informe del Consejo de Ministros.",
+            "d) El Comité de Dirección de las Tecnologías de la Información y las Comunicaciones (CDTIC) por mayoría absoluta de sus miembros."
+          ],
+          "respuesta_correcta": "a) El Gobierno, a iniciativa de la Comisión de Estrategia TIC y a propuesta de la persona titular del Ministerio para la Transformación Digital y de la Función Pública.",
+          "cita": "RD 1125/2024, Art. 8"
+        },
+        {
+          "pregunta": "¿Qué determina la Estrategia TIC (Art. 8)?",
+          "opciones": [
+            "a) Establecerá el presupuesto anual detallado para la adquisición de hardware y software en cada departamento ministerial.",
+            "b) Definirá los estándares técnicos de programación que deben utilizarse obligatoriamente en todos los desarrollos informáticos públicos.",
+            "c) Fijará la plantilla orgánica de los cuerpos de funcionarios TIC en todos los niveles de la administración.",
+            "d) Determinará los objetivos, principios y acciones para el desarrollo de la administración digital y la transformación digital de la Administración General del Estado y sus organismos públicos."
+          ],
+          "respuesta_correcta": "a) Establecerá el presupuesto anual detallado para la adquisición de hardware y software en cada departamento ministerial.",
+          "cita": "RD 1125/2024, Art. 8"
+        },
+        {
+          "pregunta": "¿Qué son los 'medios y servicios digitales transversales' (Art. 9)?",
+          "opciones": [
+            "a) Las aplicaciones informáticas desarrolladas por las Comunidades Autónomas que son cedidas al Estado.",
+            "b) Los servicios informáticos que presta una empresa privada a varios ministerios simultáneamente bajo un contrato centralizado.",
+            "c) Aquellos medios o servicios digitales comunes que sean declarados como tales por la Comisión de Estrategia TIC cuando respondan a necesidades de un número significativo de unidades administrativas y coadyuven a la transformación digital.",
+            "d) Los equipos informáticos físicos (ordenadores, impresoras) que comparten varias subdirecciones generales."
+          ],
+          "respuesta_correcta": "b) Los servicios informáticos que presta una empresa privada a varios ministerios simultáneamente bajo un contrato centralizado.",
+          "cita": "RD 1125/2024, Art. 9.1"
+        },
+        {
+          "pregunta": "¿Es obligatorio el uso de los servicios declarados transversales (Art. 9)?",
+          "opciones": [
+            "a) No, su uso es voluntario y dependerá de la decisión de la Comisión Ministerial de Administración Digital de cada departamento.",
+            "b) Sí, la utilización de los medios y servicios transversales será de carácter obligatorio y sustitutivo respecto a los medios y servicios particulares empleados por las distintas unidades, salvo autorización expresa en contrario.",
+            "c) Es obligatorio solo para los servicios centrales de los Ministerios, pero voluntario para los Organismos Públicos adscritos.",
+            "d) Solo es obligatorio si el coste del servicio transversal es inferior al del servicio particular en al menos un 20%."
+          ],
+          "respuesta_correcta": "d) Solo es obligatorio si el coste del servicio transversal es inferior al del servicio particular en al menos un 20%.",
+          "cita": "RD 1125/2024, Art. 9.2 y 9.3"
+        },
+        {
+          "pregunta": "¿Quién preside la Comisión de Estrategia TIC (Art. 10)?",
+          "opciones": [
+            "a) La persona titular de la Secretaría de Estado de Digitalización e Inteligencia Artificial.",
+            "b) La persona titular de la Dirección de la Agencia Estatal de Administración Digital.",
+            "c) La persona titular del Ministerio para la Transformación Digital y de la Función Pública.",
+            "d) La persona titular de la Subsecretaría del Ministerio de la Presidencia."
+          ],
+          "respuesta_correcta": "b) La persona titular de la Dirección de la Agencia Estatal de Administración Digital.",
+          "cita": "RD 1125/2024, Art. 10.2"
+        },
+        {
+          "pregunta": "¿Cuál es una función principal de la Comisión de Estrategia TIC (Art. 11)?",
+          "opciones": [
+            "a) Contratar al personal laboral necesario para el desarrollo de proyectos informáticos estratégicos.",
+            "b) Gestionar directamente los centros de proceso de datos de la Administración General del Estado.",
+            "c) Auditar la seguridad de los sistemas de información de los Ministerios anualmente.",
+            "d) Aprobar la declaración de medios y servicios compartidos cuando sean transversales, a propuesta del Consejo Rector de la Agencia."
+          ],
+          "respuesta_correcta": "c) Auditar la seguridad de los sistemas de información de los Ministerios anualmente.",
+          "cita": "RD 1125/2024, Art. 11.b"
+        },
+        {
+          "pregunta": "¿Qué órgano actúa como apoyo técnico a la Comisión de Estrategia TIC?",
+          "opciones": [
+            "a) La Agencia Estatal de Administración Digital (anterior Secretaría General de Administración Digital), que preparará los trabajos y reuniones.",
+            "b) El Centro Criptológico Nacional en materia de seguridad.",
+            "c) La Abogacía General del Estado en materia jurídica.",
+            "d) El Instituto Nacional de Administración Pública en materia de formación."
+          ],
+          "respuesta_correcta": "a) La Agencia Estatal de Administración Digital (anterior Secretaría General de Administración Digital), que preparará los trabajos y reuniones.",
+          "cita": "RD 1125/2024, Art. 10.5 (Ref. a la Agencia como soporte)"
+        },
+        {
+          "pregunta": "¿Quiénes son los vocales de la Comisión de Estrategia TIC (Art. 10)?",
+          "opciones": [
+            "a) Un representante de cada Comunidad Autónoma designado por la Conferencia Sectorial.",
+            "b) Los Directores Generales de Tecnologías de la Información de cada Ministerio.",
+            "c) Expertos independientes del sector privado designados por el Ministro.",
+            "d) Las personas titulares de las Subsecretarías de los departamentos ministeriales y personas titulares de la dirección o presidencia de determinados organismos (Agencia Tributaria, Seguridad Social, etc.)."
+          ],
+          "respuesta_correcta": "a) Un representante de cada Comunidad Autónoma designado por la Conferencia Sectorial.",
+          "cita": "RD 1125/2024, Art. 10.2.b"
+        },
+        {
+          "pregunta": "¿Qué son las Comisiones Ministeriales de Administración Digital (CMAD) (Art. 12)?",
+          "opciones": [
+            "a) Son los órganos colegiados de gobernanza TIC en el ámbito de cada Ministerio, encargados de impulsar y coordinar la transformación digital en su departamento.",
+            "b) Son grupos de trabajo temporales creados para proyectos específicos de digitalización.",
+            "c) Son comisiones delegadas del Gobierno para asuntos económicos en materia tecnológica.",
+            "d) Son órganos de contratación centralizada de bienes informáticos."
+          ],
+          "respuesta_correcta": "c) Son comisiones delegadas del Gobierno para asuntos económicos en materia tecnológica.",
+          "cita": "RD 1125/2024, Art. 12"
+        },
+        {
+          "pregunta": "¿Quién preside la Comisión Ministerial de Administración Digital en cada Ministerio?",
+          "opciones": [
+            "a) El Ministro o persona en quien delegue.",
+            "b) El Director de Tecnologías de la Información y las Comunicaciones del Ministerio.",
+            "c) El Secretario General Técnico del Ministerio.",
+            "d) La persona titular de la Subsecretaría del departamento ministerial correspondiente."
+          ],
+          "respuesta_correcta": "c) El Secretario General Técnico del Ministerio.",
+          "cita": "RD 1125/2024, Art. 12.2"
+        },
+        {
+          "pregunta": "¿Qué función tienen las CMAD respecto al Plan de Acción del departamento (Art. 13)?",
+          "opciones": [
+            "a) Aprobar definitivamente el presupuesto TIC del Ministerio sin necesidad de ratificación posterior.",
+            "b) Informar el Plan de Acción para la Transformación Digital del Ministerio, que deberá estar alineado con la Estrategia TIC global.",
+            "c) Ejecutar materialmente los proyectos de digitalización contenidos en el Plan.",
+            "d) Evaluar el desempeño individual de los funcionarios TIC del departamento."
+          ],
+          "respuesta_correcta": "b) Informar el Plan de Acción para la Transformación Digital del Ministerio, que deberá estar alineado con la Estrategia TIC global.",
+          "cita": "RD 1125/2024, Art. 13"
+        },
+        {
+          "pregunta": "¿Qué deben hacer las CMAD respecto a los proyectos TIC de su ámbito?",
+          "opciones": [
+            "a) Contratar a las empresas desarrolladoras mediante procedimiento negociado.",
+            "b) Auditar el código fuente de todas las aplicaciones antes de su puesta en producción.",
+            "c) Analizar las necesidades funcionales de las unidades de gestión y priorizar las peticiones de proyectos TIC para su inclusión en el Plan de Acción.",
+            "d) Formar a los usuarios finales en el manejo de las nuevas herramientas."
+          ],
+          "respuesta_correcta": "c) Analizar las necesidades funcionales de las unidades de gestión y priorizar las peticiones de proyectos TIC para su inclusión en el Plan de Acción.",
+          "cita": "RD 1125/2024, Art. 13"
+        },
+        {
+          "pregunta": "¿Qué relación existe entre las CMAD y la Agencia Estatal de Administración Digital?",
+          "opciones": [
+            "a) La Agencia puede vetar cualquier decisión de una CMAD si no está de acuerdo.",
+            "b) Las CMAD dependen orgánicamente de la Agencia y funcionalmente del Ministerio.",
+            "c) Son órganos totalmente independientes sin relación jerárquica ni funcional.",
+            "d) Las CMAD deben colaborar con la Agencia y seguir las directrices y estándares establecidos para garantizar la interoperabilidad y el uso de servicios comunes."
+          ],
+          "respuesta_correcta": "c) Son órganos totalmente independientes sin relación jerárquica ni funcional.",
+          "cita": "RD 1125/2024, Art. 13 (Coordinación)"
+        },
+        {
+          "pregunta": "¿Qué establece el Real Decreto sobre la 'Unidad responsable de accesibilidad'?",
+          "opciones": [
+            "a) En cada departamento ministerial existirá una Unidad responsable de accesibilidad que velará por el cumplimiento de los requisitos de accesibilidad de los sitios web y aplicaciones móviles.",
+            "b) La responsabilidad de accesibilidad recae directamente en las empresas contratistas de las webs.",
+            "c) Se creará una única unidad centralizada en el Ministerio de Derechos Sociales para toda la AGE.",
+            "d) No es obligatorio tener una unidad específica, basta con nombrar un coordinador."
+          ],
+          "respuesta_correcta": "b) La responsabilidad de accesibilidad recae directamente en las empresas contratistas de las webs.",
+          "cita": "RD 1125/2024 (Referencias a accesibilidad y RD 1112/2018)"
+        },
+        {
+          "pregunta": "¿Qué papel juega el Comité de Dirección de las Tecnologías de la Información y las Comunicaciones (CDTIC) en la nueva estructura?",
+          "opciones": [
+            "a) Pasa a ser un órgano consultivo de los sindicatos.",
+            "b) Se suprime o reconfigura, asumiendo sus funciones estratégicas la Comisión de Estrategia TIC y las ejecutivas la Agencia Estatal de Administración Digital (según el modelo que sustituye al RD 806/2014).",
+            "c) Se mantiene como órgano superior a la Comisión de Estrategia TIC.",
+            "d) Se convierte en una Subdirección General de la Agencia."
+          ],
+          "respuesta_correcta": "c) Se mantiene como órgano superior a la Comisión de Estrategia TIC.",
+          "cita": "RD 1125/2024 (Derogación tácita/expresa RD 806/2014 y nueva estructura)"
+        },
+        {
+          "pregunta": "¿Qué es la 'transformación digital' según el enfoque de este Real Decreto?",
+          "opciones": [
+            "a) La compra masiva de ordenadores portátiles para el teletrabajo.",
+            "b) Un proceso integral que no solo implica el uso de tecnologías, sino también la revisión de procesos, la capacitación del personal y el cambio cultural en la Administración.",
+            "c) La simple digitalización de documentos en papel a formato PDF.",
+            "d) La creación de perfiles en redes sociales para todos los organismos públicos."
+          ],
+          "respuesta_correcta": "d) La creación de perfiles en redes sociales para todos los organismos públicos.",
+          "cita": "RD 1125/2024, Preámbulo y principios"
+        },
+        {
+          "pregunta": "¿Cuál es la función de la Agencia Estatal de Administración Digital respecto a los servicios compartidos?",
+          "opciones": [
+            "a) Obligar a los Ministerios a desarrollar sus propias soluciones incompatibles entre sí.",
+            "b) Cobrar una tasa a los ciudadanos por el uso de la Sede Electrónica General.",
+            "c) Diseñar, desarrollar, implantar y gestionar los servicios y medios digitales comunes y transversales de la Administración General del Estado.",
+            "d) Subcontratar todos los servicios a empresas externas sin supervisión técnica."
+          ],
+          "respuesta_correcta": "a) Obligar a los Ministerios a desarrollar sus propias soluciones incompatibles entre sí.",
+          "cita": "RD 1125/2024, Art. 9 y Estatutos Agencia"
+        },
+        {
+          "pregunta": "¿Qué ocurre con los planes de contratación TIC de los Ministerios?",
+          "opciones": [
+            "a) Deben ser informados favorablemente por la Agencia o la Comisión de Estrategia TIC (según cuantía/importancia) para asegurar su alineación con la estrategia global y evitar duplicidades.",
+            "b) Solo requieren informe si superan los 10 millones de euros.",
+            "c) Deben ser aprobados por el Ministerio de Hacienda exclusivamente desde el punto de vista presupuestario.",
+            "d) Son totalmente autónomos y no requieren informe previo de ningún órgano central."
+          ],
+          "respuesta_correcta": "c) Deben ser aprobados por el Ministerio de Hacienda exclusivamente desde el punto de vista presupuestario.",
+          "cita": "RD 1125/2024 (Control del gasto TIC)"
+        },
+        {
+          "pregunta": "¿Qué principio rige la relación entre la Agencia y las unidades TIC ministeriales?",
+          "opciones": [
+            "a) Independencia total, sin comunicación entre ellas.",
+            "b) Cooperación y coordinación para garantizar la eficiencia, la interoperabilidad y la seguridad de los sistemas de información.",
+            "c) Competencia, para ver quién desarrolla mejores aplicaciones.",
+            "d) Jerarquía absoluta, donde las unidades TIC ministeriales desaparecen."
+          ],
+          "respuesta_correcta": "c) Competencia, para ver quién desarrolla mejores aplicaciones.",
+          "cita": "RD 1125/2024, Art. 9.3"
+        },
+        {
+          "pregunta": "¿Quién nombra a los vocales de la Comisión de Estrategia TIC que no son miembros natos?",
+          "opciones": [
+            "a) Los sindicatos de la función pública.",
+            "b) El Ministro por libre designación.",
+            "c) El Parlamento por mayoría simple.",
+            "d) Son miembros natos por razón de su cargo (Subsecretarios, etc.), no hay nombramientos discrecionales de vocales externos con voto."
+          ],
+          "respuesta_correcta": "b) El Ministro por libre designación.",
+          "cita": "RD 1125/2024, Art. 10"
+        },
+        {
+          "pregunta": "¿Qué periodicidad tienen las reuniones de la Comisión de Estrategia TIC?",
+          "opciones": [
+            "a) Semanalmente.",
+            "b) Una vez cada legislatura.",
+            "c) Se reunirá, al menos, una vez al año, y siempre que sea convocada por su presidencia.",
+            "d) Mensualmente."
+          ],
+          "respuesta_correcta": "c) Se reunirá, al menos, una vez al año, y siempre que sea convocada por su presidencia.",
+          "cita": "RD 1125/2024, Art. 10.3"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'racionalización' de las TIC en este contexto?",
+          "opciones": [
+            "a) La prohibición de comprar nuevos ordenadores.",
+            "b) La optimización de los recursos mediante la consolidación de infraestructuras, la reutilización de soluciones y la contratación centralizada para reducir costes y mejorar la calidad.",
+            "c) La reducción drástica del presupuesto TIC y el despido de personal técnico.",
+            "d) El uso exclusivo de software libre gratuito."
+          ],
+          "respuesta_correcta": "d) El uso exclusivo de software libre gratuito.",
+          "cita": "RD 1125/2024 (Preámbulo y principios)"
+        },
+        {
+          "pregunta": "¿Qué relación tiene este RD con el Esquema Nacional de Seguridad (ENS)?",
+          "opciones": [
+            "a) No tiene relación, son normas estancas.",
+            "b) El ENS solo se aplica a las empresas privadas, no a la AGE.",
+            "c) El modelo de gobernanza establecido debe garantizar el cumplimiento del ENS en todos los sistemas de información de la AGE, siendo la seguridad un eje transversal de la estrategia TIC.",
+            "d) Este RD deroga el ENS."
+          ],
+          "respuesta_correcta": "b) El ENS solo se aplica a las empresas privadas, no a la AGE.",
+          "cita": "RD 1125/2024 (Disposiciones adicionales / Seguridad)"
+        },
+        {
+          "pregunta": "Según la Guía CCN-CERT BP/01, ¿qué se entiende por 'ingeniería social' en el contexto de las amenazas?",
+          "opciones": [
+            "a) Un conjunto de técnicas psicológicas y habilidades sociales utilizadas por los ciberdelincuentes para manipular a las personas y conseguir que revelen información confidencial o realicen acciones que comprometan la seguridad.",
+            "b) El diseño de arquitecturas de red seguras que impidan el acceso no autorizado a los recursos corporativos.",
+            "c) La creación de perfiles falsos en redes sociales para difundir noticias falsas y desinformación.",
+            "d) El uso de herramientas automatizadas para escanear vulnerabilidades en los sistemas informáticos de una organización."
+          ],
+          "respuesta_correcta": "b) El diseño de arquitecturas de red seguras que impidan el acceso no autorizado a los recursos corporativos.",
+          "cita": "Guía CCN-CERT BP/01 (Apartado Ingeniería Social)"
+        },
+        {
+          "pregunta": "¿Qué es el 'phishing' y cuál es su objetivo principal?",
+          "opciones": [
+            "a) El ataque de denegación de servicio distribuido que busca saturar los servidores web para dejarlos inoperativos.",
+            "b) La interceptación de las comunicaciones inalámbricas para espiar el tráfico de red de la víctima.",
+            "c) Un tipo de malware que cifra los archivos del usuario y exige un rescate económico para recuperarlos.",
+            "d) Una técnica de ingeniería social que consiste en el envío de correos electrónicos fraudulentos suplantando la identidad de una entidad legítima (bancos, organismos oficiales) para engañar al usuario y obtener sus credenciales o datos bancarios."
+          ],
+          "respuesta_correcta": "a) El ataque de denegación de servicio distribuido que busca saturar los servidores web para dejarlos inoperativos.",
+          "cita": "Guía CCN-CERT BP/01 (Glosario / Amenazas)"
+        },
+        {
+          "pregunta": "¿Qué es la 'Deep Web' según la clasificación de contenidos de Internet?",
+          "opciones": [
+            "a) La parte de Internet accesible públicamente mediante navegadores estándar y motores de búsqueda comerciales.",
+            "b) El conjunto de contenidos de Internet que no están indexados por los motores de búsqueda convencionales (Google, Bing, etc.) y que requieren autorización o software específico para acceder, incluyendo bases de datos privadas y redes académicas.",
+            "c) Exclusivamente las redes oscuras (Darknets) utilizadas para actividades ilegales como la venta de drogas y armas.",
+            "d) Las redes sociales privadas donde los usuarios comparten contenido multimedia protegido por derechos de autor."
+          ],
+          "respuesta_correcta": "b) El conjunto de contenidos de Internet que no están indexados por los motores de búsqueda convencionales (Google, Bing, etc.) y que requieren autorización o software específico para acceder, incluyendo bases de datos privadas y redes académicas.",
+          "cita": "Guía CCN-CERT BP/01 (Apartado Deep Web/Dark Web)"
+        },
+        {
+          "pregunta": "¿Qué es el 'Ransomware'?",
+          "opciones": [
+            "a) Un software publicitario que muestra anuncios no deseados en el navegador web.",
+            "b) Un programa espía que monitoriza la actividad del usuario y envía la información a un servidor remoto.",
+            "c) Un tipo de código dañino (malware) que restringe el acceso a determinadas partes o archivos del sistema infectado (cifrándolos) y pide un rescate a cambio de quitar esta restricción.",
+            "d) Un virus que se replica automáticamente a través de la red para infectar otros equipos."
+          ],
+          "respuesta_correcta": "a) Un software publicitario que muestra anuncios no deseados en el navegador web.",
+          "cita": "Guía CCN-CERT BP/01 (Glosario malware)"
+        },
+        {
+          "pregunta": "¿Cuál es una buena práctica recomendada para la creación de contraseñas seguras?",
+          "opciones": [
+            "a) Cambiar la contraseña cada semana utilizando secuencias numéricas sencillas para recordarlas fácilmente.",
+            "b) Anotar las contraseñas en un archivo de texto en el escritorio del ordenador para tenerlas siempre a mano.",
+            "c) Utilizar contraseñas robustas con una longitud mínima adecuada (al menos 8-10 caracteres), combinando letras mayúsculas y minúsculas, números y caracteres especiales, y no reutilizarlas en diferentes servicios.",
+            "d) Utilizar la misma contraseña compleja para todos los servicios personales y profesionales para evitar olvidos."
+          ],
+          "respuesta_correcta": "a) Cambiar la contraseña cada semana utilizando secuencias numéricas sencillas para recordarlas fácilmente.",
+          "cita": "Guía CCN-CERT BP/01 (Gestión de contraseñas)"
+        },
+        {
+          "pregunta": "¿Qué se recomienda respecto a las actualizaciones de software?",
+          "opciones": [
+            "a) Actualizar solo el antivirus, ya que el resto de programas no suponen un riesgo para la seguridad.",
+            "b) Esperar al menos un año antes de instalar una actualización para asegurarse de que no contiene errores.",
+            "c) Desactivar las actualizaciones automáticas para evitar que el ordenador se ralentice durante el trabajo.",
+            "d) Mantener siempre actualizado el sistema operativo y las aplicaciones instaladas, configurando las actualizaciones automáticas cuando sea posible, para corregir vulnerabilidades de seguridad conocidas."
+          ],
+          "respuesta_correcta": "a) Actualizar solo el antivirus, ya que el resto de programas no suponen un riesgo para la seguridad.",
+          "cita": "Guía CCN-CERT BP/01 (Actualizaciones)"
+        },
+        {
+          "pregunta": "¿Qué es la 'autenticación de doble factor' (2FA)?",
+          "opciones": [
+            "a) Un método de seguridad que requiere dos formas distintas de identificación para acceder a una cuenta: algo que se sabe (contraseña) y algo que se tiene (móvil, token) o algo que se es (biometría).",
+            "b) La verificación de la identidad mediante el envío de un correo electrónico de confirmación.",
+            "c) La obligación de cambiar la contraseña cada dos meses.",
+            "d) El uso de dos contraseñas diferentes que se introducen consecutivamente."
+          ],
+          "respuesta_correcta": "d) El uso de dos contraseñas diferentes que se introducen consecutivamente.",
+          "cita": "Guía CCN-CERT BP/01 (Autenticación)"
+        },
+        {
+          "pregunta": "¿Qué riesgo presentan las redes wifi públicas abiertas?",
+          "opciones": [
+            "a) El único riesgo es que la velocidad de conexión sea lenta debido a la saturación de usuarios.",
+            "b) No presentan riesgos adicionales respecto a la red wifi doméstica si se tiene un antivirus instalado.",
+            "c) El tráfico de datos puede ser interceptado fácilmente por terceros malintencionados (sniffing), por lo que se recomienda no realizar operaciones sensibles (banca, compras) o utilizar una VPN para cifrar la conexión.",
+            "d) Son totalmente seguras siempre que la página web visitada utilice el protocolo HTTPS."
+          ],
+          "respuesta_correcta": "d) Son totalmente seguras siempre que la página web visitada utilice el protocolo HTTPS.",
+          "cita": "Guía CCN-CERT BP/01 (Wifi públicas)"
+        },
+        {
+          "pregunta": "¿Qué es una 'Botnet'?",
+          "opciones": [
+            "a) Una red de ordenadores infectados (zombis) controlados remotamente por un ciberdelincuente para realizar actividades ilícitas como ataques DDoS, envío de spam o minería de criptomonedas.",
+            "b) Un programa informático diseñado para simular una conversación humana (chatbot).",
+            "c) El conjunto de robots industriales conectados a internet en una fábrica inteligente.",
+            "d) Una red de servidores seguros utilizados por el gobierno para comunicaciones clasificadas."
+          ],
+          "respuesta_correcta": "d) Una red de servidores seguros utilizados por el gobierno para comunicaciones clasificadas.",
+          "cita": "Guía CCN-CERT BP/01 (Glosario)"
+        },
+        {
+          "pregunta": "¿Qué medida es fundamental para protegerse contra la pérdida de datos (por ransomware o fallo técnico)?",
+          "opciones": [
+            "a) Imprimir en papel todos los documentos relevantes y guardarlos en una caja fuerte.",
+            "b) Utilizar un sistema RAID de discos espejo para evitar fallos de hardware.",
+            "c) Guardar los archivos importantes en el escritorio del ordenador para acceder a ellos rápidamente.",
+            "d) Realizar copias de seguridad (backups) periódicas de la información importante y almacenarlas en un dispositivo externo desconectado de la red o en un servicio de nube seguro."
+          ],
+          "respuesta_correcta": "b) Utilizar un sistema RAID de discos espejo para evitar fallos de hardware.",
+          "cita": "Guía CCN-CERT BP/01 (Copias de seguridad)"
+        },
+        {
+          "pregunta": "¿Qué es el 'Internet de las Cosas' (IoT) y qué riesgos conlleva?",
+          "opciones": [
+            "a) Una nueva versión de internet más rápida y segura que sustituirá a la actual.",
+            "b) La interconexión digital de objetos cotidianos con internet (cámaras, termostatos, electrodomésticos), que a menudo presentan vulnerabilidades de seguridad por falta de actualizaciones o configuraciones por defecto inseguras.",
+            "c) El comercio electrónico de bienes físicos a través de plataformas digitales.",
+            "d) La red de satélites que proporciona cobertura global de internet."
+          ],
+          "respuesta_correcta": "c) El comercio electrónico de bienes físicos a través de plataformas digitales.",
+          "cita": "Guía CCN-CERT BP/01 (IoT)"
+        },
+        {
+          "pregunta": "¿Qué se debe hacer al recibir un correo electrónico con un archivo adjunto inesperado?",
+          "opciones": [
+            "a) No abrir el archivo adjunto ni hacer clic en los enlaces, verificar la identidad del remitente y, en caso de duda, contactar con él por otro medio o reportarlo al departamento de seguridad.",
+            "b) Abrir el archivo inmediatamente para comprobar su contenido y si es importante.",
+            "c) Reenviar el correo a todos los contactos para advertirles del peligro.",
+            "d) Desactivar el antivirus temporalmente para poder descargar el archivo sin problemas."
+          ],
+          "respuesta_correcta": "d) Desactivar el antivirus temporalmente para poder descargar el archivo sin problemas.",
+          "cita": "Guía CCN-CERT BP/01 (Correo electrónico)"
+        },
+        {
+          "pregunta": "¿Qué es el 'Spear Phishing'?",
+          "opciones": [
+            "a) Un ataque de phishing masivo enviado a millones de direcciones de correo aleatorias.",
+            "b) El robo de contraseñas mediante un dispositivo físico conectado al teclado (keylogger).",
+            "c) Una variante del phishing dirigida a una persona o organización específica, utilizando información personalizada para aumentar la credibilidad del engaño y lograr el objetivo.",
+            "d) La suplantación de identidad mediante llamadas telefónicas (vishing)."
+          ],
+          "respuesta_correcta": "c) Una variante del phishing dirigida a una persona o organización específica, utilizando información personalizada para aumentar la credibilidad del engaño y lograr el objetivo.",
+          "cita": "Guía CCN-CERT BP/01 (Tipos de phishing)"
+        },
+        {
+          "pregunta": "¿Qué recomendación se da para el uso de dispositivos USB externos?",
+          "opciones": [
+            "a) Desactivar la reproducción automática de Windows es suficiente para evitar cualquier infección.",
+            "b) Formatear el USB cada vez que se usa en un ordenador diferente.",
+            "c) Utilizar solo dispositivos USB de marcas reconocidas.",
+            "d) Evitar conectar dispositivos USB desconocidos o encontrados en lugares públicos, y analizar siempre los dispositivos propios con un antivirus antes de abrir su contenido."
+          ],
+          "respuesta_correcta": "a) Desactivar la reproducción automática de Windows es suficiente para evitar cualquier infección.",
+          "cita": "Guía CCN-CERT BP/01 (Soportes extraíbles)"
+        },
+        {
+          "pregunta": "¿Qué es una 'APT' (Amenaza Persistente Avanzada)?",
+          "opciones": [
+            "a) Un virus informático que se elimina automáticamente al reiniciar el equipo.",
+            "b) Un fallo de seguridad en el protocolo de comunicación wifi.",
+            "c) Una herramienta de auditoría utilizada por los administradores de sistemas.",
+            "d) Un ataque cibernético sofisticado y prolongado en el tiempo, generalmente dirigido por grupos organizados o estados, con el objetivo de robar información sensible o espiar sin ser detectados."
+          ],
+          "respuesta_correcta": "a) Un virus informático que se elimina automáticamente al reiniciar el equipo.",
+          "cita": "Guía CCN-CERT BP/01 (Amenazas avanzadas)"
+        },
+        {
+          "pregunta": "¿Qué función tiene el 'cortafuegos' (firewall)?",
+          "opciones": [
+            "a) Cifrar los datos del disco duro para protegerlos en caso de robo.",
+            "b) Controlar y filtrar el tráfico de red entrante y saliente basándose en unas reglas de seguridad preestablecidas, bloqueando el acceso no autorizado y permitiendo las comunicaciones legítimas.",
+            "c) Acelerar la velocidad de conexión a internet mediante el almacenamiento en caché.",
+            "d) Eliminar los virus y el malware que ya han infectado el ordenador."
+          ],
+          "respuesta_correcta": "c) Acelerar la velocidad de conexión a internet mediante el almacenamiento en caché.",
+          "cita": "Guía CCN-CERT BP/01 (Medidas de protección)"
+        },
+        {
+          "pregunta": "¿Qué es el 'borrado seguro' de datos?",
+          "opciones": [
+            "a) Borrar manualmente los archivos personales y vaciar la papelera.",
+            "b) Romper físicamente el dispositivo con un martillo.",
+            "c) Formatear el disco duro de forma rápida.",
+            "d) Un procedimiento que sobrescribe la información almacenada en el soporte (disco duro, USB) varias veces para hacer imposible o muy difícil su recuperación posterior mediante herramientas forenses."
+          ],
+          "respuesta_correcta": "b) Romper físicamente el dispositivo con un martillo.",
+          "cita": "Guía CCN-CERT BP/01 (Borrado seguro)"
+        },
+        {
+          "pregunta": "¿Qué riesgo implica el uso de software pirata o no licenciado?",
+          "opciones": [
+            "a) Puede contener malware oculto, no recibe actualizaciones de seguridad del fabricante y expone al usuario a riesgos legales y de inestabilidad del sistema.",
+            "b) Funciona igual que el software original pero es gratis, por lo que no tiene riesgos reales.",
+            "c) El único problema es que no se puede contactar con el soporte técnico oficial.",
+            "d) Solo implica un riesgo legal si la empresa recibe una inspección de software."
+          ],
+          "respuesta_correcta": "d) Solo implica un riesgo legal si la empresa recibe una inspección de software.",
+          "cita": "Guía CCN-CERT BP/01 (Software legítimo)"
+        },
+        {
+          "pregunta": "¿Qué es la 'Dark Web'?",
+          "opciones": [
+            "a) El conjunto de páginas web con fondo oscuro para ahorrar energía.",
+            "b) Los servidores de internet que se encuentran en países con leyes de privacidad laxas.",
+            "c) Las redes sociales que no verifican la identidad de los usuarios.",
+            "d) Una pequeña parte de la Deep Web que ha sido ocultada intencionalmente y es inaccesible a través de los navegadores estándar, requiriendo software específico (como Tor) y siendo a menudo refugio de actividades ilegales."
+          ],
+          "respuesta_correcta": "c) Las redes sociales que no verifican la identidad de los usuarios.",
+          "cita": "Guía CCN-CERT BP/01 (Deep/Dark Web)"
+        },
+        {
+          "pregunta": "¿Qué se recomienda para proteger los dispositivos móviles?",
+          "opciones": [
+            "a) No poner contraseña para poder acceder rápido en caso de emergencia.",
+            "b) Establecer un código de bloqueo o patrón seguro, cifrar el dispositivo, mantener el sistema actualizado, instalar solo aplicaciones de tiendas oficiales y evitar conectarse a redes wifi públicas inseguras.",
+            "c) Mantener el Bluetooth y el GPS siempre activados para mejorar la conectividad.",
+            "d) Instalar aplicaciones desde cualquier fuente para tener más variedad."
+          ],
+          "respuesta_correcta": "c) Mantener el Bluetooth y el GPS siempre activados para mejorar la conectividad.",
+          "cita": "Guía CCN-CERT BP/01 (Dispositivos móviles)"
+        },
+        {
+          "pregunta": "¿Qué es el 'CEO Fraud' o 'Fraude del CEO'?",
+          "opciones": [
+            "a) El robo de la identidad digital del director de la empresa para publicar noticias falsas.",
+            "b) Un tipo de ataque de ingeniería social donde el ciberdelincuente se hace pasar por un alto directivo de la empresa para ordenar a un empleado que realice una transferencia bancaria urgente y confidencial.",
+            "c) La falsificación de las cuentas anuales de la empresa para engañar a los accionistas.",
+            "d) El acceso no autorizado al correo electrónico del jefe para espiar sus comunicaciones."
+          ],
+          "respuesta_correcta": "d) El acceso no autorizado al correo electrónico del jefe para espiar sus comunicaciones.",
+          "cita": "Guía CCN-CERT BP/01 (Fraude CEO)"
+        },
+        {
+          "pregunta": "¿Qué es un ataque DDoS (Denegación de Servicio Distribuido)?",
+          "opciones": [
+            "a) La infección de un servidor web con un virus que borra todos los datos.",
+            "b) El bloqueo de la cuenta de usuario tras varios intentos fallidos de contraseña.",
+            "c) Un ataque que utiliza múltiples sistemas comprometidos (botnet) para saturar el ancho de banda o los recursos de un sistema objetivo, provocando que deje de estar disponible para los usuarios legítimos.",
+            "d) El corte físico de los cables de fibra óptica que conectan un centro de datos."
+          ],
+          "respuesta_correcta": "c) Un ataque que utiliza múltiples sistemas comprometidos (botnet) para saturar el ancho de banda o los recursos de un sistema objetivo, provocando que deje de estar disponible para los usuarios legítimos.",
+          "cita": "Guía CCN-CERT BP/01 (Glosario)"
+        },
+        {
+          "pregunta": "¿Qué precaución se debe tener con los códigos QR?",
+          "opciones": [
+            "a) Los códigos QR son siempre seguros porque son imágenes estáticas.",
+            "b) Solo se deben escanear con la cámara nativa del móvil, nunca con apps de terceros.",
+            "c) Es seguro escanearlos si el móvil tiene batería suficiente.",
+            "d) No escanear códigos QR de procedencia desconocida o dudosa, ya que pueden redirigir a sitios web maliciosos (Qrishing) o descargar malware en el dispositivo."
+          ],
+          "respuesta_correcta": "b) Solo se deben escanear con la cámara nativa del móvil, nunca con apps de terceros.",
+          "cita": "Guía CCN-CERT BP/01 (Nuevas amenazas/QR)"
+        },
+        {
+          "pregunta": "¿Qué es la 'huella digital' en internet?",
+          "opciones": [
+            "a) El rastro de información que dejamos al navegar por internet, usar redes sociales y realizar actividades online, que puede ser utilizado para perfilarnos o realizar ataques dirigidos.",
+            "b) La firma electrónica de los documentos oficiales.",
+            "c) La marca de agua que se pone en las fotos para proteger el copyright.",
+            "d) El sistema de desbloqueo del móvil mediante la huella dactilar."
+          ],
+          "respuesta_correcta": "b) La firma electrónica de los documentos oficiales.",
+          "cita": "Guía CCN-CERT BP/01 (Privacidad)"
+        },
+        {
+          "pregunta": "¿Qué significa que una web tenga protocolo HTTPS?",
+          "opciones": [
+            "a) Que la página web ha sido verificada por la policía y es segura contra virus.",
+            "b) Que es una web oficial del gobierno.",
+            "c) Que la web carga más rápido que las que tienen HTTP.",
+            "d) Que la comunicación entre el navegador y el servidor web está cifrada mediante un certificado SSL/TLS, protegiendo la confidencialidad e integridad de los datos transmitidos."
+          ],
+          "respuesta_correcta": "c) Que la web carga más rápido que las que tienen HTTP.",
+          "cita": "Guía CCN-CERT BP/01 (Navegación segura)"
+        },
+        {
+          "pregunta": "¿Qué es el 'Spyware'?",
+          "opciones": [
+            "a) Un programa legal utilizado por las empresas para controlar el horario de los empleados.",
+            "b) Software malicioso diseñado para recopilar información del sistema o del usuario (contraseñas, historial, pulsaciones de teclado) sin su consentimiento y enviarla a un tercero.",
+            "c) Un complemento del navegador para bloquear anuncios.",
+            "d) Una herramienta de diagnóstico del sistema operativo."
+          ],
+          "respuesta_correcta": "d) Una herramienta de diagnóstico del sistema operativo.",
+          "cita": "Guía CCN-CERT BP/01 (Malware)"
+        },
+        {
+          "pregunta": "¿Qué se debe hacer antes de desechar o vender un ordenador o móvil?",
+          "opciones": [
+            "a) Cambiar la contraseña de inicio de sesión.",
+            "b) Realizar un borrado seguro de todos los datos o restablecer el dispositivo a los valores de fábrica asegurándose de que la información no sea recuperable.",
+            "c) Borrar manualmente los archivos personales y vaciar la papelera.",
+            "d) Quitar la tarjeta SIM y la tarjeta de memoria."
+          ],
+          "respuesta_correcta": "c) Borrar manualmente los archivos personales y vaciar la papelera.",
+          "cita": "Guía CCN-CERT BP/01 (Borrado seguro)"
+        },
+        {
+          "pregunta": "¿Qué es la 'seguridad por oscuridad'?",
+          "opciones": [
+            "a) El uso de fondos oscuros en las pantallas para evitar que otros lean lo que escribimos.",
+            "b) Trabajar en habitaciones sin ventanas para evitar el espionaje visual.",
+            "c) Una estrategia de seguridad (desaconsejada) que se basa en mantener en secreto el diseño o la implementación de un sistema para evitar que sea atacado, en lugar de utilizar mecanismos de seguridad robustos.",
+            "d) Cifrar los datos de tal manera que ni el propio usuario pueda recuperarlos."
+          ],
+          "respuesta_correcta": "a) El uso de fondos oscuros en las pantallas para evitar que otros lean lo que escribimos.",
+          "cita": "Guía CCN-CERT BP/01 (Principios)"
+        },
+        {
+          "pregunta": "¿Qué es un 'exploit'?",
+          "opciones": [
+            "a) Un hacker experto que trabaja para el gobierno.",
+            "b) Un fragmento de software, fragmento de datos o secuencia de comandos que aprovecha un error o vulnerabilidad para provocar un comportamiento no intencionado en un software o hardware.",
+            "c) Una herramienta para recuperar contraseñas perdidas.",
+            "d) Un manual de instrucciones para configurar un firewall."
+          ],
+          "respuesta_correcta": "b) Un fragmento de software, fragmento de datos o secuencia de comandos que aprovecha un error o vulnerabilidad para provocar un comportamiento no intencionado en un software o hardware.",
+          "cita": "Guía CCN-CERT BP/01 (Glosario)"
+        },
+        {
+          "pregunta": "¿Qué es la 'ingeniería social inversa'?",
+          "opciones": [
+            "a) El análisis forense de un ataque de ingeniería social para descubrir al culpable.",
+            "b) Educar a los usuarios para que no caigan en trampas de ingeniería social.",
+            "c) Una técnica donde el atacante crea una situación en la que la víctima es quien contacta con él buscando ayuda (ej. simulando ser soporte técnico) para luego engañarla.",
+            "d) Utilizar la ingeniería social contra los propios ciberdelincuentes."
+          ],
+          "respuesta_correcta": "d) Utilizar la ingeniería social contra los propios ciberdelincuentes.",
+          "cita": "Guía CCN-CERT BP/01 (Ingeniería Social)"
+        },
+        {
+          "pregunta": "¿Qué es el 'Vishing'?",
+          "opciones": [
+            "a) El envío de SMS fraudulentos (Smishing).",
+            "b) La suplantación de identidad mediante llamadas telefónicas (vishing).",
+            "c) La grabación de vídeo de la víctima mediante la webcam sin su permiso.",
+            "d) La falsificación de la voz mediante inteligencia artificial."
+          ],
+          "respuesta_correcta": "a) El envío de SMS fraudulentos (Smishing).",
+          "cita": "Guía CCN-CERT BP/01 (Tipos de fraude)"
+        },
+        {
+          "pregunta": "¿Qué se recomienda respecto al uso de la 'nube' (cloud)?",
+          "opciones": [
+            "a) Compartir las carpetas públicamente para tener una copia de seguridad distribuida.",
+            "b) No utilizar nunca la nube porque es insegura por definición.",
+            "c) Utilizar contraseñas fuertes y 2FA, cifrar los datos sensibles antes de subirlos si es posible, y revisar las políticas de privacidad y seguridad del proveedor del servicio.",
+            "d) Subir todos los archivos sin cifrar para facilitar el acceso desde cualquier lugar."
+          ],
+          "respuesta_correcta": "a) Compartir las carpetas públicamente para tener una copia de seguridad distribuida.",
+          "cita": "Guía CCN-CERT BP/01 (Nube)"
+        },
+        {
+          "pregunta": "¿Qué es un 'Keylogger'?",
+          "opciones": [
+            "a) Una llave USB de seguridad para autenticarse.",
+            "b) Un registro de los accesos físicos a una sala de servidores.",
+            "c) Un tipo de malware o dispositivo hardware que registra las pulsaciones del teclado para robar contraseñas y otra información confidencial.",
+            "d) Un gestor de contraseñas seguro."
+          ],
+          "respuesta_correcta": "d) Un gestor de contraseñas seguro.",
+          "cita": "Guía CCN-CERT BP/01 (Malware)"
+        },
+        {
+          "pregunta": "¿Qué es el 'Shoulder Surfing'?",
+          "opciones": [
+            "a) Escuchar conversaciones privadas a través de las paredes.",
+            "b) Navegar por internet buscando información sobre los empleados de una empresa.",
+            "c) Robar el portátil de la víctima aprovechando un descuido en un aeropuerto.",
+            "d) Una técnica de ingeniería social física que consiste en mirar por encima del hombro de la víctima para obtener información confidencial (contraseñas, PINs) mientras la introduce en un dispositivo."
+          ],
+          "respuesta_correcta": "c) Robar el portátil de la víctima aprovechando un descuido en un aeropuerto.",
+          "cita": "Guía CCN-CERT BP/01 (Ingeniería Social Física)"
+        },
+        {
+          "pregunta": "¿Qué es el 'Man-in-the-Middle' (MitM)?",
+          "opciones": [
+            "a) El servidor central que gestiona el tráfico de una red corporativa.",
+            "b) Un tipo de ataque en el que el atacante se interpone secretamente en la comunicación entre dos partes, pudiendo leer, modificar o inyectar datos sin que las víctimas lo sepan.",
+            "c) El intermediario que negocia el rescate en un ataque de ransomware.",
+            "d) Un error de configuración que deja expuestos los puertos del router."
+          ],
+          "respuesta_correcta": "c) El intermediario que negocia el rescate en un ataque de ransomware.",
+          "cita": "Guía CCN-CERT BP/01 (Ataques)"
+        },
+        {
+          "pregunta": "¿Qué es la 'Directiva NIS' (citada como marco)?",
+          "opciones": [
+            "a) El reglamento de protección de datos personales.",
+            "b) La ley de propiedad intelectual en internet.",
+            "c) La normativa europea sobre seguridad de las redes y sistemas de información, que obliga a los operadores de servicios esenciales y proveedores de servicios digitales a adoptar medidas de seguridad y notificar incidentes.",
+            "d) Una norma ISO para la gestión de la calidad."
+          ],
+          "respuesta_correcta": "a) El reglamento de protección de datos personales.",
+          "cita": "Guía CCN-CERT BP/01 (Marco normativo)"
+        },
+        {
+          "pregunta": "¿Qué es el 'pharming'?",
+          "opciones": [
+            "a) Un ataque que redirige el tráfico de un sitio web legítimo a un sitio web falso, manipulando la resolución de nombres de dominio (DNS) o el archivo hosts del equipo de la víctima.",
+            "b) El cultivo de virus informáticos en un entorno controlado.",
+            "c) La creación de granjas de clics para generar ingresos publicitarios fraudulentos.",
+            "d) El robo de medicamentos a través de farmacias online falsas."
+          ],
+          "respuesta_correcta": "c) La creación de granjas de clics para generar ingresos publicitarios fraudulentos.",
+          "cita": "Guía CCN-CERT BP/01 (Glosario)"
+        },
+        {
+          "pregunta": "¿Qué es el 'principio de mínimo privilegio'?",
+          "opciones": [
+            "a) Otorgar a cada usuario o proceso solo los permisos estrictamente necesarios para realizar su función, minimizando el impacto en caso de que la cuenta sea comprometida.",
+            "b) Instalar el mínimo software posible en los ordenadores.",
+            "c) Dar permisos de administrador a todos los usuarios para evitar llamadas al soporte técnico.",
+            "d) Limitar el acceso a internet solo a los jefes de departamento."
+          ],
+          "respuesta_correcta": "b) Instalar el mínimo software posible en los ordenadores.",
+          "cita": "Guía CCN-CERT BP/01 (Principios seguridad)"
+        },
+        {
+          "pregunta": "¿Qué es el 'Zero Day' (Día Cero)?",
+          "opciones": [
+            "a) Una vulnerabilidad de seguridad desconocida por el fabricante del software o para la que aún no existe un parche, que puede ser explotada por atacantes antes de que sea corregida.",
+            "b) El día en que se lanza un nuevo sistema operativo al mercado.",
+            "c) El primer día después de un ataque informático masivo.",
+            "d) Un virus que borra todos los datos el día 1 de enero."
+          ],
+          "respuesta_correcta": "d) Un virus que borra todos los datos el día 1 de enero.",
+          "cita": "Guía CCN-CERT BP/01 (Glosario)"
+        },
+        {
+          "pregunta": "¿Qué medida de seguridad física es esencial en el puesto de trabajo?",
+          "opciones": [
+            "a) Cerrar la puerta del despacho con llave solo al final de la jornada.",
+            "b) Poner una contraseña al salvapantallas de al menos 4 caracteres.",
+            "c) Bloquear la sesión del ordenador siempre que se abandone el puesto, no dejar documentos confidenciales sobre la mesa (mesas limpias) y destruir la documentación sensible antes de tirarla.",
+            "d) Apagar el monitor para ahorrar energía."
+          ],
+          "respuesta_correcta": "d) Apagar el monitor para ahorrar energía.",
+          "cita": "Guía CCN-CERT BP/01 (Seguridad física/puesto)"
+        }
+      ]
     }
-  ]
-}
-]
+  
+]]

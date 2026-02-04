@@ -1,976 +1,1176 @@
-[{
-  "tema": "TEMA 11.- DERECHO PENAL (100 PREGUNTAS)",
-  "descripcion": "Preguntas basadas en el Libro I de la LO 10/1995 del Código Penal: Títulos I, II, III (Cap. I, Sec. 1ª), IV (Cap. I), V (Cap. I y II), VI y VII.",
-  "preguntas": [
-    {
-      "pregunta": "¿Qué son los delitos según el artículo 10 del Código Penal?",
-      "opciones": [
-        "a) Las acciones u omisiones dolosas penadas por la ley.",
-        "b) Las acciones u omisiones dolosas o imprudentes penadas por la ley.",
-        "c) Solo las acciones tipificadas como graves.",
-        "d) Las infracciones administrativas castigadas penalmente."
-      ],
-      "respuesta_correcta": "b) Las acciones u omisiones dolosas o imprudentes penadas por la ley."
-    },
-    {
-      "pregunta": "¿Cuándo se castigan las acciones u omisiones imprudentes?",
-      "opciones": [
-        "a) Siempre.",
-        "b) Nunca, solo las dolosas.",
-        "c) Solo cuando expresamente lo disponga la Ley.",
-        "d) Cuando el juez lo estime oportuno."
-      ],
-      "respuesta_correcta": "c) Solo cuando expresamente lo disponga la Ley."
-    },
-    {
-      "pregunta": "¿A qué equivale la omisión según el artículo 11 del CP?",
-      "opciones": [
-        "a) A la acción, solo si hay una ley específica.",
-        "b) A la acción, cuando exista un deber jurídico de actuar (posición de garante).",
-        "c) A una falta administrativa.",
-        "d) A la imprudencia."
-      ],
-      "respuesta_correcta": "b) A la acción, cuando exista un deber jurídico de actuar (posición de garante)."
-    },
-    {
-      "pregunta": "El error invencible sobre un hecho constitutivo de la infracción penal:",
-      "opciones": [
-        "a) Atenúa la pena.",
-        "b) Excluye la responsabilidad criminal.",
-        "c) Convierte el delito en imprudente.",
-        "d) No tiene efectos."
-      ],
-      "respuesta_correcta": "b) Excluye la responsabilidad criminal."
-    },
-    {
-      "pregunta": "¿Qué efecto tiene el error vencible sobre un hecho constitutivo de la infracción?",
-      "opciones": [
-        "a) Se castiga como imprudente.",
-        "b) Exime de pena.",
-        "c) Se castiga como doloso pero atenuado.",
-        "d) Es una eximente incompleta."
-      ],
-      "respuesta_correcta": "a) Se castiga como imprudente."
-    },
-    {
-      "pregunta": "¿Cuándo existe tentativa?",
-      "opciones": [
-        "a) Cuando se piensa en cometer el delito.",
-        "b) Cuando el sujeto da principio a la ejecución del delito por hechos exteriores y no se produce el resultado por causas independientes de su voluntad.",
-        "c) Cuando se provoca a otro para delinquir.",
-        "d) Cuando se consuma el delito parcialmente."
-      ],
-      "respuesta_correcta": "b) Cuando el sujeto da principio a la ejecución del delito por hechos exteriores y no se produce el resultado por causas independientes de su voluntad."
-    },
-    {
-      "pregunta": "¿Queda exento de responsabilidad penal quien evite voluntariamente la consumación del delito en la tentativa?",
-      "opciones": [
-        "a) No, se le castiga por tentativa.",
-        "b) Sí, quedará exento de responsabilidad penal por el delito intentado.",
-        "c) Solo si avisa a la policía.",
-        "d) Se le atenúa la pena."
-      ],
-      "respuesta_correcta": "b) Sí, quedará exento de responsabilidad penal por el delito intentado."
-    },
-    {
-      "pregunta": "¿Cuándo existe conspiración?",
-      "opciones": [
-        "a) Cuando dos o más personas se conciertan para la ejecución de un delito y resuelven ejecutarlo.",
-        "b) Cuando se invita a otro a delinquir.",
-        "c) Cuando se intenta el delito.",
-        "d) Cuando se comete el delito en grupo."
-      ],
-      "respuesta_correcta": "a) Cuando dos o más personas se conciertan para la ejecución de un delito y resuelven ejecutarlo."
-    },
-    {
-      "pregunta": "¿Cuándo se castigan la conspiración, la proposición y la provocación?",
-      "opciones": [
-        "a) Siempre.",
-        "b) Nunca.",
-        "c) Solo en los casos especialmente previstos en la Ley.",
-        "d) Cuando el delito sea grave."
-      ],
-      "respuesta_correcta": "c) Solo en los casos especialmente previstos en la Ley."
-    },
-    {
-      "pregunta": "La apología se considera una forma de:",
-      "opciones": [
-        "a) Conspiración.",
-        "b) Proposición.",
-        "c) Provocación.",
-        "d) Tentativa."
-      ],
-      "respuesta_correcta": "c) Provocación."
-    },
-    {
-      "pregunta": "¿Está exento de responsabilidad criminal quien actúe en defensa de derechos propios o ajenos?",
-      "opciones": [
-        "a) Sí, siempre que concurran los requisitos de agresión ilegítima, necesidad racional del medio y falta de provocación suficiente.",
-        "b) No, solo se atenúa.",
-        "c) Sí, aunque no haya agresión ilegítima.",
-        "d) Solo si es defensa propia, no ajena."
-      ],
-      "respuesta_correcta": "a) Sí, siempre que concurran los requisitos de agresión ilegítima, necesidad racional del medio y falta de provocación suficiente."
-    },
-    {
-      "pregunta": "El 'estado de necesidad' exime de responsabilidad si:",
-      "opciones": [
-        "a) El mal causado es mayor que el que se trata de evitar.",
-        "b) El mal causado no es mayor que el que se trata de evitar, la situación no fue provocada intencionadamente y no hay obligación de sacrificarse.",
-        "c) Se actúa por miedo.",
-        "d) Se tiene hambre."
-      ],
-      "respuesta_correcta": "b) El mal causado no es mayor que el que se trata de evitar, la situación no fue provocada intencionadamente y no hay obligación de sacrificarse."
-    },
-    {
-      "pregunta": "¿Es eximente obrar en cumplimiento de un deber o en el ejercicio legítimo de un derecho?",
-      "opciones": [
-        "a) No.",
-        "b) Sí, es una causa de exención de la responsabilidad criminal (Art. 20.7).",
-        "c) Es solo atenuante.",
-        "d) Depende del juez."
-      ],
-      "respuesta_correcta": "b) Sí, es una causa de exención de la responsabilidad criminal (Art. 20.7)."
-    },
-    {
-      "pregunta": "La intoxicación plena por consumo de bebidas alcohólicas o drogas, que impida comprender la ilicitud del hecho:",
-      "opciones": [
-        "a) Es agravante.",
-        "b) Es eximente, siempre que no haya sido buscada de propósito para delinquir (actio libera in causa).",
-        "c) Es atenuante siempre.",
-        "d) No afecta."
-      ],
-      "respuesta_correcta": "b) Es eximente, siempre que no haya sido buscada de propósito para delinquir (actio libera in causa)."
-    },
-    {
-      "pregunta": "¿Qué circunstancia es atenuante según el artículo 21?",
-      "opciones": [
-        "a) La alevosía.",
-        "b) Actuar a causa de su grave adicción a sustancias tóxicas.",
-        "c) El disfraz.",
-        "d) La reincidencia."
-      ],
-      "respuesta_correcta": "b) Actuar a causa de su grave adicción a sustancias tóxicas."
-    },
-    {
-      "pregunta": "La confesión de la infracción a las autoridades es atenuante si se produce:",
-      "opciones": [
-        "a) En cualquier momento.",
-        "b) Antes de conocer que el procedimiento judicial se dirige contra él.",
-        "c) Durante el juicio.",
-        "d) Después de la sentencia."
-      ],
-      "respuesta_correcta": "b) Antes de conocer que el procedimiento judicial se dirige contra él."
-    },
-    {
-      "pregunta": "¿Qué es la alevosía?",
-      "opciones": [
-        "a) Una eximente.",
-        "b) Una agravante que se da en delitos contra las personas cuando se emplean medios que aseguran la ejecución sin riesgo para el autor.",
-        "c) Una atenuante.",
-        "d) Un delito en sí mismo."
-      ],
-      "respuesta_correcta": "b) Una agravante que se da en delitos contra las personas cuando se emplean medios que aseguran la ejecución sin riesgo para el autor."
-    },
-    {
-      "pregunta": "¿Cuándo hay reincidencia?",
-      "opciones": [
-        "a) Cuando se cometen dos delitos leves.",
-        "b) Cuando el culpable haya sido condenado ejecutoriamente por un delito comprendido en el mismo título y de la misma naturaleza.",
-        "c) Cuando se comete cualquier delito.",
-        "d) Cuando se tienen antecedentes policiales."
-      ],
-      "respuesta_correcta": "b) Cuando el culpable haya sido condenado ejecutoriamente por un delito comprendido en el mismo título y de la misma naturaleza."
-    },
-    {
-      "pregunta": "¿Qué circunstancia puede ser atenuante o agravante según la naturaleza del delito?",
-      "opciones": [
-        "a) La alevosía.",
-        "b) La circunstancia mixta de parentesco.",
-        "c) El precio.",
-        "d) La reincidencia."
-      ],
-      "respuesta_correcta": "b) La circunstancia mixta de parentesco."
-    },
-    {
-      "pregunta": "¿Quiénes son responsables criminalmente de los delitos?",
-      "opciones": [
-        "a) Solo los autores.",
-        "b) Los autores y los cómplices.",
-        "c) Los encubridores.",
-        "d) Los testigos."
-      ],
-      "respuesta_correcta": "b) Los autores y los cómplices."
-    },
-    {
-      "pregunta": "¿Quiénes se consideran autores según el artículo 28?",
-      "opciones": [
-        "a) Solo los que ejecutan el hecho por sí solos.",
-        "b) Los que realizan el hecho por sí solos, conjuntamente o por medio de otro. También los que inducen y los cooperadores necesarios.",
-        "c) Los cómplices.",
-        "d) Los encubridores."
-      ],
-      "respuesta_correcta": "b) Los que realizan el hecho por sí solos, conjuntamente o por medio de otro. También los que inducen y los cooperadores necesarios."
-    },
-    {
-      "pregunta": "¿Qué caracteriza a los cómplices?",
-      "opciones": [
-        "a) Realizan actos necesarios para el delito.",
-        "b) Cooperan a la ejecución del hecho con actos anteriores o simultáneos no necesarios.",
-        "c) Inducen al delito.",
-        "d) Ayudan después del delito."
-      ],
-      "respuesta_correcta": "b) Cooperan a la ejecución del hecho con actos anteriores o simultáneos no necesarios."
-    },
-    {
-      "pregunta": "¿Pueden las personas jurídicas ser penalmente responsables?",
-      "opciones": [
-        "a) No, nunca.",
-        "b) Sí, en los supuestos previstos en el Código Penal (Art. 31 bis).",
-        "c) Solo civilmente.",
-        "d) Solo administrativamente."
-      ],
-      "respuesta_correcta": "b) Sí, en los supuestos previstos en el Código Penal (Art. 31 bis)."
-    },
-    {
-      "pregunta": "¿Cómo se clasifican las penas según su naturaleza (Art. 32)?",
-      "opciones": [
-        "a) Graves, menos graves y leves.",
-        "b) Privativas de libertad, privativas de otros derechos y multa.",
-        "c) De prisión y de multa.",
-        "d) Principales y accesorias."
-      ],
-      "respuesta_correcta": "b) Privativas de libertad, privativas de otros derechos y multa."
-    },
-    {
-      "pregunta": "¿Cómo se clasifican las penas según su gravedad (Art. 33)?",
-      "opciones": [
-        "a) Altas, medias y bajas.",
-        "b) Graves, menos graves y leves.",
-        "c) Delitos y faltas.",
-        "d) Criminales y civiles."
-      ],
-      "respuesta_correcta": "b) Graves, menos graves y leves."
-    },
-    {
-      "pregunta": "¿La prisión permanente revisable es una pena grave?",
-      "opciones": [
-        "a) Sí.",
-        "b) No, es menos grave.",
-        "c) No existe.",
-        "d) Depende del delito."
-      ],
-      "respuesta_correcta": "a) Sí."
-    },
-    {
-      "pregunta": "¿La pena de prisión superior a cinco años es considerada:",
-      "opciones": [
-        "a) Leve.",
-        "b) Menos grave.",
-        "c) Grave.",
-        "d) Extraordinaria."
-      ],
-      "respuesta_correcta": "c) Grave."
-    },
-    {
-      "pregunta": "¿La pena de prisión de tres meses a cinco años es considerada:",
-      "opciones": [
-        "a) Leve.",
-        "b) Menos grave.",
-        "c) Grave.",
-        "d) Administrativa."
-      ],
-      "respuesta_correcta": "b) Menos grave."
-    },
-    {
-      "pregunta": "¿La inhabilitación absoluta es una pena:",
-      "opciones": [
-        "a) Grave.",
-        "b) Menos grave.",
-        "c) Leve.",
-        "d) Accesoria siempre."
-      ],
-      "respuesta_correcta": "a) Grave."
-    },
-    {
-      "pregunta": "La privación del derecho a conducir vehículos a motor superior a 8 años es pena:",
-      "opciones": [
-        "a) Grave.",
-        "b) Menos grave.",
-        "c) Leve.",
-        "d) Muy grave."
-      ],
-      "respuesta_correcta": "a) Grave."
-    },
-    {
-      "pregunta": "La privación del derecho a la tenencia y porte de armas de 3 meses a 1 año es pena:",
-      "opciones": [
-        "a) Grave.",
-        "b) Menos grave.",
-        "c) Leve.",
-        "d) Administrativa."
-      ],
-      "respuesta_correcta": "c) Leve."
-    },
-    {
-      "pregunta": "La multa de más de dos meses (sistema días-multa) es pena:",
-      "opciones": [
-        "a) Grave.",
-        "b) Menos grave.",
-        "c) Leve.",
-        "d) No es pena."
-      ],
-      "respuesta_correcta": "b) Menos grave."
-    },
-    {
-      "pregunta": "La multa de hasta dos meses es pena:",
-      "opciones": [
-        "a) Grave.",
-        "b) Menos grave.",
-        "c) Leve.",
-        "d) Administrativa."
-      ],
-      "respuesta_correcta": "c) Leve."
-    },
-    {
-      "pregunta": "Los trabajos en beneficio de la comunidad de 31 a 180 días son pena:",
-      "opciones": [
-        "a) Grave.",
-        "b) Menos grave.",
-        "c) Leve.",
-        "d) Opcional."
-      ],
-      "respuesta_correcta": "b) Menos grave."
-    },
-    {
-      "pregunta": "Los trabajos en beneficio de la comunidad de uno a 30 días son pena:",
-      "opciones": [
-        "a) Grave.",
-        "b) Menos grave.",
-        "c) Leve.",
-        "d) Administrativa."
-      ],
-      "respuesta_correcta": "c) Leve."
-    },
-    {
-      "pregunta": "La localización permanente es una pena:",
-      "opciones": [
-        "a) Grave.",
-        "b) Menos grave.",
-        "c) Leve.",
-        "d) De seguridad."
-      ],
-      "respuesta_correcta": "c) Leve."
-    },
-    {
-      "pregunta": "¿Se considera pena la detención preventiva?",
-      "opciones": [
-        "a) Sí, leve.",
-        "b) No, no se reputará pena (Art. 34).",
-        "c) Sí, grave.",
-        "d) Depende de la duración."
-      ],
-      "respuesta_correcta": "b) No, no se reputará pena (Art. 34)."
-    },
-    {
-      "pregunta": "¿Se consideran penas las multas administrativas?",
-      "opciones": [
-        "a) Sí.",
-        "b) No (Art. 34).",
-        "c) Sí, si son altas.",
-        "d) Solo las de tráfico."
-      ],
-      "respuesta_correcta": "b) No (Art. 34)."
-    },
-    {
-      "pregunta": "¿Qué son las medidas de seguridad según el Código Penal?",
-      "opciones": [
-        "a) Penas adicionales.",
-        "b) Medidas que se aplican fundamentadas en la peligrosidad criminal del sujeto.",
-        "c) Medidas administrativas.",
-        "d) Fianzas."
-      ],
-      "respuesta_correcta": "b) Medidas que se aplican fundamentadas en la peligrosidad criminal del sujeto."
-    },
-    {
-      "pregunta": "¿Cuándo se pueden imponer medidas de seguridad privativas de libertad?",
-      "opciones": [
-        "a) Siempre que haya delito.",
-        "b) Solo si el delito lleva aparejada pena de prisión y el sujeto es inimputable o semiimputable con peligrosidad.",
-        "c) Cuando el juez quiera.",
-        "d) A los reincidentes."
-      ],
-      "respuesta_correcta": "b) Solo si el delito lleva aparejada pena de prisión y el sujeto es inimputable o semiimputable con peligrosidad."
-    },
-    {
-      "pregunta": "¿Puede la medida de seguridad ser más gravosa que la pena que correspondería al delito?",
-      "opciones": [
-        "a) Sí, si es peligroso.",
-        "b) No, ni exceder el límite de lo necesario.",
-        "c) Sí, el doble.",
-        "d) Depende del fiscal."
-      ],
-      "respuesta_correcta": "b) No, ni exceder el límite de lo necesario."
-    },
-    {
-      "pregunta": "La responsabilidad civil derivada del delito comprende:",
-      "opciones": [
-        "a) Solo la restitución.",
-        "b) La restitución, la reparación del daño y la indemnización de perjuicios materiales y morales.",
-        "c) La multa.",
-        "d) Las costas solo."
-      ],
-      "respuesta_correcta": "b) La restitución, la reparación del daño y la indemnización de perjuicios materiales y morales."
-    },
-    {
-      "pregunta": "¿Quién es el responsable civil directo del delito?",
-      "opciones": [
-        "a) El Estado siempre.",
-        "b) El responsable criminal (autor o cómplice).",
-        "c) La víctima.",
-        "d) El seguro."
-      ],
-      "respuesta_correcta": "b) El responsable criminal (autor o cómplice)."
-    },
-    {
-      "pregunta": "¿Son responsables civiles los exentos de responsabilidad criminal por anomalía psíquica?",
-      "opciones": [
-        "a) No.",
-        "b) Sí, quienes los tengan bajo su potestad o guarda, o ellos mismos si tienen patrimonio.",
-        "c) Solo si quieren.",
-        "d) El Estado paga."
-      ],
-      "respuesta_correcta": "b) Sí, quienes los tengan bajo su potestad o guarda, o ellos mismos si tienen patrimonio."
-    },
-    {
-      "pregunta": "¿Qué responsabilidad civil tienen los aseguradores?",
-      "opciones": [
-        "a) Ninguna.",
-        "b) Responsabilidad civil directa hasta el límite de la indemnización legalmente establecida o pactada.",
-        "c) Subsidiaria.",
-        "d) Solidaria con la víctima."
-      ],
-      "respuesta_correcta": "b) Responsabilidad civil directa hasta el límite de la indemnización legalmente establecida o pactada."
-    },
-    {
-      "pregunta": "¿Cuándo responden los padres subsidiariamente por los delitos de sus hijos menores de 18 años?",
-      "opciones": [
-        "a) Siempre responden solidariamente según la Ley del Menor, no subsidiariamente (matiz importante: Art 120 CP aplica a mayores sujetos a patria potestad, pero la Ley del Menor tiene régimen propio solidario).",
-        "b) Según el Art. 120.1 CP, responden subsidiariamente por los delitos de los mayores de 18 sujetos a su potestad que vivan con ellos, si hay culpa in vigilando.",
-        "c) Nunca.",
-        "d) Solo si son ricos."
-      ],
-      "respuesta_correcta": "b) Según el Art. 120.1 CP, responden subsidiariamente por los delitos de los mayores de 18 sujetos a su potestad que vivan con ellos, si hay culpa in vigilando."
-    },
-    {
-      "pregunta": "¿Es responsable civil subsidiario el Estado por delitos de funcionarios públicos?",
-      "opciones": [
-        "a) No.",
-        "b) Sí, cuando actúen en el ejercicio de sus cargos o funciones.",
-        "c) Solo si es delito leve.",
-        "d) Solo si el funcionario no tiene dinero."
-      ],
-      "respuesta_correcta": "b) Sí, cuando actúen en el ejercicio de sus cargos o funciones."
-    },
-    {
-      "pregunta": "¿Qué es el decomiso (consecuencia accesoria)?",
-      "opciones": [
-        "a) Una multa.",
-        "b) La pérdida de los efectos que provengan del delito y de los instrumentos utilizados para cometerlo, así como de las ganancias.",
-        "c) La cárcel.",
-        "d) Un embargo provisional."
-      ],
-      "respuesta_correcta": "b) La pérdida de los efectos que provengan del delito y de los instrumentos utilizados para cometerlo, así como de las ganancias."
-    },
-    {
-      "pregunta": "¿Cómo se extinguen la responsabilidad criminal?",
-      "opciones": [
-        "a) Por la muerte del reo.",
-        "b) Por el cumplimiento de la condena.",
-        "c) Por la prescripción del delito o de la pena.",
-        "d) Todas las anteriores son correctas."
-      ],
-      "respuesta_correcta": "d) Todas las anteriores son correctas."
-    },
-    {
-      "pregunta": "¿El indulto extingue la responsabilidad civil?",
-      "opciones": [
-        "a) Sí.",
-        "b) No, solo la penal.",
-        "c) Depende del Rey.",
-        "d) Sí, si es total."
-      ],
-      "respuesta_correcta": "b) No, solo la penal."
-    },
-    {
-      "pregunta": "¿Cuándo prescriben los delitos graves castigados con pena máxima de prisión de 15 o más años?",
-      "opciones": [
-        "a) A los 20 años.",
-        "b) A los 15 años.",
-        "c) A los 10 años.",
-        "d) A los 30 años."
-      ],
-      "respuesta_correcta": "a) A los 20 años."
-    },
-    {
-      "pregunta": "¿Prescriben los delitos de lesa humanidad y genocidio?",
-      "opciones": [
-        "a) Sí, a los 30 años.",
-        "b) No, no prescriben en ningún caso.",
-        "c) Sí, a los 40 años.",
-        "d) Sí, a los 100 años."
-      ],
-      "respuesta_correcta": "b) No, no prescriben en ningún caso."
-    },
-    {
-      "pregunta": "¿Cuándo prescriben los delitos leves?",
-      "opciones": [
-        "a) A los 6 meses.",
-        "b) Al año.",
-        "c) A los 5 años.",
-        "d) A los 3 meses."
-      ],
-      "respuesta_correcta": "b) Al año."
-    },
-    {
-      "pregunta": "¿Cuándo prescribe la pena de prisión superior a 20 años?",
-      "opciones": [
-        "a) A los 30 años.",
-        "b) A los 20 años.",
-        "c) A los 25 años.",
-        "d) A los 40 años."
-      ],
-      "respuesta_correcta": "a) A los 30 años."
-    },
-    {
-      "pregunta": "¿Cuándo prescriben las penas leves?",
-      "opciones": [
-        "a) Al año.",
-        "b) A los 6 meses.",
-        "c) A los 3 años.",
-        "d) A los 5 años."
-      ],
-      "respuesta_correcta": "a) Al año."
-    },
-    {
-      "pregunta": "¿Qué es la 'Responsabilidad personal subsidiaria por impago de multa'?",
-      "opciones": [
-        "a) Una deuda.",
-        "b) La privación de libertad (o trabajos) que sustituye a la multa cuando el condenado no paga voluntariamente ni por vía de apremio.",
-        "c) Pagar el doble.",
-        "d) Embargo."
-      ],
-      "respuesta_correcta": "b) La privación de libertad (o trabajos) que sustituye a la multa cuando el condenado no paga voluntariamente ni por vía de apremio."
-    },
-    {
-      "pregunta": "¿Cuál es la conversión de la responsabilidad personal subsidiaria?",
-      "opciones": [
-        "a) Un día de prisión por cada dos cuotas diarias no satisfechas.",
-        "b) Un día de prisión por cada cuota diaria no satisfecha.",
-        "c) Un mes por cada cuota.",
-        "d) No hay conversión."
-      ],
-      "respuesta_correcta": "a) Un día de prisión por cada dos cuotas diarias no satisfechas."
-    },
-    {
-      "pregunta": "¿Qué se entiende por 'Dolo'? [Concepto general Título I]",
-      "opciones": [
-        "a) Equivocación.",
-        "b) Conocimiento y voluntad de realizar el hecho típico.",
-        "c) Descuido.",
-        "d) Falta de atención."
-      ],
-      "respuesta_correcta": "b) Conocimiento y voluntad de realizar el hecho típico."
-    },
-    {
-      "pregunta": "¿Qué se entiende por 'Imprudencia grave'? [Concepto general Título I]",
-      "opciones": [
-        "a) Querer matar.",
-        "b) La omisión de la diligencia más elemental exigible.",
-        "c) Un accidente fortuito.",
-        "d) Una falta leve."
-      ],
-      "respuesta_correcta": "b) La omisión de la diligencia más elemental exigible."
-    },
-    {
-      "pregunta": "¿Qué es el 'Delito leve'?",
-      "opciones": [
-        "a) Una infracción administrativa.",
-        "b) La infracción que la ley castiga con pena leve.",
-        "c) Un delito sin importancia.",
-        "d) Una falta antigua."
-      ],
-      "respuesta_correcta": "b) La infracción que la ley castiga con pena leve."
-    },
-    {
-      "pregunta": "¿Qué penas son 'privativas de derechos'?",
-      "opciones": [
-        "a) Prisión.",
-        "b) Inhabilitación absoluta, especial, suspensión de empleo, privación derecho conducir, armas, etc.",
-        "c) Multa.",
-        "d) Localización permanente."
-      ],
-      "respuesta_correcta": "b) Inhabilitación absoluta, especial, suspensión de empleo, privación derecho conducir, armas, etc."
-    },
-    {
-      "pregunta": "La suspensión de empleo o cargo público por tiempo superior a 5 años es pena:",
-      "opciones": [
-        "a) Grave.",
-        "b) Menos grave.",
-        "c) Leve.",
-        "d) Muy grave."
-      ],
-      "respuesta_correcta": "a) Grave."
-    },
-    {
-      "pregunta": "¿Qué es la 'inhabilitación absoluta'?",
-      "opciones": [
-        "a) No poder conducir.",
-        "b) La privación definitiva de todos los honores, empleos y cargos públicos, aunque sean electivos.",
-        "c) No poder viajar.",
-        "d) No poder votar."
-      ],
-      "respuesta_correcta": "b) La privación definitiva de todos los honores, empleos y cargos públicos, aunque sean electivos."
-    },
-    {
-      "pregunta": "¿Qué duración máxima tiene la pena de prisión (salvo prisión permanente o reglas especiales de concurso)?",
-      "opciones": [
-        "a) 15 años.",
-        "b) 20 años (como regla general de máximo ordinario por un delito, aunque hay excepciones).",
-        "c) 30 años.",
-        "d) 10 años."
-      ],
-      "respuesta_correcta": "b) 20 años (como regla general de máximo ordinario por un delito, aunque hay excepciones)."
-    },
-    {
-      "pregunta": "¿Cuál es la duración mínima de la pena de prisión?",
-      "opciones": [
-        "a) 6 meses.",
-        "b) 3 meses.",
-        "c) 1 año.",
-        "d) 15 días."
-      ],
-      "respuesta_correcta": "b) 3 meses."
-    },
-    {
-      "pregunta": "¿Qué es la 'autoría mediata'?",
-      "opciones": [
-        "a) Cometer el delito por medio de otro del que se sirve como instrumento.",
-        "b) Ayudar.",
-        "c) Inducir.",
-        "d) Encubrir."
-      ],
-      "respuesta_correcta": "a) Cometer el delito por medio de otro del que se sirve como instrumento."
-    },
-    {
-      "pregunta": "¿Qué es el 'cooperador necesario'?",
-      "opciones": [
-        "a) Un cómplice.",
-        "b) Quien coopera a la ejecución con un acto sin el cual no se habría efectuado (se considera autor).",
-        "c) Un encubridor.",
-        "d) Un testigo."
-      ],
-      "respuesta_correcta": "b) Quien coopera a la ejecución con un acto sin el cual no se habría efectuado (se considera autor)."
-    },
-    {
-      "pregunta": "¿Qué es la 'inducción'?",
-      "opciones": [
-        "a) Convencer.",
-        "b) Hacer que otro ejecute el delito (se considera autor).",
-        "c) Hipnosis.",
-        "d) Obligar."
-      ],
-      "respuesta_correcta": "b) Hacer que otro ejecute el delito (se considera autor)."
-    },
-    {
-      "pregunta": "¿Qué es la 'provocación' al delito?",
-      "opciones": [
-        "a) Insultar.",
-        "b) Incitar directamente por medio de imprenta, radiodifusión u otro medio de eficacia semejante, que facilite la publicidad, a la perpetración de un delito.",
-        "c) Pegar.",
-        "d) Proponer."
-      ],
-      "respuesta_correcta": "b) Incitar directamente por medio de imprenta, radiodifusión u otro medio de eficacia semejante, que facilite la publicidad, a la perpetración de un delito."
-    },
-    {
-      "pregunta": "¿Qué es la 'proposición'?",
-      "opciones": [
-        "a) Proponer matrimonio.",
-        "b) Cuando el que ha resuelto cometer un delito invita a otra u otras personas a participar en él.",
-        "c) Pedir dinero.",
-        "d) Intentar el delito."
-      ],
-      "respuesta_correcta": "b) Cuando el que ha resuelto cometer un delito invita a otra u otras personas a participar en él."
-    },
-    {
-      "pregunta": "¿Qué es el 'miedo insuperable'?",
-      "opciones": [
-        "a) Una atenuante.",
-        "b) Una eximente (Art. 20.6).",
-        "c) Una agravante.",
-        "d) Nada."
-      ],
-      "respuesta_correcta": "b) Una eximente (Art. 20.6)."
-    },
-    {
-      "pregunta": "¿Qué es el 'arrebato, obcecación o estado pasional'?",
-      "opciones": [
-        "a) Una eximente.",
-        "b) Una atenuante (Art. 21.3).",
-        "c) Una agravante.",
-        "d) Locura."
-      ],
-      "respuesta_correcta": "b) Una atenuante (Art. 21.3)."
-    },
-    {
-      "pregunta": "¿Qué es la 'reparación del daño' como atenuante?",
-      "opciones": [
-        "a) Arreglar lo roto.",
-        "b) Haber procedido el culpable a reparar el daño o disminuir sus efectos, en cualquier momento del procedimiento y con anterioridad a la celebración del acto del juicio oral.",
-        "c) Pagar la multa.",
-        "d) Pedir perdón."
-      ],
-      "respuesta_correcta": "b) Haber procedido el culpable a reparar el daño o disminuir sus efectos, en cualquier momento del procedimiento y con anterioridad a la celebración del acto del juicio oral."
-    },
-    {
-      "pregunta": "¿Qué es la 'disfraz' como agravante?",
-      "opciones": [
-        "a) Ir de carnaval.",
-        "b) Ejecutar el hecho mediante disfraz para evitar la identificación.",
-        "c) Usar guantes.",
-        "d) Ir de noche."
-      ],
-      "respuesta_correcta": "b) Ejecutar el hecho mediante disfraz para evitar la identificación."
-    },
-    {
-      "pregunta": "¿Qué es el 'precio, recompensa o promesa' como agravante?",
-      "opciones": [
-        "a) Cobrar barato.",
-        "b) Cometer el delito por motivos económicos.",
-        "c) Pagar la fianza.",
-        "d) Sobornar."
-      ],
-      "respuesta_correcta": "b) Cometer el delito por motivos económicos."
-    },
-    {
-      "pregunta": "¿Qué es el 'ensañamiento' como agravante?",
-      "opciones": [
-        "a) Pegar fuerte.",
-        "b) Aumentar deliberada e inhumanamente el sufrimiento de la víctima, causando padecimientos innecesarios.",
-        "c) Matar rápido.",
-        "d) Insultar."
-      ],
-      "respuesta_correcta": "b) Aumentar deliberada e inhumanamente el sufrimiento de la víctima, causando padecimientos innecesarios."
-    },
-    {
-      "pregunta": "¿Qué es el 'abuso de confianza' como agravante?",
-      "opciones": [
-        "a) Fiarse de alguien.",
-        "b) Obrar con abuso de confianza.",
-        "c) Ser amigo.",
-        "d) Ser familiar."
-      ],
-      "respuesta_correcta": "b) Obrar con abuso de confianza."
-    },
-    {
-      "pregunta": "¿Qué es la 'prevalencia del carácter público' como agravante?",
-      "opciones": [
-        "a) Ser funcionario.",
-        "b) Prevalerse del carácter público que tenga el culpable.",
-        "c) Ser famoso.",
-        "d) Ser político."
-      ],
-      "respuesta_correcta": "b) Prevalerse del carácter público que tenga el culpable."
-    },
-    {
-      "pregunta": "¿Qué es la 'reincidencia múltiple' (multirreincidencia) a efectos de agravante cualificada?",
-      "opciones": [
-        "a) Tener dos antecedentes.",
-        "b) Haber sido condenado ejecutoriamente por al menos tres delitos comprendidos en el mismo título y de la misma naturaleza (Art. 66).",
-        "c) Ser delincuente habitual.",
-        "d) Tener 10 multas."
-      ],
-      "respuesta_correcta": "b) Haber sido condenado ejecutoriamente por al menos tres delitos comprendidos en el mismo título y de la misma naturaleza (Art. 66)."
-    },
-    {
-      "pregunta": "¿Qué es la 'analogía' en las atenuantes?",
-      "opciones": [
-        "a) Comparar.",
-        "b) Cualquier otra circunstancia de análoga significación a las anteriores (atenuante analógica, Art. 21.7).",
-        "c) No se permite.",
-        "d) Es agravante."
-      ],
-      "respuesta_correcta": "b) Cualquier otra circunstancia de análoga significación a las anteriores (atenuante analógica, Art. 21.7)."
-    },
-    {
-      "pregunta": "¿Qué es la 'responsabilidad civil ex delicto'?",
-      "opciones": [
-        "a) La penal.",
-        "b) La obligación de reparar el daño causado por el delito.",
-        "c) La administrativa.",
-        "d) La moral."
-      ],
-      "respuesta_correcta": "b) La obligación de reparar el daño causado por el delito."
-    },
-    {
-      "pregunta": "¿A quién corresponde la acción civil derivada del delito?",
-      "opciones": [
-        "a) Al perjudicado.",
-        "b) Al Fiscal (salvo renuncia o reserva).",
-        "c) A ambos.",
-        "d) Al Estado."
-      ],
-      "respuesta_correcta": "c) A ambos (el Fiscal la ejerce si no se renuncia/reserva)."
-    },
-    {
-      "pregunta": "¿Qué sucede con las costas procesales?",
-      "opciones": [
-        "a) Son gratis.",
-        "b) Se entienden impuestas por la ley a los criminalmente responsables de todo delito.",
-        "c) Las paga el juez.",
-        "d) Las paga el Estado."
-      ],
-      "respuesta_correcta": "b) Se entienden impuestas por la ley a los criminalmente responsables de todo delito."
-    },
-    {
-      "pregunta": "¿Qué incluye el 'decomiso ampliado'?",
-      "opciones": [
-        "a) Quitar todo.",
-        "b) El decomiso de bienes cuando se presuma que proceden de actividades delictivas (en delitos graves/terrorismo/organización criminal) y no se acredite origen lícito.",
-        "c) Multas extra.",
-        "d) Impuestos."
-      ],
-      "respuesta_correcta": "b) El decomiso de bienes cuando se presuma que proceden de actividades delictivas (en delitos graves/terrorismo/organización criminal) y no se acredite origen lícito."
-    },
-    {
-      "pregunta": "¿Qué es la 'Oficina de Recuperación y Gestión de Activos' (ORGA)? [Contexto Título VI]",
-      "opciones": [
-        "a) Un banco.",
-        "b) Organismo encargado de gestionar los bienes decomisados.",
-        "c) Una inmobiliaria.",
-        "d) La policía."
-      ],
-      "respuesta_correcta": "b) Organismo encargado de gestionar los bienes decomisados."
-    },
-    {
-      "pregunta": "¿El perdón del ofendido extingue la responsabilidad criminal?",
-      "opciones": [
-        "a) Siempre.",
-        "b) Solo en delitos leves perseguibles a instancias del agraviado o delitos privados, y si la ley lo prevé.",
-        "c) Nunca.",
-        "d) Solo en familia."
-      ],
-      "respuesta_correcta": "b) Solo en delitos leves perseguibles a instancias del agraviado o delitos privados, y si la ley lo prevé."
-    },
-    {
-      "pregunta": "¿La prescripción del delito se interrumpe?",
-      "opciones": [
-        "a) No.",
-        "b) Sí, cuando el procedimiento se dirija contra el culpable.",
-        "c) Solo por el juez.",
-        "d) Solo por la policía."
-      ],
-      "respuesta_correcta": "b) Sí, cuando el procedimiento se dirija contra el culpable."
-    },
-    {
-      "pregunta": "¿Cuándo comienza a correr el plazo de prescripción de la pena?",
-      "opciones": [
-        "a) Desde el delito.",
-        "b) Desde la fecha de la sentencia firme o desde el quebrantamiento de condena.",
-        "c) Desde la detención.",
-        "d) Desde el juicio."
-      ],
-      "respuesta_correcta": "b) Desde la fecha de la sentencia firme o desde el quebrantamiento de condena."
-    },
-    {
-      "pregunta": "¿Qué es la 'cancelación de antecedentes penales'?",
-      "opciones": [
-        "a) Borrarlos.",
-        "b) Derecho de los condenados que hayan extinguido su responsabilidad penal y cumplido ciertos plazos sin delinquir.",
-        "c) Olvidarlos.",
-        "d) Romper el papel."
-      ],
-      "respuesta_correcta": "b) Derecho de los condenados que hayan extinguido su responsabilidad penal y cumplido ciertos plazos sin delinquir."
-    },
-    {
-      "pregunta": "¿Qué es el 'delito masa'? [Contexto Título I]",
-      "opciones": [
-        "a) Un delito gordo.",
-        "b) Delito continuado patrimonial que afecta a una generalidad de personas (agravado).",
-        "c) Una manifestación.",
-        "d) Un robo grande."
-      ],
-      "respuesta_correcta": "b) Delito continuado patrimonial que afecta a una generalidad de personas (agravado)."
-    },
-    {
-      "pregunta": "¿Qué es el 'delito permanente'? [Contexto Título I]",
-      "opciones": [
-        "a) El que dura siempre.",
-        "b) Aquel cuya consumación se prolonga en el tiempo (ej. detención ilegal).",
-        "c) El que no prescribe.",
-        "d) El asesinato."
-      ],
-      "respuesta_correcta": "b) Aquel cuya consumación se prolonga en el tiempo (ej. detención ilegal)."
-    },
-    {
-      "pregunta": "¿Qué es la 'aberratio ictus'? [Concepto jurídico penal Título I]",
-      "opciones": [
-        "a) Error en el golpe.",
-        "b) Error de prohibición.",
-        "c) Error de tipo.",
-        "d) Error de persona."
-      ],
-      "respuesta_correcta": "a) Error en el golpe."
-    },
-    {
-      "pregunta": "¿Qué es la 'legítima defensa putativa'? [Concepto jurídico penal Título I]",
-      "opciones": [
-        "a) Creer erróneamente que se es agredido (error).",
-        "b) Defenderse de verdad.",
-        "c) Defender a otro.",
-        "d) Pegar primero."
-      ],
-      "respuesta_correcta": "a) Creer erróneamente que se es agredido (error)."
-    },
-    {
-      "pregunta": "¿Qué es el 'miedo insuperable' como causa de exculpación?",
-      "opciones": [
-        "a) Cobardía.",
-        "b) Estado anímico de temor que anula la capacidad de decisión.",
-        "c) Pánico.",
-        "d) Susto."
-      ],
-      "respuesta_correcta": "b) Estado anímico de temor que anula la capacidad de decisión."
-    },
-    {
-      "pregunta": "¿Qué es la 'alteración en la percepción'?",
-      "opciones": [
-        "a) Ser ciego.",
-        "b) Eximente (Art. 20.3) para quien sufra alteraciones desde el nacimiento o infancia que afecten gravemente a su conciencia de la realidad.",
-        "c) Ser sordo.",
-        "d) Drogadicción."
-      ],
-      "respuesta_correcta": "b) Eximente (Art. 20.3) para quien sufra alteraciones desde el nacimiento o infancia que afecten gravemente a su conciencia de la realidad."
-    },
-    {
-      "pregunta": "¿Qué es el 'trastorno mental transitorio'?",
-      "opciones": [
-        "a) Estar loco.",
-        "b) Eximente (Art. 20.1) si es pleno y no provocado.",
-        "c) Estar borracho.",
-        "d) Estar enfadado."
-      ],
-      "respuesta_correcta": "b) Eximente (Art. 20.1) si es pleno y no provocado."
-    },
-    {
-      "pregunta": "¿Qué es la 'minoría de edad penal'?",
-      "opciones": [
-        "a) Tener menos de 21.",
-        "b) Tener menos de 18 años (Art. 19 CP).",
-        "c) Tener menos de 16.",
-        "d) Tener menos de 14."
-      ],
-      "respuesta_correcta": "b) Tener menos de 18 años (Art. 19 CP)."
+[[
+  
+    {
+      "tema": "TEMA 11.- DERECHO PENAL",
+      "descripcion": "Batería de 100 preguntas con distribución equitativa de respuestas.",
+      "preguntas": [
+        {
+          "pregunta": "Según el artículo 10 del Código Penal, ¿cómo se definen los delitos?",
+          "opciones": [
+            "a) Son delitos las acciones y omisiones dolosas o imprudentes penadas por la ley.",
+            "b) Son delitos las infracciones penales que la Ley castiga con pena grave, menos grave o leve.",
+            "c) Son delitos las conductas tipificadas como tales en el Código Penal que sean contrarias al ordenamiento jurídico.",
+            "d) Son delitos o faltas las acciones y omisiones voluntarias penadas por la ley."
+          ],
+          "respuesta_correcta": "a) Son delitos las acciones y omisiones dolosas o imprudentes penadas por la ley.",
+          "cita": "Código Penal, Art. 10"
+        },
+        {
+          "pregunta": "¿Cuándo son punibles las acciones u omisiones imprudentes según el artículo 12?",
+          "opciones": [
+            "a) La imprudencia solo es punible si es grave o temeraria, quedando impune la leve.",
+            "b) Las acciones u omisiones imprudentes sólo se castigarán cuando expresamente lo disponga la Ley.",
+            "c) Las acciones imprudentes se castigarán siempre que causen un resultado lesivo grave para terceros.",
+            "d) Siempre son punibles si causan un daño, salvo caso fortuito o fuerza mayor."
+          ],
+          "respuesta_correcta": "a) La imprudencia solo es punible si es grave o temeraria, quedando impune la leve.",
+          "cita": "Código Penal, Art. 12"
+        },
+        {
+          "pregunta": "¿Cómo se castigan los delitos consumados y las tentativas?",
+          "opciones": [
+            "a) Se castigan únicamente los delitos consumados, salvo en los delitos contra las personas.",
+            "b) La tentativa se castiga con la misma pena que el delito consumado en todos los casos.",
+            "c) Son punibles el delito consumado y la tentativa de delito.",
+            "d) La tentativa solo se castiga si es idónea y acabada."
+          ],
+          "respuesta_correcta": "b) La tentativa se castiga con la misma pena que el delito consumado en todos los casos.",
+          "cita": "Código Penal, Art. 15.1"
+        },
+        {
+          "pregunta": "¿Son punibles la provocación, la conspiración y la proposición para cometer un delito (Art. 17 y 18)?",
+          "opciones": [
+            "a) No, son actos preparatorios impunes salvo en delitos de terrorismo.",
+            "b) Sí, siempre que se trate de delitos graves o menos graves.",
+            "c) Se castigan con la pena inferior en uno o dos grados a la del delito consumado.",
+            "d) Solo se castigarán en los casos especialmente previstos en la Ley."
+          ],
+          "respuesta_correcta": "b) Sí, siempre que se trate de delitos graves o menos graves.",
+          "cita": "Código Penal, Art. 17.3 y 18.2"
+        },
+        {
+          "pregunta": "¿Qué es la 'legítima defensa' según el artículo 20.4 del CP?",
+          "opciones": [
+            "a) La reacción violenta ante una agresión ilegítima, siempre que el medio empleado sea racionalmente necesario para impedirla o repelerla.",
+            "b) El obrar en defensa de la persona o derechos propios o ajenos, siempre que concurran agresión ilegítima, necesidad racional del medio empleado y falta de provocación suficiente por parte del defensor.",
+            "c) El derecho a defender la propiedad privada con cualquier medio disponible ante una intrusión.",
+            "d) La defensa propia ante un ataque verbal o físico leve."
+          ],
+          "respuesta_correcta": "d) La defensa propia ante un ataque verbal o físico leve.",
+          "cita": "Código Penal, Art. 20.4"
+        },
+        {
+          "pregunta": "¿Cuándo está exento de responsabilidad criminal el que obra en 'estado de necesidad' (Art. 20.5)?",
+          "opciones": [
+            "a) Cuando se causa un mal para evitar otro, siempre que el mal causado no sea mayor que el que se trate de evitar, la situación no haya sido provocada intencionadamente y el necesitado no tenga obligación de sacrificarse.",
+            "b) Cuando se roba comida para alimentar a la familia en caso de desempleo.",
+            "c) Siempre que se actúe para salvar una vida humana, aunque se cause un daño patrimonial muy superior.",
+            "d) Cuando se comete un delito bajo la influencia del alcohol o drogas para calmar el síndrome de abstinencia."
+          ],
+          "respuesta_correcta": "c) Siempre que se actúe para salvar una vida humana, aunque se cause un daño patrimonial muy superior.",
+          "cita": "Código Penal, Art. 20.5"
+        },
+        {
+          "pregunta": "¿Es una circunstancia atenuante la reparación del daño?",
+          "opciones": [
+            "a) Solo si la víctima perdona expresamente al agresor.",
+            "b) No, la reparación del daño solo afecta a la responsabilidad civil, no a la penal.",
+            "c) Sí, pero solo si la reparación es total y se realiza antes de la detención.",
+            "d) Sí, haber procedido el culpable a reparar el daño ocasionado a la víctima, o disminuir sus efectos, en cualquier momento del procedimiento y con anterioridad a la celebración del acto del juicio oral."
+          ],
+          "respuesta_correcta": "d) Sí, haber procedido el culpable a reparar el daño ocasionado a la víctima, o disminuir sus efectos, en cualquier momento del procedimiento y con anterioridad a la celebración del acto del juicio oral.",
+          "cita": "Código Penal, Art. 21.5"
+        },
+        {
+          "pregunta": "¿Qué es la 'alevosía' (Art. 22.1)?",
+          "opciones": [
+            "a) Hay alevosía cuando el culpable comete cualquiera de los delitos contra las personas empleando medios, modos o formas que tiendan directa y especialmente a asegurarla, sin el riesgo que para su persona pudiera proceder de la defensa por parte del ofendido.",
+            "b) Ejecutar el hecho con ensañamiento, aumentando deliberada e inhumanamente el sufrimiento de la víctima.",
+            "c) Cometer el delito por motivos racistas, antisemitas u otra clase de discriminación.",
+            "d) Ejecutar el hecho mediante precio, recompensa o promesa."
+          ],
+          "respuesta_correcta": "d) Ejecutar el hecho mediante precio, recompensa o promesa.",
+          "cita": "Código Penal, Art. 22.1"
+        },
+        {
+          "pregunta": "¿Cuándo se considera reincidente al culpable (Art. 22.8)?",
+          "opciones": [
+            "a) Cuando cometa un nuevo delito antes de que prescriba el anterior.",
+            "b) Cuando tenga antecedentes penales por cualquier delito doloso, sean o no cancelables.",
+            "c) Cuando haya sido detenido más de tres veces por hechos similares, aunque no haya condena firme.",
+            "d) Cuando al delinquir, el culpable haya sido condenado ejecutoriamente por un delito comprendido en el mismo título del Código, siempre que sea de la misma naturaleza."
+          ],
+          "respuesta_correcta": "b) Cuando tenga antecedentes penales por cualquier delito doloso, sean o no cancelables.",
+          "cita": "Código Penal, Art. 22.8"
+        },
+        {
+          "pregunta": "¿Qué es la circunstancia mixta de parentesco (Art. 23)?",
+          "opciones": [
+            "a) Es una circunstancia que puede atenuar o agravar la responsabilidad, según la naturaleza, los motivos y los efectos del delito, cuando el agraviado sea cónyuge o persona ligada por análoga relación de afectividad, ascendiente, descendiente o hermano.",
+            "b) Siempre es una agravante en los delitos contra las personas y contra el patrimonio.",
+            "c) Es una eximente incompleta si el delito se comete entre padres e hijos.",
+            "d) Solo se aplica en los delitos de violencia de género como agravante específica."
+          ],
+          "respuesta_correcta": "a) Es una circunstancia que puede atenuar o agravar la responsabilidad, según la naturaleza, los motivos y los efectos del delito, cuando el agraviado sea cónyuge o persona ligada por análoga relación de afectividad, ascendiente, descendiente o hermano.",
+          "cita": "Código Penal, Art. 23"
+        },
+        {
+          "pregunta": "¿A quiénes se consideran autores del delito según el artículo 28?",
+          "opciones": [
+            "a) A los que realizan el hecho por sí solos, conjuntamente o por medio de otro del que se sirven como instrumento.",
+            "b) También serán considerados autores los que inducen directamente a otro a ejecutarlo y los que cooperan a su ejecución con un acto sin el cual no se habría efectuado.",
+            "c) A los cómplices que ayudan en la ejecución del hecho.",
+            "d) Las respuestas a) y b) son correctas (autores directos, coautores, autores mediatos, inductores y cooperadores necesarios)."
+          ],
+          "respuesta_correcta": "d) Las respuestas a) y b) son correctas (autores directos, coautores, autores mediatos, inductores y cooperadores necesarios).",
+          "cita": "Código Penal, Art. 28"
+        },
+        {
+          "pregunta": "¿Quiénes son cómplices según el artículo 29?",
+          "opciones": [
+            "a) Los que cooperan a la ejecución del hecho con actos anteriores o simultáneos, siempre que no sean necesarios para la comisión del delito (cooperación no necesaria).",
+            "b) Los que encubren el delito con posterioridad a su ejecución.",
+            "c) Los que inducen a otro a cometer el delito.",
+            "d) Los que participan en la conspiración para delinquir."
+          ],
+          "respuesta_correcta": "c) Los que inducen a otro a cometer el delito.",
+          "cita": "Código Penal, Art. 29"
+        },
+        {
+          "pregunta": "¿Qué pena se impone a los delitos leves (Art. 13)?",
+          "opciones": [
+            "a) Multa de hasta tres meses.",
+            "b) Trabajos en beneficio de la comunidad de 1 a 30 días.",
+            "c) Son delitos leves las infracciones que la ley castiga con pena leve.",
+            "d) Prisión inferior a tres meses."
+          ],
+          "respuesta_correcta": "a) Multa de hasta tres meses.",
+          "cita": "Código Penal, Art. 13.3"
+        },
+        {
+          "pregunta": "¿Cuándo existe provocación para delinquir (Art. 18.1)?",
+          "opciones": [
+            "a) Cuando se amenaza a una persona para que cometa un delito.",
+            "b) Cuando se ofrece dinero a alguien para que delinca.",
+            "c) Cuando directamente se incita por medio de la imprenta, la radiodifusión o cualquier otro medio de eficacia semejante, que facilite la publicidad, o ante una concurrencia de personas, a la perpetración de un delito.",
+            "d) Cuando dos o más personas se conciertan para la ejecución de un delito y resuelven ejecutarlo."
+          ],
+          "respuesta_correcta": "b) Cuando se ofrece dinero a alguien para que delinca.",
+          "cita": "Código Penal, Art. 18.1"
+        },
+        {
+          "pregunta": "¿Qué es el 'miedo insuperable' (Art. 20.6)?",
+          "opciones": [
+            "a) Una circunstancia que agrava la pena si se utiliza para intimidar a la víctima.",
+            "b) Una causa de exención de la responsabilidad criminal para quien obre impulsado por miedo insuperable.",
+            "c) Una atenuante analógica.",
+            "d) Un trastorno mental transitorio."
+          ],
+          "respuesta_correcta": "b) Una causa de exención de la responsabilidad criminal para quien obre impulsado por miedo insuperable.",
+          "cita": "Código Penal, Art. 20.6"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'error de prohibición' (Art. 14)?",
+          "opciones": [
+            "a) El error invencible sobre la ilicitud del hecho constitutivo de la infracción penal, que excluye la responsabilidad criminal.",
+            "b) El error sobre un hecho constitutivo de la infracción penal.",
+            "c) El desconocimiento de la ley, que no exime de su cumplimiento.",
+            "d) El error en la persona de la víctima."
+          ],
+          "respuesta_correcta": "d) El error en la persona de la víctima.",
+          "cita": "Código Penal, Art. 14.3"
+        },
+        {
+          "pregunta": "¿Qué penas se consideran graves según el artículo 33 del Código Penal?",
+          "opciones": [
+            "a) Prisión permanente revisable, prisión superior a cinco años, inhabilitación absoluta, inhabilitaciones especiales por tiempo superior a cinco años, suspensión de empleo o cargo público por tiempo superior a cinco años.",
+            "b) Prisión superior a tres años y multa superior a 24 meses.",
+            "c) Prisión de tres meses a cinco años y multa de tres meses a dos años.",
+            "d) Privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a ocho años."
+          ],
+          "respuesta_correcta": "b) Prisión superior a tres años y multa superior a 24 meses.",
+          "cita": "Código Penal, Art. 33.2"
+        },
+        {
+          "pregunta": "¿Cuál es la duración máxima de la pena de prisión (salvo prisión permanente revisable)?",
+          "opciones": [
+            "a) 25 años improrrogables.",
+            "b) 30 años en todo caso.",
+            "c) 15 años como norma general.",
+            "d) 20 años, salvo excepciones (concurso real, delitos de terrorismo, etc.) donde puede llegar a 25, 30 o 40 años."
+          ],
+          "respuesta_correcta": "c) 15 años como norma general.",
+          "cita": "Código Penal, Art. 36 y 76"
+        },
+        {
+          "pregunta": "¿En qué consiste la pena de localización permanente (Art. 37)?",
+          "opciones": [
+            "a) Es la prohibición de salir del territorio nacional.",
+            "b) Obliga al penado a permanecer en su domicilio o en lugar determinado fijado por el Juez en sentencia o auto motivado.",
+            "c) Es una medida cautelar, no una pena.",
+            "d) Consiste en presentarse en el juzgado los días 1 y 15 de cada mes."
+          ],
+          "respuesta_correcta": "d) Consiste en presentarse en el juzgado los días 1 y 15 de cada mes.",
+          "cita": "Código Penal, Art. 37.1"
+        },
+        {
+          "pregunta": "¿Cuál es la duración máxima de la pena de trabajos en beneficio de la comunidad (Art. 40)?",
+          "opciones": [
+            "a) Un año.",
+            "b) Seis meses.",
+            "c) De un día a un año.",
+            "d) De 31 días a 18 meses (según redacción Art. 33 penas menos graves) o de un día a 30 días (penas leves), con un límite general que no puede exceder de lo establecido en cada delito."
+          ],
+          "respuesta_correcta": "a) Un año.",
+          "cita": "Código Penal, Art. 40.2 (Duración trabajos)"
+        },
+        {
+          "pregunta": "¿Cómo se cumple la pena de multa por el sistema de días-multa (Art. 50)?",
+          "opciones": [
+            "a) La cuota diaria tendrá un mínimo de 2 y un máximo de 400 euros (para personas físicas), y su extensión temporal será de al menos 10 días y como máximo 2 años.",
+            "b) Es una cantidad fija que determina el juez según la gravedad del delito.",
+            "c) Se paga un porcentaje de los ingresos mensuales del reo.",
+            "d) La multa proporcional se establece en base al beneficio obtenido con el delito."
+          ],
+          "respuesta_correcta": "a) La cuota diaria tendrá un mínimo de 2 y un máximo de 400 euros (para personas físicas), y su extensión temporal será de al menos 10 días y como máximo 2 años.",
+          "cita": "Código Penal, Art. 50.3 y 4"
+        },
+        {
+          "pregunta": "¿Qué es la responsabilidad personal subsidiaria por impago de multa (Art. 53)?",
+          "opciones": [
+            "a) La obligación de realizar trabajos forzados hasta cubrir la deuda.",
+            "b) El embargo de sus bienes presentes y futuros.",
+            "c) Si el condenado no satisface la multa, quedará sujeto a una responsabilidad personal subsidiaria de un día de privación de libertad por cada dos cuotas diarias no satisfechas.",
+            "d) La extensión de la pena de prisión principal en un año."
+          ],
+          "respuesta_correcta": "a) La obligación de realizar trabajos forzados hasta cubrir la deuda.",
+          "cita": "Código Penal, Art. 53.1"
+        },
+        {
+          "pregunta": "¿Qué penas accesorias pueden imponerse a los delitos (Art. 54 y ss)?",
+          "opciones": [
+            "a) La confiscación de todos los bienes del penado.",
+            "b) Solo la inhabilitación para el sufragio pasivo.",
+            "c) Inhabilitación absoluta o especial, suspensión de empleo o cargo público, privación del derecho a conducir, privación del derecho a la tenencia y porte de armas, privación del derecho a residir o acudir a determinados lugares, prohibición de aproximarse o comunicarse con la víctima, pérdida de la patria potestad.",
+            "d) La pérdida de la nacionalidad española."
+          ],
+          "respuesta_correcta": "a) La confiscación de todos los bienes del penado.",
+          "cita": "Código Penal, Art. 54-57"
+        },
+        {
+          "pregunta": "¿Cuándo prescribe la pena de prisión permanente revisable (Art. 133)?",
+          "opciones": [
+            "a) A los 20 años.",
+            "b) A los 30 años.",
+            "c) A los 25 años.",
+            "d) No prescribe (junto con las de genocidio y lesa humanidad)."
+          ],
+          "respuesta_correcta": "c) A los 25 años.",
+          "cita": "Código Penal, Art. 133.1 (Las penas impuestas por sentencia firme prescriben: A los 30 años, las de prisión por más de 20 años. Nota: Los delitos de genocidio/lesa humanidad no prescriben, pero la pena de PPR como tal tiene plazo de prescripción general de 30 años salvo en esos delitos imprescriptibles)."
+        },
+        {
+          "pregunta": "¿Qué requisitos se exigen para la suspensión de la ejecución de la pena privativa de libertad (Art. 80)?",
+          "opciones": [
+            "a) Que el condenado haya delinquido por primera vez (primario), que la pena no sea superior a dos años y que se hayan satisfecho las responsabilidades civiles.",
+            "b) Que la pena no exceda de cinco años y el reo tenga trabajo estable.",
+            "c) Que el reo pida perdón públicamente a la víctima.",
+            "d) Solo se suspenden las penas inferiores a seis meses."
+          ],
+          "respuesta_correcta": "d) Solo se suspenden las penas inferiores a seis meses.",
+          "cita": "Código Penal, Art. 80.1 y 2"
+        },
+        {
+          "pregunta": "¿Qué es la 'sustitución de la pena' en el caso de extranjeros (Art. 89)?",
+          "opciones": [
+            "a) La conmutación de la prisión por trabajos comunitarios.",
+            "b) El cumplimiento de la pena en su país de origen.",
+            "c) La sustitución de la pena de prisión superior a un año por la expulsión del territorio español.",
+            "d) La libertad vigilada en frontera."
+          ],
+          "respuesta_correcta": "c) La sustitución de la pena de prisión superior a un año por la expulsión del territorio español.",
+          "cita": "Código Penal, Art. 89.1"
+        },
+        {
+          "pregunta": "¿Cuáles son las medidas de seguridad privativas de libertad (Art. 96)?",
+          "opciones": [
+            "a) El internamiento en centro psiquiátrico, en centro de deshabituación o en centro educativo especial.",
+            "b) La prisión permanente revisable.",
+            "c) La libertad vigilada y la custodia familiar.",
+            "d) La prohibición de residencia y la expulsión del territorio nacional."
+          ],
+          "respuesta_correcta": "d) La prohibición de residencia y la expulsión del territorio nacional.",
+          "cita": "Código Penal, Art. 96.2"
+        },
+        {
+          "pregunta": "¿Cuándo se extinguen la responsabilidad criminal (Art. 130)?",
+          "opciones": [
+            "a) Por muerte del reo, cumplimiento de la condena, remisión definitiva de la pena suspendida, indulto, perdón del ofendido (en ciertos casos), prescripción del delito o de la pena.",
+            "b) Solo por el cumplimiento íntegro de la condena.",
+            "c) Por el pago de la fianza.",
+            "d) Por la confesión de los hechos."
+          ],
+          "respuesta_correcta": "a) Por muerte del reo, cumplimiento de la condena, remisión definitiva de la pena suspendida, indulto, perdón del ofendido (en ciertos casos), prescripción del delito o de la pena.",
+          "cita": "Código Penal, Art. 130.1"
+        },
+        {
+          "pregunta": "¿Qué plazo de prescripción tienen los delitos graves castigados con pena de prisión de 15 años o más (Art. 131)?",
+          "opciones": [
+            "a) 25 años (si la pena es de 20 años o más) o 20 años (si es de 15 o más).",
+            "b) 15 años.",
+            "c) 20 años.",
+            "d) 30 años."
+          ],
+          "respuesta_correcta": "c) 20 años.",
+          "cita": "Código Penal, Art. 131.1"
+        },
+        {
+          "pregunta": "¿Qué es la responsabilidad civil derivada del delito (Art. 109)?",
+          "opciones": [
+            "a) La multa que se paga al Estado.",
+            "b) Las costas procesales del juicio.",
+            "c) El comiso de los instrumentos del delito.",
+            "d) La obligación de reparar los daños y perjuicios causados por el hecho delictivo, que comprende la restitución, la reparación del daño y la indemnización de perjuicios materiales y morales."
+          ],
+          "respuesta_correcta": "c) El comiso de los instrumentos del delito.",
+          "cita": "Código Penal, Art. 109 y 110"
+        },
+        {
+          "pregunta": "¿Qué pena tiene el homicidio doloso (Art. 138)?",
+          "opciones": [
+            "a) Prisión de diez a quince años.",
+            "b) Prisión de quince a veinte años.",
+            "c) Prisión de veinte a veinticinco años.",
+            "d) Prisión permanente revisable."
+          ],
+          "respuesta_correcta": "a) Prisión de diez a quince años.",
+          "cita": "Código Penal, Art. 138.1"
+        },
+        {
+          "pregunta": "¿Qué circunstancias convierten el homicidio en asesinato (Art. 139)?",
+          "opciones": [
+            "a) Premeditación, nocturnidad y despoblado.",
+            "b) Abuso de superioridad y parentesco.",
+            "c) Uso de armas de fuego o explosivos.",
+            "d) Alevosía, precio/recompensa/promesa, ensañamiento, o para facilitar otro delito o evitar que se descubra."
+          ],
+          "respuesta_correcta": "b) Abuso de superioridad y parentesco.",
+          "cita": "Código Penal, Art. 139.1"
+        },
+        {
+          "pregunta": "¿Qué es el 'ensañamiento' (Art. 139)?",
+          "opciones": [
+            "a) Mutilar el cadáver después de la muerte.",
+            "b) Matar a varias personas en un mismo acto.",
+            "c) Utilizar veneno u otros medios insidiosos.",
+            "d) Aumentar deliberada e inhumanamente el dolor del ofendido."
+          ],
+          "respuesta_correcta": "a) Mutilar el cadáver después de la muerte.",
+          "cita": "Código Penal, Art. 139.1.3ª"
+        },
+        {
+          "pregunta": "¿Qué es la inducción al suicidio (Art. 143)?",
+          "opciones": [
+            "a) No es delito si la víctima lo solicita.",
+            "b) Inducir al suicidio de otro será castigado con la pena de prisión de cuatro a ocho años.",
+            "c) Es un homicidio imprudente.",
+            "d) Se castiga con multa de 12 a 24 meses."
+          ],
+          "respuesta_correcta": "b) Inducir al suicidio de otro será castigado con la pena de prisión de cuatro a ocho años.",
+          "cita": "Código Penal, Art. 143.1"
+        },
+        {
+          "pregunta": "¿Qué pena tiene el delito de lesiones básicas (Art. 147.1)?",
+          "opciones": [
+            "a) Prisión de seis meses a dos años si solo requiere primera asistencia.",
+            "b) Multa de uno a dos meses si es delito leve.",
+            "c) Prisión de tres meses a tres años o multa de seis a doce meses, si requieren tratamiento médico o quirúrgico además de la primera asistencia.",
+            "d) Prisión de dos a cinco años si hay uso de armas."
+          ],
+          "respuesta_correcta": "b) Multa de uno a dos meses si es delito leve.",
+          "cita": "Código Penal, Art. 147.1"
+        },
+        {
+          "pregunta": "¿Qué agravante específica existe en el delito de lesiones (Art. 148)?",
+          "opciones": [
+            "a) Si se utilizan armas o instrumentos peligrosos, si media ensañamiento o alevosía, si la víctima es menor o discapacitado, si es violencia de género, etc.",
+            "b) Si se comete en grupo de más de cinco personas.",
+            "c) Si se produce en un espectáculo deportivo.",
+            "d) Si el autor está bajo los efectos del alcohol."
+          ],
+          "respuesta_correcta": "d) Si el autor está bajo los efectos del alcohol.",
+          "cita": "Código Penal, Art. 148"
+        },
+        {
+          "pregunta": "¿Qué es la detención ilegal (Art. 163)?",
+          "opciones": [
+            "a) La detención realizada por un policía sin causa legal.",
+            "b) El secuestro exigiendo rescate.",
+            "c) La retención de una persona en contra de su voluntad por menos de 24 horas.",
+            "d) El particular que encerrare o detuviere a otro, privándole de su libertad."
+          ],
+          "respuesta_correcta": "b) El secuestro exigiendo rescate.",
+          "cita": "Código Penal, Art. 163.1"
+        },
+        {
+          "pregunta": "¿Qué pena tiene el secuestro (Art. 164)?",
+          "opciones": [
+            "a) Prisión de diez a quince años.",
+            "b) Prisión de cuatro a seis años.",
+            "c) Prisión de seis a diez años, si se exige alguna condición para la libertad.",
+            "d) Prisión permanente revisable si la víctima muere."
+          ],
+          "respuesta_correcta": "c) Prisión de seis a diez años, si se exige alguna condición para la libertad.",
+          "cita": "Código Penal, Art. 164"
+        },
+        {
+          "pregunta": "¿Qué son las amenazas (Art. 169)?",
+          "opciones": [
+            "a) Insultar gravemente a alguien en público.",
+            "b) El que amenazare a otro con causarle a él, a su familia o a otras personas con las que esté íntimamente vinculado un mal que constituya delitos de homicidio, lesiones, aborto, contra la libertad, torturas y contra la integridad moral, la libertad sexual, la intimidad, el honor, el patrimonio y el orden socioeconómico.",
+            "c) Obligar a alguien a hacer lo que no quiere mediante violencia.",
+            "d) Acosar a una persona de forma reiterada."
+          ],
+          "respuesta_correcta": "c) Obligar a alguien a hacer lo que no quiere mediante violencia.",
+          "cita": "Código Penal, Art. 169"
+        },
+        {
+          "pregunta": "¿Qué diferencia hay entre agresión sexual y abuso sexual (tras la reforma LO 10/2022)?",
+          "opciones": [
+            "a) El abuso no implica violencia ni intimidación, la agresión sí.",
+            "b) El abuso se comete sobre menores y la agresión sobre adultos.",
+            "c) La agresión requiere penetración, el abuso no.",
+            "d) Se elimina la distinción, todo acto sexual sin consentimiento es agresión sexual."
+          ],
+          "respuesta_correcta": "c) La agresión requiere penetración, el abuso no.",
+          "cita": "Código Penal, Art. 178 (Reforma 'Solo sí es sí')"
+        },
+        {
+          "pregunta": "¿Qué es la 'omisión del deber de socorro' (Art. 195)?",
+          "opciones": [
+            "a) El médico que se niega a atender a un paciente.",
+            "b) El conductor que huye tras causar un accidente (delito de fuga).",
+            "c) No llamar a la policía al presenciar un delito.",
+            "d) El que no socorriere a una persona que se halle desamparada y en peligro manifiesto y grave, cuando pudiere hacerlo sin riesgo propio ni de terceros."
+          ],
+          "respuesta_correcta": "d) El que no socorriere a una persona que se halle desamparada y en peligro manifiesto y grave, cuando pudiere hacerlo sin riesgo propio ni de terceros.",
+          "cita": "Código Penal, Art. 195.1"
+        },
+        {
+          "pregunta": "¿Qué es el 'allanamiento de morada' (Art. 202)?",
+          "opciones": [
+            "a) La entrada de la policía sin orden judicial.",
+            "b) El particular que, sin habitar en ella, entrare en morada ajena o se mantuviere en la misma contra la voluntad de su morador.",
+            "c) La ocupación de un inmueble deshabitado (usurpación).",
+            "d) El robo con fuerza en casa habitada."
+          ],
+          "respuesta_correcta": "b) El particular que, sin habitar en ella, entrare en morada ajena o se mantuviere en la misma contra la voluntad de su morador.",
+          "cita": "Código Penal, Art. 202.1"
+        },
+        {
+          "pregunta": "¿Cuál es el delito de 'calumnia' (Art. 205)?",
+          "opciones": [
+            "a) La imputación de un delito hecha con conocimiento de su falsedad o temerario desprecio hacia la verdad.",
+            "b) La acción o expresión que lesiona la dignidad de otra persona, menoscabando su fama o atentando contra su propia estimación (injuria).",
+            "c) La difusión de noticias falsas en redes sociales.",
+            "d) El falso testimonio en juicio."
+          ],
+          "respuesta_correcta": "b) La acción o expresión que lesiona la dignidad de otra persona, menoscabando su fama o atentando contra su propia estimación (injuria).",
+          "cita": "Código Penal, Art. 205"
+        },
+        {
+          "pregunta": "¿Qué diferencia hay entre hurto y robo (Art. 234 y 237)?",
+          "opciones": [
+            "a) El hurto es por valor inferior a 400 euros, el robo es superior.",
+            "b) El hurto es la sustracción sin fuerza en las cosas ni violencia o intimidación en las personas; el robo requiere fuerza en las cosas o violencia/intimidación en las personas.",
+            "c) El robo se comete en casa habitada, el hurto en la calle.",
+            "d) El robo implica el uso de armas, el hurto no."
+          ],
+          "respuesta_correcta": "b) El hurto es la sustracción sin fuerza en las cosas ni violencia o intimidación en las personas; el robo requiere fuerza en las cosas o violencia/intimidación en las personas.",
+          "cita": "Código Penal, Art. 234 y 237"
+        },
+        {
+          "pregunta": "¿Cuándo el hurto es delito leve (Art. 234.2)?",
+          "opciones": [
+            "a) Cuando se devuelve lo robado antes del juicio.",
+            "b) Cuando no se utiliza violencia.",
+            "c) Cuando se comete en un supermercado.",
+            "d) Cuando la cuantía de lo sustraído no exceda de 400 euros, salvo si se dan circunstancias agravantes (ej. multirreincidencia, neutralización de alarmas)."
+          ],
+          "respuesta_correcta": "c) Cuando se comete en un supermercado.",
+          "cita": "Código Penal, Art. 234.2"
+        },
+        {
+          "pregunta": "¿Qué es la 'estafa' (Art. 248)?",
+          "opciones": [
+            "a) La apropiación de dinero confiado (apropiación indebida).",
+            "b) Los que, con ánimo de lucro, utilizaren engaño bastante para producir error en otro, induciéndolo a realizar un acto de disposición en perjuicio propio o ajeno.",
+            "c) El impago de deudas contraídas.",
+            "d) La falsificación de tarjetas de crédito."
+          ],
+          "respuesta_correcta": "d) La falsificación de tarjetas de crédito.",
+          "cita": "Código Penal, Art. 248"
+        },
+        {
+          "pregunta": "¿Qué es la 'receptación' (Art. 298)?",
+          "opciones": [
+            "a) El blanqueo de capitales procedentes del narcotráfico.",
+            "b) La compra de objetos robados sin saber que lo son.",
+            "c) El que, con ánimo de lucro y con conocimiento de la comisión de un delito contra el patrimonio, ayude a los responsables a aprovecharse de los efectos del mismo, o reciba, adquiera u oculte tales efectos.",
+            "d) La venta de productos falsificados."
+          ],
+          "respuesta_correcta": "a) El blanqueo de capitales procedentes del narcotráfico.",
+          "cita": "Código Penal, Art. 298"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'atentado' (Art. 550)?",
+          "opciones": [
+            "a) Los que agredieren o, con intimidación grave o violencia, opusieren resistencia grave a la autoridad, a sus agentes o funcionarios públicos, o los acometieren, cuando se hallen en el ejercicio de las funciones de sus cargos o con ocasión de ellas.",
+            "b) La desobediencia leve a las órdenes de la policía.",
+            "c) El insulto a un funcionario público (falta de respeto).",
+            "d) La alteración del orden público en una manifestación."
+          ],
+          "respuesta_correcta": "b) La desobediencia leve a las órdenes de la policía.",
+          "cita": "Código Penal, Art. 550"
+        },
+        {
+          "pregunta": "¿Qué es la 'prevaricación' de funcionario público (Art. 404)?",
+          "opciones": [
+            "a) La autoridad o funcionario público que, a sabiendas de su injusticia, dictare una resolución arbitraria en un asunto administrativo.",
+            "b) El cobro de comisiones ilegales (cohecho).",
+            "c) La malversación de caudales públicos.",
+            "d) El abandono de destino."
+          ],
+          "respuesta_correcta": "a) La autoridad o funcionario público que, a sabiendas de su injusticia, dictare una resolución arbitraria en un asunto administrativo.",
+          "cita": "Código Penal, Art. 404"
+        },
+        {
+          "pregunta": "¿Qué es el 'cohecho' (Art. 419)?",
+          "opciones": [
+            "a) El uso de influencias para conseguir una resolución favorable (tráfico de influencias).",
+            "b) El nombramiento ilegal de cargos públicos.",
+            "c) El robo de dinero público.",
+            "d) La autoridad o funcionario público que, en provecho propio o de un tercero, recibiere o solicitare, por sí o por persona interpuesta, dádiva, favor o retribución de cualquier clase o aceptare ofrecimiento o promesa para realizar en el ejercicio de su cargo un acto contrario a los deberes inherentes al mismo o para no realizarlo."
+          ],
+          "respuesta_correcta": "d) La autoridad o funcionario público que, en provecho propio o de un tercero, recibiere o solicitare, por sí o por persona interpuesta, dádiva, favor o retribución de cualquier clase o aceptare ofrecimiento o promesa para realizar en el ejercicio de su cargo un acto contrario a los deberes inherentes al mismo o para no realizarlo.",
+          "cita": "Código Penal, Art. 419"
+        },
+        {
+          "pregunta": "¿Qué es la 'malversación' (Art. 432)?",
+          "opciones": [
+            "a) El despilfarro de fondos públicos en obras innecesarias.",
+            "b) La autoridad o funcionario público que, con ánimo de lucro, sustrajere o consintiere que un tercero, con igual ánimo, sustraiga los caudales o efectos públicos que tenga a su cargo por razón de sus funciones.",
+            "c) La falsificación de documentos contables.",
+            "d) El fraude de subvenciones."
+          ],
+          "respuesta_correcta": "b) La autoridad o funcionario público que, con ánimo de lucro, sustrajere o consintiere que un tercero, con igual ánimo, sustraiga los caudales o efectos públicos que tenga a su cargo por razón de sus funciones.",
+          "cita": "Código Penal, Art. 432"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'sedición' (derogado/modificado)?",
+          "opciones": [
+            "a) Ha sido suprimido y sustituido por el delito de desórdenes públicos agravados (Art. 557).",
+            "b) Sigue vigente como alzamiento público y tumultuario para impedir la aplicación de las leyes.",
+            "c) Se ha convertido en un delito de rebelión impropia.",
+            "d) Ahora es una infracción administrativa de la Ley de Seguridad Ciudadana."
+          ],
+          "respuesta_correcta": "b) Sigue vigente como alzamiento público y tumultuario para impedir la aplicación de las leyes.",
+          "cita": "LO 14/2022 (Reforma CP)"
+        },
+        {
+          "pregunta": "¿Qué es la 'rebelión' (Art. 472)?",
+          "opciones": [
+            "a) La protesta pacífica contra el gobierno.",
+            "b) Los que se alzaren violenta y públicamente para derogar, suspender o modificar total o parcialmente la Constitución, o declarar la independencia de una parte del territorio nacional.",
+            "c) El golpe de estado militar sin violencia.",
+            "d) La desobediencia civil masiva."
+          ],
+          "respuesta_correcta": "d) La desobediencia civil masiva.",
+          "cita": "Código Penal, Art. 472"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'tenencia ilícita de armas' (Art. 563)?",
+          "opciones": [
+            "a) Tener el permiso de armas caducado.",
+            "b) La tenencia de armas prohibidas y la de aquellas que sean resultado de la modificación sustancial de las características de fabricación de armas reglamentadas.",
+            "c) Llevar una navaja de menos de 11 cm.",
+            "d) Usar un arma de aire comprimido en la calle."
+          ],
+          "respuesta_correcta": "b) La tenencia de armas prohibidas y la de aquellas que sean resultado de la modificación sustancial de las características de fabricación de armas reglamentadas.",
+          "cita": "Código Penal, Art. 563"
+        },
+        {
+          "pregunta": "¿Qué es el 'terrorismo' (Art. 573)?",
+          "opciones": [
+            "a) Cualquier acto de violencia callejera.",
+            "b) El crimen organizado mafioso.",
+            "c) La comisión de cualquier delito grave contra la vida, integridad, libertad, etc., con la finalidad de subvertir el orden constitucional, alterar gravemente la paz pública, desestabilizar el funcionamiento de una organización internacional o provocar un estado de terror en la población.",
+            "d) Los delitos de odio contra minorías."
+          ],
+          "respuesta_correcta": "c) La comisión de cualquier delito grave contra la vida, integridad, libertad, etc., con la finalidad de subvertir el orden constitucional, alterar gravemente la paz pública, desestabilizar el funcionamiento de una organización internacional o provocar un estado de terror en la población.",
+          "cita": "Código Penal, Art. 573"
+        },
+        {
+          "pregunta": "¿Qué es la 'violencia de género' en el CP (Art. 153)?",
+          "opciones": [
+            "a) La violencia doméstica entre hermanos.",
+            "b) El que por cualquier medio o procedimiento causare a otro menoscabo psíquico o una lesión de menor gravedad, o golpeare o maltratare de obra a otro sin causarle lesión, cuando la ofendida sea o haya sido esposa, o mujer que esté o haya estado ligada a él por una análoga relación de afectividad aun sin convivencia.",
+            "c) La agresión de una mujer a un hombre.",
+            "d) La violencia entre parejas homosexuales."
+          ],
+          "respuesta_correcta": "a) La violencia doméstica entre hermanos.",
+          "cita": "Código Penal, Art. 153.1"
+        },
+        {
+          "pregunta": "¿Qué es el 'delito de odio' (Art. 510)?",
+          "opciones": [
+            "a) Odiar a alguien en silencio.",
+            "b) Fomentar, promover o incitar directa o indirectamente al odio, hostilidad, discriminación o violencia contra un grupo, una parte del mismo o contra una persona determinada por razón de su pertenencia a aquel, por motivos racistas, antisemitas u otros referentes a la ideología, religión, etnia, raza o nación, sexo, orientación sexual, etc.",
+            "c) Discriminar a alguien en el acceso al empleo.",
+            "d) Insultar a un vecino por problemas de convivencia."
+          ],
+          "respuesta_correcta": "b) Fomentar, promover o incitar directa o indirectamente al odio, hostilidad, discriminación o violencia contra un grupo, una parte del mismo o contra una persona determinada por razón de su pertenencia a aquel, por motivos racistas, antisemitas u otros referentes a la ideología, religión, etnia, raza o nación, sexo, orientación sexual, etc.",
+          "cita": "Código Penal, Art. 510"
+        },
+        {
+          "pregunta": "¿Qué es el delito contra la seguridad vial por alcoholemia (Art. 379)?",
+          "opciones": [
+            "a) Conducir con más de 0,25 mg/l.",
+            "b) Conducir habiendo bebido una cerveza.",
+            "c) Negarse a realizar la prueba de alcoholemia (que es otro delito distinto, Art. 383).",
+            "d) Conducir con una tasa de alcohol en aire espirado superior a 0,60 mg/l o con una tasa de alcohol en sangre superior a 1,2 g/l."
+          ],
+          "respuesta_correcta": "d) Conducir con una tasa de alcohol en aire espirado superior a 0,60 mg/l o con una tasa de alcohol en sangre superior a 1,2 g/l.",
+          "cita": "Código Penal, Art. 379.2"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'conducción temeraria' (Art. 380)?",
+          "opciones": [
+            "a) El que condujere un vehículo a motor o un ciclomotor con temeridad manifiesta y pusiere en concreto peligro la vida o la integridad de las personas.",
+            "b) Conducir sin cinturón de seguridad.",
+            "c) Conducir hablando por el móvil.",
+            "d) Saltarse un semáforo en rojo sin causar accidente."
+          ],
+          "respuesta_correcta": "c) Conducir hablando por el móvil.",
+          "cita": "Código Penal, Art. 380"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'abandono del lugar del accidente' (Art. 382 bis)?",
+          "opciones": [
+            "a) Irse sin dejar los datos del seguro tras un golpe de chapa.",
+            "b) No socorrer a la víctima (omisión de socorro).",
+            "c) El conductor de un vehículo a motor o de un ciclomotor que, fuera de los casos contemplados en el artículo 195 (omisión de socorro), voluntariamente y sin que haya riesgo propio o de terceros, abandone el lugar de los hechos tras causar un accidente en el que fallecieran o resultaran heridas personas.",
+            "d) Huir de la policía para evitar un control."
+          ],
+          "respuesta_correcta": "c) El conductor de un vehículo a motor o de un ciclomotor que, fuera de los casos contemplados en el artículo 195 (omisión de socorro), voluntariamente y sin que haya riesgo propio o de terceros, abandone el lugar de los hechos tras causar un accidente en el que fallecieran o resultaran heridas personas.",
+          "cita": "Código Penal, Art. 382 bis"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'tráfico de drogas' (Art. 368)?",
+          "opciones": [
+            "a) El consumo propio de drogas en la vía pública (infracción administrativa).",
+            "b) Los que ejecuten actos de cultivo, elaboración o tráfico, o de otro modo promuevan, favorezcan o faciliten el consumo ilegal de drogas tóxicas, estupefacientes o sustancias psicotrópicas, o las posean con aquellos fines.",
+            "c) La venta de alcohol a menores.",
+            "d) El dopaje deportivo."
+          ],
+          "respuesta_correcta": "d) El dopaje deportivo.",
+          "cita": "Código Penal, Art. 368"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'blanqueo de capitales' (Art. 301)?",
+          "opciones": [
+            "a) El que adquiera, posea, utilice, convierta, o transmita bienes, sabiendo que éstos tienen su origen en una actividad delictiva, cometida por él o por cualquiera tercera persona, o realice cualquier otro acto para ocultar o encubrir su origen ilícito.",
+            "b) Lavar billetes manchados de tinta.",
+            "c) No declarar dinero en la aduana.",
+            "d) Pagar en efectivo más de 1.000 euros."
+          ],
+          "respuesta_correcta": "b) Lavar billetes manchados de tinta.",
+          "cita": "Código Penal, Art. 301"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'falsedad documental' (Art. 390)?",
+          "opciones": [
+            "a) Firmar un contrato con un nombre falso.",
+            "b) La autoridad o funcionario público que, en el ejercicio de sus funciones, cometa falsedad alterando un documento en alguno de sus elementos o requisitos de carácter esencial, simulando un documento, suponiendo la intervención de personas que no la han tenido, o faltando a la verdad en la narración de los hechos.",
+            "c) Mentir en el currículum vitae.",
+            "d) Usar un DNI caducado."
+          ],
+          "respuesta_correcta": "c) Mentir en el currículum vitae.",
+          "cita": "Código Penal, Art. 390"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'usurpación de funciones públicas' (Art. 402)?",
+          "opciones": [
+            "a) El policía que actúa fuera de servicio.",
+            "b) El vigilante de seguridad que se excede en sus funciones.",
+            "c) El que ilegítimamente ejerciere actos propios de una autoridad o funcionario público atribuyéndose carácter oficial.",
+            "d) El ciudadano que detiene a un delincuente (detención ciudadana)."
+          ],
+          "respuesta_correcta": "b) El vigilante de seguridad que se excede en sus funciones.",
+          "cita": "Código Penal, Art. 402"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'falso testimonio' (Art. 458)?",
+          "opciones": [
+            "a) El acusado que miente para defenderse (derecho a no declarar contra sí mismo).",
+            "b) El perito que se equivoca en su informe.",
+            "c) El abogado que defiende a un culpable.",
+            "d) El testigo que faltare a la verdad en su testimonio en causa judicial."
+          ],
+          "respuesta_correcta": "c) El abogado que defiende a un culpable.",
+          "cita": "Código Penal, Art. 458"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'quebrantamiento de condena' (Art. 468)?",
+          "opciones": [
+            "a) Los que quebrantaren su condena, medida de seguridad, prisión, medida cautelar, conducción o custodia.",
+            "b) El preso que se fuga de la cárcel con violencia (delito de evasión).",
+            "c) No pagar la multa a tiempo.",
+            "d) Volver a delinquir después de cumplir la pena."
+          ],
+          "respuesta_correcta": "d) Volver a delinquir después de cumplir la pena.",
+          "cita": "Código Penal, Art. 468"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'encubrimiento' (Art. 451)?",
+          "opciones": [
+            "a) El que, con conocimiento de la comisión de un delito y sin haber intervenido en el mismo como autor o cómplice, interviniere con posterioridad a su ejecución, auxiliando a los autores o cómplices para que se beneficien, ocultando el cuerpo del delito o ayudando a los responsables a eludir la investigación.",
+            "b) El cómplice necesario.",
+            "c) El que no denuncia un delito conocido.",
+            "d) El abogado que guarda el secreto profesional."
+          ],
+          "respuesta_correcta": "b) El cómplice necesario.",
+          "cita": "Código Penal, Art. 451"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'acusación y denuncia falsa' (Art. 456)?",
+          "opciones": [
+            "a) Los que, con conocimiento de su falsedad o temerario desprecio hacia la verdad, imputaren a alguna persona hechos que, de ser ciertos, constituirían infracción penal, si esta imputación se hace ante funcionario judicial o administrativo que tenga el deber de proceder a su averiguación.",
+            "b) La calumnia hecha en privado.",
+            "c) Denunciar un hecho real que no se puede probar.",
+            "d) Retirar una denuncia verdadera."
+          ],
+          "respuesta_correcta": "d) Retirar una denuncia verdadera.",
+          "cita": "Código Penal, Art. 456"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'simulación de delito' (Art. 457)?",
+          "opciones": [
+            "a) Fingir una enfermedad para no ir a juicio.",
+            "b) Mentir a la policía en un control.",
+            "c) El que, ante alguno de los funcionarios competentes, simulare ser responsable o víctima de una infracción penal o denunciare una inexistente, provocando actuaciones procesales.",
+            "d) Usar un nombre falso."
+          ],
+          "respuesta_correcta": "d) Usar un nombre falso.",
+          "cita": "Código Penal, Art. 457"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'obstrucción a la justicia' (Art. 463 y ss)?",
+          "opciones": [
+            "a) El abogado que presenta muchos recursos para dilatar el proceso.",
+            "b) El juez que tarda en dictar sentencia.",
+            "c) El que, citado en legal forma, dejare voluntariamente de comparecer, sin justa causa, ante un juzgado o tribunal en proceso criminal con reo en prisión provisional.",
+            "d) El manifestante que grita frente al juzgado."
+          ],
+          "respuesta_correcta": "b) El juez que tarda en dictar sentencia.",
+          "cita": "Código Penal, Art. 463"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'deslealtad profesional' (Art. 467)?",
+          "opciones": [
+            "a) El abogado que pierde un juicio.",
+            "b) El procurador que cobra honorarios excesivos.",
+            "c) El juez que prevarica.",
+            "d) El abogado o procurador que, habiendo asesorado o tomado la defensa o representación de alguna persona, sin el consentimiento de ésta, defienda o represente en el mismo asunto a quien tenga intereses contrarios, o perjudique de forma manifiesta los intereses que le fueren encomendados."
+          ],
+          "respuesta_correcta": "a) El abogado que pierde un juicio.",
+          "cita": "Código Penal, Art. 467"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'quebrantamiento de condena' por inutilización de dispositivos electrónicos (Art. 468.3)?",
+          "opciones": [
+            "a) Los que inutilicen o perturben el funcionamiento de los dispositivos técnicos que hubieran sido dispuestos para controlar el cumplimiento de penas, medidas de seguridad o medidas cautelares (pulseras telemáticas).",
+            "b) Romper el móvil para que no te localicen.",
+            "c) Hackear el ordenador del juzgado.",
+            "d) Inhibir la señal de GPS del coche patrulla."
+          ],
+          "respuesta_correcta": "c) Hackear el ordenador del juzgado.",
+          "cita": "Código Penal, Art. 468.3"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'trata de seres humanos' (Art. 177 bis)?",
+          "opciones": [
+            "a) El tráfico ilegal de inmigrantes (Art. 318 bis).",
+            "b) La contratación de extranjeros sin papeles.",
+            "c) El proxenetismo consentido.",
+            "d) El que captare, transportare, trasladare, acogiere o recibiere a una persona empleando violencia, intimidación o engaño, o abusando de una situación de superioridad o de necesidad, con la finalidad de explotación sexual, laboral, mendicidad, extracción de órganos, etc."
+          ],
+          "respuesta_correcta": "d) El que captare, transportare, trasladare, acogiere o recibiere a una persona empleando violencia, intimidación o engaño, o abusando de una situación de superioridad o de necesidad, con la finalidad de explotación sexual, laboral, mendicidad, extracción de órganos, etc.",
+          "cita": "Código Penal, Art. 177 bis"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'tráfico ilegal de inmigrantes' (Art. 318 bis)?",
+          "opciones": [
+            "a) El que intencionadamente ayude a una persona que no sea nacional de un Estado miembro de la UE a entrar en territorio español o a transitar a través del mismo, vulnerando la legislación sobre entrada, tránsito y estancia de extranjeros.",
+            "b) La trata de seres humanos con fines de explotación.",
+            "c) Dar trabajo a un extranjero irregular.",
+            "d) Alquilar un piso a un inmigrante sin papeles."
+          ],
+          "respuesta_correcta": "a) El que intencionadamente ayude a una persona que no sea nacional de un Estado miembro de la UE a entrar en territorio español o a transitar a través del mismo, vulnerando la legislación sobre entrada, tránsito y estancia de extranjeros.",
+          "cita": "Código Penal, Art. 318 bis"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'daños' (Art. 263)?",
+          "opciones": [
+            "a) El vandalismo callejero (desórdenes públicos).",
+            "b) El que causare daños en propiedad ajena no comprendidos en otros títulos de este Código.",
+            "c) El incendio forestal.",
+            "d) La destrucción de documentos públicos."
+          ],
+          "respuesta_correcta": "d) La destrucción de documentos públicos.",
+          "cita": "Código Penal, Art. 263"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'incendio' (Art. 351)?",
+          "opciones": [
+            "a) Quemar rastrojos sin permiso (infracción administrativa).",
+            "b) El incendio forestal sin peligro para personas (Art. 352).",
+            "c) Quemar una papelera (daños).",
+            "d) Los que provocaren un incendio que comporte un peligro para la vida o integridad física de las personas."
+          ],
+          "respuesta_correcta": "d) Los que provocaren un incendio que comporte un peligro para la vida o integridad física de las personas.",
+          "cita": "Código Penal, Art. 351"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'falsificación de moneda' (Art. 386)?",
+          "opciones": [
+            "a) El que altere la moneda o fabrique moneda falsa, la introduzca en el país o la expenda o distribuya en connivencia con los falsificadores.",
+            "b) Pagar con un billete falso sin saberlo.",
+            "c) Imprimir billetes de juguete.",
+            "d) Falsificar sellos de correos (Art. 389)."
+          ],
+          "respuesta_correcta": "c) Imprimir billetes de juguete.",
+          "cita": "Código Penal, Art. 386"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'asociación ilícita' (Art. 515)?",
+          "opciones": [
+            "a) Reunirse sin permiso de la autoridad.",
+            "b) Las asociaciones que tengan por objeto cometer algún delito o que, después de constituidas, promuevan su comisión, así como las bandas armadas, organizaciones terroristas, paramilitares, las que promuevan la discriminación o el odio, y las secretas.",
+            "c) Una manifestación ilegal.",
+            "d) Un grupo de amigos que comete una gamberrada."
+          ],
+          "respuesta_correcta": "c) Una manifestación ilegal.",
+          "cita": "Código Penal, Art. 515"
+        },
+        {
+          "pregunta": "¿Qué es la 'organización criminal' (Art. 570 bis)?",
+          "opciones": [
+            "a) El grupo criminal (Art. 570 ter).",
+            "b) La asociación ilícita simple.",
+            "c) La agrupación formada por más de dos personas con carácter estable o por tiempo indefinido, que de manera concertada y coordinada se repartan diversas tareas o funciones con el fin de cometer delitos.",
+            "d) La banda juvenil."
+          ],
+          "respuesta_correcta": "d) La banda juvenil.",
+          "cita": "Código Penal, Art. 570 bis"
+        },
+        {
+          "pregunta": "¿Qué es el 'grupo criminal' (Art. 570 ter)?",
+          "opciones": [
+            "a) La unión de más de dos personas que, sin reunir alguna o algunas de las características de la organización criminal, tenga por finalidad o objeto la perpetración concertada de delitos.",
+            "b) La organización criminal estable.",
+            "c) La conspiración para delinquir.",
+            "d) La coautoría simple."
+          ],
+          "respuesta_correcta": "b) La organización criminal estable.",
+          "cita": "Código Penal, Art. 570 ter"
+        },
+        {
+          "pregunta": "¿Qué pena tiene la 'traición' (Art. 581)?",
+          "opciones": [
+            "a) El espionaje.",
+            "b) La revelación de secretos de estado.",
+            "c) El español que indujere a una potencia extranjera a declarar la guerra a España o se concertare con ella para el mismo fin.",
+            "d) El ultraje a la bandera."
+          ],
+          "respuesta_correcta": "a) El espionaje.",
+          "cita": "Código Penal, Art. 581"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'ultraje a España' (Art. 543)?",
+          "opciones": [
+            "a) Pitar el himno en un partido de fútbol (libertad de expresión según TC).",
+            "b) Quemar una foto del Rey (injurias a la Corona).",
+            "c) Las ofensas o ultrajes de palabra, por escrito o de hecho a España, a sus Comunidades Autónomas o a sus símbolos o emblemas, efectuados con publicidad.",
+            "d) Criticar al gobierno."
+          ],
+          "respuesta_correcta": "a) Pitar el himno en un partido de fútbol (libertad de expresión según TC).",
+          "cita": "Código Penal, Art. 543"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'injurias a la Corona' (Art. 490)?",
+          "opciones": [
+            "a) Criticar la monarquía como institución.",
+            "b) El que calumniare o injuriare al Rey, a la Reina, o a cualquiera de sus ascendientes o descendientes, a la Reina consorte o al consorte de la Reina, al Regente o a algún miembro de la Regencia, o al Príncipe o a la Princesa de Asturias, en el ejercicio de sus funciones o con motivo u ocasión de ellas.",
+            "c) Hacer chistes sobre el Rey.",
+            "d) Pedir la república."
+          ],
+          "respuesta_correcta": "d) Pedir la república.",
+          "cita": "Código Penal, Art. 490.3"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'desórdenes públicos' (Art. 557)?",
+          "opciones": [
+            "a) Hacer ruido en la calle por la noche.",
+            "b) Interrumpir el tráfico con una sentada pacífica.",
+            "c) Desobedecer a la policía.",
+            "d) Quienes actuando en grupo o individualmente pero amparados en él, alteraren la paz pública ejecutando actos de violencia sobre las personas o sobre las cosas, o amenazando a otros con llevarlos a cabo."
+          ],
+          "respuesta_correcta": "a) Hacer ruido en la calle por la noche.",
+          "cita": "Código Penal, Art. 557"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'tenencia de pornografía infantil' (Art. 189)?",
+          "opciones": [
+            "a) El que posea, adquiera, obtenga o tenga en su poder material pornográfico en el que se utilice a menores de edad o a personas con discapacidad necesitadas de especial protección, o acceda a dicho material a través de tecnologías de la información.",
+            "b) Ver porno legal en internet.",
+            "c) Dibujar cómics eróticos.",
+            "d) Tener fotos de desnudos artísticos."
+          ],
+          "respuesta_correcta": "c) Dibujar cómics eróticos.",
+          "cita": "Código Penal, Art. 189.5"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'grooming' (ciberacoso a menores) (Art. 183 ter)?",
+          "opciones": [
+            "a) El acoso escolar en redes sociales.",
+            "b) El sexting entre menores.",
+            "c) El control parental del móvil.",
+            "d) Quien, a través de internet, del teléfono o de cualquier otra tecnología de la información y la comunicación, contacte con un menor de 16 años y realice actos dirigidos a embaucarle para concertar un encuentro con fines sexuales."
+          ],
+          "respuesta_correcta": "c) El control parental del móvil.",
+          "cita": "Código Penal, Art. 183 ter"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'sexting' sin consentimiento (Art. 197.7)?",
+          "opciones": [
+            "a) Enviar fotos desnudo voluntariamente.",
+            "b) Grabar a alguien en la calle.",
+            "c) El que, sin autorización de la persona afectada, difunda, revele o ceda a terceros imágenes o grabaciones audiovisuales de aquélla que hubiera obtenido con su anuencia en un domicilio o en cualquier otro lugar fuera del alcance de la mirada de terceros, cuando la divulgación menoscabe gravemente la intimidad personal de esa persona.",
+            "d) Compartir un meme viral."
+          ],
+          "respuesta_correcta": "a) Enviar fotos desnudo voluntariamente.",
+          "cita": "Código Penal, Art. 197.7"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'stalking' (acoso) (Art. 172 ter)?",
+          "opciones": [
+            "a) El que acose a una persona llevando a cabo de forma insistente y reiterada, y sin estar legítimamente autorizado, conductas como vigilarla, perseguirla, contactarla contra su voluntad, usar sus datos, etc., alterando gravemente el desarrollo de su vida cotidiana.",
+            "b) Enviar un mensaje de whatsapp molesto.",
+            "c) Mirar el perfil de Facebook de alguien.",
+            "d) Saludar por la calle a un ex."
+          ],
+          "respuesta_correcta": "c) Mirar el perfil de Facebook de alguien.",
+          "cita": "Código Penal, Art. 172 ter"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'matrimonio forzado' (Art. 172 bis)?",
+          "opciones": [
+            "a) Casarse por conveniencia para obtener la nacionalidad.",
+            "b) El matrimonio concertado por los padres con consentimiento de los hijos.",
+            "c) El matrimonio de menores de edad con dispensa judicial.",
+            "d) El que con intimidación grave o violencia compeliere a otra persona a contraer matrimonio."
+          ],
+          "respuesta_correcta": "d) El que con intimidación grave o violencia compeliere a otra persona a contraer matrimonio.",
+          "cita": "Código Penal, Art. 172 bis"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'mutilación genital' (Art. 149.2)?",
+          "opciones": [
+            "a) El que causare a otro una mutilación genital en cualquiera de sus manifestaciones será castigado con la pena de prisión de seis a 12 años.",
+            "b) La circuncisión masculina por motivos religiosos.",
+            "c) La operación de cambio de sexo.",
+            "d) El piercing genital."
+          ],
+          "respuesta_correcta": "a) El que causare a otro una mutilación genital en cualquiera de sus manifestaciones será castigado con la pena de prisión de seis a 12 años.",
+          "cita": "Código Penal, Art. 149.2"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'abandono de familia' (Art. 226)?",
+          "opciones": [
+            "a) Irse de casa tras una discusión.",
+            "b) El impago de la hipoteca.",
+            "c) Dejar a los niños con los abuelos el fin de semana.",
+            "d) El que dejare de cumplir los deberes legales de asistencia inherentes a la patria potestad, tutela, guarda o acogimiento familiar, o de prestar la asistencia necesaria legalmente establecida para el sustento de sus descendientes, ascendientes o cónyuge, que se hallen necesitados."
+          ],
+          "respuesta_correcta": "c) Dejar a los niños con los abuelos el fin de semana.",
+          "cita": "Código Penal, Art. 226"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'impago de pensiones' (Art. 227)?",
+          "opciones": [
+            "a) El que dejare de pagar durante dos meses consecutivos o cuatro no consecutivos cualquier tipo de prestación económica en favor de su cónyuge o sus hijos, establecida en convenio judicialmente aprobado o resolución judicial.",
+            "b) Pagar la pensión con retraso.",
+            "c) Pagar menos cantidad de la estipulada por error.",
+            "d) No pagar la pensión porque se está en paro sin ingresos (causa de justificación, no delito)."
+          ],
+          "respuesta_correcta": "c) Pagar menos cantidad de la estipulada por error.",
+          "cita": "Código Penal, Art. 227"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'sustracción de menores' (Art. 225 bis)?",
+          "opciones": [
+            "a) El secuestro por un desconocido.",
+            "b) El progenitor que sin causa justificada sustrajere a su hijo menor (traslado sin consentimiento o retención incumpliendo el deber de custodia).",
+            "c) Llevar al niño al parque sin avisar.",
+            "d) El retraso en la entrega del menor tras las vacaciones."
+          ],
+          "respuesta_correcta": "b) El progenitor que sin causa justificada sustrajere a su hijo menor (traslado sin consentimiento o retención incumpliendo el deber de custodia).",
+          "cita": "Código Penal, Art. 225 bis"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'intrusismo' (Art. 403)?",
+          "opciones": [
+            "a) El curandero que no cobra.",
+            "b) El estudiante en prácticas.",
+            "c) El que ejerciere actos propios de una profesión sin poseer el correspondiente título académico expedido o reconocido en España de acuerdo con la legislación vigente.",
+            "d) El profesional que ejerce sin estar colegiado (infracción administrativa)."
+          ],
+          "respuesta_correcta": "d) El profesional que ejerce sin estar colegiado (infracción administrativa).",
+          "cita": "Código Penal, Art. 403"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'descubrimiento y revelación de secretos' (Art. 197)?",
+          "opciones": [
+            "a) Contar un secreto que te ha dicho un amigo.",
+            "b) Publicar una foto pública de alguien.",
+            "c) El que, para descubrir los secretos o vulnerar la intimidad de otro, sin su consentimiento, se apodere de sus papeles, cartas, mensajes de correo electrónico o cualesquiera otros documentos o efectos personales, o intercepte sus telecomunicaciones.",
+            "d) Leer el periódico de otra persona."
+          ],
+          "respuesta_correcta": "c) El que, para descubrir los secretos o vulnerar la intimidad de otro, sin su consentimiento, se apodere de sus papeles, cartas, mensajes de correo electrónico o cualesquiera otros documentos o efectos personales, o intercepte sus telecomunicaciones.",
+          "cita": "Código Penal, Art. 197.1"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'daños informáticos' (Art. 264)?",
+          "opciones": [
+            "a) Romper la pantalla del ordenador.",
+            "b) Derramar café sobre el teclado.",
+            "c) El que por cualquier medio, sin autorización y de manera grave borrase, dañase, deteriorase, alterase, suprimiese o hiciese inaccesibles datos informáticos, programas informáticos o documentos electrónicos ajenos.",
+            "d) Olvidar la contraseña de acceso."
+          ],
+          "respuesta_correcta": "d) Olvidar la contraseña de acceso.",
+          "cita": "Código Penal, Art. 264"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'acceso ilícito a sistemas informáticos' (Hacking) (Art. 197 bis)?",
+          "opciones": [
+            "a) Entrar en una web pública.",
+            "b) Usar el ordenador de un compañero con su permiso.",
+            "c) Adivinar la contraseña '1234'.",
+            "d) El que por cualquier medio o procedimiento, vulnerando las medidas de seguridad establecidas para impedirlo, y sin estar debidamente autorizado, acceda o facilite a otro el acceso al conjunto o una parte de un sistema de información."
+          ],
+          "respuesta_correcta": "b) Usar el ordenador de un compañero con su permiso.",
+          "cita": "Código Penal, Art. 197 bis"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'fraude de fluido eléctrico' (Art. 255)?",
+          "opciones": [
+            "a) El que cometiere defraudación por valor superior a 400 euros, utilizando energía eléctrica, gas, agua, telecomunicaciones u otro elemento, energía o fluido ajenos, por medio de enganches clandestinos o alteración de contadores.",
+            "b) Dejar la luz encendida sin querer.",
+            "c) No pagar la factura de la luz.",
+            "d) Usar pilas recargables."
+          ],
+          "respuesta_correcta": "b) Dejar la luz encendida sin querer.",
+          "cita": "Código Penal, Art. 255"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'propiedad intelectual' (Art. 270)?",
+          "opciones": [
+            "a) El que, con ánimo de obtener un beneficio económico directo o indirecto y en perjuicio de tercero, reproduzca, plagie, distribuya, comunique públicamente o de cualquier otro modo explote económicamente, en todo o en parte, una obra o prestación literaria, artística o científica sin autorización.",
+            "b) Descargar una película para verla en casa (copia privada, si no hay ánimo de lucro comercial).",
+            "c) Citar un texto poniendo la fuente.",
+            "d) Comprar un libro de segunda mano."
+          ],
+          "respuesta_correcta": "a) El que, con ánimo de obtener un beneficio económico directo o indirecto y en perjuicio de tercero, reproduzca, plagie, distribuya, comunique públicamente o de cualquier otro modo explote económicamente, en todo o en parte, una obra o prestación literaria, artística o científica sin autorización.",
+          "cita": "Código Penal, Art. 270"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'propiedad industrial' (Art. 273)?",
+          "opciones": [
+            "a) Inventar algo nuevo.",
+            "b) El que, con fines industriales o comerciales, sin consentimiento del titular de un derecho de propiedad industrial (patente, marca, diseño), fabrique, importe, posea, utilice, ofrezca o introduzca en el comercio objetos amparados por tales derechos.",
+            "c) Usar una marca genérica.",
+            "d) Reparar una máquina patentada."
+          ],
+          "respuesta_correcta": "a) Inventar algo nuevo.",
+          "cita": "Código Penal, Art. 273"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'alzamiento de bienes' (frustración de la ejecución) (Art. 257)?",
+          "opciones": [
+            "a) Declararse en bancarrota legalmente.",
+            "b) Vender una casa para pagar una deuda.",
+            "c) El que se alce con sus bienes en perjuicio de sus acreedores (ocultar patrimonio para no pagar deudas).",
+            "d) Pedir un préstamo para pagar otro."
+          ],
+          "respuesta_correcta": "d) Pedir un préstamo para pagar otro.",
+          "cita": "Código Penal, Art. 257"
+        },
+        {
+          "pregunta": "¿Qué es el delito de 'insolvencia punible' (Art. 259)?",
+          "opciones": [
+            "a) El deudor que, encontrándose en situación de insolvencia actual o inminente, realice actos que agraven su situación o causen su insolvencia, perjudicando a sus acreedores (concurso fraudulento).",
+            "b) No tener dinero para pagar.",
+            "c) Ser pobre.",
+            "d) Perder el trabajo."
+          ],
+          "respuesta_correcta": "c) Ser pobre.",
+          "cita": "Código Penal, Art. 259"
+        },
+        {
+          "pregunta": "¿Qué es el delito fiscal (Art. 305)?",
+          "opciones": [
+            "a) No hacer la declaración de la renta si sale a devolver.",
+            "b) Cometer un error aritmético en la declaración.",
+            "c) Defraudar 50.000 euros (infracción administrativa).",
+            "d) El que, por acción u omisión, defraude a la Hacienda Pública estatal, autonómica, foral o local, eludiendo el pago de tributos, cantidades retenidas o que se hubieran debido retener o ingresos a cuenta, obteniendo indebidamente devoluciones o disfrutando beneficios fiscales de la misma forma, siempre que la cuantía de la cuota defraudada exceda de 120.000 euros."
+          ],
+          "respuesta_correcta": "a) No hacer la declaración de la renta si sale a devolver.",
+          "cita": "Código Penal, Art. 305"
+        },
+        {
+          "pregunta": "¿Cómo comienza el plazo de prescripción del delito (Art. 132)?",
+          "opciones": [
+            "a) Desde el día en que se haya cometido la infracción punible. En los casos de delito continuado, delito permanente, así como en las infracciones que exijan habitualidad, desde el día en que se realizó la última infracción, desde que se eliminó la situación ilícita o desde que cesó la conducta.",
+            "b) Desde que se descubre el delito.",
+            "c) Desde que se presenta la denuncia.",
+            "d) Desde que se dicta sentencia."
+          ],
+          "respuesta_correcta": "a) Desde el día en que se haya cometido la infracción punible. En los casos de delito continuado, delito permanente, así como en las infracciones que exijan habitualidad, desde el día en que se realizó la última infracción, desde que se eliminó la situación ilícita o desde que cesó la conducta.",
+          "cita": "Código Penal, Art. 132.1"
+        },
+        {
+          "pregunta": "¿Cuándo se interrumpe la prescripción del delito (Art. 132)?",
+          "opciones": [
+            "a) La mera presentación de denuncia en comisaría, aunque no se identifique al autor.",
+            "b) Cualquier actuación policial de investigación interna no comunicada al juzgado.",
+            "c) Cuando el procedimiento se dirija contra la persona indiciariamente responsable del delito, comenzando a correr de nuevo el término de la prescripción desde que se paralice el procedimiento o se termine sin condena.",
+            "d) La fuga del reo al extranjero."
+          ],
+          "respuesta_correcta": "b) Cualquier actuación policial de investigación interna no comunicada al juzgado.",
+          "cita": "Código Penal, Art. 132.2"
+        },
+        {
+          "pregunta": "¿Qué sucede con la prescripción si el procedimiento se paraliza (Art. 132)?",
+          "opciones": [
+            "a) La paralización del procedimiento suspende la prescripción indefinidamente.",
+            "b) Volverá a correr el plazo de prescripción si el procedimiento permanece paralizado durante el tiempo establecido para la prescripción del delito.",
+            "c) Se archiva la causa automáticamente a los seis meses de inactividad.",
+            "d) El Fiscal debe solicitar la reapertura cada año para evitar la prescripción."
+          ],
+          "respuesta_correcta": "a) La paralización del procedimiento suspende la prescripción indefinidamente.",
+          "cita": "Código Penal, Art. 132.2"
+        }
+      ]
     }
-  ]
-}]
+  
+]]

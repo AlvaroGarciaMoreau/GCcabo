@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "tema": "Topografía",
+    "numero_tema": 18,
+    "total_referencias": 44,
+    "descripcion": "Referencias del temario de Topografía para el sistema de ayuda al estudio"
+  },
+  "referencias": {
+    "TOPOGRAFIA.pdf, Pág. 1": {
+      "titulo": "Introducción a la Topografía",
+      "seccion": "Elementos Geográficos - Eje Terrestre",
+      "contenido": "La Topografía es la ciencia que estudia el conjunto de principios y procedimientos que tienen por misión la representación gráfica de una parte de la superficie terrestre.\n\nEje terrestre: también conocido como eje polar, es la línea imaginaria sobre la cual gira la tierra en su movimiento de rotación. Este eje está ligeramente inclinado, en concreto 23º 27'.\n\nLa tierra presenta dos movimientos:\n- Rotación: sobre su propio eje terrestre tardando 23 horas y 56 minutos\n- Traslación: alrededor del sol en 365 días, 6 horas y 9 minutos"
+    },
+    "TOPOGRAFIA.pdf, Pág. 1-2": {
+      "titulo": "Movimientos de la Tierra",
+      "seccion": "Elementos Geográficos",
+      "contenido": "Rotación: Se produce sobre su propio eje terrestre tardando 23 horas y 56 minutos en hacer un giro completo.\n\nTraslación: Se produce alrededor del sol en 365 días, 6 horas y 9 minutos. Esas 6 horas son las que hacen que cada cuatro años el mes de febrero tenga un día más."
+    },
+    "TOPOGRAFIA.pdf, Pág. 2": {
+      "titulo": "Polos y Meridianos",
+      "seccion": "Elementos Geográficos Fundamentales",
+      "contenido": "Polos: El eje terrestre atraviesa la superficie de la tierra en dos puntos llamados polos. El que está situado en la parte de la estrella polar se le denomina Polo Norte, y el opuesto Polo Sur.\n\nNo debemos confundir los Polos Geográficos con los Polos Magnéticos. El Polo Norte Geográfico está situado a unos 1600 kilómetros del Polo Magnético.\n\nMeridianos: Son círculos máximos perpendiculares al Ecuador, que pasan por los Polos, y dividen la Tierra en dos hemisferios: occidental y oriental.\n\nEl meridiano origen es el que pasa por el Observatorio astronómico de Greenwich (Londres), conocido como Meridiano Cero o de Greenwich."
+    },
+    "TOPOGRAFIA.pdf, Pág. 3": {
+      "titulo": "Paralelos, Puntos Cardinales y Escalas",
+      "seccion": "Elementos Geográficos - Escalas",
+      "contenido": "Paralelos: Son los círculos que cortan la tierra y son perpendiculares a los meridianos. El paralelo mayor que divide la tierra en dos partes iguales se llama Ecuador.\n\nEl Ecuador mide unos 40.076 kilómetros y el diámetro del círculo que forma tiene 12.750 kilómetros.\n\nOtros paralelos importantes:\n- Trópico de Cáncer (23º N)\n- Trópico de Capricornio (23º S)\n- Círculo Polar Ártico\n- Círculo Polar Antártico\n\nPuntos Cardinales: Norte (N), Este (E), Sur (S) y Oeste (W). Conforman un sistema de referencia para representar la orientación.\n\nEscalas: E = P/T (relación entre plano y terreno)\nUn plano de Escala 1/1000 significa que cada centímetro del plano equivale a 1000 centímetros en la realidad."
+    },
+    "TOPOGRAFIA.pdf, Pág. 3 (Concepto escala mayor/menor)": {
+      "titulo": "Concepto de Escala Mayor y Menor",
+      "seccion": "Escalas",
+      "contenido": "Si tenemos dos planos del mismo tamaño, uno de Escala 1/1000 y otro de 1/25000, el que más terreno representa es el de 1/25000 (escala menor), ya que 1 centímetro representa 25.000 centímetros de la realidad.\n\nA menor denominador en la fracción, mayor es la escala y mayor el detalle.\nA mayor denominador, menor es la escala y mayor territorio representa."
+    },
+    "TOPOGRAFIA.pdf, Pág. 3 (Cálculo escala)": {
+      "titulo": "Cálculo de Escala",
+      "seccion": "Escalas - Ejercicios",
+      "contenido": "Fórmula: E = P/T\nDonde:\n- E = Escala\n- P = distancia en el plano\n- T = distancia en el terreno\n\nPara calcular la escala:\n1. Convertir ambas distancias a la misma unidad\n2. Aplicar la fórmula E = P/T\n3. Expresar como fracción 1:X"
+    },
+    "TOPOGRAFIA.pdf, Pág. 3 (Cálculo)": {
+      "titulo": "Cálculos con Escalas",
+      "seccion": "Escalas - Problemas",
+      "contenido": "Para resolver problemas de escalas:\n\n1. Calcular distancia en terreno: T = P / E\n2. Calcular distancia en plano: P = T × E\n3. Calcular escala: E = P / T\n\nRecordar siempre trabajar con las mismas unidades."
+    },
+    "TOPOGRAFIA.pdf, Pág. 3 (5 cm x 10.000 = 50.000 cm = 500 m)": {
+      "titulo": "Ejemplo de Cálculo de Distancia Real",
+      "seccion": "Escalas - Ejercicio Resuelto",
+      "contenido": "Ejemplo: En un plano 1:10.000, una distancia de 5 cm equivale a:\n5 cm × 10.000 = 50.000 cm = 500 metros"
+    },
+    "TOPOGRAFIA.pdf, Pág. 3 (100.000 cm / 2 cm = 50.000)": {
+      "titulo": "Cálculo de Escala - Ejemplo",
+      "seccion": "Escalas - Ejercicio",
+      "contenido": "Si dos puntos están separados 1 km (100.000 cm) en el terreno y 2 cm en el plano:\nEscala = 2 cm / 100.000 cm = 1:50.000"
+    },
+    "TOPOGRAFIA.pdf, Pág. 3 (100.000 cm / 20.000 = 5 cm)": {
+      "titulo": "Cálculo de Distancia en Plano",
+      "seccion": "Escalas - Ejercicio",
+      "contenido": "Si la distancia en terreno es 100.000 cm y la escala es 1:20.000:\nDistancia en plano = 100.000 / 20.000 = 5 cm"
+    },
+    "TOPOGRAFIA.pdf, Pág. 4": {
+      "titulo": "Coordenadas Geográficas - Latitud y Longitud",
+      "seccion": "Coordenadas Geográficas",
+      "contenido": "Coordenadas Geográficas: Red de líneas (paralelos y meridianos) que se trazan a partir de los polos y el Ecuador.\n\nLatitud geográfica: Distancia entre un punto de la Tierra y el Ecuador. Se mide en grados de 0º (Ecuador) a 90º N (Polo Norte) o 90º S (Polo Sur).\n\nLongitud geográfica: Distancia de un punto de la Tierra con respecto al meridiano de Greenwich. Se mide de 0º a 180º E (Este) o 180º O (Oeste).\n\nLos ángulos se miden en:\n- Grados (º)\n- Minutos ('): 1º = 60'\n- Segundos (''): 1' = 60''"
+    },
+    "TOPOGRAFIA.pdf, Pág. 4 (Equivalencia semicírculo)": {
+      "titulo": "Equivalencias Angulares",
+      "seccion": "Unidades Angulares",
+      "contenido": "Un semicírculo equivale a 180º en el sistema sexagesimal.\n\nCada meridiano hace una curva parecida a media circunferencia, por eso la longitud va de 0º a 180º."
+    },
+    "TOPOGRAFIA.pdf, Pág. 5": {
+      "titulo": "Acimut y Rumbo",
+      "seccion": "Orientación - Acimut y Rumbo",
+      "contenido": "Acimut (Azimut): Ángulo que forma una dirección con el Norte Geográfico. Se mide desde el Norte Geográfico en sentido horario de 0º a 360º.\n\nContra-acimut o acimut inverso: Es el ángulo opuesto. Se calcula sumando o restando 180º al acimut.\n\nRumbo: Ángulo formado por una dirección con el Norte magnético. Se cuenta a partir del Norte magnético en sentido horario de 0º a 360º.\n\nDeclinación magnética (Dm): Diferencia angular entre el Norte geográfico y el magnético. Varía según el lugar y el tiempo."
+    },
+    "TOPOGRAFIA.pdf, Pág. 5 (Deducción equidistancia)": {
+      "titulo": "Equidistancia en Curvas de Nivel",
+      "seccion": "Curvas de Nivel",
+      "contenido": "Equidistancia: Diferencia constante de altura entre dos curvas de nivel consecutivas.\n\nLa equidistancia depende de:\n- La escala del mapa\n- El tipo de terreno\n- El detalle requerido\n\nEjemplo: Si la equidistancia es de 10 metros, cada curva está separada verticalmente 10 metros de la siguiente."
+    },
+    "TOPOGRAFIA.pdf, Pág. 5 (Propiedades curvas)": {
+      "titulo": "Propiedades de las Curvas de Nivel",
+      "seccion": "Sistema de Planos Acotados",
+      "contenido": "Propiedades de las curvas de nivel:\n\n1. Todos los puntos de una curva tienen la misma altitud\n2. Las curvas de nivel nunca se cortan\n3. Curvas muy juntas indican pendiente fuerte\n4. Curvas muy separadas indican pendiente suave\n5. Cada 5 curvas se dibuja una directora (más gruesa) con su cota"
+    },
+    "TOPOGRAFIA.pdf, Pág. 6": {
+      "titulo": "Unidades Geométricas de Medida",
+      "seccion": "Unidades Lineales y Angulares",
+      "contenido": "Unidades lineales: El Sistema Internacional establece que la unidad de longitud es el metro.\n\nUnidades agrarias:\n- Área = Decámetro² (dam²)\n- Hectárea = Hm² (múltiplo del área)\n- Centiárea = m² (submúltiplo del área)\n\nSistema sexagesimal: El grado sexagesimal se obtiene dividiendo un ángulo recto en 90 partes iguales.\n- 1 grado = 60 minutos\n- 1 minuto = 60 segundos\n\nSistema centesimal: El grado centesimal resulta de dividir el ángulo recto en 100 partes iguales.\n\nEquivalencias:\n360º = 400g = 6400ºº = 2π rad"
+    },
+    "TOPOGRAFIA.pdf, Pág. 6 (100/1000 * 100 = 10%)": {
+      "titulo": "Cálculo de Pendiente - Ejemplo",
+      "seccion": "Pendiente - Ejercicio",
+      "contenido": "Ejemplo de cálculo de pendiente:\nSi el desnivel es 100 m y la distancia horizontal es 1000 m:\nPendiente = (100/1000) × 100 = 10%"
+    },
+    "TOPOGRAFIA.pdf, Pág. 6 (Aplicación fórmula)": {
+      "titulo": "Fórmula de Pendiente",
+      "seccion": "Pendiente entre Dos Puntos",
+      "contenido": "Fórmula de la pendiente:\n\nPendiente (%) = (Distancia Vertical / Distancia Horizontal) × 100\n\nDonde:\n- Distancia Vertical = Diferencia de nivel (desnivel)\n- Distancia Horizontal = Distancia reducida"
+    },
+    "TOPOGRAFIA.pdf, Pág. 6 (Explicación gráfica)": {
+      "titulo": "Representación Gráfica de Pendiente",
+      "seccion": "Pendiente - Elementos",
+      "contenido": "En la representación de pendiente encontramos:\n\n1. Distancia vertical o diferencia de nivel (desnivel)\n2. Distancia reducida u horizontal\n3. Distancia geométrica: recta que une los dos puntos\n4. Distancia natural: distancia real siguiendo las sinuosidades del terreno"
+    },
+    "TOPOGRAFIA.pdf, Pág. 6 (tan(45) = 1 = 100%)": {
+      "titulo": "Pendiente de 45 grados",
+      "seccion": "Pendiente - Casos Especiales",
+      "contenido": "Cuando el ángulo de inclinación es de 45º:\ntan(45º) = 1\nPendiente = 1 × 100 = 100%\n\nEsto significa que por cada metro horizontal se sube un metro vertical."
+    },
+    "TOPOGRAFIA.pdf, Pág. 7": {
+      "titulo": "Representación del Terreno",
+      "seccion": "Planimetría y Altimetría",
+      "contenido": "La Topografía se divide en dos partes:\n\nPlanimetría: Proyección de cada punto del terreno sobre un plano horizontal. Se utiliza para hacer mapas, cartas y planos.\n\nAltimetría (nivelación): Determinación de las alturas de los diferentes puntos del terreno respecto a un plano horizontal de referencia. En España este nivel de referencia es el correspondiente al del mar en Alicante.\n\nSistema de planos acotados: Combinación de planimetría y altimetría. Cada punto se define por su proyección ortogonal y su cota o altitud."
+    },
+    "TOPOGRAFIA.pdf, Pág. 7 (Conceptos accidentes)": {
+      "titulo": "Accidentes del Terreno",
+      "seccion": "Accidentes Topográficos",
+      "contenido": "Accidentes del terreno básicos:\n\n- Cota: Altura de un punto respecto al nivel de referencia\n- Elevación: Zona alta del terreno\n- Depresión: Zona baja del terreno\n- Loma: Elevación del terreno de forma redondeada\n- Vaguada: Línea de puntos más bajos entre dos elevaciones\n- Collado: Zona de paso entre dos elevaciones"
+    },
+    "TOPOGRAFIA.pdf, Pág. 7 (Definiciones accidentes)": {
+      "titulo": "Definiciones de Accidentes Topográficos",
+      "seccion": "Tipos de Accidentes",
+      "contenido": "Principales accidentes del terreno:\n\n- Divisoria: Línea que separa dos vertientes opuestas\n- Vaguada: Línea de máxima pendiente por donde discurren las aguas\n- Collado: Depresión entre dos elevaciones que permite el paso\n- Loma: Pequeña elevación del terreno\n- Hoya: Depresión del terreno cerrada por curvas de nivel"
+    },
+    "TOPOGRAFIA.pdf, Pág. 7 (Definición Divisoria)": {
+      "titulo": "Divisoria de Aguas",
+      "seccion": "Accidentes - Divisoria",
+      "contenido": "Divisoria: Línea que separa dos vertientes opuestas del terreno. Es la línea de cumbres que divide las aguas hacia diferentes cuencas hidrográficas."
+    },
+    "TOPOGRAFIA.pdf, Pág. 7 (Definición Vaguada)": {
+      "titulo": "Vaguada",
+      "seccion": "Accidentes - Vaguada",
+      "contenido": "Vaguada: Línea de máxima pendiente por donde discurren las aguas de escorrentía. Es la línea de puntos más bajos entre dos elevaciones, opuesta a la divisoria."
+    },
+    "TOPOGRAFIA.pdf, Pág. 7 (Interpretación gráfica)": {
+      "titulo": "Interpretación de Curvas de Nivel",
+      "seccion": "Lectura de Mapas Topográficos",
+      "contenido": "Para interpretar curvas de nivel:\n\n- Curvas concéntricas cerradas con valores crecientes = Elevación (loma, cerro)\n- Curvas concéntricas cerradas con valores decrecientes = Depresión (hoya)\n- Curvas en forma de V apuntando aguas arriba = Vaguada\n- Curvas en forma de V apuntando aguas abajo = Divisoria"
+    },
+    "TOPOGRAFIA.pdf, Pág. 7 (Interpretación vaguada)": {
+      "titulo": "Representación de Vaguada en Curvas",
+      "seccion": "Curvas de Nivel - Vaguada",
+      "contenido": "En un mapa topográfico, las vaguadas se representan con curvas de nivel que forman una V apuntando hacia las cotas superiores (aguas arriba).\n\nEs el camino natural del agua."
+    },
+    "TOPOGRAFIA.pdf, Pág. 7 (Representación de hoyas)": {
+      "titulo": "Hoyas y Depresiones",
+      "seccion": "Accidentes - Hoyas",
+      "contenido": "Hoya: Depresión cerrada del terreno. Se representa con curvas de nivel concéntricas cerradas donde los valores de cota disminuyen hacia el centro.\n\nA veces se marcan con pequeñas líneas perpendiculares (garfios) apuntando hacia el interior para indicar que es una depresión."
+    },
+    "TOPOGRAFIA.pdf, Pág. 7 (Sinónimo de collado accesible)": {
+      "titulo": "Collado",
+      "seccion": "Accidentes - Collado",
+      "contenido": "Collado: También llamado puerto o paso. Es una depresión entre dos elevaciones que permite el paso de una vertiente a otra.\n\nEs el punto más bajo en una divisoria entre dos cumbres."
+    },
+    "TOPOGRAFIA.pdf, Pág. 10 (655000 cm / 25000 = 26,2 cm)": {
+      "titulo": "Ejercicio de Escala - Distancia en Plano",
+      "seccion": "Escalas - Ejercicio Resuelto",
+      "contenido": "Ejemplo: Si la distancia entre dos puntos en el terreno es de 6550 metros (655.000 cm) y la escala del plano es 1:25.000:\n\nDistancia en plano = 655.000 cm / 25.000 = 26,2 cm"
+    },
+    "TOPOGRAFIA.pdf, Pág. 10 (Desnivel=700m; Distancia=2000m; 700/2000=0,35 -> 35%)": {
+      "titulo": "Ejercicio de Pendiente - 35%",
+      "seccion": "Pendiente - Ejercicio Resuelto",
+      "contenido": "Ejemplo de cálculo de pendiente:\n\nDatos:\n- Desnivel (distancia vertical) = 700 m\n- Distancia horizontal = 2000 m\n\nPendiente = (700 / 2000) × 100 = 0,35 × 100 = 35%"
+    },
+    "TOPOGRAFIA.pdf, Pág. 10 (Desnivel=750m; Distancia=1500m; 750/1500=0,5 -> 50%)": {
+      "titulo": "Ejercicio de Pendiente - 50%",
+      "seccion": "Pendiente - Ejercicio Resuelto",
+      "contenido": "Ejemplo de cálculo de pendiente:\n\nDatos:\n- Desnivel (distancia vertical) = 750 m\n- Distancia horizontal = 1500 m\n\nPendiente = (750 / 1500) × 100 = 0,5 × 100 = 50%"
+    },
+    "Temario Topografia.docx (Pto. 1)": {
+      "titulo": "Elementos Geográficos Fundamentales",
+      "seccion": "Punto 1 del Temario",
+      "contenido": "1. ELEMENTOS GEOGRÁFICOS FUNDAMENTALES:\n\n• Eje Terrestre y Polos: Eje de rotación de la Tierra y los polos geográficos (Norte y Sur)\n\n• Meridiano y Paralelo: El Meridiano de Greenwich como referencia internacional\n\n• Ecuador: Paralelo fundamental y origen del sistema de latitudes\n\n• Puntos Cardinales: Norte, Sur, Este, Oeste\n\n• Coordenadas Geográficas: Latitud (φ) y longitud (λ) para localización absoluta\n\n• Acimut y Rumbo: Para orientación y navegación"
+    },
+    "Temario Topografia.docx (Pto. 1 - implícito en definiciones)": {
+      "titulo": "Conceptos Implícitos en Elementos Geográficos",
+      "seccion": "Punto 1 - Complementario",
+      "contenido": "Conceptos derivados de los elementos geográficos:\n\n- Diferencia entre Norte geográfico y magnético\n- Uso de coordenadas para localización\n- Sistemas de referencia en navegación\n- Relación entre meridianos, paralelos y coordenadas"
+    },
+    "Temario Topografia.docx (Pto. 2)": {
+      "titulo": "Unidades Geométricas de Medida",
+      "seccion": "Punto 2 del Temario",
+      "contenido": "2. UNIDADES GEOMÉTRICAS DE MEDIDA:\n\n• Unidades Lineales: Sistema internacional (metros, kilómetros)\n\n• Escalas:\n  - Escala Numérica: Fracción de representación (ej. 1:1000)\n  - Escala Gráfica: Representación visual en mapas\n\n• Unidades Angulares:\n  - Sistema Sexagesimal: Grados, minutos, segundos (° ' '')\n  - Sistema Centesimal: Grados centesimales (g)\n  - Radián: Unidad angular del SI"
+    },
+    "Conocimiento general topografía": {
+      "titulo": "Conocimientos Generales de Topografía",
+      "seccion": "Conceptos Básicos",
+      "contenido": "La Topografía es la ciencia que estudia los principios y procedimientos para la representación gráfica de la superficie terrestre con sus formas y detalles.\n\nSe divide en:\n- Planimetría: Posición horizontal (X, Y)\n- Altimetría: Altura o elevación (Z)\n\nUtiliza instrumentos como teodolitos y taquímetros."
+    },
+    "Conocimiento general topografía (Implícito en Altimetría)": {
+      "titulo": "Altimetría",
+      "seccion": "Conceptos de Altimetría",
+      "contenido": "Altimetría: Parte de la topografía que determina las alturas de los puntos del terreno respecto a un plano horizontal de referencia.\n\nEn España, el nivel de referencia es el mar en Alicante."
+    },
+    "Conocimiento general topografía / Accidentes": {
+      "titulo": "Accidentes del Terreno",
+      "seccion": "Tipos de Accidentes Topográficos",
+      "contenido": "Accidentes del terreno:\n- Cota, elevación, depresión\n- Loma, vaguada, collado\n- Divisoria de aguas\n- Hoyas y hondonadas"
+    },
+    "Conocimiento general topografía / Orientación": {
+      "titulo": "Orientación",
+      "seccion": "Métodos de Orientación",
+      "contenido": "Orientación: Relacionar una posición con los puntos cardinales.\n\nMétodos:\n- Por el sol\n- Por las estrellas\n- Por la luna\n- Por el musgo\n- Con instrumentos (brújula, GPS)"
+    },
+    "Conocimiento general topografía/obras": {
+      "titulo": "Aplicaciones de la Topografía en Obras",
+      "seccion": "Topografía Aplicada",
+      "contenido": "La topografía se aplica en:\n- Construcción de carreteras\n- Edificación\n- Obras hidráulicas\n- Planificación urbana\n- Catastro y registro\n- Estudios ambientales"
+    },
+    "Conocimiento general cartografía/topografía": {
+      "titulo": "Cartografía y Topografía",
+      "seccion": "Relación entre Disciplinas",
+      "contenido": "Cartografía: Ciencia que estudia la elaboración de mapas y cartas geográficas.\n\nLa topografía proporciona los datos necesarios para la elaboración cartográfica mediante levantamientos del terreno."
+    },
+    "Conocimiento general accidentes geográficos": {
+      "titulo": "Accidentes Geográficos",
+      "seccion": "Geografía Física",
+      "contenido": "Principales accidentes geográficos:\n- Montañas, sierras, cordilleras\n- Valles, cañones\n- Mesetas, llanuras\n- Costas, playas, acantilados\n- Ríos, lagos, embalses"
+    },
+    "Conocimiento general derivado de unidades angulares": {
+      "titulo": "Sistemas de Unidades Angulares",
+      "seccion": "Medición de Ángulos",
+      "contenido": "Sistemas para medir ángulos:\n\n1. Sexagesimal: 360º = 1 vuelta completa\n2. Centesimal: 400g = 1 vuelta completa\n3. Radián: 2π rad = 1 vuelta completa\n4. Milésimal: 6400ºº = 1 vuelta completa\n\nConversiones entre sistemas son fundamentales en topografía."
+    },
+    "Concepto derivado de perfiles topográficos": {
+      "titulo": "Perfiles Topográficos",
+      "seccion": "Representación del Relieve",
+      "contenido": "Perfil topográfico: Representación gráfica de un corte vertical del terreno.\n\nSe obtiene a partir de:\n- Curvas de nivel del mapa\n- Intersección con una línea de corte\n- Representación de alturas a escala\n\nMuestra la forma real del relieve en una dirección determinada."
+    }
+  }
+}

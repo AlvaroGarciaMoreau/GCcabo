@@ -1,1066 +1,670 @@
-[{
-  "tema": "TEMA 14.- IGUALDAD EFECTIVA DE MUJERES Y HOMBRES",
-  "descripcion": "Preguntas basadas en la Ley Orgánica 3/2007 (T. Preliminar, T. I y T. V Caps. III, IV y V).",
-  "preguntas": [
-    {
-      "pregunta": "¿Cuál es el objeto de la Ley Orgánica 3/2007 según su artículo 1? [cite: 905]",
-      "opciones": [
-        "a) Regular el sistema de cuotas en las empresas privadas.",
-        "b) Hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres.",
-        "c) Establecer el régimen sancionador para la violencia de género.",
-        "d) Crear el Instituto de la Mujer."
-      ],
-      "respuesta_correcta": "b) Hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres."
-    },
-    {
-      "pregunta": "¿A quiénes son de aplicación las obligaciones establecidas en la Ley Orgánica 3/2007? [cite: 909]",
-      "opciones": [
-        "a) Solo a las personas físicas de nacionalidad española.",
-        "b) A toda persona, física o jurídica, que se encuentre o actúe en territorio español, cualquiera que fuese su nacionalidad, domicilio o residencia.",
-        "c) Solo a las Administraciones Públicas.",
-        "d) A las empresas con más de 50 trabajadores."
-      ],
-      "respuesta_correcta": "b) A toda persona, física o jurídica, que se encuentre o actúe en territorio español, cualquiera que fuese su nacionalidad, domicilio o residencia."
-    },
-    {
-      "pregunta": "¿Qué supone el principio de igualdad de trato entre mujeres y hombres según el artículo 3? [cite: 915]",
-      "opciones": [
-        "a) La ausencia de toda discriminación, directa o indirecta, por razón de sexo.",
-        "b) La paridad absoluta en todos los órganos.",
-        "c) El trato idéntico sin excepciones.",
-        "d) La discriminación positiva obligatoria."
-      ],
-      "respuesta_correcta": "a) La ausencia de toda discriminación, directa o indirecta, por razón de sexo."
-    },
-    {
-      "pregunta": "¿Qué consideración tiene la igualdad de trato y de oportunidades en el ordenamiento jurídico? [cite: 917]",
-      "opciones": [
-        "a) Es un principio informador.",
-        "b) Es una recomendación.",
-        "c) Es una norma reglamentaria.",
-        "d) Es un objetivo secundario."
-      ],
-      "respuesta_correcta": "a) Es un principio informador."
-    },
-    {
-      "pregunta": "¿Cuándo existe discriminación directa por razón de sexo? [cite: 922]",
-      "opciones": [
-        "a) Cuando una disposición aparentemente neutra pone a personas de un sexo en desventaja.",
-        "b) Cuando una persona sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable.",
-        "c) Cuando se acosa a una persona por su sexo.",
-        "d) Cuando se adoptan acciones positivas."
-      ],
-      "respuesta_correcta": "b) Cuando una persona sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable."
-    },
-    {
-      "pregunta": "¿Qué define la discriminación indirecta por razón de sexo? [cite: 923]",
-      "opciones": [
-        "a) El trato desfavorable por embarazo.",
-        "b) La situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro.",
-        "c) El acoso sexual.",
-        "d) La orden de discriminar."
-      ],
-      "respuesta_correcta": "b) La situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro."
-    },
-    {
-      "pregunta": "¿Se considera discriminatoria la orden de discriminar? [cite: 924]",
-      "opciones": [
-        "a) No, solo la ejecución de la orden.",
-        "b) Sí, en cualquier caso.",
-        "c) Solo si se discrimina a una mujer.",
-        "d) Solo si es por escrito."
-      ],
-      "respuesta_correcta": "b) Sí, en cualquier caso."
-    },
-    {
-      "pregunta": "¿Qué se entiende por acoso sexual en esta Ley? [cite: 926]",
-      "opciones": [
-        "a) Cualquier comportamiento realizado en función del sexo de una persona.",
-        "b) Cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona, en particular cuando se crea un entorno intimidatorio, degradante u ofensivo.",
-        "c) La discriminación por embarazo.",
-        "d) El trato desfavorable por maternidad."
-      ],
-      "respuesta_correcta": "b) Cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona, en particular cuando se crea un entorno intimidatorio, degradante u ofensivo."
-    },
-    {
-      "pregunta": "¿Constituye el acoso sexual un acto de discriminación? [cite: 928]",
-      "opciones": [
-        "a) No, es un delito pero no discriminación.",
-        "b) Sí, se considerará en todo caso discriminatorio.",
-        "c) Solo si es reiterado.",
-        "d) Solo en el ámbito laboral."
-      ],
-      "respuesta_correcta": "b) Sí, se considerará en todo caso discriminatorio."
-    },
-    {
-      "pregunta": "¿Qué es el acoso por razón de sexo? [cite: 927]",
-      "opciones": [
-        "a) El comportamiento de naturaleza sexual no deseado.",
-        "b) Cualquier comportamiento realizado en función del sexo de una persona, con el propósito o el efecto de atentar contra su dignidad y de crear un entorno intimidatorio, degradante u ofensivo.",
-        "c) La violencia de género física.",
-        "d) La discriminación salarial."
-      ],
-      "respuesta_correcta": "b) Cualquier comportamiento realizado en función del sexo de una persona, con el propósito o el efecto de atentar contra su dignidad y de crear un entorno intimidatorio, degradante u ofensivo."
-    },
-    {
-      "pregunta": "¿Qué tipo de discriminación constituye el trato desfavorable a las mujeres relacionado con el embarazo o la maternidad? [cite: 934]",
-      "opciones": [
-        "a) Discriminación indirecta.",
-        "b) Discriminación directa por razón de sexo.",
-        "c) Acoso por razón de sexo.",
-        "d) Acción positiva."
-      ],
-      "respuesta_correcta": "b) Discriminación directa por razón de sexo."
-    },
-    {
-      "pregunta": "¿Qué es la indemnidad frente a represalias? [cite: 936]",
-      "opciones": [
-        "a) La prohibición de despedir.",
-        "b) La consideración como discriminación del trato adverso producido como consecuencia de la presentación de una queja o demanda destinada a impedir la discriminación.",
-        "c) El derecho a indemnización por despido.",
-        "d) La protección de datos."
-      ],
-      "respuesta_correcta": "b) La consideración como discriminación del trato adverso producido como consecuencia de la presentación de una queja o demanda destinada a impedir la discriminación."
-    },
-    {
-      "pregunta": "¿Qué consecuencia jurídica tienen los actos que constituyan discriminación por razón de sexo? [cite: 938]",
-      "opciones": [
-        "a) Son anulables.",
-        "b) Se considerarán nulos y sin efecto.",
-        "c) Son válidos pero sancionables.",
-        "d) Se suspenden temporalmente."
-      ],
-      "respuesta_correcta": "b) Se considerarán nulos y sin efecto."
-    },
-    {
-      "pregunta": "¿Qué son las acciones positivas según el artículo 11? [cite: 940]",
-      "opciones": [
-        "a) Medidas generales para todos los ciudadanos.",
-        "b) Medidas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres.",
-        "c) Sanciones a las empresas.",
-        "d) Ayudas económicas directas."
-      ],
-      "respuesta_correcta": "b) Medidas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres."
-    },
-    {
-      "pregunta": "¿Quién puede adoptar medidas de acción positiva? [cite: 940, 942]",
-      "opciones": [
-        "a) Solo los Poderes Públicos.",
-        "b) Solo las empresas privadas.",
-        "c) Los Poderes Públicos y también las personas físicas y jurídicas privadas.",
-        "d) Solo el Gobierno."
-      ],
-      "respuesta_correcta": "c) Los Poderes Públicos y también las personas físicas y jurídicas privadas."
-    },
-    {
-      "pregunta": "¿Quién está legitimado para recabar la tutela del derecho a la igualdad ante los tribunales? [cite: 944]",
-      "opciones": [
-        "a) Solo las mujeres.",
-        "b) Cualquier persona.",
-        "c) Solo los sindicatos.",
-        "d) Solo el Ministerio Fiscal."
-      ],
-      "respuesta_correcta": "b) Cualquier persona."
-    },
-    {
-      "pregunta": "En los litigios sobre acoso sexual y acoso por razón de sexo, ¿quién está legitimado? [cite: 946]",
-      "opciones": [
-        "a) Cualquier persona.",
-        "b) Los sindicatos.",
-        "c) La persona acosada será la única legitimada.",
-        "d) Las asociaciones de mujeres."
-      ],
-      "respuesta_correcta": "c) La persona acosada será la única legitimada."
-    },
-    {
-      "pregunta": "¿A quién corresponde la carga de la prueba en procedimientos sobre discriminación por razón de sexo? [cite: 948]",
-      "opciones": [
-        "a) Siempre a la parte actora.",
-        "b) Al Ministerio Fiscal.",
-        "c) Corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad.",
-        "d) Al Juez."
-      ],
-      "respuesta_correcta": "c) Corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad."
-    },
-    {
-      "pregunta": "¿Se aplica la inversión de la carga de la prueba a los procesos penales? [cite: 950]",
-      "opciones": [
-        "a) Sí, siempre.",
-        "b) No, no será de aplicación.",
-        "c) Solo en delitos leves.",
-        "d) Sí, si lo pide la víctima."
-      ],
-      "respuesta_correcta": "b) No, no será de aplicación."
-    },
-    {
-      "pregunta": "¿Qué deben acompañar las convocatorias de pruebas selectivas para el acceso al empleo público? [cite: 1211]",
-      "opciones": [
-        "a) Un plan de igualdad.",
-        "b) Un informe de impacto de género, salvo en casos de urgencia.",
-        "c) Una lista de admitidos paritaria.",
-        "d) Un certificado de no discriminación."
-      ],
-      "respuesta_correcta": "b) Un informe de impacto de género, salvo en casos de urgencia."
-    },
-    {
-      "pregunta": "En los concursos para la provisión de puestos de trabajo, ¿se computa el tiempo de excedencia por cuidado de familiares? [cite: 1216]",
-      "opciones": [
-        "a) No, nunca.",
-        "b) Sí, a los efectos de valoración del trabajo desarrollado y de los correspondientes méritos.",
-        "c) Solo si es por cuidado de hijos.",
-        "d) Solo en la promoción interna."
-      ],
-      "respuesta_correcta": "b) Sí, a los efectos de valoración del trabajo desarrollado y de los correspondientes méritos."
-    },
-    {
-      "pregunta": "¿Cuándo se concede licencia por riesgo durante el embarazo a una funcionaria? [cite: 1218]",
-      "opciones": [
-        "a) Cuando lo solicite.",
-        "b) Cuando las condiciones del puesto pudieran influir negativamente en su salud o la del hijo y no sea posible el cambio de puesto.",
-        "c) A partir del quinto mes.",
-        "d) Si es embarazo de riesgo médico."
-      ],
-      "respuesta_correcta": "b) Cuando las condiciones del puesto pudieran influir negativamente en su salud o la del hijo y no sea posible el cambio de puesto."
-    },
-    {
-      "pregunta": "Durante la licencia por riesgo durante el embarazo, ¿qué derechos económicos se garantizan? [cite: 1219]",
-      "opciones": [
-        "a) El 75% de las retribuciones.",
-        "b) Las retribuciones básicas solamente.",
-        "c) La plenitud de los derechos económicos.",
-        "d) El sueldo base."
-      ],
-      "respuesta_correcta": "c) La plenitud de los derechos económicos."
-    },
-    {
-      "pregunta": "¿Qué ocurre con las vacaciones si coinciden con una incapacidad temporal derivada del embarazo? [cite: 1222]",
-      "opciones": [
-        "a) Se pierden.",
-        "b) Se pagan.",
-        "c) La empleada pública tendrá derecho a disfrutarlas en fecha distinta, aunque haya terminado el año natural.",
-        "d) Se disfrutan al año siguiente solo si hay hueco."
-      ],
-      "respuesta_correcta": "c) La empleada pública tendrá derecho a disfrutarlas en fecha distinta, aunque haya terminado el año natural."
-    },
-    {
-      "pregunta": "¿Se aplica el derecho a posponer vacaciones al permiso de paternidad? [cite: 1223]",
-      "opciones": [
-        "a) No.",
-        "b) Sí, gozarán de este mismo derecho.",
-        "c) Solo si es funcionario de carrera.",
-        "d) Solo si la madre cede parte de su permiso."
-      ],
-      "respuesta_correcta": "b) Sí, gozarán de este mismo derecho."
-    },
-    {
-      "pregunta": "¿Qué preferencia se otorga en los cursos de formación tras incorporarse de un permiso de maternidad/paternidad? [cite: 1225]",
-      "opciones": [
-        "a) Ninguna.",
-        "b) Preferencia durante un año en la adjudicación de plazas.",
-        "c) Preferencia indefinida.",
-        "d) Acceso directo sin solicitud."
-      ],
-      "respuesta_correcta": "b) Preferencia durante un año en la adjudicación de plazas."
-    },
-    {
-      "pregunta": "Para facilitar la promoción profesional de las empleadas públicas, ¿qué reserva de plazas se establece en cursos de formación? [cite: 1229]",
-      "opciones": [
-        "a) El 50%.",
-        "b) Al menos un 40% de las plazas para quienes reúnan los requisitos.",
-        "c) Un 25%.",
-        "d) No hay reserva."
-      ],
-      "respuesta_correcta": "b) Al menos un 40% de las plazas para quienes reúnan los requisitos."
-    },
-    {
-      "pregunta": "¿Qué deben contemplar todas las pruebas de acceso al empleo público de la AGE? [cite: 1231]",
-      "opciones": [
-        "a) Un examen de inglés.",
-        "b) El estudio y la aplicación del principio de igualdad entre mujeres y hombres.",
-        "c) Pruebas físicas específicas.",
-        "d) Un test psicotécnico."
-      ],
-      "respuesta_correcta": "b) El estudio y la aplicación del principio de igualdad entre mujeres y hombres."
-    },
-    {
-      "pregunta": "¿Qué deben negociar las Administraciones públicas para la prevención del acoso sexual? [cite: 1234]",
-      "opciones": [
-        "a) Un convenio colectivo.",
-        "b) Un protocolo de actuación.",
-        "c) Un seguro de responsabilidad.",
-        "d) Una comisión de investigación."
-      ],
-      "respuesta_correcta": "b) Un protocolo de actuación."
-    },
-    {
-      "pregunta": "¿Con qué frecuencia deben remitir información los Ministerios sobre la aplicación del principio de igualdad? [cite: 1240]",
-      "opciones": [
-        "a) Mensualmente.",
-        "b) Trimestralmente.",
-        "c) Al menos anualmente.",
-        "d) Cada legislatura."
-      ],
-      "respuesta_correcta": "c) Al menos anualmente."
-    },
-    {
-      "pregunta": "¿Cuándo aprobará el Gobierno el Plan para la Igualdad en la AGE? [cite: 1242]",
-      "opciones": [
-        "a) Anualmente.",
-        "b) Al inicio de cada legislatura.",
-        "c) Cada dos años.",
-        "d) Cuando lo solicite el Parlamento."
-      ],
-      "respuesta_correcta": "b) Al inicio de cada legislatura."
-    },
-    {
-      "pregunta": "¿Con quién se negocia el Plan de Igualdad de la AGE? [cite: 1244]",
-      "opciones": [
-        "a) Con nadie, lo aprueba el Gobierno.",
-        "b) Con las asociaciones de mujeres.",
-        "c) Con la representación legal de los empleados públicos.",
-        "d) Con el Consejo de Estado."
-      ],
-      "respuesta_correcta": "c) Con la representación legal de los empleados públicos."
-    },
-    {
-      "pregunta": "¿Quién evalúa el cumplimiento del Plan de Igualdad de la AGE? [cite: 1244]",
-      "opciones": [
-        "a) El Parlamento.",
-        "b) El Consejo de Ministros, anualmente.",
-        "c) Los sindicatos.",
-        "d) El Defensor del Pueblo."
-      ],
-      "respuesta_correcta": "b) El Consejo de Ministros, anualmente."
-    },
-    {
-      "pregunta": "¿Qué deben procurar las normas sobre personal de las Fuerzas Armadas según el artículo 65? [cite: 1250]",
-      "opciones": [
-        "a) La disciplina ante todo.",
-        "b) La efectividad del principio de igualdad entre mujeres y hombres.",
-        "c) La separación por sexos.",
-        "d) La exclusión de mujeres en combate."
-      ],
-      "respuesta_correcta": "b) La efectividad del principio de igualdad entre mujeres y hombres."
-    },
-    {
-      "pregunta": "¿Son de aplicación en las Fuerzas Armadas las normas de igualdad del personal de las administraciones públicas? [cite: 1252]",
-      "opciones": [
-        "a) No, tienen régimen propio exclusivo.",
-        "b) Sí, con las adaptaciones que resulten necesarias y en los términos de su normativa específica.",
-        "c) Sí, sin ninguna adaptación.",
-        "d) Solo en tiempos de paz."
-      ],
-      "respuesta_correcta": "b) Sí, con las adaptaciones que resulten necesarias y en los términos de su normativa específica."
-    },
-    {
-      "pregunta": "¿Qué deben promover las normas reguladoras de las Fuerzas y Cuerpos de Seguridad del Estado? [cite: 1256]",
-      "opciones": [
-        "a) La igualdad efectiva entre mujeres y hombres.",
-        "b) La fuerza física.",
-        "c) La segregación en funciones.",
-        "d) La jerarquía masculina."
-      ],
-      "respuesta_correcta": "a) La igualdad efectiva entre mujeres y hombres."
-    },
-    {
-      "pregunta": "¿Se aplican las normas de igualdad de los funcionarios a las Fuerzas y Cuerpos de Seguridad? [cite: 1258]",
-      "opciones": [
-        "a) No.",
-        "b) Sí, adaptándose a las peculiaridades de sus funciones.",
-        "c) Solo a la Policía Nacional.",
-        "d) Solo al personal administrativo."
-      ],
-      "respuesta_correcta": "b) Sí, adaptándose a las peculiaridades de sus funciones."
-    },
-    {
-      "pregunta": "¿Qué se entiende por 'condicionamiento de un derecho a la aceptación de acoso sexual'? [cite: 930]",
-      "opciones": [
-        "a) Chantaje.",
-        "b) Acto de discriminación por razón de sexo.",
-        "c) Infracción leve.",
-        "d) Acuerdo mutuo."
-      ],
-      "respuesta_correcta": "b) Acto de discriminación por razón de sexo."
-    },
-    {
-      "pregunta": "Según la Ley Orgánica 3/2007, las mujeres y los hombres son: [cite: 904]",
-      "opciones": [
-        "a) Diferentes en derechos.",
-        "b) Iguales en dignidad humana, e iguales en derechos y deberes.",
-        "c) Iguales solo ante la ley.",
-        "d) Distintos biológicamente pero iguales laboralmente."
-      ],
-      "respuesta_correcta": "b) Iguales en dignidad humana, e iguales en derechos y deberes."
-    },
-    {
-      "pregunta": "¿Qué tipo de discriminación es una disposición aparentemente neutra que perjudica más a un sexo? [cite: 923]",
-      "opciones": [
-        "a) Directa.",
-        "b) Indirecta.",
-        "c) Inversa.",
-        "d) Positiva."
-      ],
-      "respuesta_correcta": "b) Indirecta."
-    },
-    {
-      "pregunta": "¿Cuándo no es discriminatoria una diferencia de trato en el acceso al empleo? [cite: 920]",
-      "opciones": [
-        "a) Nunca.",
-        "b) Cuando el sexo sea un requisito profesional esencial y determinante, legítimo y proporcionado.",
-        "c) Cuando lo decida el empresario.",
-        "d) Cuando sea un trabajo físico."
-      ],
-      "respuesta_correcta": "b) Cuando el sexo sea un requisito profesional esencial y determinante, legítimo y proporcionado."
-    },
-    {
-      "pregunta": "¿Qué medidas de protección se contemplan para la maternidad en el empleo público? [cite: 1213]",
-      "opciones": [
-        "a) Solo permisos no retribuidos.",
-        "b) Régimen de excedencias, reducciones de jornada, permisos u otros beneficios.",
-        "c) Despido nulo.",
-        "d) Jubilación anticipada."
-      ],
-      "respuesta_correcta": "b) Régimen de excedencias, reducciones de jornada, permisos u otros beneficios."
-    },
-    {
-      "pregunta": "¿Qué información deben desagregar por sexo los Ministerios en su informe anual? [cite: 1240]",
-      "opciones": [
-        "a) Solo el número total de empleados.",
-        "b) Distribución de plantilla, grupo de titulación, nivel de complemento de destino y retribuciones promediadas.",
-        "c) Bajas médicas.",
-        "d) Afiliación sindical."
-      ],
-      "respuesta_correcta": "b) Distribución de plantilla, grupo de titulación, nivel de complemento de destino y retribuciones promediadas."
-    },
-    {
-      "pregunta": "¿Qué principio debe regir la interpretación de las normas jurídicas? [cite: 917]",
-      "opciones": [
-        "a) La igualdad de trato y de oportunidades entre mujeres y hombres.",
-        "b) La costumbre.",
-        "c) La jerarquía.",
-        "d) La antigüedad."
-      ],
-      "respuesta_correcta": "a) La igualdad de trato y de oportunidades entre mujeres y hombres."
-    },
-    {
-      "pregunta": "¿Se considera discriminación el acoso por razón de sexo? [cite: 928]",
-      "opciones": [
-        "a) Sí, en todo caso.",
-        "b) No, es violencia.",
-        "c) Solo si es físico.",
-        "d) Solo si es verbal."
-      ],
-      "respuesta_correcta": "a) Sí, en todo caso."
-    },
-    {
-      "pregunta": "¿Qué efecto tienen las cláusulas de negocios jurídicos que causen discriminación? [cite: 938]",
-      "opciones": [
-        "a) Son válidas.",
-        "b) Son nulas y sin efecto.",
-        "c) Son recurribles.",
-        "d) Son subsanables."
-      ],
-      "respuesta_correcta": "b) Son nulas y sin efecto."
-    },
-    {
-      "pregunta": "¿Qué se entiende por 'transversalidad' del principio de igualdad? [cite: 972]",
-      "opciones": [
-        "a) Que informa la actuación de todos los Poderes Públicos en todas sus políticas.",
-        "b) Que cruza de un lado a otro.",
-        "c) Que es temporal.",
-        "d) Que afecta solo a mujeres."
-      ],
-      "respuesta_correcta": "a) Que informa la actuación de todos los Poderes Públicos en todas sus políticas."
-    },
-    {
-      "pregunta": "¿Qué deben hacer las Administraciones Públicas para facilitar la conciliación? [cite: 1189]",
-      "opciones": [
-        "a) Reducir sueldos.",
-        "b) Facilitar la conciliación de la vida personal, familiar y laboral, sin menoscabo de la promoción profesional.",
-        "c) Obligar a trabajar desde casa.",
-        "d) Dar más vacaciones a las mujeres."
-      ],
-      "respuesta_correcta": "b) Facilitar la conciliación de la vida personal, familiar y laboral, sin menoscabo de la promoción profesional."
-    },
-    {
-      "pregunta": "¿Es obligatorio el informe de impacto de género en leyes? [cite: 984]",
-      "opciones": [
-        "a) No, es voluntario.",
-        "b) Sí, en proyectos de disposiciones generales y planes de especial relevancia que apruebe el Consejo de Ministros.",
-        "c) Solo en leyes orgánicas.",
-        "d) Solo en leyes laborales."
-      ],
-      "respuesta_correcta": "b) Sí, en proyectos de disposiciones generales y planes de especial relevancia que apruebe el Consejo de Ministros."
-    },
-    {
-      "pregunta": "¿Qué deben incluir las estadísticas públicas? [cite: 987]",
-      "opciones": [
-        "a) La variable de sexo sistemáticamente.",
-        "b) Nombres y apellidos.",
-        "c) Datos económicos solo.",
-        "d) La raza."
-      ],
-      "respuesta_correcta": "a) La variable de sexo sistemáticamente."
-    },
-    {
-      "pregunta": "¿Qué implica la presencia equilibrada? [cite: 1305]",
-      "opciones": [
-        "a) 50% exacto de cada sexo.",
-        "b) Que ningún sexo supere el 60% ni sea menos del 40%.",
-        "c) Mayoría de mujeres.",
-        "d) Al menos un 30% del sexo menos representado."
-      ],
-      "respuesta_correcta": "b) Que ningún sexo supere el 60% ni sea menos del 40%."
-    },
-    {
-      "pregunta": "¿Deben los tribunales de selección de la AGE responder al principio de presencia equilibrada? [cite: 1200]",
-      "opciones": [
-        "a) No es necesario.",
-        "b) Sí, salvo razones fundadas y objetivas debidamente motivadas.",
-        "c) Sí, siempre sin excepción.",
-        "d) Solo los presidentes."
-      ],
-      "respuesta_correcta": "b) Sí, salvo razones fundadas y objetivas debidamente motivadas."
-    },
-    {
-      "pregunta": "¿En qué licencia se garantiza la plenitud de derechos económicos de la funcionaria? [cite: 1219]",
-      "opciones": [
-        "a) Asuntos propios.",
-        "b) Licencia por riesgo durante el embarazo.",
-        "c) Excedencia voluntaria.",
-        "d) Suspensión de empleo."
-      ],
-      "respuesta_correcta": "b) Licencia por riesgo durante el embarazo."
-    },
-    {
-      "pregunta": "¿Puede disfrutarse la vacación anual en fecha distinta si coincide con la lactancia? [cite: 1222]",
-      "opciones": [
-        "a) Sí.",
-        "b) No.",
-        "c) Solo si lo autoriza el jefe.",
-        "d) Solo la mitad."
-      ],
-      "respuesta_correcta": "a) Sí."
-    },
-    {
-      "pregunta": "¿Qué deben hacer las Administraciones Públicas frente a la discriminación retributiva? [cite: 1193]",
-      "opciones": [
-        "a) Ignorarla.",
-        "b) Establecer medidas efectivas para eliminar cualquier discriminación retributiva, directa o indirecta, por razón de sexo.",
-        "c) Publicar los sueldos.",
-        "d) Bajar los sueldos altos."
-      ],
-      "respuesta_correcta": "b) Establecer medidas efectivas para eliminar cualquier discriminación retributiva, directa o indirecta, por razón de sexo."
-    },
-    {
-      "pregunta": "¿Qué comprende el protocolo frente al acoso sexual en la AGE? [cite: 1234]",
-      "opciones": [
-        "a) Sanciones penales.",
-        "b) El compromiso de no tolerarlo, instrucción al personal, tratamiento reservado de denuncias, etc.",
-        "c) La publicación de los nombres de los acosadores.",
-        "d) El despido inmediato sin prueba."
-      ],
-      "respuesta_correcta": "b) El compromiso de no tolerarlo, instrucción al personal, tratamiento reservado de denuncias, etc."
-    },
-    {
-      "pregunta": "¿En qué ámbito territorial se aplica la Ley Orgánica 3/2007? [cite: 909]",
-      "opciones": [
-        "a) Solo en la Península.",
-        "b) En todo el territorio español.",
-        "c) En la Unión Europea.",
-        "d) En las Comunidades Autónomas que la ratifiquen."
-      ],
-      "respuesta_correcta": "b) En todo el territorio español."
-    },
-    {
-      "pregunta": "¿Qué se considera discriminación directa por maternidad? [cite: 934]",
-      "opciones": [
-        "a) Todo trato desfavorable relacionado con el embarazo o la maternidad.",
-        "b) Dar permisos de maternidad.",
-        "c) La lactancia en público.",
-        "d) Tener hijos."
-      ],
-      "respuesta_correcta": "a) Todo trato desfavorable relacionado con el embarazo o la maternidad."
-    },
-    {
-      "pregunta": "¿Quién tiene legitimación en litigios sobre acoso sexual? [cite: 946]",
-      "opciones": [
-        "a) Los sindicatos.",
-        "b) La persona acosada exclusivamente.",
-        "c) El Ministerio de Igualdad.",
-        "d) Cualquier compañero."
-      ],
-      "respuesta_correcta": "b) La persona acosada exclusivamente."
-    },
-    {
-      "pregunta": "¿Qué deben hacer las Administraciones Públicas en relación con la violencia de género en el empleo público? [cite: 1232]",
-      "opciones": [
-        "a) Impartir cursos de formación sobre prevención de la violencia de género.",
-        "b) Ocultarla.",
-        "c) No es su competencia.",
-        "d) Solo actuar si hay sentencia."
-      ],
-      "respuesta_correcta": "a) Impartir cursos de formación sobre prevención de la violencia de género."
-    },
-    {
-      "pregunta": "¿Cómo deben ser los nombramientos de órganos directivos de la AGE? [cite: 1198]",
-      "opciones": [
-        "a) Por libre designación siempre.",
-        "b) Atendiendo al principio de presencia equilibrada de mujeres y hombres.",
-        "c) Por antigüedad.",
-        "d) Por sorteo."
-      ],
-      "respuesta_correcta": "b) Atendiendo al principio de presencia equilibrada de mujeres y hombres."
-    },
-    {
-      "pregunta": "¿Qué deben promover las normas de las Fuerzas y Cuerpos de Seguridad? [cite: 1256]",
-      "opciones": [
-        "a) La fuerza.",
-        "b) La igualdad efectiva entre mujeres y hombres, impidiendo discriminación profesional.",
-        "c) La separación de escalas.",
-        "d) La exclusividad masculina."
-      ],
-      "respuesta_correcta": "b) La igualdad efectiva entre mujeres y hombres, impidiendo discriminación profesional."
-    },
-    {
-      "pregunta": "¿Se aplica la Ley de Igualdad a los contratos de la AGE? [cite: 1076]",
-      "opciones": [
-        "a) No.",
-        "b) Sí, el Consejo de Ministros determinará los contratos que obligatoriamente incluirán medidas de promoción de la igualdad.",
-        "c) Solo en obras públicas.",
-        "d) Solo en servicios sociales."
-      ],
-      "respuesta_correcta": "b) Sí, el Consejo de Ministros determinará los contratos que obligatoriamente incluirán medidas de promoción de la igualdad."
-    },
-    {
-      "pregunta": "¿Qué es la tutela judicial efectiva en materia de igualdad? [cite: 944]",
-      "opciones": [
-        "a) El derecho a recabar de los tribunales la defensa del derecho a la igualdad.",
-        "b) Un juicio rápido.",
-        "c) Abogado gratis.",
-        "d) Ganar el juicio."
-      ],
-      "respuesta_correcta": "a) El derecho a recabar de los tribunales la defensa del derecho a la igualdad."
-    },
-    {
-      "pregunta": "¿Pueden las personas jurídicas reclamar la tutela del derecho a la igualdad? [cite: 945]",
-      "opciones": [
-        "a) No, solo personas físicas.",
-        "b) Sí, si tienen interés legítimo.",
-        "c) Solo asociaciones de mujeres.",
-        "d) Solo sindicatos."
-      ],
-      "respuesta_correcta": "b) Sí, si tienen interés legítimo."
-    },
-    {
-      "pregunta": "¿Qué debe hacer el órgano judicial si se alega discriminación? [cite: 949]",
-      "opciones": [
-        "a) Creer al demandante.",
-        "b) Puede recabar informe de organismos públicos competentes.",
-        "c) Archivar si no hay pruebas documentales.",
-        "d) Sancionar al demandante."
-      ],
-      "respuesta_correcta": "b) Puede recabar informe de organismos públicos competentes."
-    },
-    {
-      "pregunta": "¿En qué ámbito se garantiza la igualdad de trato según el artículo 5? [cite: 919]",
-      "opciones": [
-        "a) Solo en el empleo público.",
-        "b) En el empleo privado y en el público.",
-        "c) Solo en grandes empresas.",
-        "d) Solo en el acceso, no en el despido."
-      ],
-      "respuesta_correcta": "b) En el empleo privado y en el público."
-    },
-    {
-      "pregunta": "¿Qué incluye la igualdad en las condiciones de trabajo? [cite: 919]",
-      "opciones": [
-        "a) Solo el salario.",
-        "b) Las retributivas y las de despido.",
-        "c) Solo el horario.",
-        "d) Solo las vacaciones."
-      ],
-      "respuesta_correcta": "b) Las retributivas y las de despido."
-    },
-    {
-      "pregunta": "¿Qué se entiende por presencia equilibrada en órganos colegiados? [cite: 1305]",
-      "opciones": [
-        "a) Que haya al menos una mujer.",
-        "b) Que las personas de cada sexo no superen el 60% ni sean menos del 40%.",
-        "c) Que sean mitad y mitad.",
-        "d) Que decida el presidente."
-      ],
-      "respuesta_correcta": "b) Que las personas de cada sexo no superen el 60% ni sean menos del 40%."
-    },
-    {
-      "pregunta": "¿Cómo se designan los representantes de la AGE en órganos colegiados? [cite: 1203]",
-      "opciones": [
-        "a) Libremente.",
-        "b) De acuerdo con el principio de presencia equilibrada, salvo razones fundadas.",
-        "c) Por antigüedad.",
-        "d) Por sorteo."
-      ],
-      "respuesta_correcta": "b) De acuerdo con el principio de presencia equilibrada, salvo razones fundadas."
-    },
-    {
-      "pregunta": "¿Qué se debe fomentar en la formación de empleados públicos? [cite: 1190]",
-      "opciones": [
-        "a) La informática.",
-        "b) La formación en igualdad.",
-        "c) Los idiomas.",
-        "d) La gestión."
-      ],
-      "respuesta_correcta": "b) La formación en igualdad."
-    },
-    {
-      "pregunta": "¿Qué sucede con la licencia por riesgo durante la lactancia natural en la función pública? [cite: 1220]",
-      "opciones": [
-        "a) No existe.",
-        "b) Se aplica lo dispuesto para el riesgo durante el embarazo.",
-        "c) Es de menor cuantía.",
-        "d) Dura solo un mes."
-      ],
-      "respuesta_correcta": "b) Se aplica lo dispuesto para el riesgo durante el embarazo."
-    },
-    {
-      "pregunta": "¿Qué trato se da a las situaciones de violencia de género en el empleo público? [cite: 1232]",
-      "opciones": [
-        "a) Se imparten cursos de prevención.",
-        "b) Se ignora.",
-        "c) Es un asunto privado.",
-        "d) Se despide a la víctima."
-      ],
-      "respuesta_correcta": "a) Se imparten cursos de prevención."
-    },
-    {
-      "pregunta": "¿Deben las Fuerzas Armadas aplicar normas de conciliación? [cite: 1252]",
-      "opciones": [
-        "a) No, por su naturaleza militar.",
-        "b) Sí, las normas de las administraciones públicas con las adaptaciones necesarias.",
-        "c) Solo si hay guerra.",
-        "d) Solo para personal civil."
-      ],
-      "respuesta_correcta": "b) Sí, las normas de las administraciones públicas con las adaptaciones necesarias."
-    },
-    {
-      "pregunta": "¿Qué implica la transversalidad? [cite: 973]",
-      "opciones": [
-        "a) Integrar el principio de igualdad en la adopción y ejecución de disposiciones normativas y políticas públicas.",
-        "b) Cruzar datos.",
-        "c) Cambiar de puesto.",
-        "d) Rotar personal."
-      ],
-      "respuesta_correcta": "a) Integrar el principio de igualdad en la adopción y ejecución de disposiciones normativas y políticas públicas."
-    },
-    {
-      "pregunta": "¿Qué es la discriminación por asociación? [Concepto derivado de jurisprudencia y directivas, implícito en la protección amplia]",
-      "opciones": [
-        "a) Discriminar a una sociedad.",
-        "b) Trato desfavorable a una persona por su relación con otra (aunque la ley española define directa/indirecta, este concepto se integra).",
-        "c) No existe.",
-        "d) Discriminar a un grupo."
-      ],
-      "respuesta_correcta": "b) Trato desfavorable a una persona por su relación con otra (aunque la ley española define directa/indirecta, este concepto se integra)."
-    },
-    {
-      "pregunta": "¿Cuándo se considera nulo un despido por discriminación? [cite: 938]",
-      "opciones": [
-        "a) Cuando se basa en razón de sexo.",
-        "b) Cuando es improcedente.",
-        "c) Cuando se paga poco.",
-        "d) Cuando la empresa cierra."
-      ],
-      "respuesta_correcta": "a) Cuando se basa en razón de sexo."
-    },
-    {
-      "pregunta": "¿Qué deben hacer los poderes públicos con las estadísticas? [cite: 987]",
-      "opciones": [
-        "a) Incluir la variable de sexo.",
-        "b) Hacerlas anónimas.",
-        "c) No publicarlas.",
-        "d) Falsearlas."
-      ],
-      "respuesta_correcta": "a) Incluir la variable de sexo."
-    },
-    {
-      "pregunta": "¿Qué se busca con las acciones de planificación equitativa de los tiempos? [cite: 999]",
-      "opciones": [
-        "a) Trabajar más.",
-        "b) Avanzar hacia un reparto equitativo de los tiempos entre mujeres y hombres.",
-        "c) Cambiar la hora.",
-        "d) Reducir la jornada."
-      ],
-      "respuesta_correcta": "b) Avanzar hacia un reparto equitativo de los tiempos entre mujeres y hombres."
-    },
-    {
-      "pregunta": "¿Qué es el Plan Estratégico de Igualdad de Oportunidades? [cite: 979]",
-      "opciones": [
-        "a) Un documento aprobado periódicamente por el Gobierno.",
-        "b) Una ley.",
-        "c) Un reglamento europeo.",
-        "d) Una idea."
-      ],
-      "respuesta_correcta": "a) Un documento aprobado periódicamente por el Gobierno."
-    },
-    {
-      "pregunta": "¿Qué incluye la protección frente al acoso sexual en la función pública? [cite: 1237]",
-      "opciones": [
-        "a) El tratamiento reservado de las denuncias.",
-        "b) Publicidad de los hechos.",
-        "c) Careo obligatorio.",
-        "d) Mediación."
-      ],
-      "respuesta_correcta": "a) El tratamiento reservado de las denuncias."
-    },
-    {
-      "pregunta": "¿Qué deben identificar los protocolos de acoso? [cite: 1238]",
-      "opciones": [
-        "a) A las víctimas.",
-        "b) A las personas responsables de atender a quienes formulen una queja.",
-        "c) A los testigos.",
-        "d) A los culpables antes de investigar."
-      ],
-      "respuesta_correcta": "b) A las personas responsables de atender a quienes formulen una queja."
-    },
-    {
-      "pregunta": "¿Qué se entiende por acoso ambiental? [Doctrina sobre art. 7]",
-      "opciones": [
-        "a) Contaminación.",
-        "b) Crear un entorno intimidatorio, degradante u ofensivo.",
-        "c) Ruido.",
-        "d) Fumar."
-      ],
-      "respuesta_correcta": "b) Crear un entorno intimidatorio, degradante u ofensivo."
-    },
-    {
-      "pregunta": "¿Qué permiso se reconoce para fomentar la corresponsabilidad? [cite: 1214]",
-      "opciones": [
-        "a) Permiso de paternidad.",
-        "b) Permiso de fútbol.",
-        "c) Permiso de pesca.",
-        "d) Permiso de viaje."
-      ],
-      "respuesta_correcta": "a) Permiso de paternidad."
-    },
-    {
-      "pregunta": "¿En qué consiste la discriminación por embarazo? [cite: 934]",
-      "opciones": [
-        "a) Trato favorable.",
-        "b) Trato desfavorable a las mujeres relacionado con el embarazo.",
-        "c) Dar la baja.",
-        "d) Pagar el parto."
-      ],
-      "respuesta_correcta": "b) Trato desfavorable a las mujeres relacionado con el embarazo."
-    },
-    {
-      "pregunta": "¿Qué se debe evitar en la política de educación? [cite: 1009]",
-      "opciones": [
-        "a) Los libros.",
-        "b) Comportamientos sexistas y estereotipos sociales.",
-        "c) El deporte.",
-        "d) Los exámenes."
-      ],
-      "respuesta_correcta": "b) Comportamientos sexistas y estereotipos sociales."
-    },
-    {
-      "pregunta": "¿Qué deben fomentar las Administraciones en educación superior? [cite: 1018]",
-      "opciones": [
-        "a) La enseñanza e investigación sobre igualdad.",
-        "b) Las fiestas.",
-        "c) El absentismo.",
-        "d) La privatización."
-      ],
-      "respuesta_correcta": "a) La enseñanza e investigación sobre igualdad."
-    },
-    {
-      "pregunta": "¿Qué se debe integrar en la política de salud? [cite: 1035]",
-      "opciones": [
-        "a) Las distintas necesidades de mujeres y hombres.",
-        "b) Solo la salud de los hombres.",
-        "c) Solo la salud infantil.",
-        "d) El coste económico."
-      ],
-      "respuesta_correcta": "a) Las distintas necesidades de mujeres y hombres."
-    },
-    {
-      "pregunta": "¿Qué se promueve en la Sociedad de la Información? [cite: 1046]",
-      "opciones": [
-        "a) La plena incorporación de las mujeres.",
-        "b) El uso de videojuegos.",
-        "c) La brecha digital.",
-        "d) El anonimato."
-      ],
-      "respuesta_correcta": "a) La plena incorporación de las mujeres."
-    },
-    {
-      "pregunta": "¿Qué se debe evitar en la publicidad institucional? [cite: 1113]",
-      "opciones": [
-        "a) Conductas discriminatorias.",
-        "b) Gastar dinero.",
-        "c) Usar colores.",
-        "d) Ser aburrida."
-      ],
-      "respuesta_correcta": "a) Conductas discriminatorias."
-    },
-    {
-      "pregunta": "¿Qué es el distintivo de igualdad? [cite: 1174]",
-      "opciones": [
-        "a) Un premio en metálico.",
-        "b) Un reconocimiento a empresas que destacan en políticas de igualdad.",
-        "c) Una multa.",
-        "d) Un logotipo obligatorio."
-      ],
-      "respuesta_correcta": "b) Un reconocimiento a empresas que destacan en políticas de igualdad."
-    },
-    {
-      "pregunta": "¿Son obligatorios los planes de igualdad en la AGE? [cite: 1242]",
-      "opciones": [
-        "a) Sí, se aprueba uno al inicio de cada legislatura.",
-        "b) No.",
-        "c) Solo si lo piden los sindicatos.",
-        "d) Solo en ministerios grandes."
-      ],
-      "respuesta_correcta": "a) Sí, se aprueba uno al inicio de cada legislatura."
-    },
-    {
-      "pregunta": "¿Qué deben hacer las fuerzas de seguridad en sus normas de acceso? [cite: 1256]",
-      "opciones": [
-        "a) Impedir cualquier situación de discriminación profesional.",
-        "b) Poner pruebas más fáciles a mujeres.",
-        "c) Poner pruebas más difíciles.",
-        "d) No admitir mujeres."
-      ],
-      "respuesta_correcta": "a) Impedir cualquier situación de discriminación profesional."
-    },
-    {
-      "pregunta": "¿Se aplica la Ley de Igualdad a los actos administrativos? [cite: 973]",
-      "opciones": [
-        "a) Sí, transversalmente.",
-        "b) No, solo a leyes.",
-        "c) A veces.",
-        "d) Solo si recurres."
-      ],
-      "respuesta_correcta": "a) Sí, transversalmente."
-    },
-    {
-      "pregunta": "¿Qué implica la 'inversión de la carga de la prueba'? [cite: 948]",
-      "opciones": [
-        "a) Que el demandado debe probar que no discriminó.",
-        "b) Que el demandante debe probar todo.",
-        "c) Que el juez decide sin pruebas.",
-        "d) Que no hace falta probar nada."
-      ],
-      "respuesta_correcta": "a) Que el demandado debe probar que no discriminó."
-    },
-    {
-      "pregunta": "¿Qué derecho tienen las víctimas de discriminación? [cite: 938]",
-      "opciones": [
-        "a) A indemnización.",
-        "b) A nada.",
-        "c) A una disculpa.",
-        "d) A un diploma."
-      ],
-      "respuesta_correcta": "a) A indemnización."
-    },
-    {
-      "pregunta": "¿Qué deben remover las Administraciones Públicas? [cite: 1188]",
-      "opciones": [
-        "a) Los obstáculos que impliquen la pervivencia de cualquier tipo de discriminación.",
-        "b) Los árboles.",
-        "c) Los edificios viejos.",
-        "d) Los funcionarios."
-      ],
-      "respuesta_correcta": "a) Los obstáculos que impliquen la pervivencia de cualquier tipo de discriminación."
-    },
-    {
-      "pregunta": "¿Qué se debe fomentar en el acceso al empleo público? [cite: 1190]",
-      "opciones": [
-        "a) La formación en igualdad.",
-        "b) La competencia desleal.",
-        "c) El amiguismo.",
-        "d) La suerte."
-      ],
-      "respuesta_correcta": "a) La formación en igualdad."
-    },
-    {
-      "pregunta": "¿Qué pasa si un acto administrativo causa discriminación? [cite: 938]",
-      "opciones": [
-        "a) Es nulo.",
-        "b) Es válido.",
-        "c) Es anulable.",
-        "d) Se corrige."
-      ],
-      "respuesta_correcta": "a) Es nulo."
-    },
-    {
-      "pregunta": "¿Puede una asociación defender el derecho a la igualdad de sus socios? [cite: 945]",
-      "opciones": [
-        "a) Sí, si tienen interés legítimo.",
-        "b) No.",
-        "c) Solo sindicatos.",
-        "d) Solo partidos."
-      ],
-      "respuesta_correcta": "a) Sí, si tienen interés legítimo."
-    },
-    {
-      "pregunta": "¿Qué es el informe de impacto de género? [cite: 984]",
-      "opciones": [
-        "a) Un documento que analiza el impacto de una norma en hombres y mujeres.",
-        "b) Una denuncia.",
-        "c) Una estadística.",
-        "d) Un plan."
-      ],
-      "respuesta_correcta": "a) Un documento que analiza el impacto de una norma en hombres y mujeres."
-    },
-    {
-      "pregunta": "¿Es obligatorio el uso de lenguaje no sexista? [cite: 969]",
-      "opciones": [
-        "a) Se implanta en el ámbito administrativo.",
-        "b) No.",
-        "c) Solo en la escuela.",
-        "d) Solo en la tele."
-      ],
-      "respuesta_correcta": "a) Se implanta en el ámbito administrativo."
-    },
-    {
-      "pregunta": "¿Qué deben hacer las empresas respecto al acoso? [cite: 1167]",
-      "opciones": [
-        "a) Promover condiciones de trabajo que lo eviten.",
-        "b) Nada.",
-        "c) Fomentarlo.",
-        "d) Esconderlo."
-      ],
-      "respuesta_correcta": "a) Promover condiciones de trabajo que lo eviten."
-    },
-    {
-      "pregunta": "¿Qué se considera represalia? [cite: 936]",
-      "opciones": [
-        "a) Trato adverso por denunciar discriminación.",
-        "b) Despido procedente.",
-        "c) Sanción justa.",
-        "d) Crítica constructiva."
-      ],
-      "respuesta_correcta": "a) Trato adverso por denunciar discriminación."
-    },
-    {
-      "pregunta": "¿Qué deben incluir los temarios de oposiciones? [cite: 1231]",
-      "opciones": [
-        "a) El estudio del principio de igualdad.",
-        "b) Cocina.",
-        "c) Moda.",
-        "d) Deportes."
-      ],
-      "respuesta_correcta": "a) El estudio del principio de igualdad."
-    },
-    {
-      "pregunta": "¿Quién debe velar por el cumplimiento de la Ley de Igualdad en los Ministerios? [cite: 1300]",
-      "opciones": [
-        "a) Las Unidades de Igualdad.",
-        "b) El Ministro solo.",
-        "c) Los bedeles.",
-        "d) Nadie."
-      ],
-      "respuesta_correcta": "a) Las Unidades de Igualdad."
+[[
+  
+    {
+      "tema": "TEMA 14.- IGUALDAD EFECTIVA DE MUJERES Y HOMBRES",
+      "descripcion": "Batería de 60 preguntas sobre la LO 3/2007 con distribución equitativa de respuestas.",
+      "preguntas": [
+        {
+          "pregunta": "Según el artículo 1 de la Ley Orgánica 3/2007, ¿cuál es el objeto de esta Ley?",
+          "opciones": [
+            "a) Establecer un régimen sancionador específico para las conductas de acoso sexual y acoso por razón de sexo en el ámbito laboral, tipificándolas como infracciones muy graves en el orden social.",
+            "b) Hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres, en particular mediante la eliminación de la discriminación de la mujer, sea cual fuere su circunstancia o condición, en cualesquiera de los ámbitos de la vida y, singularmente, en las esferas política, civil, laboral, económica, social y cultural.",
+            "c) Garantizar la paridad en las listas electorales y en los órganos de dirección de los partidos políticos, sindicatos y asociaciones empresariales, así como en los nombramientos de altos cargos de la Administración General del Estado.",
+            "d) Regular las medidas de acción positiva necesarias para corregir las desigualdades retributivas entre sexos en el sector público y privado, estableciendo un sistema de cuotas obligatorias en los consejos de administración de las grandes empresas."
+          ],
+          "respuesta_correcta": "c) Garantizar la paridad en las listas electorales y en los órganos de dirección de los partidos políticos, sindicatos y asociaciones empresariales, así como en los nombramientos de altos cargos de la Administración General del Estado.",
+          "cita": "LO 3/2007, Art. 1.1"
+        },
+        {
+          "pregunta": "¿A quiénes resulta de aplicación la Ley Orgánica 3/2007 según su artículo 2?",
+          "opciones": [
+            "a) A toda persona, física o jurídica, que se encuentre o actúe en territorio español, cualquiera que sea su nacionalidad, domicilio o residencia, en los términos establecidos por la normativa comunitaria y los tratados internacionales.",
+            "b) A las personas físicas en sus relaciones laborales y a las personas jurídicas en sus relaciones con la Administración, pero no en el ámbito privado o familiar.",
+            "c) Exclusivamente a las Administraciones Públicas y a las empresas privadas con más de 50 trabajadores, quedando excluidas las PYMES y los autónomos.",
+            "d) A los ciudadanos españoles y a los extranjeros residentes legalmente en España, así como a las entidades públicas y privadas que reciban subvenciones del Estado."
+          ],
+          "respuesta_correcta": "c) Exclusivamente a las Administraciones Públicas y a las empresas privadas con más de 50 trabajadores, quedando excluidas las PYMES y los autónomos.",
+          "cita": "LO 3/2007, Art. 2.1"
+        },
+        {
+          "pregunta": "¿Qué consideración tiene el principio de igualdad de trato entre mujeres y hombres según el artículo 3?",
+          "opciones": [
+            "a) Consiste en la aplicación de medidas de discriminación inversa para favorecer a las mujeres en el acceso al empleo público.",
+            "b) Significa que las mujeres tienen preferencia en caso de empate de méritos con un hombre para acceder a puestos de responsabilidad.",
+            "c) Supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil.",
+            "d) Implica que hombres y mujeres deben ser tratados de forma idéntica en todas las situaciones, sin que puedan establecerse diferencias basadas en características biológicas."
+          ],
+          "respuesta_correcta": "a) Consiste en la aplicación de medidas de discriminación inversa para favorecer a las mujeres en el acceso al empleo público.",
+          "cita": "LO 3/2007, Art. 3"
+        },
+        {
+          "pregunta": "¿Cómo define el artículo 6.1 la discriminación directa por razón de sexo?",
+          "opciones": [
+            "a) Aquella situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro.",
+            "b) La situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable.",
+            "c) Cualquier comportamiento verbal, no verbal o físico no deseado de índole sexual que tenga como objeto o efecto atentar contra la dignidad de una persona.",
+            "d) El trato desfavorable dispensado a mujeres u hombres por razón de su orientación sexual o identidad de género en el ámbito laboral."
+          ],
+          "respuesta_correcta": "a) Aquella situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro.",
+          "cita": "LO 3/2007, Art. 6.1"
+        },
+        {
+          "pregunta": "¿Qué se entiende por discriminación indirecta por razón de sexo (Art. 6.2)?",
+          "opciones": [
+            "a) La discriminación que se produce a través de terceras personas o mediante el uso de algoritmos informáticos sesgados.",
+            "b) Aquella que no es intencionada pero que produce efectos negativos estadísticamente significativos sobre las mujeres.",
+            "c) El trato desfavorable relacionado con el embarazo o la maternidad que sufren las mujeres en el acceso al empleo o en las condiciones de trabajo.",
+            "d) La situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro, salvo que dicha disposición, criterio o práctica pueda justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados."
+          ],
+          "respuesta_correcta": "a) La discriminación que se produce a través de terceras personas o mediante el uso de algoritmos informáticos sesgados.",
+          "cita": "LO 3/2007, Art. 6.2"
+        },
+        {
+          "pregunta": "Según el artículo 7.1, ¿qué es el acoso sexual?",
+          "opciones": [
+            "a) Cualquier comportamiento realizado en función del sexo de una persona, con el propósito o el efecto de atentar contra su dignidad y de crear un entorno intimidatorio, degradante u ofensivo.",
+            "b) Cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona, en particular cuando se crea un entorno intimidatorio, degradante u ofensivo.",
+            "c) La solicitud de favores de naturaleza sexual, para sí o para un tercero, prevaliéndose de una situación de superioridad laboral, docente o jerárquica.",
+            "d) El trato vejatorio o humillante dispensado a una persona por razón de su sexo, orientación sexual o identidad de género."
+          ],
+          "respuesta_correcta": "a) Cualquier comportamiento realizado en función del sexo de una persona, con el propósito o el efecto de atentar contra su dignidad y de crear un entorno intimidatorio, degradante u ofensivo.",
+          "cita": "LO 3/2007, Art. 7.1"
+        },
+        {
+          "pregunta": "¿Qué diferencia existe entre acoso sexual y acoso por razón de sexo (Art. 7)?",
+          "opciones": [
+            "a) El acoso sexual implica comportamientos de naturaleza sexual (verbal o física), mientras que el acoso por razón de sexo se basa en el sexo de la persona pero no tiene contenido sexual (ej. menosprecio por ser mujer), ambos con el fin o efecto de atentar contra la dignidad.",
+            "b) El acoso sexual es un delito penal, mientras que el acoso por razón de sexo es una infracción administrativa leve.",
+            "c) No existe diferencia legal, ambos términos son sinónimos y se utilizan indistintamente en la Ley.",
+            "d) El acoso sexual solo puede ser cometido por hombres contra mujeres, mientras que el acoso por razón de sexo puede ser cometido por ambos sexos."
+          ],
+          "respuesta_correcta": "a) El acoso sexual implica comportamientos de naturaleza sexual (verbal o física), mientras que el acoso por razón de sexo se basa en el sexo de la persona pero no tiene contenido sexual (ej. menosprecio por ser mujer), ambos con el fin o efecto de atentar contra la dignidad.",
+          "cita": "LO 3/2007, Art. 7.1 y 7.2"
+        },
+        {
+          "pregunta": "¿Qué consideración tiene el condicionamiento de un derecho a la aceptación de una situación de acoso (Art. 7.3)?",
+          "opciones": [
+            "a) Se considerará un delito de coacciones o amenazas condicionales, pero no discriminación por razón de sexo a efectos de esta ley.",
+            "b) Se considerará también acto de discriminación por razón de sexo el condicionamiento de un derecho o de una expectativa de derecho a la aceptación de una situación constitutiva de acoso sexual o de acoso por razón de sexo.",
+            "c) Solo será discriminación si la negativa a aceptar el acoso conlleva el despido o una sanción grave.",
+            "d) Se considerará acoso ambiental si afecta al clima laboral de la empresa."
+          ],
+          "respuesta_correcta": "d) Se considerará acoso ambiental si afecta al clima laboral de la empresa.",
+          "cita": "LO 3/2007, Art. 7.3"
+        },
+        {
+          "pregunta": "¿Constituye discriminación directa por razón de sexo el trato desfavorable por embarazo o maternidad (Art. 8)?",
+          "opciones": [
+            "a) Sí, constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad.",
+            "b) Solo es discriminación si conlleva el despido nulo de la trabajadora embarazada.",
+            "c) No, se considera una circunstancia objetiva de suspensión del contrato de trabajo que justifica un trato diferenciado.",
+            "d) Es una discriminación indirecta, ya que afecta exclusivamente a las mujeres pero no es intencionada."
+          ],
+          "respuesta_correcta": "a) Sí, constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad.",
+          "cita": "LO 3/2007, Art. 8"
+        },
+        {
+          "pregunta": "¿Qué establece el artículo 9 sobre la indemnidad frente a represalias?",
+          "opciones": [
+            "a) Se prohíbe el despido de los trabajadores que hayan denunciado a la empresa por discriminación, declarándose nulo de pleno derecho.",
+            "b) La indemnidad solo protege a los representantes legales de los trabajadores, no a los empleados a título individual.",
+            "c) La empresa debe indemnizar con 33 días por año trabajado a cualquier empleado que sufra represalias por solicitar medidas de conciliación.",
+            "d) Se considerará discriminación por razón de sexo cualquier trato adverso o efecto negativo que se produzca en una persona como consecuencia de la presentación por su parte de una queja, reclamación, denuncia, demanda o recurso, de cualquier tipo, destinados a impedir su discriminación y a exigir el cumplimiento efectivo del principio de igualdad."
+          ],
+          "respuesta_correcta": "c) La empresa debe indemnizar con 33 días por año trabajado a cualquier empleado que sufra represalias por solicitar medidas de conciliación.",
+          "cita": "LO 3/2007, Art. 9"
+        },
+        {
+          "pregunta": "¿Qué consecuencia jurídica tienen los actos y cláusulas discriminatorios (Art. 10)?",
+          "opciones": [
+            "a) Serán anulables a instancia de parte en el plazo de cuatro años desde su firma.",
+            "b) Se considerarán válidos si han sido aceptados voluntariamente por las partes en un contrato privado.",
+            "c) Serán nulos y sin efecto, y darán lugar a responsabilidad a través de un sistema de reparaciones o indemnizaciones que sean reales, efectivas y proporcionadas al perjuicio sufrido, así como, en su caso, a través de un sistema eficaz y disuasorio de sanciones.",
+            "d) Conllevarán una multa administrativa pero no la nulidad del acto jurídico si este genera derechos a terceros."
+          ],
+          "respuesta_correcta": "c) Serán nulos y sin efecto, y darán lugar a responsabilidad a través de un sistema de reparaciones o indemnizaciones que sean reales, efectivas y proporcionadas al perjuicio sufrido, así como, en su caso, a través de un sistema eficaz y disuasorio de sanciones.",
+          "cita": "LO 3/2007, Art. 10"
+        },
+        {
+          "pregunta": "¿Qué son las acciones positivas según el artículo 11?",
+          "opciones": [
+            "a) Cuotas obligatorias del 50% en todos los procesos de selección de personal de la Administración.",
+            "b) Medidas específicas a favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres, que habrán de ser razonables y proporcionadas en relación con el objetivo perseguido en cada caso.",
+            "c) Programas de formación dirigidos únicamente a hombres para sensibilizarlos sobre igualdad.",
+            "d) Subvenciones directas a las empresas que contraten exclusivamente a mujeres en sectores masculinizados."
+          ],
+          "respuesta_correcta": "b) Medidas específicas a favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres, que habrán de ser razonables y proporcionadas en relación con el objetivo perseguido en cada caso.",
+          "cita": "LO 3/2007, Art. 11.1"
+        },
+        {
+          "pregunta": "¿Quiénes pueden adoptar medidas de acción positiva?",
+          "opciones": [
+            "a) Los Poderes Públicos, con el fin de hacer efectivo el derecho constitucional de la igualdad.",
+            "b) Solo el Gobierno mediante Real Decreto Ley.",
+            "c) Las personas físicas y jurídicas privadas también pueden adoptarlas en el ámbito de sus competencias.",
+            "d) Las respuestas a) y c) son correctas."
+          ],
+          "respuesta_correcta": "d) Las respuestas a) y c) son correctas.",
+          "cita": "LO 3/2007, Art. 11.1 (Literalidad: Poderes Públicos)"
+        },
+        {
+          "pregunta": "¿Qué tutela judicial se garantiza frente a la discriminación (Art. 12)?",
+          "opciones": [
+            "a) Se requiere un informe previo de la Inspección de Trabajo para poder acudir a los tribunales.",
+            "b) Cualquier persona podrá recabar de los tribunales la tutela del derecho a la igualdad entre mujeres y hombres, incluso tras la terminación de la relación en la que supuestamente se ha producido la discriminación.",
+            "c) La tutela judicial debe solicitarse siempre antes de que finalice la relación laboral o contractual.",
+            "d) Solo las mujeres pueden recabar la tutela judicial por discriminación de género."
+          ],
+          "respuesta_correcta": "c) La tutela judicial debe solicitarse siempre antes de que finalice la relación laboral o contractual.",
+          "cita": "LO 3/2007, Art. 12.1"
+        },
+        {
+          "pregunta": "Según el artículo 4, ¿cómo se integra el principio de igualdad en la actuación de los Poderes Públicos?",
+          "opciones": [
+            "a) Es un principio programático que no vincula directamente a la Administración ni a los Jueces.",
+            "b) La igualdad de trato y de oportunidades entre mujeres y hombres es un principio informador del ordenamiento jurídico y, como tal, se integrará y observará en la interpretación y aplicación de las normas jurídicas.",
+            "c) Solo es obligatorio en las leyes orgánicas que afecten a derechos fundamentales.",
+            "d) Se aplica únicamente en la elaboración de los Presupuestos Generales del Estado."
+          ],
+          "respuesta_correcta": "c) Solo es obligatorio en las leyes orgánicas que afecten a derechos fundamentales.",
+          "cita": "LO 3/2007, Art. 4"
+        },
+        {
+          "pregunta": "¿Qué capacidad tienen las personas jurídicas para defender el derecho de igualdad (Art. 12)?",
+          "opciones": [
+            "a) Las personas jurídicas no tienen legitimación activa en procesos de discriminación, solo las personas físicas afectadas.",
+            "b) El Ministerio Fiscal es el único legitimado para actuar en nombre de las víctimas de discriminación.",
+            "c) Solo tienen legitimación los sindicatos y asociaciones de mujeres legalmente constituidas.",
+            "d) La capacidad y legitimación para intervenir en los procesos civiles, sociales y contencioso-administrativos que correspondan en defensa de este derecho recae en las personas físicas y jurídicas con interés legítimo, determinadas en las Leyes procesales."
+          ],
+          "respuesta_correcta": "c) Solo tienen legitimación los sindicatos y asociaciones de mujeres legalmente constituidas.",
+          "cita": "LO 3/2007, Art. 12.2"
+        },
+        {
+          "pregunta": "¿Qué establece el artículo 5 sobre la igualdad de oportunidades?",
+          "opciones": [
+            "a) Se garantiza la igualdad solo en el empleo público y en las grandes empresas cotizadas.",
+            "b) La igualdad de oportunidades se limita al acceso al empleo, no afectando a las condiciones retributivas ni a la promoción.",
+            "c) Se establece una cuota del 40% para el sexo menos representado en todos los niveles jerárquicos de la empresa.",
+            "d) El principio de igualdad de trato y de oportunidades entre mujeres y hombres se garantizará, en los términos previstos en la normativa aplicable, en el acceso al empleo, incluso al trabajo por cuenta propia, en la formación profesional, en la promoción profesional, en las condiciones de trabajo, incluidas las retributivas y las de despido, y en la afiliación y participación en las organizaciones sindicales y empresariales."
+          ],
+          "respuesta_correcta": "c) Se establece una cuota del 40% para el sexo menos representado en todos los niveles jerárquicos de la empresa.",
+          "cita": "LO 3/2007, Art. 5"
+        },
+        {
+          "pregunta": "Respecto a la carga de la prueba en procedimientos de discriminación (Art. 13), ¿qué regla se aplica?",
+          "opciones": [
+            "a) Corresponde siempre a la parte actora probar la existencia de discriminación mediante pruebas directas e indubitadas.",
+            "b) En aquellos procedimientos en los que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias por razón de sexo, corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad.",
+            "c) La carga de la prueba se reparte equitativamente entre ambas partes según el principio de facilidad probatoria.",
+            "d) El Juez recabará de oficio las pruebas necesarias sin que las partes tengan obligación de aportar nada."
+          ],
+          "respuesta_correcta": "a) Corresponde siempre a la parte actora probar la existencia de discriminación mediante pruebas directas e indubitadas.",
+          "cita": "LO 3/2007, Art. 13.1"
+        },
+        {
+          "pregunta": "¿Se aplica la inversión de la carga de la prueba en los procesos penales (Art. 13)?",
+          "opciones": [
+            "a) No, lo dispuesto en el apartado anterior (inversión de carga) no será de aplicación a los procesos penales ni a los procedimientos administrativos sancionadores.",
+            "b) Sí, se aplica en todos los órdenes jurisdiccionales para garantizar la tutela efectiva.",
+            "c) Sí, pero solo en los delitos de acoso sexual y discriminación laboral.",
+            "d) Depende de la decisión del Juez de Instrucción en cada caso."
+          ],
+          "respuesta_correcta": "b) Sí, se aplica en todos los órdenes jurisdiccionales para garantizar la tutela efectiva.",
+          "cita": "LO 3/2007, Art. 13.2"
+        },
+        {
+          "pregunta": "¿Qué obligaciones tienen las obligaciones establecidas en esta Ley para los Poderes Públicos?",
+          "opciones": [
+            "a) Solo son exigibles si existe disponibilidad presupuestaria suficiente.",
+            "b) Se limitan al ámbito del Ministerio de Igualdad y sus organismos dependientes.",
+            "c) Afectan exclusivamente a la Administración General del Estado, no a las Comunidades Autónomas ni Entidades Locales.",
+            "d) Son transversales y deben aplicarse en todas las políticas y acciones públicas, desde la sanidad y educación hasta el urbanismo y la cooperación internacional."
+          ],
+          "respuesta_correcta": "b) Se limitan al ámbito del Ministerio de Igualdad y sus organismos dependientes.",
+          "cita": "LO 3/2007, Art. 15 (Transversalidad)"
+        },
+        {
+          "pregunta": "¿Qué establece la disposición adicional primera sobre la presencia equilibrada?",
+          "opciones": [
+            "a) Se entenderá por composición equilibrada la presencia de mujeres y hombres de forma que, en el conjunto a que se refiera, las personas de cada sexo no superen el sesenta por ciento ni sean menos del cuarenta por ciento.",
+            "b) Se exige una paridad estricta del 50% en todos los órganos colegiados.",
+            "c) Basta con que haya al menos un tercio de personas del sexo menos representado.",
+            "d) La presencia equilibrada es una recomendación no vinculante que sugiere tender a la igualdad numérica."
+          ],
+          "respuesta_correcta": "a) Se entenderá por composición equilibrada la presencia de mujeres y hombres de forma que, en el conjunto a que se refiera, las personas de cada sexo no superen el sesenta por ciento ni sean menos del cuarenta por ciento.",
+          "cita": "LO 3/2007, Disp. Adic. 1ª"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'transversalidad' del principio de igualdad (Art. 15)?",
+          "opciones": [
+            "a) La obligación de aprobar un Plan de Igualdad en cada legislatura.",
+            "b) La coordinación entre el Estado y las Comunidades Autónomas.",
+            "c) La creación de unidades de igualdad en todos los Ministerios.",
+            "d) El principio de igualdad de trato y oportunidades entre mujeres y hombres informará, con carácter transversal, la actuación de todos los Poderes Públicos."
+          ],
+          "respuesta_correcta": "a) La obligación de aprobar un Plan de Igualdad en cada legislatura.",
+          "cita": "LO 3/2007, Art. 15"
+        },
+        {
+          "pregunta": "¿Es nulo el despido de una trabajadora por solicitar permiso de lactancia?",
+          "opciones": [
+            "a) No, es despido improcedente salvo que la empresa demuestre causas económicas.",
+            "b) Sí, por aplicación del artículo 10 sobre consecuencias jurídicas de las conductas discriminatorias y el artículo 9 sobre indemnidad frente a represalias.",
+            "c) Solo si la trabajadora tiene reducción de jornada concedida.",
+            "d) Es nulo solo si se produce durante el embarazo."
+          ],
+          "respuesta_correcta": "d) Es nulo solo si se produce durante el embarazo.",
+          "cita": "LO 3/2007, Art. 9 y 10 / ET"
+        },
+        {
+          "pregunta": "¿Pueden las asociaciones de mujeres tener legitimación activa en litigios sobre discriminación?",
+          "opciones": [
+            "a) Sí, siempre que sean declaradas de utilidad pública.",
+            "b) No, la legitimación es personal e intransferible.",
+            "c) Solo en casos de violencia de género.",
+            "d) Sí, cuando cuenten con la autorización de la persona afectada, podrán intervenir en los procedimientos en defensa de los derechos de igualdad."
+          ],
+          "respuesta_correcta": "b) No, la legitimación es personal e intransferible.",
+          "cita": "LO 3/2007, Art. 12"
+        },
+        {
+          "pregunta": "¿Qué sucede con los contratos que establezcan una retribución inferior para las mujeres por el mismo trabajo?",
+          "opciones": [
+            "a) El contrato será nulo en su totalidad y la trabajadora deberá devolver los salarios percibidos.",
+            "b) Las cláusulas serán nulas y se entenderán sustituidas por el régimen retributivo aplicable a los hombres, debiendo abonarse las diferencias con carácter retroactivo.",
+            "c) La empresa será sancionada pero las cláusulas se mantendrán hasta la firma de un nuevo convenio.",
+            "d) Se reducirá el salario de los hombres para igualarlo al de las mujeres."
+          ],
+          "respuesta_correcta": "d) Se reducirá el salario de los hombres para igualarlo al de las mujeres.",
+          "cita": "LO 3/2007, Art. 10 (Nulidad y reparación)"
+        },
+        {
+          "pregunta": "¿Qué implica la 'tutela judicial efectiva' en materia de igualdad?",
+          "opciones": [
+            "a) El derecho a un abogado de oficio gratuito.",
+            "b) Comprende la adopción de las medidas necesarias para poner fin a la discriminación, el restablecimiento de la persona perjudicada en la situación anterior al incidente discriminatorio y la reparación del daño sufrido.",
+            "c) La obligación del juez de dictar sentencia en el plazo de 10 días.",
+            "d) La exención de tasas judiciales."
+          ],
+          "respuesta_correcta": "c) La obligación del juez de dictar sentencia en el plazo de 10 días.",
+          "cita": "LO 3/2007, Art. 10 (Consecuencias jurídicas)"
+        },
+        {
+          "pregunta": "¿Qué rol juegan los interlocutores sociales en la promoción de la igualdad?",
+          "opciones": [
+            "a) Son los únicos responsables de vigilar el cumplimiento de la ley en las empresas.",
+            "b) Deben denunciar a la Inspección de Trabajo cualquier irregularidad.",
+            "c) Fomentarán la igualdad de trato y de oportunidades entre mujeres y hombres en el ámbito laboral a través de la negociación colectiva.",
+            "d) No tienen un rol específico asignado por esta Ley."
+          ],
+          "respuesta_correcta": "d) No tienen un rol específico asignado por esta Ley.",
+          "cita": "LO 3/2007, Art. 45 y ss (Negociación colectiva)"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'discriminación múltiple' (aunque no definida explícitamente en el art. 6, se infiere del objeto)?",
+          "opciones": [
+            "a) La discriminación que sufre una persona por la concurrencia de varias causas (sexo, origen racial, discapacidad, etc.), agravando su situación de desventaja.",
+            "b) La discriminación sufrida por varias mujeres al mismo tiempo.",
+            "c) La reincidencia de una empresa en conductas discriminatorias.",
+            "d) La discriminación en varios ámbitos de la vida (laboral y familiar)."
+          ],
+          "respuesta_correcta": "a) La discriminación que sufre una persona por la concurrencia de varias causas (sexo, origen racial, discapacidad, etc.), agravando su situación de desventaja.",
+          "cita": "Doctrina y Art. 14 CE / LO 3/2007 Art. 1 (cualquier circunstancia)"
+        },
+        {
+          "pregunta": "¿Qué es el acoso sexual 'quid pro quo'?",
+          "opciones": [
+            "a) El acoso realizado por un compañero de trabajo del mismo nivel jerárquico.",
+            "b) Es aquel en el que el condicionamiento de un derecho o expectativa de derecho se hace depender de la aceptación de una situación constitutiva de acoso sexual (chantaje sexual).",
+            "c) El acoso ambiental que crea un entorno hostil.",
+            "d) El acoso por razón de sexo sin connotación sexual directa."
+          ],
+          "respuesta_correcta": "c) El acoso ambiental que crea un entorno hostil.",
+          "cita": "LO 3/2007, Art. 7.3 (Concepto implícito chantaje)"
+        },
+        {
+          "pregunta": "¿Qué principio debe regir la interpretación de las normas según el artículo 4?",
+          "opciones": [
+            "a) La interpretación literal estricta.",
+            "b) El principio in dubio pro operario.",
+            "c) La jerarquía normativa.",
+            "d) La integración del principio de igualdad de trato y de oportunidades entre mujeres y hombres."
+          ],
+          "respuesta_correcta": "b) El principio in dubio pro operario.",
+          "cita": "LO 3/2007, Art. 4"
+        },
+        {
+          "pregunta": "¿Qué consecuencia tiene la negociación colectiva respecto a la discriminación (Art. 10)?",
+          "opciones": [
+            "a) Las disposiciones de convenios colectivos, pactos individuales y decisiones unilaterales del empresario que contengan discriminaciones directas o indirectas por razón de sexo serán nulas y sin efecto.",
+            "b) Se considerarán válidas si han sido aprobadas por la mayoría de la representación legal de los trabajadores.",
+            "c) Solo serán nulas si afectan a los derechos fundamentales de las trabajadoras embarazadas.",
+            "d) Serán anulables en el plazo de un año a instancia de la autoridad laboral."
+          ],
+          "respuesta_correcta": "a) Las disposiciones de convenios colectivos, pactos individuales y decisiones unilaterales del empresario que contengan discriminaciones directas o indirectas por razón de sexo serán nulas y sin efecto.",
+          "cita": "LO 3/2007, Art. 10"
+        },
+        {
+          "pregunta": "¿Qué establece el artículo 51 sobre los criterios de actuación de las Administraciones Públicas?",
+          "opciones": [
+            "a) Las Administraciones públicas, en el ámbito de sus respectivas competencias y en aplicación del principio de igualdad entre mujeres y hombres, deberán remover los obstáculos que impliquen la pervivencia de cualquier tipo de discriminación con el fin de ofrecer condiciones de igualdad efectiva entre mujeres y hombres en el acceso al empleo público y en el desarrollo de la carrera profesional.",
+            "b) Deben reservar un 10% de las plazas de nuevo ingreso para mujeres en aquellos cuerpos donde estén infrarrepresentadas.",
+            "c) Tienen la obligación de contratar exclusivamente a empresas que tengan un plan de igualdad visado por el Ministerio de Trabajo.",
+            "d) Deben garantizar la paridad absoluta en todos los tribunales de selección de personal funcionario y laboral."
+          ],
+          "respuesta_correcta": "a) Las Administraciones públicas, en el ámbito de sus respectivas competencias y en aplicación del principio de igualdad entre mujeres y hombres, deberán remover los obstáculos que impliquen la pervivencia de cualquier tipo de discriminación con el fin de ofrecer condiciones de igualdad efectiva entre mujeres y hombres en el acceso al empleo público y en el desarrollo de la carrera profesional.",
+          "cita": "LO 3/2007, Art. 51"
+        },
+        {
+          "pregunta": "¿Es obligatorio el informe de impacto de género en las pruebas de acceso al empleo público (Art. 55)?",
+          "opciones": [
+            "a) No, es una recomendación de la Comisión Europea pero no una obligación legal en España.",
+            "b) Solo en las convocatorias de la Administración General del Estado, no en las autonómicas.",
+            "c) Únicamente si se ofertan más de 100 plazas de turno libre.",
+            "d) Sí, la aprobación de convocatorias de pruebas selectivas para el acceso al empleo público deberá acompañarse de un informe de impacto de género, salvo en los casos de urgencia debidamente motivada."
+          ],
+          "respuesta_correcta": "b) Solo en las convocatorias de la Administración General del Estado, no en las autonómicas.",
+          "cita": "LO 3/2007, Art. 55"
+        },
+        {
+          "pregunta": "¿Qué medida específica se prevé para la provisión de puestos de trabajo en la AGE (Art. 52)?",
+          "opciones": [
+            "a) El Gobierno y los órganos de gobierno de las Comunidades Autónomas adoptarán las medidas necesarias para que la provisión de puestos de trabajo en la Administración pública se lleve a cabo de conformidad con el principio de igualdad de trato y de oportunidades entre mujeres y hombres.",
+            "b) Se reservarán los puestos de nivel 30 exclusivamente para mujeres hasta alcanzar la paridad.",
+            "c) Se primará la antigüedad sobre el mérito para evitar la discriminación por maternidad.",
+            "d) Se crearán bolsas de trabajo específicas para mujeres víctimas de violencia de género."
+          ],
+          "respuesta_correcta": "b) Se reservarán los puestos de nivel 30 exclusivamente para mujeres hasta alcanzar la paridad.",
+          "cita": "LO 3/2007, Art. 52"
+        },
+        {
+          "pregunta": "¿Qué establece el artículo 53 sobre los Consejos de Administración de las empresas públicas?",
+          "opciones": [
+            "a) Es obligatorio que el 60% de los miembros sean mujeres.",
+            "b) No se aplica a las empresas públicas que cotizan en bolsa.",
+            "c) Se sancionará a las empresas que no cumplan la paridad en el plazo de dos años.",
+            "d) El Gobierno promoverá la presencia equilibrada de mujeres y hombres en los órganos de dirección y en los consejos de administración de las empresas en cuyo capital participe la Administración General del Estado."
+          ],
+          "respuesta_correcta": "b) No se aplica a las empresas públicas que cotizan en bolsa.",
+          "cita": "LO 3/2007, Art. 53"
+        },
+        {
+          "pregunta": "¿Qué regula el artículo 62 respecto al acoso en la Administración General del Estado?",
+          "opciones": [
+            "a) La creación de un cuerpo especial de inspectores para detectar casos de acoso sexual.",
+            "b) La obligación de negociar con la representación legal de las trabajadoras y trabajadores un protocolo de actuación que comprenderá, al menos, la identificación de las conductas, el procedimiento informal de solución y el procedimiento administrativo disciplinario.",
+            "c) La prohibición de sancionar a los funcionarios que cometan acoso si piden perdón a la víctima.",
+            "d) La indemnización automática a la víctima sin necesidad de expediente disciplinario."
+          ],
+          "respuesta_correcta": "d) La indemnización automática a la víctima sin necesidad de expediente disciplinario.",
+          "cita": "LO 3/2007, Art. 62"
+        },
+        {
+          "pregunta": "¿Qué Plan de Igualdad es obligatorio en la Administración General del Estado (Art. 64)?",
+          "opciones": [
+            "a) Un plan anual que debe ser aprobado por el Congreso de los Diputados.",
+            "b) El Gobierno aprobará, al inicio de cada legislatura, un Plan para la Igualdad entre mujeres y hombres en la Administración General del Estado y en sus organismos públicos, que establecerá los objetivos a alcanzar y las medidas a adoptar.",
+            "c) Cada Ministerio aprobará su propio plan de igualdad independiente.",
+            "d) No es obligatorio un plan específico, basta con aplicar la ley."
+          ],
+          "respuesta_correcta": "d) No es obligatorio un plan específico, basta con aplicar la ley.",
+          "cita": "LO 3/2007, Art. 64"
+        },
+        {
+          "pregunta": "¿Qué especialidad tienen las Fuerzas Armadas en materia de igualdad (Art. 65)?",
+          "opciones": [
+            "a) Se establece un cupo máximo del 20% de mujeres en unidades operativas de combate.",
+            "b) Las mujeres están exentas de realizar determinadas pruebas físicas en los procesos de selección.",
+            "c) Se crean unidades exclusivamente femeninas para garantizar la integración.",
+            "d) Las normas sobre personal de las Fuerzas Armadas procurarán la efectividad del principio de igualdad entre mujeres y hombres, especialmente en lo que se refiere al régimen de acceso, formación, ascensos, destinos y situaciones administrativas."
+          ],
+          "respuesta_correcta": "c) Se crean unidades exclusivamente femeninas para garantizar la integración.",
+          "cita": "LO 3/2007, Art. 65"
+        },
+        {
+          "pregunta": "¿Qué establece el artículo 66 sobre las Fuerzas y Cuerpos de Seguridad del Estado?",
+          "opciones": [
+            "a) La Guardia Civil debe tener un 50% de mujeres en todas sus escalas en el plazo de cinco años.",
+            "b) Se prohíbe que las mujeres patrullen solas en horario nocturno.",
+            "c) Los requisitos de estatura serán los mismos para hombres y mujeres para garantizar la igualdad.",
+            "d) Las normas reguladoras de las Fuerzas y Cuerpos de Seguridad del Estado promoverán la igualdad efectiva entre mujeres y hombres, impidiendo cualquier situación de discriminación profesional, especialmente en el sistema de acceso, formación, ascensos y destinos."
+          ],
+          "respuesta_correcta": "d) Las normas reguladoras de las Fuerzas y Cuerpos de Seguridad del Estado promoverán la igualdad efectiva entre mujeres y hombres, impidiendo cualquier situación de discriminación profesional, especialmente en el sistema de acceso, formación, ascensos y destinos.",
+          "cita": "LO 3/2007, Art. 66"
+        },
+        {
+          "pregunta": "¿Qué medidas de conciliación se promueven en la Administración General del Estado (Art. 51)?",
+          "opciones": [
+            "a) Se facilitará la conciliación de la vida personal, familiar y laboral, sin menoscabo de la promoción profesional.",
+            "b) Se concede un permiso retribuido de un año por cada hijo menor de 12 años.",
+            "c) Se obliga a todos los funcionarios a teletrabajar tres días a la semana.",
+            "d) Se eliminan los turnos de tarde en todas las oficinas públicas."
+          ],
+          "respuesta_correcta": "a) Se facilitará la conciliación de la vida personal, familiar y laboral, sin menoscabo de la promoción profesional.",
+          "cita": "LO 3/2007, Art. 51.d"
+        },
+        {
+          "pregunta": "¿Qué es la licencia por riesgo durante el embarazo en el empleo público (EBEP / LO 3/2007)?",
+          "opciones": [
+            "a) Una baja por enfermedad común con el 75% de las retribuciones.",
+            "b) Una excedencia voluntaria sin reserva de puesto de trabajo.",
+            "c) Un permiso no retribuido que debe solicitar la interesada.",
+            "d) Un permiso retribuido al 100% que se concede cuando las condiciones del puesto de trabajo pueden influir negativamente en la salud de la funcionaria o del feto, y no es posible la adaptación del puesto o el cambio a otro compatible."
+          ],
+          "respuesta_correcta": "d) Un permiso retribuido al 100% que se concede cuando las condiciones del puesto de trabajo pueden influir negativamente en la salud de la funcionaria o del feto, y no es posible la adaptación del puesto o el cambio a otro compatible.",
+          "cita": "LO 3/2007 (Modificación legislación función pública)"
+        },
+        {
+          "pregunta": "¿Quién evalúa el cumplimiento del Plan de Igualdad en la AGE (Art. 64)?",
+          "opciones": [
+            "a) El Tribunal de Cuentas en su informe anual de fiscalización.",
+            "b) Los sindicatos más representativos en la Mesa General de Negociación.",
+            "c) El Consejo de Ministros realizará una evaluación anual sobre el grado de cumplimiento de los objetivos establecidos en el Plan de Igualdad.",
+            "d) La Comisión Europea mediante auditorías externas."
+          ],
+          "respuesta_correcta": "d) La Comisión Europea mediante auditorías externas.",
+          "cita": "LO 3/2007, Art. 64.3"
+        },
+        {
+          "pregunta": "¿Qué ocurre con los tribunales y órganos de selección del personal de la AGE (Art. 60)?",
+          "opciones": [
+            "a) Deberán ajustarse al principio de presencia equilibrada de mujeres y hombres, salvo por razones fundadas y objetivas, debidamente motivadas.",
+            "b) Deben estar compuestos obligatoriamente por mujeres en su totalidad para compensar la discriminación histórica.",
+            "c) La composición es libre y discrecional del órgano convocante.",
+            "d) Solo se aplica la paridad si hay candidatas mujeres presentadas."
+          ],
+          "respuesta_correcta": "b) Deben estar compuestos obligatoriamente por mujeres en su totalidad para compensar la discriminación histórica.",
+          "cita": "LO 3/2007, Art. 60.1 (EBEP)"
+        },
+        {
+          "pregunta": "¿Qué protección tiene la víctima de violencia de género funcionaria pública (Art. 49 EBEP / LO 3/2007)?",
+          "opciones": [
+            "a) Tendrá derecho a la reducción de jornada con disminución proporcional de retribuciones, o a la reordenación del tiempo de trabajo, a la movilidad geográfica de centro de trabajo y a la excedencia, en los términos que se determinen.",
+            "b) Tiene derecho a una pensión de jubilación anticipada a los 50 años.",
+            "c) Solo tiene derecho a asistencia psicológica, pero no a medidas laborales.",
+            "d) Debe renunciar a su puesto para poder cobrar la ayuda económica."
+          ],
+          "respuesta_correcta": "d) Debe renunciar a su puesto para poder cobrar la ayuda económica.",
+          "cita": "LO 3/2007 (Modifica EBEP Art. 49)"
+        },
+        {
+          "pregunta": "¿Qué consideración tienen las retribuciones en el principio de igualdad (Art. 5)?",
+          "opciones": [
+            "a) Las empresas pueden pagar menos a las mujeres si su rendimiento es menor debido a las cargas familiares.",
+            "b) Los complementos salariales no están sujetos al principio de igualdad, solo el salario base.",
+            "c) El principio de igualdad de trato y de oportunidades entre mujeres y hombres garantizará, en los términos previstos en la normativa aplicable, la ausencia de toda discriminación, directa o indirecta, por razón de sexo, en las condiciones de trabajo, incluidas las retributivas.",
+            "d) La igualdad retributiva es un objetivo a largo plazo, no una obligación inmediata."
+          ],
+          "respuesta_correcta": "d) La igualdad retributiva es un objetivo a largo plazo, no una obligación inmediata.",
+          "cita": "LO 3/2007, Art. 5"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'permiso de paternidad' tras la reforma de la LO 3/2007 (y posteriores)?",
+          "opciones": [
+            "a) Un permiso transferible que la madre puede ceder al padre si ella no lo disfruta.",
+            "b) Un periodo de descanso de 2 días que concede la empresa por nacimiento de hijo.",
+            "c) Una excedencia no retribuida para el cuidado del lactante.",
+            "d) Un derecho individual y exclusivo del progenitor distinto de la madre biológica, que se reconoce tanto en el Estatuto de los Trabajadores como en el Estatuto Básico del Empleado Público, para favorecer la conciliación y la corresponsabilidad."
+          ],
+          "respuesta_correcta": "d) Un derecho individual y exclusivo del progenitor distinto de la madre biológica, que se reconoce tanto en el Estatuto de los Trabajadores como en el Estatuto Básico del Empleado Público, para favorecer la conciliación y la corresponsabilidad.",
+          "cita": "LO 3/2007 (Creación permiso paternidad)"
+        },
+        {
+          "pregunta": "¿Qué es el 'distintivo de igualdad en la empresa' (Art. 50)?",
+          "opciones": [
+            "a) Un sello de calidad ISO que otorgan las agencias de certificación privadas.",
+            "b) Una bonificación fiscal del 50% en el Impuesto de Sociedades.",
+            "c) Un logotipo obligatorio para todas las empresas de más de 250 trabajadores.",
+            "d) Un reconocimiento que el Ministerio de Trabajo y Asuntos Sociales (hoy Igualdad) podrá conceder a aquellas empresas que destaquen por la aplicación de políticas de igualdad de trato y de oportunidades con sus trabajadoras y trabajadores."
+          ],
+          "respuesta_correcta": "d) Un reconocimiento que el Ministerio de Trabajo y Asuntos Sociales (hoy Igualdad) podrá conceder a aquellas empresas que destaquen por la aplicación de políticas de igualdad de trato y de oportunidades con sus trabajadoras y trabajadores.",
+          "cita": "LO 3/2007, Art. 50"
+        },
+        {
+          "pregunta": "¿Qué obligación tienen las empresas respecto a los Planes de Igualdad (Art. 45)?",
+          "opciones": [
+            "a) Es voluntario para todas las empresas salvo que lo exija el convenio colectivo.",
+            "b) Las empresas de más de cincuenta trabajadores deberán elaborar y aplicar un plan de igualdad, objeto de negociación con la representación legal de los trabajadores (tras reforma RDL 6/2019, la LO 3/2007 originalmente decía más de 250).",
+            "c) Solo es obligatorio para las empresas públicas.",
+            "d) Las empresas de menos de 50 trabajadores no pueden tener plan de igualdad aunque quieran."
+          ],
+          "respuesta_correcta": "b) Las empresas de más de cincuenta trabajadores deberán elaborar y aplicar un plan de igualdad, objeto de negociación con la representación legal de los trabajadores (tras reforma RDL 6/2019, la LO 3/2007 originalmente decía más de 250).",
+          "cita": "LO 3/2007, Art. 45 (Redacción vigente)"
+        },
+        {
+          "pregunta": "¿Qué es la 'comisión de igualdad' en el ámbito de la AGE?",
+          "opciones": [
+            "a) Una comisión parlamentaria del Congreso.",
+            "b) El órgano encargado del seguimiento y evaluación del Plan de Igualdad en la Administración General del Estado.",
+            "c) Un grupo de trabajo informal de los sindicatos.",
+            "d) El tribunal que juzga los casos de acoso sexual."
+          ],
+          "respuesta_correcta": "d) El tribunal que juzga los casos de acoso sexual.",
+          "cita": "LO 3/2007, Art. 64 (Implícito en seguimiento)"
+        },
+        {
+          "pregunta": "¿Qué efecto tiene la nulidad del despido por discriminación (Art. 10)?",
+          "opciones": [
+            "a) Una indemnización de 45 días por año trabajado.",
+            "b) La empresa puede optar entre readmisión o indemnización.",
+            "c) La jubilación anticipada del trabajador a cargo de la empresa.",
+            "d) La readmisión obligatoria del trabajador con abono de los salarios de tramitación dejados de percibir."
+          ],
+          "respuesta_correcta": "a) Una indemnización de 45 días por año trabajado.",
+          "cita": "Estatuto Trabajadores / LO 3/2007 (Consecuencias nulidad)"
+        },
+        {
+          "pregunta": "¿Qué papel juega el Instituto de la Mujer (hoy Instituto de las Mujeres) en la aplicación de esta Ley?",
+          "opciones": [
+            "a) Se suprime con la entrada en vigor de la Ley.",
+            "b) Pasa a depender del Ministerio de Justicia.",
+            "c) Solo tiene funciones consultivas sin capacidad ejecutiva.",
+            "d) Es el organismo encargado de velar por el cumplimiento del principio de igualdad y de promover las condiciones que lo hagan real y efectivo."
+          ],
+          "respuesta_correcta": "b) Pasa a depender del Ministerio de Justicia.",
+          "cita": "LO 3/2007 (Disposiciones adicionales / Organismos)"
+        },
+        {
+          "pregunta": "¿Se permite la discriminación positiva en el acceso a las Fuerzas y Cuerpos de Seguridad?",
+          "opciones": [
+            "a) Sí, las normas reguladoras promoverán la igualdad efectiva y podrán establecer medidas de acción positiva para favorecer el acceso de las mujeres en aquellos cuerpos o escalas donde estén infrarrepresentadas, siempre que se respeten los principios de mérito y capacidad.",
+            "b) No, el acceso es exclusivamente por mérito y capacidad sin tener en cuenta el sexo.",
+            "c) Sí, se reservan plazas exclusivas para mujeres sin necesidad de aprobar las pruebas físicas.",
+            "d) Solo en la Policía Local, no en la Guardia Civil."
+          ],
+          "respuesta_correcta": "c) Sí, se reservan plazas exclusivas para mujeres sin necesidad de aprobar las pruebas físicas.",
+          "cita": "LO 3/2007, Art. 66"
+        },
+        {
+          "pregunta": "¿Qué es el 'informe periódico de efectividad' (Art. 18)?",
+          "opciones": [
+            "a) Un informe que hacen las empresas cada mes para la Seguridad Social.",
+            "b) Una encuesta del INE sobre salarios.",
+            "c) El Gobierno elaborará un informe periódico sobre el conjunto de sus actuaciones en relación con la efectividad del principio de igualdad entre mujeres y hombres, que remitirá a las Cortes Generales.",
+            "d) El resumen de prensa del Ministerio de Igualdad."
+          ],
+          "respuesta_correcta": "b) Una encuesta del INE sobre salarios.",
+          "cita": "LO 3/2007, Art. 18"
+        },
+        {
+          "pregunta": "¿Qué prohibición establece el artículo 6 respecto a la discriminación directa?",
+          "opciones": [
+            "a) Se permite discriminar si hay causas económicas justificadas.",
+            "b) La discriminación directa está permitida en las organizaciones religiosas.",
+            "c) Solo se prohíbe si se hace por escrito.",
+            "d) Se prohíbe toda orden de discriminar, directa o indirectamente, por razón de sexo."
+          ],
+          "respuesta_correcta": "c) Solo se prohíbe si se hace por escrito.",
+          "cita": "LO 3/2007, Art. 6.3"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'corresponsabilidad' en la Ley?",
+          "opciones": [
+            "a) La obligación de la empresa de pagar la guardería de los hijos de los empleados.",
+            "b) La responsabilidad solidaria de los cónyuges ante las deudas.",
+            "c) El deber de los abuelos de cuidar a los nietos.",
+            "d) El reparto equilibrado de las tareas domésticas y de las responsabilidades familiares entre mujeres y hombres."
+          ],
+          "respuesta_correcta": "b) La responsabilidad solidaria de los cónyuges ante las deudas.",
+          "cita": "LO 3/2007, Art. 14.8 y 44"
+        },
+        {
+          "pregunta": "¿Qué es el 'acoso discriminatorio'?",
+          "opciones": [
+            "a) El acoso laboral o mobbing cuando no tiene motivación sexista.",
+            "b) El acoso sexual y el acoso por razón de sexo se considerarán en todo caso discriminatorios.",
+            "c) La crítica legítima al trabajo de un empleado.",
+            "d) El traslado forzoso por necesidades del servicio."
+          ],
+          "respuesta_correcta": "c) La crítica legítima al trabajo de un empleado.",
+          "cita": "LO 3/2007, Art. 7.3"
+        },
+        {
+          "pregunta": "¿Qué sucede con las listas electorales (Disp. Adic. 2ª - LOREG)?",
+          "opciones": [
+            "a) Es una recomendación voluntaria para los partidos políticos.",
+            "b) Solo se aplica a las elecciones municipales.",
+            "c) Basta con que haya un 20% de mujeres.",
+            "d) Las candidaturas para las elecciones al Congreso, Senado, Parlamento Europeo, Asambleas Autonómicas y Ayuntamientos deberán tener una composición equilibrada de mujeres y hombres, de forma que en el conjunto de la lista los candidatos de cada uno de los sexos supongan como mínimo el 40%."
+          ],
+          "respuesta_correcta": "b) Solo se aplica a las elecciones municipales.",
+          "cita": "LO 3/2007 (Modificación LOREG)"
+        },
+        {
+          "pregunta": "¿Qué es la 'integración del principio de igualdad en la política de educación' (Art. 23)?",
+          "opciones": [
+            "a) Se crearán asignaturas obligatorias de feminismo en todos los niveles.",
+            "b) El sistema educativo incluirá entre sus fines la educación en el respeto de los derechos y libertades fundamentales y en la igualdad de derechos y oportunidades entre mujeres y hombres.",
+            "c) Se segregarán las aulas por sexos para mejorar el rendimiento.",
+            "d) Se prohibirá el acceso de los hombres a la carrera de Magisterio."
+          ],
+          "respuesta_correcta": "c) Se segregarán las aulas por sexos para mejorar el rendimiento.",
+          "cita": "LO 3/2007, Art. 23"
+        },
+        {
+          "pregunta": "¿Qué se establece sobre la publicidad ilícita (Art. 41)?",
+          "opciones": [
+            "a) La publicidad sexista está permitida si se emite en horario nocturno.",
+            "b) Solo es ilícita si promueve la violencia física explícita.",
+            "c) Las agencias de publicidad se autorregulan sin intervención legal.",
+            "d) Se considerará ilícita la publicidad que comporte una conducta discriminatoria de acuerdo con esta Ley, especialmente si utiliza la imagen de la mujer con carácter vejatorio o discriminatorio."
+          ],
+          "respuesta_correcta": "b) Solo es ilícita si promueve la violencia física explícita.",
+          "cita": "LO 3/2007, Art. 41"
+        },
+        {
+          "pregunta": "¿Qué es el 'Consejo de Participación de la Mujer' (Art. 78)?",
+          "opciones": [
+            "a) Un órgano colegiado de consulta y asesoramiento, adscrito al Ministerio de Trabajo y Asuntos Sociales (Igualdad), con el fin de servir de cauce para la participación de las mujeres en la consecución efectiva del principio de igualdad.",
+            "b) Una asociación privada de mujeres empresarias.",
+            "c) El consejo de administración del Instituto de la Mujer.",
+            "d) Un órgano judicial especializado."
+          ],
+          "respuesta_correcta": "a) Un órgano colegiado de consulta y asesoramiento, adscrito al Ministerio de Trabajo y Asuntos Sociales (Igualdad), con el fin de servir de cauce para la participación de las mujeres en la consecución efectiva del principio de igualdad.",
+          "cita": "LO 3/2007, Art. 78"
+        }
+      ]
     }
-  ]
-}]
+  
+]]

@@ -18,14 +18,13 @@ class ResultsListScreen extends StatelessWidget {
       );
     }
 
-    final Stream<QuerySnapshot> stream = FirebaseFirestore.instance
+    final query = FirebaseFirestore.instance
         .collection('resultados')
         .where('userId', isEqualTo: user.uid)
-        .orderBy('date', descending: true)
-        .snapshots();
+        .orderBy('date', descending: true);
 
     return DefaultTabController(
-      length: 2,
+      length: 3,
       child: Scaffold(
         appBar: AppBar(
           title: const Text('Mis resultados'),
@@ -33,6 +32,7 @@ class ResultsListScreen extends StatelessWidget {
             tabs: [
               Tab(text: 'Historial'),
               Tab(text: 'Estadísticas'),
+              Tab(text: 'Usuarios'),
             ],
           ),
         ),
@@ -40,7 +40,7 @@ class ResultsListScreen extends StatelessWidget {
           children: [
             // Historial
             StreamBuilder<QuerySnapshot>(
-              stream: stream,
+              stream: query.snapshots(),
               builder: (context, snapshot) {
                 if (snapshot.hasError) {
                   return Center(child: Text('Error: ${snapshot.error}'));
@@ -109,7 +109,7 @@ class ResultsListScreen extends StatelessWidget {
             ),
             // Estadísticas
             StreamBuilder<QuerySnapshot>(
-              stream: stream,
+              stream: query.snapshots(),
               builder: (context, snapshot) {
                 if (snapshot.hasError) {
                   return Center(child: Text('Error: ${snapshot.error}'));
@@ -130,20 +130,26 @@ class ResultsListScreen extends StatelessWidget {
                 double totalTime = 0;
                 int maxScorePercent = 0;
                 int minScorePercent = 100;
-                Map<String, int> topicCounts = {};
-                List<Map<String, double>> progressSpots = [];
+                Map<String, Map<String, int>> topicStats = {};
 
-                for (int i = 0; i < docs.length; i++) {
-                  final data = docs[i].data() as Map<String, dynamic>;
+                for (var doc in docs) {
+                  final data = doc.data() as Map<String, dynamic>;
                   int score = data['score'] ?? 0;
                   int total = data['totalQuestions'] ?? 0;
                   int time = data['timeTaken'] ?? 0;
-                  String topic = data['topic'] ?? '';
+                  String topic = data['topic'] ?? 'Sin tema';
+                  if (topic.isEmpty) topic = 'Sin tema';
 
                   totalScore += score;
                   totalQuestions += total;
                   totalTime += time;
-                  topicCounts[topic] = (topicCounts[topic] ?? 0) + 1;
+
+                  if (!topicStats.containsKey(topic)) {
+                    topicStats[topic] = {'score': 0, 'totalQuestions': 0, 'count': 0};
+                  }
+                  topicStats[topic]!['score'] = (topicStats[topic]!['score'] ?? 0) + score;
+                  topicStats[topic]!['totalQuestions'] = (topicStats[topic]!['totalQuestions'] ?? 0) + total;
+                  topicStats[topic]!['count'] = (topicStats[topic]!['count'] ?? 0) + 1;
 
                   int percent = total > 0 ? (score * 100 ~/ total) : 0;
                   if (percent > maxScorePercent) maxScorePercent = percent;
@@ -155,15 +161,15 @@ class ResultsListScreen extends StatelessWidget {
                 int totalCorrect = totalScore.toInt();
                 int totalFailed = (totalQuestions - totalScore).toInt();
 
-                int numProgress = docs.length < 10 ? docs.length : 10;
-                for (int i = docs.length - numProgress; i < docs.length; i++) {
-                  final data = docs[i].data() as Map<String, dynamic>;
-                  int score = data['score'] ?? 0;
-                  int total = data['totalQuestions'] ?? 0;
-
-                  // Para lista de progreso (últimos 10)
-                  double x = (i - (docs.length - numProgress)).toDouble();
-                  progressSpots.add({'x': x, 'y': score / total * 100});
+                // Datos para el gráfico (últimos 10, orden cronológico)
+                List<double> chartData = [];
+                final recentDocs = docs.take(10).toList().reversed;
+                for (var doc in recentDocs) {
+                  final data = doc.data() as Map<String, dynamic>;
+                  int s = data['score'] ?? 0;
+                  int t = data['totalQuestions'] ?? 0;
+                  double pct = t > 0 ? (s / t * 100) : 0.0;
+                  chartData.add(pct);
                 }
 
                 return ListView(
@@ -198,13 +204,34 @@ class ResultsListScreen extends StatelessWidget {
                       child: Padding(
                         padding: const EdgeInsets.all(16.0),
                         child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.stretch,
                           children: [
-                            const Text('Progreso Reciente', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
+                            const Text('Progreso Reciente (Últimos 10)', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
                             const SizedBox(height: 16),
-                            ...progressSpots.reversed.map((spot) => Padding(
-                              padding: const EdgeInsets.symmetric(vertical: 2.0),
-                              child: Text('${spot['y']!.toStringAsFixed(1)}%'),
-                            )),
+                            SizedBox(
+                              height: 150,
+                              child: Row(
+                                crossAxisAlignment: CrossAxisAlignment.end,
+                                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                                children: chartData.map((pct) {
+                                  return Column(
+                                    mainAxisAlignment: MainAxisAlignment.end,
+                                    children: [
+                                      Text('${pct.toInt()}', style: const TextStyle(fontSize: 10)),
+                                      const SizedBox(height: 4),
+                                      Container(
+                                        width: 15,
+                                        height: (pct / 100) * 120,
+                                        decoration: BoxDecoration(
+                                          color: pct >= 50 ? Colors.green : Colors.red,
+                                          borderRadius: BorderRadius.circular(4),
+                                        ),
+                                      ),
+                                    ],
+                                  );
+                                }).toList(),
+                              ),
+                            ),
                           ],
                         ),
                       ),
@@ -214,19 +241,37 @@ class ResultsListScreen extends StatelessWidget {
                       child: Padding(
                         padding: const EdgeInsets.all(16.0),
                         child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
-                            const Text('Quizzes por Tema', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
+                            const Text('Rendimiento por Tema', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
                             const SizedBox(height: 16),
-                            ...topicCounts.entries.map((entry) => Padding(
-                              padding: const EdgeInsets.symmetric(vertical: 4.0),
-                              child: Row(
-                                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                                children: [
-                                  Text(entry.key.isEmpty ? 'Sin tema' : entry.key),
-                                  Text('${entry.value}'),
-                                ],
-                              ),
-                            )),
+                            ...topicStats.entries.map((entry) {
+                              final stats = entry.value;
+                              double avg = stats['totalQuestions']! > 0 ? (stats['score']! / stats['totalQuestions']! * 100) : 0;
+                              return Padding(
+                                padding: const EdgeInsets.symmetric(vertical: 8.0),
+                                child: Column(
+                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  children: [
+                                    Row(
+                                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                      children: [
+                                        Expanded(child: Text(entry.key, style: const TextStyle(fontWeight: FontWeight.bold))),
+                                        Text('${avg.toStringAsFixed(1)}% (${stats['count']} tests)'),
+                                      ],
+                                    ),
+                                    const SizedBox(height: 4),
+                                    LinearProgressIndicator(
+                                      value: avg / 100,
+                                      backgroundColor: Colors.grey[200],
+                                      valueColor: AlwaysStoppedAnimation<Color>(avg >= 50 ? Colors.green : Colors.red),
+                                      minHeight: 8,
+                                      borderRadius: BorderRadius.circular(4),
+                                    ),
+                                  ],
+                                ),
+                              );
+                            }),
                           ],
                         ),
                       ),
@@ -235,8 +280,256 @@ class ResultsListScreen extends StatelessWidget {
                 );
               },
             ),
+            // Mejores Usuarios
+            StreamBuilder<QuerySnapshot>(
+              stream: FirebaseFirestore.instance.collection('resultados').snapshots(),
+              builder: (context, resultsSnapshot) {
+                if (resultsSnapshot.hasError) {
+                  return Center(child: Text('Error: ${resultsSnapshot.error}'));
+                }
+                if (!resultsSnapshot.hasData) {
+                  return const Center(child: CircularProgressIndicator());
+                }
+
+                final docs = resultsSnapshot.data!.docs;
+                
+                // Agrupar resultados por usuario
+                Map<String, List<Map<String, dynamic>>> userResults = {};
+                for (var doc in docs) {
+                  final data = doc.data() as Map<String, dynamic>;
+                  String userId = data['userId'] ?? '';
+                  if (userId.isEmpty) continue;
+
+                  if (!userResults.containsKey(userId)) {
+                    userResults[userId] = [];
+                  }
+                  userResults[userId]!.add(data);
+                }
+
+                // Calcular estadísticas por usuario
+                List<Map<String, dynamic>> userStats = [];
+                for (var entry in userResults.entries) {
+                  String userId = entry.key;
+                  List<Map<String, dynamic>> results = entry.value;
+
+                  int totalQuizzes = results.length;
+                  double totalScore = 0;
+                  double totalQuestions = 0;
+                  int maxScore = 0;
+                  int minScore = 100;
+                  int totalCorrect = 0;
+                  int totalIncorrect = 0;
+
+                  for (var result in results) {
+                    int score = result['score'] ?? 0;
+                    int total = result['totalQuestions'] ?? 0;
+
+                    totalScore += score;
+                    totalQuestions += total;
+                    totalCorrect += score;
+                    totalIncorrect += (total - score);
+
+                    int percent = total > 0 ? (score * 100 ~/ total) : 0;
+                    if (percent > maxScore) maxScore = percent;
+                    if (percent < minScore) minScore = percent;
+                  }
+
+                  double average = totalQuestions > 0 ? (totalScore / totalQuestions * 100) : 0;
+
+                  userStats.add({
+                    'userId': userId,
+                    'totalQuizzes': totalQuizzes,
+                    'average': average,
+                    'totalAnswered': totalQuestions.toInt(),
+                    'totalCorrect': totalCorrect,
+                    'totalIncorrect': totalIncorrect,
+                    'maxScore': maxScore,
+                    'minScore': minScore,
+                  });
+                }
+
+                // Ordenar por promedio descendente
+                userStats.sort((a, b) => (b['average'] as double).compareTo(a['average'] as double));
+
+                // Tomar los 10 mejores
+                List<Map<String, dynamic>> topUsers = userStats.take(10).toList();
+
+                if (topUsers.isEmpty) {
+                  return const Center(child: Text('No hay usuarios con resultados.'));
+                }
+
+                // Cargar nombres de todos los usuarios usando StreamBuilder
+                return StreamBuilder<QuerySnapshot>(
+                  stream: FirebaseFirestore.instance.collection('users').snapshots(),
+                  builder: (context, usersSnapshot) {
+                    Map<String, String> userNames = {};
+                    
+                    if (usersSnapshot.hasData) {
+                      for (var doc in usersSnapshot.data!.docs) {
+                        final userData = doc.data() as Map<String, dynamic>;
+                        String uid = doc.id;
+                        String defaultName = uid.length >= 6 ? uid.substring(uid.length - 6) : uid;
+                        
+                        // Intentar obtener displayName
+                        String displayName = defaultName;
+                        if (userData.containsKey('displayName')) {
+                          final name = userData['displayName'];
+                          if (name != null && name.toString().trim().isNotEmpty) {
+                            displayName = name.toString().trim();
+                          }
+                        }
+                        userNames[uid] = displayName;
+                        debugPrint('User $uid: displayName=$displayName');
+                      }
+                    }
+
+                    return ListView.separated(
+                      padding: const EdgeInsets.all(8.0),
+                      itemCount: topUsers.length,
+                      separatorBuilder: (context, _) => const Divider(),
+                      itemBuilder: (context, index) {
+                        final userStat = topUsers[index];
+                        final userId = userStat['userId'] as String;
+                        final rank = index + 1;
+                        final average = userStat['average'] as double;
+                        final totalQuizzes = userStat['totalQuizzes'] as int;
+                        final totalAnswered = userStat['totalAnswered'] as int;
+                        final totalCorrect = userStat['totalCorrect'] as int;
+                        final totalIncorrect = userStat['totalIncorrect'] as int;
+                        final maxScore = userStat['maxScore'] as int;
+                        final minScore = userStat['minScore'] as int;
+                        
+                        // Obtener nombre del usuario
+                        String username = userNames[userId] ?? (userId.length >= 6 ? userId.substring(userId.length - 6) : userId);
+
+                        return Card(
+                          margin: const EdgeInsets.symmetric(vertical: 4.0),
+                          child: Padding(
+                            padding: const EdgeInsets.all(12.0),
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Row(
+                                  children: [
+                                    Container(
+                                      width: 40,
+                                      height: 40,
+                                      decoration: BoxDecoration(
+                                        shape: BoxShape.circle,
+                                        color: rank == 1
+                                            ? Colors.amber
+                                            : rank == 2
+                                                ? Colors.grey[400]
+                                                : rank == 3
+                                                    ? Colors.orange[700]
+                                                    : Colors.blue,
+                                      ),
+                                      child: Center(
+                                        child: Text(
+                                          '#$rank',
+                                          style: const TextStyle(
+                                            fontWeight: FontWeight.bold,
+                                            color: Colors.white,
+                                          ),
+                                        ),
+                                      ),
+                                    ),
+                                    const SizedBox(width: 12),
+                                    Expanded(
+                                      child: Column(
+                                        crossAxisAlignment: CrossAxisAlignment.start,
+                                        children: [
+                                          Text(
+                                            username,
+                                            style: const TextStyle(
+                                              fontWeight: FontWeight.bold,
+                                              fontSize: 16,
+                                            ),
+                                          ),
+                                          Text(
+                                            'Promedio: ${average.toStringAsFixed(1)}%',
+                                            style: const TextStyle(
+                                              fontSize: 14,
+                                              color: Colors.blue,
+                                              fontWeight: FontWeight.bold,
+                                            ),
+                                          ),
+                                        ],
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                                const SizedBox(height: 12),
+                                Container(
+                                  padding: const EdgeInsets.all(8.0),
+                                  decoration: BoxDecoration(
+                                    color: Colors.grey[100],
+                                    borderRadius: BorderRadius.circular(8),
+                                  ),
+                                  child: Column(
+                                    children: [
+                                      Row(
+                                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                        children: [
+                                          _StatItem('Quizzes', '$totalQuizzes'),
+                                          _StatItem('Respondidas', '$totalAnswered'),
+                                          _StatItem('Correctas', '$totalCorrect', Colors.green),
+                                        ],
+                                      ),
+                                      const SizedBox(height: 8),
+                                      Row(
+                                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                        children: [
+                                          _StatItem('Incorrectas', '$totalIncorrect', Colors.red),
+                                          _StatItem('Mejor', '$maxScore%', Colors.blue),
+                                          _StatItem('Peor', '$minScore%', Colors.orange),
+                                        ],
+                                      ),
+                                    ],
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ),
+                        );
+                      },
+                    );
+                  },
+                );
+              },
+            ),
           ],
         ),
+      ),
+    );
+  }
+}
+
+class _StatItem extends StatelessWidget {
+  final String label;
+  final String value;
+  final Color? color;
+
+  const _StatItem(this.label, this.value, [this.color]);
+
+  @override
+  Widget build(BuildContext context) {
+    return Expanded(
+      child: Column(
+        children: [
+          Text(
+            value,
+            style: TextStyle(
+              fontWeight: FontWeight.bold,
+              fontSize: 14,
+              color: color ?? Colors.black,
+            ),
+          ),
+          Text(
+            label,
+            style: const TextStyle(fontSize: 12, color: Colors.grey),
+          ),
+        ],
       ),
     );
   }

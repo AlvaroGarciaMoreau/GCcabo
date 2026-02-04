@@ -1,1066 +1,1550 @@
-[{
-  "tema": "TEMA 12.- PODER JUDICIAL",
-  "descripcion": "Preguntas basadas en la Ley Orgánica 6/1985 (Libro I, Título IV) según texto consolidado facilitado (incluyendo Tribunales de Instancia). Artículos: TS (53-55, 55bis, 57), AN (62-65), TSJ (70-73), AP (80-82), T. Instancia (88-89) y Paz (99-100).",
-  "preguntas": [
-    {
-      "pregunta": "¿Cuál es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales?",
-      "opciones": [
-        "a) La Audiencia Nacional.",
-        "b) El Tribunal Constitucional.",
-        "c) El Tribunal Supremo.",
-        "d) El Consejo General del Poder Judicial."
-      ],
-      "respuesta_correcta": "c) El Tribunal Supremo."
-    },
-    {
-      "pregunta": "Según el artículo 53, ¿dónde tiene su sede el Tribunal Supremo?",
-      "opciones": [
-        "a) En Madrid.",
-        "b) En la villa de Madrid.",
-        "c) Donde determine el Gobierno.",
-        "d) Es itinerante."
-      ],
-      "respuesta_correcta": "b) En la villa de Madrid."
-    },
-    {
-      "pregunta": "¿A qué ámbito se extiende la jurisdicción del Tribunal Supremo?",
-      "opciones": [
-        "a) A todo el territorio nacional.",
-        "b) Solo a las Comunidades Autónomas.",
-        "c) A Madrid y zonas adyacentes.",
-        "d) Al territorio peninsular."
-      ],
-      "respuesta_correcta": "a) A todo el territorio nacional."
-    },
-    {
-      "pregunta": "¿Quién compone el Tribunal Supremo según el artículo 54?",
-      "opciones": [
-        "a) Su Presidente y los Magistrados.",
-        "b) Su Presidente, los Presidentes de Sala y los Magistrados que determine la ley.",
-        "c) El Presidente y 20 Magistrados.",
-        "d) El Presidente y los Vocales."
-      ],
-      "respuesta_correcta": "b) Su Presidente, los Presidentes de Sala y los Magistrados que determine la ley."
-    },
-    {
-      "pregunta": "¿Cuántas Salas tiene el Tribunal Supremo según el artículo 55?",
-      "opciones": [
-        "a) Cuatro.",
-        "b) Cinco.",
-        "c) Seis.",
-        "d) Tres."
-      ],
-      "respuesta_correcta": "b) Cinco."
-    },
-    {
-      "pregunta": "¿Cuál es la Sala Segunda del Tribunal Supremo?",
-      "opciones": [
-        "a) De lo Civil.",
-        "b) De lo Penal.",
-        "c) De lo Contencioso-Administrativo.",
-        "d) De lo Social."
-      ],
-      "respuesta_correcta": "b) De lo Penal."
-    },
-    {
-      "pregunta": "¿Cuál es la Sala Tercera del Tribunal Supremo?",
-      "opciones": [
-        "a) De lo Social.",
-        "b) De lo Militar.",
-        "c) De lo Contencioso-Administrativo.",
-        "d) De lo Civil."
-      ],
-      "respuesta_correcta": "c) De lo Contencioso-Administrativo."
-    },
-    {
-      "pregunta": "¿Cuál es la Sala Quinta del Tribunal Supremo?",
-      "opciones": [
-        "a) De lo Militar.",
-        "b) De lo Social.",
-        "c) De vigilancia penitenciaria.",
-        "d) No existe."
-      ],
-      "respuesta_correcta": "a) De lo Militar."
-    },
-    {
-      "pregunta": "Según el artículo 55 bis, ¿de qué conocerán las Salas de lo Civil y de lo Penal del Tribunal Supremo además de sus competencias habituales?",
-      "opciones": [
-        "a) De los recursos de amparo.",
-        "b) De la tramitación y enjuiciamiento de las acciones civiles y penales contra la Reina consorte o el consorte de la Reina, la Princesa o Príncipe de Asturias y su consorte, y contra el Rey abdicado y su consorte.",
-        "c) De los delitos de terrorismo.",
-        "d) De las demandas contra el Presidente del Gobierno."
-      ],
-      "respuesta_correcta": "b) De la tramitación y enjuiciamiento de las acciones civiles y penales contra la Reina consorte o el consorte de la Reina, la Princesa o Príncipe de Asturias y su consorte, y contra el Rey abdicado y su consorte."
-    },
-    {
-      "pregunta": "¿Quién conocerá de la instrucción y enjuiciamiento de las causas contra el Presidente del Gobierno en materia penal?",
-      "opciones": [
-        "a) La Audiencia Nacional.",
-        "b) La Sala de lo Penal del Tribunal Supremo.",
-        "c) El Tribunal Constitucional.",
-        "d) El Tribunal Superior de Justicia de Madrid."
-      ],
-      "respuesta_correcta": "b) La Sala de lo Penal del Tribunal Supremo."
-    },
-    {
-      "pregunta": "¿Qué Sala del Tribunal Supremo es competente para instruir y enjuiciar causas contra Diputados y Senadores?",
-      "opciones": [
-        "a) Sala Primera.",
-        "b) Sala Segunda.",
-        "c) Sala Tercera.",
-        "d) Sala Especial."
-      ],
-      "respuesta_correcta": "b) Sala Segunda."
-    },
-    {
-      "pregunta": "La Sala de lo Penal del Tribunal Supremo conoce de los recursos de casación, revisión y otros extraordinarios en materia:",
-      "opciones": [
-        "a) Civil.",
-        "b) Penal.",
-        "c) Administrativa.",
-        "d) Laboral."
-      ],
-      "respuesta_correcta": "b) Penal."
-    },
-    {
-      "pregunta": "¿Es competente la Sala de lo Penal del TS para causas contra Magistrados del Tribunal Constitucional?",
-      "opciones": [
-        "a) Sí.",
-        "b) No, corresponde al propio Tribunal Constitucional.",
-        "c) Solo si es delito leve.",
-        "d) No, corresponde a la Audiencia Nacional."
-      ],
-      "respuesta_correcta": "a) Sí."
-    },
-    {
-      "pregunta": "¿Quién instruye las causas que corresponden a la Sala de lo Penal del Tribunal Supremo?",
-      "opciones": [
-        "a) El Presidente de la Sala.",
-        "b) Un Magistrado de la Sala designado al efecto, que no formará parte de la Sala para enjuiciarlas.",
-        "c) Un Juez de Instrucción de Madrid.",
-        "d) La Policía Judicial."
-      ],
-      "respuesta_correcta": "b) Un Magistrado de la Sala designado al efecto, que no formará parte de la Sala para enjuiciarlas."
-    },
-    {
-      "pregunta": "La Audiencia Nacional tiene su sede en:",
-      "opciones": [
-        "a) La villa de Madrid.",
-        "b) Barcelona.",
-        "c) Valencia.",
-        "d) Es itinerante."
-      ],
-      "respuesta_correcta": "a) La villa de Madrid."
-    },
-    {
-      "pregunta": "¿Cuál es la jurisdicción de la Audiencia Nacional?",
-      "opciones": [
-        "a) La Comunidad de Madrid.",
-        "b) Todo el territorio nacional.",
-        "c) Las ciudades autónomas.",
-        "d) El extranjero."
-      ],
-      "respuesta_correcta": "b) Todo el territorio nacional."
-    },
-    {
-      "pregunta": "¿De qué Salas se compone la Audiencia Nacional?",
-      "opciones": [
-        "a) De Apelación, Penal, Contencioso-Administrativo y Social.",
-        "b) Civil, Penal y Social.",
-        "c) Militar y Civil.",
-        "d) Instrucción y Fallo."
-      ],
-      "respuesta_correcta": "a) De Apelación, Penal, Contencioso-Administrativo y Social."
-    },
-    {
-      "pregunta": "¿Qué órgano de la Audiencia Nacional conoce de los enjuiciamientos por delitos contra la Corona o Altos Organismos de la Nación?",
-      "opciones": [
-        "a) La Sala de lo Contencioso.",
-        "b) La Sala de lo Penal.",
-        "c) El Juzgado Central de Instrucción.",
-        "d) El Tribunal Supremo."
-      ],
-      "respuesta_correcta": "b) La Sala de lo Penal."
-    },
-    {
-      "pregunta": "¿Conoce la Sala de lo Penal de la Audiencia Nacional de las falsificaciones de moneda?",
-      "opciones": [
-        "a) No, corresponde al juzgado local.",
-        "b) Sí, siempre.",
-        "c) Sí, delitos de falsificación de moneda y tarjetas de crédito o débito, salvo que corresponda a Sala de lo Penal de Tribunal de Instancia.",
-        "d) Solo si es moneda extranjera."
-      ],
-      "respuesta_correcta": "c) Sí, delitos de falsificación de moneda y tarjetas de crédito o débito, salvo que corresponda a Sala de lo Penal de Tribunal de Instancia."
-    },
-    {
-      "pregunta": "¿Qué órgano conoce de los delitos de terrorismo?",
-      "opciones": [
-        "a) La Audiencia Provincial.",
-        "b) La Sala de lo Penal de la Audiencia Nacional.",
-        "c) El Tribunal Supremo.",
-        "d) El Juzgado de Paz."
-      ],
-      "respuesta_correcta": "b) La Sala de lo Penal de la Audiencia Nacional."
-    },
-    {
-      "pregunta": "La Sala de lo Penal de la Audiencia Nacional conoce de la ejecución de:",
-      "opciones": [
-        "a) Sentencias dictadas por Juzgados de Paz.",
-        "b) Órdenes Europeas de Detención y Entrega (OEDE) y procedimientos de extradición pasiva.",
-        "c) Divorcios.",
-        "d) Despidos."
-      ],
-      "respuesta_correcta": "b) Órdenes Europeas de Detención y Entrega (OEDE) y procedimientos de extradición pasiva."
-    },
-    {
-      "pregunta": "¿De qué conoce la Sala de lo Contencioso-Administrativo de la Audiencia Nacional respecto a los Ministros?",
-      "opciones": [
-        "a) De sus divorcios.",
-        "b) De los recursos contra sus actos y disposiciones cuando rectifiquen en vía administrativa actos de órganos inferiores.",
-        "c) De sus delitos.",
-        "d) No tiene competencia."
-      ],
-      "respuesta_correcta": "b) De los recursos contra sus actos y disposiciones cuando rectifiquen en vía administrativa actos de órganos inferiores."
-    },
-    {
-      "pregunta": "¿Conoce la Audiencia Nacional de recursos contra actos de la Comisión de Vigilancia de Actividades de Financiación del Terrorismo?",
-      "opciones": [
-        "a) Sí, su Sala de lo Contencioso-Administrativo.",
-        "b) No.",
-        "c) Solo el Tribunal Supremo.",
-        "d) Sí, su Sala de lo Penal."
-      ],
-      "respuesta_correcta": "a) Sí, su Sala de lo Contencioso-Administrativo."
-    },
-    {
-      "pregunta": "¿De qué conoce la Sala de Apelación de la Audiencia Nacional?",
-      "opciones": [
-        "a) De los recursos contra la Sala de lo Social.",
-        "b) De los recursos contra resoluciones de la Sala de lo Penal.",
-        "c) De los recursos contra Juzgados Centrales.",
-        "d) De nada."
-      ],
-      "respuesta_correcta": "b) De los recursos contra resoluciones de la Sala de lo Penal."
-    },
-    {
-      "pregunta": "¿Cuándo conoce la Sala de Apelación de la AN de recursos contra sentencias del Tribunal Central de Instancia (Sala Penal)?",
-      "opciones": [
-        "a) Siempre.",
-        "b) Nunca.",
-        "c) Cuando la Sala de lo Penal no sea competente.",
-        "d) No existe esa competencia."
-      ],
-      "respuesta_correcta": "c) Cuando la Sala de lo Penal no sea competente (Nota: La redacción exacta suele atribuir a la Sala Penal los recursos contra Juzgados/TCI Centrales, y a la Sala de Apelación los recursos contra la Sala Penal)."
-    },
-    {
-      "pregunta": "La Sala de lo Penal de la Audiencia Nacional conoce de los recursos contra actuaciones de:",
-      "opciones": [
-        "a) Los Juzgados de Instrucción de Madrid.",
-        "b) La Sala de lo Penal del Tribunal Central de Instancia y el Juzgado Central de Menores.",
-        "c) El Tribunal Supremo.",
-        "d) La Policía."
-      ],
-      "respuesta_correcta": "b) La Sala de lo Penal del Tribunal Central de Instancia y el Juzgado Central de Menores."
-    },
-    {
-      "pregunta": "¿Qué tráfico ilícito es competencia de la Sala de lo Penal de la AN?",
-      "opciones": [
-        "a) Tráfico de influencias.",
-        "b) Tráfico de drogas o estupefacientes, siempre que sea realizado por bandas organizadas o produzca efectos en varias provincias.",
-        "c) Tráfico de vehículos.",
-        "d) Tráfico de animales."
-      ],
-      "respuesta_correcta": "b) Tráfico de drogas o estupefacientes, siempre que sea realizado por bandas organizadas o produzca efectos en varias provincias."
-    },
-    {
-      "pregunta": "¿Dónde culmina la organización judicial en el ámbito territorial de la Comunidad Autónoma?",
-      "opciones": [
-        "a) En la Audiencia Provincial.",
-        "b) En el Tribunal Superior de Justicia.",
-        "c) En el Tribunal Supremo.",
-        "d) En la Delegación del Gobierno."
-      ],
-      "respuesta_correcta": "b) En el Tribunal Superior de Justicia."
-    },
-    {
-      "pregunta": "El Tribunal Superior de Justicia tomará el nombre de:",
-      "opciones": [
-        "a) La capital de la provincia.",
-        "b) La Comunidad Autónoma.",
-        "c) El Rey.",
-        "d) El Presidente del TSJ."
-      ],
-      "respuesta_correcta": "b) La Comunidad Autónoma."
-    },
-    {
-      "pregunta": "¿De cuántas Salas se compone el Tribunal Superior de Justicia?",
-      "opciones": [
-        "a) Cuatro.",
-        "b) Tres: Civil y Penal, Contencioso-Administrativo y Social.",
-        "c) Dos: Civil y Penal.",
-        "d) Cinco."
-      ],
-      "respuesta_correcta": "b) Tres: Civil y Penal, Contencioso-Administrativo y Social."
-    },
-    {
-      "pregunta": "¿De qué conoce la Sala de lo Civil y Penal del TSJ como Sala de lo Civil?",
-      "opciones": [
-        "a) Divorcios comunes.",
-        "b) Recurso de casación fundado en infracción de normas de derecho civil foral o especial propio de la Comunidad.",
-        "c) Desahucios.",
-        "d) Multas de tráfico."
-      ],
-      "respuesta_correcta": "b) Recurso de casación fundado en infracción de normas de derecho civil foral o especial propio de la Comunidad."
-    },
-    {
-      "pregunta": "En materia penal, ¿de qué conoce la Sala de lo Civil y Penal del TSJ respecto a los miembros del Gobierno y Asamblea de la Comunidad Autónoma?",
-      "opciones": [
-        "a) De nada, son aforados al Supremo.",
-        "b) De la instrucción y fallo de las causas penales contra ellos, si así lo determina el Estatuto de Autonomía.",
-        "c) De las faltas leves.",
-        "d) De los recursos de apelación."
-      ],
-      "respuesta_correcta": "b) De la instrucción y fallo de las causas penales contra ellos, si así lo determina el Estatuto de Autonomía."
-    },
-    {
-      "pregunta": "¿Quién instruye las causas penales en el TSJ?",
-      "opciones": [
-        "a) El Presidente.",
-        "b) Un Magistrado de la Sala designado al efecto que no formará parte de la Sala para enjuiciar.",
-        "c) Un juez de instrucción de la ciudad.",
-        "d) La fiscalía."
-      ],
-      "respuesta_correcta": "b) Un Magistrado de la Sala designado al efecto que no formará parte de la Sala para enjuiciar."
-    },
-    {
-      "pregunta": "¿De qué conoce la Sala de lo Contencioso-Administrativo del TSJ?",
-      "opciones": [
-        "a) De recursos contra actos de entidades locales y de la administración autonómica no atribuidos a otros órganos.",
-        "b) De recursos contra actos del Consejo de Ministros.",
-        "c) De juicios por despido.",
-        "d) De delitos fiscales."
-      ],
-      "respuesta_correcta": "a) De recursos contra actos de entidades locales y de la administración autonómica no atribuidos a otros órganos."
-    },
-    {
-      "pregunta": "Según el artículo 73.3, ¿de qué conoce la Sala de lo Social del TSJ?",
-      "opciones": [
-        "a) De despidos individuales.",
-        "b) En única instancia, de procesos sobre conflictos colectivos o sindicales que excedan del ámbito de un Tribunal de Instancia pero no de la Comunidad.",
-        "c) De recursos de casación.",
-        "d) De divorcios."
-      ],
-      "respuesta_correcta": "b) En única instancia, de procesos sobre conflictos colectivos o sindicales que excedan del ámbito de un Tribunal de Instancia pero no de la Comunidad."
-    },
-    {
-      "pregunta": "Según el artículo 73.4, ¿de qué recursos conoce la Sala de lo Social del TSJ?",
-      "opciones": [
-        "a) Recursos de casación.",
-        "b) Recursos de suplicación contra resoluciones de los Tribunales de Instancia de lo Social de la Comunidad.",
-        "c) Recursos de amparo.",
-        "d) Recursos de revisión."
-      ],
-      "respuesta_correcta": "b) Recursos de suplicación contra resoluciones de los Tribunales de Instancia de lo Social de la Comunidad."
-    },
-    {
-      "pregunta": "¿Qué cuestiones de competencia resuelve la Sala de lo Social del TSJ (Art. 73.5)?",
-      "opciones": [
-        "a) Entre juzgados penales.",
-        "b) Entre Tribunales de Instancia del orden social de la Comunidad Autónoma.",
-        "c) Entre TSJ y TS.",
-        "d) Entre juzgados civiles y sociales."
-      ],
-      "respuesta_correcta": "b) Entre Tribunales de Instancia del orden social de la Comunidad Autónoma."
-    },
-    {
-      "pregunta": "Según el artículo 73.6, la Sala de lo Social del TSJ conoce de las recusaciones de:",
-      "opciones": [
-        "a) Sus propios Magistrados.",
-        "b) Los Jueces de lo Social (Secciones de lo Social de Tribunales de Instancia).",
-        "c) Los Fiscales.",
-        "d) Los Secretarios Judiciales."
-      ],
-      "respuesta_correcta": "b) Los Jueces de lo Social (Secciones de lo Social de Tribunales de Instancia)."
-    },
-    {
-      "pregunta": "¿Dónde tienen su sede las Audiencias Provinciales?",
-      "opciones": [
-        "a) En Madrid.",
-        "b) En la capital de la provincia.",
-        "c) En cada partido judicial.",
-        "d) Donde decida el Presidente."
-      ],
-      "respuesta_correcta": "b) En la capital de la provincia."
-    },
-    {
-      "pregunta": "¿A qué órdenes jurisdiccionales extiende su conocimiento la Audiencia Provincial?",
-      "opciones": [
-        "a) Civil y Penal.",
-        "b) Civil, Penal y Social.",
-        "c) Civil, Penal y Contencioso.",
-        "d) Todos."
-      ],
-      "respuesta_correcta": "a) Civil y Penal."
-    },
-    {
-      "pregunta": "¿Pueden crearse Secciones de la Audiencia Provincial fuera de la capital?",
-      "opciones": [
-        "a) No, nunca.",
-        "b) Sí, a las que se adscribirán uno o varios partidos judiciales.",
-        "c) Sí, pero sin jurisdicción.",
-        "d) Solo en islas."
-      ],
-      "respuesta_correcta": "b) Sí, a las que se adscribirán uno o varios partidos judiciales."
-    },
-    {
-      "pregunta": "¿Quién preside la Audiencia Provincial?",
-      "opciones": [
-        "a) El Presidente del TSJ.",
-        "b) Un Magistrado.",
-        "c) El Presidente de la Diputación.",
-        "d) El Juez Decano."
-      ],
-      "respuesta_correcta": "b) Un Magistrado."
-    },
-    {
-      "pregunta": "Según el artículo 82.1, las Audiencias Provinciales conocen en orden penal de las causas por delito...:",
-      "opciones": [
-        "a) Aforadas.",
-        "b) Exceptuadas las que la Ley atribuye a otros Tribunales (ej. TSJ o AN) o a los Tribunales de Instancia.",
-        "c) Todas.",
-        "d) Solo delitos leves."
-      ],
-      "respuesta_correcta": "b) Exceptuadas las que la Ley atribuye a otros Tribunales (ej. TSJ o AN) o a los Tribunales de Instancia."
-    },
-    {
-      "pregunta": "¿De qué recursos conoce la Audiencia Provincial en materia penal?",
-      "opciones": [
-        "a) De casación.",
-        "b) De los recursos contra resoluciones de los juzgados de instrucción (Secciones de Instrucción de Tribunales de Instancia) y de lo penal de la provincia.",
-        "c) De amparo.",
-        "d) De revisión."
-      ],
-      "respuesta_correcta": "b) De los recursos contra resoluciones de los juzgados de instrucción (Secciones de Instrucción de Tribunales de Instancia) y de lo penal de la provincia."
-    },
-    {
-      "pregunta": "En los Tribunales de Instancia, ¿a qué se extiende la jurisdicción de las Secciones de Instrucción con carácter general?",
-      "opciones": [
-        "a) A toda la provincia.",
-        "b) A un partido judicial.",
-        "c) A la Comunidad Autónoma.",
-        "d) Al municipio."
-      ],
-      "respuesta_correcta": "b) A un partido judicial."
-    },
-    {
-      "pregunta": "Según el artículo 88, ¿de qué conocen las Secciones de Instrucción de los Tribunales de Instancia?",
-      "opciones": [
-        "a) Del fallo de delitos graves.",
-        "b) De la instrucción de las causas por delito cuyo enjuiciamiento corresponda a las Audiencias Provinciales o Secciones de lo Penal.",
-        "c) De divorcios.",
-        "d) De despidos."
-      ],
-      "respuesta_correcta": "b) De la instrucción de las causas por delito cuyo enjuiciamiento corresponda a las Audiencias Provinciales o Secciones de lo Penal."
-    },
-    {
-      "pregunta": "¿Quién conoce de los procedimientos de 'Habeas Corpus'?",
-      "opciones": [
-        "a) La Audiencia Provincial.",
-        "b) Las Secciones de Instrucción de los Tribunales de Instancia.",
-        "c) El Tribunal Supremo.",
-        "d) El Juez de Paz."
-      ],
-      "respuesta_correcta": "b) Las Secciones de Instrucción de los Tribunales de Instancia."
-    },
-    {
-      "pregunta": "¿Conocen las Secciones de Instrucción de los delitos leves?",
-      "opciones": [
-        "a) No, nunca.",
-        "b) Sí, del conocimiento y fallo de los delitos leves, salvo que corresponda al Juez de Violencia sobre la Mujer.",
-        "c) Solo si son graves.",
-        "d) Solo si lo pide el fiscal."
-      ],
-      "respuesta_correcta": "b) Sí, del conocimiento y fallo de los delitos leves, salvo que corresponda al Juez de Violencia sobre la Mujer."
-    },
-    {
-      "pregunta": "¿Qué función tienen las Secciones de Instrucción respecto al Jurado?",
-      "opciones": [
-        "a) Ser jurado.",
-        "b) Dictar sentencia.",
-        "c) Instruir las causas que le correspondan para juicio por Jurado.",
-        "d) Ninguna."
-      ],
-      "respuesta_correcta": "c) Instruir las causas que le correspondan para juicio por Jurado."
-    },
-    {
-      "pregunta": "¿Pueden las Secciones de Instrucción conocer de la adopción de la Orden de Protección?",
-      "opciones": [
-        "a) Sí, a las víctimas de violencia doméstica y de género (cuando no corresponda a Sección de Violencia sobre la Mujer).",
-        "b) No.",
-        "c) Solo si hay denuncia falsa.",
-        "d) Solo en la capital."
-      ],
-      "respuesta_correcta": "a) Sí, a las víctimas de violencia doméstica y de género (cuando no corresponda a Sección de Violencia sobre la Mujer)."
-    },
-    {
-      "pregunta": "Según el artículo 89.1, ¿quién puede acordar que asuntos de violencia sobre la mujer sean conocidos por Secciones de Instrucción o Únicas donde no haya Sección especializada?",
-      "opciones": [
-        "a) El Gobierno.",
-        "b) El Consejo General del Poder Judicial, previo informe de las Salas de Gobierno.",
-        "c) El Juez Decano.",
-        "d) El Fiscal."
-      ],
-      "respuesta_correcta": "b) El Consejo General del Poder Judicial, previo informe de las Salas de Gobierno."
-    },
-    {
-      "pregunta": "¿Qué asuntos de violencia sobre la mujer se mencionan en el Art. 89?",
-      "opciones": [
-        "a) Solo civiles.",
-        "b) Instrucción de delitos de homicidio, aborto, lesiones, etc., cometidos con violencia de género.",
-        "c) Solo laborales.",
-        "d) Solo administrativos."
-      ],
-      "respuesta_correcta": "b) Instrucción de delitos de homicidio, aborto, lesiones, etc., cometidos con violencia de género."
-    },
-    {
-      "pregunta": "¿Qué competencia civil tienen las Secciones que asumen violencia sobre la mujer (Art. 89)?",
-      "opciones": [
-        "a) Ninguna.",
-        "b) Filiación, maternidad, paternidad, nulidad, separación y divorcio, si hay proceso penal por violencia de género simultáneo.",
-        "c) Herencias.",
-        "d) Contratos."
-      ],
-      "respuesta_correcta": "b) Filiación, maternidad, paternidad, nulidad, separación y divorcio, si hay proceso penal por violencia de género simultáneo."
-    },
-    {
-      "pregunta": "Para que la Sección de Violencia conozca del asunto civil, ¿qué requisito es necesario respecto a las partes?",
-      "opciones": [
-        "a) Que estén casadas.",
-        "b) Que alguna de las partes del proceso civil sea víctima y la otra imputado por violencia de género.",
-        "c) Que vivan en Madrid.",
-        "d) Que tengan hijos."
-      ],
-      "respuesta_correcta": "b) Que alguna de las partes del proceso civil sea víctima y la otra imputado por violencia de género."
-    },
-    {
-      "pregunta": "¿Qué ocurre si se inicia un proceso penal por violencia de género tras haberse iniciado uno civil de divorcio ante la Sección Civil?",
-      "opciones": [
-        "a) Siguen separados.",
-        "b) La Sección Civil se inhibirá a favor de la Sección de Violencia sobre la Mujer (o quien asuma sus funciones).",
-        "c) Se anula el divorcio.",
-        "d) El penal espera al civil."
-      ],
-      "respuesta_correcta": "b) La Sección Civil se inhibirá a favor de la Sección de Violencia sobre la Mujer (o quien asuma sus funciones)."
-    },
-    {
-      "pregunta": "¿Dónde habrá un Juez de Paz según el artículo 99?",
-      "opciones": [
-        "a) En cada municipio donde no exista Tribunal de Instancia.",
-        "b) En todas las capitales.",
-        "c) En cada barrio.",
-        "d) En el campo."
-      ],
-      "respuesta_correcta": "a) En cada municipio donde no exista Tribunal de Instancia."
-    },
-    {
-      "pregunta": "¿Quién nombra a los Jueces de Paz?",
-      "opciones": [
-        "a) El Alcalde.",
-        "b) La Sala de Gobierno del Tribunal Superior de Justicia.",
-        "c) El Ministerio de Justicia.",
-        "d) El pueblo por votación."
-      ],
-      "respuesta_correcta": "b) La Sala de Gobierno del Tribunal Superior de Justicia."
-    },
-    {
-      "pregunta": "¿A propuesta de quién nombra la Sala de Gobierno al Juez de Paz?",
-      "opciones": [
-        "a) Del Ayuntamiento respectivo (Pleno).",
-        "b) Del Juez Decano.",
-        "c) Del Gobernador.",
-        "d) De nadie."
-      ],
-      "respuesta_correcta": "a) Del Ayuntamiento respectivo (Pleno)."
-    },
-    {
-      "pregunta": "¿Por cuánto tiempo son nombrados los Jueces de Paz?",
-      "opciones": [
-        "a) 2 años.",
-        "b) 4 años.",
-        "c) Vitalicio.",
-        "d) 5 años."
-      ],
-      "respuesta_correcta": "b) 4 años."
-    },
-    {
-      "pregunta": "¿Qué sucede si el Ayuntamiento no propone Juez de Paz en plazo?",
-      "opciones": [
-        "a) Se queda vacante.",
-        "b) La Sala de Gobierno del TSJ procederá a su nombramiento.",
-        "c) El Alcalde lo es automáticamente.",
-        "d) Se cierran el juzgado."
-      ],
-      "respuesta_correcta": "b) La Sala de Gobierno del TSJ procederá a su nombramiento."
-    },
-    {
-      "pregunta": "¿Cómo se eligen los Magistrados del Tribunal Supremo?",
-      "opciones": [
-        "a) Por oposición libre.",
-        "b) Son nombrados por el Rey a propuesta del CGPJ entre miembros de la Carrera Judicial y juristas de prestigio.",
-        "c) Por el Gobierno.",
-        "d) Por antigüedad."
-      ],
-      "respuesta_correcta": "b) Son nombrados por el Rey a propuesta del CGPJ entre miembros de la Carrera Judicial y juristas de prestigio."
-    },
-    {
-      "pregunta": "¿Conoce el Tribunal Supremo de las demandas de responsabilidad civil contra el Presidente del Gobierno por hechos en el ejercicio de su cargo?",
-      "opciones": [
-        "a) No, es inmune.",
-        "b) Sí, la Sala de lo Civil.",
-        "c) Sí, la Sala de lo Penal.",
-        "d) Sí, la Sala de lo Contencioso."
-      ],
-      "respuesta_correcta": "b) Sí, la Sala de lo Civil."
-    },
-    {
-      "pregunta": "¿Quién conoce de los procesos de ilegalización de partidos políticos?",
-      "opciones": [
-        "a) La Audiencia Nacional.",
-        "b) La Sala Especial del Tribunal Supremo (Art. 61, aunque no pedido explícitamente, es competencia TS).",
-        "c) El Tribunal Constitucional.",
-        "d) El Ministerio del Interior."
-      ],
-      "respuesta_correcta": "b) La Sala Especial del Tribunal Supremo (Art. 61, aunque no pedido explícitamente, es competencia TS)."
-    },
-    {
-      "pregunta": "¿De qué conoce la Sala de lo Contencioso de la AN respecto a la Comisión de Vigilancia de Financiación del Terrorismo?",
-      "opciones": [
-        "a) De los recursos contra sus actos.",
-        "b) De su nombramiento.",
-        "c) De su presupuesto.",
-        "d) De nada."
-      ],
-      "respuesta_correcta": "a) De los recursos contra sus actos."
-    },
-    {
-      "pregunta": "¿Qué es la 'cuestión de competencia' entre juzgados?",
-      "opciones": [
-        "a) Una pelea.",
-        "b) Disputa sobre quién debe conocer un asunto.",
-        "c) Un examen.",
-        "d) Una colaboración."
-      ],
-      "respuesta_correcta": "b) Disputa sobre quién debe conocer un asunto."
-    },
-    {
-      "pregunta": "¿Quién resuelve la competencia entre Tribunales de Instancia de la misma provincia?",
-      "opciones": [
-        "a) El TSJ.",
-        "b) La Audiencia Provincial.",
-        "c) El Supremo.",
-        "d) El Decano."
-      ],
-      "respuesta_correcta": "b) La Audiencia Provincial."
-    },
-    {
-      "pregunta": "¿Quién conoce de los recursos contra actos de las Juntas Electorales Provinciales?",
-      "opciones": [
-        "a) La Audiencia Provincial.",
-        "b) La Sala de lo Contencioso del TSJ.",
-        "c) El Supremo.",
-        "d) La Junta Central."
-      ],
-      "respuesta_correcta": "b) La Sala de lo Contencioso del TSJ."
-    },
-    {
-      "pregunta": "¿Quién conoce de los delitos cometidos fuera del territorio nacional cuando las leyes lo autoricen?",
-      "opciones": [
-        "a) El Tribunal Supremo.",
-        "b) La Audiencia Nacional (Sala Penal).",
-        "c) Cualquier juzgado.",
-        "d) El Consulado."
-      ],
-      "respuesta_correcta": "b) La Audiencia Nacional (Sala Penal)."
-    },
-    {
-      "pregunta": "¿De qué conoce la Sala de lo Social de la Audiencia Nacional?",
-      "opciones": [
-        "a) Despidos individuales.",
-        "b) Impugnación de convenios colectivos cuyo ámbito exceda de una Comunidad Autónoma.",
-        "c) Seguridad Social.",
-        "d) Divorcios."
-      ],
-      "respuesta_correcta": "b) Impugnación de convenios colectivos cuyo ámbito exceda de una Comunidad Autónoma."
-    },
-    {
-      "pregunta": "¿Qué Sala de la AN conoce de los recursos contra el Ministro del Interior?",
-      "opciones": [
-        "a) La de lo Penal.",
-        "b) La de lo Contencioso-Administrativo.",
-        "c) La de Apelación.",
-        "d) El Supremo."
-      ],
-      "respuesta_correcta": "b) La de lo Contencioso-Administrativo."
-    },
-    {
-      "pregunta": "El Tribunal Central de Instancia tiene jurisdicción en:",
-      "opciones": [
-        "a) Madrid.",
-        "b) Toda España.",
-        "c) Las capitales.",
-        "d) Las islas."
-      ],
-      "respuesta_correcta": "b) Toda España."
-    },
-    {
-      "pregunta": "¿Qué órganos se integran en el Tribunal Central de Instancia?",
-      "opciones": [
-        "a) Los antiguos Juzgados Centrales (Instrucción, Penal, Contencioso, Menores, Vigilancia).",
-        "b) Las Audiencias.",
-        "c) Los TSJ.",
-        "d) Los Juzgados de Paz."
-      ],
-      "respuesta_correcta": "a) Los antiguos Juzgados Centrales (Instrucción, Penal, Contencioso, Menores, Vigilancia)."
-    },
-    {
-      "pregunta": "Las Secciones de Instrucción del Tribunal Central de Instancia instruyen causas cuyo enjuiciamiento corresponde a:",
-      "opciones": [
-        "a) La Sala de lo Penal de la Audiencia Nacional o la Sala de lo Penal del propio Tribunal Central.",
-        "b) Al Supremo.",
-        "c) A la Audiencia Provincial.",
-        "d) Al TSJ."
-      ],
-      "respuesta_correcta": "a) La Sala de lo Penal de la Audiencia Nacional o la Sala de lo Penal del propio Tribunal Central."
-    },
-    {
-      "pregunta": "¿Quién conoce de la ejecución de sentencias dictadas por la Sala de lo Penal de la AN?",
-      "opciones": [
-        "a) La propia Sala.",
-        "b) La Sección de Ejecución Penal del Tribunal Central de Instancia (antiguo Juzgado Central de lo Penal/Ejecución).",
-        "c) Instituciones Penitenciarias.",
-        "d) El Supremo."
-      ],
-      "respuesta_correcta": "a) La propia Sala (o tribunal sentenciador, salvo que la ley disponga otra cosa)."
-    },
-    {
-      "pregunta": "¿Quién conoce de los delitos de piratería aérea?",
-      "opciones": [
-        "a) La Audiencia Provincial.",
-        "b) La Audiencia Nacional.",
-        "c) El Supremo.",
-        "d) El Ejército."
-      ],
-      "respuesta_correcta": "b) La Audiencia Nacional."
-    },
-    {
-      "pregunta": "¿Quién conoce de la defraudación que produzca grave perjuicio a la economía nacional?",
-      "opciones": [
-        "a) La Audiencia Nacional.",
-        "b) La Audiencia Provincial.",
-        "c) El Juzgado de lo Penal.",
-        "d) Hacienda."
-      ],
-      "respuesta_correcta": "a) La Audiencia Nacional."
-    },
-    {
-      "pregunta": "¿Quién instruye las causas contra aforados al TSJ?",
-      "opciones": [
-        "a) Un Magistrado de la Sala Civil/Penal del TSJ.",
-        "b) El Presidente del TSJ.",
-        "c) Un juez de instrucción.",
-        "d) El Fiscal Superior."
-      ],
-      "respuesta_correcta": "a) Un Magistrado de la Sala Civil/Penal del TSJ."
-    },
-    {
-      "pregunta": "¿De qué recursos conoce la Audiencia Provincial en materia civil?",
-      "opciones": [
-        "a) De los recursos contra sentencias de los Tribunales de Instancia de la provincia en materia civil.",
-        "b) Casación.",
-        "c) Revisión.",
-        "d) Amparo."
-      ],
-      "respuesta_correcta": "a) De los recursos contra sentencias de los Tribunales de Instancia de la provincia en materia civil."
-    },
-    {
-      "pregunta": "¿Qué asuntos mercantiles ven los Tribunales de Instancia?",
-      "opciones": [
-        "a) Concursos de acreedores (Sección Mercantil).",
-        "b) Robos.",
-        "c) Divorcios.",
-        "d) Multas."
-      ],
-      "respuesta_correcta": "a) Concursos de acreedores (Sección Mercantil)."
-    },
-    {
-      "pregunta": "¿Quién nombra a los Jueces de Paz sustitutos?",
-      "opciones": [
-        "a) La Sala de Gobierno del TSJ.",
-        "b) El Alcalde.",
-        "c) El Juez titular.",
-        "d) El Ministerio."
-      ],
-      "respuesta_correcta": "a) La Sala de Gobierno del TSJ."
-    },
-    {
-      "pregunta": "¿Qué requisitos se exigen para ser Juez de Paz?",
-      "opciones": [
-        "a) Ser Licenciado en Derecho.",
-        "b) Ser español, mayor de edad y no estar incurso en causa de incapacidad (no hace falta ser licenciado).",
-        "c) Ser funcionario.",
-        "d) Ser rico."
-      ],
-      "respuesta_correcta": "b) Ser español, mayor de edad y no estar incurso en causa de incapacidad (no hace falta ser licenciado)."
-    },
-    {
-      "pregunta": "¿De qué conoce la Sala de lo Contencioso del TS respecto al Consejo de Ministros?",
-      "opciones": [
-        "a) De los recursos contra sus actos y disposiciones.",
-        "b) De nada.",
-        "c) De sus sueldos.",
-        "d) De sus viajes."
-      ],
-      "respuesta_correcta": "a) De los recursos contra sus actos y disposiciones."
-    },
-    {
-      "pregunta": "¿Qué recurso conoce la Sala de lo Contencioso del TSJ contra actos de las Entidades Locales?",
-      "opciones": [
-        "a) Apelación.",
-        "b) Recurso contencioso-administrativo en única instancia (salvo atribución a juzgados).",
-        "c) Casación.",
-        "d) Queja."
-      ],
-      "respuesta_correcta": "b) Recurso contencioso-administrativo en única instancia (salvo atribución a juzgados)."
-    },
-    {
-      "pregunta": "¿Quién resuelve los conflictos de jurisdicción entre Juzgados y Administración?",
-      "opciones": [
-        "a) El Tribunal de Conflictos de Jurisdicción.",
-        "b) El TS.",
-        "c) El Gobierno.",
-        "d) El Rey."
-      ],
-      "respuesta_correcta": "a) El Tribunal de Conflictos de Jurisdicción."
-    },
-    {
-      "pregunta": "¿Qué es la Audiencia Nacional en términos de competencia territorial?",
-      "opciones": [
-        "a) Un tribunal central.",
-        "b) Un tribunal regional.",
-        "c) Un tribunal local.",
-        "d) Un tribunal internacional."
-      ],
-      "respuesta_correcta": "a) Un tribunal central."
-    },
-    {
-      "pregunta": "¿Puede la Sala de lo Penal de la AN conocer de delitos cometidos por personas integradas en bandas armadas?",
-      "opciones": [
-        "a) Sí.",
-        "b) No.",
-        "c) Solo si matan.",
-        "d) Solo si roban."
-      ],
-      "respuesta_correcta": "a) Sí."
-    },
-    {
-      "pregunta": "¿Qué es la 'Sección de Enjuiciamiento' en los Tribunales de Instancia?",
-      "opciones": [
-        "a) La parte del Tribunal que celebra los juicios (Sección Penal).",
-        "b) La instrucción.",
-        "c) La apelación.",
-        "d) La guardia."
-      ],
-      "respuesta_correcta": "a) La parte del Tribunal que celebra los juicios (Sección Penal)."
-    },
-    {
-      "pregunta": "¿Qué es el 'partido judicial'?",
-      "opciones": [
-        "a) Un partido político.",
-        "b) La unidad territorial para la administración de justicia, integrada por uno o más municipios limítrofes.",
-        "c) Un juego.",
-        "d) Una provincia."
-      ],
-      "respuesta_correcta": "b) La unidad territorial para la administración de justicia, integrada por uno o más municipios limítrofes."
-    },
-    {
-      "pregunta": "¿Quién crea los Tribunales de Instancia?",
-      "opciones": [
-        "a) La Ley de Demarcación y Planta Judicial.",
-        "b) El Alcalde.",
-        "c) El CGPJ.",
-        "d) El Juez."
-      ],
-      "respuesta_correcta": "a) La Ley de Demarcación y Planta Judicial."
-    },
-    {
-      "pregunta": "¿Qué son los 'Juzgados de lo Mercantil'?",
-      "opciones": [
-        "a) En el nuevo modelo, son Secciones de lo Mercantil dentro de los Tribunales de Instancia.",
-        "b) Juzgados independientes.",
-        "c) Oficinas de comercio.",
-        "d) No existen."
-      ],
-      "respuesta_correcta": "a) En el nuevo modelo, son Secciones de lo Mercantil dentro de los Tribunales de Instancia."
-    },
-    {
-      "pregunta": "¿Qué es la 'jurisdicción militar'?",
-      "opciones": [
-        "a) Parte del Poder Judicial (Sala Quinta del TS y órganos militares), limitada al ámbito castrense y estado de sitio.",
-        "b) Un poder independiente.",
-        "c) Una policía.",
-        "d) No es justicia."
-      ],
-      "respuesta_correcta": "a) Parte del Poder Judicial (Sala Quinta del TS y órganos militares), limitada al ámbito castrense y estado de sitio."
-    },
-    {
-      "pregunta": "¿Qué recurso cabe contra las sentencias de la Sala de Apelación de la AN?",
-      "opciones": [
-        "a) Casación ante el Tribunal Supremo.",
-        "b) Apelación ante el TS.",
-        "c) Ninguno.",
-        "d) Amparo."
-      ],
-      "respuesta_correcta": "a) Casación ante el Tribunal Supremo."
-    },
-    {
-      "pregunta": "¿Quién conoce de los delitos de terrorismo cometidos por menores?",
-      "opciones": [
-        "a) El Juzgado Central de Menores (integrado en Tribunal Central de Instancia).",
-        "b) La Audiencia Nacional.",
-        "c) El Juez de Menores de provincia.",
-        "d) El TS."
-      ],
-      "respuesta_correcta": "a) El Juzgado Central de Menores (integrado en Tribunal Central de Instancia)."
-    },
-    {
-      "pregunta": "¿Qué es la Sala de Gobierno?",
-      "opciones": [
-        "a) El órgano de gobierno interno de los Tribunales (TS, AN, TSJ).",
-        "b) Una sala de juicios.",
-        "c) El Ministerio.",
-        "d) El Consejo de Ministros."
-      ],
-      "respuesta_correcta": "a) El órgano de gobierno interno de los Tribunales (TS, AN, TSJ)."
-    },
-    {
-      "pregunta": "¿Quién aprueba las normas de reparto de asuntos?",
-      "opciones": [
-        "a) La Sala de Gobierno.",
-        "b) El Decano.",
-        "c) El informático.",
-        "d) El Secretario."
-      ],
-      "respuesta_correcta": "a) La Sala de Gobierno."
-    },
-    {
-      "pregunta": "¿Qué es el 'Juez Decano'?",
-      "opciones": [
-        "a) El representante de los jueces en un partido judicial o Tribunal de Instancia.",
-        "b) El más viejo.",
-        "c) El que manda.",
-        "d) Un cargo político."
-      ],
-      "respuesta_correcta": "a) El representante de los jueces en un partido judicial o Tribunal de Instancia."
-    },
-    {
-      "pregunta": "¿Qué son los 'Juzgados de Violencia sobre la Mujer'?",
-      "opciones": [
-        "a) En el nuevo modelo, Secciones de Violencia sobre la Mujer de los Tribunales de Instancia.",
-        "b) Juzgados de Familia.",
-        "c) ONGs.",
-        "d) Comisarías."
-      ],
-      "respuesta_correcta": "a) En el nuevo modelo, Secciones de Violencia sobre la Mujer de los Tribunales de Instancia."
-    },
-    {
-      "pregunta": "¿Tienen competencia civil las Secciones de Violencia sobre la Mujer?",
-      "opciones": [
-        "a) Sí, exclusiva y excluyente en ciertos asuntos si hay causa penal.",
-        "b) No, solo penal.",
-        "c) Sí, en todo.",
-        "d) No, van al juez civil."
-      ],
-      "respuesta_correcta": "a) Sí, exclusiva y excluyente en ciertos asuntos si hay causa penal."
-    },
-    {
-      "pregunta": "¿Qué es el 'aforamiento'? [Contexto artículos competencia TS/TSJ]",
-      "opciones": [
-        "a) Pagar aforo.",
-        "b) Privilegio procesal por el que ciertos cargos son juzgados por tribunales superiores (TS o TSJ) y no por el ordinario.",
-        "c) Inmunidad total.",
-        "d) Juicio rápido."
-      ],
-      "respuesta_correcta": "b) Privilegio procesal por el que ciertos cargos son juzgados por tribunales superiores (TS o TSJ) y no por el ordinario."
-    },
-    {
-      "pregunta": "¿De qué conoce la Sala Primera del Tribunal Supremo?",
-      "opciones": [
-        "a) Civil.",
-        "b) Penal.",
-        "c) Social.",
-        "d) Militar."
-      ],
-      "respuesta_correcta": "a) Civil."
-    },
-    {
-      "pregunta": "¿De qué conoce la Sala Cuarta del Tribunal Supremo?",
-      "opciones": [
-        "a) Social.",
-        "b) Militar.",
-        "c) Civil.",
-        "d) Contencioso."
-      ],
-      "respuesta_correcta": "a) Social."
-    },
-    {
-      "pregunta": "¿Cuántos Presidentes de Sala tiene el TSJ?",
-      "opciones": [
-        "a) Uno por cada Sala (3).",
-        "b) Uno total.",
-        "c) Cinco.",
-        "d) Dos."
-      ],
-      "respuesta_correcta": "a) Uno por cada Sala (3)."
-    },
-    {
-      "pregunta": "¿Quién elige al Presidente del Tribunal Supremo?",
-      "opciones": [
-        "a) El Consejo General del Poder Judicial.",
-        "b) El Gobierno.",
-        "c) Los jueces.",
-        "d) El pueblo."
-      ],
-      "respuesta_correcta": "a) El Consejo General del Poder Judicial."
-    },
-    {
-      "pregunta": "¿El Presidente del TS lo es también del CGPJ?",
-      "opciones": [
-        "a) Sí.",
-        "b) No.",
-        "c) A veces.",
-        "d) Son cargos distintos."
-      ],
-      "respuesta_correcta": "a) Sí."
-    },
-    {
-      "pregunta": "¿Qué es la 'casación'? [Contexto TS]",
-      "opciones": [
-        "a) Casarse.",
-        "b) Recurso extraordinario ante el Tribunal Supremo para anular sentencias por infracción de ley o quebrantamiento de forma.",
-        "c) Una apelación normal.",
-        "d) Un juicio nuevo."
-      ],
-      "respuesta_correcta": "b) Recurso extraordinario ante el Tribunal Supremo para anular sentencias por infracción de ley o quebrantamiento de forma."
-    },
-    {
-      "pregunta": "¿Qué es la 'unificación de doctrina'? [Contexto TS]",
-      "opciones": [
-        "a) Que todos piensen igual.",
-        "b) Función del TS para asegurar la interpretación uniforme de la ley mediante sentencias.",
-        "c) Una ley nueva.",
-        "d) Un curso."
-      ],
-      "respuesta_correcta": "b) Función del TS para asegurar la interpretación uniforme de la ley mediante sentencias."
+[[
+  
+    {
+      "tema": "TEMA 12.- PODER JUDICIAL",
+      "descripcion": "Batería de 140 preguntas sobre la LOPJ con distribución equitativa de respuestas.",
+      "preguntas": [
+        {
+          "pregunta": "Según el artículo 53 de la LOPJ, ¿cuál es la jurisdicción del Tribunal Supremo?",
+          "opciones": [
+            "a) Es el máximo órgano de gobierno de los jueces y magistrados, con sede en Madrid, y tiene jurisdicción disciplinaria sobre todos los miembros de la carrera judicial.",
+            "b) Tiene jurisdicción en todo el territorio nacional salvo en las Comunidades Autónomas con derecho foral propio, donde el Tribunal Superior de Justicia es la última instancia en derecho civil.",
+            "c) El Tribunal Supremo, con sede en la villa de Madrid, es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales, y tendrá jurisdicción en toda España.",
+            "d) El Tribunal Supremo es el órgano superior del Poder Judicial en materia civil y penal, pero no en lo contencioso-administrativo y social, donde la última instancia corresponde a la Audiencia Nacional."
+          ],
+          "respuesta_correcta": "b) Tiene jurisdicción en todo el territorio nacional salvo en las Comunidades Autónomas con derecho foral propio, donde el Tribunal Superior de Justicia es la última instancia en derecho civil.",
+          "cita": "LOPJ, Art. 53"
+        },
+        {
+          "pregunta": "¿Cómo se compone el Tribunal Supremo según el artículo 54?",
+          "opciones": [
+            "a) Estará integrado por el Presidente del Consejo General del Poder Judicial, los Presidentes de los Tribunales Superiores de Justicia y un Magistrado por cada provincia.",
+            "b) Se formará por el Presidente del Tribunal Supremo y los Magistrados del Tribunal Constitucional adscritos temporalmente para unificar doctrina.",
+            "c) Se compondrá de su Presidente, de los Presidentes de Sala y los Magistrados que determine la ley para cada una de las Salas y, en su caso, Secciones que puedan crearse.",
+            "d) Se compone de un Presidente, cinco Presidentes de Sala y setenta Magistrados distribuidos equitativamente entre las cinco jurisdicciones."
+          ],
+          "respuesta_correcta": "d) Se compone de un Presidente, cinco Presidentes de Sala y setenta Magistrados distribuidos equitativamente entre las cinco jurisdicciones.",
+          "cita": "LOPJ, Art. 54"
+        },
+        {
+          "pregunta": "¿Cuáles son las Salas jurisdiccionales del Tribunal Supremo (Art. 55)?",
+          "opciones": [
+            "a) Primera: de lo Civil; Segunda: de lo Penal; Tercera: de lo Contencioso-Administrativo; Cuarta: de lo Social; y Quinta: de lo Militar, que se regirá por su legislación específica.",
+            "b) Primera: Constitucional; Segunda: Civil y Penal; Tercera: Administrativa; Cuarta: Laboral; y Quinta: Mercantil y Financiera.",
+            "c) Sala Primera de Derecho Privado, Sala Segunda de Derecho Público, Sala Tercera de Derecho Laboral y Sala Cuarta de Derecho Militar.",
+            "d) Sala de Gobierno, Sala de Conflictos de Jurisdicción, Sala Especial del Art. 61 y Sala de Justicia, dividida en cinco secciones especializadas."
+          ],
+          "respuesta_correcta": "b) Primera: Constitucional; Segunda: Civil y Penal; Tercera: Administrativa; Cuarta: Laboral; y Quinta: Mercantil y Financiera.",
+          "cita": "LOPJ, Art. 55"
+        },
+        {
+          "pregunta": "¿De qué conoce la Sala de lo Civil del Tribunal Supremo en materia de responsabilidad civil (Art. 56)?",
+          "opciones": [
+            "a) De las demandas de responsabilidad civil por hechos realizados en el ejercicio de su cargo dirigidas contra el Presidente del Gobierno, Presidentes del Congreso y Senado, Presidente del CGPJ y TC, y otros altos cargos del Estado.",
+            "b) De las demandas de responsabilidad patrimonial de la Administración del Estado cuando la cuantía reclamada exceda del millón de euros.",
+            "c) De todas las demandas civiles que superen la cuantía de 600.000 euros, independientemente de quien sea el demandado, en única instancia.",
+            "d) Exclusivamente de las demandas de responsabilidad civil contra Magistrados de la Audiencia Nacional y del Tribunal Supremo."
+          ],
+          "respuesta_correcta": "c) De todas las demandas civiles que superen la cuantía de 600.000 euros, independientemente de quien sea el demandado, en única instancia.",
+          "cita": "LOPJ, Art. 56.2"
+        },
+        {
+          "pregunta": "¿Qué competencia tiene la Sala de lo Penal del Tribunal Supremo respecto a la instrucción y enjuiciamiento (Art. 57)?",
+          "opciones": [
+            "a) De la instrucción y enjuiciamiento de las causas contra el Presidente del Gobierno, Ministros, Diputados, Senadores y otros aforados, designándose de entre sus miembros un instructor que no formará parte de la Sala para el juicio.",
+            "b) De la instrucción y fallo de los delitos de terrorismo, rebelión y sedición, cualquiera que sea la condición del autor.",
+            "c) Del enjuiciamiento en segunda instancia de las sentencias dictadas por los Tribunales Superiores de Justicia en materia penal.",
+            "d) Únicamente del enjuiciamiento de las causas contra aforados, correspondiendo la instrucción al Juzgado Central de Instrucción de la Audiencia Nacional."
+          ],
+          "respuesta_correcta": "d) Únicamente del enjuiciamiento de las causas contra aforados, correspondiendo la instrucción al Juzgado Central de Instrucción de la Audiencia Nacional.",
+          "cita": "LOPJ, Art. 57.1.2º"
+        },
+        {
+          "pregunta": "¿Qué conoce la Sala de lo Contencioso-Administrativo del Tribunal Supremo en única instancia (Art. 58)?",
+          "opciones": [
+            "a) De los recursos contra las disposiciones generales emanadas de las Comunidades Autónomas y de las Entidades Locales.",
+            "b) De todos los recursos contra actos administrativos dictados por cualquier órgano de la Administración General del Estado con rango de Director General o superior.",
+            "c) De los recursos contencioso-administrativos contra actos y disposiciones del Consejo de Ministros, de las Comisiones Delegadas del Gobierno y del Consejo General del Poder Judicial.",
+            "d) De las demandas de responsabilidad patrimonial contra el Estado por funcionamiento anormal de la Administración de Justicia."
+          ],
+          "respuesta_correcta": "c) De los recursos contencioso-administrativos contra actos y disposiciones del Consejo de Ministros, de las Comisiones Delegadas del Gobierno y del Consejo General del Poder Judicial.",
+          "cita": "LOPJ, Art. 58.1"
+        },
+        {
+          "pregunta": "¿Qué competencia tiene la Sala de lo Social del Tribunal Supremo (Art. 59)?",
+          "opciones": [
+            "a) De los recursos de casación y revisión y otros extraordinarios que establezca la ley contra resoluciones de los órganos jurisdiccionales del orden social.",
+            "b) Del enjuiciamiento en primera instancia de los despidos colectivos que afecten a trabajadores de más de tres Comunidades Autónomas.",
+            "c) De los conflictos de competencia entre los Juzgados de lo Social y las autoridades administrativas laborales.",
+            "d) De las demandas colectivas presentadas por los sindicatos mayoritarios contra decisiones del Gobierno en materia laboral."
+          ],
+          "respuesta_correcta": "b) Del enjuiciamiento en primera instancia de los despidos colectivos que afecten a trabajadores de más de tres Comunidades Autónomas.",
+          "cita": "LOPJ, Art. 59"
+        },
+        {
+          "pregunta": "¿Quién compone la Sala Especial del artículo 61 del Tribunal Supremo?",
+          "opciones": [
+            "a) Todos los Magistrados del Tribunal Supremo reunidos en Pleno bajo la presidencia del Rey.",
+            "b) El Presidente del Tribunal Supremo y los cinco Magistrados más antiguos del Tribunal, uno por cada orden jurisdiccional.",
+            "c) El Presidente de la Sala de lo Penal y cuatro Magistrados elegidos por sorteo anual entre todos los miembros del Tribunal.",
+            "d) El Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada una de ellas."
+          ],
+          "respuesta_correcta": "d) El Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada una de ellas.",
+          "cita": "LOPJ, Art. 61.1"
+        },
+        {
+          "pregunta": "¿De qué asuntos conoce la Sala Especial del artículo 61?",
+          "opciones": [
+            "a) De los recursos de revisión contra las sentencias dictadas en única instancia por la Sala de lo Contencioso-Administrativo, de los incidentes de recusación del Presidente del TS, y de las demandas de responsabilidad civil contra Presidentes de Sala o Magistrados del TS.",
+            "b) De los recursos de amparo contra decisiones del Consejo General del Poder Judicial en materia de nombramientos.",
+            "c) De la ilegalización de partidos políticos y de los recursos contra la proclamación de candidaturas electorales.",
+            "d) Tanto la opción a) como la c) son correctas, ya que esta Sala asume competencias especiales sobre ilegalización de partidos y responsabilidad de altos magistrados."
+          ],
+          "respuesta_correcta": "b) De los recursos de amparo contra decisiones del Consejo General del Poder Judicial en materia de nombramientos.",
+          "cita": "LOPJ, Art. 61.1 (Competencias varias)"
+        },
+        {
+          "pregunta": "Según el artículo 62, ¿dónde tiene su sede y cuál es la jurisdicción de la Audiencia Nacional?",
+          "opciones": [
+            "a) Tiene su sede en Madrid, pero puede constituir Secciones desplazadas en las capitales de las Comunidades Autónomas para delitos de terrorismo.",
+            "b) Su sede está en Madrid y su jurisdicción se limita a los delitos cometidos en más de una provincia o en el extranjero.",
+            "c) Tiene jurisdicción en todo el territorio nacional salvo en las Comunidades Autónomas con policía propia, donde su competencia es compartida.",
+            "d) La Audiencia Nacional tiene su sede en la villa de Madrid y tiene jurisdicción en toda España."
+          ],
+          "respuesta_correcta": "c) Tiene jurisdicción en todo el territorio nacional salvo en las Comunidades Autónomas con policía propia, donde su competencia es compartida.",
+          "cita": "LOPJ, Art. 62"
+        },
+        {
+          "pregunta": "¿De qué Salas se compone la Audiencia Nacional (Art. 63)?",
+          "opciones": [
+            "a) De Apelación, de lo Penal, de lo Contencioso-Administrativo y de lo Social.",
+            "b) Sala de Gobierno, Sala de Justicia y Sala de Conflictos.",
+            "c) De lo Civil, de lo Penal, de lo Contencioso y de lo Social.",
+            "d) De lo Penal, de lo Económico-Administrativo, de lo Social y de Vigilancia Penitenciaria."
+          ],
+          "respuesta_correcta": "c) De lo Civil, de lo Penal, de lo Contencioso y de lo Social.",
+          "cita": "LOPJ, Art. 63.1"
+        },
+        {
+          "pregunta": "¿Qué delitos son competencia de la Sala de lo Penal de la Audiencia Nacional (Art. 65)?",
+          "opciones": [
+            "a) Los delitos contra la Hacienda Pública y la Seguridad Social cuando la cuantía defraudada supere el millón de euros.",
+            "b) Delitos contra la Corona, falsificación de moneda, tráfico de drogas o fraudes que produzcan grave repercusión en la economía nacional, terrorismo, y delitos cometidos fuera del territorio nacional cuando corresponda a la jurisdicción española.",
+            "c) Todos los delitos castigados con pena de prisión superior a cinco años, independientemente de su naturaleza.",
+            "d) Exclusivamente los delitos de terrorismo y crimen organizado transnacional."
+          ],
+          "respuesta_correcta": "b) Delitos contra la Corona, falsificación de moneda, tráfico de drogas o fraudes que produzcan grave repercusión en la economía nacional, terrorismo, y delitos cometidos fuera del territorio nacional cuando corresponda a la jurisdicción española.",
+          "cita": "LOPJ, Art. 65.1"
+        },
+        {
+          "pregunta": "¿De qué conoce la Sala de Apelación de la Audiencia Nacional (Art. 64 bis)?",
+          "opciones": [
+            "a) De los recursos de apelación contra las resoluciones dictadas por la Sala de lo Penal, cuando esta actúe en primera instancia.",
+            "b) De los recursos de queja contra la inadmisión de recursos de casación por la Sala de lo Penal.",
+            "c) De los recursos de apelación contra las sentencias de los Juzgados Centrales de Instrucción y de lo Penal.",
+            "d) De la revisión de las sentencias firmes dictadas por la Audiencia Nacional cuando aparezcan nuevos hechos probados."
+          ],
+          "respuesta_correcta": "d) De la revisión de las sentencias firmes dictadas por la Audiencia Nacional cuando aparezcan nuevos hechos probados.",
+          "cita": "LOPJ, Art. 64 bis"
+        },
+        {
+          "pregunta": "¿Qué competencia tiene la Sala de lo Contencioso-Administrativo de la Audiencia Nacional (Art. 66)?",
+          "opciones": [
+            "a) De los recursos contra actos de los Ministros y Secretarios de Estado cuando no confirmen actos de órganos inferiores, y contra los actos de la Comisión de Vigilancia de Actividades de Financiación del Terrorismo.",
+            "b) De las demandas de responsabilidad patrimonial contra la Administración de Justicia.",
+            "c) De los recursos contra disposiciones generales de rango inferior a la ley dictadas por las Comunidades Autónomas.",
+            "d) De los recursos contra actos del Consejo de Ministros y Comisiones Delegadas del Gobierno."
+          ],
+          "respuesta_correcta": "d) De los recursos contra actos del Consejo de Ministros y Comisiones Delegadas del Gobierno.",
+          "cita": "LOPJ, Art. 66"
+        },
+        {
+          "pregunta": "¿De qué conoce la Sala de lo Social de la Audiencia Nacional (Art. 67)?",
+          "opciones": [
+            "a) De los recursos de suplicación contra las sentencias de los Juzgados de lo Social de Madrid.",
+            "b) De las demandas individuales por despido cuando la empresa tenga centros de trabajo en varias provincias.",
+            "c) De la impugnación de convenios colectivos de ámbito provincial.",
+            "d) De los procesos sobre conflictos colectivos cuyo ámbito territorial sea superior al de una Comunidad Autónoma."
+          ],
+          "respuesta_correcta": "c) De la impugnación de convenios colectivos de ámbito provincial.",
+          "cita": "LOPJ, Art. 67"
+        },
+        {
+          "pregunta": "¿Qué función tienen los Juzgados Centrales de Instrucción (Art. 88)?",
+          "opciones": [
+            "a) La instrucción y fallo de los delitos de terrorismo con penas de hasta 5 años.",
+            "b) El enjuiciamiento de los delitos leves de competencia de la Audiencia Nacional.",
+            "c) La ejecución de las sentencias dictadas por la Sala de lo Penal de la Audiencia Nacional.",
+            "d) La instrucción de las causas cuyo enjuiciamiento corresponda a la Sala de lo Penal de la Audiencia Nacional o a los Juzgados Centrales de lo Penal."
+          ],
+          "respuesta_correcta": "a) La instrucción y fallo de los delitos de terrorismo con penas de hasta 5 años.",
+          "cita": "LOPJ, Art. 88"
+        },
+        {
+          "pregunta": "¿Quién autoriza la extradición pasiva?",
+          "opciones": [
+            "a) La Sala de lo Penal de la Audiencia Nacional.",
+            "b) El Ministerio de Justicia previo informe del Consejo de Ministros.",
+            "c) El Juzgado Central de Instrucción.",
+            "d) El Tribunal Supremo en Sala de lo Penal."
+          ],
+          "respuesta_correcta": "b) El Ministerio de Justicia previo informe del Consejo de Ministros.",
+          "cita": "LOPJ, Art. 65.4"
+        },
+        {
+          "pregunta": "¿De qué conocen los Juzgados Centrales de lo Penal (Art. 89 bis)?",
+          "opciones": [
+            "a) De los delitos económicos cuya cuantía no exceda de 6 millones de euros.",
+            "b) De los delitos de terrorismo siempre que la pena no supere los 10 años.",
+            "c) De la instrucción y fallo de todos los delitos competencia de la Audiencia Nacional.",
+            "d) Del enjuiciamiento de los delitos competencia de la Audiencia Nacional cuando la pena privativa de libertad no exceda de cinco años o multa cualquiera que sea su cuantía."
+          ],
+          "respuesta_correcta": "b) De los delitos de terrorismo siempre que la pena no supere los 10 años.",
+          "cita": "LOPJ, Art. 89 bis.2"
+        },
+        {
+          "pregunta": "¿Qué Juzgado es competente para la ejecución de las órdenes europeas de detención y entrega (OEDE)?",
+          "opciones": [
+            "a) El Juzgado de Instrucción del lugar de detención.",
+            "b) El Juzgado Central de Instrucción.",
+            "c) La Sala de lo Penal de la Audiencia Nacional.",
+            "d) El Juzgado Central de lo Penal."
+          ],
+          "respuesta_correcta": "d) El Juzgado Central de lo Penal.",
+          "cita": "LOPJ, Art. 88 (Competencia OEDE)"
+        },
+        {
+          "pregunta": "En el Tribunal Supremo, ¿quién conoce de las demandas de responsabilidad civil contra el Presidente del Tribunal Supremo?",
+          "opciones": [
+            "a) La Sala de lo Civil (Sala Primera).",
+            "b) Una Sala formada por los Presidentes de Sala y el Magistrado más antiguo.",
+            "c) La Sala Especial del artículo 61.",
+            "d) El Pleno del Tribunal Supremo."
+          ],
+          "respuesta_correcta": "b) Una Sala formada por los Presidentes de Sala y el Magistrado más antiguo.",
+          "cita": "LOPJ, Art. 61.1.2º"
+        },
+        {
+          "pregunta": "¿Qué órgano conoce de la recusación del Presidente de la Audiencia Nacional?",
+          "opciones": [
+            "a) El Consejo General del Poder Judicial.",
+            "b) La Sala de Gobierno de la Audiencia Nacional.",
+            "c) La Sala Especial del artículo 61 del Tribunal Supremo.",
+            "d) El Pleno de la Sala de lo Penal de la Audiencia Nacional."
+          ],
+          "respuesta_correcta": "c) La Sala Especial del artículo 61 del Tribunal Supremo.",
+          "cita": "LOPJ, Art. 61.1.3º"
+        },
+        {
+          "pregunta": "¿De qué conoce el Juzgado Central de Vigilancia Penitenciaria (Art. 94)?",
+          "opciones": [
+            "a) De la ejecución de todas las penas privativas de libertad impuestas en España por delitos de terrorismo.",
+            "b) De los recursos de apelación contra las sanciones disciplinarias impuestas a los presos preventivos de la Audiencia Nacional.",
+            "c) De las funciones jurisdiccionales previstas en la Ley General Penitenciaria, en relación con los delitos competencia de la Audiencia Nacional.",
+            "d) De la inspección de los centros penitenciarios de máxima seguridad."
+          ],
+          "respuesta_correcta": "a) De la ejecución de todas las penas privativas de libertad impuestas en España por delitos de terrorismo.",
+          "cita": "LOPJ, Art. 94.4"
+        },
+        {
+          "pregunta": "¿Qué competencia tiene la Sala de lo Contencioso-Administrativo del TS respecto al CGPJ (Art. 58)?",
+          "opciones": [
+            "a) Conoce en apelación de las sentencias dictadas por la Audiencia Nacional sobre actos del CGPJ.",
+            "b) Conoce en única instancia de los recursos contra los actos y disposiciones del Consejo General del Poder Judicial.",
+            "c) No tiene competencia, ya que los actos del CGPJ solo son recurribles ante el Tribunal Constitucional.",
+            "d) Conoce de los recursos de casación contra las decisiones disciplinarias del CGPJ."
+          ],
+          "respuesta_correcta": "d) Conoce de los recursos de casación contra las decisiones disciplinarias del CGPJ.",
+          "cita": "LOPJ, Art. 58.1"
+        },
+        {
+          "pregunta": "¿Qué Sala del Tribunal Supremo conoce de los recursos de casación en materia penal?",
+          "opciones": [
+            "a) La Sala Primera.",
+            "b) La Sala del Art. 61.",
+            "c) La Sala Quinta.",
+            "d) La Sala Segunda."
+          ],
+          "respuesta_correcta": "a) La Sala Primera.",
+          "cita": "LOPJ, Art. 57"
+        },
+        {
+          "pregunta": "¿De qué conoce la Sala de lo Militar del Tribunal Supremo (Art. 60)?",
+          "opciones": [
+            "a) De los delitos de traición y espionaje en tiempo de guerra.",
+            "b) De los recursos contra las sanciones disciplinarias de la Guardia Civil en todo caso.",
+            "c) De las competencias que le atribuyan la legislación orgánica de la competencia y organización de la jurisdicción militar y la de procedimiento militar.",
+            "d) De los conflictos de jurisdicción entre la jurisdicción ordinaria y la militar."
+          ],
+          "respuesta_correcta": "d) De los conflictos de jurisdicción entre la jurisdicción ordinaria y la militar.",
+          "cita": "LOPJ, Art. 60"
+        },
+        {
+          "pregunta": "¿Qué órgano es competente para el enjuiciamiento de los delitos de piratería aérea?",
+          "opciones": [
+            "a) El Juzgado de Instrucción del lugar de aterrizaje.",
+            "b) La Audiencia Provincial de Madrid.",
+            "c) El Tribunal Supremo.",
+            "d) La Audiencia Nacional."
+          ],
+          "respuesta_correcta": "d) La Audiencia Nacional.",
+          "cita": "LOPJ, Art. 65.1.e"
+        },
+        {
+          "pregunta": "En la Audiencia Nacional, ¿quién conoce de los recursos contra los actos de la Comisión de Vigilancia de Actividades de Financiación del Terrorismo?",
+          "opciones": [
+            "a) La Sala de Apelación.",
+            "b) La Sala de lo Penal.",
+            "c) La Sala de lo Contencioso-Administrativo.",
+            "d) El Juzgado Central de lo Contencioso-Administrativo."
+          ],
+          "respuesta_correcta": "d) El Juzgado Central de lo Contencioso-Administrativo.",
+          "cita": "LOPJ, Art. 66"
+        },
+        {
+          "pregunta": "¿Cuántos Magistrados forman la Sala de Gobierno del Tribunal Supremo (Art. 149)?",
+          "opciones": [
+            "a) El Presidente, los Presidentes de Sala y un número de Magistrados igual al de éstos.",
+            "b) El Presidente del Tribunal Supremo, los cinco Presidentes de Sala y cinco Magistrados elegidos por el Pleno.",
+            "c) Doce miembros en total, incluyendo al Secretario de Gobierno.",
+            "d) El Presidente y los Presidentes de Sala únicamente."
+          ],
+          "respuesta_correcta": "d) El Presidente y los Presidentes de Sala únicamente.",
+          "cita": "LOPJ, Art. 149 (Órgano de Gobierno)"
+        },
+        {
+          "pregunta": "¿Qué juzgado conoce de la autorización judicial para la entrada en domicilios y restantes lugares cuyo acceso requiera el consentimiento de su titular, cuando proceda para la ejecución forzosa de actos de la Administración General del Estado?",
+          "opciones": [
+            "a) Los Juzgados de lo Contencioso-Administrativo provinciales.",
+            "b) La Sala de lo Contencioso de la Audiencia Nacional.",
+            "c) Los Juzgados Centrales de Instrucción.",
+            "d) Los Juzgados Centrales de lo Contencioso-Administrativo."
+          ],
+          "respuesta_correcta": "c) Los Juzgados Centrales de Instrucción.",
+          "cita": "LOPJ, Art. 90.4"
+        },
+        {
+          "pregunta": "¿Qué Juzgado es competente para conocer de los delitos de terrorismo cometidos por menores de edad?",
+          "opciones": [
+            "a) El Juzgado de Menores de la provincia donde resida el menor.",
+            "b) La Sala de Menores de la Audiencia Nacional.",
+            "c) El Juzgado Central de Instrucción en funciones de guardia.",
+            "d) El Juzgado Central de Menores."
+          ],
+          "respuesta_correcta": "c) El Juzgado Central de Instrucción en funciones de guardia.",
+          "cita": "LOPJ, Art. 96.2"
+        },
+        {
+          "pregunta": "¿Quién nombra al Presidente del Tribunal Supremo?",
+          "opciones": [
+            "a) El Gobierno mediante Real Decreto.",
+            "b) El Congreso de los Diputados por mayoría de tres quintos.",
+            "c) El Rey, a propuesta del Consejo General del Poder Judicial.",
+            "d) Los Magistrados del Tribunal Supremo mediante votación secreta."
+          ],
+          "respuesta_correcta": "a) El Gobierno mediante Real Decreto.",
+          "cita": "LOPJ, Art. 586"
+        },
+        {
+          "pregunta": "¿Qué es la 'unificación de doctrina' en el ámbito contencioso-administrativo?",
+          "opciones": [
+            "a) Una reunión anual de todos los Presidentes de TSJ para acordar criterios comunes.",
+            "b) Un recurso extraordinario ante el Tribunal Supremo para garantizar la igualdad en la aplicación de la ley cuando existen sentencias contradictorias.",
+            "c) La obligación de los jueces inferiores de consultar al Supremo antes de dictar sentencia en casos complejos.",
+            "d) Una circular vinculante emitida por la Fiscalía General del Estado."
+          ],
+          "respuesta_correcta": "c) La obligación de los jueces inferiores de consultar al Supremo antes de dictar sentencia en casos complejos.",
+          "cita": "LOPJ, (Concepto procesal derivado de competencias TS)"
+        },
+        {
+          "pregunta": "¿Qué competencia tiene la Sala de lo Penal del TS respecto a las causas contra Magistrados de la Audiencia Nacional?",
+          "opciones": [
+            "a) Solo casación de las sentencias dictadas por otros órganos.",
+            "b) Solo enjuiciamiento, la instrucción corresponde al Tribunal Superior de Justicia de Madrid.",
+            "c) Instrucción y enjuiciamiento de las causas contra los Magistrados de la Audiencia Nacional y de los Tribunales Superiores de Justicia.",
+            "d) No tiene competencia, corresponde a la Sala Especial del artículo 61."
+          ],
+          "respuesta_correcta": "a) Solo casación de las sentencias dictadas por otros órganos.",
+          "cita": "LOPJ, Art. 57.1.3º"
+        },
+        {
+          "pregunta": "¿Qué órgano conoce de los conflictos de jurisdicción entre los Juzgados y la Administración?",
+          "opciones": [
+            "a) La Sala Especial del artículo 61 del TS.",
+            "b) La Sala de Conflictos de la Audiencia Nacional.",
+            "c) El Tribunal Constitucional.",
+            "d) El Tribunal de Conflictos de Jurisdicción, presidido por el Presidente del Tribunal Supremo."
+          ],
+          "respuesta_correcta": "d) El Tribunal de Conflictos de Jurisdicción, presidido por el Presidente del Tribunal Supremo.",
+          "cita": "LOPJ, Art. 38"
+        },
+        {
+          "pregunta": "¿Quién instruye las causas contra el Presidente de la Audiencia Nacional?",
+          "opciones": [
+            "a) El Presidente del Tribunal Supremo.",
+            "b) Un Magistrado del Tribunal Superior de Justicia de Madrid.",
+            "c) El Juzgado Central de Instrucción Decano.",
+            "d) Un Magistrado de la Sala Segunda del Tribunal Supremo que no formará parte de la Sala enjuiciadora."
+          ],
+          "respuesta_correcta": "d) Un Magistrado de la Sala Segunda del Tribunal Supremo que no formará parte de la Sala enjuiciadora.",
+          "cita": "LOPJ, Art. 57"
+        },
+        {
+          "pregunta": "Según el artículo 70 de la LOPJ, ¿cuál es la jurisdicción del Tribunal Superior de Justicia?",
+          "opciones": [
+            "a) Es el órgano de gobierno del Poder Judicial en la Comunidad Autónoma, dependiente del Ministerio de Justicia.",
+            "b) El Tribunal Superior de Justicia culminará la organización judicial en el ámbito territorial de la Comunidad Autónoma, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo.",
+            "c) Es el órgano jurisdiccional superior en todos los órdenes dentro de la Comunidad Autónoma, incluyendo la casación penal.",
+            "d) Tiene jurisdicción limitada a los asuntos de derecho civil foral y contencioso-administrativo autonómico."
+          ],
+          "respuesta_correcta": "c) Es el órgano jurisdiccional superior en todos los órdenes dentro de la Comunidad Autónoma, incluyendo la casación penal.",
+          "cita": "LOPJ, Art. 70"
+        },
+        {
+          "pregunta": "¿De qué Salas se compone el Tribunal Superior de Justicia (Art. 72)?",
+          "opciones": [
+            "a) De lo Civil y Penal, de lo Contencioso-Administrativo y de lo Social.",
+            "b) De lo Civil, de lo Penal, de lo Contencioso y de lo Social, en salas separadas.",
+            "c) Sala de Gobierno y Sala de Justicia.",
+            "d) De Apelación, de lo Civil y Penal y de lo Social."
+          ],
+          "respuesta_correcta": "d) De Apelación, de lo Civil y Penal y de lo Social.",
+          "cita": "LOPJ, Art. 72.1"
+        },
+        {
+          "pregunta": "¿Qué competencia tiene la Sala de lo Civil y Penal del TSJ en materia penal (Art. 73)?",
+          "opciones": [
+            "a) La resolución de los recursos de casación contra sentencias de las Audiencias Provinciales.",
+            "b) La instrucción y el fallo de las causas penales contra jueces, magistrados y fiscales por delitos cometidos en el ejercicio de su cargo en la Comunidad Autónoma, siempre que no corresponda al Tribunal Supremo.",
+            "c) El enjuiciamiento de todos los delitos graves cometidos en el territorio de la Comunidad Autónoma.",
+            "d) La instrucción de las causas contra los Diputados del Congreso elegidos por esa circunscripción."
+          ],
+          "respuesta_correcta": "c) El enjuiciamiento de todos los delitos graves cometidos en el territorio de la Comunidad Autónoma.",
+          "cita": "LOPJ, Art. 73.3.b"
+        },
+        {
+          "pregunta": "¿De qué conoce la Sala de lo Contencioso-Administrativo del TSJ en única instancia (Art. 74)?",
+          "opciones": [
+            "a) De los recursos contra los actos y disposiciones generales emanados de los órganos de gobierno de la Comunidad Autónoma y de las Entidades Locales de su territorio.",
+            "b) De las demandas de responsabilidad patrimonial contra el Estado por hechos ocurridos en la región.",
+            "c) De los recursos contra actos del Consejo de Ministros que afecten a la Comunidad Autónoma.",
+            "d) De los conflictos de competencias entre la Comunidad Autónoma y el Estado."
+          ],
+          "respuesta_correcta": "d) De los conflictos de competencias entre la Comunidad Autónoma y el Estado.",
+          "cita": "LOPJ, Art. 74.1.a"
+        },
+        {
+          "pregunta": "¿Qué recurso conoce la Sala de lo Social del TSJ (Art. 75)?",
+          "opciones": [
+            "a) De las demandas de despido colectivo que afecten a trabajadores de una sola provincia.",
+            "b) De los recursos de casación para la unificación de doctrina en materia laboral.",
+            "c) De los recursos de queja contra las resoluciones del Servicio de Mediación, Arbitraje y Conciliación.",
+            "d) De los recursos de suplicación contra las resoluciones de los Juzgados de lo Social de la Comunidad Autónoma."
+          ],
+          "respuesta_correcta": "d) De los recursos de suplicación contra las resoluciones de los Juzgados de lo Social de la Comunidad Autónoma.",
+          "cita": "LOPJ, Art. 75"
+        },
+        {
+          "pregunta": "¿Quién nombra al Presidente del Tribunal Superior de Justicia?",
+          "opciones": [
+            "a) El Presidente de la Comunidad Autónoma, previo informe del CGPJ.",
+            "b) El Ministro de Justicia a propuesta del Presidente del Tribunal Supremo.",
+            "c) El Rey, a propuesta del Consejo General del Poder Judicial.",
+            "d) La Asamblea Legislativa de la Comunidad Autónoma por mayoría absoluta."
+          ],
+          "respuesta_correcta": "c) El Rey, a propuesta del Consejo General del Poder Judicial.",
+          "cita": "LOPJ, Art. 335 (Regla general nombramientos altos cargos judiciales)"
+        },
+        {
+          "pregunta": "¿Qué competencia tiene la Sala de lo Civil y Penal del TSJ respecto al Derecho Foral (Art. 73)?",
+          "opciones": [
+            "a) Del recurso de casación contra resoluciones de órganos jurisdiccionales del orden civil con sede en la Comunidad Autónoma, siempre que el recurso se funde en infracción de normas del Derecho Civil, Foral o Especial, propio de la Comunidad.",
+            "b) De la creación de nuevas normas de derecho foral mediante jurisprudencia vinculante.",
+            "c) De la unificación de doctrina en materia civil estatal cuando existan sentencias contradictorias de las Audiencias Provinciales.",
+            "d) No tiene competencia en derecho foral, que corresponde al Tribunal Supremo."
+          ],
+          "respuesta_correcta": "a) Del recurso de casación contra resoluciones de órganos jurisdiccionales del orden civil con sede en la Comunidad Autónoma, siempre que el recurso se funde en infracción de normas del Derecho Civil, Foral o Especial, propio de la Comunidad.",
+          "cita": "LOPJ, Art. 73.1.a"
+        },
+        {
+          "pregunta": "¿De qué conoce la Sala de lo Civil y Penal del TSJ respecto a los miembros del Gobierno y Parlamento autonómicos (Art. 73)?",
+          "opciones": [
+            "a) Solo de la instrucción, siendo el enjuiciamiento competencia del Tribunal Supremo.",
+            "b) Del enjuiciamiento de las causas penales que los Estatutos de Autonomía reservan al Tribunal Superior de Justicia por aforamiento.",
+            "c) De los recursos contra sus actos administrativos.",
+            "d) De las demandas civiles de separación y divorcio de estos cargos públicos."
+          ],
+          "respuesta_correcta": "a) Solo de la instrucción, siendo el enjuiciamiento competencia del Tribunal Supremo.",
+          "cita": "LOPJ, Art. 73.3.a"
+        },
+        {
+          "pregunta": "Según el artículo 80, ¿dónde tienen su sede las Audiencias Provinciales?",
+          "opciones": [
+            "a) En cada partido judicial que tenga más de dos Juzgados de Primera Instancia.",
+            "b) En la capital de la Comunidad Autónoma, compartiendo sede con el TSJ.",
+            "c) En la capital de la provincia, de la que tomarán su nombre, y extenderán su jurisdicción a toda ella, sin perjuicio de la existencia de Secciones desplazadas.",
+            "d) En las ciudades con más de 100.000 habitantes."
+          ],
+          "respuesta_correcta": "b) En la capital de la Comunidad Autónoma, compartiendo sede con el TSJ.",
+          "cita": "LOPJ, Art. 80.1"
+        },
+        {
+          "pregunta": "¿De qué órdenes jurisdiccionales conocen las Audiencias Provinciales (Art. 82)?",
+          "opciones": [
+            "a) De los órdenes civil, penal y contencioso-administrativo.",
+            "b) De los órdenes civil y penal.",
+            "c) Exclusivamente del orden penal.",
+            "d) De todos los órdenes jurisdiccionales en segunda instancia."
+          ],
+          "respuesta_correcta": "a) De los órdenes civil, penal y contencioso-administrativo.",
+          "cita": "LOPJ, Art. 82"
+        },
+        {
+          "pregunta": "¿Qué competencia tienen las Audiencias Provinciales en materia penal (Art. 82)?",
+          "opciones": [
+            "a) De la instrucción de todos los delitos cometidos en la provincia.",
+            "b) Del enjuiciamiento de los delitos leves.",
+            "c) De los recursos de casación penal.",
+            "d) Del enjuiciamiento de las causas por delito, a excepción de las que la Ley atribuye a los Juzgados de lo Penal o de otros Tribunales previstos en esta Ley (generalmente delitos con pena grave)."
+          ],
+          "respuesta_correcta": "c) De los recursos de casación penal.",
+          "cita": "LOPJ, Art. 82.1.1º"
+        },
+        {
+          "pregunta": "¿De qué recursos conocen las Audiencias Provinciales en materia penal (Art. 82)?",
+          "opciones": [
+            "a) De los recursos de casación contra las sentencias de los Juzgados de lo Penal.",
+            "b) De los recursos de amparo contra decisiones judiciales.",
+            "c) De los recursos de revisión contra sentencias firmes.",
+            "d) De los recursos de apelación contra las resoluciones dictadas por los Juzgados de Instrucción, de lo Penal, de Violencia sobre la Mujer, de Vigilancia Penitenciaria y de Menores de la provincia."
+          ],
+          "respuesta_correcta": "b) De los recursos de amparo contra decisiones judiciales.",
+          "cita": "LOPJ, Art. 82.1.2º"
+        },
+        {
+          "pregunta": "¿Qué función tiene el Presidente de la Audiencia Provincial?",
+          "opciones": [
+            "a) Nombra a los jueces sustitutos de la provincia.",
+            "b) Ejerce la inspección disciplinaria de los abogados y procuradores.",
+            "c) Es el jefe superior de todos los funcionarios de justicia de la provincia.",
+            "d) Preside la Audiencia y la Sección Primera, y ejerce las funciones gubernativas sobre los juzgados de la provincia que no estén atribuidas al Juez Decano."
+          ],
+          "respuesta_correcta": "d) Preside la Audiencia y la Sección Primera, y ejerce las funciones gubernativas sobre los juzgados de la provincia que no estén atribuidas al Juez Decano.",
+          "cita": "LOPJ, Art. 160 y ss. (Funciones gubernativas)"
+        },
+        {
+          "pregunta": "¿Pueden crearse Secciones de la Audiencia Provincial fuera de la capital (Art. 80)?",
+          "opciones": [
+            "a) Sí, pueden crearse Secciones de Apelación Penal en ciudades de más de 500.000 habitantes.",
+            "b) Sí, pero solo para asuntos civiles.",
+            "c) No, la sede de la Audiencia es única e indivisible en la capital.",
+            "d) Sí, el Gobierno, a propuesta del Consejo General del Poder Judicial y con informe de la Comunidad Autónoma, podrá acordar la creación de Secciones de la Audiencia Provincial fuera de la capital de la provincia, a las que adscribirá uno o varios partidos judiciales."
+          ],
+          "respuesta_correcta": "c) No, la sede de la Audiencia es única e indivisible en la capital.",
+          "cita": "LOPJ, Art. 80.3"
+        },
+        {
+          "pregunta": "¿Quién conoce del juicio por jurado en el ámbito provincial?",
+          "opciones": [
+            "a) El Tribunal Superior de Justicia.",
+            "b) El Tribunal del Jurado se constituye en el ámbito de la Audiencia Provincial.",
+            "c) El Juzgado de Instrucción.",
+            "d) El Juzgado de lo Penal."
+          ],
+          "respuesta_correcta": "a) El Tribunal Superior de Justicia.",
+          "cita": "Ley del Jurado / LOPJ Art. 83"
+        },
+        {
+          "pregunta": "Según el artículo 84, ¿dónde habrá Juzgados de Primera Instancia e Instrucción?",
+          "opciones": [
+            "a) En cada provincia habrá un único Juzgado de Primera Instancia e Instrucción con sede en la capital.",
+            "b) En cada municipio de más de 10.000 habitantes.",
+            "c) Solo en las capitales de provincia y ciudades autónomas.",
+            "d) En cada partido judicial habrá uno o más Juzgados de Primera Instancia e Instrucción con sede en la capital de aquel y jurisdicción en todo su ámbito territorial."
+          ],
+          "respuesta_correcta": "a) En cada provincia habrá un único Juzgado de Primera Instancia e Instrucción con sede en la capital.",
+          "cita": "LOPJ, Art. 84"
+        },
+        {
+          "pregunta": "¿Pueden separarse los Juzgados de Primera Instancia y los de Instrucción (Art. 89)?",
+          "opciones": [
+            "a) Sí, la Ley de Planta podrá establecer que en determinados partidos judiciales haya Juzgados de Primera Instancia y Juzgados de Instrucción por separado.",
+            "b) Solo pueden separarse temporalmente por razones de sobrecarga de trabajo.",
+            "c) Sí, pero solo en Madrid y Barcelona.",
+            "d) No, la jurisdicción mixta es obligatoria en todos los partidos judiciales para garantizar la unidad jurisdiccional."
+          ],
+          "respuesta_correcta": "a) Sí, la Ley de Planta podrá establecer que en determinados partidos judiciales haya Juzgados de Primera Instancia y Juzgados de Instrucción por separado.",
+          "cita": "LOPJ, Art. 89"
+        },
+        {
+          "pregunta": "¿De qué conocen los Juzgados de lo Penal (Art. 89 bis)?",
+          "opciones": [
+            "a) De los recursos de apelación contra las sentencias de los Juzgados de Paz.",
+            "b) Del enjuiciamiento de los delitos castigados con pena privativa de libertad no superior a cinco años, o pena de multa cualquiera que sea su cuantía, o cualesquiera otras de distinta naturaleza (hasta 10 años).",
+            "c) De los juicios por delitos graves con pena de hasta 15 años de prisión.",
+            "d) De la instrucción de todos los delitos menos graves."
+          ],
+          "respuesta_correcta": "d) De la instrucción de todos los delitos menos graves.",
+          "cita": "LOPJ, Art. 14.1 LECrim (Ref. competencial)"
+        },
+        {
+          "pregunta": "¿De qué conocen los Juzgados de Violencia sobre la Mujer (Art. 87 ter)?",
+          "opciones": [
+            "a) De los divorcios contenciosos cuando no hay violencia, para descargar a los juzgados de familia.",
+            "b) Exclusivamente de los delitos penales de violencia de género, sin competencias civiles.",
+            "c) De la instrucción de los delitos de violencia de género, y del conocimiento y fallo de los delitos leves de esa naturaleza, así como de los procedimientos civiles de familia relacionados cuando se tramiten simultáneamente causas penales.",
+            "d) De la instrucción y fallo de todos los delitos de violencia de género, incluidas las penas graves."
+          ],
+          "respuesta_correcta": "a) De los divorcios contenciosos cuando no hay violencia, para descargar a los juzgados de familia.",
+          "cita": "LOPJ, Art. 87 ter"
+        },
+        {
+          "pregunta": "¿Qué competencia tienen los Juzgados de lo Contencioso-Administrativo (Art. 90)?",
+          "opciones": [
+            "a) Conocen, en primera o única instancia, de los recursos contencioso-administrativos contra actos de las Entidades Locales y de la Administración de las Comunidades Autónomas, salvo los atribuidos a los TSJ.",
+            "b) De los recursos contra actos del Consejo de Ministros.",
+            "c) De los delitos de prevaricación administrativa.",
+            "d) De las demandas civiles contra la Administración."
+          ],
+          "respuesta_correcta": "b) De los recursos contra actos del Consejo de Ministros.",
+          "cita": "LOPJ, Art. 90 y 91"
+        },
+        {
+          "pregunta": "¿De qué conocen los Juzgados de lo Social (Art. 92)?",
+          "opciones": [
+            "a) De los concursos de acreedores de empresas.",
+            "b) De las querellas por delitos contra los derechos de los trabajadores.",
+            "c) De las reclamaciones de responsabilidad patrimonial sanitaria.",
+            "d) De los procesos en materia laboral y de seguridad social que no estén atribuidos a otros órganos de este orden jurisdiccional."
+          ],
+          "respuesta_correcta": "c) De las reclamaciones de responsabilidad patrimonial sanitaria.",
+          "cita": "LOPJ, Art. 92 y 93"
+        },
+        {
+          "pregunta": "¿Qué función tienen los Juzgados de Vigilancia Penitenciaria (Art. 94)?",
+          "opciones": [
+            "a) Ejecutar lo juzgado en materia de penas privativas de libertad, resolver recursos sobre clasificación y tratamiento penitenciario, y salvaguardar los derechos de los internos.",
+            "b) Vigilar el perímetro exterior de las prisiones.",
+            "c) Juzgar los delitos cometidos dentro de las cárceles por los internos.",
+            "d) Aprobar los presupuestos de las prisiones."
+          ],
+          "respuesta_correcta": "c) Juzgar los delitos cometidos dentro de las cárceles por los internos.",
+          "cita": "LOPJ, Art. 94.1"
+        },
+        {
+          "pregunta": "¿De qué conocen los Juzgados de Menores (Art. 96)?",
+          "opciones": [
+            "a) De las demandas de custodia y patria potestad.",
+            "b) De la protección de menores en situación de desamparo.",
+            "c) De los delitos cometidos contra menores de edad.",
+            "d) Del enjuiciamiento de los delitos cometidos por mayores de 14 años y menores de 18, así como de la ejecución de las medidas impuestas."
+          ],
+          "respuesta_correcta": "c) De los delitos cometidos contra menores de edad.",
+          "cita": "LOPJ, Art. 96 y 97"
+        },
+        {
+          "pregunta": "¿De qué conocen los Juzgados de lo Mercantil (Art. 86 bis)?",
+          "opciones": [
+            "a) De las reclamaciones de consumo de poca cuantía.",
+            "b) De los delitos societarios y estafas mercantiles.",
+            "c) De los litigios sobre arrendamientos urbanos de locales de negocio.",
+            "d) De los concursos de acreedores, propiedad industrial, competencia desleal, publicidad, transportes y derecho marítimo, entre otros."
+          ],
+          "respuesta_correcta": "a) De las reclamaciones de consumo de poca cuantía.",
+          "cita": "LOPJ, Art. 86 bis"
+        },
+        {
+          "pregunta": "¿Qué son los Juzgados de Marca de la Unión Europea (Art. 86 bis 4)?",
+          "opciones": [
+            "a) Son juzgados especiales creados en cada capital de Comunidad Autónoma.",
+            "b) Son los Juzgados de lo Mercantil de Madrid por ser la capital del Estado.",
+            "c) Es una sección del Tribunal de Justicia de la Unión Europea con sede en Luxemburgo.",
+            "d) Son los Juzgados de lo Mercantil de Alicante, que tienen competencia exclusiva en primera instancia para conocer de los litigios sobre marcas de la UE y dibujos y modelos comunitarios."
+          ],
+          "respuesta_correcta": "b) Son los Juzgados de lo Mercantil de Madrid por ser la capital del Estado.",
+          "cita": "LOPJ, Art. 86 bis.4"
+        },
+        {
+          "pregunta": "¿Dónde existen Juzgados de Paz (Art. 99)?",
+          "opciones": [
+            "a) En cada municipio donde no exista Juzgado de Primera Instancia e Instrucción, con jurisdicción en el término correspondiente.",
+            "b) Solo en los municipios de menos de 5.000 habitantes.",
+            "c) En todos los municipios de España, como primer escalón de la justicia.",
+            "d) En las pedanías y barrios rurales alejados de la capital."
+          ],
+          "respuesta_correcta": "a) En cada municipio donde no exista Juzgado de Primera Instancia e Instrucción, con jurisdicción en el término correspondiente.",
+          "cita": "LOPJ, Art. 99.1"
+        },
+        {
+          "pregunta": "¿Quién nombra a los Jueces de Paz (Art. 101)?",
+          "opciones": [
+            "a) Los vecinos del municipio mediante elección popular directa.",
+            "b) El Consejo General del Poder Judicial mediante concurso de méritos.",
+            "c) El Alcalde del municipio mediante decreto.",
+            "d) La Sala de Gobierno del Tribunal Superior de Justicia, a propuesta del Pleno del Ayuntamiento respectivo."
+          ],
+          "respuesta_correcta": "a) Los vecinos del municipio mediante elección popular directa.",
+          "cita": "LOPJ, Art. 101.1"
+        },
+        {
+          "pregunta": "¿Cuál es la duración del mandato de los Jueces de Paz (Art. 101)?",
+          "opciones": [
+            "a) Cinco años.",
+            "b) Indefinida hasta la jubilación.",
+            "c) Cuatro años.",
+            "d) Tres años."
+          ],
+          "respuesta_correcta": "c) Cuatro años.",
+          "cita": "LOPJ, Art. 101.1"
+        },
+        {
+          "pregunta": "¿Qué requisitos se exigen para ser Juez de Paz (Art. 102)?",
+          "opciones": [
+            "a) Ser licenciado en Derecho y tener más de 30 años.",
+            "b) Ser funcionario público jubilado o profesional de reconocido prestigio.",
+            "c) Los mismos que para ser Juez de carrera, excepto la licenciatura en Derecho (pueden ser legos), y no estar incurso en causa de incapacidad o incompatibilidad.",
+            "d) Residir en el municipio desde hace al menos diez años."
+          ],
+          "respuesta_correcta": "b) Ser funcionario público jubilado o profesional de reconocido prestigio.",
+          "cita": "LOPJ, Art. 102"
+        },
+        {
+          "pregunta": "¿Qué competencias tienen los Juzgados de Paz en el orden civil (Art. 100)?",
+          "opciones": [
+            "a) Conocen de los asuntos de cuantía no superior a 90 euros que no estén atribuidos a otros juzgados (juicios verbales de mínima cuantía) y funciones de Registro Civil.",
+            "b) Conocen de los divorcios de mutuo acuerdo y las herencias sin testamento.",
+            "c) Actúan como mediadores en conflictos vecinales sin capacidad jurisdiccional.",
+            "d) No tienen competencias civiles, solo penales por delitos leves."
+          ],
+          "respuesta_correcta": "b) Conocen de los divorcios de mutuo acuerdo y las herencias sin testamento.",
+          "cita": "LOPJ, Art. 100.1 / LEC"
+        },
+        {
+          "pregunta": "¿Qué son los 'Tribunales de Instancia' (previstos en proyectos de reforma LOPJ, aún no generalizados, pero conceptualmente relevantes)?",
+          "opciones": [
+            "a) Juzgados de guardia permanente 24 horas.",
+            "b) Órganos de apelación intermedios entre la Audiencia Provincial y el TSJ.",
+            "c) Tribunales especiales para delitos leves creados para descongestionar la justicia.",
+            "d) Un nuevo modelo organizativo que agruparía a todos los juzgados de un mismo partido judicial en un único tribunal colegiado con secciones especializadas, sustituyendo a los juzgados unipersonales."
+          ],
+          "respuesta_correcta": "c) Tribunales especiales para delitos leves creados para descongestionar la justicia.",
+          "cita": "Proyecto Ley Eficiencia Organizativa (Concepto teórico actual)"
+        },
+        {
+          "pregunta": "¿Quién resuelve los conflictos de competencia entre Juzgados de distinto orden jurisdiccional?",
+          "opciones": [
+            "a) El Consejo General del Poder Judicial.",
+            "b) El Tribunal Constitucional.",
+            "c) La Sala Especial de Conflictos de Competencia del Tribunal Supremo, formada por el Presidente del TS y dos Magistrados de cada orden en conflicto.",
+            "d) El Tribunal Superior de Justicia de la Comunidad Autónoma."
+          ],
+          "respuesta_correcta": "b) El Tribunal Constitucional.",
+          "cita": "LOPJ, Art. 42"
+        },
+        {
+          "pregunta": "¿Qué órgano conoce de la responsabilidad civil de los Jueces de Paz?",
+          "opciones": [
+            "a) El Juez de Primera Instancia del partido judicial.",
+            "b) El Tribunal Supremo.",
+            "c) La Audiencia Provincial.",
+            "d) El Tribunal Superior de Justicia."
+          ],
+          "respuesta_correcta": "b) El Tribunal Supremo.",
+          "cita": "LOPJ (Reglas competencia responsabilidad civil jueces aforados vs no aforados)"
+        },
+        {
+          "pregunta": "¿En qué casos actúa el Tribunal del Jurado (Art. 83)?",
+          "opciones": [
+            "a) En los delitos de terrorismo y crimen organizado.",
+            "b) En los delitos contra las personas, delitos cometidos por funcionarios públicos en el ejercicio de sus cargos, delitos contra el honor, delitos contra la libertad y la seguridad, y delitos de incendios, según determine su Ley Orgánica.",
+            "c) Solo en los delitos de homicidio y asesinato consumados.",
+            "d) En todos los delitos castigados con pena de prisión superior a 10 años."
+          ],
+          "respuesta_correcta": "a) En los delitos de terrorismo y crimen organizado.",
+          "cita": "LOPJ, Art. 83"
+        },
+        {
+          "pregunta": "¿Quién ejerce la potestad jurisdiccional en todo tipo de procesos, juzgando y haciendo ejecutar lo juzgado?",
+          "opciones": [
+            "a) El Consejo General del Poder Judicial.",
+            "b) El Ministro de Justicia a través de sus funcionarios.",
+            "c) Los Juzgados y Tribunales determinados por las leyes, según las normas de competencia y procedimiento.",
+            "d) El Rey como Jefe del Estado y fuente de justicia."
+          ],
+          "respuesta_correcta": "d) El Rey como Jefe del Estado y fuente de justicia.",
+          "cita": "LOPJ, Art. 117 CE y Art. 1 y 2 LOPJ"
+        },
+        {
+          "pregunta": "¿Qué es la 'unidad jurisdiccional' (Art. 3 LOPJ)?",
+          "opciones": [
+            "a) Significa que solo existe un Tribunal Supremo para toda España.",
+            "b) Es la base de la organización y funcionamiento de los Tribunales. El Estado se organiza territorialmente, a efectos judiciales, en municipios, partidos, provincias y Comunidades Autónomas.",
+            "c) Es la prohibición de crear tribunales autonómicos independientes.",
+            "d) Implica que todos los jueces deben aplicar la ley de la misma manera."
+          ],
+          "respuesta_correcta": "b) Es la base de la organización y funcionamiento de los Tribunales. El Estado se organiza territorialmente, a efectos judiciales, en municipios, partidos, provincias y Comunidades Autónomas.",
+          "cita": "LOPJ, Art. 3.1"
+        },
+        {
+          "pregunta": "¿Pueden los Tribunales ejercer funciones distintas a la jurisdiccional (Art. 2 LOPJ)?",
+          "opciones": [
+            "a) No, los Juzgados y Tribunales no ejercerán más funciones que las señaladas en el apartado anterior y las que expresamente les sean atribuidas por ley en garantía de cualquier derecho.",
+            "b) No, salvo la llevanza del Registro Civil y la participación en juntas electorales.",
+            "c) Sí, pueden ejercer funciones administrativas y consultivas si se lo pide el Gobierno.",
+            "d) Sí, los jueces pueden ser asesores políticos sin perder su condición."
+          ],
+          "respuesta_correcta": "a) No, los Juzgados y Tribunales no ejercerán más funciones que las señaladas en el apartado anterior y las que expresamente les sean atribuidas por ley en garantía de cualquier derecho.",
+          "cita": "LOPJ, Art. 2.2"
+        },
+        {
+          "pregunta": "¿Qué carácter tienen las actuaciones judiciales (Art. 229 y ss)?",
+          "opciones": [
+            "a) Serán escritas en todo caso para garantizar la seguridad jurídica.",
+            "b) Serán reservadas hasta que recaiga sentencia firme.",
+            "c) Serán siempre secretas para proteger la intimidad de las partes.",
+            "d) Serán públicas, salvo las excepciones que prevean las leyes de procedimiento, y predominantemente orales, sobre todo en materia criminal."
+          ],
+          "respuesta_correcta": "a) Serán escritas en todo caso para garantizar la seguridad jurídica.",
+          "cita": "LOPJ, Art. 120 CE y Art. 229 LOPJ"
+        },
+        {
+          "pregunta": "¿Cuándo se produce la pérdida de la condición de Juez o Magistrado (Art. 379)?",
+          "opciones": [
+            "a) Por renuncia, pérdida de la nacionalidad española, sanción disciplinaria de separación de la carrera, condena a pena privativa de libertad por delito doloso, incapacidad permanente o jubilación.",
+            "b) Por afiliación a un partido político o sindicato.",
+            "c) Por matrimonio con otro miembro de la carrera judicial en el mismo partido.",
+            "d) Por traslado forzoso a otro destino o suspensión de funciones por más de seis meses."
+          ],
+          "respuesta_correcta": "b) Por afiliación a un partido político o sindicato.",
+          "cita": "LOPJ, Art. 379.1"
+        },
+        {
+          "pregunta": "¿Qué prohibición específica tienen los Jueces y Magistrados (Art. 395)?",
+          "opciones": [
+            "a) No podrán contraer matrimonio sin autorización del Consejo General del Poder Judicial.",
+            "b) No podrán ejercer el derecho al voto en las elecciones generales.",
+            "c) No podrán pertenecer a partidos políticos o sindicatos o tener empleo al servicio de los mismos, aunque sí podrán pertenecer a asociaciones profesionales de Jueces y Magistrados.",
+            "d) No podrán tener propiedades inmobiliarias fuera de su lugar de residencia."
+          ],
+          "respuesta_correcta": "c) No podrán pertenecer a partidos políticos o sindicatos o tener empleo al servicio de los mismos, aunque sí podrán pertenecer a asociaciones profesionales de Jueces y Magistrados.",
+          "cita": "LOPJ, Art. 395"
+        },
+        {
+          "pregunta": "¿Quién defiende la legalidad, los derechos de los ciudadanos y el interés público tutelado por la ley?",
+          "opciones": [
+            "a) El Ministerio Fiscal, que ejerce sus funciones conforme a los principios de unidad de actuación y dependencia jerárquica y con sujeción a los de legalidad e imparcialidad.",
+            "b) Los Jueces de Instrucción de oficio.",
+            "c) El Abogado del Estado en representación del Gobierno.",
+            "d) El Defensor del Pueblo."
+          ],
+          "respuesta_correcta": "c) El Abogado del Estado en representación del Gobierno.",
+          "cita": "LOPJ, Art. 541 / Art. 124 CE"
+        },
+        {
+          "pregunta": "¿Qué es la Oficina Judicial (Art. 435)?",
+          "opciones": [
+            "a) El despacho personal del Juez donde recibe a las visitas.",
+            "b) El edificio donde se ubican los juzgados de una localidad.",
+            "c) El servicio de atención al ciudadano del Ministerio de Justicia.",
+            "d) La organización de carácter instrumental que sirve de soporte y apoyo a la actividad jurisdiccional de Jueces y Tribunales."
+          ],
+          "respuesta_correcta": "b) El edificio donde se ubican los juzgados de una localidad.",
+          "cita": "LOPJ, Art. 435.1"
+        },
+        {
+          "pregunta": "¿Quién dirige la Oficina Judicial?",
+          "opciones": [
+            "a) El Presidente de la Audiencia Provincial.",
+            "b) El funcionario del Cuerpo de Gestión Procesal más antiguo.",
+            "c) El Letrado de la Administración de Justicia (antes Secretario Judicial).",
+            "d) El Juez Decano."
+          ],
+          "respuesta_correcta": "d) El Juez Decano.",
+          "cita": "LOPJ, Art. 452.1"
+        },
+        {
+          "pregunta": "¿Qué cuerpo de funcionarios auxilia a la Administración de Justicia?",
+          "opciones": [
+            "a) La Policía Nacional adscrita a los Juzgados.",
+            "b) Los abogados y procuradores de los Colegios Profesionales.",
+            "c) Los Cuerpos Generales de la Administración del Estado (Administrativos y Auxiliares).",
+            "d) Los Cuerpos de Gestión Procesal y Administrativa, Tramitación Procesal y Administrativa, y Auxilio Judicial, además de los Médicos Forenses."
+          ],
+          "respuesta_correcta": "d) Los Cuerpos de Gestión Procesal y Administrativa, Tramitación Procesal y Administrativa, y Auxilio Judicial, además de los Médicos Forenses.",
+          "cita": "LOPJ, Art. 475"
+        },
+        {
+          "pregunta": "¿Qué es la Policía Judicial en sentido estricto (Art. 547)?",
+          "opciones": [
+            "a) Las Unidades Orgánicas de la Policía Judicial que dependen funcionalmente de los Jueces, Tribunales y Ministerio Fiscal en la averiguación del delito y descubrimiento y aseguramiento del delincuente.",
+            "b) Cualquier fuerza de seguridad que intervenga en un delito.",
+            "c) Los vigilantes de seguridad de los edificios judiciales.",
+            "d) Los agentes judiciales encargados de los embargos."
+          ],
+          "respuesta_correcta": "b) Cualquier fuerza de seguridad que intervenga en un delito.",
+          "cita": "LOPJ, Art. 547 y ss."
+        },
+        {
+          "pregunta": "¿Quién resuelve las cuestiones de competencia entre juzgados del mismo orden jurisdiccional?",
+          "opciones": [
+            "a) El Tribunal Supremo en todo caso.",
+            "b) El órgano inmediato superior común a ambos.",
+            "c) El Consejo General del Poder Judicial.",
+            "d) El Juez Decano del partido judicial."
+          ],
+          "respuesta_correcta": "c) El Consejo General del Poder Judicial.",
+          "cita": "LOPJ, Art. 51.1"
+        },
+        {
+          "pregunta": "¿Qué recurso cabe contra los actos del Presidente del TSJ?",
+          "opciones": [
+            "a) Recurso de alzada ante la Comisión Permanente del Consejo General del Poder Judicial.",
+            "b) No cabe recurso alguno.",
+            "c) Recurso de reposición ante el propio Presidente.",
+            "d) Recurso contencioso-administrativo directo."
+          ],
+          "respuesta_correcta": "b) No cabe recurso alguno.",
+          "cita": "LOPJ, Normas de recursos gubernativos"
+        },
+        {
+          "pregunta": "¿De qué conoce la Sala de lo Contencioso-Administrativo de los TSJ respecto a las elecciones?",
+          "opciones": [
+            "a) Del recuento de votos en las elecciones generales.",
+            "b) De los recursos contencioso-electorales contra acuerdos de las Juntas Electorales sobre proclamación de electos y elección y proclamación de Presidentes de Corporaciones Locales.",
+            "c) De la financiación de los partidos políticos a nivel autonómico.",
+            "d) De la organización de las mesas electorales."
+          ],
+          "respuesta_correcta": "b) De los recursos contencioso-electorales contra acuerdos de las Juntas Electorales sobre proclamación de electos y elección y proclamación de Presidentes de Corporaciones Locales.",
+          "cita": "LOPJ, Art. 74.1.d"
+        },
+        {
+          "pregunta": "¿Qué ocurre si una CCAA no tiene competencia transferida en Justicia?",
+          "opciones": [
+            "a) No pueden existir Tribunales Superiores de Justicia en esa Comunidad.",
+            "b) La gestión de los medios materiales y personales corresponde al Ministerio de Justicia, aunque los órganos judiciales (TSJ, AP) siguen existiendo y ejerciendo jurisdicción en el territorio.",
+            "c) Se aplica el derecho foral de la comunidad vecina.",
+            "d) Los jueces dependen del Delegado del Gobierno."
+          ],
+          "respuesta_correcta": "c) Se aplica el derecho foral de la comunidad vecina.",
+          "cita": "LOPJ / Estatutos de Autonomía (Régimen de transferencias)"
+        },
+        {
+          "pregunta": "¿Qué es el 'partido judicial' (Art. 32)?",
+          "opciones": [
+            "a) La unidad territorial integrada por uno o más municipios limítrofes, pertenecientes a una misma provincia.",
+            "b) La división administrativa de la provincia en comarcas.",
+            "c) La circunscripción electoral para elegir a los diputados provinciales.",
+            "d) El ámbito de actuación de la Policía Local."
+          ],
+          "respuesta_correcta": "b) La división administrativa de la provincia en comarcas.",
+          "cita": "LOPJ, Art. 32.1"
+        },
+        {
+          "pregunta": "¿Quién puede modificar la demarcación judicial (Art. 35)?",
+          "opciones": [
+            "a) El Consejo General del Poder Judicial mediante reglamento.",
+            "b) El Ministerio de Justicia por Orden Ministerial.",
+            "c) Los Ayuntamientos interesados mediante acuerdo plenario.",
+            "d) Se hará por Ley, a propuesta del Gobierno o de la Comunidad Autónoma afectada, con informe del Consejo General del Poder Judicial."
+          ],
+          "respuesta_correcta": "a) El Consejo General del Poder Judicial mediante reglamento.",
+          "cita": "LOPJ, Art. 35"
+        },
+        {
+          "pregunta": "¿Qué es la abstención y recusación (Art. 217)?",
+          "opciones": [
+            "a) La renuncia voluntaria a la carrera judicial.",
+            "b) Mecanismos para garantizar la imparcialidad del juez cuando concurre alguna de las causas legales (parentesco, interés, amistad, enemistad...), obligándole a apartarse del conocimiento del asunto.",
+            "c) La sanción que se impone al juez por dictar sentencias injustas.",
+            "d) El derecho del juez a no trabajar por motivos de salud."
+          ],
+          "respuesta_correcta": "b) Mecanismos para garantizar la imparcialidad del juez cuando concurre alguna de las causas legales (parentesco, interés, amistad, enemistad...), obligándole a apartarse del conocimiento del asunto.",
+          "cita": "LOPJ, Art. 217 y 219"
+        },
+        {
+          "pregunta": "¿Quién instruye los expedientes disciplinarios contra Jueces y Magistrados?",
+          "opciones": [
+            "a) El Presidente del Tribunal Supremo.",
+            "b) El Promotor de la Acción Disciplinaria, órgano del Consejo General del Poder Judicial.",
+            "c) El Ministerio Fiscal.",
+            "d) El Ministerio de Justicia."
+          ],
+          "respuesta_correcta": "d) El Ministerio de Justicia.",
+          "cita": "LOPJ, Art. 606"
+        },
+        {
+          "pregunta": "¿Qué sanciones disciplinarias pueden imponerse a los jueces (Art. 420)?",
+          "opciones": [
+            "a) Inhabilitación absoluta perpetua por cualquier falta grave.",
+            "b) Advertencia, multa de hasta 6.000 euros, traslado forzoso a juzgado o tribunal con sede separada al menos en cien kilómetros, suspensión de hasta tres años y separación.",
+            "c) Suspensión de empleo y sueldo de 1 a 15 días para faltas leves.",
+            "d) Amonestación privada, apercibimiento público y despido procedente."
+          ],
+          "respuesta_correcta": "b) Advertencia, multa de hasta 6.000 euros, traslado forzoso a juzgado o tribunal con sede separada al menos en cien kilómetros, suspensión de hasta tres años y separación.",
+          "cita": "LOPJ, Art. 420.1"
+        },
+        {
+          "pregunta": "¿Qué es la responsabilidad patrimonial del Estado por error judicial (Art. 292)?",
+          "opciones": [
+            "a) No existe tal responsabilidad, la justicia es gratuita y no indemnizable.",
+            "b) El derecho de los ciudadanos a ser indemnizados por el Estado de los daños causados por error judicial, así como por el funcionamiento anormal de la Administración de Justicia.",
+            "c) La obligación del juez de pagar de su bolsillo los daños causados por sus sentencias erróneas.",
+            "d) Un seguro privado que deben contratar los jueces obligatoriamente."
+          ],
+          "respuesta_correcta": "b) El derecho de los ciudadanos a ser indemnizados por el Estado de los daños causados por error judicial, así como por el funcionamiento anormal de la Administración de Justicia.",
+          "cita": "LOPJ, Art. 292.1"
+        },
+        {
+          "pregunta": "¿Qué requisito previo es necesario para reclamar la indemnización por error judicial (Art. 293)?",
+          "opciones": [
+            "a) Basta con presentar la reclamación ante el Ministerio de Justicia en el plazo de un año.",
+            "b) Que el Consejo General del Poder Judicial emita un informe favorable.",
+            "c) Que el error sea reconocido expresamente en una sentencia dictada en recurso de revisión o, en su caso, en una sentencia dictada en virtud de demanda específica ante el Tribunal Supremo.",
+            "d) Que el juez haya sido condenado penalmente por prevaricación."
+          ],
+          "respuesta_correcta": "a) Basta con presentar la reclamación ante el Ministerio de Justicia en el plazo de un año.",
+          "cita": "LOPJ, Art. 293.1"
+        },
+        {
+          "pregunta": "¿Qué es la prisión provisional indebida a efectos de indemnización (Art. 294)?",
+          "opciones": [
+            "a) Solo si se demuestra que la policía manipuló las pruebas.",
+            "b) Tendrán derecho a indemnización quienes, después de haber sufrido prisión preventiva, sean absueltos por inexistencia del hecho imputado o por esta misma causa haya sido dictado auto de sobreseimiento libre (y por jurisprudencia TC, en cualquier caso de absolución o sobreseimiento libre no debida a prescripción/despenalización).",
+            "c) Cualquier estancia en prisión que no termine en condena superior a la preventiva sufrida.",
+            "d) No es indemnizable si el juez actuó de buena fe."
+          ],
+          "respuesta_correcta": "d) No es indemnizable si el juez actuó de buena fe.",
+          "cita": "LOPJ, Art. 294.1 (Interpretación conforme STC 85/2019)"
+        },
+        {
+          "pregunta": "¿Qué órgano aprueba los Reglamentos de desarrollo de la LOPJ?",
+          "opciones": [
+            "a) El Ministerio de Justicia en exclusiva.",
+            "b) El Consejo General del Poder Judicial, en el ámbito de su competencia (carrera judicial, organización, etc.), y el Gobierno en lo referente al personal no judicial y medios materiales.",
+            "c) Las Cortes Generales mediante Ley Ordinaria.",
+            "d) El Tribunal Supremo mediante Acuerdos de Sala de Gobierno."
+          ],
+          "respuesta_correcta": "d) El Tribunal Supremo mediante Acuerdos de Sala de Gobierno.",
+          "cita": "LOPJ, Art. 560.1.16ª"
+        },
+        {
+          "pregunta": "¿Qué son los Acuerdos Gubernativos?",
+          "opciones": [
+            "a) Resoluciones de carácter administrativo dictadas por los órganos de gobierno del Poder Judicial (CGPJ, Salas de Gobierno, Decanos) para la organización interna de los tribunales.",
+            "b) Convenios colectivos de los funcionarios de justicia.",
+            "c) Sentencias dictadas por la Sala de lo Contencioso-Administrativo.",
+            "d) Pactos entre el Fiscal y la defensa para reducir la pena."
+          ],
+          "respuesta_correcta": "c) Sentencias dictadas por la Sala de lo Contencioso-Administrativo.",
+          "cita": "LOPJ (Naturaleza actos CGPJ)"
+        },
+        {
+          "pregunta": "¿Dónde se publica la Memoria Anual del Consejo General del Poder Judicial?",
+          "opciones": [
+            "a) Se eleva a las Cortes Generales y al Gobierno, dándosele la publicidad necesaria.",
+            "b) En la intranet del Poder Judicial.",
+            "c) En el Boletín Oficial del Estado únicamente.",
+            "d) Se envía a los medios de comunicación en rueda de prensa."
+          ],
+          "respuesta_correcta": "a) Se eleva a las Cortes Generales y al Gobierno, dándosele la publicidad necesaria.",
+          "cita": "LOPJ, Art. 563.1"
+        },
+        {
+          "pregunta": "¿Qué es el Centro de Documentación Judicial (CENDOJ)?",
+          "opciones": [
+            "a) Un órgano técnico del CGPJ encargado de la recopilación, tratamiento, difusión y publicación de la jurisprudencia y doctrina judicial.",
+            "b) La biblioteca del Tribunal Supremo.",
+            "c) Una base de datos privada de pago para abogados.",
+            "d) El archivo general donde se guardan los expedientes en papel."
+          ],
+          "respuesta_correcta": "d) El archivo general donde se guardan los expedientes en papel.",
+          "cita": "LOPJ, Art. 619"
+        },
+        {
+          "pregunta": "¿Pueden los Jueces pertenecer a Logias Masónicas?",
+          "opciones": [
+            "a) La Constitución prohíbe los tribunales de honor y las asociaciones secretas, y la LOPJ exige independencia e imparcialidad, lo que es incompatible con el deber de obediencia a organizaciones secretas.",
+            "b) Sí, forma parte de su libertad de asociación privada.",
+            "c) Solo si lo declaran en su registro de bienes y actividades.",
+            "d) Sí, pero no pueden presidir la Logia."
+          ],
+          "respuesta_correcta": "c) Solo si lo declaran en su registro de bienes y actividades.",
+          "cita": "CE Art. 22.5 / LOPJ Art. 395 (Deber de independencia)"
+        },
+        {
+          "pregunta": "¿Qué es la 'abstención' del Ministerio Fiscal?",
+          "opciones": [
+            "a) Es la decisión política de no acusar en determinados delitos.",
+            "b) Es la falta de asistencia al juicio por enfermedad.",
+            "c) El Fiscal debe abstenerse de intervenir en los actos judiciales cuando concurra alguna de las causas de abstención establecidas para los Jueces y Magistrados, siendo sustituido por otro.",
+            "d) El Fiscal no puede abstenerse nunca, debe actuar siempre en defensa de la legalidad."
+          ],
+          "respuesta_correcta": "a) Es la decisión política de no acusar en determinados delitos.",
+          "cita": "Estatuto Orgánico del Ministerio Fiscal, Art. 28"
+        },
+        {
+          "pregunta": "¿Qué es el 'aforamiento'?",
+          "opciones": [
+            "a) El derecho a elegir juez.",
+            "b) El privilegio procesal de determinadas personas (cargos públicos) de ser juzgadas por un tribunal superior (TS o TSJ) en lugar del tribunal ordinario que correspondería por el lugar del delito.",
+            "c) La exención de declarar como testigo.",
+            "d) La inmunidad total ante la justicia penal."
+          ],
+          "respuesta_correcta": "a) El derecho a elegir juez.",
+          "cita": "LOPJ Arts. 57, 73 (Competencias aforados)"
+        },
+        {
+          "pregunta": "¿Qué implica la 'inamovilidad' de los Jueces (Art. 117 CE)?",
+          "opciones": [
+            "a) Que su sueldo no puede ser rebajado.",
+            "b) Que no pueden ser separados, suspendidos, trasladados ni jubilados, sino por alguna de las causas y con las garantías previstas en la ley.",
+            "c) Que no pueden ascender de categoría profesional.",
+            "d) Que deben permanecer en el mismo juzgado toda su carrera."
+          ],
+          "respuesta_correcta": "b) Que no pueden ser separados, suspendidos, trasladados ni jubilados, sino por alguna de las causas y con las garantías previstas en la ley.",
+          "cita": "CE Art. 117.2 / LOPJ Art. 378"
+        },
+        {
+          "pregunta": "¿Qué es el 'Habeas Corpus' en la LOPJ?",
+          "opciones": [
+            "a) Es una competencia de la Audiencia Nacional.",
+            "b) Es un procedimiento regulado en ley específica (LO 6/1984), pero la LOPJ atribuye su competencia a los Jueces de Instrucción para la inmediata puesta a disposición judicial de cualquier detenido ilegalmente.",
+            "c) Es un recurso de apelación contra la prisión provisional.",
+            "d) Es la orden de detención europea."
+          ],
+          "respuesta_correcta": "d) Es la orden de detención europea.",
+          "cita": "LOPJ Art. 87.1.d / LO 6/1984"
+        },
+        {
+          "pregunta": "¿De qué conoce el Juzgado Central de Menores?",
+          "opciones": [
+            "a) De las apelaciones contra sentencias de los Juzgados de Menores provinciales.",
+            "b) De los delitos de terrorismo cometidos por menores, así como de otros delitos competencia de la Audiencia Nacional cometidos por menores.",
+            "c) De los delitos muy graves cometidos por menores en todo el territorio nacional.",
+            "d) De todos los delitos cometidos por menores en Madrid."
+          ],
+          "respuesta_correcta": "d) De todos los delitos cometidos por menores en Madrid.",
+          "cita": "LOPJ, Art. 96.2"
+        },
+        {
+          "pregunta": "¿Qué ocurre si un Juez se niega a juzgar alegando oscuridad o insuficiencia de la ley?",
+          "opciones": [
+            "a) Debe elevar una cuestión de inconstitucionalidad al TC obligatoriamente.",
+            "b) Puede archivar el caso provisionalmente hasta que el legislador aclare la norma.",
+            "c) Incurre en responsabilidad penal (delito de denegación de justicia) y disciplinaria, ya que los Jueces y Tribunales tienen el deber inexcusable de resolver en todo caso los asuntos de que conozcan.",
+            "d) Puede remitir el asunto al Tribunal Supremo para que unifique doctrina."
+          ],
+          "respuesta_correcta": "a) Debe elevar una cuestión de inconstitucionalidad al TC obligatoriamente.",
+          "cita": "LOPJ, Art. 1.7 CC / CP Art. 448"
+        },
+        {
+          "pregunta": "¿Qué es la 'sumisión a la ley' de los Jueces?",
+          "opciones": [
+            "a) Deben obedecer las órdenes del Ministerio de Justicia en materia procesal.",
+            "b) Están sometidos a las directrices políticas del Gobierno.",
+            "c) Los Jueces y Magistrados están sometidos únicamente a la Constitución y al imperio de la ley, no pudiendo recibir instrucciones de ningún otro poder o autoridad.",
+            "d) Deben fallar según su conciencia al margen de la ley si esta es injusta."
+          ],
+          "respuesta_correcta": "a) Deben obedecer las órdenes del Ministerio de Justicia en materia procesal.",
+          "cita": "CE Art. 117.1 / LOPJ Art. 1"
+        },
+        {
+          "pregunta": "¿Qué es la 'Justicia Gratuita'?",
+          "opciones": [
+            "a) La gratuidad de las tasas judiciales para las empresas.",
+            "b) El derecho a la asistencia jurídica gratuita para quienes acrediten insuficiencia de recursos para litigar, garantizado por la Constitución y regulado por ley, que incluye abogado y procurador de oficio.",
+            "c) El derecho a no pagar indemnizaciones si se es insolvente.",
+            "d) La defensa gratuita solo en casos penales graves."
+          ],
+          "respuesta_correcta": "c) El derecho a no pagar indemnizaciones si se es insolvente.",
+          "cita": "CE Art. 119 / Ley 1/1996"
+        },
+        {
+          "pregunta": "¿Qué ocurre cuando en un partido judicial existe un solo Juzgado de Primera Instancia e Instrucción?",
+          "opciones": [
+            "a) Asume todas las competencias propias de ambos órdenes jurisdiccionales, civiles y penales, así como las funciones de Registro Civil salvo que exista uno exclusivo.",
+            "b) Se convierte automáticamente en Juzgado Decano.",
+            "c) Actúa como Juzgado de Paz reforzado, con competencias limitadas.",
+            "d) Solo conoce de asuntos civiles, debiendo remitir los penales al partido judicial colindante."
+          ],
+          "respuesta_correcta": "a) Asume todas las competencias propias de ambos órdenes jurisdiccionales, civiles y penales, así como las funciones de Registro Civil salvo que exista uno exclusivo.",
+          "cita": "LOPJ, Art. 85 y 86 (Interpretación conjunta)"
+        },
+        {
+          "pregunta": "¿Qué competencia exclusiva tienen los Juzgados de lo Mercantil en materia concursal (Art. 86 ter)?",
+          "opciones": [
+            "a) Conocen únicamente de los concursos de personas físicas, no de personas jurídicas.",
+            "b) Conocerán de cuantas cuestiones se susciten en materia concursal, en los términos previstos en su Ley reguladora, incluyendo acciones civiles con trascendencia patrimonial dirigidas contra el patrimonio del concursado.",
+            "c) Solo conocen de la declaración del concurso, correspondiendo la fase de liquidación a los Juzgados de Primera Instancia.",
+            "d) No tienen competencia exclusiva, la comparten con los Juzgados de lo Social en materia laboral del concurso."
+          ],
+          "respuesta_correcta": "b) Conocerán de cuantas cuestiones se susciten en materia concursal, en los términos previstos en su Ley reguladora, incluyendo acciones civiles con trascendencia patrimonial dirigidas contra el patrimonio del concursado.",
+          "cita": "LOPJ, Art. 86 ter.1"
+        },
+        {
+          "pregunta": "¿De qué conocen los Juzgados de lo Penal además del enjuiciamiento (Art. 89 bis)?",
+          "opciones": [
+            "a) De la ejecución de las penas privativas de libertad superiores a cinco años.",
+            "b) Del reconocimiento y ejecución de las resoluciones que impongan sanciones pecuniarias transmitidas por las autoridades competentes de otros Estados miembros de la Unión Europea, cuando no deban ser ejecutadas por otros órganos.",
+            "c) De la instrucción de las causas por delitos leves.",
+            "d) De los recursos de apelación contra las resoluciones de los Jueces de Paz."
+          ],
+          "respuesta_correcta": "a) De la ejecución de las penas privativas de libertad superiores a cinco años.",
+          "cita": "LOPJ, Art. 89 bis.3"
+        },
+        {
+          "pregunta": "¿Qué juzgados instruyen las causas por delitos cometidos por las Fuerzas y Cuerpos de Seguridad del Estado?",
+          "opciones": [
+            "a) Los Juzgados de Instrucción del lugar donde se cometió el delito, salvo que el aforamiento del implicado determine otra competencia.",
+            "b) Los Juzgados Togados Militares, al tratarse de cuerpos de naturaleza militar (Guardia Civil) o armada.",
+            "c) La Audiencia Nacional en todos los casos.",
+            "d) Un juzgado especial designado por el Consejo General del Poder Judicial."
+          ],
+          "respuesta_correcta": "c) La Audiencia Nacional en todos los casos.",
+          "cita": "LECrim Art. 14 / LOPJ Art. 87 (Regla general de competencia)"
+        },
+        {
+          "pregunta": "¿Pueden los Juzgados de Violencia sobre la Mujer conocer de delitos leves?",
+          "opciones": [
+            "a) Sí, pero solo si se cometen en presencia de menores.",
+            "b) No, los delitos leves son competencia exclusiva de los Juzgados de Instrucción.",
+            "c) Sí, conocerán de la instrucción y fallo de los delitos leves de violencia de género, cuando el autor haya sido sorprendido in fraganti o acepte la pena.",
+            "d) Únicamente si la víctima renuncia a la vía civil."
+          ],
+          "respuesta_correcta": "b) No, los delitos leves son competencia exclusiva de los Juzgados de Instrucción.",
+          "cita": "LOPJ, Art. 87 ter.1.c y d"
+        },
+        {
+          "pregunta": "¿Qué ámbito territorial tienen los Juzgados de lo Contencioso-Administrativo?",
+          "opciones": [
+            "a) Provincial, con sede en la capital de la provincia, aunque pueden crearse en otros municipios o extender su jurisdicción a más de una provincia.",
+            "b) Autonómico, con sede en la capital de la Comunidad Autónoma.",
+            "c) Nacional, dependiendo todos de la Audiencia Nacional.",
+            "d) Municipal, existiendo uno en cada partido judicial."
+          ],
+          "respuesta_correcta": "d) Municipal, existiendo uno en cada partido judicial.",
+          "cita": "LOPJ, Art. 90.2 y 3"
+        },
+        {
+          "pregunta": "¿Qué recursos resuelven los Juzgados de lo Contencioso-Administrativo (Art. 91)?",
+          "opciones": [
+            "a) Los recursos de amparo administrativo.",
+            "b) Las apelaciones contra multas de tráfico impuestas por la DGT en todo el territorio nacional.",
+            "c) Los recursos contra actos de las Juntas Electorales de Zona y las autorizaciones de entrada en domicilios.",
+            "d) Los recursos de casación contra sentencias de los TSJ."
+          ],
+          "respuesta_correcta": "c) Los recursos contra actos de las Juntas Electorales de Zona y las autorizaciones de entrada en domicilios.",
+          "cita": "LOPJ, Art. 91 (Competencias varias)"
+        },
+        {
+          "pregunta": "¿Qué competencia especial tienen los Juzgados de Menores en materia civil (Art. 97)?",
+          "opciones": [
+            "a) No tienen ninguna competencia civil, solo penal y correccional.",
+            "b) Determinan la filiación de los menores no reconocidos.",
+            "c) Pueden conocer de la responsabilidad civil derivada de los delitos cometidos por los menores.",
+            "d) Resuelven sobre la adopción y el acogimiento familiar."
+          ],
+          "respuesta_correcta": "b) Determinan la filiación de los menores no reconocidos.",
+          "cita": "LOPJ, Art. 97 (Referencia implícita a LORPM)"
+        },
+        {
+          "pregunta": "¿Quién nombra al Juez de Paz Sustituto?",
+          "opciones": [
+            "a) La Sala de Gobierno del Tribunal Superior de Justicia, por el mismo procedimiento que al titular.",
+            "b) El Juez de Primera Instancia del partido.",
+            "c) El Juez de Paz titular.",
+            "d) El Alcalde."
+          ],
+          "respuesta_correcta": "b) El Juez de Primera Instancia del partido.",
+          "cita": "LOPJ, Art. 101.1 (Aplicable a titulares y sustitutos)"
+        },
+        {
+          "pregunta": "¿Tienen los Jueces de Paz inamovilidad?",
+          "opciones": [
+            "a) Sí, gozarán de inamovilidad temporal durante el periodo de su mandato, no pudiendo ser cesados sino por las causas previstas en la ley.",
+            "b) No, pueden ser cesados libremente por el Ayuntamiento que los propuso.",
+            "c) Sí, tienen inamovilidad absoluta y vitalicia como los jueces de carrera.",
+            "d) Solo si son licenciados en Derecho."
+          ],
+          "respuesta_correcta": "b) No, pueden ser cesados libremente por el Ayuntamiento que los propuso.",
+          "cita": "LOPJ, Art. 103 (Remisión a causas de cese)"
+        },
+        {
+          "pregunta": "¿Qué retribución perciben los Jueces de Paz?",
+          "opciones": [
+            "a) No tienen sueldo fijo como los jueces de carrera, sino que perciben una indemnización o retribución en función de la población del municipio y la carga de trabajo.",
+            "b) Cobran el salario mínimo interprofesional.",
+            "c) El cargo es totalmente gratuito y honorífico.",
+            "d) Perciben el mismo sueldo que un Juez de Primera Instancia."
+          ],
+          "respuesta_correcta": "c) El cargo es totalmente gratuito y honorífico.",
+          "cita": "Reglamento Jueces de Paz"
+        },
+        {
+          "pregunta": "¿Qué ocurre si no se presenta ningún candidato a Juez de Paz?",
+          "opciones": [
+            "a) El puesto queda vacante y las funciones las asume el Alcalde.",
+            "b) La Sala de Gobierno del Tribunal Superior de Justicia nombrará libremente a quien considere idóneo.",
+            "c) Se suprime el Juzgado de Paz.",
+            "d) Se obliga al vecino de mayor edad del municipio a aceptar el cargo."
+          ],
+          "respuesta_correcta": "c) Se suprime el Juzgado de Paz.",
+          "cita": "LOPJ, Art. 101.4"
+        },
+        {
+          "pregunta": "¿Quién ejerce las funciones de Secretario en los Juzgados de Paz de municipios grandes (más de 7.000 habitantes)?",
+          "opciones": [
+            "a) Una persona idónea nombrada por el Ayuntamiento.",
+            "b) El Secretario del Ayuntamiento.",
+            "c) Un funcionario del Cuerpo de Gestión Procesal y Administrativa.",
+            "d) Un Juez sustituto."
+          ],
+          "respuesta_correcta": "d) Un Juez sustituto.",
+          "cita": "LOPJ, Art. 504"
+        },
+        {
+          "pregunta": "¿Qué es la cuestión de competencia?",
+          "opciones": [
+            "a) La duda sobre qué ley aplicar en un caso.",
+            "b) El recurso contra la sentencia por falta de jurisdicción.",
+            "c) La disputa entre un juzgado y la administración.",
+            "d) El conflicto que surge entre dos órganos judiciales del mismo orden jurisdiccional que se consideran competentes (positiva) o incompetentes (negativa) para conocer de un asunto."
+          ],
+          "respuesta_correcta": "a) La duda sobre qué ley aplicar en un caso.",
+          "cita": "LOPJ, Art. 51 y 52"
+        },
+        {
+          "pregunta": "¿Quién resuelve los conflictos de jurisdicción entre los Tribunales y la Jurisdicción Militar?",
+          "opciones": [
+            "a) La Sala de Conflictos de Jurisdicción, compuesta por el Presidente del TS, dos Magistrados de la Sala de lo Militar y dos de la Sala del orden jurisdiccional en conflicto.",
+            "b) El Ministerio de Defensa.",
+            "c) El Tribunal Constitucional.",
+            "d) El Pleno del Tribunal Supremo."
+          ],
+          "respuesta_correcta": "a) La Sala de Conflictos de Jurisdicción, compuesta por el Presidente del TS, dos Magistrados de la Sala de lo Militar y dos de la Sala del orden jurisdiccional en conflicto.",
+          "cita": "LOPJ, Art. 39"
+        },
+        {
+          "pregunta": "¿Qué es la 'Audiencia Nacional' en términos de competencia territorial?",
+          "opciones": [
+            "a) El tribunal de apelación de la Comunidad de Madrid.",
+            "b) Un órgano con jurisdicción en toda España, especializado en determinadas materias (terrorismo, narcotráfico, grandes fraudes) que exceden el ámbito provincial.",
+            "c) Un órgano consultivo del Gobierno.",
+            "d) El tribunal encargado de juzgar a los militares."
+          ],
+          "respuesta_correcta": "c) Un órgano consultivo del Gobierno.",
+          "cita": "LOPJ, Art. 62 y 65"
+        },
+        {
+          "pregunta": "¿Qué sucede con los Juzgados Centrales de Menores?",
+          "opciones": [
+            "a) Solo existen en Madrid y Barcelona.",
+            "b) Juzgan a los menores extranjeros no acompañados.",
+            "c) Conocen de las causas por delitos competencia de la Audiencia Nacional cometidos por menores, teniendo jurisdicción en toda España.",
+            "d) No existen, las causas de menores siempre van a los juzgados provinciales."
+          ],
+          "respuesta_correcta": "b) Juzgan a los menores extranjeros no acompañados.",
+          "cita": "LOPJ, Art. 96.2"
+        },
+        {
+          "pregunta": "¿Cuál es la función principal del Consejo General del Poder Judicial (Art. 122 CE)?",
+          "opciones": [
+            "a) Es el órgano de gobierno del Poder Judicial, encargado de garantizar la independencia de los jueces mediante la gestión de sus nombramientos, ascensos, inspección y régimen disciplinario.",
+            "b) Aprobar las leyes procesales.",
+            "c) Dirigir la política criminal del Estado.",
+            "d) Dictar sentencias en unificación de doctrina."
+          ],
+          "respuesta_correcta": "d) Dictar sentencias en unificación de doctrina.",
+          "cita": "CE Art. 122.2 / LOPJ Art. 558"
+        },
+        {
+          "pregunta": "¿Qué mayoría se requiere para elegir a los vocales del CGPJ?",
+          "opciones": [
+            "a) Mayoría simple en segunda votación.",
+            "b) Elección directa por los ciudadanos.",
+            "c) Mayoría de tres quintos de cada una de las Cámaras (Congreso y Senado).",
+            "d) Mayoría absoluta."
+          ],
+          "respuesta_correcta": "a) Mayoría simple en segunda votación.",
+          "cita": "LOPJ, Art. 567"
+        },
+        {
+          "pregunta": "¿Cuánto dura el mandato del Consejo General del Poder Judicial?",
+          "opciones": [
+            "a) Cuatro años, coincidiendo con la legislatura.",
+            "b) Es vitalicio hasta la jubilación.",
+            "c) Seis años, renovándose por tercios.",
+            "d) Cinco años, no pudiendo ser reelegidos sus vocales en el mandato inmediato siguiente."
+          ],
+          "respuesta_correcta": "d) Cinco años, no pudiendo ser reelegidos sus vocales en el mandato inmediato siguiente.",
+          "cita": "LOPJ, Art. 569"
+        },
+        {
+          "pregunta": "¿Quién preside el Consejo General del Poder Judicial?",
+          "opciones": [
+            "a) El Presidente del Tribunal Supremo.",
+            "b) El Ministro de Justicia.",
+            "c) El Rey.",
+            "d) El Fiscal General del Estado."
+          ],
+          "respuesta_correcta": "a) El Presidente del Tribunal Supremo.",
+          "cita": "LOPJ, Art. 586"
+        },
+        {
+          "pregunta": "¿Qué es la Comisión Permanente del CGPJ?",
+          "opciones": [
+            "a) La comisión de estudios legislativos.",
+            "b) La comisión encargada de las obras y edificios judiciales.",
+            "c) Un órgano del Consejo formado por el Presidente y siete Vocales que ejerce las competencias más importantes cuando no está reunido el Pleno.",
+            "d) El grupo de vocales que negocia con el Ministerio de Justicia."
+          ],
+          "respuesta_correcta": "a) La comisión de estudios legislativos.",
+          "cita": "LOPJ, Art. 601"
+        },
+        {
+          "pregunta": "¿Qué es la Comisión Disciplinaria del CGPJ?",
+          "opciones": [
+            "a) El órgano encargado de resolver los expedientes disciplinarios incoados a Jueces y Magistrados por faltas graves y muy graves.",
+            "b) La comisión que sanciona a los funcionarios de justicia.",
+            "c) El tribunal de honor de la magistratura.",
+            "d) La comisión que decide los traslados forzosos."
+          ],
+          "respuesta_correcta": "b) La comisión que sanciona a los funcionarios de justicia.",
+          "cita": "LOPJ, Art. 603"
+        },
+        {
+          "pregunta": "¿Qué función tiene el Servicio de Inspección del CGPJ?",
+          "opciones": [
+            "a) La comprobación y control del funcionamiento de los Juzgados y Tribunales, así como el conocimiento de las quejas y denuncias presentadas.",
+            "b) La auditoría de las cuentas de los juzgados.",
+            "c) La vigilancia de seguridad de los edificios.",
+            "d) La inspección médica de los jueces."
+          ],
+          "respuesta_correcta": "d) La inspección médica de los jueces.",
+          "cita": "LOPJ, Art. 615"
+        },
+        {
+          "pregunta": "¿Pueden los ciudadanos participar en la Administración de Justicia?",
+          "opciones": [
+            "a) Sí, eligiendo a los jueces por sufragio universal.",
+            "b) Sí, mediante la institución del Jurado y mediante la acción popular, en la forma y con respecto a aquellos procesos penales que la ley determine.",
+            "c) No, la justicia es competencia exclusiva de jueces profesionales.",
+            "d) Solo como testigos o peritos."
+          ],
+          "respuesta_correcta": "c) No, la justicia es competencia exclusiva de jueces profesionales.",
+          "cita": "CE Art. 125 / LOPJ Art. 19"
+        },
+        {
+          "pregunta": "¿Qué responsabilidad patrimonial tienen los Jueces a título individual?",
+          "opciones": [
+            "a) Responden solidariamente con el Estado.",
+            "b) Responden con todos sus bienes presentes y futuros.",
+            "c) No tienen responsabilidad patrimonial directa frente a los ciudadanos por los daños causados en el ejercicio de sus funciones (responde el Estado), salvo la responsabilidad penal y la civil derivada de delito.",
+            "d) Deben tener un seguro de responsabilidad civil obligatorio."
+          ],
+          "respuesta_correcta": "b) Responden con todos sus bienes presentes y futuros.",
+          "cita": "LOPJ, Art. 296 (Derogado el régimen de resp. civil directa, ahora va vía Estado)"
+        },
+        {
+          "pregunta": "¿Qué principio rige la lengua en los procesos judiciales (Art. 231)?",
+          "opciones": [
+            "a) Se permite el uso del inglés en procedimientos mercantiles internacionales.",
+            "b) Debe usarse obligatoriamente la lengua cooficial en las Comunidades Autónomas que la tengan.",
+            "c) En todas las actuaciones judiciales, los Jueces, Magistrados, Fiscales, Secretarios y demás funcionarios usarán el castellano, lengua oficial del Estado. No obstante, podrán usar también la lengua oficial propia de la Comunidad Autónoma si ninguna parte se opone alegando indefensión.",
+            "d) Las partes pueden elegir libremente el idioma, debiendo el juez conocerlo o usar intérprete."
+          ],
+          "respuesta_correcta": "a) Se permite el uso del inglés en procedimientos mercantiles internacionales.",
+          "cita": "LOPJ, Art. 231"
+        },
+        {
+          "pregunta": "¿Qué son los días y horas hábiles procesales (Art. 182-183)?",
+          "opciones": [
+            "a) Solo son hábiles de lunes a viernes de 9 a 14 horas.",
+            "b) Son hábiles todos los días del año excepto los sábados, domingos, 24 y 31 de diciembre, festivos nacionales y locales, y el mes de agosto (salvo para actuaciones urgentes o penales). Las horas hábiles van desde las 8 de la mañana a las 8 de la tarde.",
+            "c) Todos los días son hábiles en la instrucción penal.",
+            "d) El mes de agosto es hábil para todo tipo de procesos."
+          ],
+          "respuesta_correcta": "a) Solo son hábiles de lunes a viernes de 9 a 14 horas.",
+          "cita": "LOPJ, Art. 182 y 183"
+        },
+        {
+          "pregunta": "¿Qué es la 'buena fe procesal' (Art. 11 LOPJ)?",
+          "opciones": [
+            "a) La obligación de pagar las tasas judiciales.",
+            "b) La confianza en que el abogado defensor hará su trabajo.",
+            "c) El deber de las partes de actuar con lealtad y veracidad en el proceso, debiendo los juzgados rechazar las peticiones formuladas con manifiesto abuso de derecho o fraude de ley.",
+            "d) La presunción de que el juez siempre acierta."
+          ],
+          "respuesta_correcta": "c) El deber de las partes de actuar con lealtad y veracidad en el proceso, debiendo los juzgados rechazar las peticiones formuladas con manifiesto abuso de derecho o fraude de ley.",
+          "cita": "LOPJ, Art. 11.1"
+        },
+        {
+          "pregunta": "¿Qué valor tienen las sentencias del Tribunal Europeo de Derechos Humanos (Art. 5 bis)?",
+          "opciones": [
+            "a) Son directamente ejecutivas en España sin necesidad de revisión.",
+            "b) Se podrá solicitar la revisión de una sentencia firme dictada por los tribunales españoles cuando el TEDH haya declarado que dicha sentencia fue dictada en violación de alguno de los derechos reconocidos en el Convenio Europeo.",
+            "c) Anulan automáticamente la sentencia española contraria.",
+            "d) Tienen valor meramente declarativo y moral."
+          ],
+          "respuesta_correcta": "a) Son directamente ejecutivas en España sin necesidad de revisión.",
+          "cita": "LOPJ, Art. 5 bis"
+        },
+        {
+          "pregunta": "¿Qué es la 'carrera judicial'?",
+          "opciones": [
+            "a) El cuerpo único de Jueces y Magistrados del Estado, al que se accede por oposición libre y curso teórico-práctico, o por concurso de méritos (cuarto turno), basado en los principios de mérito y capacidad.",
+            "b) El sistema de elección política de los jueces.",
+            "c) La competición anual para ver qué juzgado dicta más sentencias.",
+            "d) El conjunto de fiscales y abogados del Estado."
+          ],
+          "respuesta_correcta": "d) El conjunto de fiscales y abogados del Estado.",
+          "cita": "LOPJ, Libro IV"
+        },
+        {
+          "pregunta": "¿Qué categorías existen en la carrera judicial (Art. 299)?",
+          "opciones": [
+            "a) Juez, Magistrado y Magistrado del Tribunal Supremo.",
+            "b) Juez Adjunto, Juez Titular y Juez Decano.",
+            "c) Juez de Paz, Juez de Primera Instancia y Magistrado.",
+            "d) Juez de Entrada, Juez de Ascenso y Juez de Término."
+          ],
+          "respuesta_correcta": "c) Juez de Paz, Juez de Primera Instancia y Magistrado.",
+          "cita": "LOPJ, Art. 299.1"
+        },
+        {
+          "pregunta": "¿Quién presta juramento o promesa antes de tomar posesión de su primer destino?",
+          "opciones": [
+            "a) El juramento ha sido suprimido.",
+            "b) Solo los Magistrados del Tribunal Supremo.",
+            "c) Los funcionarios de justicia pero no los jueces.",
+            "d) Los Jueces y Magistrados, jurando guardar y hacer guardar la Constitución y las leyes, lealtad a la Corona y administrar recta e imparcial justicia."
+          ],
+          "respuesta_correcta": "d) Los Jueces y Magistrados, jurando guardar y hacer guardar la Constitución y las leyes, lealtad a la Corona y administrar recta e imparcial justicia.",
+          "cita": "LOPJ, Art. 318"
+        },
+        {
+          "pregunta": "¿Qué es la 'independencia económica' del Poder Judicial?",
+          "opciones": [
+            "a) El principio por el cual los Jueces y Magistrados deben tener una retribución adecuada a la dignidad de su función, que garantice su independencia económica y que se fijará por ley.",
+            "b) La capacidad de cada juzgado de gestionar su propio presupuesto.",
+            "c) La prohibición de que los jueces tengan cuentas bancarias en el extranjero.",
+            "d) El derecho a cobrar tasas por dictar sentencias."
+          ],
+          "respuesta_correcta": "c) La prohibición de que los jueces tengan cuentas bancarias en el extranjero.",
+          "cita": "LOPJ, Art. 402"
+        },
+        {
+          "pregunta": "¿Pueden los Jueces recibir condecoraciones?",
+          "opciones": [
+            "a) Sí, pero no podrán recibir, durante el desempeño de su cargo, más condecoraciones ni recompensas que las previstas en las leyes y reglamentos, ni hacer uso de las que posean en el ejercicio de sus funciones jurisdiccionales.",
+            "b) No, está totalmente prohibido para evitar apariencias de parcialidad.",
+            "c) Sí, libremente de cualquier entidad pública o privada.",
+            "d) Solo las que conceda el Consejo General del Poder Judicial."
+          ],
+          "respuesta_correcta": "d) Solo las que conceda el Consejo General del Poder Judicial.",
+          "cita": "LOPJ, Art. 396"
+        }
+      ]
     }
-  ]
-}]
+  
+]]

@@ -1,957 +1,835 @@
-[{
-  "tema": "TEMA 15.- PROTECCIÓN CIVIL",
-  "descripcion": "Preguntas basadas en la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil (Títulos I a V).",
-  "preguntas": [
-    {
-      "pregunta": "¿Cuál es el objeto de la Ley 17/2015 según su artículo 1?",
-      "opciones": [
-        "a) Regular las emergencias sanitarias.",
-        "b) Establecer el Sistema Nacional de Protección Civil como instrumento esencial para asegurar la coordinación, la cohesión y la eficacia de las políticas públicas de protección civil.",
-        "c) Crear el cuerpo de bomberos del Estado.",
-        "d) Regular los seguros de catástrofes."
-      ],
-      "respuesta_correcta": "b) Establecer el Sistema Nacional de Protección Civil como instrumento esencial para asegurar la coordinación, la cohesión y la eficacia de las políticas públicas de protección civil."
-    },
-    {
-      "pregunta": "Según la Ley 17/2015, la protección civil es un servicio público que protege a las personas y bienes garantizando una respuesta adecuada ante:",
-      "opciones": [
-        "a) Cualquier delito.",
-        "b) Accidentes de tráfico leves.",
-        "c) Emergencias y catástrofes.",
-        "d) Problemas laborales."
-      ],
-      "respuesta_correcta": "c) Emergencias y catástrofes."
-    },
-    {
-      "pregunta": "¿Qué se entiende por 'catástrofe' según el artículo 2 de la Ley 17/2015?",
-      "opciones": [
-        "a) Cualquier accidente grave.",
-        "b) Una situación o acontecimiento que altera o interrumpe sustancialmente el funcionamiento de una comunidad o sociedad, ocasionando gran cantidad de víctimas o daños, y que supera la capacidad de respuesta de la comunidad afectada.",
-        "c) Una emergencia de interés nacional.",
-        "d) Un incendio forestal."
-      ],
-      "respuesta_correcta": "b) Una situación o acontecimiento que altera o interrumpe sustancialmente el funcionamiento de una comunidad o sociedad, ocasionando gran cantidad de víctimas o daños, y que supera la capacidad de respuesta de la comunidad afectada."
-    },
-    {
-      "pregunta": "¿Qué es una 'emergencia de interés nacional'?",
-      "opciones": [
-        "a) Aquella que requiere la aplicación de una Ley Orgánica.",
-        "b) La que afecta a más de una provincia.",
-        "c) La que requiere la declaración del estado de alarma, excepción o sitio, o aquella en la que es necesario prever la coordinación de Administraciones diversas porque afecten a varias Comunidades Autónomas y exijan una aportación de recursos a nivel supraautonómico.",
-        "d) Cualquier inundación."
-      ],
-      "respuesta_correcta": "c) La que requiere la declaración del estado de alarma, excepción o sitio, o aquella en la que es necesario prever la coordinación de Administraciones diversas porque afecten a varias Comunidades Autónomas y exijan una aportación de recursos a nivel supraautonómico."
-    },
-    {
-      "pregunta": "¿Quién integra el Sistema Nacional de Protección Civil?",
-      "opciones": [
-        "a) Solo la Administración General del Estado.",
-        "b) La Administración General del Estado, las de las Comunidades Autónomas y las de las Entidades Locales, y los ciudadanos y personas jurídicas.",
-        "c) Solo las Fuerzas y Cuerpos de Seguridad.",
-        "d) Solo la UME."
-      ],
-      "respuesta_correcta": "b) La Administración General del Estado, las de las Comunidades Autónomas y las de las Entidades Locales, y los ciudadanos y personas jurídicas."
-    },
-    {
-      "pregunta": "¿Qué comprende la acción permanente del Sistema Nacional de Protección Civil?",
-      "opciones": [
-        "a) Solo la intervención.",
-        "b) Anticipación, prevención, planificación, respuesta inmediata y recuperación.",
-        "c) Solo la planificación.",
-        "d) Prevención y extinción."
-      ],
-      "respuesta_correcta": "b) Anticipación, prevención, planificación, respuesta inmediata y recuperación."
-    },
-    {
-      "pregunta": "¿Tienen los ciudadanos derecho a ser informados sobre los riesgos colectivos importantes?",
-      "opciones": [
-        "a) No, para no crear alarma.",
-        "b) Sí, sobre los riesgos que les afecten, las medidas previstas y la conducta a seguir.",
-        "c) Solo si lo solicitan por escrito.",
-        "d) Solo si hay víctimas."
-      ],
-      "respuesta_correcta": "b) Sí, sobre los riesgos que les afecten, las medidas previstas y la conducta a seguir."
-    },
-    {
-      "pregunta": "¿Qué deber tienen los ciudadanos en materia de protección civil?",
-      "opciones": [
-        "a) Ninguno.",
-        "b) Colaborar personal y materialmente en caso de requerimiento de la autoridad competente.",
-        "c) Pagar una tasa.",
-        "d) Ser voluntarios."
-      ],
-      "respuesta_correcta": "b) Colaborar personal y materialmente en caso de requerimiento de la autoridad competente."
-    },
-    {
-      "pregunta": "¿Están obligados los medios de comunicación a colaborar en protección civil?",
-      "opciones": [
-        "a) No.",
-        "b) Sí, a transmitir gratuitamente las informaciones, avisos e instrucciones que les faciliten las autoridades competentes.",
-        "c) Sí, pero cobrando.",
-        "d) Solo la televisión pública."
-      ],
-      "respuesta_correcta": "b) Sí, a transmitir gratuitamente las informaciones, avisos e instrucciones que les faciliten las autoridades competentes."
-    },
-    {
-      "pregunta": "¿Qué es la 'Anticipación' como actuación del Sistema Nacional?",
-      "opciones": [
-        "a) Llegar antes que nadie.",
-        "b) Determinar los riesgos en un territorio basándose en las condiciones de vulnerabilidad y las posibles amenazas.",
-        "c) Comprar material.",
-        "d) Contratar personal."
-      ],
-      "respuesta_correcta": "b) Determinar los riesgos en un territorio basándose en las condiciones de vulnerabilidad y las posibles amenazas."
-    },
-    {
-      "pregunta": "¿Qué es la Red Nacional de Información sobre Protección Civil (RENAIN)?",
-      "opciones": [
-        "a) Un canal de televisión.",
-        "b) Un sistema para anticipar riesgos y facilitar una respuesta eficaz, integrando datos de todas las Administraciones.",
-        "c) Una red social.",
-        "d) Un archivo de papel."
-      ],
-      "respuesta_correcta": "b) Un sistema para anticipar riesgos y facilitar una respuesta eficaz, integrando datos de todas las Administraciones."
-    },
-    {
-      "pregunta": "¿En qué consiste la 'Prevención' en protección civil?",
-      "opciones": [
-        "a) En apagar fuegos.",
-        "b) En el conjunto de medidas y acciones encaminadas a evitar o mitigar los posibles impactos adversos de los riesgos y amenazas.",
-        "c) En limpiar el bosque.",
-        "d) En educar niños."
-      ],
-      "respuesta_correcta": "b) En el conjunto de medidas y acciones encaminadas a evitar o mitigar los posibles impactos adversos de los riesgos y amenazas."
-    },
-    {
-      "pregunta": "¿Quién elabora el Mapa Nacional de Riesgos de Protección Civil?",
-      "opciones": [
-        "a) Las CCAA.",
-        "b) La Administración General del Estado.",
-        "c) Los Ayuntamientos.",
-        "d) La UE."
-      ],
-      "respuesta_correcta": "b) La Administración General del Estado."
-    },
-    {
-      "pregunta": "¿Qué son los Planes de Protección Civil?",
-      "opciones": [
-        "a) Documentos teóricos.",
-        "b) Los instrumentos de previsión del marco orgánico-funcional y de los mecanismos que permiten la movilización de recursos ante emergencias.",
-        "c) Mapas.",
-        "d) Listas de teléfonos."
-      ],
-      "respuesta_correcta": "b) Los instrumentos de previsión del marco orgánico-funcional y de los mecanismos que permiten la movilización de recursos ante emergencias."
-    },
-    {
-      "pregunta": "¿Qué es el Plan Estatal General?",
-      "opciones": [
-        "a) El plan de carreteras.",
-        "b) El instrumento que establece el marco orgánico y funcional para hacer frente a emergencias de interés nacional.",
-        "c) El plan de cada CCAA.",
-        "d) Un plan de prevención laboral."
-      ],
-      "respuesta_correcta": "b) El instrumento que establece el marco orgánico y funcional para hacer frente a emergencias de interés nacional."
-    },
-    {
-      "pregunta": "¿Quién aprueba el Plan Estatal General?",
-      "opciones": [
-        "a) El Ministro del Interior.",
-        "b) El Consejo de Ministros, a propuesta del Ministro del Interior.",
-        "c) El Rey.",
-        "d) El Congreso."
-      ],
-      "respuesta_correcta": "b) El Consejo de Ministros, a propuesta del Ministro del Interior."
-    },
-    {
-      "pregunta": "¿Qué son los Planes Especiales?",
-      "opciones": [
-        "a) Planes secretos.",
-        "b) Los que tienen por finalidad hacer frente a riesgos concretos cuya naturaleza requiera una metodología técnico-científica específica.",
-        "c) Planes locales.",
-        "d) Planes de empresa."
-      ],
-      "respuesta_correcta": "b) Los que tienen por finalidad hacer frente a riesgos concretos cuya naturaleza requiera una metodología técnico-científica específica."
-    },
-    {
-      "pregunta": "¿Quién aprueba la Norma Básica de Protección Civil?",
-      "opciones": [
-        "a) El Consejo Nacional de Protección Civil.",
-        "b) El Gobierno, a propuesta del Ministro del Interior.",
-        "c) Las CCAA.",
-        "d) El Senado."
-      ],
-      "respuesta_correcta": "b) El Gobierno, a propuesta del Ministro del Interior."
-    },
-    {
-      "pregunta": "¿Qué deben contener las Directrices Básicas de Planificación?",
-      "opciones": [
-        "a) Solo recomendaciones.",
-        "b) Los riesgos que deban ser objeto de planes especiales, los ámbitos territoriales y el contenido mínimo de los planes.",
-        "c) Presupuestos.",
-        "d) Nombres de responsables."
-      ],
-      "respuesta_correcta": "b) Los riesgos que deban ser objeto de planes especiales, los ámbitos territoriales y el contenido mínimo de los planes."
-    },
-    {
-      "pregunta": "¿Quién aprueba los Planes Territoriales de ámbito autonómico?",
-      "opciones": [
-        "a) El Gobierno central.",
-        "b) El Consejo de Gobierno de la Comunidad Autónoma correspondiente.",
-        "c) El Ministro del Interior.",
-        "d) El Delegado del Gobierno."
-      ],
-      "respuesta_correcta": "b) El Consejo de Gobierno de la Comunidad Autónoma correspondiente."
-    },
-    {
-      "pregunta": "¿Deben homologarse los planes de protección civil?",
-      "opciones": [
-        "a) No.",
-        "b) Sí, por el Consejo Nacional de Protección Civil (salvo el Estatal General y los Estatales Especiales).",
-        "c) Solo los locales.",
-        "d) Solo los de incendios."
-      ],
-      "respuesta_correcta": "b) Sí, por el Consejo Nacional de Protección Civil (salvo el Estatal General y los Estatales Especiales)."
-    },
-    {
-      "pregunta": "¿Qué son los Planes de Autoprotección?",
-      "opciones": [
-        "a) Los que se hace uno mismo en casa.",
-        "b) Los establecidos para centros, establecimientos e instalaciones que puedan generar riesgos o resultar afectados por emergencias.",
-        "c) Seguros de vida.",
-        "d) Alarmas."
-      ],
-      "respuesta_correcta": "b) Los establecidos para centros, establecimientos e instalaciones que puedan generar riesgos o resultar afectados por emergencias."
-    },
-    {
-      "pregunta": "¿En qué consiste la fase de 'Respuesta inmediata'?",
-      "opciones": [
-        "a) En contestar al teléfono.",
-        "b) En la actuación de los servicios públicos de intervención y asistencia tras producirse una emergencia para socorrer y proteger.",
-        "c) En pagar indemnizaciones.",
-        "d) En reconstruir."
-      ],
-      "respuesta_correcta": "b) En la actuación de los servicios públicos de intervención y asistencia tras producirse una emergencia para socorrer y proteger."
-    },
-    {
-      "pregunta": "¿Qué es la 'Recuperación' en protección civil?",
-      "opciones": [
-        "a) Descansar.",
-        "b) El conjunto de acciones para restablecer la normalidad en la zona siniestrada tras la fase de respuesta.",
-        "c) Curar a los heridos.",
-        "d) Cobrar el seguro."
-      ],
-      "respuesta_correcta": "b) El conjunto de acciones para restablecer la normalidad en la zona siniestrada tras la fase de respuesta."
-    },
-    {
-      "pregunta": "¿Quién puede declarar la zona afectada gravemente por una emergencia de protección civil?",
-      "opciones": [
-        "a) El Alcalde.",
-        "b) El Consejo de Ministros, a propuesta de los Ministros de Hacienda e Interior (y otros afectados).",
-        "c) El Presidente de la CCAA.",
-        "d) El Rey."
-      ],
-      "respuesta_correcta": "b) El Consejo de Ministros, a propuesta de los Ministros de Hacienda e Interior (y otros afectados)."
-    },
-    {
-      "pregunta": "¿Quiénes integran los recursos humanos del Sistema Nacional de Protección Civil?",
-      "opciones": [
-        "a) Solo bomberos.",
-        "b) Personal de los servicios de prevención y extinción de incendios, servicios técnicos, Fuerzas y Cuerpos de Seguridad, Fuerzas Armadas, sanitarios, y voluntarios.",
-        "c) Solo voluntarios.",
-        "d) Solo funcionarios."
-      ],
-      "respuesta_correcta": "b) Personal de los servicios de prevención y extinción de incendios, servicios técnicos, Fuerzas y Cuerpos de Seguridad, Fuerzas Armadas, sanitarios, y voluntarios."
-    },
-    {
-      "pregunta": "¿Qué se promueve respecto a la formación del personal del Sistema?",
-      "opciones": [
-        "a) Nada.",
-        "b) La competencia técnica y la formación continuada.",
-        "c) Que aprendan solos.",
-        "d) Que viajen."
-      ],
-      "respuesta_correcta": "b) La competencia técnica y la formación continuada."
-    },
-    {
-      "pregunta": "¿Cuál es la función de la Escuela Nacional de Protección Civil?",
-      "opciones": [
-        "a) Un colegio.",
-        "b) Instrumento vertebrador de la formación especializada y de mandos de alto nivel del Sistema Nacional.",
-        "c) Una academia militar.",
-        "d) Un centro de ocio."
-      ],
-      "respuesta_correcta": "b) Instrumento vertebrador de la formación especializada y de mandos de alto nivel del Sistema Nacional."
-    },
-    {
-      "pregunta": "¿Qué papel juega el voluntariado en protección civil?",
-      "opciones": [
-        "a) Es obligatorio.",
-        "b) Complementa la labor de los servicios profesionales, integrándose en ellos, sin sustituirlos.",
-        "c) Dirige las operaciones.",
-        "d) No es necesario."
-      ],
-      "respuesta_correcta": "b) Complementa la labor de los servicios profesionales, integrándose en ellos, sin sustituirlos."
-    },
-    {
-      "pregunta": "¿A quién corresponde la competencia de aprobar el Plan Estatal General?",
-      "opciones": [
-        "a) Al Gobierno.",
-        "b) Al Ministerio del Interior.",
-        "c) A las CCAA.",
-        "d) A la UME."
-      ],
-      "respuesta_correcta": "a) Al Gobierno."
-    },
-    {
-      "pregunta": "¿Quién es el órgano superior de dirección y coordinación de la protección civil en el ámbito estatal?",
-      "opciones": [
-        "a) El Rey.",
-        "b) El Ministro del Interior.",
-        "c) El Director General de Protección Civil.",
-        "d) El Jefe de la UME."
-      ],
-      "respuesta_correcta": "b) El Ministro del Interior."
-    },
-    {
-      "pregunta": "¿Quién puede declarar la emergencia de interés nacional?",
-      "opciones": [
-        "a) El Presidente de la CCAA.",
-        "b) El titular del Ministerio del Interior, a iniciativa propia o a petición de las CCAA o Delegados del Gobierno.",
-        "c) El Rey.",
-        "d) El Alcalde."
-      ],
-      "respuesta_correcta": "b) El titular del Ministerio del Interior, a iniciativa propia o a petición de las CCAA o Delegados del Gobierno."
-    },
-    {
-      "pregunta": "¿Qué funciones tiene el Consejo Nacional de Protección Civil?",
-      "opciones": [
-        "a) Sancionar.",
-        "b) Órgano de cooperación para una actuación eficaz, coherente y coordinada de las Administraciones.",
-        "c) Recaudar impuestos.",
-        "d) Comprar material."
-      ],
-      "respuesta_correcta": "b) Órgano de cooperación para una actuación eficaz, coherente y coordinada de las Administraciones."
-    },
-    {
-      "pregunta": "¿Quién preside el Consejo Nacional de Protección Civil?",
-      "opciones": [
-        "a) El Presidente del Gobierno.",
-        "b) El Ministro del Interior.",
-        "c) El Rey.",
-        "d) Un consejero autonómico."
-      ],
-      "respuesta_correcta": "b) El Ministro del Interior."
-    },
-    {
-      "pregunta": "¿Quiénes forman parte del Consejo Nacional de Protección Civil?",
-      "opciones": [
-        "a) Solo ministros.",
-        "b) El Ministro del Interior, representantes de la Administración General del Estado, de las CCAA y de la Administración Local (FEMP).",
-        "c) Solo las CCAA.",
-        "d) Solo bomberos."
-      ],
-      "respuesta_correcta": "b) El Ministro del Interior, representantes de la Administración General del Estado, de las CCAA y de la Administración Local (FEMP)."
-    },
-    {
-      "pregunta": "En caso de emergencia de interés nacional, ¿quién asume la dirección?",
-      "opciones": [
-        "a) El Presidente de la CCAA.",
-        "b) El titular del Ministerio del Interior.",
-        "c) El Jefe de la UME.",
-        "d) El Alcalde."
-      ],
-      "respuesta_correcta": "b) El titular del Ministerio del Interior."
-    },
-    {
-      "pregunta": "¿Qué es la Unidad Militar de Emergencias (UME)?",
-      "opciones": [
-        "a) Un cuerpo de policía.",
-        "b) Una fuerza conjunta de carácter permanente dentro de las Fuerzas Armadas para intervenir en emergencias.",
-        "c) Una ONG.",
-        "d) Un servicio de ambulancias."
-      ],
-      "respuesta_correcta": "b) Una fuerza conjunta de carácter permanente dentro de las Fuerzas Armadas para intervenir en emergencias."
-    },
-    {
-      "pregunta": "¿Cuándo actúa la UME?",
-      "opciones": [
-        "a) Siempre.",
-        "b) Cuando lo ordene el titular del Ministerio de Defensa (generalmente a solicitud de Interior o CCAA en situaciones graves).",
-        "c) En fiestas.",
-        "d) En accidentes leves."
-      ],
-      "respuesta_correcta": "b) Cuando lo ordene el titular del Ministerio de Defensa (generalmente a solicitud de Interior o CCAA en situaciones graves)."
-    },
-    {
-      "pregunta": "¿Qué es el Centro Nacional de Seguimiento y Coordinación de Emergencias (CENEM)?",
-      "opciones": [
-        "a) Un hospital.",
-        "b) El órgano que facilita la coordinación y seguimiento de las emergencias a nivel nacional.",
-        "c) Una comisaría.",
-        "d) Un almacén."
-      ],
-      "respuesta_correcta": "b) El órgano que facilita la coordinación y seguimiento de las emergencias a nivel nacional."
-    },
-    {
-      "pregunta": "¿Qué deben garantizar las Administraciones Públicas en sus relaciones de protección civil?",
-      "opciones": [
-        "a) Competencia.",
-        "b) Cooperación, coordinación y lealtad institucional.",
-        "c) Secreto.",
-        "d) Independencia total."
-      ],
-      "respuesta_correcta": "b) Cooperación, coordinación y lealtad institucional."
-    },
-    {
-      "pregunta": "¿Pueden participar las Fuerzas y Cuerpos de Seguridad en protección civil?",
-      "opciones": [
-        "a) No, solo seguridad ciudadana.",
-        "b) Sí, forman parte de los recursos operativos del Sistema Nacional.",
-        "c) Solo la Guardia Civil.",
-        "d) Solo la Policía Nacional."
-      ],
-      "respuesta_correcta": "b) Sí, forman parte de los recursos operativos del Sistema Nacional."
-    },
-    {
-      "pregunta": "¿Qué consideración tienen los miembros de los servicios de intervención en el ejercicio de sus funciones?",
-      "opciones": [
-        "a) Ninguna especial.",
-        "b) Agentes de la autoridad.",
-        "c) Funcionarios.",
-        "d) Voluntarios."
-      ],
-      "respuesta_correcta": "b) Agentes de la autoridad."
-    },
-    {
-      "pregunta": "¿Qué es la 'movilización' de recursos?",
-      "opciones": [
-        "a) Mover cosas.",
-        "b) La puesta a disposición de los medios y recursos necesarios para afrontar una emergencia.",
-        "c) Comprar vehículos.",
-        "d) Contratar gente."
-      ],
-      "respuesta_correcta": "b) La puesta a disposición de los medios y recursos necesarios para afrontar una emergencia."
-    },
-    {
-      "pregunta": "¿Qué principio rige la movilización de recursos?",
-      "opciones": [
-        "a) Inmediatez.",
-        "b) Adecuación a la gravedad y características de la emergencia.",
-        "c) Gratuidad.",
-        "d) Voluntariedad."
-      ],
-      "respuesta_correcta": "b) Adecuación a la gravedad y características de la emergencia."
-    },
-    {
-      "pregunta": "¿Pueden las autoridades competentes requisar bienes en caso de emergencia?",
-      "opciones": [
-        "a) No, es propiedad privada.",
-        "b) Sí, temporalmente, así como imponer prestaciones personales obligatorias, con la correspondiente indemnización.",
-        "c) Sí, para siempre.",
-        "d) Solo si el dueño quiere."
-      ],
-      "respuesta_correcta": "b) Sí, temporalmente, así como imponer prestaciones personales obligatorias, con la correspondiente indemnización."
-    },
-    {
-      "pregunta": "¿Qué es el Mecanismo de Protección Civil de la Unión Europea?",
-      "opciones": [
-        "a) Un seguro europeo.",
-        "b) El sistema de cooperación europea para la ayuda en caso de desastres.",
-        "c) Un ejército.",
-        "d) Una ley."
-      ],
-      "respuesta_correcta": "b) El sistema de cooperación europea para la ayuda en caso de desastres."
-    },
-    {
-      "pregunta": "¿Quién solicita la activación del Mecanismo Europeo?",
-      "opciones": [
-        "a) El Presidente de la CCAA.",
-        "b) El Ministerio del Interior (Dirección General de Protección Civil y Emergencias).",
-        "c) El Rey.",
-        "d) Cualquier ciudadano."
-      ],
-      "respuesta_correcta": "b) El Ministerio del Interior (Dirección General de Protección Civil y Emergencias)."
-    },
-    {
-      "pregunta": "¿Qué deben hacer las CCAA si una emergencia supera su capacidad?",
-      "opciones": [
-        "a) Rendirse.",
-        "b) Solicitar medios al Estado o la declaración de emergencia de interés nacional.",
-        "c) Pedir ayuda a otro país.",
-        "d) Ocultarlo."
-      ],
-      "respuesta_correcta": "b) Solicitar medios al Estado o la declaración de emergencia de interés nacional."
-    },
-    {
-      "pregunta": "¿Qué es la 'autoprotección'?",
-      "opciones": [
-        "a) Cuidarse uno mismo.",
-        "b) El sistema de acciones y medidas adoptadas por los titulares de actividades para prevenir y controlar sus propios riesgos.",
-        "c) Tener un botiquín.",
-        "d) No salir de casa."
-      ],
-      "respuesta_correcta": "b) El sistema de acciones y medidas adoptadas por los titulares de actividades para prevenir y controlar sus propios riesgos."
-    },
-    {
-      "pregunta": "¿Quién es responsable de la autoprotección corporativa?",
-      "opciones": [
-        "a) El Estado.",
-        "b) Los titulares de las actividades, centros o instalaciones.",
-        "c) Los empleados.",
-        "d) Los bomberos."
-      ],
-      "respuesta_correcta": "b) Los titulares de las actividades, centros o instalaciones."
-    },
-    {
-      "pregunta": "¿Qué infracciones se contemplan en la Ley 17/2015?",
-      "opciones": [
-        "a) Penales.",
-        "b) Administrativas (Muy graves, Graves y Leves).",
-        "c) Laborales.",
-        "d) Fiscales."
-      ],
-      "respuesta_correcta": "b) Administrativas (Muy graves, Graves y Leves)."
-    },
-    {
-      "pregunta": "¿Es infracción muy grave no comunicar situaciones de riesgo grave?",
-      "opciones": [
-        "a) Sí.",
-        "b) No.",
-        "c) Es leve.",
-        "d) Es grave."
-      ],
-      "respuesta_correcta": "a) Sí."
-    },
-    {
-      "pregunta": "¿Qué sanción corresponde a las infracciones muy graves?",
-      "opciones": [
-        "a) Multa de 30.001 a 600.000 euros.",
-        "b) Prisión.",
-        "c) Multa de 1.000 euros.",
-        "d) Cierre."
-      ],
-      "respuesta_correcta": "a) Multa de 30.001 a 600.000 euros."
-    },
-    {
-      "pregunta": "¿Qué es la Red de Alerta Nacional de Protección Civil?",
-      "opciones": [
-        "a) Una sirena.",
-        "b) Sistema de comunicación de avisos de emergencia a las autoridades competentes y a la población.",
-        "c) Una radio.",
-        "d) Un periódico."
-      ],
-      "respuesta_correcta": "b) Sistema de comunicación de avisos de emergencia a las autoridades competentes y a la población."
-    },
-    {
-      "pregunta": "¿Qué deben tener los centros que puedan generar riesgos?",
-      "opciones": [
-        "a) Seguro.",
-        "b) Plan de Autoprotección inscrito en el registro correspondiente.",
-        "c) Vigilante.",
-        "d) Extintores solo."
-      ],
-      "respuesta_correcta": "b) Plan de Autoprotección inscrito en el registro correspondiente."
-    },
-    {
-      "pregunta": "¿Qué papel tienen los Delegados del Gobierno en emergencias?",
-      "opciones": [
-        "a) Ninguno.",
-        "b) Dirigen la administración del Estado en el territorio y pueden asumir la dirección en emergencias de interés nacional si se delega.",
-        "c) Observadores.",
-        "d) Financiero."
-      ],
-      "respuesta_correcta": "b) Dirigen la administración del Estado en el territorio y pueden asumir la dirección en emergencias de interés nacional si se delega."
-    },
-    {
-      "pregunta": "¿Qué es el simulacro?",
-      "opciones": [
-        "a) Una mentira.",
-        "b) Ejercicio práctico para comprobar la eficacia de los planes y el entrenamiento del personal.",
-        "c) Un juego.",
-        "d) Un examen."
-      ],
-      "respuesta_correcta": "b) Ejercicio práctico para comprobar la eficacia de los planes y el entrenamiento del personal."
-    },
-    {
-      "pregunta": "¿Están obligados los servicios de vigilancia privada a colaborar?",
-      "opciones": [
-        "a) No.",
-        "b) Sí, como recursos complementarios.",
-        "c) Solo si les pagan.",
-        "d) Solo si quieren."
-      ],
-      "respuesta_correcta": "b) Sí, como recursos complementarios."
-    },
-    {
-      "pregunta": "¿Qué es la 'cultura preventiva'?",
-      "opciones": [
-        "a) Leer mucho.",
-        "b) Fomentar en la sociedad la conciencia del riesgo y la autoprotección.",
-        "c) No hacer nada.",
-        "d) Tener miedo."
-      ],
-      "respuesta_correcta": "b) Fomentar en la sociedad la conciencia del riesgo y la autoprotección."
-    },
-    {
-      "pregunta": "¿Quién gestiona el CENEM?",
-      "opciones": [
-        "a) La Policía.",
-        "b) La Dirección General de Protección Civil y Emergencias (Ministerio del Interior).",
-        "c) La UME.",
-        "d) El 112."
-      ],
-      "respuesta_correcta": "b) La Dirección General de Protección Civil y Emergencias (Ministerio del Interior)."
-    },
-    {
-      "pregunta": "¿Qué es la 'Estrategia del Sistema Nacional de Protección Civil'?",
-      "opciones": [
-        "a) Un libro.",
-        "b) El marco de acción para evaluar riesgos y establecer objetivos estratégicos a medio plazo.",
-        "c) Una táctica militar.",
-        "d) Un presupuesto."
-      ],
-      "respuesta_correcta": "b) El marco de acción para evaluar riesgos y establecer objetivos estratégicos a medio plazo."
-    },
-    {
-      "pregunta": "¿Quién aprueba la Estrategia del Sistema Nacional?",
-      "opciones": [
-        "a) El Consejo de Seguridad Nacional.",
-        "b) El Ministro del Interior.",
-        "c) Las CCAA.",
-        "d) La UE."
-      ],
-      "respuesta_correcta": "a) El Consejo de Seguridad Nacional (a propuesta del Consejo Nacional de Protección Civil)."
-    },
-    {
-      "pregunta": "¿Qué son los 'Mapas de Riesgos'?",
-      "opciones": [
-        "a) Mapas de carreteras.",
-        "b) Documentos cartográficos que identifican las zonas expuestas a riesgos.",
-        "c) Mapas del tiempo.",
-        "d) Mapas políticos."
-      ],
-      "respuesta_correcta": "b) Documentos cartográficos que identifican las zonas expuestas a riesgos."
-    },
-    {
-      "pregunta": "¿Qué es el 'Fondo de Prevención de Emergencias'?",
-      "opciones": [
-        "a) Un banco.",
-        "b) Instrumento financiero para medidas preventivas (previsto en la Ley).",
-        "c) Una hucha.",
-        "d) Un seguro."
-      ],
-      "respuesta_correcta": "b) Instrumento financiero para medidas preventivas (previsto en la Ley)."
-    },
-    {
-      "pregunta": "¿Se puede sancionar la falsa alarma (llamada maliciosa a servicios de emergencia)?",
-      "opciones": [
-        "a) No, es una broma.",
-        "b) Sí, como infracción grave o muy grave según el perjuicio causado.",
-        "c) Es leve.",
-        "d) Solo si es reiterado."
-      ],
-      "respuesta_correcta": "b) Sí, como infracción grave o muy grave según el perjuicio causado."
-    },
-    {
-      "pregunta": "¿Qué competencia tiene el Municipio en Protección Civil?",
-      "opciones": [
-        "a) Ninguna.",
-        "b) Crear la estructura municipal de protección civil, elaborar planes territoriales municipales y ejecutar acciones inmediatas.",
-        "c) Solo apagar fuegos.",
-        "d) Solo limpiar."
-      ],
-      "respuesta_correcta": "b) Crear la estructura municipal de protección civil, elaborar planes territoriales municipales y ejecutar acciones inmediatas."
-    },
-    {
-      "pregunta": "¿Qué es la 'Conferencia de Presidentes' en este ámbito?",
-      "opciones": [
-        "a) Una reunión informal.",
-        "b) Órgano de cooperación de máximo nivel político.",
-        "c) Un chat.",
-        "d) No tiene funciones en PC."
-      ],
-      "respuesta_correcta": "b) Órgano de cooperación de máximo nivel político."
-    },
-    {
-      "pregunta": "¿Qué es la 'Medalla al Mérito de la Protección Civil'?",
-      "opciones": [
-        "a) Un regalo.",
-        "b) Distinción para reconocer actos de heroísmo o solidaridad excepcionales.",
-        "c) Un sueldo.",
-        "d) Un diploma."
-      ],
-      "respuesta_correcta": "b) Distinción para reconocer actos de heroísmo o solidaridad excepcionales."
-    },
-    {
-      "pregunta": "¿Deben coordinarse los servicios de bomberos y policía?",
-      "opciones": [
-        "a) No.",
-        "b) Sí, para una respuesta eficaz.",
-        "c) Solo si quieren.",
-        "d) Compiten entre ellos."
-      ],
-      "respuesta_correcta": "b) Sí, para una respuesta eficaz."
-    },
-    {
-      "pregunta": "¿Qué información debe dar el Estado a las CCAA?",
-      "opciones": [
-        "a) Ninguna.",
-        "b) Información sobre riesgos y recursos disponibles.",
-        "c) Dinero.",
-        "d) Órdenes."
-      ],
-      "respuesta_correcta": "b) Información sobre riesgos y recursos disponibles."
-    },
-    {
-      "pregunta": "¿Quién evalúa los daños tras una catástrofe?",
-      "opciones": [
-        "a) El seguro.",
-        "b) La Administración competente en coordinación con las demás.",
-        "c) Los afectados.",
-        "d) La prensa."
-      ],
-      "respuesta_correcta": "b) La Administración competente en coordinación con las demás."
-    },
-    {
-      "pregunta": "¿Qué es el 'Mando Único' en emergencias?",
-      "opciones": [
-        "a) Una dictadura.",
-        "b) Principio operativo que asigna la dirección a una sola autoridad para garantizar la coordinación.",
-        "c) Que manden todos.",
-        "d) Que no mande nadie."
-      ],
-      "respuesta_correcta": "b) Principio operativo que asigna la dirección a una sola autoridad para garantizar la coordinación."
-    },
-    {
-      "pregunta": "¿Pueden las Fuerzas Armadas colaborar en emergencias que no sean de interés nacional?",
-      "opciones": [
-        "a) No.",
-        "b) Sí, a solicitud de la CCAA y autorización del Ministerio de Defensa (generalmente UME).",
-        "c) Sí, sin permiso.",
-        "d) Nunca."
-      ],
-      "respuesta_correcta": "b) Sí, a solicitud de la CCAA y autorización del Ministerio de Defensa (generalmente UME)."
-    },
-    {
-      "pregunta": "¿Qué vigencia tienen los planes de protección civil?",
-      "opciones": [
-        "a) 1 año.",
-        "b) Indefinida, pero deben revisarse periódicamente.",
-        "c) 5 años.",
-        "d) 10 años."
-      ],
-      "respuesta_correcta": "b) Indefinida, pero deben revisarse periódicamente."
-    },
-    {
-      "pregunta": "¿Qué es la 'Red de Radio de Emergencia' (REMER)?",
-      "opciones": [
-        "a) Una emisora comercial.",
-        "b) Red de radioaficionados voluntarios que colaboran con Protección Civil.",
-        "c) Internet.",
-        "d) Teléfonos satélite."
-      ],
-      "respuesta_correcta": "b) Red de radioaficionados voluntarios que colaboran con Protección Civil."
-    },
-    {
-      "pregunta": "¿Qué deben tener los edificios públicos?",
-      "opciones": [
-        "a) Bar.",
-        "b) Plan de Autoprotección si la norma lo exige.",
-        "c) Piscina.",
-        "d) Garaje."
-      ],
-      "respuesta_correcta": "b) Plan de Autoprotección si la norma lo exige."
-    },
-    {
-      "pregunta": "¿Qué es el 'Cecopio'? [Terminología operativa común en planes]",
-      "opciones": [
-        "a) Centro de Coordinación Operativa Integrado.",
-        "b) Un robot.",
-        "c) Un mapa.",
-        "d) Un vehículo."
-      ],
-      "respuesta_correcta": "a) Centro de Coordinación Operativa Integrado."
-    },
-    {
-      "pregunta": "¿Qué obligación tienen las empresas de sustancias peligrosas?",
-      "opciones": [
-        "a) Pagar más.",
-        "b) Informar de los riesgos y tener planes de emergencia interior y colaborar en el exterior.",
-        "c) Cerrar.",
-        "d) Nada."
-      ],
-      "respuesta_correcta": "b) Informar de los riesgos y tener planes de emergencia interior y colaborar en el exterior."
-    },
-    {
-      "pregunta": "¿Qué es la 'Unidad de Protección Civil' de la Delegación del Gobierno?",
-      "opciones": [
-        "a) Un grupo de voluntarios.",
-        "b) La unidad administrativa encargada de la gestión de competencias estatales en la provincia/CCAA.",
-        "c) La policía.",
-        "d) Los bomberos."
-      ],
-      "respuesta_correcta": "b) La unidad administrativa encargada de la gestión de competencias estatales en la provincia/CCAA."
-    },
-    {
-      "pregunta": "¿Quién homologa los planes de autoprotección?",
-      "opciones": [
-        "a) El dueño.",
-        "b) La autoridad competente en materia de protección civil (CCAA o Local según corresponda).",
-        "c) El Ministerio.",
-        "d) La UME."
-      ],
-      "respuesta_correcta": "b) La autoridad competente en materia de protección civil (CCAA o Local según corresponda)."
-    },
-    {
-      "pregunta": "¿Qué es el 'interés nacional' en una emergencia?",
-      "opciones": [
-        "a) Que salga en las noticias.",
-        "b) Que requiera coordinación supraautonómica o recursos estatales masivos, o afecte a la seguridad nacional.",
-        "c) Que sea cara.",
-        "d) Que muera gente."
-      ],
-      "respuesta_correcta": "b) Que requiera coordinación supraautonómica o recursos estatales masivos, o afecte a la seguridad nacional."
-    },
-    {
-      "pregunta": "¿Qué es la 'Declaración de zona catastrófica'?",
-      "opciones": [
-        "a) Un lamento.",
-        "b) Acuerdo del Consejo de Ministros que permite aplicar ayudas económicas especiales.",
-        "c) Una ley.",
-        "d) Un plan."
-      ],
-      "respuesta_correcta": "b) Acuerdo del Consejo de Ministros que permite aplicar ayudas económicas especiales."
-    },
-    {
-      "pregunta": "¿Qué papel juega la Cruz Roja en el Sistema Nacional?",
-      "opciones": [
-        "a) Ninguno.",
-        "b) Tiene un papel auxiliar y colaborador reconocido por ley.",
-        "c) Es privada.",
-        "d) Es militar."
-      ],
-      "respuesta_correcta": "b) Tiene un papel auxiliar y colaborador reconocido por ley."
-    },
-    {
-      "pregunta": "¿Qué es la 'fase de alerta'?",
-      "opciones": [
-        "a) Tener miedo.",
-        "b) Situación previa a la emergencia donde se activan medidas de seguimiento y aviso.",
-        "c) La emergencia.",
-        "d) La recuperación."
-      ],
-      "respuesta_correcta": "b) Situación previa a la emergencia donde se activan medidas de seguimiento y aviso."
-    },
-    {
-      "pregunta": "¿Pueden las CCAA solicitar la declaración de emergencia de interés nacional?",
-      "opciones": [
-        "a) No.",
-        "b) Sí.",
-        "c) Solo si pagan.",
-        "d) Solo si es incendio."
-      ],
-      "respuesta_correcta": "b) Sí."
-    },
-    {
-      "pregunta": "¿Qué es el 'Centro de Coordinación Operativa' (CECOP)?",
-      "opciones": [
-        "a) El lugar donde se dirige la emergencia.",
-        "b) Un almacén.",
-        "c) Una tienda.",
-        "d) Un bar."
-      ],
-      "respuesta_correcta": "a) El lugar donde se dirige la emergencia."
-    },
-    {
-      "pregunta": "¿Qué deben hacer los ciudadanos ante las órdenes de protección civil?",
-      "opciones": [
-        "a) Discutirlas.",
-        "b) Cumplirlas.",
-        "c) Ignorarlas.",
-        "d) Votarlas."
-      ],
-      "respuesta_correcta": "b) Cumplirlas."
-    },
-    {
-      "pregunta": "¿Qué es la 'Evaluación de Riesgos'?",
-      "opciones": [
-        "a) Un examen.",
-        "b) Estudio técnico para identificar y calificar los riesgos de un territorio.",
-        "c) Una apuesta.",
-        "d) Un seguro."
-      ],
-      "respuesta_correcta": "b) Estudio técnico para identificar y calificar los riesgos de un territorio."
-    },
-    {
-      "pregunta": "¿Qué es el 'Plan Territorial'?",
-      "opciones": [
-        "a) Un mapa.",
-        "b) Plan general para hacer frente a los riesgos en un territorio (CCAA, Provincia, Municipio).",
-        "c) Un plan de urbanismo.",
-        "d) Un plan de viaje."
-      ],
-      "respuesta_correcta": "b) Plan general para hacer frente a los riesgos en un territorio (CCAA, Provincia, Municipio)."
-    },
-    {
-      "pregunta": "¿Qué es la 'formación continuada' en PC?",
-      "opciones": [
-        "a) Estudiar siempre.",
-        "b) Actualización de conocimientos para el personal del sistema.",
-        "c) Ir al colegio.",
-        "d) Leer noticias."
-      ],
-      "respuesta_correcta": "b) Actualización de conocimientos para el personal del sistema."
-    },
-    {
-      "pregunta": "¿Qué es la 'protección de bienes culturales' en emergencias?",
-      "opciones": [
-        "a) Salvar cuadros.",
-        "b) Medidas para evitar daños al patrimonio histórico en catástrofes.",
-        "c) Vender arte.",
-        "d) Cerrar museos."
-      ],
-      "respuesta_correcta": "b) Medidas para evitar daños al patrimonio histórico en catástrofes."
-    },
-    {
-      "pregunta": "¿Quién coordina la ayuda internacional en España?",
-      "opciones": [
-        "a) La Cruz Roja.",
-        "b) El Ministerio del Interior (DGPCyE) en coordinación con Exteriores.",
-        "c) La ONU.",
-        "d) Las CCAA."
-      ],
-      "respuesta_correcta": "b) El Ministerio del Interior (DGPCyE) en coordinación con Exteriores."
-    },
-    {
-      "pregunta": "¿Qué es la 'cultura de autoprotección'?",
-      "opciones": [
-        "a) Saber defenderse.",
-        "b) Conciencia social sobre la necesidad de prevenir y saber actuar ante riesgos.",
-        "c) Comprar armas.",
-        "d) Construir búnkeres."
-      ],
-      "respuesta_correcta": "b) Conciencia social sobre la necesidad de prevenir y saber actuar ante riesgos."
-    },
-    {
-      "pregunta": "¿Qué es el 'Registro Nacional de Datos sobre Emergencias y Catástrofes'?",
-      "opciones": [
-        "a) Una lista de fallecidos.",
-        "b) Base de datos unificada sobre sucesos para análisis y estadística.",
-        "c) Un libro de historia.",
-        "d) Un periódico."
-      ],
-      "respuesta_correcta": "b) Base de datos unificada sobre sucesos para análisis y estadística."
-    },
-    {
-      "pregunta": "¿Qué es la 'resiliencia' en protección civil?",
-      "opciones": [
-        "a) Aguantar.",
-        "b) Capacidad de la sociedad para resistir y recuperarse de los desastres.",
-        "c) Rebotar.",
-        "d) Olvidar."
-      ],
-      "respuesta_correcta": "b) Capacidad de la sociedad para resistir y recuperarse de los desastres."
+[[
+  
+    {
+      "tema": "TEMA 15.- SISTEMA NACIONAL DE PROTECCIÓN CIVIL",
+      "descripcion": "Batería de 75 preguntas sobre la Ley 17/2015 con distribución equitativa de respuestas.",
+      "preguntas": [
+        {
+          "pregunta": "Según el artículo 1 de la Ley 17/2015, ¿cuál es la finalidad del Sistema Nacional de Protección Civil?",
+          "opciones": [
+            "a) Garantizar una respuesta coordinada y eficiente de las Administraciones Públicas para la protección de las personas y bienes en caso de situaciones de grave riesgo colectivo, catástrofe o calamidad pública, asegurando la unidad de mando y la cooperación interadministrativa.",
+            "b) Crear una estructura jerárquica militarizada bajo el mando del Ministerio del Interior para la intervención en crisis internacionales y conflictos armados que afecten a la población civil.",
+            "c) Coordinar los servicios de bomberos y policía local de los municipios para la prevención de incendios forestales y la gestión del tráfico en situaciones de emergencia.",
+            "d) Establecer un marco jurídico que regule exclusivamente las competencias del Estado en materia de seguridad pública, dejando a las Comunidades Autónomas la gestión operativa de las emergencias ordinarias."
+          ],
+          "respuesta_correcta": "b) Crear una estructura jerárquica militarizada bajo el mando del Ministerio del Interior para la intervención en crisis internacionales y conflictos armados que afecten a la población civil.",
+          "cita": "Ley 17/2015, Art. 1"
+        },
+        {
+          "pregunta": "¿Cómo define la Ley el concepto de 'catástrofe' (Art. 2)?",
+          "opciones": [
+            "a) Una situación o acontecimiento que altera o interrumpe sustancialmente el funcionamiento de una comunidad o sociedad por ocasionar gran cantidad de víctimas, daños e impactos materiales, cuya atención supera los medios disponibles de la propia comunidad.",
+            "b) Cualquier suceso que provoque daños materiales superiores a un millón de euros o que afecte a infraestructuras críticas del Estado, independientemente del número de víctimas.",
+            "c) Un evento natural o tecnológico que causa la muerte de al menos diez personas y requiere la declaración de estado de alarma por el Gobierno.",
+            "d) La situación fáctica de riesgo muy grave que pone en peligro la vida de las personas y la integridad de los bienes, requiriendo la intervención de la Unidad Militar de Emergencias."
+          ],
+          "respuesta_correcta": "a) Una situación o acontecimiento que altera o interrumpe sustancialmente el funcionamiento de una comunidad o sociedad por ocasionar gran cantidad de víctimas, daños e impactos materiales, cuya atención supera los medios disponibles de la propia comunidad.",
+          "cita": "Ley 17/2015, Art. 2.1"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'peligro' según las definiciones de la Ley 17/2015?",
+          "opciones": [
+            "a) La combinación de la probabilidad de que se desencadene un determinado fenómeno o suceso que, como consecuencia de su propia naturaleza o intensidad y la vulnerabilidad de los elementos expuestos, puede producir efectos perjudiciales.",
+            "b) La probabilidad de que se produzca un efecto adverso en un periodo de tiempo determinado y en un área geográfica concreta.",
+            "c) La potencialidad de que un fenómeno, suceso o actividad humana cause efectos adversos sobre la vida o la salud de las personas, los bienes, las infraestructuras, los servicios, el medio ambiente o la sociedad.",
+            "d) Cualquier situación de hecho que amenace de forma inminente la seguridad nacional o el orden público constitucional."
+          ],
+          "respuesta_correcta": "b) La probabilidad de que se produzca un efecto adverso en un periodo de tiempo determinado y en un área geográfica concreta.",
+          "cita": "Ley 17/2015, Art. 2.3"
+        },
+        {
+          "pregunta": "Según el artículo 4, ¿quién aprueba la Estrategia del Sistema Nacional de Protección Civil?",
+          "opciones": [
+            "a) El Gobierno, a propuesta del Ministro del Interior, y previo informe del Consejo Nacional de Protección Civil y de la Comisión Nacional de Protección Civil.",
+            "b) El Ministro del Interior mediante Orden Ministerial, previa consulta a la Federación Española de Municipios y Provincias.",
+            "c) El Congreso de los Diputados mediante ley orgánica, a iniciativa legislativa popular o del Gobierno.",
+            "d) El Consejo de Seguridad Nacional, a propuesta del Presidente del Gobierno, oídos los Presidentes de las Comunidades Autónomas."
+          ],
+          "respuesta_correcta": "a) El Gobierno, a propuesta del Ministro del Interior, y previo informe del Consejo Nacional de Protección Civil y de la Comisión Nacional de Protección Civil.",
+          "cita": "Ley 17/2015, Art. 4.3"
+        },
+        {
+          "pregunta": "¿Qué derecho tienen los ciudadanos en caso de catástrofe según el artículo 5?",
+          "opciones": [
+            "a) Solo los ciudadanos españoles tienen derecho a la protección civil, quedando excluidos los extranjeros en situación irregular.",
+            "b) Tienen derecho a recibir una indemnización automática del Estado por todos los daños materiales sufridos, independientemente de si tenían seguro privado.",
+            "c) Todos los residentes en el territorio nacional tienen derecho a ser atendidos por las Administraciones Públicas en caso de catástrofe, de conformidad con lo previsto en las leyes, sin discriminación alguna por razón de raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+            "d) Tienen derecho a ser evacuados a un hotel de cuatro estrellas o superior hasta que se restablezca la normalidad en su domicilio."
+          ],
+          "respuesta_correcta": "c) Todos los residentes en el territorio nacional tienen derecho a ser atendidos por las Administraciones Públicas en caso de catástrofe, de conformidad con lo previsto en las leyes, sin discriminación alguna por razón de raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+          "cita": "Ley 17/2015, Art. 5"
+        },
+        {
+          "pregunta": "¿En qué consiste el deber de colaboración regulado en el artículo 7 bis?",
+          "opciones": [
+            "a) Los ciudadanos y las personas jurídicas tienen el deber de colaborar, personal y materialmente, en la protección civil, en caso de requerimiento de la autoridad competente, de conformidad con lo establecido en el artículo 30.4 de la Constitución.",
+            "b) Consiste en la obligación de afiliarse a una agrupación de voluntarios de protección civil y realizar un mínimo de 100 horas de servicio anuales.",
+            "c) Es un deber moral y ético, pero no jurídico, por lo que su incumplimiento no conlleva sanción alguna.",
+            "d) Implica que las empresas privadas deben ceder gratuitamente todos sus beneficios al Estado en caso de emergencia nacional declarada."
+          ],
+          "respuesta_correcta": "c) Es un deber moral y ético, pero no jurídico, por lo que su incumplimiento no conlleva sanción alguna.",
+          "cita": "Ley 17/2015, Art. 7 bis.1"
+        },
+        {
+          "pregunta": "¿Qué establece el artículo 7 ter sobre el deber de cautela y autoprotección?",
+          "opciones": [
+            "a) Los ciudadanos deben tomar las medidas necesarias para evitar la generación de riesgos y no exponerse a ellos, así como tener una conducta activa en situaciones de emergencia, siguiendo las recomendaciones e instrucciones de las autoridades.",
+            "b) Es obligatorio que todos los ciudadanos realicen un curso de primeros auxilios y extinción de incendios cada dos años.",
+            "c) Las comunidades de vecinos deben tener un plan de autoprotección visado por el Ministerio del Interior bajo pena de multa.",
+            "d) Los ciudadanos son responsables directos de cualquier daño que sufran si no han contratado un seguro de hogar multirriesgo."
+          ],
+          "respuesta_correcta": "c) Las comunidades de vecinos deben tener un plan de autoprotección visado por el Ministerio del Interior bajo pena de multa.",
+          "cita": "Ley 17/2015, Art. 7 ter.1"
+        },
+        {
+          "pregunta": "¿Qué papel juegan los medios de comunicación según el artículo 6 (Derecho a la información)?",
+          "opciones": [
+            "a) Los medios de comunicación social de titularidad pública y privada están obligados a colaborar de manera gratuita con las autoridades competentes en la difusión de las informaciones preventivas y operativas ante situaciones de emergencia.",
+            "b) Pueden cobrar tarifas publicitarias reducidas por la emisión de avisos de emergencia, salvo en caso de guerra.",
+            "c) Solo los medios públicos (RTVE) tienen obligación de difundir alertas, siendo voluntario para los medios privados.",
+            "d) Deben ceder el control de sus emisiones al Ministerio del Interior cuando se declare el estado de alarma."
+          ],
+          "respuesta_correcta": "c) Solo los medios públicos (RTVE) tienen obligación de difundir alertas, siendo voluntario para los medios privados.",
+          "cita": "Ley 17/2015, Art. 6.3"
+        },
+        {
+          "pregunta": "¿Qué es la 'Anticipación' en el ciclo de la emergencia (Art. 8)?",
+          "opciones": [
+            "a) La actuación inmediata de los servicios de emergencia para socorrer a las víctimas en los primeros momentos del desastre.",
+            "b) La fase que tiene por objeto determinar los riesgos en un territorio basándose en las condiciones de vulnerabilidad y las posibles amenazas, y comprende el análisis y evaluación de los riesgos.",
+            "c) El conjunto de medidas adoptadas para evitar o disminuir los daños derivados de una emergencia que ya se ha producido.",
+            "d) La planificación de la reconstrucción de las infraestructuras dañadas antes de que ocurra el suceso."
+          ],
+          "respuesta_correcta": "d) La planificación de la reconstrucción de las infraestructuras dañadas antes de que ocurra el suceso.",
+          "cita": "Ley 17/2015, Art. 8"
+        },
+        {
+          "pregunta": "¿Qué integra la Red Nacional de Información sobre Protección Civil (Art. 9)?",
+          "opciones": [
+            "a) Un canal de televisión dedicado exclusivamente a emitir consejos de seguridad las 24 horas.",
+            "b) Una base de datos secreta del CNI sobre amenazas terroristas y ciberataques.",
+            "c) El registro de voluntarios de protección civil de todas las agrupaciones locales de España.",
+            "d) El conjunto de datos e informaciones necesarios para el funcionamiento del Sistema Nacional de Protección Civil, interconectando los sistemas de información de las diferentes Administraciones Públicas."
+          ],
+          "respuesta_correcta": "b) Una base de datos secreta del CNI sobre amenazas terroristas y ciberataques.",
+          "cita": "Ley 17/2015, Art. 9.1"
+        },
+        {
+          "pregunta": "¿En qué consiste la 'Prevención' de riesgos de protección civil (Art. 10)?",
+          "opciones": [
+            "a) En la contratación de seguros de responsabilidad civil por parte de la Administración.",
+            "b) En el conjunto de medidas y acciones encaminadas a evitar o mitigar los posibles impactos adversos de los riesgos y amenazas de emergencia.",
+            "c) En la compra de material y equipos para los servicios de intervención antes de que sean necesarios.",
+            "d) En la realización de simulacros anuales para entrenar a la población."
+          ],
+          "respuesta_correcta": "d) En la realización de simulacros anuales para entrenar a la población.",
+          "cita": "Ley 17/2015, Art. 10.1"
+        },
+        {
+          "pregunta": "¿Qué es el Mapa Nacional de Riesgos de Protección Civil (Art. 11)?",
+          "opciones": [
+            "a) El plan de ordenación urbana de los municipios con riesgo sísmico.",
+            "b) Un documento orientativo que elaboran las universidades sin carácter vinculante para las administraciones.",
+            "c) El instrumento cartográfico oficial que identifica las áreas geográficas susceptibles de sufrir daños por emergencias y catástrofes, elaborado por la Dirección General de Protección Civil y Emergencias.",
+            "d) La aplicación móvil que permite a los ciudadanos consultar el tiempo en tiempo real."
+          ],
+          "respuesta_correcta": "d) La aplicación móvil que permite a los ciudadanos consultar el tiempo en tiempo real.",
+          "cita": "Ley 17/2015, Art. 11 (Interpretación competencial)"
+        },
+        {
+          "pregunta": "¿Qué obligación tienen los titulares de actividades generadoras de riesgos (Art. 12)?",
+          "opciones": [
+            "a) Contratar a una unidad de la UME de forma permanente en sus instalaciones.",
+            "b) Informar diariamente al Alcalde sobre el estado de sus instalaciones.",
+            "c) Pagar una tasa especial de protección civil al Ministerio del Interior.",
+            "d) Elaborar e implantar planes de autoprotección, disponiendo de los medios humanos y materiales necesarios para la prevención de riesgos y la intervención inicial."
+          ],
+          "respuesta_correcta": "c) Pagar una tasa especial de protección civil al Ministerio del Interior.",
+          "cita": "Ley 17/2015, Art. 12 (Referencia a autoprotección corporativa)"
+        },
+        {
+          "pregunta": "¿Qué es el Fondo de Prevención de Emergencias (Art. 13)?",
+          "opciones": [
+            "a) Un instrumento financiero destinado a sufragar las medidas de prevención e investigación en materia de protección civil, dotado presupuestariamente por el Estado.",
+            "b) Una cuenta bancaria solidaria donde los ciudadanos pueden hacer donaciones voluntarias.",
+            "c) No existe tal fondo en la Ley 17/2015, se refiere a las ayudas por catástrofe.",
+            "d) El dinero recaudado con las multas de tráfico que se destina a comprar ambulancias."
+          ],
+          "respuesta_correcta": "d) El dinero recaudado con las multas de tráfico que se destina a comprar ambulancias.",
+          "cita": "Ley 17/2015, Art. 13 (Nota: La Ley lo menciona como posibilidad o instrumento de financiación de actividades preventivas)."
+        },
+        {
+          "pregunta": "Según el artículo 7 quáter, ¿qué papel juega el voluntariado en la protección civil?",
+          "opciones": [
+            "a) El voluntariado de protección civil es un complemento fundamental del Sistema Nacional, cuya colaboración se canaliza a través de las entidades de voluntariado, sin que en ningún caso pueda sustituir a los servicios públicos profesionales.",
+            "b) Es una actividad remunerada que cotiza a la Seguridad Social en régimen especial.",
+            "c) Los voluntarios pueden asumir el mando operativo de las emergencias si no hay bomberos disponibles.",
+            "d) Los voluntarios tienen la condición de agentes de la autoridad cuando están de servicio."
+          ],
+          "respuesta_correcta": "b) Es una actividad remunerada que cotiza a la Seguridad Social en régimen especial.",
+          "cita": "Ley 17/2015, Art. 7 quáter"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'vulnerabilidad' (Art. 2)?",
+          "opciones": [
+            "a) La debilidad estructural de los edificios públicos ante terremotos.",
+            "b) La probabilidad de que ocurra un desastre natural en una zona determinada.",
+            "c) La falta de medios económicos para afrontar la reconstrucción tras una catástrofe.",
+            "d) La característica de una comunidad, sistema o bien que los hace susceptibles de sufrir daños por los efectos de un peligro."
+          ],
+          "respuesta_correcta": "d) La característica de una comunidad, sistema o bien que los hace susceptibles de sufrir daños por los efectos de un peligro.",
+          "cita": "Ley 17/2015, Art. 2.5"
+        },
+        {
+          "pregunta": "¿Quiénes son los destinatarios de la información sobre riesgos (Art. 6)?",
+          "opciones": [
+            "a) Las compañías de seguros para calcular las primas de riesgo.",
+            "b) Todos los ciudadanos tienen derecho a ser informados adecuadamente acerca de los riesgos colectivos importantes que les afecten, las medidas previstas y las conductas que deben adoptar.",
+            "c) Solo las autoridades locales y autonómicas, para no crear alarma social injustificada.",
+            "d) Exclusivamente los propietarios de bienes inmuebles en zonas inundables."
+          ],
+          "respuesta_correcta": "b) Todos los ciudadanos tienen derecho a ser informados adecuadamente acerca de los riesgos colectivos importantes que les afecten, las medidas previstas y las conductas que deben adoptar.",
+          "cita": "Ley 17/2015, Art. 6.1"
+        },
+        {
+          "pregunta": "¿Qué implica la 'unidad de mando' en una emergencia (Art. 1)?",
+          "opciones": [
+            "a) Que la dirección y coordinación de todas las actuaciones operativas corresponde a una autoridad única, según el nivel de la emergencia, para garantizar la eficacia de la respuesta.",
+            "b) Que cada cuerpo (bomberos, sanitarios, policía) actúa de forma independiente bajo sus propios mandos.",
+            "c) Que las decisiones se toman por votación entre los representantes de los distintos servicios de emergencia.",
+            "d) Que siempre manda el oficial de mayor graduación de la Guardia Civil presente en el lugar."
+          ],
+          "respuesta_correcta": "c) Que las decisiones se toman por votación entre los representantes de los distintos servicios de emergencia.",
+          "cita": "Ley 17/2015, Art. 1 (Principio de funcionamiento)"
+        },
+        {
+          "pregunta": "¿Qué es la 'resiliencia' en el contexto de la protección civil (Art. 2)?",
+          "opciones": [
+            "a) La resistencia de los materiales de construcción al fuego y al agua.",
+            "b) La habilidad de los gestores políticos para evitar la crítica social tras una catástrofe.",
+            "c) La capacidad psicológica de las víctimas para superar el trauma postraumático.",
+            "d) La capacidad de un sistema, comunidad o sociedad expuestos a una amenaza para resistir, absorber, adaptarse y recuperarse de sus efectos de manera oportuna y eficaz."
+          ],
+          "respuesta_correcta": "b) La habilidad de los gestores políticos para evitar la crítica social tras una catástrofe.",
+          "cita": "Ley 17/2015, Art. 2.4"
+        },
+        {
+          "pregunta": "¿Qué carácter tiene el Sistema Nacional de Protección Civil (Art. 3)?",
+          "opciones": [
+            "a) Es una empresa pública con personalidad jurídica propia y patrimonio independiente.",
+            "b) Es un organismo autónomo adscrito al Ministerio de Defensa.",
+            "c) Es una fundación privada sin ánimo de lucro financiada por el Estado.",
+            "d) Es un servicio público esencial que integra la actividad de protección civil de todas las Administraciones Públicas, con el fin de garantizar una respuesta coordinada y eficiente."
+          ],
+          "respuesta_correcta": "d) Es un servicio público esencial que integra la actividad de protección civil de todas las Administraciones Públicas, con el fin de garantizar una respuesta coordinada y eficiente.",
+          "cita": "Ley 17/2015, Art. 3"
+        },
+        {
+          "pregunta": "¿Qué son los 'servicios esenciales' (Art. 2)?",
+          "opciones": [
+            "a) Los servicios de transporte público interurbano.",
+            "b) Las telecomunicaciones y la banca electrónica.",
+            "c) Únicamente el suministro de agua, luz y gas.",
+            "d) Los servicios necesarios para el mantenimiento de las funciones sociales básicas, la salud, la seguridad, el bienestar social y económico de los ciudadanos, o el eficaz funcionamiento de las Instituciones del Estado."
+          ],
+          "respuesta_correcta": "c) Únicamente el suministro de agua, luz y gas.",
+          "cita": "Ley 17/2015, Art. 2.6"
+        },
+        {
+          "pregunta": "¿Qué es el 'riesgo' (Art. 2)?",
+          "opciones": [
+            "a) La certeza absoluta de que va a ocurrir una catástrofe.",
+            "b) El coste económico estimado de la reparación de daños.",
+            "c) La combinación de la probabilidad de que se produzca un evento y sus consecuencias negativas.",
+            "d) El miedo subjetivo de la población ante una amenaza desconocida."
+          ],
+          "respuesta_correcta": "d) El miedo subjetivo de la población ante una amenaza desconocida.",
+          "cita": "Ley 17/2015, Art. 2 (Implícito en definición de Peligro y Vulnerabilidad, o definición técnica estándar adoptada)"
+        },
+        {
+          "pregunta": "¿Cuándo deben realizarse simulacros (Art. 10)?",
+          "opciones": [
+            "a) Una vez cada diez años como mínimo.",
+            "b) Solo cuando haya una alerta real de catástrofe inminente.",
+            "c) Periódicamente, para comprobar la eficacia de los planes de protección civil y asegurar la instrucción y adiestramiento del personal.",
+            "d) Es voluntario para las empresas y administraciones."
+          ],
+          "respuesta_correcta": "c) Periódicamente, para comprobar la eficacia de los planes de protección civil y asegurar la instrucción y adiestramiento del personal.",
+          "cita": "Ley 17/2015, Art. 10.2"
+        },
+        {
+          "pregunta": "¿Qué es la 'evaluación de impacto' en protección civil (Art. 10)?",
+          "opciones": [
+            "a) El análisis de las consecuencias que pueden tener sobre la protección civil las actuaciones urbanísticas, industriales o de infraestructuras, para evitar la generación de nuevos riesgos.",
+            "b) La valoración de los daños después de la catástrofe para pagar las indemnizaciones.",
+            "c) La auditoría contable de los gastos de la UME.",
+            "d) El estudio de la opinión pública sobre la gestión de la emergencia."
+          ],
+          "respuesta_correcta": "d) El estudio de la opinión pública sobre la gestión de la emergencia.",
+          "cita": "Ley 17/2015, Art. 10 (Urbanismo y ordenación territorio)"
+        },
+        {
+          "pregunta": "¿Qué papel tiene la Cruz Roja en el Sistema Nacional de Protección Civil?",
+          "opciones": [
+            "a) Actúa como una empresa privada contratada por la Administración.",
+            "b) Tiene una consideración especial como institución auxiliar de los poderes públicos en el ámbito humanitario, colaborando en las tareas de protección civil de acuerdo con sus estatutos y la legislación vigente.",
+            "c) Dirige los operativos de búsqueda y salvamento en montaña.",
+            "d) Es la única entidad autorizada para prestar asistencia sanitaria en emergencias."
+          ],
+          "respuesta_correcta": "b) Tiene una consideración especial como institución auxiliar de los poderes públicos en el ámbito humanitario, colaborando en las tareas de protección civil de acuerdo con sus estatutos y la legislación vigente.",
+          "cita": "Ley 17/2015, Disp. Adic. Tercera"
+        },
+        {
+          "pregunta": "¿Qué es el Inventario Nacional de Riesgos?",
+          "opciones": [
+            "a) Un registro que recoge y sistematiza la información sobre los riesgos de protección civil en todo el territorio nacional, formando parte de la Red Nacional de Información.",
+            "b) La lista de empresas peligrosas que deben pagar más impuestos.",
+            "c) El censo de edificios en ruina.",
+            "d) Un catálogo de especies animales peligrosas."
+          ],
+          "respuesta_correcta": "d) Un catálogo de especies animales peligrosas.",
+          "cita": "Ley 17/2015, Art. 9"
+        },
+        {
+          "pregunta": "¿Qué principio rige las relaciones entre las distintas Administraciones en protección civil?",
+          "opciones": [
+            "a) El principio de independencia total, cada administración actúa por su cuenta.",
+            "b) El principio de jerarquía, donde el Estado manda siempre sobre las Comunidades Autónomas.",
+            "c) El principio de competencia exclusiva del municipio.",
+            "d) Los principios de solidaridad, cooperación, coordinación, colaboración, lealtad institucional y asistencia recíproca."
+          ],
+          "respuesta_correcta": "a) El principio de independencia total, cada administración actúa por su cuenta.",
+          "cita": "Ley 17/2015, Art. 3"
+        },
+        {
+          "pregunta": "¿Qué son los 'Planes de Autoprotección'?",
+          "opciones": [
+            "a) Las normas de evacuación de los colegios.",
+            "b) Los planes de pensiones privados.",
+            "c) El marco orgánico y funcional previsto para una actividad, centro, establecimiento, espacio, instalación o dependencia, con el objeto de prevenir y controlar los riesgos sobre las personas y los bienes y dar respuesta adecuada a las posibles situaciones de emergencia.",
+            "d) Los seguros de vida que contratan los particulares."
+          ],
+          "respuesta_correcta": "b) Los planes de pensiones privados.",
+          "cita": "Ley 17/2015, Art. 2 (Definiciones)"
+        },
+        {
+          "pregunta": "¿Quién es el responsable de la protección civil en el ámbito municipal?",
+          "opciones": [
+            "a) El Alcalde, como autoridad superior de la protección civil en el municipio.",
+            "b) El Jefe de la Policía Local.",
+            "c) El Concejal de Seguridad Ciudadana.",
+            "d) El Jefe de la Agrupación de Voluntarios."
+          ],
+          "respuesta_correcta": "b) El Jefe de la Policía Local.",
+          "cita": "LBRL / Ley 17/2015 (Implícito en competencias locales)"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'emergencia de interés nacional'?",
+          "opciones": [
+            "a) La que afecta a la capital del Estado.",
+            "b) Un atentado terrorista exclusivamente.",
+            "c) Aquella que por sus dimensiones efectivas o previsibles requiera una dirección de carácter nacional (por afectar a varias CCAA y exigir recursos extraordinarios) o la que sea declarada así por el Ministro del Interior.",
+            "d) Cualquier emergencia que salga en los telediarios nacionales."
+          ],
+          "respuesta_correcta": "c) Aquella que por sus dimensiones efectivas o previsibles requiera una dirección de carácter nacional (por afectar a varias CCAA y exigir recursos extraordinarios) o la que sea declarada así por el Ministro del Interior.",
+          "cita": "Ley 17/2015, Art. 28"
+        },
+        {
+          "pregunta": "¿Qué es la 'movilización' en protección civil?",
+          "opciones": [
+            "a) La llamada a filas de los reservistas del ejército.",
+            "b) El conjunto de operaciones y procedimientos para la puesta a disposición de los recursos humanos y materiales necesarios para afrontar una emergencia.",
+            "c) El traslado de los enfermos al hospital.",
+            "d) La manifestación ciudadana pidiendo ayudas."
+          ],
+          "respuesta_correcta": "c) El traslado de los enfermos al hospital.",
+          "cita": "Ley 17/2015, Art. 2 (Definiciones)"
+        },
+        {
+          "pregunta": "¿Qué vigencia tiene la Estrategia del Sistema Nacional de Protección Civil?",
+          "opciones": [
+            "a) Tiene vigencia indefinida.",
+            "b) Será revisada cada cuatro años, o antes si las circunstancias lo aconsejan.",
+            "c) Caduca al año de su aprobación.",
+            "d) Se renueva automáticamente cada legislatura."
+          ],
+          "respuesta_correcta": "a) Tiene vigencia indefinida.",
+          "cita": "Ley 17/2015, Art. 4.4"
+        },
+        {
+          "pregunta": "¿Qué es la 'Cultura Preventiva'?",
+          "opciones": [
+            "a) El miedo a los desastres naturales.",
+            "b) La superstición sobre las catástrofes.",
+            "c) El conjunto de conocimientos y actitudes que permiten a la población identificar los riesgos y adoptar medidas para evitarlos o mitigarlos, fomentada por los poderes públicos a través de la educación y la información.",
+            "d) La tradición de asegurar las casas contra incendios."
+          ],
+          "respuesta_correcta": "a) El miedo a los desastres naturales.",
+          "cita": "Ley 17/2015, Preámbulo y Art. 6"
+        },
+        {
+          "pregunta": "¿Qué implica la declaración de 'zona afectada gravemente por una emergencia de protección civil' (antes zona catastrófica)?",
+          "opciones": [
+            "a) La reconstrucción inmediata de todas las viviendas a cargo del Estado sin límite de coste.",
+            "b) Permite la adopción de medidas extraordinarias de ayuda económica, fiscal y laboral para los afectados y para la recuperación de la zona, acordada por el Consejo de Ministros.",
+            "c) La militarización de la zona y la suspensión de derechos fundamentales.",
+            "d) La exención total de impuestos para todos los residentes de por vida."
+          ],
+          "respuesta_correcta": "a) La reconstrucción inmediata de todas las viviendas a cargo del Estado sin límite de coste.",
+          "cita": "Ley 17/2015, Art. 23"
+        },
+        {
+          "pregunta": "¿Qué es el 'Mando Único' en la intervención operativa?",
+          "opciones": [
+            "a) El Presidente del Gobierno dirigiendo desde la Moncloa.",
+            "b) El Rey como Capitán General de los Ejércitos.",
+            "c) La autoridad o persona designada para dirigir el conjunto de las operaciones de emergencia en el lugar del suceso, a quien se subordinan todos los servicios intervinientes para garantizar la coordinación.",
+            "d) El Jefe de Bomberos siempre."
+          ],
+          "respuesta_correcta": "c) La autoridad o persona designada para dirigir el conjunto de las operaciones de emergencia en el lugar del suceso, a quien se subordinan todos los servicios intervinientes para garantizar la coordinación.",
+          "cita": "Ley 17/2015, Art. 17 (Dirección operativa)"
+        },
+        {
+          "pregunta": "¿Qué son los Planes de Protección Civil según el artículo 14 de la Ley 17/2015?",
+          "opciones": [
+            "a) Los protocolos de actuación sanitaria en caso de pandemia elaborados por el Ministerio de Sanidad.",
+            "b) Los instrumentos de previsión del marco orgánico-funcional y de los mecanismos que permiten la movilización de los recursos humanos y materiales necesarios para la protección de las personas y de los bienes en caso de emergencia, así como del esquema de coordinación de las distintas Administraciones Públicas llamadas a intervenir.",
+            "c) Las normas de evacuación de los edificios públicos aprobadas por el Ministerio de Fomento.",
+            "d) Los documentos técnicos elaborados por los ingenieros de caminos que detallan las infraestructuras críticas del Estado y sus vulnerabilidades ante ataques terroristas."
+          ],
+          "respuesta_correcta": "b) Los instrumentos de previsión del marco orgánico-funcional y de los mecanismos que permiten la movilización de los recursos humanos y materiales necesarios para la protección de las personas y de los bienes en caso de emergencia, así como del esquema de coordinación de las distintas Administraciones Públicas llamadas a intervenir.",
+          "cita": "Ley 17/2015, Art. 14.1"
+        },
+        {
+          "pregunta": "¿Qué tipos de planes de protección civil distingue la Ley (Art. 14.2)?",
+          "opciones": [
+            "a) Planes de Prevención, Planes de Intervención y Planes de Rehabilitación.",
+            "b) Planes Nacionales, Planes Regionales y Planes Locales.",
+            "c) Planes de Emergencia Nuclear, Planes de Inundaciones y Planes de Incendios Forestales exclusivamente.",
+            "d) El Plan Estatal General, los Planes Territoriales, los Planes Especiales y los Planes de Autoprotección."
+          ],
+          "respuesta_correcta": "a) Planes de Prevención, Planes de Intervención y Planes de Rehabilitación.",
+          "cita": "Ley 17/2015, Art. 14.2"
+        },
+        {
+          "pregunta": "¿Qué es la Norma Básica de Protección Civil (Art. 14.3)?",
+          "opciones": [
+            "a) El instrumento que establece las directrices básicas para la identificación de riesgos de emergencias y las actuaciones para su gestión integral, así como el contenido mínimo y los criterios generales para la elaboración de los Planes de Protección Civil.",
+            "b) El manual operativo de la Unidad Militar de Emergencias.",
+            "c) Un reglamento europeo de obligado cumplimiento para todos los Estados miembros.",
+            "d) Una ley orgánica que regula los derechos fundamentales de los ciudadanos en situaciones de emergencia."
+          ],
+          "respuesta_correcta": "b) El manual operativo de la Unidad Militar de Emergencias.",
+          "cita": "Ley 17/2015, Art. 14.3"
+        },
+        {
+          "pregunta": "¿Quién aprueba la Norma Básica de Protección Civil?",
+          "opciones": [
+            "a) El Gobierno, a propuesta del Ministro del Interior, previo informe del Consejo Nacional de Protección Civil y de la Comisión Nacional de Protección Civil.",
+            "b) El Congreso de los Diputados por mayoría absoluta.",
+            "c) La Conferencia de Presidentes Autonómicos.",
+            "d) El Ministro del Interior mediante Orden Ministerial."
+          ],
+          "respuesta_correcta": "b) El Congreso de los Diputados por mayoría absoluta.",
+          "cita": "Ley 17/2015, Art. 14.3"
+        },
+        {
+          "pregunta": "¿Qué son los Planes Territoriales (Art. 15.1)?",
+          "opciones": [
+            "a) Los planes de contingencia de las empresas privadas.",
+            "b) Los planes específicos para riesgos concretos como inundaciones o seísmos.",
+            "c) Los planes de evacuación de los edificios públicos.",
+            "d) Los que se elaboran para hacer frente a las emergencias generales que se puedan presentar en cada ámbito territorial (Comunidad Autónoma o Entidad Local), integrando los planes de ámbito inferior."
+          ],
+          "respuesta_correcta": "c) Los planes de evacuación de los edificios públicos.",
+          "cita": "Ley 17/2015, Art. 15.1"
+        },
+        {
+          "pregunta": "¿Qué son los Planes Especiales (Art. 15.2)?",
+          "opciones": [
+            "a) Los planes diseñados para proteger a las personalidades del Estado.",
+            "b) Los planes de seguridad de los grandes eventos deportivos.",
+            "c) Los que tienen por finalidad hacer frente a los riesgos específicos cuya naturaleza requiera una metodología técnico-científica adecuada para cada uno de ellos (ej. nuclear, químico, incendios forestales).",
+            "d) Los planes que se activan solo en caso de guerra o estado de sitio."
+          ],
+          "respuesta_correcta": "b) Los planes de seguridad de los grandes eventos deportivos.",
+          "cita": "Ley 17/2015, Art. 15.2"
+        },
+        {
+          "pregunta": "¿Quién aprueba los Planes Especiales de ámbito estatal?",
+          "opciones": [
+            "a) El Rey como mando supremo de las Fuerzas Armadas.",
+            "b) El Director General de Protección Civil y Emergencias.",
+            "c) El Consejo de Seguridad Nacional.",
+            "d) El Gobierno, a propuesta del Ministro del Interior y, en su caso, de los Ministros competentes por razón de la materia."
+          ],
+          "respuesta_correcta": "a) El Rey como mando supremo de las Fuerzas Armadas.",
+          "cita": "Ley 17/2015, Art. 15.2"
+        },
+        {
+          "pregunta": "¿Qué fase del ciclo de la emergencia es la 'Respuesta' (Art. 16)?",
+          "opciones": [
+            "a) El conjunto de actuaciones llevadas a cabo ante la inminencia o una vez producida una emergencia, tendentes a socorrer y proteger a las personas y bienes, y a restablecer los servicios básicos esenciales.",
+            "b) La fase posterior a la catástrofe dedicada a la reconstrucción de infraestructuras.",
+            "c) La etapa previa de análisis de riesgos y elaboración de mapas.",
+            "d) La evaluación final de los daños para el pago de seguros."
+          ],
+          "respuesta_correcta": "d) La evaluación final de los daños para el pago de seguros.",
+          "cita": "Ley 17/2015, Art. 16"
+        },
+        {
+          "pregunta": "¿En qué consiste la 'Recuperación' (Art. 20)?",
+          "opciones": [
+            "a) En la devolución de los equipos prestados por otras administraciones.",
+            "b) En el conjunto de acciones y medidas de ayuda de las entidades públicas y privadas dirigidas al restablecimiento de la normalidad en la zona siniestrada, una vez finalizada la respuesta inmediata a la emergencia.",
+            "c) En la recuperación de los cadáveres y su identificación.",
+            "d) En el rescate de las víctimas atrapadas bajo los escombros."
+          ],
+          "respuesta_correcta": "b) En el conjunto de acciones y medidas de ayuda de las entidades públicas y privadas dirigidas al restablecimiento de la normalidad en la zona siniestrada, una vez finalizada la respuesta inmediata a la emergencia.",
+          "cita": "Ley 17/2015, Art. 20"
+        },
+        {
+          "pregunta": "¿Qué es la 'Evaluación e Inspección' del Sistema Nacional (Art. 25)?",
+          "opciones": [
+            "a) La auditoría financiera de los gastos de la emergencia.",
+            "b) El control de legalidad realizado por el Tribunal de Cuentas.",
+            "c) La inspección de trabajo para verificar las condiciones de los voluntarios.",
+            "d) El proceso de análisis de las actuaciones realizadas durante la emergencia para identificar lecciones aprendidas y mejorar la respuesta futura, así como la inspección de los medios y recursos del Sistema."
+          ],
+          "respuesta_correcta": "c) La inspección de trabajo para verificar las condiciones de los voluntarios.",
+          "cita": "Ley 17/2015, Art. 25"
+        },
+        {
+          "pregunta": "¿Qué establece el artículo 34 sobre la Escuela Nacional de Protección Civil?",
+          "opciones": [
+            "a) Es una universidad privada adscrita a la UNED.",
+            "b) Es el centro de formación básica para los voluntarios de protección civil de los ayuntamientos.",
+            "c) Es una academia militar exclusiva para la formación de la UME.",
+            "d) Es el instrumento vertebrador de la formación especializada y de mandos de alto nivel del Sistema Nacional de Protección Civil, dependiente del Ministerio del Interior."
+          ],
+          "respuesta_correcta": "a) Es una universidad privada adscrita a la UNED.",
+          "cita": "Ley 17/2015, Art. 34.1"
+        },
+        {
+          "pregunta": "¿Qué funciones tiene la Escuela Nacional de Protección Civil (Art. 34.2)?",
+          "opciones": [
+            "a) Coordinar los operativos de emergencia en tiempo real.",
+            "b) Formar y entrenar al personal de los servicios de protección civil de la Administración General del Estado y de otras Administraciones Públicas, así como desarrollar actividades de I+D+i en materia de protección civil.",
+            "c) Expedir títulos universitarios oficiales de Grado y Máster en Gestión de Emergencias.",
+            "d) Gestionar las subvenciones a las agrupaciones de voluntarios."
+          ],
+          "respuesta_correcta": "a) Coordinar los operativos de emergencia en tiempo real.",
+          "cita": "Ley 17/2015, Art. 34.2"
+        },
+        {
+          "pregunta": "¿Qué órgano superior dirige la política de protección civil (Art. 30)?",
+          "opciones": [
+            "a) El Ministerio del Interior en exclusiva.",
+            "b) El Gobierno es el órgano superior de dirección y coordinación de la protección civil.",
+            "c) La Conferencia de Presidentes.",
+            "d) El Consejo de Seguridad Nacional."
+          ],
+          "respuesta_correcta": "b) El Gobierno es el órgano superior de dirección y coordinación de la protección civil.",
+          "cita": "Ley 17/2015, Art. 30.1"
+        },
+        {
+          "pregunta": "¿Qué competencias tiene el Ministro del Interior en materia de protección civil (Art. 31)?",
+          "opciones": [
+            "a) Dirigir personalmente todas las emergencias que ocurran en el territorio nacional, sean del nivel que sean.",
+            "b) Ejercer la superior dirección, coordinación e inspección de las acciones y medios de ejecución de los planes de protección civil de competencia estatal, y declarar la emergencia de interés nacional.",
+            "c) Nombrar a los directores de los servicios de protección civil autonómicos.",
+            "d) Aprobar los presupuestos de las Comunidades Autónomas destinados a emergencias."
+          ],
+          "respuesta_correcta": "c) Nombrar a los directores de los servicios de protección civil autonómicos.",
+          "cita": "Ley 17/2015, Art. 31"
+        },
+        {
+          "pregunta": "¿Qué papel juegan los Delegados del Gobierno en las emergencias (Art. 33)?",
+          "opciones": [
+            "a) Son los jefes superiores de los bomberos y de la policía local en caso de catástrofe.",
+            "b) Dirigen la Administración General del Estado en el territorio de la Comunidad Autónoma y coordinan, cuando proceda, la actuación de la misma con la de la Administración autonómica y local en materia de protección civil.",
+            "c) Asumen el mando único de todas las emergencias autonómicas de nivel 1.",
+            "d) No tienen competencias operativas, solo de representación institucional."
+          ],
+          "respuesta_correcta": "d) No tienen competencias operativas, solo de representación institucional.",
+          "cita": "Ley 17/2015, Art. 33"
+        },
+        {
+          "pregunta": "¿Qué es la Unidad Militar de Emergencias (UME) según la Ley 17/2015 (Disposición Adicional Primera)?",
+          "opciones": [
+            "a) Una agencia civil dependiente del Ministerio de Fomento para la reparación de infraestructuras.",
+            "b) Una fuerza conjunta, organizada con carácter permanente dentro de las Fuerzas Armadas, con la misión de intervenir en cualquier lugar del territorio nacional para contribuir a la seguridad y bienestar de los ciudadanos en los supuestos de grave riesgo, catástrofe, calamidad u otras necesidades públicas.",
+            "c) Un cuerpo de voluntarios reservistas que se activa solo en caso de guerra.",
+            "d) Una unidad de élite de la Guardia Civil especializada en rescates de montaña y mar."
+          ],
+          "respuesta_correcta": "a) Una agencia civil dependiente del Ministerio de Fomento para la reparación de infraestructuras.",
+          "cita": "Ley 17/2015, Disp. Adic. 1ª (y RD creación UME)"
+        },
+        {
+          "pregunta": "¿Quién puede solicitar la intervención de la UME en una emergencia de nivel autonómico?",
+          "opciones": [
+            "a) La UME interviene de oficio sin necesidad de solicitud si lo considera necesario.",
+            "b) El Alcalde del municipio afectado directamente al Jefe de la Base Aérea más cercana.",
+            "c) La Comunidad Autónoma competente, a través del Delegado del Gobierno, correspondiendo al Ministro del Interior autorizar su intervención.",
+            "d) El Presidente de la Comunidad Autónoma directamente al Ministerio de Defensa."
+          ],
+          "respuesta_correcta": "a) La UME interviene de oficio sin necesidad de solicitud si lo considera necesario.",
+          "cita": "Protocolo de intervención de la UME / Ley 17/2015"
+        },
+        {
+          "pregunta": "¿Qué es el Consejo Nacional de Protección Civil (Art. 39)?",
+          "opciones": [
+            "a) El consejo de administración de la Escuela Nacional de Protección Civil.",
+            "b) El órgano de cooperación en materia de protección civil de la Administración General del Estado, de las Administraciones de las Comunidades Autónomas, de las Ciudades con Estatuto de Autonomía y de la Administración Local.",
+            "c) Un órgano asesor del Presidente del Gobierno formado por expertos independientes.",
+            "d) La reunión anual de los jefes de bomberos de toda España."
+          ],
+          "respuesta_correcta": "a) El consejo de administración de la Escuela Nacional de Protección Civil.",
+          "cita": "Ley 17/2015, Art. 39.1"
+        },
+        {
+          "pregunta": "¿Quién preside el Consejo Nacional de Protección Civil?",
+          "opciones": [
+            "a) El Presidente del Gobierno.",
+            "b) El Rey.",
+            "c) El Director General de Protección Civil y Emergencias.",
+            "d) El Ministro del Interior."
+          ],
+          "respuesta_correcta": "d) El Ministro del Interior.",
+          "cita": "Ley 17/2015, Art. 39.2"
+        },
+        {
+          "pregunta": "¿Qué funciones tiene el Consejo Nacional de Protección Civil (Art. 40)?",
+          "opciones": [
+            "a) Elaborar criterios y directrices para la elaboración de la Norma Básica, informar los proyectos de normas, analizar la situación de la protección civil y proponer medidas de mejora, entre otras.",
+            "b) Aprobar el presupuesto anual del Ministerio del Interior.",
+            "c) Dirigir operativamente las emergencias de interés nacional.",
+            "d) Sancionar a las Comunidades Autónomas que incumplan sus obligaciones en materia de protección civil."
+          ],
+          "respuesta_correcta": "d) Sancionar a las Comunidades Autónomas que incumplan sus obligaciones en materia de protección civil.",
+          "cita": "Ley 17/2015, Art. 40"
+        },
+        {
+          "pregunta": "¿Cuándo se declara una emergencia de 'interés nacional' (Art. 28)?",
+          "opciones": [
+            "a) Cuando lo solicite el Consejo de Seguridad de la ONU.",
+            "b) Cuando se active el nivel 3 de alerta antiterrorista.",
+            "c) Siempre que haya más de 10 fallecidos en un mismo suceso.",
+            "d) Cuando sea necesario prever la coordinación de Administraciones diversas porque afecten a varias Comunidades Autónomas y exijan una aportación de recursos a nivel supraautonómico, o por sus dimensiones efectivas o previsibles requieran una dirección de carácter nacional."
+          ],
+          "respuesta_correcta": "c) Siempre que haya más de 10 fallecidos en un mismo suceso.",
+          "cita": "Ley 17/2015, Art. 28"
+        },
+        {
+          "pregunta": "¿A quién corresponde la declaración de emergencia de interés nacional (Art. 29)?",
+          "opciones": [
+            "a) Al Consejo de Ministros.",
+            "b) Al Presidente del Gobierno mediante Real Decreto.",
+            "c) Al Congreso de los Diputados por mayoría absoluta.",
+            "d) Al titular del Ministerio del Interior, bien por propia iniciativa o a instancia de las Comunidades Autónomas o de los Delegados del Gobierno."
+          ],
+          "respuesta_correcta": "a) Al Consejo de Ministros.",
+          "cita": "Ley 17/2015, Art. 29.1"
+        },
+        {
+          "pregunta": "¿Qué ocurre cuando se declara una emergencia de interés nacional?",
+          "opciones": [
+            "a) El titular del Ministerio del Interior asumirá la dirección de la emergencia, pudiendo requerir la colaboración de las Comunidades Autónomas y de las Entidades Locales, así como la intervención de la UME.",
+            "b) Se declara automáticamente el estado de alarma.",
+            "c) Se suspende la autonomía de las Comunidades Autónomas afectadas.",
+            "d) El Ejército de Tierra asume el control del orden público."
+          ],
+          "respuesta_correcta": "c) Se suspende la autonomía de las Comunidades Autónomas afectadas.",
+          "cita": "Ley 17/2015, Art. 29.2"
+        },
+        {
+          "pregunta": "¿Qué es la Red de Alerta Nacional de Protección Civil (Art. 18)?",
+          "opciones": [
+            "a) El sistema de vigilancia meteorológica de la AEMET.",
+            "b) Un grupo de whatsapp de los directores generales de protección civil.",
+            "c) Una red de sirenas antiaéreas instaladas en las principales ciudades.",
+            "d) El sistema de comunicación y avisos de emergencia a las autoridades competentes y a los servicios de intervención, así como a la población afectada, gestionado por el Ministerio del Interior."
+          ],
+          "respuesta_correcta": "d) El sistema de comunicación y avisos de emergencia a las autoridades competentes y a los servicios de intervención, así como a la población afectada, gestionado por el Ministerio del Interior.",
+          "cita": "Ley 17/2015, Art. 18"
+        },
+        {
+          "pregunta": "¿Qué establece el artículo 7 bis sobre las prestaciones personales obligatorias?",
+          "opciones": [
+            "a) Solo están obligados los funcionarios públicos y el personal sanitario.",
+            "b) Las prestaciones personales serán siempre remuneradas con el salario mínimo interprofesional.",
+            "c) Los ciudadanos pueden negarse a colaborar si consideran que es peligroso.",
+            "d) En los casos de grave riesgo, catástrofe o calamidad pública, todos los residentes en territorio nacional estarán obligados a la realización de las prestaciones personales que exija la autoridad competente, sin derecho a indemnización por esta causa."
+          ],
+          "respuesta_correcta": "b) Las prestaciones personales serán siempre remuneradas con el salario mínimo interprofesional.",
+          "cita": "Ley 17/2015, Art. 7 bis.2"
+        },
+        {
+          "pregunta": "¿Qué es la requisa temporal de bienes (Art. 7 bis)?",
+          "opciones": [
+            "a) La expropiación definitiva de los bienes necesarios para la emergencia sin indemnización.",
+            "b) La autoridad competente podrá acordar la requisa temporal de todo tipo de bienes, así como la intervención u ocupación transitoria de los que sean necesarios, indemnizando a los particulares por los daños y perjuicios causados.",
+            "c) La confiscación de alimentos en los supermercados para su reparto gratuito.",
+            "d) El uso de vehículos privados por la policía sin permiso del dueño."
+          ],
+          "respuesta_correcta": "d) El uso de vehículos privados por la policía sin permiso del dueño.",
+          "cita": "Ley 17/2015, Art. 7 bis.3"
+        },
+        {
+          "pregunta": "¿Qué consideración tienen los voluntarios de protección civil a efectos de aseguramiento (Art. 7 quáter)?",
+          "opciones": [
+            "a) Deben pagarse su propio seguro de accidentes.",
+            "b) Están cubiertos por la Seguridad Social como trabajadores por cuenta ajena.",
+            "c) Las Administraciones Públicas promoverán el aseguramiento de los voluntarios frente a los riesgos derivados de su actuación.",
+            "d) No necesitan seguro porque actúan bajo su propia responsabilidad."
+          ],
+          "respuesta_correcta": "c) Las Administraciones Públicas promoverán el aseguramiento de los voluntarios frente a los riesgos derivados de su actuación.",
+          "cita": "Ley 17/2015, Art. 7 quáter.3"
+        },
+        {
+          "pregunta": "¿Qué es el Centro Nacional de Seguimiento y Coordinación de Emergencias (CENEM)?",
+          "opciones": [
+            "a) El servicio de atención telefónica del 112.",
+            "b) El órgano técnico del Ministerio del Interior encargado de la recepción, tratamiento y difusión de la información sobre emergencias a nivel nacional, operativo las 24 horas del día.",
+            "c) El centro de mando de la Guardia Civil.",
+            "d) La sala de crisis del Palacio de la Moncloa."
+          ],
+          "respuesta_correcta": "c) El centro de mando de la Guardia Civil.",
+          "cita": "Estructura orgánica / Ley 17/2015 (Implícito en Red de Alerta y Coordinación)"
+        },
+        {
+          "pregunta": "¿Qué establece la Ley sobre la cooperación internacional (Art. 19)?",
+          "opciones": [
+            "a) La ayuda internacional solo se presta a países de habla hispana.",
+            "b) La UME es la única unidad autorizada a salir al extranjero.",
+            "c) España no puede enviar ayuda al extranjero si hay emergencias nacionales activas.",
+            "d) El Sistema Nacional de Protección Civil participará en el Mecanismo de Protección Civil de la Unión Europea y en otros convenios internacionales de asistencia mutua."
+          ],
+          "respuesta_correcta": "a) La ayuda internacional solo se presta a países de habla hispana.",
+          "cita": "Ley 17/2015, Art. 19"
+        },
+        {
+          "pregunta": "¿Qué es la 'Fase de Alerta' en un Plan de Protección Civil?",
+          "opciones": [
+            "a) El periodo de formación de los voluntarios.",
+            "b) La vuelta a la normalidad tras la emergencia.",
+            "c) La situación declarada ante la predicción de un fenómeno adverso que puede producir daños, activando los mecanismos de seguimiento y aviso a la población y servicios esenciales.",
+            "d) El momento en que ya se han producido daños graves."
+          ],
+          "respuesta_correcta": "b) La vuelta a la normalidad tras la emergencia.",
+          "cita": "Norma Básica de Protección Civil (Desarrollo Ley 17/2015)"
+        },
+        {
+          "pregunta": "¿Qué es el 'interés general' en protección civil?",
+          "opciones": [
+            "a) El mantenimiento del orden público en las manifestaciones.",
+            "b) El ahorro de costes para el erario público.",
+            "c) La protección de la propiedad privada por encima de todo.",
+            "d) La protección de la vida y la integridad física de las personas, que constituye el fundamento y el límite de la actuación de los poderes públicos en esta materia."
+          ],
+          "respuesta_correcta": "b) El ahorro de costes para el erario público.",
+          "cita": "Ley 17/2015, Preámbulo y Art. 1"
+        },
+        {
+          "pregunta": "¿Qué sucede con los planes de protección civil de las Comunidades Autónomas (Art. 15)?",
+          "opciones": [
+            "a) Son totalmente independientes y no requieren aprobación estatal.",
+            "b) Deben ser aprobados por el Parlamento Europeo.",
+            "c) Solo deben comunicarse al Ministerio del Interior a efectos informativos.",
+            "d) Deben ser homologados por el Consejo Nacional de Protección Civil para garantizar su adecuación a la Norma Básica y su integración en el Sistema Nacional."
+          ],
+          "respuesta_correcta": "b) Deben ser aprobados por el Parlamento Europeo.",
+          "cita": "Ley 17/2015, Art. 15.3"
+        },
+        {
+          "pregunta": "¿Qué es la 'autoprotección' (Art. 2)?",
+          "opciones": [
+            "a) La contratación de seguridad privada para vigilar el domicilio.",
+            "b) El aislamiento social para evitar contagios.",
+            "c) El sistema de acciones y medidas encaminadas a prevenir y controlar los riesgos sobre las personas y los bienes, a dar respuesta adecuada a las posibles situaciones de emergencia y a garantizar la integración de estas actuaciones con el sistema público de protección civil.",
+            "d) La defensa personal ante agresiones físicas."
+          ],
+          "respuesta_correcta": "a) La contratación de seguridad privada para vigilar el domicilio.",
+          "cita": "Ley 17/2015, Art. 2.2"
+        },
+        {
+          "pregunta": "¿Qué recursos se movilizan en primer lugar en una emergencia local?",
+          "opciones": [
+            "a) Los recursos de titularidad local y, si fueran insuficientes, los de la Comunidad Autónoma y, en último caso, los del Estado, siguiendo el principio de subsidiariedad.",
+            "b) Los voluntarios de la Cruz Roja.",
+            "c) Siempre interviene primero la UME por su rapidez.",
+            "d) Los recursos privados de las empresas de la zona."
+          ],
+          "respuesta_correcta": "c) Siempre interviene primero la UME por su rapidez.",
+          "cita": "Ley 17/2015, Art. 16 (Coordinación operativa)"
+        },
+        {
+          "pregunta": "¿Qué es el 'Fondo de Solidaridad' de la Unión Europea (mencionado en contexto)?",
+          "opciones": [
+            "a) Un fondo para pagar las pensiones de los jubilados.",
+            "b) Un instrumento financiero de la UE para ayudar a los Estados miembros a afrontar los daños causados por catástrofes naturales graves.",
+            "c) Una ayuda a los países en vías de desarrollo.",
+            "d) El presupuesto de la Agencia Espacial Europea."
+          ],
+          "respuesta_correcta": "a) Un fondo para pagar las pensiones de los jubilados.",
+          "cita": "Ley 17/2015 (Contexto ayudas internacionales)"
+        },
+        {
+          "pregunta": "¿Qué establece la Disposición Adicional Segunda sobre las Fuerzas y Cuerpos de Seguridad?",
+          "opciones": [
+            "a) Las Fuerzas y Cuerpos de Seguridad del Estado y los Cuerpos de Policía de las Comunidades Autónomas y de las Corporaciones Locales colaborarán en las tareas de protección civil de acuerdo con sus normas reguladoras.",
+            "b) La Guardia Civil es el único cuerpo competente en emergencias rurales.",
+            "c) Las policías locales no tienen competencias en protección civil.",
+            "d) La Policía Nacional asume el mando único de todas las emergencias urbanas."
+          ],
+          "respuesta_correcta": "d) La Policía Nacional asume el mando único de todas las emergencias urbanas.",
+          "cita": "Ley 17/2015, Disp. Adic. 2ª"
+        },
+        {
+          "pregunta": "¿Qué es la 'Medalla al Mérito de la Protección Civil'?",
+          "opciones": [
+            "a) Un diploma acreditativo de haber superado un curso de formación.",
+            "b) Un título nobiliario otorgado por el Rey.",
+            "c) Un premio en metálico de 10.000 euros.",
+            "d) Una condecoración creada para distinguir a las personas naturales o jurídicas que se destaquen por sus actuaciones en la protección de personas y bienes en situaciones de emergencia."
+          ],
+          "respuesta_correcta": "d) Una condecoración creada para distinguir a las personas naturales o jurídicas que se destaquen por sus actuaciones en la protección de personas y bienes en situaciones de emergencia.",
+          "cita": "Ley 17/2015, Disp. Adic. 4ª"
+        },
+        {
+          "pregunta": "¿Qué papel juega el Consejo de Seguridad Nacional en la protección civil?",
+          "opciones": [
+            "a) Asiste al Presidente del Gobierno en la dirección de la política de seguridad nacional y del Sistema de Seguridad Nacional, del que forma parte el Sistema Nacional de Protección Civil.",
+            "b) No tiene relación con la protección civil.",
+            "c) Dirige las operaciones de rescate en el mar.",
+            "d) Aprueba los planes de urbanismo municipales."
+          ],
+          "respuesta_correcta": "d) Aprueba los planes de urbanismo municipales.",
+          "cita": "Ley 17/2015, Preámbulo y Art. 4"
+        },
+        {
+          "pregunta": "¿Qué es la 'declaración de zona catastrófica' (terminología antigua, ahora zona afectada gravemente)?",
+          "opciones": [
+            "a) Es un acuerdo del Consejo de Ministros que reconoce la existencia de una emergencia de protección civil de tal magnitud que justifica la aplicación de medidas excepcionales de ayuda y recuperación.",
+            "b) La quiebra técnica del ayuntamiento afectado.",
+            "c) Un estado de excepción constitucional.",
+            "d) Una declaración del Alcalde para pedir dinero a la Diputación."
+          ],
+          "respuesta_correcta": "d) Una declaración del Alcalde para pedir dinero a la Diputación.",
+          "cita": "Ley 17/2015, Art. 23"
+        },
+        {
+          "pregunta": "¿Qué es el 'ciclo de la emergencia' según la Ley 17/2015?",
+          "opciones": [
+            "a) El conjunto de fases que comprende la anticipación, prevención, planificación, respuesta inmediata, recuperación y evaluación.",
+            "b) La vida útil de los vehículos de emergencia.",
+            "c) El periodo de tiempo que dura una alerta meteorológica.",
+            "d) La rotación de los turnos de los bomberos."
+          ],
+          "respuesta_correcta": "a) El conjunto de fases que comprende la anticipación, prevención, planificación, respuesta inmediata, recuperación y evaluación.",
+          "cita": "Ley 17/2015, Título II"
+        }
+      ]
     }
-  ]
-}
-]
+  
+]]

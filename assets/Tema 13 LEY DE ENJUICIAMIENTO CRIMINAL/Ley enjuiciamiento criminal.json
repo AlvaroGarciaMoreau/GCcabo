@@ -1,1066 +1,1220 @@
-[{
-  "tema": "TEMA 13.- LEY DE ENJUICIAMIENTO CRIMINAL (100 PREGUNTAS)",
-  "descripcion": "Preguntas basadas en el Real Decreto de 14 de septiembre de 1882 (Ley de Enjuiciamiento Criminal), cubriendo los Libros I, II, IV y VI según los epígrafes del temario.",
-  "preguntas": [
-    {
-      "pregunta": "¿Es prorrogable la jurisdicción criminal según la Ley de Enjuiciamiento Criminal?",
-      "opciones": [
-        "a) Sí, por acuerdo de las partes.",
-        "b) No, es siempre improrrogable.",
-        "c) Sí, en delitos leves.",
-        "d) Solo en la fase de instrucción."
-      ],
-      "respuesta_correcta": "b) No, es siempre improrrogable."
-    },
-    {
-      "pregunta": "¿A quién corresponde la competencia para instruir las causas por delitos cometidos en su partido?",
-      "opciones": [
-        "a) Al Juez de lo Penal.",
-        "b) Al Juez de Instrucción.",
-        "c) A la Audiencia Provincial.",
-        "d) Al Ministerio Fiscal."
-      ],
-      "respuesta_correcta": "b) Al Juez de Instrucción."
-    },
-    {
-      "pregunta": "Cuando no conste el lugar en que se haya cometido un delito, ¿qué Juez es competente en primer lugar?",
-      "opciones": [
-        "a) El de la residencia del reo presunto.",
-        "b) El del lugar donde se hayan descubierto pruebas materiales del delito.",
-        "c) El del lugar donde el reo haya sido aprehendido.",
-        "d) Cualquiera que hubiese tenido noticia del delito."
-      ],
-      "respuesta_correcta": "b) El del lugar donde se hayan descubierto pruebas materiales del delito."
-    },
-    {
-      "pregunta": "¿Qué ocurre con la competencia cuando consta el lugar del delito después de iniciadas las diligencias por otro juzgado?",
-      "opciones": [
-        "a) Continúa conociendo el que inició las diligencias.",
-        "b) Se inhibirá a favor del competente, remitiendo las diligencias y detenidos.",
-        "c) Se plantea una cuestión de competencia ante el superior jerárquico.",
-        "d) El Ministerio Fiscal decide quién continúa."
-      ],
-      "respuesta_correcta": "b) Se inhibirá a favor del competente, remitiendo las diligencias y detenidos."
-    },
-    {
-      "pregunta": "¿Quién es competente para conocer de los delitos conexos?",
-      "opciones": [
-        "a) El Juez del territorio donde se haya cometido el delito con pena mayor.",
-        "b) El Juez que primero comenzó la causa en todo caso.",
-        "c) Siempre la Audiencia Nacional.",
-        "d) El Juez del lugar de residencia de los imputados."
-      ],
-      "respuesta_correcta": "a) El Juez del territorio donde se haya cometido el delito con pena mayor."
-    },
-    {
-      "pregunta": "La acción penal es:",
-      "opciones": [
-        "a) Privada.",
-        "b) Pública.",
-        "c) Mixta.",
-        "d) Administrativa."
-      ],
-      "respuesta_correcta": "b) Pública."
-    },
-    {
-      "pregunta": "¿Quiénes pueden ejercitar la acción penal?",
-      "opciones": [
-        "a) Solo el Ministerio Fiscal.",
-        "b) Solo los perjudicados.",
-        "c) Todos los ciudadanos españoles con arreglo a las prescripciones de la Ley.",
-        "d) Solo las Fuerzas y Cuerpos de Seguridad."
-      ],
-      "respuesta_correcta": "c) Todos los ciudadanos españoles con arreglo a las prescripciones de la Ley."
-    },
-    {
-      "pregunta": "¿Puede renunciarse a la acción penal?",
-      "opciones": [
-        "a) Sí, en todos los casos.",
-        "b) No, la acción penal pública no se extingue por la renuncia de la persona ofendida.",
-        "c) Sí, pero solo si hay acuerdo con el delincuente.",
-        "d) Solo en los delitos graves."
-      ],
-      "respuesta_correcta": "b) No, la acción penal pública no se extingue por la renuncia de la persona ofendida."
-    },
-    {
-      "pregunta": "Si se renuncia a la acción civil, ¿se pierde la penal?",
-      "opciones": [
-        "a) Sí, ambas van unidas.",
-        "b) No, la renuncia de la acción civil no perjudica a la penal.",
-        "c) Sí, salvo que el Fiscal decida continuar.",
-        "d) Solo si se hace ante Notario."
-      ],
-      "respuesta_correcta": "b) No, la renuncia de la acción civil no perjudica a la penal."
-    },
-    {
-      "pregunta": "¿Quién debe entablar la acción civil junto con la penal?",
-      "opciones": [
-        "a) El perjudicado obligatoriamente.",
-        "b) El Ministerio Fiscal, haya o no acusador particular, salvo renuncia expresa del ofendido.",
-        "c) El Juez de oficio.",
-        "d) El Abogado del Estado."
-      ],
-      "respuesta_correcta": "b) El Ministerio Fiscal, haya o no acusador particular, salvo renuncia expresa del ofendido."
-    },
-    {
-      "pregunta": "¿Quién tiene obligación de denunciar un delito público?",
-      "opciones": [
-        "a) Solo la policía.",
-        "b) El que presenciare la perpetración de cualquier delito público.",
-        "c) Solo los funcionarios públicos.",
-        "d) Nadie está obligado."
-      ],
-      "respuesta_correcta": "b) El que presenciare la perpetración de cualquier delito público."
-    },
-    {
-      "pregunta": "¿Están obligados a denunciar los cónyuges entre sí?",
-      "opciones": [
-        "a) Sí, siempre.",
-        "b) No están obligados a denunciar el cónyuge del delincuente no separado legalmente.",
-        "c) Sí, salvo en delitos leves.",
-        "d) Sí, si viven juntos."
-      ],
-      "respuesta_correcta": "b) No están obligados a denunciar el cónyuge del delincuente no separado legalmente."
-    },
-    {
-      "pregunta": "¿Cómo puede hacerse la denuncia?",
-      "opciones": [
-        "a) Solo por escrito.",
-        "b) Solo de palabra.",
-        "c) Por escrito o de palabra, personalmente o por medio de mandatario.",
-        "d) Solo ante el Juez."
-      ],
-      "respuesta_correcta": "c) Por escrito o de palabra, personalmente o por medio de mandatario."
-    },
-    {
-      "pregunta": "¿Es necesario prestar fianza para denunciar?",
-      "opciones": [
-        "a) Sí, siempre.",
-        "b) No, el denunciante no está obligado a prestar fianza.",
-        "c) Solo en delitos graves.",
-        "d) Sí, si es extranjero."
-      ],
-      "respuesta_correcta": "b) No, el denunciante no está obligado a prestar fianza."
-    },
-    {
-      "pregunta": "¿Qué responsabilidad incurre el que denunciare falsamente?",
-      "opciones": [
-        "a) Ninguna.",
-        "b) Responsabilidad civil y penal con arreglo al Código Penal.",
-        "c) Solo administrativa.",
-        "d) Una multa leve."
-      ],
-      "respuesta_correcta": "b) Responsabilidad civil y penal con arreglo al Código Penal."
-    },
-    {
-      "pregunta": "¿Ante quién se puede presentar una denuncia?",
-      "opciones": [
-        "a) Solo ante el Juez.",
-        "b) Ante el Juez, el Fiscal o funcionarios de Policía.",
-        "c) Solo ante la Policía.",
-        "d) Ante el Alcalde exclusivamente."
-      ],
-      "respuesta_correcta": "b) Ante el Juez, el Fiscal o funcionarios de Policía."
-    },
-    {
-      "pregunta": "La denuncia formalizada verbalmente ante la policía requiere:",
-      "opciones": [
-        "a) La presencia de abogado.",
-        "b) Que se extienda un acta firmada por el declarante y el funcionario.",
-        "c) Que se grabe en video.",
-        "d) Que se ratifique ante notario."
-      ],
-      "respuesta_correcta": "b) Que se extienda un acta firmada por el declarante y el funcionario."
-    },
-    {
-      "pregunta": "¿El denunciante se convierte en parte del proceso por el mero hecho de denunciar?",
-      "opciones": [
-        "a) Sí, siempre.",
-        "b) No, no contrae más obligación que la de decir verdad ni adquiere más derechos que los de la ley.",
-        "c) Sí, si el delito es grave.",
-        "d) Sí, si paga las costas."
-      ],
-      "respuesta_correcta": "b) No, no contrae más obligación que la de decir verdad ni adquiere más derechos que los de la ley."
-    },
-    {
-      "pregunta": "Los profesores de medicina que notaren signos de delito en una persona están obligados a:",
-      "opciones": [
-        "a) Guardar secreto profesional.",
-        "b) Dar parte a la autoridad judicial o policial.",
-        "c) Curar y callar.",
-        "d) Informar al colegio de médicos."
-      ],
-      "respuesta_correcta": "b) Dar parte a la autoridad judicial o policial."
-    },
-    {
-      "pregunta": "¿Es válida la denuncia anónima?",
-      "opciones": [
-        "a) Sí, siempre.",
-        "b) No, la denuncia debe estar firmada por el denunciante o mandatario.",
-        "c) Sí, en delitos de drogas.",
-        "d) Sí, por teléfono."
-      ],
-      "respuesta_correcta": "b) No, la denuncia debe estar firmada por el denunciante o mandatario."
-    },
-    {
-      "pregunta": "¿Cómo se interpone la querella?",
-      "opciones": [
-        "a) Verbalmente.",
-        "b) Por escrito firmado por Abogado y Procurador.",
-        "c) Por correo electrónico.",
-        "d) Ante la policía."
-      ],
-      "respuesta_correcta": "b) Por escrito firmado por Abogado y Procurador."
-    },
-    {
-      "pregunta": "¿Ante quién se presenta la querella?",
-      "opciones": [
-        "a) Ante la Policía.",
-        "b) Ante el Juez de Instrucción competente.",
-        "c) Ante el Alcalde.",
-        "d) Ante el Fiscal."
-      ],
-      "respuesta_correcta": "b) Ante el Juez de Instrucción competente."
-    },
-    {
-      "pregunta": "¿Qué fianza se exige al querellante extranjero?",
-      "opciones": [
-        "a) Ninguna.",
-        "b) La que fije el Juez para responder de las resultas del juicio, salvo tratados internacionales o reciprocidad.",
-        "c) Siempre 1.000 euros.",
-        "d) No pueden querellarse."
-      ],
-      "respuesta_correcta": "b) La que fije el Juez para responder de las resultas del juicio, salvo tratados internacionales o reciprocidad."
-    },
-    {
-      "pregunta": "¿Cuándo se considera abandonada la querella?",
-      "opciones": [
-        "a) Si el querellante no asiste a las diligencias de prueba.",
-        "b) Si deja de instar el procedimiento dentro de los diez días siguientes a la notificación del auto de archivo.",
-        "c) Si muere el querellado.",
-        "d) Por fallecimiento o inacción del querellante en delitos privados."
-      ],
-      "respuesta_correcta": "d) Por fallecimiento o inacción del querellante en delitos privados."
-    },
-    {
-      "pregunta": "¿Qué diferencia principal hay entre denuncia y querella?",
-      "opciones": [
-        "a) La denuncia es verbal y la querella escrita.",
-        "b) En la querella el querellante se constituye en parte acusadora.",
-        "c) La denuncia es para delitos leves y la querella para graves.",
-        "d) No hay diferencia."
-      ],
-      "respuesta_correcta": "b) En la querella el querellante se constituye en parte acusadora."
-    },
-    {
-      "pregunta": "¿Cuál es la función principal de la Policía Judicial?",
-      "opciones": [
-        "a) Juzgar delitos.",
-        "b) Averiguar los delitos públicos, practicar diligencias para comprobarlos y descubrir a los delincuentes.",
-        "c) Cobrar multas.",
-        "d) Regular el tráfico."
-      ],
-      "respuesta_correcta": "b) Averiguar los delitos públicos, practicar diligencias para comprobarlos y descubrir a los delincuentes."
-    },
-    {
-      "pregunta": "¿De quién dependen funcionalmente los miembros de la Policía Judicial?",
-      "opciones": [
-        "a) Del Ministerio del Interior.",
-        "b) De los Jueces, Tribunales y Ministerio Fiscal.",
-        "c) Del Delegado del Gobierno.",
-        "d) Del Alcalde."
-      ],
-      "respuesta_correcta": "b) De los Jueces, Tribunales y Ministerio Fiscal."
-    },
-    {
-      "pregunta": "¿Qué deben hacer los funcionarios de Policía Judicial al tener conocimiento de un delito público?",
-      "opciones": [
-        "a) Archivarlo.",
-        "b) Participarlo inmediatamente a la Autoridad Judicial o al Ministerio Fiscal.",
-        "c) Esperar 24 horas.",
-        "d) Publicarlo en prensa."
-      ],
-      "respuesta_correcta": "b) Participarlo inmediatamente a la Autoridad Judicial o al Ministerio Fiscal."
-    },
-    {
-      "pregunta": "¿Cuándo debe cesar la Policía Judicial en sus diligencias?",
-      "opciones": [
-        "a) Nunca.",
-        "b) Cuando se persone la Autoridad Judicial en el lugar o se encargue de las actuaciones.",
-        "c) Cuando lo diga el abogado.",
-        "d) A las 72 horas."
-      ],
-      "respuesta_correcta": "b) Cuando se persone la Autoridad Judicial en el lugar o se encargue de las actuaciones."
-    },
-    {
-      "pregunta": "Si no hay autor conocido, ¿la Policía Judicial remite el atestado al Juez?",
-      "opciones": [
-        "a) Sí, siempre.",
-        "b) No, lo conserva a disposición del Fiscal y Juez, salvo delitos contra la vida, integridad física, libertad sexual o corrupción.",
-        "c) Lo destruye.",
-        "d) Lo envía al archivo municipal."
-      ],
-      "respuesta_correcta": "b) No, lo conserva a disposición del Fiscal y Juez, salvo delitos contra la vida, integridad física, libertad sexual o corrupción."
-    },
-    {
-      "pregunta": "¿Qué plazo tiene la Policía Judicial para remitir el atestado si no hay autor conocido pero se practica alguna diligencia con resultado?",
-      "opciones": [
-        "a) 24 horas.",
-        "b) 72 horas.",
-        "c) 5 días.",
-        "d) 1 semana."
-      ],
-      "respuesta_correcta": "b) 72 horas."
-    },
-    {
-      "pregunta": "¿Qué deben hacer los agentes si recogen armas o efectos en el lugar del delito?",
-      "opciones": [
-        "a) Llevárselos a casa.",
-        "b) Extender diligencia expresiva del lugar, tiempo y ocasión, con descripción minuciosa.",
-        "c) Venderlos.",
-        "d) No tocarlos."
-      ],
-      "respuesta_correcta": "b) Extender diligencia expresiva del lugar, tiempo y ocasión, con descripción minuciosa."
-    },
-    {
-      "pregunta": "¿Qué obligación tiene la Policía Judicial respecto a la protección de víctimas?",
-      "opciones": [
-        "a) Ninguna.",
-        "b) Realizar una valoración de las circunstancias para determinar medidas provisionales de protección.",
-        "c) Solo si lo pide el Juez.",
-        "d) Derivarlas a servicios sociales sin más."
-      ],
-      "respuesta_correcta": "b) Realizar una valoración de las circunstancias para determinar medidas provisionales de protección."
-    },
-    {
-      "pregunta": "¿Qué valor tienen las diligencias de prevención practicadas por la Policía Judicial?",
-      "opciones": [
-        "a) De prueba plena.",
-        "b) De denuncia para los efectos legales.",
-        "c) De sentencia.",
-        "d) Ninguno."
-      ],
-      "respuesta_correcta": "b) De denuncia para los efectos legales."
-    },
-    {
-      "pregunta": "Para la averiguación del delito, la Policía Judicial podrá:",
-      "opciones": [
-        "a) Torturar.",
-        "b) Requerir el auxilio de otros miembros de las Fuerzas y Cuerpos de Seguridad.",
-        "c) Juzgar.",
-        "d) Allanar moradas sin orden."
-      ],
-      "respuesta_correcta": "b) Requerir el auxilio de otros miembros de las Fuerzas y Cuerpos de Seguridad."
-    },
-    {
-      "pregunta": "¿Qué es la inspección ocular?",
-      "opciones": [
-        "a) Mirar por la ventana.",
-        "b) El examen del lugar del delito por el Juez instructor para consignar su estado y recoger vestigios.",
-        "c) Una prueba de visión.",
-        "d) Un informe médico."
-      ],
-      "respuesta_correcta": "b) El examen del lugar del delito por el Juez instructor para consignar su estado y recoger vestigios."
-    },
-    {
-      "pregunta": "Si el delito ha dejado huellas, el Juez instructor:",
-      "opciones": [
-        "a) Las borrará.",
-        "b) Las describirá detalladamente y recogerá las pruebas materiales.",
-        "c) No hará nada.",
-        "d) Llamará a la prensa."
-      ],
-      "respuesta_correcta": "b) Las describirá detalladamente y recogerá las pruebas materiales."
-    },
-    {
-      "pregunta": "¿Qué es el 'cuerpo del delito'?",
-      "opciones": [
-        "a) El cadáver.",
-        "b) Las armas, instrumentos y efectos de cualquier clase que puedan tener relación con el delito.",
-        "c) El detenido.",
-        "d) La sentencia."
-      ],
-      "respuesta_correcta": "b) Las armas, instrumentos y efectos de cualquier clase que puedan tener relación con el delito."
-    },
-    {
-      "pregunta": "En caso de muerte violenta, ¿qué diligencia es esencial?",
-      "opciones": [
-        "a) La autopsia.",
-        "b) El levantamiento del cadáver, identificación y autopsia.",
-        "c) El entierro inmediato.",
-        "d) Avisar a la familia."
-      ],
-      "respuesta_correcta": "b) El levantamiento del cadáver, identificación y autopsia."
-    },
-    {
-      "pregunta": "¿Quién realiza la autopsia?",
-      "opciones": [
-        "a) El Juez.",
-        "b) Los Médicos Forenses.",
-        "c) La Policía.",
-        "d) El Secretario."
-      ],
-      "respuesta_correcta": "b) Los Médicos Forenses."
-    },
-    {
-      "pregunta": "¿Se puede destruir la droga incautada antes del juicio?",
-      "opciones": [
-        "a) No, hay que guardarla toda.",
-        "b) Sí, conservando muestras suficientes para contraanálisis, previa autorización judicial.",
-        "c) Sí, la policía decide.",
-        "d) No, se subasta."
-      ],
-      "respuesta_correcta": "b) Sí, conservando muestras suficientes para contraanálisis, previa autorización judicial."
-    },
-    {
-      "pregunta": "¿Cómo se identifica al delincuente?",
-      "opciones": [
-        "a) Por el nombre que diga.",
-        "b) Por cualquier medio legal (testigos, reconocimiento en rueda, huellas, ADN).",
-        "c) Por el DNI solamente.",
-        "d) Preguntando a los vecinos."
-      ],
-      "respuesta_correcta": "b) Por cualquier medio legal (testigos, reconocimiento en rueda, huellas, ADN)."
-    },
-    {
-      "pregunta": "¿Cuándo procede la toma de muestras de ADN?",
-      "opciones": [
-        "a) A cualquier ciudadano.",
-        "b) Al sospechoso de delitos graves, con autorización judicial y motivación, o con su consentimiento.",
-        "c) En delitos leves.",
-        "d) Solo a condenados."
-      ],
-      "respuesta_correcta": "b) Al sospechoso de delitos graves, con autorización judicial y motivación, o con su consentimiento."
-    },
-    {
-      "pregunta": "¿Qué es el reconocimiento en rueda?",
-      "opciones": [
-        "a) Una tortura.",
-        "b) Poner al sospechoso entre otras personas de características similares para que el testigo lo identifique.",
-        "c) Un careo.",
-        "d) Una foto."
-      ],
-      "respuesta_correcta": "b) Poner al sospechoso entre otras personas de características similares para que el testigo lo identifique."
-    },
-    {
-      "pregunta": "Si hay dudas sobre la edad del procesado, ¿qué se hace?",
-      "opciones": [
-        "a) Se le pregunta.",
-        "b) Se realizan pruebas médicas forenses para determinarla.",
-        "c) Se le considera mayor de edad.",
-        "d) Se le considera menor."
-      ],
-      "respuesta_correcta": "b) Se realizan pruebas médicas forenses para determinarla."
-    },
-    {
-      "pregunta": "¿Cuándo se puede detener a una persona?",
-      "opciones": [
-        "a) Cuando se quiera.",
-        "b) Cuando haya motivos racionalmente bastantes para creer en la existencia de un delito y en la participación de la persona.",
-        "c) Solo si hay condena.",
-        "d) Solo si es extranjero."
-      ],
-      "respuesta_correcta": "b) Cuando haya motivos racionalmente bastantes para creer en la existencia de un delito y en la participación de la persona."
-    },
-    {
-      "pregunta": "¿Puede un particular detener a alguien?",
-      "opciones": [
-        "a) No, nunca.",
-        "b) Sí, en caso de delito flagrante, al fugado, o al procesado en rebeldía.",
-        "c) Solo si es seguridad privada.",
-        "d) Sí, por sospechas."
-      ],
-      "respuesta_correcta": "b) Sí, en caso de delito flagrante, al fugado, o al procesado en rebeldía."
-    },
-    {
-      "pregunta": "¿Cuál es el plazo máximo de detención policial ordinaria?",
-      "opciones": [
-        "a) 24 horas.",
-        "b) 72 horas.",
-        "c) 48 horas.",
-        "d) 5 días."
-      ],
-      "respuesta_correcta": "b) 72 horas."
-    },
-    {
-      "pregunta": "¿En qué plazo debe ser puesto el detenido a disposición judicial o en libertad?",
-      "opciones": [
-        "a) En el plazo estrictamente necesario para las averiguaciones y, en todo caso, máximo 72 horas.",
-        "b) En 24 horas.",
-        "c) En 7 días.",
-        "d) Inmediatamente siempre."
-      ],
-      "respuesta_correcta": "a) En el plazo estrictamente necesario para las averiguaciones y, en todo caso, máximo 72 horas."
-    },
-    {
-      "pregunta": "¿Se puede detener por delitos leves?",
-      "opciones": [
-        "a) Sí, siempre.",
-        "b) No, salvo que el presunto reo no tenga domicilio conocido ni dé fianza bastante.",
-        "c) Solo si hay violencia.",
-        "d) Sí, por la noche."
-      ],
-      "respuesta_correcta": "b) No, salvo que el presunto reo no tenga domicilio conocido ni dé fianza bastante."
-    },
-    {
-      "pregunta": "¿Qué derecho tiene el detenido inmediatamente?",
-      "opciones": [
-        "a) A ducharse.",
-        "b) A ser informado de los hechos que se le imputan y de las razones de su privación de libertad, así como de sus derechos.",
-        "c) A ver la televisión.",
-        "d) A salir a fumar."
-      ],
-      "respuesta_correcta": "b) A ser informado de los hechos que se le imputan y de las razones de su privación de libertad, así como de sus derechos."
-    },
-    {
-      "pregunta": "¿Tiene derecho el detenido a guardar silencio?",
-      "opciones": [
-        "a) No, debe confesar.",
-        "b) Sí, a no declarar si no quiere y a no contestar alguna pregunta.",
-        "c) Solo si paga.",
-        "d) Solo ante el Juez."
-      ],
-      "respuesta_correcta": "b) Sí, a no declarar si no quiere y a no contestar alguna pregunta."
-    },
-    {
-      "pregunta": "¿Tiene derecho el detenido a designar abogado?",
-      "opciones": [
-        "a) Sí, de confianza o de oficio.",
-        "b) No, se le asigna uno.",
-        "c) Solo si tiene dinero.",
-        "d) Solo en delitos graves."
-      ],
-      "respuesta_correcta": "a) Sí, de confianza o de oficio."
-    },
-    {
-      "pregunta": "¿Puede el detenido comunicarse telefónicamente con un tercero?",
-      "opciones": [
-        "a) No.",
-        "b) Sí, tiene derecho a que se ponga en conocimiento del familiar o persona que desee su detención y lugar de custodia.",
-        "c) Solo por carta.",
-        "d) Solo si es menor."
-      ],
-      "respuesta_correcta": "b) Sí, tiene derecho a que se ponga en conocimiento del familiar o persona que desee su detención y lugar de custodia."
-    },
-    {
-      "pregunta": "¿Qué es el 'Habeas Corpus'?",
-      "opciones": [
-        "a) Un cuerpo de policía.",
-        "b) Un procedimiento para poner a disposición judicial inmediata a los detenidos ilegalmente.",
-        "c) Un delito.",
-        "d) Una sentencia."
-      ],
-      "respuesta_correcta": "b) Un procedimiento para poner a disposición judicial inmediata a los detenidos ilegalmente."
-    },
-    {
-      "pregunta": "¿Puede el detenido renunciar a la asistencia letrada?",
-      "opciones": [
-        "a) Sí, siempre.",
-        "b) En general sí, si se le ha informado, pero no en delitos contra la seguridad del tráfico (según jurisprudencia y redacción actual es restringido, la detención requiere abogado).",
-        "c) No, la asistencia letrada al detenido es irrenunciable en las diligencias policiales y judiciales de detención.",
-        "d) Solo si es abogado."
-      ],
-      "respuesta_correcta": "c) No, la asistencia letrada al detenido es irrenunciable en las diligencias policiales y judiciales de detención."
-    },
-    {
-      "pregunta": "¿Qué derechos específicos tienen los detenidos extranjeros?",
-      "opciones": [
-        "a) A intérprete gratuito y a comunicar con su Consulado.",
-        "b) A ser expulsados.",
-        "c) A no ser detenidos.",
-        "d) A un abogado de su país."
-      ],
-      "respuesta_correcta": "a) A intérprete gratuito y a comunicar con su Consulado."
-    },
-    {
-      "pregunta": "¿Cuándo se acuerda la prisión provisional?",
-      "opciones": [
-        "a) Siempre que se detiene a alguien.",
-        "b) Cuando conste en la causa la existencia de uno o varios hechos que presenten caracteres de delito sancionado con pena cuyo máximo sea igual o superior a dos años de prisión (regla general), haya motivos bastantes de responsabilidad y se persigan fines constitucionales (riesgo fuga, destrucción pruebas, reiteración).",
-        "c) En delitos leves.",
-        "d) Por sospechas."
-      ],
-      "respuesta_correcta": "b) Cuando conste en la causa la existencia de uno o varios hechos que presenten caracteres de delito sancionado con pena cuyo máximo sea igual o superior a dos años de prisión (regla general), haya motivos bastantes de responsabilidad y se persigan fines constitucionales (riesgo fuga, destrucción pruebas, reiteración)."
-    },
-    {
-      "pregunta": "¿Cuál es la duración máxima de la prisión provisional para delitos graves (pena > 3 años)?",
-      "opciones": [
-        "a) 1 año.",
-        "b) 2 años, prorrogables por otros 2.",
-        "c) 6 meses.",
-        "d) 10 años."
-      ],
-      "respuesta_correcta": "b) 2 años, prorrogables por otros 2."
-    },
-    {
-      "pregunta": "¿Cuándo puede acordarse la entrada y registro en domicilio?",
-      "opciones": [
-        "a) Siempre que quiera la policía.",
-        "b) Con consentimiento del titular o autorización judicial.",
-        "c) Solo de día.",
-        "d) Solo si hay testigos."
-      ],
-      "respuesta_correcta": "b) Con consentimiento del titular o autorización judicial."
-    },
-    {
-      "pregunta": "¿Qué excepción permite la entrada en domicilio sin orden judicial?",
-      "opciones": [
-        "a) La sospecha.",
-        "b) El delito flagrante.",
-        "c) La denuncia anónima.",
-        "d) Ninguna."
-      ],
-      "respuesta_correcta": "b) El delito flagrante."
-    },
-    {
-      "pregunta": "¿A qué horas se puede practicar el registro domiciliario?",
-      "opciones": [
-        "a) Solo de día.",
-        "b) A cualquier hora del día o de la noche si es urgente o con consentimiento, pero por orden judicial se suele especificar; la ley permite día y noche si es necesario.",
-        "c) De 8 a 15.",
-        "d) Solo días laborables."
-      ],
-      "respuesta_correcta": "b) A cualquier hora del día o de la noche si es urgente o con consentimiento, pero por orden judicial se suele especificar; la ley permite día y noche si es necesario."
-    },
-    {
-      "pregunta": "¿Quién debe estar presente en el registro?",
-      "opciones": [
-        "a) Solo la policía.",
-        "b) El interesado (o quien le represente) y el Secretario Judicial (Letrado de la Administración de Justicia).",
-        "c) El Juez.",
-        "d) El Fiscal."
-      ],
-      "respuesta_correcta": "b) El interesado (o quien le represente) y el Secretario Judicial (Letrado de la Administración de Justicia)."
-    },
-    {
-      "pregunta": "¿Se puede registrar un edificio público sin autorización?",
-      "opciones": [
-        "a) Sí.",
-        "b) No, se necesita oficiar a la autoridad competente (salvo flagrante delito).",
-        "c) Sí, si es de día.",
-        "d) Sí, si está abierto."
-      ],
-      "respuesta_correcta": "b) No, se necesita oficiar a la autoridad competente (salvo flagrante delito)."
-    },
-    {
-      "pregunta": "¿Cuándo se puede interceptar la correspondencia?",
-      "opciones": [
-        "a) Siempre.",
-        "b) Con autorización judicial motivada.",
-        "c) Si es sospechoso.",
-        "d) En Correos."
-      ],
-      "respuesta_correcta": "b) Con autorización judicial motivada."
-    },
-    {
-      "pregunta": "¿Quién practica la apertura de la correspondencia?",
-      "opciones": [
-        "a) El policía.",
-        "b) El Juez.",
-        "c) El cartero.",
-        "d) El Fiscal."
-      ],
-      "respuesta_correcta": "b) El Juez."
-    },
-    {
-      "pregunta": "¿Para qué delitos se pueden intervenir las comunicaciones telefónicas?",
-      "opciones": [
-        "a) Para cualquiera.",
-        "b) Para delitos dolosos castigados con pena de al menos 3 años de prisión, delitos de terrorismo, o cometidos a través de instrumentos informáticos.",
-        "c) Solo tráfico de drogas.",
-        "d) Solo terrorismo."
-      ],
-      "respuesta_correcta": "b) Para delitos dolosos castigados con pena de al menos 3 años de prisión, delitos de terrorismo, o cometidos a través de instrumentos informáticos."
-    },
-    {
-      "pregunta": "¿Quién autoriza las escuchas telefónicas?",
-      "opciones": [
-        "a) La policía.",
-        "b) El Juez de Instrucción.",
-        "c) El Fiscal.",
-        "d) El Ministro del Interior."
-      ],
-      "respuesta_correcta": "b) El Juez de Instrucción."
-    },
-    {
-      "pregunta": "¿Qué duración máxima inicial tiene la intervención telefónica?",
-      "opciones": [
-        "a) 1 mes.",
-        "b) 3 meses, prorrogables.",
-        "c) 6 meses.",
-        "d) 1 año."
-      ],
-      "respuesta_correcta": "b) 3 meses, prorrogables."
-    },
-    {
-      "pregunta": "¿Puede la policía instalar dispositivos de escucha ambiental (micrófonos)?",
-      "opciones": [
-        "a) No, está prohibido.",
-        "b) Sí, con autorización judicial para delitos graves y cuando sea necesario.",
-        "c) Sí, sin orden.",
-        "d) Solo en la calle."
-      ],
-      "respuesta_correcta": "b) Sí, con autorización judicial para delitos graves y cuando sea necesario."
-    },
-    {
-      "pregunta": "¿Se pueden utilizar agentes encubiertos informáticos?",
-      "opciones": [
-        "a) No.",
-        "b) Sí, con autorización judicial para investigar delitos cometidos a través de internet.",
-        "c) Solo en terrorismo.",
-        "d) Sí, sin límites."
-      ],
-      "respuesta_correcta": "b) Sí, con autorización judicial para investigar delitos cometidos a través de internet."
-    },
-    {
-      "pregunta": "¿Qué es el registro remoto de equipos informáticos?",
-      "opciones": [
-        "a) Hackear legalmente.",
-        "b) Medida de investigación tecnológica autorizada por el juez para acceder a ordenadores a distancia (troyanos) en delitos muy graves.",
-        "c) Mirar Facebook.",
-        "d) Robar wifi."
-      ],
-      "respuesta_correcta": "b) Medida de investigación tecnológica autorizada por el juez para acceder a ordenadores a distancia (troyanos) en delitos muy graves."
-    },
-    {
-      "pregunta": "¿Cuándo puede el Ministerio Fiscal ordenar la detención y apertura de correspondencia?",
-      "opciones": [
-        "a) Nunca.",
-        "b) No puede ordenar apertura (es derecho fundamental), salvo en casos de terrorismo con ratificación judicial inmediata.",
-        "c) Siempre.",
-        "d) En delitos leves."
-      ],
-      "respuesta_correcta": "b) No puede ordenar apertura (es derecho fundamental), salvo en casos de terrorismo con ratificación judicial inmediata."
-    },
-    {
-      "pregunta": "¿Qué es la 'entrega vigilada'?",
-      "opciones": [
-        "a) Un paquete urgente.",
-        "b) Técnica de investigación que permite la circulación de remesas ilícitas (drogas, etc.) bajo vigilancia para descubrir a los autores.",
-        "c) Una detención.",
-        "d) Un registro."
-      ],
-      "respuesta_correcta": "b) Técnica de investigación que permite la circulación de remesas ilícitas (drogas, etc.) bajo vigilancia para descubrir a los autores."
-    },
-    {
-      "pregunta": "¿A qué delitos se aplica el Procedimiento Abreviado?",
-      "opciones": [
-        "a) A todos.",
-        "b) A los castigados con pena privativa de libertad no superior a 9 años o de otra naturaleza de cualquier cuantía.",
-        "c) A los de más de 9 años.",
-        "d) A los delitos leves."
-      ],
-      "respuesta_correcta": "b) A los castigados con pena privativa de libertad no superior a 9 años o de otra naturaleza de cualquier cuantía."
-    },
-    {
-      "pregunta": "¿Quién instruye el Procedimiento Abreviado?",
-      "opciones": [
-        "a) El Juez de lo Penal.",
-        "b) El Juez de Instrucción.",
-        "c) El Fiscal.",
-        "d) La Policía."
-      ],
-      "respuesta_correcta": "b) El Juez de Instrucción."
-    },
-    {
-      "pregunta": "¿Quién juzga en el Procedimiento Abreviado si la pena es de hasta 5 años de prisión?",
-      "opciones": [
-        "a) El Juez de lo Penal.",
-        "b) La Audiencia Provincial.",
-        "c) El Juez de Instrucción.",
-        "d) El Jurado."
-      ],
-      "respuesta_correcta": "a) El Juez de lo Penal."
-    },
-    {
-      "pregunta": "¿Quién juzga en el Procedimiento Abreviado si la pena es de 5 a 9 años de prisión?",
-      "opciones": [
-        "a) El Juez de lo Penal.",
-        "b) La Audiencia Provincial.",
-        "c) El Supremo.",
-        "d) El TSJ."
-      ],
-      "respuesta_correcta": "b) La Audiencia Provincial."
-    },
-    {
-      "pregunta": "¿Qué función tiene el Ministerio Fiscal en el Procedimiento Abreviado?",
-      "opciones": [
-        "a) Dictar sentencia.",
-        "b) Impulsar el procedimiento y formular acusación (o pedir sobreseimiento).",
-        "c) Defender al reo.",
-        "d) Archivar la causa."
-      ],
-      "respuesta_correcta": "b) Impulsar el procedimiento y formular acusación (o pedir sobreseimiento)."
-    },
-    {
-      "pregunta": "¿Qué son las 'Diligencias Previas'?",
-      "opciones": [
-        "a) La fase de instrucción en el Procedimiento Abreviado.",
-        "b) El sumario ordinario.",
-        "c) Las detenciones.",
-        "d) Las multas."
-      ],
-      "respuesta_correcta": "a) La fase de instrucción en el Procedimiento Abreviado."
-    },
-    {
-      "pregunta": "¿Es obligatoria la presencia de abogado en el Procedimiento Abreviado?",
-      "opciones": [
-        "a) No.",
-        "b) Sí, desde la detención o imputación.",
-        "c) Solo en el juicio.",
-        "d) Solo si se pide."
-      ],
-      "respuesta_correcta": "b) Sí, desde la detención o imputación."
-    },
-    {
-      "pregunta": "¿Qué se hace si el hecho no es delito al terminar la instrucción?",
-      "opciones": [
-        "a) Se abre juicio oral.",
-        "b) Se sobresee (archiva) la causa.",
-        "c) Se remite a delitos leves.",
-        "d) Se detiene al denunciante."
-      ],
-      "respuesta_correcta": "b) Se sobresee (archiva) la causa."
-    },
-    {
-      "pregunta": "¿Cuándo se aplica el procedimiento de Juicio Rápido?",
-      "opciones": [
-        "a) Delitos con pena hasta 5 años prisión (o 10 años otras penas), iniciados por atestado policial, con detenido o citado ante el Juzgado de Guardia, y que sean flagrantes, sencillos o delitos específicos (hurto, robo, tráfico, violencia doméstica...).",
-        "b) Para todos los delitos.",
-        "c) Para delitos de más de 9 años.",
-        "d) Solo para delitos leves."
-      ],
-      "respuesta_correcta": "a) Delitos con pena hasta 5 años prisión (o 10 años otras penas), iniciados por atestado policial, con detenido o citado ante el Juzgado de Guardia, y que sean flagrantes, sencillos o delitos específicos (hurto, robo, tráfico, violencia doméstica...)."
-    },
-    {
-      "pregunta": "¿Qué debe hacer la Policía Judicial en un Juicio Rápido?",
-      "opciones": [
-        "a) Nada especial.",
-        "b) Citar a denunciados, testigos y perjudicados ante el Juzgado de Guardia, y practicar las pruebas urgentes (alcohol, periciales) para remitirlas con el atestado.",
-        "c) Detener a todos.",
-        "d) Juzgar."
-      ],
-      "respuesta_correcta": "b) Citar a denunciados, testigos y perjudicados ante el Juzgado de Guardia, y practicar las pruebas urgentes (alcohol, periciales) para remitirlas con el atestado."
-    },
-    {
-      "pregunta": "¿Qué son las 'Diligencias Urgentes'?",
-      "opciones": [
-        "a) La instrucción en el Juicio Rápido ante el Juzgado de Guardia.",
-        "b) Las detenciones.",
-        "c) El juicio oral.",
-        "d) La sentencia."
-      ],
-      "respuesta_correcta": "a) La instrucción en el Juicio Rápido ante el Juzgado de Guardia."
-    },
-    {
-      "pregunta": "¿Se puede dictar sentencia de conformidad en el Juicio Rápido ante el Juez de Guardia?",
-      "opciones": [
-        "a) No, hay que ir al Penal.",
-        "b) Sí, si el acusado reconoce los hechos y la pena no supera los 3 años de prisión, se dicta sentencia con rebaja de un tercio de la pena (Art. 801).",
-        "c) Sí, siempre.",
-        "d) No, está prohibido."
-      ],
-      "respuesta_correcta": "b) Sí, si el acusado reconoce los hechos y la pena no supera los 3 años de prisión, se dicta sentencia con rebaja de un tercio de la pena (Art. 801)."
-    },
-    {
-      "pregunta": "¿Cuál es la reducción de pena por conformidad en Juicio Rápido?",
-      "opciones": [
-        "a) La mitad.",
-        "b) Un tercio.",
-        "c) Un cuarto.",
-        "d) No hay reducción."
-      ],
-      "respuesta_correcta": "b) Un tercio."
-    },
-    {
-      "pregunta": "¿Qué pasa si no hay conformidad en el Juicio Rápido?",
-      "opciones": [
-        "a) Se archiva.",
-        "b) Se remiten las actuaciones al Juez de lo Penal para la celebración del juicio oral en plazo breve (15 días).",
-        "c) Se convierte en sumario.",
-        "d) Se detiene al acusado."
-      ],
-      "respuesta_correcta": "b) Se remiten las actuaciones al Juez de lo Penal para la celebración del juicio oral en plazo breve (15 días)."
-    },
-    {
-      "pregunta": "¿Es necesaria la presencia de abogado en el Juicio Rápido?",
-      "opciones": [
-        "a) Sí, es preceptiva.",
-        "b) No.",
-        "c) Solo para el denunciante.",
-        "d) Solo si la pena es grave."
-      ],
-      "respuesta_correcta": "a) Sí, es preceptiva."
-    },
-    {
-      "pregunta": "¿Cuándo se celebra el juicio sobre delitos leves?",
-      "opciones": [
-        "a) Cuando se quiera.",
-        "b) Inmediatamente en el Juzgado de Guardia si es posible, o en plazo breve (7 días).",
-        "c) Al año.",
-        "d) En la Audiencia Provincial."
-      ],
-      "respuesta_correcta": "b) Inmediatamente en el Juzgado de Guardia si es posible, o en plazo breve (7 días)."
-    },
-    {
-      "pregunta": "¿Es preceptivo abogado y procurador en delitos leves?",
-      "opciones": [
-        "a) Sí.",
-        "b) No, salvo que la multa sea alta (generalmente no es preceptivo para multas de hasta 6 meses, sí recomendable).",
-        "c) Solo procurador.",
-        "d) Solo abogado."
-      ],
-      "respuesta_correcta": "b) No, salvo que la multa sea alta (generalmente no es preceptivo para multas de hasta 6 meses, sí recomendable)."
-    },
-    {
-      "pregunta": "¿Quién juzga los delitos leves?",
-      "opciones": [
-        "a) El Juez de Instrucción (o de Paz en algunos casos muy limitados) en funciones de guardia o el competente.",
-        "b) La Audiencia.",
-        "c) El Fiscal.",
-        "d) La Policía."
-      ],
-      "respuesta_correcta": "a) El Juez de Instrucción (o de Paz en algunos casos muy limitados) en funciones de guardia o el competente."
-    },
-    {
-      "pregunta": "¿Cabe recurso contra la sentencia de delito leve?",
-      "opciones": [
-        "a) No, es firme.",
-        "b) Sí, apelación ante la Audiencia Provincial (en un solo efecto).",
-        "c) Sí, casación.",
-        "d) Sí, amparo."
-      ],
-      "respuesta_correcta": "b) Sí, apelación ante la Audiencia Provincial (en un solo efecto)."
-    },
-    {
-      "pregunta": "Si el denunciado por delito leve reside fuera de la demarcación, ¿puede declarar por escrito?",
-      "opciones": [
-        "a) No, debe ir.",
-        "b) Sí, o apoderar a abogado/procurador para que le represente.",
-        "c) Se suspende el juicio.",
-        "d) Se le detiene."
-      ],
-      "respuesta_correcta": "b) Sí, o apoderar a abogado/procurador para que le represente."
-    },
-    {
-      "pregunta": "¿Qué ocurre si el denunciado no comparece al juicio de delito leve estando citado?",
-      "opciones": [
-        "a) Se suspende.",
-        "b) Se celebra en su ausencia si no hay causa justa.",
-        "c) Se le multa.",
-        "d) Se le busca."
-      ],
-      "respuesta_correcta": "b) Se celebra en su ausencia si no hay causa justa."
-    },
-    {
-      "pregunta": "¿La Policía Judicial puede citar a juicio inmediato por delito leve?",
-      "opciones": [
-        "a) Sí, si el juzgado de guardia puede celebrarlo.",
-        "b) No.",
-        "c) Solo si hay detenidos.",
-        "d) Solo si es hurto."
-      ],
-      "respuesta_correcta": "a) Sí, si el juzgado de guardia puede celebrarlo."
-    },
-    {
-      "pregunta": "¿Qué principio rige la práctica de la prueba en el juicio oral?",
-      "opciones": [
-        "a) Secreto.",
-        "b) Publicidad, oralidad, inmediación y contradicción.",
-        "c) Escritura.",
-        "d) Lentitud."
-      ],
-      "respuesta_correcta": "b) Publicidad, oralidad, inmediación y contradicción."
-    },
-    {
-      "pregunta": "¿Qué es el 'secreto de sumario'?",
-      "opciones": [
-        "a) Que nadie lo sepa.",
-        "b) Medida excepcional por la que el Juez restringe el conocimiento de las actuaciones a las partes (excepto al Fiscal) por tiempo limitado (1 mes prorrogable) para garantizar la investigación.",
-        "c) Que no salga en la tele.",
-        "d) Que sea privado."
-      ],
-      "respuesta_correcta": "b) Medida excepcional por la que el Juez restringe el conocimiento de las actuaciones a las partes (excepto al Fiscal) por tiempo limitado (1 mes prorrogable) para garantizar la investigación."
-    },
-    {
-      "pregunta": "¿Qué sucede con los objetos del delito tras la sentencia firme?",
-      "opciones": [
-        "a) Se devuelven a los dueños si no son ilícitos, o se decomisan/destruyen.",
-        "b) Se venden.",
-        "c) Se tiran.",
-        "d) Se los queda el juez."
-      ],
-      "respuesta_correcta": "a) Se devuelven a los dueños si no son ilícitos, o se decomisan/destruyen."
-    },
-    {
-      "pregunta": "¿Qué es la 'prisión comunicada'?",
-      "opciones": [
-        "a) Con teléfono.",
-        "b) El régimen ordinario de prisión provisional donde el interno puede recibir visitas y comunicaciones.",
-        "c) La incomunicada.",
-        "d) La domiciliaria."
-      ],
-      "respuesta_correcta": "b) El régimen ordinario de prisión provisional donde el interno puede recibir visitas y comunicaciones."
-    },
-    {
-      "pregunta": "¿Cuándo se acuerda la incomunicación del detenido?",
-      "opciones": [
-        "a) Para castigarle.",
-        "b) Para evitar que sustraiga pruebas, influya en testigos o cometa nuevos delitos (especialmente en terrorismo/banda armada).",
-        "c) Siempre.",
-        "d) Nunca."
-      ],
-      "respuesta_correcta": "b) Para evitar que sustraiga pruebas, influya en testigos o cometa nuevos delitos (especialmente en terrorismo/banda armada)."
-    },
-    {
-      "pregunta": "¿Cuánto dura la incomunicación policial?",
-      "opciones": [
-        "a) Lo que dure la detención (máximo 72h + prorroga judicial hasta 5 días en terrorismo).",
-        "b) 1 mes.",
-        "c) 1 día.",
-        "d) 10 días."
-      ],
-      "respuesta_correcta": "a) Lo que dure la detención (máximo 72h + prorroga judicial hasta 5 días en terrorismo)."
-    },
-    {
-      "pregunta": "¿Tiene derecho el detenido incomunicado a designar abogado?",
-      "opciones": [
-        "a) Sí.",
-        "b) No, se le designa de oficio.",
-        "c) Sí, de su familia.",
-        "d) No tiene derecho a abogado."
-      ],
-      "respuesta_correcta": "b) No, se le designa de oficio."
-    },
-    {
-      "pregunta": "¿Quién autoriza la prórroga de la detención más allá de las 72 horas (en terrorismo)?",
-      "opciones": [
-        "a) La policía.",
-        "b) El Juez, por otras 48 horas.",
-        "c) El Fiscal.",
-        "d) El Ministro."
-      ],
-      "respuesta_correcta": "b) El Juez, por otras 48 horas."
-    },
-    {
-      "pregunta": "¿Qué es la 'fianza' para la libertad provisional?",
-      "opciones": [
-        "a) Un pago.",
-        "b) Garantía económica para asegurar que el procesado no eludirá la acción de la justicia.",
-        "c) Una multa.",
-        "d) Un soborno."
-      ],
-      "respuesta_correcta": "b) Garantía económica para asegurar que el procesado no eludirá la acción de la justicia."
-    },
-    {
-      "pregunta": "¿Puede el Juez decretar libertad provisional sin fianza?",
-      "opciones": [
-        "a) Sí (libertad con cargos apud acta).",
-        "b) No.",
-        "c) Solo en delitos leves.",
-        "d) Solo si es inocente."
-      ],
-      "respuesta_correcta": "a) Sí (libertad con cargos apud acta)."
+[[
+  
+    {
+      "tema": "TEMA 13.- LEY DE ENJUICIAMIENTO CRIMINAL",
+      "descripcion": "Batería de 110 preguntas sobre la LECrim con distribución equitativa de respuestas.",
+      "preguntas": [
+        {
+          "pregunta": "Según el artículo 1 de la Ley de Enjuiciamiento Criminal, ¿quién tiene competencia para imponer penas por delitos?",
+          "opciones": [
+            "a) Corresponde a los Jueces y Tribunales, así como al Ministerio Fiscal en la fase de instrucción cuando se trate de delitos leves, imponiendo las penas previstas en el Código Penal.",
+            "b) No se impondrá pena alguna por consecuencia de actos punibles cuya represión incumba a la jurisdicción ordinaria, sino de conformidad con las disposiciones del presente Código o de Leyes especiales y en virtud de sentencia dictada por Juez competente.",
+            "c) Corresponde exclusivamente a la jurisdicción ordinaria, que actuará siempre bajo el principio de legalidad y con pleno respeto a las garantías constitucionales del procesado.",
+            "d) Las penas pueden ser impuestas por la Administración en el ejercicio de su potestad sancionadora, siempre que no impliquen privación de libertad, o por los Tribunales de Justicia en sentencia firme."
+          ],
+          "respuesta_correcta": "c) Corresponde exclusivamente a la jurisdicción ordinaria, que actuará siempre bajo el principio de legalidad y con pleno respeto a las garantías constitucionales del procesado.",
+          "cita": "LECrim, Art. 1"
+        },
+        {
+          "pregunta": "¿Qué establece el artículo 10 de la LECrim sobre la competencia territorial en delitos conexos?",
+          "opciones": [
+            "a) Será competente para conocer de los delitos conexos el Juez o Tribunal del territorio en que se haya cometido el delito al que esté señalada pena mayor, y en caso de igualdad, el que primero comenzare la causa.",
+            "b) La competencia corresponderá siempre al Juzgado Central de Instrucción cuando los delitos se hayan cometido en diferentes partidos judiciales de distintas provincias.",
+            "c) Será competente el Juez del lugar donde se haya detenido al presunto culpable, independientemente de la gravedad de los delitos conexos investigados.",
+            "d) El conocimiento de los delitos conexos corresponde al Tribunal Superior de Justicia de la Comunidad Autónoma cuando afecten a más de una provincia."
+          ],
+          "respuesta_correcta": "b) La competencia corresponderá siempre al Juzgado Central de Instrucción cuando los delitos se hayan cometido en diferentes partidos judiciales de distintas provincias.",
+          "cita": "LECrim, Art. 18.1 (Regla competencia delitos conexos)"
+        },
+        {
+          "pregunta": "¿Qué delitos se consideran conexos según el artículo 17 de la LECrim?",
+          "opciones": [
+            "a) Aquellos que se cometen simultáneamente en el mismo lugar, aunque los autores sean diferentes y no exista relación entre ellos.",
+            "b) Los delitos cometidos por bandas organizadas o grupos terroristas, así como los delitos contra la Hacienda Pública y el blanqueo de capitales asociados.",
+            "c) Exclusivamente aquellos delitos que sean cometidos por la misma persona en un periodo de tiempo no superior a un año y que tengan la misma naturaleza jurídica.",
+            "d) Los cometidos por dos o más personas reunidas, los cometidos por dos o más personas en distintos lugares o tiempos si hubiera precedido concierto para ello, y los cometidos como medio para perpetrar otros o facilitar su ejecución."
+          ],
+          "respuesta_correcta": "d) Los cometidos por dos o más personas reunidas, los cometidos por dos o más personas en distintos lugares o tiempos si hubiera precedido concierto para ello, y los cometidos como medio para perpetrar otros o facilitar su ejecución.",
+          "cita": "LECrim, Art. 17"
+        },
+        {
+          "pregunta": "¿Quiénes pueden ejercer la acción penal según el artículo 101 de la LECrim?",
+          "opciones": [
+            "a) Todos los ciudadanos españoles podrán ejercitar la acción penal con arreglo a las prescripciones de la Ley, así como el Ministerio Fiscal y los perjudicados por el delito.",
+            "b) El Ministerio Fiscal, el Abogado del Estado y las Fuerzas y Cuerpos de Seguridad del Estado mediante el atestado policial.",
+            "c) Únicamente los perjudicados directos por el delito y sus representantes legales, debiendo el Ministerio Fiscal abstenerse si no hay interés público.",
+            "d) La acción penal es pública y corresponde al Ministerio Fiscal en exclusiva, salvo en los delitos privados donde se requiere querella del ofendido."
+          ],
+          "respuesta_correcta": "c) Únicamente los perjudicados directos por el delito y sus representantes legales, debiendo el Ministerio Fiscal abstenerse si no hay interés público.",
+          "cita": "LECrim, Art. 101"
+        },
+        {
+          "pregunta": "¿Cuándo se extingue la acción penal (Art. 115)?",
+          "opciones": [
+            "a) Se extingue por el perdón del ofendido en todos los delitos, sean públicos, semipúblicos o privados, siempre que se otorgue antes de la sentencia.",
+            "b) Se extingue por la renuncia expresa del Ministerio Fiscal a continuar con la acusación en la fase de juicio oral.",
+            "c) La acción penal no se extingue nunca, siendo imprescriptible para todo tipo de delitos graves.",
+            "d) La acción penal se extingue por la muerte del culpable, pero en este caso subsiste la civil contra sus herederos y causahabientes, que sólo podrá ejercitarse ante la jurisdicción civil."
+          ],
+          "respuesta_correcta": "b) Se extingue por la renuncia expresa del Ministerio Fiscal a continuar con la acusación en la fase de juicio oral.",
+          "cita": "LECrim, Art. 115"
+        },
+        {
+          "pregunta": "¿Quién puede renunciar a la acción civil derivada del delito (Art. 108)?",
+          "opciones": [
+            "a) Nadie puede renunciar a la acción civil, ya que es de orden público y debe ser satisfecha para la reinserción del delincuente.",
+            "b) La acción civil ha de entablarse juntamente con la penal por el Ministerio Fiscal, haya o no en el proceso acusador particular; pero si el ofendido renunciare expresamente, su renuncia no perjudicará al ejercicio de la acción penal.",
+            "c) El Ministerio Fiscal puede renunciar a la acción civil en nombre del Estado si considera que no hay perjuicio patrimonial público.",
+            "d) La renuncia a la acción civil implica automáticamente la renuncia a la acción penal en los delitos semipúblicos."
+          ],
+          "respuesta_correcta": "b) La acción civil ha de entablarse juntamente con la penal por el Ministerio Fiscal, haya o no en el proceso acusador particular; pero si el ofendido renunciare expresamente, su renuncia no perjudicará al ejercicio de la acción penal.",
+          "cita": "LECrim, Art. 108"
+        },
+        {
+          "pregunta": "¿Qué establece el artículo 14 sobre la competencia de los Jueces de Instrucción?",
+          "opciones": [
+            "a) Tienen competencia exclusiva para instruir causas contra diputados y senadores si el delito se ha cometido en su partido judicial.",
+            "b) Son competentes para instruir las causas por delito cuyo enjuiciamiento corresponda a las Audiencias Provinciales y a los Juzgados de lo Penal, excepto en los casos de aforamiento.",
+            "c) Son los encargados de dictar sentencia en los procedimientos abreviados cuando hay conformidad del acusado.",
+            "d) Son competentes para el fallo de los delitos leves y para la instrucción y fallo de los delitos menos graves castigados con pena de hasta 5 años."
+          ],
+          "respuesta_correcta": "a) Tienen competencia exclusiva para instruir causas contra diputados y senadores si el delito se ha cometido en su partido judicial.",
+          "cita": "LECrim, Art. 14.2"
+        },
+        {
+          "pregunta": "¿En qué casos es preferente la jurisdicción ordinaria sobre la militar (Art. 13)?",
+          "opciones": [
+            "a) Se considerarán delitos conexos los cometidos por personas sujetas al fuero ordinario y al militar, y cuando la competencia corresponda a la jurisdicción ordinaria, esta se extenderá a todos los partícipes.",
+            "b) La jurisdicción ordinaria es siempre preferente, debiendo inhibirse la militar en cuanto aparezca un civil involucrado.",
+            "c) La jurisdicción militar es preferente si el delito se comete en un establecimiento militar, aunque el autor sea civil.",
+            "d) Solo es preferente si el delito tiene una pena superior a 10 años de prisión en el Código Penal común."
+          ],
+          "respuesta_correcta": "d) Solo es preferente si el delito tiene una pena superior a 10 años de prisión en el Código Penal común.",
+          "cita": "LECrim, Art. 13 (Nota: Interpretación sobre conexidad y fuero)"
+        },
+        {
+          "pregunta": "¿Qué sucede con las cuestiones prejudiciales civiles en el proceso penal (Art. 3)?",
+          "opciones": [
+            "a) Por regla general, la competencia de los Tribunales del orden penal se extiende para resolver, a los solos efectos de la represión, las cuestiones civiles y administrativas prejudiciales propuestas que aparezcan tan íntimamente ligadas al hecho punible que sea racionalmente imposible su separación.",
+            "b) Deben suspender el procedimiento penal hasta que recaiga sentencia firme en el orden civil o administrativo correspondiente.",
+            "c) El Juez penal debe remitir las actuaciones al Juez civil competente y esperar su resolución antes de continuar la instrucción.",
+            "d) Las cuestiones prejudiciales civiles nunca pueden ser resueltas por un tribunal penal por falta de especialización."
+          ],
+          "respuesta_correcta": "a) Por regla general, la competencia de los Tribunales del orden penal se extiende para resolver, a los solos efectos de la represión, las cuestiones civiles y administrativas prejudiciales propuestas que aparezcan tan íntimamente ligadas al hecho punible que sea racionalmente imposible su separación.",
+          "cita": "LECrim, Art. 3"
+        },
+        {
+          "pregunta": "¿Quién está obligado a denunciar según el artículo 259 de la LECrim?",
+          "opciones": [
+            "a) El que presenciare la perpetración de cualquier delito público está obligado a ponerlo inmediatamente en conocimiento del Juez de instrucción, de paz, comarcal o municipal o funcionario fiscal más próximo al sitio en que se hallare.",
+            "b) Solamente los funcionarios públicos y las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones.",
+            "c) Los mayores de edad que no estén impedidos físicamente, bajo pena de multa si no lo hacen.",
+            "d) Cualquier ciudadano que tenga conocimiento de un delito, sea público o privado, salvo que sea familiar del delincuente."
+          ],
+          "respuesta_correcta": "c) Los mayores de edad que no estén impedidos físicamente, bajo pena de multa si no lo hacen.",
+          "cita": "LECrim, Art. 259"
+        },
+        {
+          "pregunta": "¿Quiénes están exentos de la obligación de denunciar según el artículo 261?",
+          "opciones": [
+            "a) Los menores de 18 años y las personas con discapacidad intelectual, así como los tutores respecto a sus pupilos.",
+            "b) El cónyuge del delincuente, sus ascendientes y descendientes consanguíneos o afines en línea recta y sus colaterales consanguíneos o uterinos y afines hasta el segundo grado inclusive.",
+            "c) Nadie está exento de la obligación de denunciar un delito público presenciado, salvo el propio delincuente.",
+            "d) Los abogados, procuradores y ministros de culto en todo caso, y los funcionarios públicos cuando el delito no afecte a su servicio."
+          ],
+          "respuesta_correcta": "b) El cónyuge del delincuente, sus ascendientes y descendientes consanguíneos o afines en línea recta y sus colaterales consanguíneos o uterinos y afines hasta el segundo grado inclusive.",
+          "cita": "LECrim, Art. 261"
+        },
+        {
+          "pregunta": "¿Qué obligación tienen los que por razón de sus cargos, profesiones u oficios tuvieren noticia de algún delito público (Art. 262)?",
+          "opciones": [
+            "a) Deben comunicarlo a su colegio profesional para que este decida si procede o no la denuncia.",
+            "b) Estarán obligados a denunciarlo inmediatamente al Ministerio Fiscal, al Tribunal competente, al Juez de instrucción y, en su defecto, al municipal o al funcionario de policía más próximo al sitio si se tratare de un delito flagrante.",
+            "c) Tienen el deber de guardar secreto profesional y no pueden denunciar salvo que haya riesgo vital para terceros.",
+            "d) Solo están obligados si el delito afecta directamente a la administración pública en la que prestan servicio."
+          ],
+          "respuesta_correcta": "c) Tienen el deber de guardar secreto profesional y no pueden denunciar salvo que haya riesgo vital para terceros.",
+          "cita": "LECrim, Art. 262"
+        },
+        {
+          "pregunta": "¿Cómo puede hacerse la denuncia según el artículo 265?",
+          "opciones": [
+            "a) Podrá hacerse por escrito o de palabra, personalmente o por medio de mandatario con poder especial.",
+            "b) Solo puede hacerse personalmente mediante comparecencia en la comisaría o el juzgado de guardia.",
+            "c) Debe presentarse telemáticamente a través de la sede judicial electrónica con certificado digital.",
+            "d) Debe hacerse siempre por escrito y ratificarse ante el Juez de Instrucción en el plazo de 24 horas."
+          ],
+          "respuesta_correcta": "b) Solo puede hacerse personalmente mediante comparecencia en la comisaría o el juzgado de guardia.",
+          "cita": "LECrim, Art. 265"
+        },
+        {
+          "pregunta": "¿Qué responsabilidad contrae el denunciante (Art. 269)?",
+          "opciones": [
+            "a) El denunciante no contraerá otra responsabilidad que la correspondiente a los delitos que hubiese cometido por medio de la denuncia, o con su ocasión (denuncia falsa, calumnias).",
+            "b) No contrae ninguna responsabilidad, ni penal ni civil, aunque la denuncia sea manifiestamente falsa.",
+            "c) El denunciante queda obligado a probar los hechos denunciados y a pagar las costas procesales si se archiva la causa.",
+            "d) Se convierte automáticamente en parte acusadora en el proceso penal."
+          ],
+          "respuesta_correcta": "b) No contrae ninguna responsabilidad, ni penal ni civil, aunque la denuncia sea manifiestamente falsa.",
+          "cita": "LECrim, Art. 269"
+        },
+        {
+          "pregunta": "¿Qué requisitos formales exige la querella según el artículo 277?",
+          "opciones": [
+            "a) Debe presentarse ante la Policía Judicial, que la remitirá al Juzgado competente junto con el atestado.",
+            "b) Se presentará siempre por medio de Procurador con poder bastante y suscrita por Letrado, expresando el Juez o Tribunal ante quien se presente, nombre y apellidos del querellante y querellado, relación circunstanciada del hecho, diligencias que se pidan, petición de admisión y firma.",
+            "c) Puede presentarse sin abogado ni procurador si se trata de delitos leves, bastando un escrito firmado por el querellante.",
+            "d) Requiere la prestación de fianza en todo caso, salvo que el querellante sea el Ministerio Fiscal o el ofendido por el delito."
+          ],
+          "respuesta_correcta": "c) Puede presentarse sin abogado ni procurador si se trata de delitos leves, bastando un escrito firmado por el querellante.",
+          "cita": "LECrim, Art. 277"
+        },
+        {
+          "pregunta": "¿Quién está exento de prestar fianza para querellarse (Art. 281)?",
+          "opciones": [
+            "a) El ofendido y sus herederos o representantes legales, así como en los delitos de asesinato o homicidio, el viudo o viuda, ascendientes y descendientes consanguíneos o afines, colaterales consanguíneos o uterinos y afines hasta el segundo grado, herederos de la víctima y los padres de hijos naturales.",
+            "b) Los extranjeros que residan legalmente en España y acrediten insuficiencia de recursos económicos.",
+            "c) Las personas jurídicas que se querellen por delitos societarios o contra el patrimonio.",
+            "d) Únicamente el Ministerio Fiscal y las acusaciones populares ejercidas por asociaciones de utilidad pública."
+          ],
+          "respuesta_correcta": "d) Únicamente el Ministerio Fiscal y las acusaciones populares ejercidas por asociaciones de utilidad pública.",
+          "cita": "LECrim, Art. 281"
+        },
+        {
+          "pregunta": "¿Qué efectos produce el abandono de la querella (Art. 276)?",
+          "opciones": [
+            "a) El abandono de la querella extingue la acción penal en todos los casos, sean delitos públicos o privados.",
+            "b) El querellante será multado por temeridad y mala fe procesal.",
+            "c) El Ministerio Fiscal continuará con la acción aunque el querellante abandone, incluso en los delitos de injurias y calumnias.",
+            "d) Si el delito es privado, se tendrá por abandonada la querella si el querellante deja de instar el procedimiento dentro de los diez días siguientes a la notificación del auto, extinguiéndose la acción penal."
+          ],
+          "respuesta_correcta": "c) El Ministerio Fiscal continuará con la acción aunque el querellante abandone, incluso en los delitos de injurias y calumnias.",
+          "cita": "LECrim, Art. 276 (en relación con Art. 275)"
+        },
+        {
+          "pregunta": "¿Qué función principal tiene la Policía Judicial según el artículo 282?",
+          "opciones": [
+            "a) Su misión es exclusivamente preventiva, evitando la comisión de delitos mediante el patrullaje, correspondiendo la investigación a los detectives privados.",
+            "b) Su función se limita a cumplir las órdenes directas de los Jueces y Fiscales, sin iniciativa propia para investigar delitos no denunciados.",
+            "c) La Policía Judicial tiene la obligación de averiguar los delitos públicos que se cometieren en su territorio o demarcación; practicar, según sus atribuciones, las diligencias necesarias para comprobarlos y descubrir a los delincuentes, y recoger todos los efectos, instrumentos o pruebas del delito de cuya desaparición hubiere peligro.",
+            "d) Debe detener a los sospechosos y ponerlos a disposición judicial en 24 horas, sin practicar diligencias de investigación."
+          ],
+          "respuesta_correcta": "b) Su función se limita a cumplir las órdenes directas de los Jueces y Fiscales, sin iniciativa propia para investigar delitos no denunciados.",
+          "cita": "LECrim, Art. 282"
+        },
+        {
+          "pregunta": "¿A quién deben comunicar las diligencias la Policía Judicial (Art. 284)?",
+          "opciones": [
+            "a) Inmediatamente al Ministerio Fiscal y a la Autoridad Judicial competente, y si no hubiere autor conocido, conservarán el atestado en sus archivos a disposición del Ministerio Fiscal y de la Autoridad Judicial (salvo delitos contra la vida, integridad, libertad, etc.).",
+            "b) Al Delegado del Gobierno o Subdelegado, como superiores jerárquicos administrativos.",
+            "c) A los medios de comunicación si el caso tiene relevancia social.",
+            "d) Únicamente al Juez de Instrucción de Guardia, sin necesidad de informar al Ministerio Fiscal hasta que se abra el juicio oral."
+          ],
+          "respuesta_correcta": "d) Únicamente al Juez de Instrucción de Guardia, sin necesidad de informar al Ministerio Fiscal hasta que se abra el juicio oral.",
+          "cita": "LECrim, Art. 284.1 y 2"
+        },
+        {
+          "pregunta": "¿Qué valor tiene el atestado policial (Art. 297)?",
+          "opciones": [
+            "a) Son documentos administrativos sin valor procesal alguno, debiendo repetirse todas las diligencias ante el Juez.",
+            "b) Los atestados que redactaren y las manifestaciones que hicieren los funcionarios de Policía judicial, a consecuencia de las averiguaciones que hubiesen practicado, se considerarán denuncias para los efectos legales.",
+            "c) Tienen valor de testimonio pericial si han sido ratificados por dos agentes.",
+            "d) Tienen valor de prueba plena y hacen fe en juicio salvo prueba en contrario."
+          ],
+          "respuesta_correcta": "a) Son documentos administrativos sin valor procesal alguno, debiendo repetirse todas las diligencias ante el Juez.",
+          "cita": "LECrim, Art. 297"
+        },
+        {
+          "pregunta": "¿Quiénes componen la Policía Judicial según el artículo 283?",
+          "opciones": [
+            "a) Exclusivamente los miembros de las Unidades Orgánicas de Policía Judicial de la Policía Nacional y la Guardia Civil.",
+            "b) Los detectives privados habilitados por el Ministerio del Interior.",
+            "c) Los funcionarios de prisiones y los agentes judiciales de los juzgados.",
+            "d) Los Jefes, Comisarios, Agentes, Cabos, Guardias Civiles, y demás agentes de seguridad, así como los Alcaldes, Tenientes de Alcalde y Alcaldes de barrio, y los Jefes y Guardas de montes, campos y sembrados jurados."
+          ],
+          "respuesta_correcta": "c) Los funcionarios de prisiones y los agentes judiciales de los juzgados.",
+          "cita": "LECrim, Art. 283"
+        },
+        {
+          "pregunta": "¿Qué plazo tienen los funcionarios de Policía Judicial para entregar el atestado (Art. 295)?",
+          "opciones": [
+            "a) En ningún caso podrán detener, por su propia autoridad, la remisión de las diligencias que practiquen al Juez competente más de veinticuatro horas después de haberlas practicado, salvo causa de fuerza mayor que deberá constar.",
+            "b) Tienen un plazo de 72 horas desde la detención del sospechoso.",
+            "c) Pueden retenerlo hasta que finalicen todas las investigaciones, sin límite de tiempo.",
+            "d) Deben entregarlo en el plazo de 5 días hábiles a la Secretaría del Juzgado."
+          ],
+          "respuesta_correcta": "c) Pueden retenerlo hasta que finalicen todas las investigaciones, sin límite de tiempo.",
+          "cita": "LECrim, Art. 295"
+        },
+        {
+          "pregunta": "¿Pueden los miembros de la Policía Judicial ser sancionados por los Jueces (Art. 292)?",
+          "opciones": [
+            "a) No, gozan de inmunidad funcional en el ejercicio de sus labores de investigación.",
+            "b) Sí, los funcionarios de Policía judicial que en el ejercicio de sus funciones infrinjan disposiciones legales o reglamentarias, podrán ser corregidos disciplinariamente por los Jueces y Tribunales de quienes dependan, sin perjuicio de la responsabilidad penal.",
+            "c) Sí, pero solo mediante apercibimiento verbal, nunca con suspensión o multa.",
+            "d) No, solo pueden ser sancionados por sus superiores jerárquicos administrativos dentro de su Cuerpo."
+          ],
+          "respuesta_correcta": "b) Sí, los funcionarios de Policía judicial que en el ejercicio de sus funciones infrinjan disposiciones legales o reglamentarias, podrán ser corregidos disciplinariamente por los Jueces y Tribunales de quienes dependan, sin perjuicio de la responsabilidad penal.",
+          "cita": "LECrim, Art. 292"
+        },
+        {
+          "pregunta": "¿Qué obligación tienen respecto a la protección de los ofendidos (Art. 282)?",
+          "opciones": [
+            "a) Deben alojarlos en hoteles de seguridad si existe riesgo para su vida.",
+            "b) Su única obligación es tomarles declaración y dejarles marchar.",
+            "c) Tienen el deber de informar a los ofendidos de sus derechos conforme al artículo 109 y 110, y en particular, instruirles de su derecho a mostrarse parte en la causa y renunciar o no a la restitución, reparación o indemnización.",
+            "d) Deben proporcionarles abogado de oficio y asistencia psicológica inmediata."
+          ],
+          "respuesta_correcta": "d) Deben proporcionarles abogado de oficio y asistencia psicológica inmediata.",
+          "cita": "LECrim, Art. 282 párrafo 2"
+        },
+        {
+          "pregunta": "¿Cómo deben firmarse las diligencias del atestado (Art. 293)?",
+          "opciones": [
+            "a) Solo es necesaria la firma del Instructor y del Secretario de las diligencias.",
+            "b) Deben firmarse electrónicamente mediante certificado digital cualificado.",
+            "c) Las diligencias que practiquen los funcionarios de Policía judicial se extenderán en papel timbrado o común, y serán firmadas por el actuario y, en su caso, por los declarantes o testigos y por el procesado si estuviere presente.",
+            "d) No es necesaria la firma de los testigos si estos no saben firmar, bastando con la huella dactilar."
+          ],
+          "respuesta_correcta": "d) No es necesaria la firma de los testigos si estos no saben firmar, bastando con la huella dactilar.",
+          "cita": "LECrim, Art. 293"
+        },
+        {
+          "pregunta": "¿Qué ocurre si no hay autor conocido del delito (Art. 284)?",
+          "opciones": [
+            "a) La Policía Judicial conservará el atestado a disposición del Ministerio Fiscal y de la Autoridad Judicial, sin enviárselo, salvo que se trate de delitos contra la vida, integridad física, libertad e indemnidad sexual o corrupción, en cuyo caso se remite siempre.",
+            "b) Se debe remitir siempre el atestado al Juzgado de Guardia para que dicte auto de sobreseimiento provisional.",
+            "c) Se archiva el atestado en comisaría y se destruye a los tres meses si no aparecen nuevas pistas.",
+            "d) Se envía una copia simple al Fiscal y el original se queda en la unidad policial."
+          ],
+          "respuesta_correcta": "a) La Policía Judicial conservará el atestado a disposición del Ministerio Fiscal y de la Autoridad Judicial, sin enviárselo, salvo que se trate de delitos contra la vida, integridad física, libertad e indemnidad sexual o corrupción, en cuyo caso se remite siempre.",
+          "cita": "LECrim, Art. 284.2"
+        },
+        {
+          "pregunta": "¿Qué deben hacer los agentes si el delito es de los que solo se persiguen a instancia de parte (Art. 287)?",
+          "opciones": [
+            "a) Pueden actuar si hay alarma social o el delito es grave.",
+            "b) Pueden investigar de oficio pero no detener al culpable hasta que haya denuncia.",
+            "c) Deben convencer a la víctima para que denuncie y así poder actuar.",
+            "d) No podrán proceder a la investigación ni a la práctica de diligencia alguna si no precede la denuncia de la persona agraviada o de su representante legal."
+          ],
+          "respuesta_correcta": "c) Deben convencer a la víctima para que denuncie y así poder actuar.",
+          "cita": "LECrim, Art. 287"
+        },
+        {
+          "pregunta": "¿Qué implica la dependencia funcional de la Policía Judicial (Art. 288)?",
+          "opciones": [
+            "a) Que solo pueden recibir órdenes del Juez Decano del partido judicial.",
+            "b) Que no tienen superiores jerárquicos policiales en el desarrollo de sus funciones.",
+            "c) Que dependen orgánicamente del Ministerio de Justicia y cobran sus nóminas de dicho departamento.",
+            "d) Que dependen de los Jueces, Tribunales y Ministerio Fiscal en cuanto a las funciones de investigación, debiendo cumplir sus órdenes de forma inmediata y directa."
+          ],
+          "respuesta_correcta": "d) Que dependen de los Jueces, Tribunales y Ministerio Fiscal en cuanto a las funciones de investigación, debiendo cumplir sus órdenes de forma inmediata y directa.",
+          "cita": "LECrim, Art. 288 (Implícito y explícito en normas concordantes)"
+        },
+        {
+          "pregunta": "¿Puede el Ministerio Fiscal impartir órdenes a la Policía Judicial (Art. 773.1)?",
+          "opciones": [
+            "a) Solo en los delitos leves, en los graves corresponde al Juez.",
+            "b) Sí, el Fiscal podrá impartir instrucciones a la Policía Judicial para que practique las diligencias que estime necesarias para la comprobación del hecho y la responsabilidad de los partícipes.",
+            "c) Solo si la Policía Judicial se lo solicita previamente.",
+            "d) No, solo los Jueces de Instrucción pueden dar órdenes a la Policía Judicial."
+          ],
+          "respuesta_correcta": "b) Sí, el Fiscal podrá impartir instrucciones a la Policía Judicial para que practique las diligencias que estime necesarias para la comprobación del hecho y la responsabilidad de los partícipes.",
+          "cita": "LECrim, Art. 773.1"
+        },
+        {
+          "pregunta": "¿Qué diligencias NO puede ordenar el Fiscal a la Policía Judicial (Art. 773.1)?",
+          "opciones": [
+            "a) La toma de declaración a testigos y sospechosos.",
+            "b) La solicitud de informes periciales a los laboratorios de criminalística.",
+            "c) Aquellas que supongan limitación de derechos fundamentales (entradas y registros, intervenciones telefónicas), que requieren autorización judicial.",
+            "d) La inspección ocular del lugar de los hechos."
+          ],
+          "respuesta_correcta": "c) Aquellas que supongan limitación de derechos fundamentales (entradas y registros, intervenciones telefónicas), que requieren autorización judicial.",
+          "cita": "LECrim, Art. 773.1 (A contrario sensu)"
+        },
+        {
+          "pregunta": "Según el artículo 294, ¿qué pasa si no se puede redactar el atestado inmediatamente?",
+          "opciones": [
+            "a) Se detendrá a los implicados indefinidamente hasta que el atestado esté listo.",
+            "b) Se anularán todas las actuaciones por defecto de forma.",
+            "c) Si no pudiere redactarse el atestado por las circunstancias del caso, se tomarán los datos precisos para hacerlo luego, y entretanto se dará cuenta verbalmente al Juez o al Fiscal.",
+            "d) Se suspenderán las actuaciones hasta que se pueda escribir el atestado."
+          ],
+          "respuesta_correcta": "b) Se anularán todas las actuaciones por defecto de forma.",
+          "cita": "LECrim, Art. 294"
+        },
+        {
+          "pregunta": "¿Qué obligación tiene el que presencia un delito privado (Art. 260)?",
+          "opciones": [
+            "a) Está obligado a denunciar igual que en los delitos públicos.",
+            "b) Debe avisar a la policía pero no está obligado a firmar la denuncia.",
+            "c) Solo está obligado si es funcionario público.",
+            "d) No está obligado a denunciar, ya que solo pueden perseguirse a instancia de parte."
+          ],
+          "respuesta_correcta": "b) Debe avisar a la policía pero no está obligado a firmar la denuncia.",
+          "cita": "LECrim, Art. 260"
+        },
+        {
+          "pregunta": "¿Qué ocurre si la querella no está firmada por Abogado y Procurador (Art. 277)?",
+          "opciones": [
+            "a) Se admitirá provisionalmente y se nombrará uno de oficio si el querellante no tiene recursos.",
+            "b) Es válida si la firma el propio querellante y tiene conocimientos de derecho.",
+            "c) Se convierte automáticamente en denuncia simple.",
+            "d) Se inadmitirá o se requerirá para subsanación, ya que son requisitos formales imprescindibles para la validez de la querella."
+          ],
+          "respuesta_correcta": "a) Se admitirá provisionalmente y se nombrará uno de oficio si el querellante no tiene recursos.",
+          "cita": "LECrim, Art. 277"
+        },
+        {
+          "pregunta": "¿Qué es la 'oferta de acciones' al ofendido (Art. 109)?",
+          "opciones": [
+            "a) La oferta económica que hace el agresor a la víctima para evitar el juicio.",
+            "b) El acto por el cual el Secretario Judicial (LAJ) o la Policía instruyen al ofendido de su derecho a mostrarse parte en la causa y a renunciar o no a la restitución de la cosa, reparación del daño e indemnización del perjuicio.",
+            "c) La posibilidad de comprar acciones de la empresa responsable del delito.",
+            "d) El ofrecimiento de asistencia psicológica gratuita."
+          ],
+          "respuesta_correcta": "c) La posibilidad de comprar acciones de la empresa responsable del delito.",
+          "cita": "LECrim, Art. 109"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'cuerpo del delito' en sentido amplio (Título V)?",
+          "opciones": [
+            "a) El conjunto de leyes penales aplicables al caso.",
+            "b) El atestado policial completo.",
+            "c) El cadáver de la víctima en los delitos de homicidio.",
+            "d) La persona o cosa objeto del delito, así como los instrumentos, armas, efectos y huellas que puedan servir para comprobar la existencia del hecho punible y la culpabilidad de los autores."
+          ],
+          "respuesta_correcta": "a) El conjunto de leyes penales aplicables al caso.",
+          "cita": "LECrim, Libro II Título V (Concepto doctrinal basado en arts. 326 y ss)"
+        },
+        {
+          "pregunta": "¿Quién debe recoger las armas y efectos del delito en el lugar de los hechos (Art. 326)?",
+          "opciones": [
+            "a) Los testigos presenciales para evitar que se pierdan.",
+            "b) Los servicios funerarios si hay cadáveres.",
+            "c) El Juez de Instrucción o, en su defecto, la Policía Judicial, describiéndolos minuciosamente en los autos y poniéndolos bajo custodia.",
+            "d) Los peritos forenses exclusivamente."
+          ],
+          "respuesta_correcta": "c) El Juez de Instrucción o, en su defecto, la Policía Judicial, describiéndolos minuciosamente en los autos y poniéndolos bajo custodia.",
+          "cita": "LECrim, Art. 326"
+        },
+        {
+          "pregunta": "¿Es válida la denuncia anónima?",
+          "opciones": [
+            "a) Debe ser rechazada de plano y destruida sin leerla.",
+            "b) Solo es válida en delitos de terrorismo y narcotráfico.",
+            "c) Es plenamente válida y tiene el mismo valor que una denuncia firmada.",
+            "d) La denuncia anónima no es válida formalmente para iniciar un procedimiento, pero puede servir como 'notitia criminis' para que la Policía o el Fiscal realicen investigaciones preliminares que confirmen los hechos."
+          ],
+          "respuesta_correcta": "b) Solo es válida en delitos de terrorismo y narcotráfico.",
+          "cita": "Jurisprudencia sobre Art. 265 y ss."
+        },
+        {
+          "pregunta": "¿Qué debe hacer el Tribunal si el hecho denunciado no reviste carácter de delito (Art. 269)?",
+          "opciones": [
+            "a) Abrirá diligencias previas para investigar por si acaso.",
+            "b) Remitirá la denuncia a la autoridad administrativa por si fuera una infracción leve.",
+            "c) Llamará al denunciante para que amplíe su declaración.",
+            "d) No admitirá la denuncia, mandando archivar las actuaciones."
+          ],
+          "respuesta_correcta": "d) No admitirá la denuncia, mandando archivar las actuaciones.",
+          "cita": "LECrim, Art. 269"
+        },
+        {
+          "pregunta": "¿Qué requisito es necesario para la querella contra Jueces y Magistrados (Art. 278)?",
+          "opciones": [
+            "a) Que se deposite una fianza de 6.000 euros.",
+            "b) Que sea presentada por el Fiscal General del Estado.",
+            "c) Que se acompañe certificación de haber intentado la conciliación si es por injurias, o la autorización administrativa si se requiere (anteproyecto), y en general acreditar el carácter de juez del querellado.",
+            "d) No hay requisitos especiales, es igual que cualquier otra querella."
+          ],
+          "respuesta_correcta": "a) Que se deposite una fianza de 6.000 euros.",
+          "cita": "LECrim, Art. 278 (Nota: Los antejuicios han sido suprimidos en gran medida, pero la norma general de procedibilidad persiste)."
+        },
+        {
+          "pregunta": "¿Qué es la 'inspección ocular' (Art. 326)?",
+          "opciones": [
+            "a) El examen directo por el Juez (o Policía Judicial) del lugar del delito para consignar su estado, recoger vestigios y pruebas, y describir todo lo que pueda contribuir al esclarecimiento de los hechos.",
+            "b) La revisión de las cámaras de seguridad de la zona.",
+            "c) El reconocimiento médico de la víctima.",
+            "d) La visualización de los vídeos grabados por los testigos."
+          ],
+          "respuesta_correcta": "b) La revisión de las cámaras de seguridad de la zona.",
+          "cita": "LECrim, Art. 326"
+        },
+        {
+          "pregunta": "¿Qué es la 'cadena de custodia'?",
+          "opciones": [
+            "a) La vigilancia policial en el perímetro del juzgado.",
+            "b) El sistema de turnos de los jueces de guardia.",
+            "c) El procedimiento controlado que garantiza la identidad, integridad y autenticidad de las pruebas (cuerpo del delito) desde su recogida hasta su presentación en el juicio, registrando cada paso y persona que accede a ellas.",
+            "d) La cuerda de presos cuando son trasladados al juzgado."
+          ],
+          "respuesta_correcta": "c) El procedimiento controlado que garantiza la identidad, integridad y autenticidad de las pruebas (cuerpo del delito) desde su recogida hasta su presentación en el juicio, registrando cada paso y persona que accede a ellas.",
+          "cita": "Doctrina TS / Art. 326 y ss. (Implícito)"
+        },
+        {
+          "pregunta": "¿Qué diligencia se practica si hay sospecha de muerte violenta (Art. 340)?",
+          "opciones": [
+            "a) La toma de declaración a los familiares del difunto.",
+            "b) El precinto de la vivienda del fallecido.",
+            "c) El levantamiento del cadáver y su incineración inmediata.",
+            "d) La autopsia del cadáver, que será practicada por los médicos forenses para determinar la causa y circunstancias de la muerte."
+          ],
+          "respuesta_correcta": "a) La toma de declaración a los familiares del difunto.",
+          "cita": "LECrim, Art. 340 y 343"
+        },
+        {
+          "pregunta": "¿Cómo se identificará al presunto delincuente si hay dudas (Art. 368)?",
+          "opciones": [
+            "a) Mostrando su foto en los medios de comunicación.",
+            "b) Preguntando a los vecinos si lo conocen.",
+            "c) Por su confesión voluntaria.",
+            "d) Por medio del reconocimiento en rueda, huellas dactilares, pruebas de ADN, o cualquier otro medio técnico o testifical que permita establecer su identidad física."
+          ],
+          "respuesta_correcta": "b) Preguntando a los vecinos si lo conocen.",
+          "cita": "LECrim, Art. 368 y ss."
+        },
+        {
+          "pregunta": "¿Es obligatoria la toma de muestras de ADN a un detenido (Art. 363)?",
+          "opciones": [
+            "a) Sí, la Policía puede tomar muestras de saliva a la fuerza sin orden judicial.",
+            "b) El Juez puede acordar la toma de muestras biológicas para la obtención del perfil de ADN, incluso sin consentimiento del detenido, mediante resolución motivada, si es indispensable para la investigación de delitos graves.",
+            "c) Solo si el detenido tiene antecedentes por delitos sexuales.",
+            "d) No, requiere siempre el consentimiento expreso y por escrito del detenido."
+          ],
+          "respuesta_correcta": "a) Sí, la Policía puede tomar muestras de saliva a la fuerza sin orden judicial.",
+          "cita": "LECrim, Art. 363"
+        },
+        {
+          "pregunta": "¿Qué ocurre con los efectos del delito que no son de lícito comercio (drogas)?",
+          "opciones": [
+            "a) Se guardarán íntegramente en el depósito judicial hasta que la sentencia sea firme.",
+            "b) Se conservarán las muestras necesarias para los análisis y contraanálisis, y se procederá a la destrucción del resto previa autorización judicial.",
+            "c) Se venderán en subasta restringida a laboratorios farmacéuticos.",
+            "d) Se entregarán a las autoridades sanitarias para su uso en hospitales."
+          ],
+          "respuesta_correcta": "c) Se venderán en subasta restringida a laboratorios farmacéuticos.",
+          "cita": "LECrim, Art. 367 ter"
+        },
+        {
+          "pregunta": "¿Cuándo puede cualquier persona detener a otra según el artículo 490 de la LECrim?",
+          "opciones": [
+            "a) Únicamente los vigilantes de seguridad privada en el ejercicio de sus funciones pueden detener a los delincuentes in fraganti.",
+            "b) Cualquier ciudadano puede detener a quien tenga una orden de busca y captura internacional, siempre que la detención se practique sin violencia.",
+            "c) Al que intentare cometer un delito en el momento de ir a cometerlo, al delincuente in fraganti, al que se fugare del establecimiento penal en que se halle extinguiendo condena, al que se fugare de la cárcel esperando traslación o sentencia, y al procesado o condenado en rebeldía.",
+            "d) Solamente cuando presencie un delito flagrante de gravedad, debiendo entregarlo inmediatamente a la autoridad más cercana."
+          ],
+          "respuesta_correcta": "a) Únicamente los vigilantes de seguridad privada en el ejercicio de sus funciones pueden detener a los delincuentes in fraganti.",
+          "cita": "LECrim, Art. 490"
+        },
+        {
+          "pregunta": "¿Qué obligación tiene el particular que detuviere a otro (Art. 496)?",
+          "opciones": [
+            "a) El particular que detuviere a otro justificará, si éste lo exigiere, haber obrado en virtud de motivos racionalmente bastantes para creer que el detenido se hallaba comprendido en alguno de los casos previstos en el artículo 490, y lo pondrá a disposición de la autoridad en el plazo de 24 horas.",
+            "b) Deberá ponerlo en libertad inmediatamente si el detenido niega los hechos, salvo que haya testigos presenciales.",
+            "c) Tiene la obligación de leerle sus derechos constitucionales antes de entregarlo a la Policía.",
+            "d) Debe entregarlo al Juez de Instrucción más próximo en el plazo máximo de 72 horas."
+          ],
+          "respuesta_correcta": "a) El particular que detuviere a otro justificará, si éste lo exigiere, haber obrado en virtud de motivos racionalmente bastantes para creer que el detenido se hallaba comprendido en alguno de los casos previstos en el artículo 490, y lo pondrá a disposición de la autoridad en el plazo de 24 horas.",
+          "cita": "LECrim, Art. 496"
+        },
+        {
+          "pregunta": "¿Cuándo tiene la obligación de detener la Autoridad o Agente de Policía Judicial (Art. 492)?",
+          "opciones": [
+            "a) A cualquiera que se halle en los casos del artículo 490, al procesado por delito con pena superior a prisión correccional (hoy delitos graves), y al procesado por delito con pena inferior si no tiene domicilio conocido ni da fianza bastante.",
+            "b) Siempre que tenga sospechas fundadas de que una persona ha cometido una infracción administrativa grave o muy grave.",
+            "c) Solo cuando exista una orden judicial de detención expresa, salvo en casos de terrorismo.",
+            "d) A cualquier persona que se niegue a identificarse en la vía pública, aunque no haya cometido delito alguno."
+          ],
+          "respuesta_correcta": "d) A cualquier persona que se niegue a identificarse en la vía pública, aunque no haya cometido delito alguno.",
+          "cita": "LECrim, Art. 492"
+        },
+        {
+          "pregunta": "¿Qué plazo máximo tiene la detención policial (Art. 520)?",
+          "opciones": [
+            "a) La detención durará un máximo de 24 horas, prorrogables por otras 48 con autorización judicial.",
+            "b) La detención puede durar hasta 5 días en casos de delincuencia organizada y terrorismo, sin necesidad de prórroga judicial.",
+            "c) El plazo máximo es de 72 horas para delitos graves y 24 horas para delitos leves.",
+            "d) La detención preventiva no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, en el plazo máximo de setenta y dos horas, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial."
+          ],
+          "respuesta_correcta": "a) La detención durará un máximo de 24 horas, prorrogables por otras 48 con autorización judicial.",
+          "cita": "LECrim, Art. 520.1"
+        },
+        {
+          "pregunta": "¿Cuáles son los derechos del detenido que deben serle informados inmediatamente (Art. 520.2)?",
+          "opciones": [
+            "a) Derecho a ser puesto en libertad si paga una fianza, a no ser esposado y a declarar únicamente ante el Juez.",
+            "b) Derecho a conocer la identidad de los agentes que le detienen y a presentar una queja ante el Defensor del Pueblo.",
+            "c) Derecho a guardar silencio, a no declarar contra sí mismo, a designar abogado, a acceder a los elementos de las actuaciones esenciales para impugnar la detención, a que se ponga en conocimiento de un familiar el hecho de la detención, a comunicarse con terceros (salvo incomunicación), a asistencia médica, y a intérprete.",
+            "d) Derecho a una llamada telefónica, a un abogado de oficio si no tiene recursos, y a ser examinado por un médico de su elección pagando los gastos."
+          ],
+          "respuesta_correcta": "c) Derecho a guardar silencio, a no declarar contra sí mismo, a designar abogado, a acceder a los elementos de las actuaciones esenciales para impugnar la detención, a que se ponga en conocimiento de un familiar el hecho de la detención, a comunicarse con terceros (salvo incomunicación), a asistencia médica, y a intérprete.",
+          "cita": "LECrim, Art. 520.2"
+        },
+        {
+          "pregunta": "¿Puede el detenido renunciar a la asistencia letrada (Art. 520)?",
+          "opciones": [
+            "a) No, la asistencia letrada es obligatoria en todo caso para garantizar el derecho de defensa.",
+            "b) Solo puede renunciar si el delito es leve y no conlleva pena privativa de libertad.",
+            "c) Sí, si se trata de delitos contra la seguridad del tráfico, siempre que se le haya facilitado información clara y suficiente sobre el contenido de dicho derecho y las consecuencias de la renuncia, y lo haga de forma voluntaria e inequívoca. En el resto de casos es irrenunciable.",
+            "d) Sí, en cualquier tipo de delito, siempre que sea mayor de edad y esté en pleno uso de sus facultades mentales."
+          ],
+          "respuesta_correcta": "d) Sí, en cualquier tipo de delito, siempre que sea mayor de edad y esté en pleno uso de sus facultades mentales.",
+          "cita": "LECrim, Art. 520.8"
+        },
+        {
+          "pregunta": "¿Qué especialidad tiene la detención de menores de edad (Art. 520 bis)?",
+          "opciones": [
+            "a) Se les aplican las mismas normas que a los adultos, pero deben estar en celdas separadas.",
+            "b) La detención de menores se regirá por lo dispuesto en la Ley reguladora de la Responsabilidad Penal de los Menores (LO 5/2000), debiendo notificarse inmediatamente al Ministerio Fiscal y a sus padres o tutores.",
+            "c) No pueden ser detenidos, solo retenidos hasta que sus padres vengan a recogerlos.",
+            "d) El plazo máximo de detención es de 12 horas improrrogables."
+          ],
+          "respuesta_correcta": "d) El plazo máximo de detención es de 12 horas improrrogables.",
+          "cita": "LECrim (Remisión LORPM) / Art. 520 (Derechos generales)"
+        },
+        {
+          "pregunta": "¿Cuándo se puede acordar la incomunicación del detenido (Art. 527)?",
+          "opciones": [
+            "a) Cuando concurra una necesidad urgente de evitar graves consecuencias para la vida, la libertad o la integridad física de una persona, o una necesidad urgente de actuación inmediata para evitar comprometer de modo grave el proceso penal (ej. destrucción de pruebas), mediante auto judicial motivado.",
+            "b) Siempre que se trate de delitos de terrorismo o bandas armadas, de forma automática por la Policía.",
+            "c) Cuando el detenido se niegue a declarar o se muestre violento con los agentes.",
+            "d) Si el detenido es extranjero y no tiene residencia legal en España."
+          ],
+          "respuesta_correcta": "b) Siempre que se trate de delitos de terrorismo o bandas armadas, de forma automática por la Policía.",
+          "cita": "LECrim, Art. 527.1"
+        },
+        {
+          "pregunta": "¿Qué derechos se restringen al detenido incomunicado (Art. 527)?",
+          "opciones": [
+            "a) El derecho a la asistencia médica y a la alimentación.",
+            "b) El derecho a no declarar y a ser informado de la acusación.",
+            "c) El derecho al procedimiento de Habeas Corpus.",
+            "d) El derecho a designar un abogado de su confianza (se le designará de oficio), el derecho a comunicarse con todas o alguna de las personas que desee, y el derecho a la entrevista reservada con su abogado."
+          ],
+          "respuesta_correcta": "b) El derecho a no declarar y a ser informado de la acusación.",
+          "cita": "LECrim, Art. 527.1 a, b, c"
+        },
+        {
+          "pregunta": "¿Qué es el procedimiento de Habeas Corpus (Art. 1 LO 6/1984)?",
+          "opciones": [
+            "a) Un procedimiento para obtener la inmediata puesta a disposición judicial de cualquier persona detenida ilegalmente.",
+            "b) Un recurso de apelación contra la prisión provisional decretada por el Juez.",
+            "c) Una queja administrativa contra el trato recibido en comisaría.",
+            "d) La solicitud de asilo político por parte de un detenido extranjero."
+          ],
+          "respuesta_correcta": "a) Un procedimiento para obtener la inmediata puesta a disposición judicial de cualquier persona detenida ilegalmente.",
+          "cita": "LO 6/1984, Art. 1"
+        },
+        {
+          "pregunta": "¿Quién es competente para conocer del Habeas Corpus?",
+          "opciones": [
+            "a) El Juez de Instrucción que esté conociendo de la causa principal por la que fue detenido.",
+            "b) El Tribunal Constitucional mediante recurso de amparo.",
+            "c) La Audiencia Provincial en todo caso.",
+            "d) El Juez de Instrucción del lugar donde se encuentre la persona privada de libertad; si no constare, el del lugar donde se produjo la detención; y en defecto de los anteriores, el del lugar donde se hayan tenido las últimas noticias."
+          ],
+          "respuesta_correcta": "c) La Audiencia Provincial en todo caso.",
+          "cita": "LO 6/1984, Art. 2"
+        },
+        {
+          "pregunta": "¿Qué plazo tiene el Juez para resolver el Habeas Corpus?",
+          "opciones": [
+            "a) En el plazo de 48 horas si hay festivos de por medio.",
+            "b) En el plazo de 24 horas a contar desde que se acuerde la incoación del procedimiento.",
+            "c) En el plazo de 72 horas.",
+            "d) Inmediatamente, sin plazo fijo."
+          ],
+          "respuesta_correcta": "d) Inmediatamente, sin plazo fijo.",
+          "cita": "LO 6/1984, Art. 7"
+        },
+        {
+          "pregunta": "¿Cuándo se considera 'delito flagrante' a efectos de entrada en domicilio (Art. 795)?",
+          "opciones": [
+            "a) Aquel que ha sido grabado por cámaras de seguridad aunque no haya persecución inmediata.",
+            "b) El delito que causa alarma social y requiere una intervención urgente de la policía.",
+            "c) Cualquier delito que se cometa en la vía pública a la vista de testigos.",
+            "d) El que se estuviese cometiendo o se acabare de cometer cuando el delincuente sea sorprendido en el acto. Se entenderá sorprendido en el acto al delincuente que, inmediatamente después de cometer el delito, sea perseguido por la autoridad o agentes, o cuando sea sorprendido con efectos o instrumentos que permitan presumir su participación."
+          ],
+          "respuesta_correcta": "a) Aquel que ha sido grabado por cámaras de seguridad aunque no haya persecución inmediata.",
+          "cita": "LECrim, Art. 795.1.1ª"
+        },
+        {
+          "pregunta": "¿Qué requisitos se necesitan para la entrada y registro en domicilio (Art. 545 y ss)?",
+          "opciones": [
+            "a) Basta con que la policía tenga sospechas fundadas de que se está cometiendo un delito.",
+            "b) Autorización del Delegado del Gobierno en casos de terrorismo.",
+            "c) Consentimiento del titular, delito flagrante o resolución judicial motivada.",
+            "d) Consentimiento de cualquier persona que se encuentre en el domicilio, aunque no sea el titular."
+          ],
+          "respuesta_correcta": "d) Consentimiento de cualquier persona que se encuentre en el domicilio, aunque no sea el titular.",
+          "cita": "LECrim, Art. 545 y ss / Art. 18.2 CE"
+        },
+        {
+          "pregunta": "¿Qué horario se debe respetar para la entrada y registro (Art. 546)?",
+          "opciones": [
+            "a) El Juez podrá ordenar la entrada y registro de día o de noche, si la urgencia lo hiciere necesario; pero si no fuese urgente, se practicará de día.",
+            "b) Siempre debe ser de día, desde la salida hasta la puesta del sol.",
+            "c) De noche solo se permite en delitos de terrorismo y narcotráfico.",
+            "d) No hay restricción horaria si el Juez lo autoriza expresamente."
+          ],
+          "respuesta_correcta": "d) No hay restricción horaria si el Juez lo autoriza expresamente.",
+          "cita": "LECrim, Art. 546"
+        },
+        {
+          "pregunta": "¿Quién debe estar presente en el registro domiciliario (Art. 569)?",
+          "opciones": [
+            "a) Basta con la presencia de la Policía y el Secretario Judicial.",
+            "b) El Secretario Judicial (o funcionario habilitado), el interesado (o persona que le represente o familiar mayor de edad) y, si no hubiere nadie, dos testigos vecinos del pueblo.",
+            "c) El Juez, el Fiscal y el abogado defensor obligatoriamente.",
+            "d) Solo la Policía si tiene una cámara de vídeo para grabar la actuación."
+          ],
+          "respuesta_correcta": "d) Solo la Policía si tiene una cámara de vídeo para grabar la actuación.",
+          "cita": "LECrim, Art. 569"
+        },
+        {
+          "pregunta": "¿Qué plazo tiene el Juez para convalidar la detención de la correspondencia (Art. 579)?",
+          "opciones": [
+            "a) La correspondencia nunca puede ser detenida sin orden judicial previa, salvo en estado de excepción.",
+            "b) No se requiere convalidación judicial si hay indicios claros de delito.",
+            "c) La detención de la correspondencia postal y telegráfica requiere autorización judicial, que se acordará por auto motivado. Si la detención la realiza la policía por urgencia en casos de terrorismo, debe comunicarse al Juez inmediatamente y este debe convalidarla o revocarla en 72 horas (según norma general de medidas limitativas urgentes en terrorismo).",
+            "d) El plazo es de 24 horas improrrogables."
+          ],
+          "respuesta_correcta": "c) La detención de la correspondencia postal y telegráfica requiere autorización judicial, que se acordará por auto motivado. Si la detención la realiza la policía por urgencia en casos de terrorismo, debe comunicarse al Juez inmediatamente y este debe convalidarla o revocarla en 72 horas (según norma general de medidas limitativas urgentes en terrorismo).",
+          "cita": "LECrim, Art. 579 y 588 bis"
+        },
+        {
+          "pregunta": "¿Qué requisitos se exigen para la intervención de las comunicaciones telefónicas (Art. 588 bis a)?",
+          "opciones": [
+            "a) Especialidad, idoneidad, excepcionalidad, necesidad y proporcionalidad de la medida, y debe acordarse por el Juez mediante auto motivado para la investigación de delitos graves o específicos (terrorismo, delitos cometidos a través de instrumentos informáticos, etc.).",
+            "b) Basta con que la policía lo solicite para investigar cualquier delito castigado con prisión.",
+            "c) Se puede acordar por el Fiscal si hay urgencia y luego comunicarlo al Juez.",
+            "d) Solo se permite para delitos con pena superior a 5 años."
+          ],
+          "respuesta_correcta": "b) Basta con que la policía lo solicite para investigar cualquier delito castigado con prisión.",
+          "cita": "LECrim, Art. 588 bis a"
+        },
+        {
+          "pregunta": "¿Cuál es la duración máxima de la intervención telefónica (Art. 588 ter g)?",
+          "opciones": [
+            "a) Tres meses, prorrogables por períodos sucesivos de igual o inferior duración hasta un máximo de dieciocho meses.",
+            "b) Un mes, prorrogable hasta tres meses.",
+            "c) Seis meses, prorrogables hasta dos años.",
+            "d) Indefinida mientras dure la investigación."
+          ],
+          "respuesta_correcta": "a) Tres meses, prorrogables por períodos sucesivos de igual o inferior duración hasta un máximo de dieciocho meses.",
+          "cita": "LECrim, Art. 588 ter g"
+        },
+        {
+          "pregunta": "¿Qué es el procedimiento de 'Juicio Rápido' (Art. 795)?",
+          "opciones": [
+            "a) El procedimiento abreviado para delitos con pena de hasta 9 años.",
+            "b) El procedimiento para el enjuiciamiento rápido de determinados delitos castigados con pena privativa de libertad que no exceda de cinco años, o con cualesquiera otras penas cuya duración no exceda de diez años, siempre que el proceso se incoe en virtud de atestado policial y se den ciertas circunstancias (flagrancia, instrucción sencilla, etc.).",
+            "c) El juicio por delitos leves que se celebra ante el Juez de Instrucción.",
+            "d) Un procedimiento administrativo sancionador para infracciones de tráfico."
+          ],
+          "respuesta_correcta": "a) El procedimiento abreviado para delitos con pena de hasta 9 años.",
+          "cita": "LECrim, Art. 795"
+        },
+        {
+          "pregunta": "¿Qué delitos se tramitan preferentemente por Juicio Rápido (Art. 795)?",
+          "opciones": [
+            "a) Todos los delitos menos graves sin excepción.",
+            "b) Solo los delitos contra la seguridad del tráfico y la violencia de género.",
+            "c) Los delitos que no requieran práctica de prueba pericial compleja.",
+            "d) Delitos de lesiones, coacciones, amenazas, violencia física o psíquica habitual, hurto, robo, hurto y robo de uso de vehículos, contra la seguridad del tráfico, daños, contra la salud pública y flagrantes de propiedad intelectual e industrial."
+          ],
+          "respuesta_correcta": "d) Delitos de lesiones, coacciones, amenazas, violencia física o psíquica habitual, hurto, robo, hurto y robo de uso de vehículos, contra la seguridad del tráfico, daños, contra la salud pública y flagrantes de propiedad intelectual e industrial.",
+          "cita": "LECrim, Art. 795.1.2ª"
+        },
+        {
+          "pregunta": "¿Qué diligencias debe practicar la Policía Judicial en el ámbito del Juicio Rápido (Art. 796)?",
+          "opciones": [
+            "a) Detener siempre al sospechoso y ponerlos a disposición judicial en 24 horas.",
+            "b) Tomar declaración indagatoria al detenido con asistencia de Fiscal.",
+            "c) Archivar las actuaciones si el denunciado reconoce los hechos.",
+            "d) Solicitar los antecedentes penales, citar al denunciado y a los testigos ante el Juzgado de Guardia, informar a la víctima de sus derechos, solicitar los informes periciales urgentes (médico forense, toxicología), y remitir el atestado inmediatamente."
+          ],
+          "respuesta_correcta": "a) Detener siempre al sospechoso y ponerlos a disposición judicial en 24 horas.",
+          "cita": "LECrim, Art. 796"
+        },
+        {
+          "pregunta": "¿Cuándo se aplica el Procedimiento Abreviado (Art. 757)?",
+          "opciones": [
+            "a) Al enjuiciamiento de los delitos castigados con pena privativa de libertad no superior a nueve años, o bien con cualesquiera otras penas de distinta naturaleza, sea cual fuere su cuantía o duración.",
+            "b) A los delitos con pena de hasta 5 años de prisión.",
+            "c) A los delitos graves con pena superior a 9 años.",
+            "d) A los delitos leves exclusivamente."
+          ],
+          "respuesta_correcta": "c) A los delitos graves con pena superior a 9 años.",
+          "cita": "LECrim, Art. 757"
+        },
+        {
+          "pregunta": "¿Qué es la 'conformidad' en el juicio rápido (Art. 801)?",
+          "opciones": [
+            "a) Si el acusado reconoce los hechos y se conforma con la pena solicitada por el Fiscal (que no supere los 3 años de prisión), el Juez de Guardia dictará sentencia de conformidad reduciendo la pena en un tercio.",
+            "b) El acuerdo entre la víctima y el agresor para retirar la denuncia a cambio de una indemnización.",
+            "c) La aceptación de los hechos pero no de la pena, lo que obliga a celebrar juicio oral.",
+            "d) La conformidad solo es posible en el procedimiento abreviado, no en el rápido."
+          ],
+          "respuesta_correcta": "b) El acuerdo entre la víctima y el agresor para retirar la denuncia a cambio de una indemnización.",
+          "cita": "LECrim, Art. 801"
+        },
+        {
+          "pregunta": "¿Cuándo se aplica el procedimiento para el juicio sobre delitos leves (Art. 962)?",
+          "opciones": [
+            "a) Para todos los delitos castigados con pena de multa.",
+            "b) Cuando la instrucción sea sencilla y no requiera abogado.",
+            "c) Solo para los delitos privados.",
+            "d) Cuando la Policía Judicial tenga noticia de un hecho que presente los caracteres de delito leve de lesiones, maltrato de obra, hurto flagrante, amenazas, coacciones o injurias, procederá a la citación inmediata ante el Juzgado de Guardia para la celebración del juicio."
+          ],
+          "respuesta_correcta": "d) Cuando la Policía Judicial tenga noticia de un hecho que presente los caracteres de delito leve de lesiones, maltrato de obra, hurto flagrante, amenazas, coacciones o injurias, procederá a la citación inmediata ante el Juzgado de Guardia para la celebración del juicio.",
+          "cita": "LECrim, Art. 962"
+        },
+        {
+          "pregunta": "¿Es preceptiva la asistencia letrada en el juicio por delitos leves (Art. 967)?",
+          "opciones": [
+            "a) Sí, siempre es obligatoria para garantizar el derecho de defensa.",
+            "b) No, salvo que el delito lleve aparejada pena de multa cuyo límite máximo sea de al menos seis meses, en cuyo caso será necesaria la asistencia de abogado y procurador (en la práctica, se recomienda abogado si la pena es relevante, pero la ley marca el límite de 6 meses de multa).",
+            "c) No, nunca es necesaria en delitos leves.",
+            "d) Solo si el denunciante lleva abogado."
+          ],
+          "respuesta_correcta": "c) No, nunca es necesaria en delitos leves.",
+          "cita": "LECrim, Art. 967.1"
+        },
+        {
+          "pregunta": "¿Qué es la 'inspección corporal'?",
+          "opciones": [
+            "a) Una medida de investigación que recae sobre el cuerpo del imputado o de un tercero para descubrir circunstancias relevantes para el proceso (ej. cacheo con desnudo, radiografías), que requiere respetar la dignidad y ser proporcional.",
+            "b) El examen visual externo de la ropa.",
+            "c) La toma de huellas dactilares.",
+            "d) El reconocimiento médico forense."
+          ],
+          "respuesta_correcta": "a) Una medida de investigación que recae sobre el cuerpo del imputado o de un tercero para descubrir circunstancias relevantes para el proceso (ej. cacheo con desnudo, radiografías), que requiere respetar la dignidad y ser proporcional.",
+          "cita": "Doctrina TC / LECrim (implícito en facultades investigación)"
+        },
+        {
+          "pregunta": "¿Puede la Policía tomar muestras biológicas abandonadas por el sospechoso (Art. 520)?",
+          "opciones": [
+            "a) Sí, la Policía puede recoger restos biológicos o de ADN abandonados por el sospechoso (ej. colilla, vaso) sin necesidad de autorización judicial ni consentimiento, ya que no hay invasión corporal.",
+            "b) No, requiere autorización judicial siempre.",
+            "c) Solo si el sospechoso ha dado su consentimiento para la toma de muestras directas y se ha negado.",
+            "d) No, vulnera el derecho a la intimidad genética."
+          ],
+          "respuesta_correcta": "b) No, requiere autorización judicial siempre.",
+          "cita": "Jurisprudencia TS sobre ADN no invasivo"
+        },
+        {
+          "pregunta": "¿Qué plazo tiene la detención incomunicada de un menor?",
+          "opciones": [
+            "a) No se puede acordar la incomunicación de menores de 16 años. Para mayores de 16, se aplican las reglas generales con especial supervisión del Fiscal.",
+            "b) Es igual que para los adultos, hasta 5 días en terrorismo.",
+            "c) Máximo 24 horas.",
+            "d) No existe la incomunicación para menores de 18 años bajo ningún concepto."
+          ],
+          "respuesta_correcta": "a) No se puede acordar la incomunicación de menores de 16 años. Para mayores de 16, se aplican las reglas generales con especial supervisión del Fiscal.",
+          "cita": "LORPM (Supletoriamente LECrim)"
+        },
+        {
+          "pregunta": "¿Qué es el 'agente encubierto' (Art. 282 bis)?",
+          "opciones": [
+            "a) Un funcionario de Policía Judicial que, con autorización judicial y bajo identidad supuesta, se infiltra en organizaciones delictivas (crimen organizado) para investigar y obtener pruebas.",
+            "b) Un confidente policial que informa a cambio de dinero.",
+            "c) Un policía de paisano que vigila en la vía pública.",
+            "d) Un agente extranjero que opera en España con permiso del Ministerio del Interior."
+          ],
+          "respuesta_correcta": "b) Un confidente policial que informa a cambio de dinero.",
+          "cita": "LECrim, Art. 282 bis"
+        },
+        {
+          "pregunta": "¿Qué es la 'entrega vigilada' (Art. 263 bis)?",
+          "opciones": [
+            "a) La técnica de investigación que consiste en permitir que remesas ilícitas (drogas, armas, dinero) circulen por territorio español o salgan o entren en él sin interferencia de la autoridad, bajo vigilancia, con el fin de descubrir a los autores y desarticular la organización.",
+            "b) La entrega de un detenido a otro país mediante orden europea.",
+            "c) El seguimiento de un sospechoso mediante dispositivo GPS.",
+            "d) La compra de droga por un agente para probar el delito."
+          ],
+          "respuesta_correcta": "a) La técnica de investigación que consiste en permitir que remesas ilícitas (drogas, armas, dinero) circulen por territorio español o salgan o entren en él sin interferencia de la autoridad, bajo vigilancia, con el fin de descubrir a los autores y desarticular la organización.",
+          "cita": "LECrim, Art. 263 bis"
+        },
+        {
+          "pregunta": "¿Quién autoriza la entrada y registro en un edificio público oficial (Art. 548)?",
+          "opciones": [
+            "a) El Juez necesitará recabar el consentimiento de la autoridad jefa de la dependencia o edificio, o en su defecto, dictar auto motivado si se deniega.",
+            "b) Basta con la orden judicial ordinaria.",
+            "c) Se requiere permiso del Consejo de Ministros.",
+            "d) No se puede registrar un edificio oficial por la inviolabilidad administrativa."
+          ],
+          "respuesta_correcta": "c) Se requiere permiso del Consejo de Ministros.",
+          "cita": "LECrim, Art. 548 (y 550 para Palacio Congreso/Senado)"
+        },
+        {
+          "pregunta": "¿Qué sucede con los hallazgos casuales durante un registro (Art. 579 bis)?",
+          "opciones": [
+            "a) Las pruebas son nulas y no pueden utilizarse.",
+            "b) Se puede investigar sin necesidad de nueva autorización judicial.",
+            "c) Si durante un registro o intervención telefónica autorizada se descubren pruebas de un delito distinto, se podrá continuar la investigación sobre ese nuevo delito previa autorización judicial (deducción de testimonio y ampliación del auto habilitante).",
+            "d) Se debe detener el registro y pedir una nueva orden desde cero."
+          ],
+          "respuesta_correcta": "b) Se puede investigar sin necesidad de nueva autorización judicial.",
+          "cita": "LECrim, Art. 579 bis"
+        },
+        {
+          "pregunta": "¿Qué es la 'prueba preconstituida'?",
+          "opciones": [
+            "a) La prueba que aporta la policía en el atestado.",
+            "b) La confesión del detenido en comisaría.",
+            "c) Las grabaciones de las cámaras de seguridad.",
+            "d) Aquella prueba practicada antes del juicio oral con todas las garantías (contradicción, inmediación judicial) para asegurar su disponibilidad en el juicio, cuando se prevea que no podrá repetirse (ej. declaración de testigo extranjero, menor de edad, análisis de drogas destructivo)."
+          ],
+          "respuesta_correcta": "a) La prueba que aporta la policía en el atestado.",
+          "cita": "LECrim, Art. 448 y ss."
+        },
+        {
+          "pregunta": "¿Qué es el 'principio de oportunidad' en el proceso penal de menores?",
+          "opciones": [
+            "a) La posibilidad de que la policía no detenga al menor si colabora.",
+            "b) La obligación de imponer siempre la medida más leve posible.",
+            "c) La facultad del Ministerio Fiscal de desistir de la incoación del expediente cuando el hecho sea leve y el menor haya reparado el daño o se haya conciliado con la víctima.",
+            "d) La reducción de la pena a la mitad por ser menor."
+          ],
+          "respuesta_correcta": "d) La reducción de la pena a la mitad por ser menor.",
+          "cita": "LORPM (Aplicable en relación con LECrim)"
+        },
+        {
+          "pregunta": "¿Qué es la 'identificación en vía pública' (LO 4/2015)?",
+          "opciones": [
+            "a) Los agentes pueden requerir la identificación de personas en la vía pública cuando existan indicios de que han podido participar en una infracción, o para prevenir la comisión de un delito, y si no fuera posible la identificación, podrán requerirles para que les acompañen a dependencias policiales a los solos efectos de identificación (máximo 6 horas).",
+            "b) La policía puede identificar a cualquiera sin motivo alguno.",
+            "c) La retención para identificación puede durar hasta 24 horas.",
+            "d) Solo se puede identificar a quien esté cometiendo un delito flagrante."
+          ],
+          "respuesta_correcta": "d) Solo se puede identificar a quien esté cometiendo un delito flagrante.",
+          "cita": "LO 4/2015 Art. 16 (Relación con LECrim y funciones PJ)"
+        },
+        {
+          "pregunta": "¿Cuándo se considera concluido el sumario?",
+          "opciones": [
+            "a) Cuando se agota el plazo máximo de instrucción de 12 meses.",
+            "b) Cuando el Juez de Instrucción estima que se han practicado todas las diligencias necesarias para el esclarecimiento de los hechos y la identificación de los autores, dictando auto de conclusión y remitiendo la causa al tribunal competente.",
+            "c) Cuando el Fiscal presenta el escrito de acusación.",
+            "d) Cuando el detenido es puesto en libertad."
+          ],
+          "respuesta_correcta": "c) Cuando el Fiscal presenta el escrito de acusación.",
+          "cita": "LECrim, Art. 622"
+        },
+        {
+          "pregunta": "¿Qué es el sobreseimiento libre (Art. 637)?",
+          "opciones": [
+            "a) La suspensión provisional del proceso por falta de pruebas suficientes.",
+            "b) El archivo de la causa porque el autor no ha sido identificado.",
+            "c) La resolución judicial que pone fin al proceso con efectos de cosa juzgada (equivale a absolución) cuando no existen indicios racionales de haberse perpetrado el hecho, o el hecho no es constitutivo de delito, o los procesados aparecen exentos de responsabilidad criminal.",
+            "d) La remisión del caso a la jurisdicción civil."
+          ],
+          "respuesta_correcta": "d) La remisión del caso a la jurisdicción civil.",
+          "cita": "LECrim, Art. 637"
+        },
+        {
+          "pregunta": "¿Qué es el sobreseimiento provisional (Art. 641)?",
+          "opciones": [
+            "a) La suspensión del proceso cuando, habiéndose perpetrado el delito, no hay motivos suficientes para acusar a determinada persona, o cuando no resulte debidamente justificada la perpetración del delito.",
+            "b) El cierre definitivo del caso por prescripción.",
+            "c) La absolución del imputado por falta de pruebas en el juicio.",
+            "d) La paralización de la causa por enfermedad del juez."
+          ],
+          "respuesta_correcta": "d) La paralización de la causa por enfermedad del juez.",
+          "cita": "LECrim, Art. 641"
+        },
+        {
+          "pregunta": "¿Qué plazos máximos de instrucción establece el artículo 324 LECrim (tras reforma)?",
+          "opciones": [
+            "a) Seis meses para causas sencillas y 18 meses para causas complejas.",
+            "b) Tres años como máximo improrrogable.",
+            "c) No hay plazo máximo, la instrucción dura lo que sea necesario.",
+            "d) La investigación judicial se desarrollará en un plazo máximo de doce meses desde la incoación de la causa. No obstante, si, con anterioridad a la finalización del plazo, se constata que no será posible finalizar la investigación, el juez, de oficio o a instancia de parte, oída la defensa, podrá acordar prórrogas sucesivas por periodos iguales o inferiores a seis meses."
+          ],
+          "respuesta_correcta": "d) La investigación judicial se desarrollará en un plazo máximo de doce meses desde la incoación de la causa. No obstante, si, con anterioridad a la finalización del plazo, se constata que no será posible finalizar la investigación, el juez, de oficio o a instancia de parte, oída la defensa, podrá acordar prórrogas sucesivas por periodos iguales o inferiores a seis meses.",
+          "cita": "LECrim, Art. 324 (Redacción vigente)"
+        },
+        {
+          "pregunta": "¿Qué requisitos debe cumplir el auto judicial que autoriza la entrada y registro domiciliario?",
+          "opciones": [
+            "a) Basta con que indique la dirección del domicilio y el nombre del sospechoso, sin necesidad de mayor motivación si hay urgencia.",
+            "b) Puede ser dictado verbalmente por el Juez y ratificado por escrito en 48 horas.",
+            "c) Debe estar motivado, expresando concretamente el edificio o lugar cerrado en que haya de hacerse, si tendrá lugar solo de día o también de noche, y la autoridad o funcionario que lo practicará.",
+            "d) Debe ser notificado al interesado con 24 horas de antelación para que pueda designar abogado."
+          ],
+          "respuesta_correcta": "d) Debe ser notificado al interesado con 24 horas de antelación para que pueda designar abogado.",
+          "cita": "LECrim, Art. 558"
+        },
+        {
+          "pregunta": "¿Qué ocurre si el interesado se resiste a la entrada y registro (Art. 566)?",
+          "opciones": [
+            "a) Se suspenderá la diligencia y se dará cuenta al Juez para que decida.",
+            "b) Se intentará convencerles pacíficamente y si no acceden se desistirá.",
+            "c) Se les detendrá por obstrucción a la justicia y se realizará el registro al día siguiente.",
+            "d) Si el interesado o su representante se resistieren, se hará uso de la fuerza pública, y si la resistencia fuere grave, se procederá contra ellos por delito de desobediencia o atentado."
+          ],
+          "respuesta_correcta": "a) Se suspenderá la diligencia y se dará cuenta al Juez para que decida.",
+          "cita": "LECrim, Art. 566"
+        },
+        {
+          "pregunta": "¿Qué se hace con los papeles y efectos recogidos en el registro (Art. 574)?",
+          "opciones": [
+            "a) Se destruirán in situ si son peligrosos o nocivos para la salud.",
+            "b) Se entregarán al abogado del detenido para su custodia.",
+            "c) Se fotografiarán y se dejarán en el domicilio bajo responsabilidad del titular.",
+            "d) Se recogerán los instrumentos y efectos del delito, así como los libros, papeles y cualesquiera otras cosas que se hubiesen encontrado, y si el interesado no prestase su conformidad, se pondrán en un paquete sellado y lacrado para su apertura ante el Juez."
+          ],
+          "respuesta_correcta": "a) Se destruirán in situ si son peligrosos o nocivos para la salud.",
+          "cita": "LECrim, Art. 574"
+        },
+        {
+          "pregunta": "¿Cuándo procede la detención y apertura de la correspondencia privada (Art. 579)?",
+          "opciones": [
+            "a) Cuando el Juez tenga indicios de obtener por este medio el descubrimiento o la comprobación de algún hecho o circunstancia importante de la causa, mediante auto motivado.",
+            "b) Siempre que se investigue un delito castigado con pena de prisión superior a un año.",
+            "c) A discreción de la Policía Judicial si sospecha que hay pruebas del delito.",
+            "d) Solo en los delitos de terrorismo y crimen organizado."
+          ],
+          "respuesta_correcta": "b) Siempre que se investigue un delito castigado con pena de prisión superior a un año.",
+          "cita": "LECrim, Art. 579.1"
+        },
+        {
+          "pregunta": "¿Quién realiza la apertura de la correspondencia detenida (Art. 584)?",
+          "opciones": [
+            "a) El Juez Instructor, en presencia del Secretario Judicial y, si es posible, del interesado o persona que este designe.",
+            "b) El funcionario de Correos antes de entregarla al Juzgado.",
+            "c) La Policía Judicial en presencia de testigos.",
+            "d) El Fiscal encargado del caso."
+          ],
+          "respuesta_correcta": "a) El Juez Instructor, en presencia del Secretario Judicial y, si es posible, del interesado o persona que este designe.",
+          "cita": "LECrim, Art. 584"
+        },
+        {
+          "pregunta": "¿Qué delitos permiten la intervención de las comunicaciones telefónicas y telemáticas (Art. 588 bis a)?",
+          "opciones": [
+            "a) Cualquier delito perseguible de oficio.",
+            "b) Solo los delitos de terrorismo y narcotráfico a gran escala.",
+            "c) Delitos con pena superior a cinco años de prisión.",
+            "d) Delitos dolosos castigados con pena con límite máximo de al menos tres años de prisión, delitos cometidos por grupo criminal, delitos de terrorismo, y delitos cometidos a través de instrumentos informáticos."
+          ],
+          "respuesta_correcta": "d) Delitos dolosos castigados con pena con límite máximo de al menos tres años de prisión, delitos cometidos por grupo criminal, delitos de terrorismo, y delitos cometidos a través de instrumentos informáticos.",
+          "cita": "LECrim, Art. 588 bis a"
+        },
+        {
+          "pregunta": "¿Qué es la 'utilización de dispositivos técnicos de seguimiento y localización' (Art. 588 quinquies b)?",
+          "opciones": [
+            "a) El seguimiento físico por agentes de paisano.",
+            "b) La instalación de dispositivos electrónicos (balizas GPS) en el vehículo o bienes del investigado para conocer su ubicación, que requiere autorización judicial salvo urgencia.",
+            "c) El uso de drones para vigilar domicilios.",
+            "d) La interceptación de las comunicaciones por satélite."
+          ],
+          "respuesta_correcta": "a) El seguimiento físico por agentes de paisano.",
+          "cita": "LECrim, Art. 588 quinquies b"
+        },
+        {
+          "pregunta": "¿Quién es competente para enjuiciar en el Procedimiento Abreviado?",
+          "opciones": [
+            "a) Siempre el Juez de lo Penal, independientemente de la pena.",
+            "b) Siempre la Audiencia Provincial.",
+            "c) El Juez de Instrucción que instruyó la causa.",
+            "d) El Juez de lo Penal si la pena no excede de 5 años de prisión (o 10 de otra naturaleza), y la Audiencia Provincial si excede de 5 años (hasta 9)."
+          ],
+          "respuesta_correcta": "a) Siempre el Juez de lo Penal, independientemente de la pena.",
+          "cita": "LECrim, Art. 14.3 y 14.4 (en relación con Art. 757)"
+        },
+        {
+          "pregunta": "¿Qué plazo tiene la Policía para citar a juicio rápido si no hay conformidad (Art. 796)?",
+          "opciones": [
+            "a) Tiene un plazo de 10 días para realizar las citaciones.",
+            "b) No cita la Policía, cita el Juzgado por correo certificado.",
+            "c) Citará al denunciado y a los testigos para comparecer ante el Juzgado de Guardia en el día y hora que se señale, apercibiéndoles de las consecuencias de no comparecer.",
+            "d) Las citaciones se hacen para el juicio oral directamente, saltando la fase de instrucción."
+          ],
+          "respuesta_correcta": "b) No cita la Policía, cita el Juzgado por correo certificado.",
+          "cita": "LECrim, Art. 796.1.4ª"
+        },
+        {
+          "pregunta": "¿Qué ocurre si el detenido en un juicio rápido no tiene abogado?",
+          "opciones": [
+            "a) Se celebra el juicio sin abogado si el delito es leve.",
+            "b) Se suspende el procedimiento hasta que contrate uno particular.",
+            "c) El Juez le defiende de oficio.",
+            "d) La Policía Judicial solicitará al Colegio de Abogados la designación de un letrado de oficio de guardia para que le asista."
+          ],
+          "respuesta_correcta": "c) El Juez le defiende de oficio.",
+          "cita": "LECrim, Art. 796.1.2ª"
+        },
+        {
+          "pregunta": "¿Qué es la 'conformidad premiada' en el juicio rápido (Art. 801)?",
+          "opciones": [
+            "a) La reducción de un tercio de la pena solicitada por la acusación si el acusado reconoce los hechos en la guardia y se dicta sentencia de conformidad inmediata.",
+            "b) La absolución del acusado si colabora con la justicia.",
+            "c) La sustitución de la pena de prisión por multa.",
+            "d) La suspensión de la ejecución de la pena sin condiciones."
+          ],
+          "respuesta_correcta": "b) La absolución del acusado si colabora con la justicia.",
+          "cita": "LECrim, Art. 801.2"
+        },
+        {
+          "pregunta": "¿Cuándo se puede celebrar el juicio por delito leve en ausencia del acusado (Art. 971)?",
+          "opciones": [
+            "a) Si el acusado ha sido citado en forma y no comparece sin justa causa, el juicio se celebrará en su ausencia siempre que la pena solicitada no exceda de dos años de privación de libertad (aunque en delitos leves no hay prisión, el límite general es este, en leves siempre se celebra si la multa es la pena).",
+            "b) Nunca, la presencia del acusado es obligatoria en todo juicio penal.",
+            "c) Solo si el denunciante lo solicita.",
+            "d) Si el Fiscal no se opone."
+          ],
+          "respuesta_correcta": "c) Solo si el denunciante lo solicita.",
+          "cita": "LECrim, Art. 971"
+        },
+        {
+          "pregunta": "¿Qué recurso cabe contra la sentencia dictada en un juicio por delito leve (Art. 976)?",
+          "opciones": [
+            "a) Recurso de casación ante el Tribunal Supremo.",
+            "b) Recurso de apelación ante la Audiencia Provincial, que se interpondrá en el plazo de cinco días.",
+            "c) Recurso de reforma ante el mismo juez.",
+            "d) No cabe recurso alguno, la sentencia es firme."
+          ],
+          "respuesta_correcta": "c) Recurso de reforma ante el mismo juez.",
+          "cita": "LECrim, Art. 976"
+        },
+        {
+          "pregunta": "¿Qué diligencias son propias del Procedimiento Abreviado que no están en el Sumario ordinario?",
+          "opciones": [
+            "a) El procedimiento es más ágil, y la fase de instrucción se denomina Diligencias Previas. Si se estima que el hecho es delito, se dicta auto de transformación a Procedimiento Abreviado.",
+            "b) No existe auto de procesamiento en el Abreviado, se pasa directamente a la acusación.",
+            "c) La instrucción la realiza el Fiscal en lugar del Juez.",
+            "d) Tanto a) como b) son correctas."
+          ],
+          "respuesta_correcta": "d) Tanto a) como b) son correctas.",
+          "cita": "LECrim, Art. 775 y ss. (Diligencias Previas)"
+        },
+        {
+          "pregunta": "¿Quién ejerce la acusación en el juicio por delito leve si no hay Fiscal?",
+          "opciones": [
+            "a) El denunciante o el ofendido, que actúan como acusación particular, aunque no es preceptiva la intervención del Fiscal en los delitos leves privados o semipúblicos si no hay interés público.",
+            "b) El Juez de Instrucción actúa como acusador.",
+            "c) El juicio se anula si no hay Fiscal.",
+            "d) La Policía ratifica la denuncia y hace de acusación."
+          ],
+          "respuesta_correcta": "d) La Policía ratifica la denuncia y hace de acusación.",
+          "cita": "LECrim, Art. 969"
+        },
+        {
+          "pregunta": "¿Qué plazo tiene la Policía para remitir el atestado en un juicio inmediato de delitos leves?",
+          "opciones": [
+            "a) La Policía Judicial remitirá el atestado al Juzgado de Guardia de manera inmediata y citará a las partes para la celebración del juicio si es posible hacerlo en el servicio de guardia.",
+            "b) Tiene 72 horas como en el resto de delitos.",
+            "c) Puede esperar a acumular varias denuncias.",
+            "d) No hay plazo, depende de la carga de trabajo."
+          ],
+          "respuesta_correcta": "a) La Policía Judicial remitirá el atestado al Juzgado de Guardia de manera inmediata y citará a las partes para la celebración del juicio si es posible hacerlo en el servicio de guardia.",
+          "cita": "LECrim, Art. 962"
+        },
+        {
+          "pregunta": "¿Qué es la 'pieza de responsabilidad civil' en el proceso penal?",
+          "opciones": [
+            "a) Una pieza separada del sumario donde se tramita todo lo relativo a la fianza, embargo y aseguramiento de las responsabilidades pecuniarias del procesado.",
+            "b) El juicio civil que se celebra después del penal.",
+            "c) El documento donde la víctima renuncia a la indemnización.",
+            "d) La parte de la sentencia que condena en costas."
+          ],
+          "respuesta_correcta": "d) La parte de la sentencia que condena en costas.",
+          "cita": "LECrim, Art. 590"
+        },
+        {
+          "pregunta": "¿Puede el Juez de Instrucción dictar sentencia en el Procedimiento Abreviado?",
+          "opciones": [
+            "a) No, el Juez de Instrucción investiga (Diligencias Previas) y el Juez de lo Penal o la Audiencia Provincial enjuician y sentencian. El Juez de Instrucción solo sentencia en delitos leves.",
+            "b) Sí, si hay conformidad del acusado.",
+            "c) Sí, si la pena es inferior a 2 años.",
+            "d) Sí, en los juicios rápidos."
+          ],
+          "respuesta_correcta": "c) Sí, si la pena es inferior a 2 años.",
+          "cita": "LECrim, Art. 14 y 757"
+        },
+        {
+          "pregunta": "¿Qué es el 'auto de sobreseimiento libre'?",
+          "opciones": [
+            "a) Una resolución judicial que pone fin al proceso con efectos de cosa juzgada (equivalente a absolución) porque el hecho no es delito, no hay indicios de autoría o el autor está exento de responsabilidad.",
+            "b) Una suspensión temporal del proceso hasta que aparezcan nuevas pruebas.",
+            "c) El archivo de la causa por prescripción del delito.",
+            "d) La remisión del caso a otro juzgado competente."
+          ],
+          "respuesta_correcta": "b) Una suspensión temporal del proceso hasta que aparezcan nuevas pruebas.",
+          "cita": "LECrim, Art. 637"
+        },
+        {
+          "pregunta": "¿Qué es el 'sobreseimiento provisional'?",
+          "opciones": [
+            "a) La suspensión del proceso cuando no resulta debidamente justificada la perpetración del delito o no hay motivos suficientes para acusar a determinada persona, pudiendo reabrirse si aparecen nuevos elementos.",
+            "b) El archivo definitivo de la causa.",
+            "c) La absolución del acusado por falta de pruebas en el juicio.",
+            "d) La caducidad de la instancia."
+          ],
+          "respuesta_correcta": "b) El archivo definitivo de la causa.",
+          "cita": "LECrim, Art. 641"
+        },
+        {
+          "pregunta": "¿Qué plazo hay para recurrir en apelación una sentencia de Juicio Rápido?",
+          "opciones": [
+            "a) Cinco días desde la notificación de la sentencia.",
+            "b) Diez días.",
+            "c) Quince días.",
+            "d) Tres días."
+          ],
+          "respuesta_correcta": "c) Quince días.",
+          "cita": "LECrim, Art. 803"
+        },
+        {
+          "pregunta": "¿Qué función tiene el Ministerio Fiscal en el Procedimiento Abreviado?",
+          "opciones": [
+            "a) Impulsa el procedimiento, solicita la práctica de diligencias, formula escrito de acusación o solicita el sobreseimiento, y vela por la legalidad y los derechos de los ciudadanos.",
+            "b) Dicta la sentencia de conformidad.",
+            "c) Defiende al acusado si no tiene abogado.",
+            "d) Actúa como secretario judicial en la toma de declaraciones."
+          ],
+          "respuesta_correcta": "b) Dicta la sentencia de conformidad.",
+          "cita": "LECrim, Art. 773"
+        },
+        {
+          "pregunta": "¿Qué es la 'citación a juicio' en el procedimiento de delitos leves?",
+          "opciones": [
+            "a) El acto por el cual se convoca a las partes (denunciante, denunciado) y testigos al Juzgado de Guardia para celebrar la vista oral, advirtiéndoles de que pueden acudir con abogado y deben llevar sus pruebas.",
+            "b) La orden de detención del denunciado.",
+            "c) El escrito de acusación del Fiscal.",
+            "d) La notificación de la sentencia."
+          ],
+          "respuesta_correcta": "d) La notificación de la sentencia.",
+          "cita": "LECrim, Art. 962 y 964"
+        },
+        {
+          "pregunta": "¿Qué sucede si el Juez de Instrucción considera que el hecho es un delito leve durante la instrucción de unas Diligencias Previas?",
+          "opciones": [
+            "a) Archivar el caso porque no es competente.",
+            "b) Dictará auto de transformación a juicio por delito leve y remitirá las actuaciones para su enjuiciamiento o lo celebrará él mismo si es competente.",
+            "c) Continuar con el Procedimiento Abreviado hasta el final.",
+            "d) Remitir el caso a la Audiencia Provincial."
+          ],
+          "respuesta_correcta": "c) Continuar con el Procedimiento Abreviado hasta el final.",
+          "cita": "LECrim, Art. 779.1.2ª"
+        },
+        {
+          "pregunta": "¿Qué principio rige la práctica de la prueba en el juicio oral?",
+          "opciones": [
+            "a) El principio de escritura y secreto.",
+            "b) El principio inquisitivo donde el juez busca la verdad por sí mismo.",
+            "c) Los principios de publicidad, oralidad, inmediación, contradicción e igualdad de armas.",
+            "d) El principio de presunción de culpabilidad."
+          ],
+          "respuesta_correcta": "b) El principio inquisitivo donde el juez busca la verdad por sí mismo.",
+          "cita": "LECrim, Art. 741 y CE Art. 24"
+        }
+      ]
     }
-  ]
-}]
+ 
+]]

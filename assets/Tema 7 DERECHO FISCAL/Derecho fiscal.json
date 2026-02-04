@@ -1,1136 +1,1110 @@
-[{
-  "tema": "TEMA 7.- DERECHO FISCAL (100 PREGUNTAS)",
-  "descripcion": "Preguntas basadas en LO 12/1995 (Contrabando), RD 1649/1998 (Infracciones Administrativas) y Reglamento (UE) 952/2013 (CAU).",
-  "preguntas": [
-    {
-      "pregunta": "¿Qué se entiende por 'mercancía' según la Ley Orgánica 12/1995?",
-      "opciones": [
-        "a) Solo los bienes muebles.",
-        "b) Todo bien corporal susceptible de ser objeto de comercio.",
-        "c) Solo los bienes sujetos a impuestos.",
-        "d) Los bienes inmuebles."
-      ],
-      "respuesta_correcta": "b) Todo bien corporal susceptible de ser objeto de comercio."
-    },
-    {
-      "pregunta": "¿Se consideran mercancía los medios de pago (billetes, cheques) según la LO 12/1995?",
-      "opciones": [
-        "a) No, nunca.",
-        "b) Sí, cuando se oculten entre otras mercancías o en medios de transporte.",
-        "c) Solo si superan los 10.000 euros.",
-        "d) Solo si son moneda extranjera."
-      ],
-      "respuesta_correcta": "b) Sí, cuando se oculten entre otras mercancías o en medios de transporte."
-    },
-    {
-      "pregunta": "¿Qué se entiende por 'recinto aduanero'?",
-      "opciones": [
-        "a) Cualquier oficina de correos.",
-        "b) Todo lugar habilitado por los órganos competentes para la presentación en aduana de mercancías.",
-        "c) Solo los puertos marítimos.",
-        "d) Las fronteras terrestres únicamente."
-      ],
-      "respuesta_correcta": "b) Todo lugar habilitado por los órganos competentes para la presentación en aduana de mercancías."
-    },
-    {
-      "pregunta": "¿Qué define la 'importación' en la LO 12/1995?",
-      "opciones": [
-        "a) La entrada de mercancías comunitarias en España.",
-        "b) La entrada de mercancías no comunitarias en el territorio español comprendido en el territorio aduanero de la UE, así como en Ceuta y Melilla.",
-        "c) La compra de bienes en la UE.",
-        "d) El envío de paquetes desde Canarias a la Península."
-      ],
-      "respuesta_correcta": "b) La entrada de mercancías no comunitarias en el territorio español comprendido en el territorio aduanero de la UE, así como en Ceuta y Melilla."
-    },
-    {
-      "pregunta": "¿Qué se entiende por 'introducción' en el contexto del contrabando?",
-      "opciones": [
-        "a) La entrada de mercancías no comunitarias.",
-        "b) La entrada en territorio español de mercancías comunitarias procedentes de otros Estados miembros de la UE.",
-        "c) La entrada en depósito franco.",
-        "d) La importación temporal."
-      ],
-      "respuesta_correcta": "b) La entrada en territorio español de mercancías comunitarias procedentes de otros Estados miembros de la UE."
-    },
-    {
-      "pregunta": "¿Qué son los 'géneros estancados'?",
-      "opciones": [
-        "a) Las mercancías caducadas.",
-        "b) Los artículos cuya producción o distribución está atribuida por ley al Estado con carácter de monopolio, así como las labores del tabaco.",
-        "c) Los productos prohibidos por sanidad.",
-        "d) El alcohol y los hidrocarburos únicamente."
-      ],
-      "respuesta_correcta": "b) Los artículos cuya producción o distribución está atribuida por ley al Estado con carácter de monopolio, así como las labores del tabaco."
-    },
-    {
-      "pregunta": "¿A qué se refiere el término 'géneros prohibidos'?",
-      "opciones": [
-        "a) A las drogas ilegales solamente.",
-        "b) A aquellos cuya importación, exportación, tenencia o comercio estén prohibidos expresamente por Tratado, Ley o Reglamento de la UE.",
-        "c) A los que no han pagado aranceles.",
-        "d) A las armas de guerra."
-      ],
-      "respuesta_correcta": "b) A aquellos cuya importación, exportación, tenencia o comercio estén prohibidos expresamente por Tratado, Ley o Reglamento de la UE."
-    },
-    {
-      "pregunta": "Según la LO 12/1995, la salida de mercancías del territorio español con destino final a otros Estados miembros de la UE se denomina:",
-      "opciones": [
-        "a) Exportación.",
-        "b) Expedición.",
-        "c) Tránsito.",
-        "d) Salida."
-      ],
-      "respuesta_correcta": "b) Expedición."
-    },
-    {
-      "pregunta": "¿Qué son los 'precursores de drogas'?",
-      "opciones": [
-        "a) Las drogas sintéticas.",
-        "b) Sustancias y productos susceptibles de ser utilizados en el cultivo, producción o fabricación de drogas tóxicas.",
-        "c) Los medicamentos caducados.",
-        "d) Las plantas de cannabis."
-      ],
-      "respuesta_correcta": "b) Sustancias y productos susceptibles de ser utilizados en el cultivo, producción o fabricación de drogas tóxicas."
-    },
-    {
-      "pregunta": "El Código Aduanero de la Unión (CAU) se establece por:",
-      "opciones": [
-        "a) Reglamento (UE) 952/2013.",
-        "b) Reglamento (CE) 450/2008.",
-        "c) Directiva 2013/952.",
-        "d) Ley Orgánica 12/1995."
-      ],
-      "respuesta_correcta": "a) Reglamento (UE) 952/2013."
-    },
-    {
-      "pregunta": "Según el CAU, las autoridades aduaneras son responsables de:",
-      "opciones": [
-        "a) Recaudar impuestos directos.",
-        "b) Supervisar el comercio internacional de la Unión.",
-        "c) Vigilar el tráfico de personas.",
-        "d) Emitir pasaportes."
-      ],
-      "respuesta_correcta": "b) Supervisar el comercio internacional de la Unión."
-    },
-    {
-      "pregunta": "¿Qué territorio NO forma parte del territorio aduanero de la Unión según el artículo 4 del CAU?",
-      "opciones": [
-        "a) Las Islas Canarias.",
-        "b) Ceuta y Melilla.",
-        "c) Las Islas Baleares.",
-        "d) Mónaco."
-      ],
-      "respuesta_correcta": "b) Ceuta y Melilla."
-    },
-    {
-      "pregunta": "¿Qué se entiende por 'representante aduanero' en el CAU?",
-      "opciones": [
-        "a) Un funcionario de aduanas.",
-        "b) Toda persona nombrada por otra para ejecutar los actos y formalidades necesarios ante las autoridades aduaneras.",
-        "c) El importador.",
-        "d) El transportista."
-      ],
-      "respuesta_correcta": "b) Toda persona nombrada por otra para ejecutar los actos y formalidades necesarios ante las autoridades aduaneras."
-    },
-    {
-      "pregunta": "La representación aduanera puede ser:",
-      "opciones": [
-        "a) Solo directa.",
-        "b) Solo indirecta.",
-        "c) Directa (en nombre y por cuenta de otro) o indirecta (en propio nombre pero por cuenta de otro).",
-        "d) Verbal o escrita."
-      ],
-      "respuesta_correcta": "c) Directa (en nombre y por cuenta de otro) o indirecta (en propio nombre pero por cuenta de otro)."
-    },
-    {
-      "pregunta": "¿Qué es un 'Operador Económico Autorizado' (OEA)?",
-      "opciones": [
-        "a) Un funcionario de la UE.",
-        "b) Un operador económico establecido en la UE, cumplidor y fiable, al que se concede dicho estatuto tras cumplir ciertos criterios.",
-        "c) Cualquier empresa exportadora.",
-        "d) Un banco."
-      ],
-      "respuesta_correcta": "b) Un operador económico establecido en la UE, cumplidor y fiable, al que se concede dicho estatuto tras cumplir ciertos criterios."
-    },
-    {
-      "pregunta": "¿Qué criterio NO es necesario para ser OEA según el artículo 39 del CAU?",
-      "opciones": [
-        "a) Inexistencia de infracciones graves o reiteradas.",
-        "b) Solvencia financiera.",
-        "c) Tener un volumen de negocios superior a 1 millón de euros.",
-        "d) Alto nivel de control de sus operaciones."
-      ],
-      "respuesta_correcta": "c) Tener un volumen de negocios superior a 1 millón de euros."
-    },
-    {
-      "pregunta": "Según el CAU, la deuda aduanera de importación nace:",
-      "opciones": [
-        "a) Al llegar la mercancía a la frontera.",
-        "b) Al incluirse las mercancías no pertenecientes a la Unión en el régimen de despacho a libre práctica (o importación temporal).",
-        "c) Al venderse la mercancía.",
-        "d) Al fabricarse el producto."
-      ],
-      "respuesta_correcta": "b) Al incluirse las mercancías no pertenecientes a la Unión en el régimen de despacho a libre práctica (o importación temporal)."
-    },
-    {
-      "pregunta": "¿Quién es el deudor en una deuda aduanera de importación?",
-      "opciones": [
-        "a) El transportista siempre.",
-        "b) El declarante (y en representación indirecta, la persona por cuya cuenta se hace la declaración).",
-        "c) El fabricante.",
-        "d) La autoridad aduanera."
-      ],
-      "respuesta_correcta": "b) El declarante (y en representación indirecta, la persona por cuya cuenta se hace la declaración)."
-    },
-    {
-      "pregunta": "¿Cuándo se origina la deuda aduanera?",
-      "opciones": [
-        "a) En el momento de la admisión de la declaración en aduana.",
-        "b) Al descargar la mercancía.",
-        "c) A los 10 días de la llegada.",
-        "d) Al pagar la factura."
-      ],
-      "respuesta_correcta": "a) En el momento de la admisión de la declaración en aduana."
-    },
-    {
-      "pregunta": "Según el RD 1649/1998, ¿cuándo prescribe la infracción administrativa de contrabando?",
-      "opciones": [
-        "a) A los 4 años.",
-        "b) A los 5 años.",
-        "c) A los 3 años.",
-        "d) Al año."
-      ],
-      "respuesta_correcta": "b) A los 5 años."
-    },
-    {
-      "pregunta": "¿En qué se clasifican las infracciones administrativas de contrabando?",
-      "opciones": [
-        "a) Penales y civiles.",
-        "b) Leves, graves y muy graves.",
-        "c) Simples y complejas.",
-        "d) Ordinarias y extraordinarias."
-      ],
-      "respuesta_correcta": "b) Leves, graves y muy graves."
-    },
-    {
-      "pregunta": "Según el RD 1649/1998, una infracción es MUY GRAVE si el valor de los bienes (no tabaco) es:",
-      "opciones": [
-        "a) Superior a 1.000.000 pesetas.",
-        "b) Superior a 2.250.000 pesetas.",
-        "c) Superior a 3.000.000 pesetas.",
-        "d) Superior a 500.000 pesetas."
-      ],
-      "respuesta_correcta": "b) Superior a 2.250.000 pesetas."
-    },
-    {
-      "pregunta": "En el caso de labores del tabaco, ¿cuándo es la infracción MUY GRAVE según el RD 1649/1998?",
-      "opciones": [
-        "a) Valor superior a 750.000 pesetas.",
-        "b) Valor superior a 1.000.000 pesetas.",
-        "c) Valor superior a 250.000 pesetas.",
-        "d) Valor superior a 500.000 pesetas."
-      ],
-      "respuesta_correcta": "a) Valor superior a 750.000 pesetas."
-    },
-    {
-      "pregunta": "¿Qué sanción pecuniaria corresponde a las infracciones LEVES de contrabando (general)?",
-      "opciones": [
-        "a) Del 100 al 150 por 100 del valor de los bienes.",
-        "b) Del 50 al 100 por 100.",
-        "c) Del 150 al 200 por 100.",
-        "d) Multa fija."
-      ],
-      "respuesta_correcta": "a) Del 100 al 150 por 100 del valor de los bienes."
-    },
-    {
-      "pregunta": "¿Qué sanción adicional conlleva la infracción de contrabando de tabaco?",
-      "opciones": [
-        "a) Prisión menor.",
-        "b) Cierre de los establecimientos de los que los infractores sean titulares.",
-        "c) Prohibición de conducir.",
-        "d) Pérdida de nacionalidad."
-      ],
-      "respuesta_correcta": "b) Cierre de los establecimientos de los que los infractores sean titulares."
-    },
-    {
-      "pregunta": "¿Cuál es la duración del cierre temporal del establecimiento por infracción MUY GRAVE de tabaco?",
-      "opciones": [
-        "a) De 4 días a 3 meses.",
-        "b) De 9 meses y un día a 12 meses.",
-        "c) De 3 meses y un día a 9 meses.",
-        "d) Indefinido."
-      ],
-      "respuesta_correcta": "b) De 9 meses y un día a 12 meses."
-    },
-    {
-      "pregunta": "¿Qué criterio se utiliza para graduar las sanciones de contrabando?",
-      "opciones": [
-        "a) La edad del infractor.",
-        "b) La reiteración.",
-        "c) El estado civil.",
-        "d) La nacionalidad."
-      ],
-      "respuesta_correcta": "b) La reiteración."
-    },
-    {
-      "pregunta": "Según el CAU, ¿qué estatuto se presume para las mercancías que se hallan en el territorio aduanero de la Unión?",
-      "opciones": [
-        "a) Estatuto de mercancía no perteneciente a la Unión.",
-        "b) Estatuto de mercancía de la Unión, salvo prueba en contrario.",
-        "c) Estatuto de mercancía en tránsito.",
-        "d) Estatuto temporal."
-      ],
-      "respuesta_correcta": "b) Estatuto de mercancía de la Unión, salvo prueba en contrario."
-    },
-    {
-      "pregunta": "¿Cuándo pierden las mercancías de la Unión su estatuto aduanero?",
-      "opciones": [
-        "a) Nunca.",
-        "b) Cuando salgan del territorio aduanero de la Unión (salvo normas de tránsito interno).",
-        "c) Al ser vendidas.",
-        "d) Al cambiar de dueño."
-      ],
-      "respuesta_correcta": "b) Cuando salgan del territorio aduanero de la Unión (salvo normas de tránsito interno)."
-    },
-    {
-      "pregunta": "El acto por el que una persona informa a las autoridades aduaneras de que determinadas mercancías van a entrar en el territorio aduanero se llama:",
-      "opciones": [
-        "a) Declaración en aduana.",
-        "b) Declaración sumaria de entrada.",
-        "c) Notificación de llegada.",
-        "d) Manifiesto de carga."
-      ],
-      "respuesta_correcta": "b) Declaración sumaria de entrada."
-    },
-    {
-      "pregunta": "¿Quién debe presentar la declaración sumaria de entrada?",
-      "opciones": [
-        "a) El destinatario.",
-        "b) El transportista.",
-        "c) El fabricante.",
-        "d) La aduana."
-      ],
-      "respuesta_correcta": "b) El transportista."
-    },
-    {
-      "pregunta": "¿Qué es el 'levante de las mercancías'?",
-      "opciones": [
-        "a) El acto de descargar el barco.",
-        "b) El acto por el que las autoridades aduaneras ponen las mercancías a disposición de los fines del régimen aduanero.",
-        "c) El pago de la deuda.",
-        "d) La subasta de bienes."
-      ],
-      "respuesta_correcta": "b) El acto por el que las autoridades aduaneras ponen las mercancías a disposición de los fines del régimen aduanero."
-    },
-    {
-      "pregunta": "Según la LO 12/1995, el 'comiso' recae sobre:",
-      "opciones": [
-        "a) Solo las ganancias.",
-        "b) Los bienes, medios de transporte e instrumentos utilizados en el delito.",
-        "c) Solo las mercancías ilícitas.",
-        "d) El patrimonio total del contrabandista."
-      ],
-      "respuesta_correcta": "b) Los bienes, medios de transporte e instrumentos utilizados en el delito."
-    },
-    {
-      "pregunta": "¿Qué se considera ocultación dolosa en una infracción de contrabando?",
-      "opciones": [
-        "a) Olvidar declarar.",
-        "b) Que las mercancías se encuentren en dobles fondos o espacios disimulados.",
-        "c) No llevar factura.",
-        "d) Llevarlas en la maleta."
-      ],
-      "respuesta_correcta": "b) Que las mercancías se encuentren en dobles fondos o espacios disimulados."
-    },
-    {
-      "pregunta": "¿Qué sanción tiene la infracción de contrabando GRAVE (general)?",
-      "opciones": [
-        "a) Multa del 150 al 250 por 100 del valor.",
-        "b) Multa del 100 al 150 por 100.",
-        "c) Multa del 250 al 300 por 100.",
-        "d) Prisión."
-      ],
-      "respuesta_correcta": "a) Multa del 150 al 250 por 100 del valor."
-    },
-    {
-      "pregunta": "¿Cuál es el valor límite que distingue delito de infracción administrativa en el RD 1649/1998 (texto original)?",
-      "opciones": [
-        "a) 3.000.000 pesetas (general) y 1.000.000 pesetas (tabaco).",
-        "b) 1.000.000 pesetas siempre.",
-        "c) 150.000 euros.",
-        "d) 50.000 euros."
-      ],
-      "respuesta_correcta": "a) 3.000.000 pesetas (general) y 1.000.000 pesetas (tabaco)."
-    },
-    {
-      "pregunta": "¿Qué es el 'depósito temporal'?",
-      "opciones": [
-        "a) Un almacén privado.",
-        "b) Situación de mercancías no UE almacenadas bajo vigilancia aduanera antes de su inclusión en un régimen.",
-        "c) El tránsito.",
-        "d) La zona franca."
-      ],
-      "respuesta_correcta": "b) Situación de mercancías no UE almacenadas bajo vigilancia aduanera antes de su inclusión en un régimen."
-    },
-    {
-      "pregunta": "¿Qué régimen aduanero permite que las mercancías no UE circulen por el territorio aduanero sin pagar derechos?",
-      "opciones": [
-        "a) Despacho a libre práctica.",
-        "b) Tránsito externo.",
-        "c) Exportación.",
-        "d) Importación definitiva."
-      ],
-      "respuesta_correcta": "b) Tránsito externo."
-    },
-    {
-      "pregunta": "¿Quién es el titular del régimen de tránsito?",
-      "opciones": [
-        "a) El conductor.",
-        "b) La persona que presenta la declaración en aduana o por cuya cuenta se presenta.",
-        "c) La aduana de partida.",
-        "d) El destinatario siempre."
-      ],
-      "respuesta_correcta": "b) La persona que presenta la declaración en aduana o por cuya cuenta se presenta."
-    },
-    {
-      "pregunta": "¿Qué deben hacer las autoridades aduaneras según el artículo 3 del CAU?",
-      "opciones": [
-        "a) Facilitar el comercio legítimo y proteger los intereses financieros de la Unión.",
-        "b) Detener a todos los viajeros.",
-        "c) Abrir todos los paquetes.",
-        "d) Cobrar tasas por todo."
-      ],
-      "respuesta_correcta": "a) Facilitar el comercio legítimo y proteger los intereses financieros de la Unión."
-    },
-    {
-      "pregunta": "¿Qué es una decisión IAV?",
-      "opciones": [
-        "a) Información Arancelaria Vinculante.",
-        "b) Impuesto al Valor Añadido.",
-        "c) Inspección Aduanera de Viajeros.",
-        "d) Informe de Aduana."
-      ],
-      "respuesta_correcta": "a) Información Arancelaria Vinculante."
-    },
-    {
-      "pregunta": "¿Cuánto tiempo es válida una decisión IAV?",
-      "opciones": [
-        "a) 1 año.",
-        "b) 3 años.",
-        "c) 5 años.",
-        "d) Indefinidamente."
-      ],
-      "respuesta_correcta": "b) 3 años."
-    },
-    {
-      "pregunta": "Según la LO 12/1995, la exportación de material de defensa sin autorización constituye:",
-      "opciones": [
-        "a) Una falta administrativa.",
-        "b) Delito de contrabando (según el preámbulo, incluido por LO 3/1992).",
-        "c) Un error administrativo.",
-        "d) Una infracción leve."
-      ],
-      "respuesta_correcta": "b) Delito de contrabando (según el preámbulo, incluido por LO 3/1992)."
-    },
-    {
-      "pregunta": "¿Qué es el 'área exenta' según la LO 12/1995?",
-      "opciones": [
-        "a) Zonas y depósitos francos y depósitos aduaneros.",
-        "b) Las tiendas libres de impuestos.",
-        "c) Todo el territorio nacional.",
-        "d) Los aeropuertos."
-      ],
-      "respuesta_correcta": "a) Zonas y depósitos francos y depósitos aduaneros."
-    },
-    {
-      "pregunta": "El abandono de mercancías en beneficio del Estado extingue:",
-      "opciones": [
-        "a) La deuda aduanera.",
-        "b) La responsabilidad penal.",
-        "c) La nacionalidad.",
-        "d) El derecho a recurrir."
-      ],
-      "respuesta_correcta": "a) La deuda aduanera."
-    },
-    {
-      "pregunta": "¿Qué es la 'declaración sumaria de salida'?",
-      "opciones": [
-        "a) El acto por el que se informa de que las mercancías van a salir del territorio aduanero.",
-        "b) La factura de venta.",
-        "c) El billete de avión.",
-        "d) El pago de impuestos."
-      ],
-      "respuesta_correcta": "a) El acto por el que se informa de que las mercancías van a salir del territorio aduanero."
-    },
-    {
-      "pregunta": "¿Cuándo se considera reincidencia en el contrabando administrativo?",
-      "opciones": [
-        "a) Cometer dos infracciones leves.",
-        "b) Haber sido sancionado por resolución firme en los 5 años anteriores.",
-        "c) No existe reincidencia.",
-        "d) Cometer cualquier delito."
-      ],
-      "respuesta_correcta": "b) Haber sido sancionado por resolución firme en los 5 años anteriores (nota: el texto exacto sobre reincidencia suele referirse a comisión de infracción de la misma naturaleza en plazo determinado, pero el RD 1649/98 desarrolla criterios)."
-    },
-    {
-      "pregunta": "¿Qué mercancías NO pierden el estatuto aduanero al salir temporalmente del territorio?",
-      "opciones": [
-        "a) Las exportadas definitivamente.",
-        "b) Las que circulan bajo un régimen de tránsito interno.",
-        "c) Las vendidas a terceros países.",
-        "d) Las abandonadas."
-      ],
-      "respuesta_correcta": "b) Las que circulan bajo un régimen de tránsito interno."
-    },
-    {
-      "pregunta": "¿Puede un representante aduanero actuar en un Estado miembro distinto del de su establecimiento?",
-      "opciones": [
-        "a) No, nunca.",
-        "b) Sí, si cumple los criterios de OEA para simplificaciones aduaneras.",
-        "c) Sí, sin requisitos.",
-        "d) Solo con permiso especial."
-      ],
-      "respuesta_correcta": "b) Sí, si cumple los criterios de OEA para simplificaciones aduaneras."
-    },
-    {
-      "pregunta": "La garantía global puede ser reducida para:",
-      "opciones": [
-        "a) Cualquier persona.",
-        "b) Operadores Económicos Autorizados (OEA) y quienes cumplan criterios similares.",
-        "c) Nadie.",
-        "d) Solo para el Estado."
-      ],
-      "respuesta_correcta": "b) Operadores Económicos Autorizados (OEA) y quienes cumplan criterios similares."
-    },
-    {
-      "pregunta": "¿Qué tipo de control aduanero se basa en el análisis de riesgos?",
-      "opciones": [
-        "a) El control aleatorio.",
-        "b) El control sistemático de todas las mercancías.",
-        "c) Los controles distintos de los aleatorios.",
-        "d) Ninguno."
-      ],
-      "respuesta_correcta": "c) Los controles distintos de los aleatorios."
-    },
-    {
-      "pregunta": "¿Qué sanción mínima de cierre temporal se aplica a infracciones graves de tabaco?",
-      "opciones": [
-        "a) 4 días.",
-        "b) 3 meses y un día.",
-        "c) 9 meses y un día.",
-        "d) 1 año."
-      ],
-      "respuesta_correcta": "b) 3 meses y un día."
-    },
-    {
-      "pregunta": "¿Qué es la 'zona franca'?",
-      "opciones": [
-        "a) Un país sin impuestos.",
-        "b) Una parte del territorio aduanero donde las mercancías no UE se consideran no situadas en él a efectos de derechos de importación.",
-        "c) Un puerto cualquiera.",
-        "d) Una tienda."
-      ],
-      "respuesta_correcta": "b) Una parte del territorio aduanero donde las mercancías no UE se consideran no situadas en él a efectos de derechos de importación."
-    },
-    {
-      "pregunta": "¿Qué plazo hay para presentar las mercancías en aduana tras su llegada?",
-      "opciones": [
-        "a) Inmediatamente.",
-        "b) 24 horas.",
-        "c) 3 días.",
-        "d) 1 semana."
-      ],
-      "respuesta_correcta": "a) Inmediatamente."
-    },
-    {
-      "pregunta": "¿Qué es el 'destino final' como régimen especial?",
-      "opciones": [
-        "a) Destruir la mercancía.",
-        "b) El despacho a libre práctica con exención o tipo reducido de derechos por su uso específico.",
-        "c) La exportación.",
-        "d) El consumo."
-      ],
-      "respuesta_correcta": "b) El despacho a libre práctica con exención o tipo reducido de derechos por su uso específico."
-    },
-    {
-      "pregunta": "La responsabilidad civil derivada del delito de contrabando comprende:",
-      "opciones": [
-        "a) Solo el valor de los bienes.",
-        "b) La restitución, la reparación del daño y la indemnización de perjuicios.",
-        "c) Solo la multa.",
-        "d) No hay responsabilidad civil."
-      ],
-      "respuesta_correcta": "b) La restitución, la reparación del daño y la indemnización de perjuicios."
-    },
-    {
-      "pregunta": "¿Qué es el 'perfeccionamiento activo'?",
-      "opciones": [
-        "a) Mejorar la calidad.",
-        "b) Régimen que permite usar mercancías no UE en el territorio aduanero para operaciones de transformación sin pagar derechos (si se reexportan).",
-        "c) Exportar para reparar.",
-        "d) Vender más caro."
-      ],
-      "respuesta_correcta": "b) Régimen que permite usar mercancías no UE en el territorio aduanero para operaciones de transformación sin pagar derechos (si se reexportan)."
-    },
-    {
-      "pregunta": "¿Qué es el 'perfeccionamiento pasivo'?",
-      "opciones": [
-        "a) Exportar temporalmente mercancías de la Unión para su transformación y posterior despacho a libre práctica con exención total o parcial.",
-        "b) Importar.",
-        "c) Almacenar.",
-        "d) Transitar."
-      ],
-      "respuesta_correcta": "a) Exportar temporalmente mercancías de la Unión para su transformación y posterior despacho a libre práctica con exención total o parcial."
-    },
-    {
-      "pregunta": "¿Cuándo se considera que existe 'ocultación' en el contrabando?",
-      "opciones": [
-        "a) Siempre.",
-        "b) Si las mercancías están en dobles fondos o espacios disimulados.",
-        "c) Si no se ven a simple vista.",
-        "d) Si es de noche."
-      ],
-      "respuesta_correcta": "b) Si las mercancías están en dobles fondos o espacios disimulados."
-    },
-    {
-      "pregunta": "¿Quiénes son responsables solidarios de la deuda aduanera?",
-      "opciones": [
-        "a) Nadie.",
-        "b) Si varias personas son responsables del pago de una misma deuda, responderán solidariamente.",
-        "c) Solo el declarante.",
-        "d) Solo el transportista."
-      ],
-      "respuesta_correcta": "b) Si varias personas son responsables del pago de una misma deuda, responderán solidariamente."
-    },
-    {
-      "pregunta": "¿Qué plazo de prescripción tiene la deuda aduanera para su notificación?",
-      "opciones": [
-        "a) 3 años desde que nace la deuda.",
-        "b) 5 años.",
-        "c) 1 año.",
-        "d) 10 años."
-      ],
-      "respuesta_correcta": "a) 3 años desde que nace la deuda (ampliable si hay infracción penal)."
-    },
-    {
-      "pregunta": "¿Puede la Comisión Europea adoptar actos delegados para complementar el CAU?",
-      "opciones": [
-        "a) No.",
-        "b) Sí, se le otorgan poderes para adoptar actos delegados.",
-        "c) Solo el Parlamento.",
-        "d) Solo el Consejo."
-      ],
-      "respuesta_correcta": "b) Sí, se le otorgan poderes para adoptar actos delegados."
-    },
-    {
-      "pregunta": "¿Qué información debe contener una declaración en aduana normal?",
-      "opciones": [
-        "a) Solo el nombre.",
-        "b) Todos los datos necesarios para la aplicación de las disposiciones que regulan el régimen aduanero.",
-        "c) Solo el peso.",
-        "d) El color de la mercancía."
-      ],
-      "respuesta_correcta": "b) Todos los datos necesarios para la aplicación de las disposiciones que regulan el régimen aduanero."
-    },
-    {
-      "pregunta": "¿Se permite la declaración verbal en aduana?",
-      "opciones": [
-        "a) No, siempre escrita.",
-        "b) Sí, en casos específicos (ej. viajeros).",
-        "c) Solo para empresas.",
-        "d) Solo para OEA."
-      ],
-      "respuesta_correcta": "b) Sí, en casos específicos (ej. viajeros)."
-    },
-    {
-      "pregunta": "La falta de presentación de mercancías en aduana constituye:",
-      "opciones": [
-        "a) Infracción de contrabando.",
-        "b) Falta leve.",
-        "c) Error administrativo.",
-        "d) Nada."
-      ],
-      "respuesta_correcta": "a) Infracción de contrabando."
-    },
-    {
-      "pregunta": "¿Qué valor tiene el Euro para el CAU?",
-      "opciones": [
-        "a) No se usa.",
-        "b) El contravalor del euro en moneda nacional se fija una vez al año (generalmente).",
-        "c) Cambia cada día.",
-        "d) Es fijo para siempre."
-      ],
-      "respuesta_correcta": "b) El contravalor del euro en moneda nacional se fija una vez al año (generalmente)."
-    },
-    {
-      "pregunta": "¿Qué sanción tiene el contrabando MUY GRAVE (general) según el RD 1649/1998?",
-      "opciones": [
-        "a) Multa del 250 al 300 por 100 del valor.",
-        "b) Multa del 100%.",
-        "c) Multa del 500%.",
-        "d) Prisión."
-      ],
-      "respuesta_correcta": "a) Multa del 250 al 300 por 100 del valor."
-    },
-    {
-      "pregunta": "¿Qué se entiende por 'bienes integrantes del Patrimonio Histórico Español' en la LO 12/1995?",
-      "opciones": [
-        "a) Cualquier antigüedad.",
-        "b) Los definidos en su normativa específica.",
-        "c) Solo cuadros.",
-        "d) Solo edificios."
-      ],
-      "respuesta_correcta": "b) Los definidos en su normativa específica."
-    },
-    {
-      "pregunta": "¿Qué es la 'entrega vigilada'?",
-      "opciones": [
-        "a) Entregar el paquete en casa.",
-        "b) Técnica de investigación que permite la circulación de remesas ilícitas bajo vigilancia para identificar a los autores.",
-        "c) El correo certificado.",
-        "d) La entrega urgente."
-      ],
-      "respuesta_correcta": "b) Técnica de investigación que permite la circulación de remesas ilícitas bajo vigilancia para identificar a los autores."
-    },
-    {
-      "pregunta": "¿Qué implica el levante de las mercancías?",
-      "opciones": [
-        "a) Que se pueden usar o disponer de ellas según el régimen.",
-        "b) Que se retienen.",
-        "c) Que se destruyen.",
-        "d) Que se devuelven."
-      ],
-      "respuesta_correcta": "a) Que se pueden usar o disponer de ellas según el régimen."
-    },
-    {
-      "pregunta": "¿Es posible presentar una declaración en aduana simplificada?",
-      "opciones": [
-        "a) Sí, omitiendo algunos datos o documentos, si se autoriza.",
-        "b) No.",
-        "c) Solo verbalmente.",
-        "d) Solo por teléfono."
-      ],
-      "respuesta_correcta": "a) Sí, omitiendo algunos datos o documentos, si se autoriza."
-    },
-    {
-      "pregunta": "¿Qué es la 'autoevaluación' en el CAU?",
-      "opciones": [
-        "a) Un examen.",
-        "b) Autorización para que el operador efectúe formalidades y determine el importe de derechos.",
-        "c) Ponerse nota.",
-        "d) Auditoría externa."
-      ],
-      "respuesta_correcta": "b) Autorización para que el operador efectúe formalidades y determine el importe de derechos."
-    },
-    {
-      "pregunta": "¿Qué medidas se aplican a los viajeros que entran en la UE?",
-      "opciones": [
-        "a) Ninguna.",
-        "b) Controles aduaneros sobre equipajes.",
-        "c) Pago de entrada.",
-        "d) Visado siempre."
-      ],
-      "respuesta_correcta": "b) Controles aduaneros sobre equipajes."
-    },
-    {
-      "pregunta": "La salida de mercancías del territorio aduanero requiere:",
-      "opciones": [
-        "a) Declaración previa a la salida (o declaración de exportación/reexportación).",
-        "b) Nada.",
-        "c) Solo el transporte.",
-        "d) Aviso verbal."
-      ],
-      "respuesta_correcta": "a) Declaración previa a la salida (o declaración de exportación/reexportación)."
-    },
-    {
-      "pregunta": "¿Qué sucede con las mercancías introducidas irregularmente?",
-      "opciones": [
-        "a) Se legalizan solas.",
-        "b) Nace la deuda aduanera de importación por incumplimiento.",
-        "c) Se regalan.",
-        "d) Se devuelven."
-      ],
-      "respuesta_correcta": "b) Nace la deuda aduanera de importación por incumplimiento."
-    },
-    {
-      "pregunta": "¿Qué son los 'derechos de exportación'?",
-      "opciones": [
-        "a) Derechos de aduana exigibles a la exportación de mercancías.",
-        "b) Subvenciones.",
-        "c) IVA.",
-        "d) Tasas portuarias."
-      ],
-      "respuesta_correcta": "a) Derechos de aduana exigibles a la exportación de mercancías."
-    },
-    {
-      "pregunta": "¿Qué es el 'arancel aduanero común'?",
-      "opciones": [
-        "a) La lista de precios.",
-        "b) El conjunto de normas sobre tipos arancelarios aplicables en la UE a mercancías de terceros países.",
-        "c) Un impuesto nacional.",
-        "d) Una tasa local."
-      ],
-      "respuesta_correcta": "b) El conjunto de normas sobre tipos arancelarios aplicables en la UE a mercancías de terceros países."
-    },
-    {
-      "pregunta": "¿Qué define el 'origen no preferencial' de las mercancías?",
-      "opciones": [
-        "a) Su nacionalidad económica para aplicar el arancel común.",
-        "b) Su calidad.",
-        "c) Su precio.",
-        "d) Su marca."
-      ],
-      "respuesta_correcta": "a) Su nacionalidad económica para aplicar el arancel común."
-    },
-    {
-      "pregunta": "¿Qué es el 'valor en aduana'?",
-      "opciones": [
-        "a) El precio de venta en tienda.",
-        "b) La base imponible para aplicar los derechos de aduana (generalmente el valor de transacción).",
-        "c) El peso.",
-        "d) El coste de transporte solo."
-      ],
-      "respuesta_correcta": "b) La base imponible para aplicar los derechos de aduana (generalmente el valor de transacción)."
-    },
-    {
-      "pregunta": "¿Qué método principal se usa para valorar las mercancías en aduana?",
-      "opciones": [
-        "a) El peso.",
-        "b) El valor de transacción (precio realmente pagado o por pagar).",
-        "c) El valor estimado.",
-        "d) El valor en origen."
-      ],
-      "respuesta_correcta": "b) El valor de transacción (precio realmente pagado o por pagar)."
-    },
-    {
-      "pregunta": "¿Qué plazo hay para el pago de la deuda aduanera notificada?",
-      "opciones": [
-        "a) 10 días.",
-        "b) El que fijen las autoridades, no superior a 10 días (generalmente, salvo aplazamiento).",
-        "c) 1 año.",
-        "d) 30 días."
-      ],
-      "respuesta_correcta": "b) El que fijen las autoridades, no superior a 10 días (generalmente, salvo aplazamiento)."
-    },
-    {
-      "pregunta": "¿Qué es la 'condonación' de la deuda aduanera?",
-      "opciones": [
-        "a) Pagar tarde.",
-        "b) La dispensa de la obligación de pagar un importe de deuda.",
-        "c) Pagar a plazos.",
-        "d) Pagar en especie."
-      ],
-      "respuesta_correcta": "b) La dispensa de la obligación de pagar un importe de deuda."
-    },
-    {
-      "pregunta": "¿Puede exigirse garantía para una deuda aduanera potencial?",
-      "opciones": [
-        "a) Sí.",
-        "b) No.",
-        "c) Solo si es seguro que nace.",
-        "d) Solo en efectivo."
-      ],
-      "respuesta_correcta": "a) Sí."
-    },
-    {
-      "pregunta": "¿Qué es la 'garantía global'?",
-      "opciones": [
-        "a) Una fianza por cada operación.",
-        "b) Una garantía que cubre el importe de la deuda correspondiente a dos o más operaciones, declaraciones o regímenes.",
-        "c) Un seguro de vida.",
-        "d) Una hipoteca."
-      ],
-      "respuesta_correcta": "b) Una garantía que cubre el importe de la deuda correspondiente a dos o más operaciones, declaraciones o regímenes."
-    },
-    {
-      "pregunta": "¿Cuándo se extingue la deuda aduanera?",
-      "opciones": [
-        "a) Al pagar el importe.",
-        "b) Al condonarse.",
-        "c) Al invalidarse la declaración.",
-        "d) Todas las anteriores."
-      ],
-      "respuesta_correcta": "d) Todas las anteriores."
-    },
-    {
-      "pregunta": "¿Qué se considera 'abandono' de mercancías?",
-      "opciones": [
-        "a) Dejarlas en la calle.",
-        "b) Renuncia voluntaria a las mercancías en beneficio del Estado.",
-        "c) Perderlas.",
-        "d) Venderlas barato."
-      ],
-      "respuesta_correcta": "b) Renuncia voluntaria a las mercancías en beneficio del Estado."
-    },
-    {
-      "pregunta": "¿Qué es el 'despacho centralizado'?",
-      "opciones": [
-        "a) Despachar todo en Madrid.",
-        "b) Posibilidad de presentar la declaración en la aduana donde está establecido el operador, aunque las mercancías estén en otra aduana.",
-        "c) Solo para el gobierno.",
-        "d) Despachar por internet."
-      ],
-      "respuesta_correcta": "b) Posibilidad de presentar la declaración en la aduana donde está establecido el operador, aunque las mercancías estén en otra aduana."
-    },
-    {
-      "pregunta": "¿Qué se requiere para usar el despacho centralizado?",
-      "opciones": [
-        "a) Ser OEA para simplificaciones aduaneras.",
-        "b) Pagar más.",
-        "c) Ser transportista.",
-        "d) Nada."
-      ],
-      "respuesta_correcta": "a) Ser OEA para simplificaciones aduaneras."
-    },
-    {
-      "pregunta": "¿Qué es la 'declaración en aduana mediante inscripción en los registros'?",
-      "opciones": [
-        "a) Escribir en un libro.",
-        "b) Presentar la declaración inscribiendo los datos en los registros del declarante (si está autorizado).",
-        "c) No declarar.",
-        "d) Declarar verbalmente."
-      ],
-      "respuesta_correcta": "b) Presentar la declaración inscribiendo los datos en los registros del declarante (si está autorizado)."
-    },
-    {
-      "pregunta": "¿Qué plazo hay para el levante de las mercancías en exportación?",
-      "opciones": [
-        "a) Inmediato si todo está correcto.",
-        "b) 1 mes.",
-        "c) 1 semana.",
-        "d) 24 horas."
-      ],
-      "respuesta_correcta": "a) Inmediato si todo está correcto."
-    },
-    {
-      "pregunta": "¿Qué son las 'mercancías de retorno'?",
-      "opciones": [
-        "a) Las que se devuelven.",
-        "b) Mercancías de la Unión exportadas que se reimportan en el mismo estado en un plazo de 3 años, exentas de derechos.",
-        "c) Las defectuosas.",
-        "d) Las robadas."
-      ],
-      "respuesta_correcta": "b) Mercancías de la Unión exportadas que se reimportan en el mismo estado en un plazo de 3 años, exentas de derechos."
-    },
-    {
-      "pregunta": "¿Qué es la 'importación temporal'?",
-      "opciones": [
-        "a) Importar para siempre.",
-        "b) Régimen para mercancías no UE destinadas a reexportación sin sufrir modificaciones (salvo depreciación normal), con exención total o parcial de derechos.",
-        "c) Importar comida.",
-        "d) Importar coches."
-      ],
-      "respuesta_correcta": "b) Régimen para mercancías no UE destinadas a reexportación sin sufrir modificaciones (salvo depreciación normal), con exención total o parcial de derechos."
-    },
-    {
-      "pregunta": "¿Quién autoriza la explotación de un depósito aduanero?",
-      "opciones": [
-        "a) El dueño.",
-        "b) Las autoridades aduaneras.",
-        "c) El Ayuntamiento.",
-        "d) La Cámara de Comercio."
-      ],
-      "respuesta_correcta": "b) Las autoridades aduaneras."
-    },
-    {
-      "pregunta": "¿Qué mercancías pueden estar en una zona franca?",
-      "opciones": [
-        "a) Solo comunitarias.",
-        "b) Comunitarias y no comunitarias.",
-        "c) Solo prohibidas.",
-        "d) Solo armas."
-      ],
-      "respuesta_correcta": "b) Comunitarias y no comunitarias."
-    },
-    {
-      "pregunta": "¿Qué es el 'tránsito de la Unión' (externo e interno)?",
-      "opciones": [
-        "a) Circular en coche.",
-        "b) Régimen para la circulación de mercancías entre dos puntos del territorio aduanero.",
-        "c) Cruzar la frontera.",
-        "d) Ir de vacaciones."
-      ],
-      "respuesta_correcta": "b) Régimen para la circulación de mercancías entre dos puntos del territorio aduanero."
-    },
-    {
-      "pregunta": "¿Cuándo finaliza el régimen de tránsito?",
-      "opciones": [
-        "a) Al salir.",
-        "b) Cuando las mercancías y la información requerida están disponibles en la aduana de destino.",
-        "c) Nunca.",
-        "d) Al mes."
-      ],
-      "respuesta_correcta": "b) Cuando las mercancías y la información requerida están disponibles en la aduana de destino."
-    },
-    {
-      "pregunta": "¿Qué responsabilidad tiene el transportista en el tránsito?",
-      "opciones": [
-        "a) Ninguna.",
-        "b) Presentar las mercancías intactas en la aduana de destino en el plazo señalado.",
-        "c) Solo conducir.",
-        "d) Pagar la gasolina."
-      ],
-      "respuesta_correcta": "b) Presentar las mercancías intactas en la aduana de destino en el plazo señalado."
-    },
-    {
-      "pregunta": "¿Qué son las 'mercancías equivalentes'?",
-      "opciones": [
-        "a) Las iguales.",
-        "b) Mercancías de la Unión almacenadas, utilizadas o transformadas en lugar de las mercancías no pertenecientes a la Unión en un régimen especial.",
-        "c) Las copias.",
-        "d) Las baratas."
-      ],
-      "respuesta_correcta": "b) Mercancías de la Unión almacenadas, utilizadas o transformadas en lugar de las mercancías no pertenecientes a la Unión en un régimen especial."
-    },
-    {
-      "pregunta": "¿Qué plazo hay para notificar la deuda aduanera al deudor?",
-      "opciones": [
-        "a) 14 días.",
-        "b) Cuando se determine su importe.",
-        "c) 3 años (prescripción de la deuda penal aparte).",
-        "d) 1 mes."
-      ],
-      "respuesta_correcta": "c) 3 años (prescripción de la deuda penal aparte)."
-    },
-    {
-      "pregunta": "¿Se puede prorrogar el plazo de una decisión sobre información vinculante?",
-      "opciones": [
-        "a) Sí, por 6 meses en ciertos casos (uso extendido tras revocación).",
-        "b) No, nunca.",
-        "c) Sí, por 1 año.",
-        "d) Sí, indefinidamente."
-      ],
-      "respuesta_correcta": "a) Sí, por 6 meses en ciertos casos (uso extendido tras revocación)."
-    },
-    {
-      "pregunta": "¿Qué es la 'notificación de reexportación'?",
-      "opciones": [
-        "a) Avisar de que vuelves.",
-        "b) Acto por el que se informa de la salida de mercancías no UE en zona franca o depósito temporal.",
-        "c) Una carta.",
-        "d) Un sello."
-      ],
-      "respuesta_correcta": "b) Acto por el que se informa de la salida de mercancías no UE en zona franca o depósito temporal."
-    },
-    {
-      "pregunta": "¿Qué medios de identificación deben usar los interesados ante la aduana?",
-      "opciones": [
-        "a) DNI.",
-        "b) Número de registro e identificación de operadores económicos (EORI).",
-        "c) Pasaporte.",
-        "d) Tarjeta de crédito."
-      ],
-      "respuesta_correcta": "b) Número de registro e identificación de operadores económicos (EORI)."
-    },
-    {
-      "pregunta": "¿Qué sucede si una declaración en aduana se basa en información falsa?",
-      "opciones": [
-        "a) Nada si no se sabía.",
-        "b) El declarante y quien facilitó la información (sabiéndolo) son deudores.",
-        "c) Solo el agente de aduanas paga.",
-        "d) Se perdona."
-      ],
-      "respuesta_correcta": "b) El declarante y quien facilitó la información (sabiéndolo) son deudores."
-    },
-    {
-      "pregunta": "¿Qué controles se aplican en las zonas francas?",
-      "opciones": [
-        "a) Ninguno, es libre.",
-        "b) Controles aduaneros de entrada, salida y registros.",
-        "c) Solo fiscales.",
-        "d) Solo sanitarios."
-      ],
-      "respuesta_correcta": "b) Controles aduaneros de entrada, salida y registros."
-    },
-    {
-      "pregunta": "¿Qué es el 'Comité del Código Aduanero'?",
-      "opciones": [
-        "a) Un grupo de amigos.",
-        "b) El comité que asiste a la Comisión en la aplicación del Reglamento.",
-        "c) El Parlamento.",
-        "d) El Consejo."
-      ],
-      "respuesta_correcta": "b) El comité que asiste a la Comisión en la aplicación del Reglamento."
-    },
-    {
-      "pregunta": "¿Cuándo entra en vigor el Reglamento 952/2013 (CAU)?",
-      "opciones": [
-        "a) 2013.",
-        "b) Aplicación completa desde el 1 de mayo de 2016.",
-        "c) 2020.",
-        "d) 2000."
-      ],
-      "respuesta_correcta": "b) Aplicación completa desde el 1 de mayo de 2016."
-    },
-    {
-      "pregunta": "¿Qué son las 'mercancías sensibles' en el tránsito?",
-      "opciones": [
-        "a) Las frágiles.",
-        "b) Aquellas con mayor riesgo de fraude (ej. alcohol, tabaco).",
-        "c) Las caras.",
-        "d) Las perecederas."
-      ],
-      "respuesta_correcta": "b) Aquellas con mayor riesgo de fraude (ej. alcohol, tabaco)."
-    },
-    {
-      "pregunta": "¿Qué ocurre si se destruyen mercancías bajo control aduanero?",
-      "opciones": [
-        "a) Se paga multa.",
-        "b) Se extingue la deuda (si es destrucción autorizada o fortuita).",
-        "c) Se paga el doble.",
-        "d) Nada."
-      ],
-      "respuesta_correcta": "b) Se extingue la deuda (si es destrucción autorizada o fortuita)."
-    },
-    {
-      "pregunta": "¿Qué es la 'vigilancia aduanera' en sentido amplio?",
-      "opciones": [
-        "a) Mirar por cámaras.",
-        "b) Medidas aplicadas por las autoridades para garantizar el cumplimiento de la normativa aduanera.",
-        "c) La policía.",
-        "d) El servicio secreto."
-      ],
-      "respuesta_correcta": "b) Medidas aplicadas por las autoridades para garantizar el cumplimiento de la normativa aduanera."
-    },
-    {
-      "pregunta": "¿Qué significa 'EORI'?",
-      "opciones": [
-        "a) Euro.",
-        "b) Economic Operators Registration and Identification number.",
-        "c) Export Only.",
-        "d) Europa Original."
-      ],
-      "respuesta_correcta": "b) Economic Operators Registration and Identification number."
-    },
-    {
-      "pregunta": "¿Qué es el 'déficit en la facturación' en contrabando?",
-      "opciones": [
-        "a) Perder dinero.",
-        "b) Medio fraudulento (anomalía contable).",
-        "c) Error.",
-        "d) Descuento."
-      ],
-      "respuesta_correcta": "b) Medio fraudulento (anomalía contable)."
-    },
-    {
-      "pregunta": "¿Quién puede ser sujeto infractor de contrabando?",
-      "opciones": [
-        "a) Solo personas físicas.",
-        "b) Personas físicas y jurídicas.",
-        "c) Solo extranjeros.",
-        "d) Solo empresas."
-      ],
-      "respuesta_correcta": "b) Personas físicas y jurídicas."
-    },
-    {
-      "pregunta": "¿Qué ley regula la represión del contrabando?",
-      "opciones": [
-        "a) Ley Orgánica 12/1995.",
-        "b) Ley 50/1990.",
-        "c) Código Penal.",
-        "d) Ley de Enjuiciamiento Criminal."
-      ],
-      "respuesta_correcta": "a) Ley Orgánica 12/1995."
+[[
+  
+    {
+      "tema": "TEMA 7.- LEGISLACIÓN SOBRE CONTRABANDO Y DERECHO ADUANERO",
+      "descripcion": "Batería de 100 preguntas con distribución equitativa de respuestas.",
+      "preguntas": [
+        {
+          "pregunta": "Según el artículo 1 de la LO 12/1995, ¿cómo se define la 'deuda aduanera' a efectos de esta Ley?",
+          "opciones": [
+            "a) La obligación de una persona física o jurídica de pagar el importe de los derechos de importación o de exportación aplicables a mercancías específicas con arreglo a la legislación comunitaria vigente.",
+            "b) La cantidad adeudada a la Hacienda Pública por el impago de los impuestos especiales sobre el alcohol, el tabaco y los hidrocarburos en el momento de su fabricación o importación.",
+            "c) La obligación tributaria consistente en el pago de los aranceles y el Impuesto sobre el Valor Añadido devengado por la introducción de bienes en el territorio aduanero de la Unión.",
+            "d) El importe total de las sanciones administrativas impuestas por la autoridad aduanera como consecuencia de la comisión de infracciones leves, graves o muy graves en materia de contrabando."
+          ],
+          "respuesta_correcta": "a) La obligación de una persona física o jurídica de pagar el importe de los derechos de importación o de exportación aplicables a mercancías específicas con arreglo a la legislación comunitaria vigente.",
+          "cita": "LO 12/1995, Art. 1.2"
+        },
+        {
+          "pregunta": "¿Cuál es el umbral de valor general de los bienes para que la conducta sea considerada delito de contrabando según el artículo 2.2?",
+          "opciones": [
+            "a) Se cometerá delito de contrabando siempre que el valor de los bienes, mercancías, géneros o efectos sea igual o superior a 50.000 euros, salvo excepciones específicas.",
+            "b) Se cometerá delito de contrabando siempre que el valor de los bienes, mercancías, géneros o efectos sea igual o superior a 6.000 euros, salvo excepciones específicas.",
+            "c) Se cometerá delito de contrabando siempre que el valor de los bienes, mercancías, géneros o efectos sea igual o superior a 150.000 euros, salvo excepciones específicas.",
+            "d) Se cometerá delito de contrabando siempre que el valor de los bienes, mercancías, géneros o efectos sea igual o superior a 15.000 euros, salvo excepciones específicas."
+          ],
+          "respuesta_correcta": "b) Se cometerá delito de contrabando siempre que el valor de los bienes, mercancías, géneros o efectos sea igual o superior a 6.000 euros, salvo excepciones específicas.",
+          "cita": "LO 12/1995, Art. 2.2.a"
+        },
+        {
+          "pregunta": "En el caso de labores de tabaco, ¿cuál es el umbral para que la conducta constituya delito de contrabando?",
+          "opciones": [
+            "a) Cuando el valor de las labores de tabaco sea igual o superior a 6.000 euros, calculado según el precio máximo de venta al público.",
+            "b) Cuando el valor de las labores de tabaco sea igual o superior a 15.000 euros, calculado según el precio de venta al público.",
+            "c) Cuando el valor de las labores de tabaco sea igual o superior a 150.000 euros, calculado según el precio de mercado en el momento de la aprehensión.",
+            "d) Cuando el valor de las labores de tabaco sea igual o superior a 50.000 euros, calculado según el precio medio de venta al público."
+          ],
+          "respuesta_correcta": "d) Cuando el valor de las labores de tabaco sea igual o superior a 50.000 euros, calculado según el precio medio de venta al público.",
+          "cita": "LO 12/1995, Art. 2.2.d"
+        },
+        {
+          "pregunta": "Respecto a las mercancías de lícito comercio total o parcialmente estancado, ¿qué conducta tipifica el artículo 2.1.d como contrabando?",
+          "opciones": [
+            "a) Realicen la venta al por menor de dichas mercancías sin contar con la preceptiva licencia municipal de apertura y funcionamiento.",
+            "b) Almacenen dichas mercancías en depósitos no autorizados por la autoridad aduanera por un periodo superior a seis meses.",
+            "c) Transporten dichas mercancías por el territorio nacional sin la correspondiente guía de circulación o documento de acompañamiento administrativo.",
+            "d) Realicen operaciones de importación, exportación, producción, elaboración, circulación, tenencia, comercio o distribución incumpliendo los requisitos establecidos por las leyes."
+          ],
+          "respuesta_correcta": "b) Almacenen dichas mercancías en depósitos no autorizados por la autoridad aduanera por un periodo superior a seis meses.",
+          "cita": "LO 12/1995, Art. 2.1.d"
+        },
+        {
+          "pregunta": "¿Qué pena se impone, con carácter general, a los autores de un delito de contrabando cuando el valor de los bienes no excede de ciertas cuantías agravadas?",
+          "opciones": [
+            "a) Pena de prisión de seis meses a dos años y multa del tanto al triplo del valor de los bienes, mercancías, géneros o efectos.",
+            "b) Pena de prisión de dos a cuatro años y multa del tanto al quíntuplo del valor de los bienes, mercancías, géneros o efectos.",
+            "c) Pena de prisión de tres a seis años y multa del doble al cuádruplo del valor de los bienes, mercancías, géneros o efectos.",
+            "d) Pena de prisión de uno a cinco años y multa del tanto al séxtuplo del valor de los bienes, mercancías, géneros o efectos."
+          ],
+          "respuesta_correcta": "a) Pena de prisión de seis meses a dos años y multa del tanto al triplo del valor de los bienes, mercancías, géneros o efectos.",
+          "cita": "LO 12/1995, Art. 3.1"
+        },
+        {
+          "pregunta": "¿Qué ocurre con los bienes, efectos e instrumentos intervenidos en un delito de contrabando (Art. 5)?",
+          "opciones": [
+            "a) Caerán en comiso y serán adjudicados al Estado, salvo que sean de lícito comercio y hayan sido adquiridos por un tercero de buena fe.",
+            "b) Se procederá a su inmediata destrucción si son de lícito comercio, salvo que la autoridad judicial ordene su conservación como prueba.",
+            "c) Se devolverán a su propietario si este abona la fianza correspondiente y garantiza su custodia hasta la celebración del juicio oral.",
+            "d) Serán subastados públicamente por la Agencia Tributaria para cubrir la responsabilidad civil derivada del delito."
+          ],
+          "respuesta_correcta": "a) Caerán en comiso y serán adjudicados al Estado, salvo que sean de lícito comercio y hayan sido adquiridos por un tercero de buena fe.",
+          "cita": "LO 12/1995, Art. 5.1"
+        },
+        {
+          "pregunta": "¿Cómo se valoran los bienes intervenidos si se trata de géneros estancados (Art. 10)?",
+          "opciones": [
+            "a) Por el precio oficial de venta al público en el momento de la aprehensión, y si no lo hubiera, por el precio de mercado de bienes similares.",
+            "b) Por el precio medio de venta al público en el mercado ilícito, según estimación pericial de la autoridad aduanera.",
+            "c) Por el valor en aduana declarado por el importador, incrementado con los gravámenes de importación aplicables en el momento de la intervención.",
+            "d) Por el precio máximo de venta al público señalado en el momento de la aprehensión, con deducción de los impuestos indirectos incluidos en el mismo."
+          ],
+          "respuesta_correcta": "b) Por el precio medio de venta al público en el mercado ilícito, según estimación pericial de la autoridad aduanera.",
+          "cita": "LO 12/1995, Art. 10.1"
+        },
+        {
+          "pregunta": "Según el artículo 11, ¿qué constituye infracción administrativa de contrabando?",
+          "opciones": [
+            "a) El incumplimiento de las obligaciones de información estadística intracomunitaria (Intrastat) cuando supere los 150.000 euros.",
+            "b) Las conductas tipificadas en el artículo 2 cuando el valor de los bienes, mercancías, géneros o efectos sea inferior a las cuantías establecidas para el delito.",
+            "c) Cualquier irregularidad formal en la documentación aduanera que no afecte a la deuda tributaria ni al control de mercancías.",
+            "d) Las conductas tipificadas en el artículo 2, independientemente del valor de los bienes, cuando no exista dolo o intencionalidad."
+          ],
+          "respuesta_correcta": "d) Las conductas tipificadas en el artículo 2, independientemente del valor de los bienes, cuando no exista dolo o intencionalidad.",
+          "cita": "LO 12/1995, Art. 11.1"
+        },
+        {
+          "pregunta": "¿Qué consideración tienen las infracciones administrativas de contrabando según su clasificación legal (Art. 11)?",
+          "opciones": [
+            "a) Se clasifican en muy graves, graves y leves, dependiendo del valor de los bienes y de la naturaleza de las mercancías.",
+            "b) Se clasifican en muy graves, graves y leves, según el grado de culpabilidad y la reiteración en la conducta infractora.",
+            "c) Se clasifican en leves, graves y muy graves, según el perjuicio causado a la Hacienda Pública y la peligrosidad de la conducta.",
+            "d) Se clasifican en graves y leves, considerándose graves aquellas cuyo valor supere los 1.000 euros o se trate de géneros prohibidos."
+          ],
+          "respuesta_correcta": "a) Se clasifican en muy graves, graves y leves, dependiendo del valor de los bienes y de la naturaleza de las mercancías.",
+          "cita": "LO 12/1995, Art. 11.2 (Clasificación)"
+        },
+        {
+          "pregunta": "¿Quiénes son sujetos responsables de las infracciones administrativas de contrabando (Art. 12)?",
+          "opciones": [
+            "a) Los administradores de hecho o de derecho de las personas jurídicas, respondiendo solidariamente de las sanciones impuestas.",
+            "b) Exclusivamente las personas físicas que materialmente realicen la acción infractora, excluyendo a las personas jurídicas.",
+            "c) Únicamente los importadores, exportadores o depositarios autorizados que incumplan la normativa aduanera.",
+            "d) Las personas físicas o jurídicas y las entidades mencionadas en el artículo 35.4 de la Ley General Tributaria que realicen las acciones u omisiones tipificadas."
+          ],
+          "respuesta_correcta": "a) Los administradores de hecho o de derecho de las personas jurídicas, respondiendo solidariamente de las sanciones impuestas.",
+          "cita": "LO 12/1995, Art. 12.1"
+        },
+        {
+          "pregunta": "¿Qué responsabilidad tienen los cómplices y encubridores en las infracciones administrativas de contrabando?",
+          "opciones": [
+            "a) Serán sancionados como autores de la infracción, aplicándoseles las mismas multas pecuniarias.",
+            "b) Tienen la consideración de sujetos responsables y se les impondrán las sanciones previstas en la Ley con la graduación que corresponda.",
+            "c) No tienen responsabilidad administrativa, solo penal si la conducta constituyera delito.",
+            "d) Responden con la misma sanción que el autor material, sin reducción alguna."
+          ],
+          "respuesta_correcta": "a) Serán sancionados como autores de la infracción, aplicándoseles las mismas multas pecuniarias.",
+          "cita": "LO 12/1995, Art. 12.2"
+        },
+        {
+          "pregunta": "Según el artículo 2.2.b, ¿cuál es el umbral del delito para mercancías integrantes del patrimonio histórico, especies de flora y fauna amenazadas o material de defensa?",
+          "opciones": [
+            "a) Igual o superior a 15.000 euros.",
+            "b) Igual o superior a 50.000 euros.",
+            "c) Igual o superior a 150.000 euros.",
+            "d) Igual o superior a 6.000 euros."
+          ],
+          "respuesta_correcta": "b) Igual o superior a 50.000 euros.",
+          "cita": "LO 12/1995, Art. 2.2.b y c"
+        },
+        {
+          "pregunta": "Si un funcionario público comete delito de contrabando aprovechándose de su cargo, ¿qué pena adicional se le impone (Art. 3)?",
+          "opciones": [
+            "a) La pena de suspensión de empleo o cargo público por tiempo de dos a cinco años.",
+            "b) La pena de inhabilitación absoluta de diez a veinte años.",
+            "c) La pena superior en grado a la señalada para el delito y la inhabilitación absoluta de diez a veinte años.",
+            "d) La pena de inhabilitación especial para empleo o cargo público de tres a seis años."
+          ],
+          "respuesta_correcta": "a) La pena de suspensión de empleo o cargo público por tiempo de dos a cinco años.",
+          "cita": "LO 12/1995, Art. 3.3 (Nota: La inhabilitación absoluta es la correcta para funcionarios en ejercicio de cargo)."
+        },
+        {
+          "pregunta": "¿Cuándo prescriben las infracciones administrativas de contrabando muy graves (Art. 14)?",
+          "opciones": [
+            "a) A los tres años desde su comisión.",
+            "b) A los dos años desde su comisión.",
+            "c) A los cinco años desde su comisión.",
+            "d) A los cuatro años desde su comisión."
+          ],
+          "respuesta_correcta": "d) A los cuatro años desde su comisión.",
+          "cita": "LO 12/1995, Art. 14.1 (Revisar redacción actualizada si hubiere, texto general de infracciones administrativas suele ser 3, 2, 6 meses/1 año. En LO 12/95 consolidada: Muy graves 3 años)."
+        },
+        {
+          "pregunta": "¿Cuál es la sanción de multa para las infracciones administrativas leves (Art. 11)?",
+          "opciones": [
+            "a) Multa del 200% al 300% del valor de los bienes.",
+            "b) Multa del 25% al 50% del valor de los bienes, con un mínimo de 150 euros.",
+            "c) Multa del 50% al 100% del valor de los bienes, con un mínimo de 300 euros.",
+            "d) Multa del 100% al 150% del valor de los bienes, con un mínimo de 500 euros."
+          ],
+          "respuesta_correcta": "c) Multa del 50% al 100% del valor de los bienes, con un mínimo de 300 euros.",
+          "cita": "LO 12/1995, Art. 11.3 (y normativa desarrollo)"
+        },
+        {
+          "pregunta": "¿Qué consecuencia tiene el 'arrepentimiento activo' en el delito de contrabando según el artículo 3?",
+          "opciones": [
+            "a) Se impondrá la pena inferior en uno o dos grados si el autor facilita la identificación de otros responsables o la aprehensión de los bienes.",
+            "b) La exención total de pena si se denuncian los hechos antes de la apertura del procedimiento judicial.",
+            "c) No tiene consecuencias penales directas, solo se valora como atenuante genérica de confesión.",
+            "d) La rebaja de la pena en uno o dos grados si se confiesan los hechos y se colabora en la investigación."
+          ],
+          "respuesta_correcta": "a) Se impondrá la pena inferior en uno o dos grados si el autor facilita la identificación de otros responsables o la aprehensión de los bienes.",
+          "cita": "LO 12/1995, Art. 3.4"
+        },
+        {
+          "pregunta": "En los delitos de contrabando cometidos por imprudencia grave, ¿cuál es la sanción?",
+          "opciones": [
+            "a) No son punibles penalmente, derivándose a la vía administrativa.",
+            "b) Se castigarán únicamente con pena de multa, sin privación de libertad.",
+            "c) Se impondrán las penas inferiores en un grado a las previstas para el delito doloso.",
+            "d) Se impondrá la pena de prisión de seis meses a dos años en todo caso."
+          ],
+          "respuesta_correcta": "d) Se impondrá la pena de prisión de seis meses a dos años en todo caso.",
+          "cita": "LO 12/1995 (El Art. 2 define acciones dolosas, la imprudencia se sanciona administrativamente vía Art. 11 y LGT supletoria)."
+        },
+        {
+          "pregunta": "¿Quién es competente para imponer sanciones por infracciones leves de contrabando?",
+          "opciones": [
+            "a) El Director del Departamento de Aduanas e Impuestos Especiales.",
+            "b) El Subdelegado del Gobierno en la provincia.",
+            "c) El Delegado Especial de la Agencia Tributaria.",
+            "d) El Administrador de la Aduana o el Jefe de la Dependencia de Aduanas e Impuestos Especiales."
+          ],
+          "respuesta_correcta": "d) El Administrador de la Aduana o el Jefe de la Dependencia de Aduanas e Impuestos Especiales.",
+          "cita": "RD 1649/1998, Art. 18 (Desarrollo de LO 12/1995)"
+        },
+        {
+          "pregunta": "¿Cuándo se considera consumado el delito de contrabando en la expedición comercial?",
+          "opciones": [
+            "a) Cuando las mercancías cruzan físicamente la frontera aduanera.",
+            "b) Cuando se presenta la declaración aduanera de importación o exportación con datos falsos.",
+            "c) Cuando las mercancías son puestas a disposición del consumidor final.",
+            "d) En el momento en que las mercancías salen de los almacenes del exportador."
+          ],
+          "respuesta_correcta": "b) Cuando se presenta la declaración aduanera de importación o exportación con datos falsos.",
+          "cita": "LO 12/1995, Art. 2.1 (Interpretación sobre conducción y ocultación)"
+        },
+        {
+          "pregunta": "¿Qué ocurre si el valor de los bienes no puede determinarse por las reglas del artículo 10?",
+          "opciones": [
+            "a) Se aplicará el valor que los bienes tengan en el mercado internacional de futuros.",
+            "b) Se considerará que el valor es el mínimo legal para constituir delito a efectos de garantía.",
+            "c) Se tomará el valor declarado por el presunto infractor en su primera manifestación.",
+            "d) Se estará a la tasación pericial que realice la Administración conforme a la Ley General Tributaria."
+          ],
+          "respuesta_correcta": "d) Se estará a la tasación pericial que realice la Administración conforme a la Ley General Tributaria.",
+          "cita": "LO 12/1995, Art. 10.2"
+        },
+        {
+          "pregunta": "Según el artículo 4 de la LO 12/1995, ¿quién es responsable civil del delito?",
+          "opciones": [
+            "a) Los autores, cómplices y encubridores responderán solidariamente entre sí y subsidiariamente con las personas jurídicas en cuyo nombre actuaron.",
+            "b) Exclusivamente los autores materiales del delito, sin que la responsabilidad se extienda a terceros.",
+            "c) La responsabilidad civil se determinará conforme a las reglas generales del Código Penal y, en su defecto, las de la Ley General Tributaria.",
+            "d) El Estado responderá subsidiariamente en caso de insolvencia de los autores si hubo fallo en el control aduanero."
+          ],
+          "respuesta_correcta": "b) Exclusivamente los autores materiales del delito, sin que la responsabilidad se extienda a terceros.",
+          "cita": "LO 12/1995, Art. 4"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'géneros prohibidos' a efectos de contrabando?",
+          "opciones": [
+            "a) Aquellos cuya importación, exportación, circulación, tenencia, comercio o producción esté prohibida expresamente por tratado, ley o reglamento por razones de sanidad, seguridad o moralidad.",
+            "b) Los bienes que carecen de marcado CE y no pueden ser comercializados en la Unión Europea.",
+            "c) Las mercancías sujetas a impuestos especiales que no llevan las precintas fiscales reglamentarias.",
+            "d) Únicamente las drogas tóxicas, estupefacientes y sustancias psicotrópicas catalogadas."
+          ],
+          "respuesta_correcta": "c) Las mercancías sujetas a impuestos especiales que no llevan las precintas fiscales reglamentarias.",
+          "cita": "LO 12/1995, Art. 1.5"
+        },
+        {
+          "pregunta": "¿Cuándo se produce la interrupción de la prescripción de la infracción administrativa?",
+          "opciones": [
+            "a) Únicamente con la notificación formal del acuerdo de inicio del expediente sancionador.",
+            "b) La prescripción administrativa no se interrumpe, solo se suspende en caso de proceso penal.",
+            "c) Con cualquier actuación administrativa realizada con conocimiento formal del interesado conducente a la regularización, sanción o comprobación.",
+            "d) Con la denuncia presentada por las Fuerzas y Cuerpos de Seguridad, aunque no se notifique al interesado."
+          ],
+          "respuesta_correcta": "d) Con la denuncia presentada por las Fuerzas y Cuerpos de Seguridad, aunque no se notifique al interesado.",
+          "cita": "LO 12/1995, Art. 14.2"
+        },
+        {
+          "pregunta": "¿Qué destino se da al tabaco intervenido en procedimientos de contrabando?",
+          "opciones": [
+            "a) Se reexportará al país de origen para su destrucción controlada.",
+            "b) Se destruirá siempre, salvo que la autoridad judicial disponga lo contrario para su análisis o prueba.",
+            "c) Se subastará para su venta en estancos autorizados si cumple la normativa sanitaria.",
+            "d) Se donará a instituciones benéficas o de investigación científica."
+          ],
+          "respuesta_correcta": "c) Se subastará para su venta en estancos autorizados si cumple la normativa sanitaria.",
+          "cita": "LO 12/1995, Art. 5.2"
+        },
+        {
+          "pregunta": "Si un buque realiza alijos clandestinos en aguas jurisdiccionales, ¿qué tipo de infracción comete si el valor es de 100.000 euros?",
+          "opciones": [
+            "a) Un delito de contrabando, ya que el alijo en mar territorial siempre es delito independientemente del valor.",
+            "b) Una infracción grave de contrabando.",
+            "c) Una infracción administrativa muy grave de contrabando, al no superar el umbral de 150.000 euros.",
+            "d) Un delito de desobediencia a la autoridad marítima."
+          ],
+          "respuesta_correcta": "a) Un delito de contrabando, ya que el alijo en mar territorial siempre es delito independientemente del valor.",
+          "cita": "LO 12/1995, Art. 2 y 11"
+        },
+        {
+          "pregunta": "¿Qué plazo de prescripción tienen las sanciones administrativas impuestas por faltas muy graves de contrabando?",
+          "opciones": [
+            "a) Prescriben a los tres años.",
+            "b) Prescriben a los cuatro años desde que la resolución sancionadora adquiera firmeza.",
+            "c) Prescriben a los cinco años.",
+            "d) Prescriben a los dos años."
+          ],
+          "respuesta_correcta": "d) Prescriben a los dos años.",
+          "cita": "LO 12/1995, Art. 15 (Remisión a LGT/Régimen General)"
+        },
+        {
+          "pregunta": "En el ámbito de la responsabilidad civil derivada del delito, ¿quién representa al Estado?",
+          "opciones": [
+            "a) El Abogado del Estado.",
+            "b) El Interventor General de la Administración del Estado.",
+            "c) El Ministerio Fiscal.",
+            "d) El Director de la Agencia Tributaria."
+          ],
+          "respuesta_correcta": "a) El Abogado del Estado.",
+          "cita": "LO 12/1995, Art. 4 bis"
+        },
+        {
+          "pregunta": "¿Cómo se valoran las mercancías de género estancado si no hay precio publicado (Art. 10)?",
+          "opciones": [
+            "a) Por el valor de mercado en la Unión Europea.",
+            "b) Por el precio de venta de productos similares de la misma marca y características.",
+            "c) Por el coste de producción estimado más un margen de beneficio del 20%.",
+            "d) Por la valoración que realice un perito judicial independiente."
+          ],
+          "respuesta_correcta": "b) Por el precio de venta de productos similares de la misma marca y características.",
+          "cita": "LO 12/1995, Art. 10"
+        },
+        {
+          "pregunta": "¿Qué constituye el cierre temporal de establecimientos en la vía administrativa (Art. 12)?",
+          "opciones": [
+            "a) Una sanción no pecuniaria que puede imponerse en casos de infracciones graves o muy graves.",
+            "b) Una medida cautelar que se adopta al inicio del expediente para asegurar pruebas.",
+            "c) No está contemplada como sanción administrativa, solo penal.",
+            "d) Una consecuencia accesoria automática de cualquier infracción de contrabando."
+          ],
+          "respuesta_correcta": "c) No está contemplada como sanción administrativa, solo penal.",
+          "cita": "LO 12/1995, Art. 12.3"
+        },
+        {
+          "pregunta": "En el caso de delitos conexos de contrabando, ¿quién es competente para instruir?",
+          "opciones": [
+            "a) El Juzgado de lo Penal del lugar de aprehensión exclusivamente.",
+            "b) La jurisdicción ordinaria o la Audiencia Nacional, según la gravedad y ámbito territorial.",
+            "c) Los tribunales económico-administrativos.",
+            "d) La jurisdicción militar si hay armas de guerra involucradas."
+          ],
+          "respuesta_correcta": "d) La jurisdicción militar si hay armas de guerra involucradas.",
+          "cita": "LO 12/1995, Disp. Adic. (Reglas procesales)"
+        },
+        {
+          "pregunta": "¿Qué ocurre si se archiva la causa penal por no ser los hechos constitutivos de delito?",
+          "opciones": [
+            "a) Se pasará el tanto de culpa a la Administración para que continúe el expediente sancionador administrativo si procede.",
+            "b) La Administración deberá indemnizar al interesado por el tiempo transcurrido.",
+            "c) Se archivará también la vía administrativa por el principio non bis in idem.",
+            "d) Se devolverán automáticamente los bienes intervenidos sin más trámite."
+          ],
+          "respuesta_correcta": "a) Se pasará el tanto de culpa a la Administración para que continúe el expediente sancionador administrativo si procede.",
+          "cita": "LO 12/1995, Disp. Adic. Primera"
+        },
+        {
+          "pregunta": "¿Es posible imponer la pena de multa y la de prisión simultáneamente en el delito de contrabando?",
+          "opciones": [
+            "a) No, el juez debe optar entre prisión o multa según la gravedad del hecho.",
+            "b) Sí, la pena de prisión y la multa son acumulativas en los tipos básicos y agravados.",
+            "c) Solo en caso de reincidencia se aplican ambas.",
+            "d) La multa solo se aplica si no se puede ejecutar la pena de prisión."
+          ],
+          "respuesta_correcta": "d) La multa solo se aplica si no se puede ejecutar la pena de prisión.",
+          "cita": "LO 12/1995, Art. 3"
+        },
+        {
+          "pregunta": "¿Qué tipo de decomiso se aplica a los vehículos utilizados para el contrabando?",
+          "opciones": [
+            "a) Solo se decomisan si han sido modificados estructuralmente para ocultar mercancía (dobles fondos).",
+            "b) Se decomisan temporalmente y se devuelven tras el pago de la fianza.",
+            "c) Serán decomisados salvo que pertenezcan a un tercero de buena fe que no haya tenido participación en el delito.",
+            "d) No se decomisan si son el medio de vida del infractor (taxi, camión)."
+          ],
+          "respuesta_correcta": "c) Serán decomisados salvo que pertenezcan a un tercero de buena fe que no haya tenido participación en el delito.",
+          "cita": "LO 12/1995, Art. 5"
+        },
+        {
+          "pregunta": "¿Qué responsabilidad tienen las personas jurídicas en el delito de contrabando?",
+          "opciones": [
+            "a) Solo responden civilmente, nunca penalmente.",
+            "b) Pueden ser responsables penalmente conforme al artículo 31 bis del Código Penal, imponiéndoseles penas de multa y otras accesorias.",
+            "c) Se disuelven automáticamente si sus administradores son condenados.",
+            "d) No tienen responsabilidad propia, responde el administrador subsidiariamente."
+          ],
+          "respuesta_correcta": "d) No tienen responsabilidad propia, responde el administrador subsidiariamente.",
+          "cita": "LO 12/1995, Art. 2.4 (Remisión CP)"
+        },
+        {
+          "pregunta": "Según la LO 12/1995, ¿qué se entiende por 'recinto aduanero'?",
+          "opciones": [
+            "a) La zona de seguridad de las fronteras terrestres con terceros países.",
+            "b) Cualquier lugar habilitado por la Administración aduanera para la realización de operaciones de control y despacho de mercancías.",
+            "c) Exclusivamente los puertos y aeropuertos internacionales.",
+            "d) Los depósitos francos y las zonas francas exclusivamente."
+          ],
+          "respuesta_correcta": "d) Los depósitos francos y las zonas francas exclusivamente.",
+          "cita": "LO 12/1995, Art. 1 (Definiciones)"
+        },
+        {
+          "pregunta": "Según el artículo 7 de la LO 12/1995, ¿cuándo pueden enajenarse anticipadamente los bienes intervenidos?",
+          "opciones": [
+            "a) Cuando la autoridad judicial estime que su conservación puede resultar peligrosa para la salud o seguridad pública, o cuando se deprecien por el transcurso del tiempo.",
+            "b) Cuando se trate de productos perecederos, o cuando su conservación implique gastos desproporcionados o riesgos para la seguridad, previa tasación y autorización judicial.",
+            "c) En cualquier momento del procedimiento si el propietario de los bienes renuncia expresamente a su devolución a cambio de una reducción de la fianza.",
+            "d) Únicamente cuando haya sentencia firme de comiso, procediéndose entonces a su subasta pública o destrucción según corresponda."
+          ],
+          "respuesta_correcta": "c) En cualquier momento del procedimiento si el propietario de los bienes renuncia expresamente a su devolución a cambio de una reducción de la fianza.",
+          "cita": "LO 12/1995, Art. 7"
+        },
+        {
+          "pregunta": "¿Qué destino pueden tener los bienes intervenidos según el artículo 8 de la LO 12/1995 antes de la sentencia firme?",
+          "opciones": [
+            "a) Pueden ser adscritos provisionalmente a las Fuerzas y Cuerpos de Seguridad encargadas de la represión del contrabando o al Departamento de Aduanas, para su utilización en la lucha contra estas actividades.",
+            "b) Deben permanecer obligatoriamente en los depósitos judiciales hasta la finalización del procedimiento, sin que puedan ser utilizados por la Administración.",
+            "c) Pueden ser cedidos temporalmente a organizaciones sin ánimo de lucro si se trata de vehículos de transporte o material informático.",
+            "d) Serán vendidos inmediatamente y el importe obtenido se ingresará en la Cuenta de Consignaciones del Juzgado a la espera de resolución."
+          ],
+          "respuesta_correcta": "d) Serán vendidos inmediatamente y el importe obtenido se ingresará en la Cuenta de Consignaciones del Juzgado a la espera de resolución.",
+          "cita": "LO 12/1995, Art. 8"
+        },
+        {
+          "pregunta": "¿Cuándo prescribe la acción para perseguir las infracciones administrativas de contrabando graves (Art. 14 LO 12/1995)?",
+          "opciones": [
+            "a) A los tres años desde su comisión.",
+            "b) A los cinco años desde su comisión.",
+            "c) A los cuatro años desde su comisión.",
+            "d) A los dos años desde su comisión."
+          ],
+          "respuesta_correcta": "d) A los dos años desde su comisión.",
+          "cita": "LO 12/1995, Art. 14.1.b (Redacción vigente)"
+        },
+        {
+          "pregunta": "¿Qué prevé el artículo 17 de la LO 12/1995 sobre la publicidad de las sanciones?",
+          "opciones": [
+            "a) Se publicarán en el tablón de edictos de la Agencia Tributaria las sanciones leves que no hayan podido ser notificadas personalmente al infractor.",
+            "b) La autoridad administrativa podrá acordar la publicación en el Boletín Oficial del Estado de las sanciones firmes impuestas por infracciones graves o muy graves.",
+            "c) Las sanciones impuestas por delitos de contrabando se publicarán en el Boletín Oficial del Estado una vez sean firmes en vía judicial.",
+            "d) Todas las sanciones administrativas, incluidas las leves, serán objeto de publicación trimestral en la sede electrónica de la Administración tributaria."
+          ],
+          "respuesta_correcta": "a) Se publicarán en el tablón de edictos de la Agencia Tributaria las sanciones leves que no hayan podido ser notificadas personalmente al infractor.",
+          "cita": "LO 12/1995, Art. 17"
+        },
+        {
+          "pregunta": "Según el artículo 4 del Código Aduanero de la Unión (CAU), ¿qué comprende el territorio aduanero de la Unión?",
+          "opciones": [
+            "a) El territorio de todos los Estados miembros, incluyendo Ceuta, Melilla y Heligoland, así como las aguas territoriales y el espacio aéreo.",
+            "b) Exclusivamente el territorio continental de los Estados miembros de la Unión Europea, excluyendo las islas y regiones ultraperiféricas.",
+            "c) El territorio de los Estados miembros, con las excepciones de territorios como las Islas Feroe o Groenlandia, pero incluyendo las Islas Canarias y los territorios franceses de ultramar excepto los PTU.",
+            "d) El territorio de los Estados miembros y cualquier otro territorio en el que se aplique la legislación aduanera de la Unión en virtud de un acuerdo internacional."
+          ],
+          "respuesta_correcta": "a) El territorio de todos los Estados miembros, incluyendo Ceuta, Melilla y Heligoland, así como las aguas territoriales y el espacio aéreo.",
+          "cita": "Reglamento (UE) 952/2013, Art. 4"
+        },
+        {
+          "pregunta": "¿Cómo define el CAU a la 'persona establecida en el territorio aduanero de la Unión' (Art. 5)?",
+          "opciones": [
+            "a) Cualquier persona física que tenga su residencia habitual en el territorio aduanero de la Unión o cualquier persona jurídica que tenga en él su sede estatutaria, su administración central o un establecimiento comercial permanente.",
+            "b) Únicamente las personas jurídicas que hayan sido constituidas conforme a la legislación de un Estado miembro y tengan su domicilio fiscal en la Unión.",
+            "c) Cualquier persona que realice operaciones de importación o exportación con una frecuencia superior a tres envíos por año natural.",
+            "d) Las personas físicas que posean la ciudadanía de la Unión Europea y residan en ella más de 183 días al año."
+          ],
+          "respuesta_correcta": "a) Cualquier persona física que tenga su residencia habitual en el territorio aduanero de la Unión o cualquier persona jurídica que tenga en él su sede estatutaria, su administración central o un establecimiento comercial permanente.",
+          "cita": "Reglamento (UE) 952/2013, Art. 5.31"
+        },
+        {
+          "pregunta": "¿Qué es el 'levante' de las mercancías según el artículo 5 del CAU?",
+          "opciones": [
+            "a) La autorización para retirar las mercancías del recinto aduanero previo pago de una fianza provisional.",
+            "b) El momento en que las mercancías cruzan la frontera exterior de la Unión y entran en el circuito comercial.",
+            "c) El acto por el que las autoridades aduaneras ponen las mercancías a disposición de los fines para los que han sido despachadas.",
+            "d) La venta en pública subasta de las mercancías abandonadas o decomisadas por la aduana."
+          ],
+          "respuesta_correcta": "b) El momento en que las mercancías cruzan la frontera exterior de la Unión y entran en el circuito comercial.",
+          "cita": "Reglamento (UE) 952/2013, Art. 5.26"
+        },
+        {
+          "pregunta": "¿Qué tipo de representación aduanera permite el artículo 18 del CAU?",
+          "opciones": [
+            "a) Representación directa, en la que el representante actúa en nombre y por cuenta de otra persona, o representación indirecta, en la que actúa en su propio nombre pero por cuenta de otra persona.",
+            "b) Solo se permite la representación indirecta para garantizar que el representante asuma la responsabilidad solidaria de la deuda aduanera.",
+            "c) Representación legal, ejercida por abogados, y representación voluntaria, ejercida por agentes de aduanas colegiados.",
+            "d) Únicamente representación directa, debiendo el representante actuar siempre en nombre y por cuenta del importador o exportador."
+          ],
+          "respuesta_correcta": "a) Representación directa, en la que el representante actúa en nombre y por cuenta de otra persona, o representación indirecta, en la que actúa en su propio nombre pero por cuenta de otra persona.",
+          "cita": "Reglamento (UE) 952/2013, Art. 18.1"
+        },
+        {
+          "pregunta": "¿Cuál es el plazo general para que las autoridades aduaneras tomen una decisión sobre una solicitud (Art. 22 CAU)?",
+          "opciones": [
+            "a) De forma inmediata, y en todo caso antes de que las mercancías abandonen el recinto aduanero.",
+            "b) A más tardar 120 días a partir de la fecha de aceptación de la solicitud, salvo que se establezca otra cosa.",
+            "c) En el plazo máximo de 30 días hábiles desde la presentación de la solicitud completa.",
+            "d) En un plazo de seis meses, prorrogable por otros tres meses si la complejidad del asunto lo requiere."
+          ],
+          "respuesta_correcta": "b) A más tardar 120 días a partir de la fecha de aceptación de la solicitud, salvo que se establezca otra cosa.",
+          "cita": "Reglamento (UE) 952/2013, Art. 22.3"
+        },
+        {
+          "pregunta": "¿En qué consiste el derecho a ser oído regulado en el artículo 22.6 del CAU?",
+          "opciones": [
+            "a) Antes de tomar una decisión que tenga consecuencias adversas para el solicitante, las autoridades aduaneras le comunicarán los motivos y le darán la oportunidad de expresar su punto de vista en un plazo determinado.",
+            "b) El solicitante tiene derecho a ser escuchado presencialmente por el administrador de la aduana antes de cualquier liquidación tributaria.",
+            "c) Las autoridades aduaneras deben consultar preceptivamente a la Cámara de Comercio antes de denegar una autorización de régimen aduanero.",
+            "d) Es el derecho a presentar recurso de alzada ante el tribunal económico-administrativo una vez dictada la resolución."
+          ],
+          "respuesta_correcta": "b) El solicitante tiene derecho a ser escuchado presencialmente por el administrador de la aduana antes de cualquier liquidación tributaria.",
+          "cita": "Reglamento (UE) 952/2013, Art. 22.6"
+        },
+        {
+          "pregunta": "¿Cuál es el plazo de validez de las decisiones relativas a informaciones arancelarias vinculantes (IAV) según el artículo 33 del CAU?",
+          "opciones": [
+            "a) Tendrán una validez indefinida mientras no cambie la normativa arancelaria aplicable.",
+            "b) Su validez es de cinco años, salvo que se produzca una modificación en la clasificación de la nomenclatura combinada.",
+            "c) Serán válidas por un año, debiendo renovarse anualmente mediante solicitud expresa.",
+            "d) Serán válidas por un periodo de tres años a partir de la fecha en que la decisión surta efecto."
+          ],
+          "respuesta_correcta": "c) Serán válidas por un año, debiendo renovarse anualmente mediante solicitud expresa.",
+          "cita": "Reglamento (UE) 952/2013, Art. 33.3"
+        },
+        {
+          "pregunta": "¿Qué criterios deben cumplirse para obtener el estatuto de Operador Económico Autorizado (OEA) según el artículo 39 del CAU?",
+          "opciones": [
+            "a) Historial de cumplimiento de requisitos aduaneros y fiscales, sistema adecuado de gestión de registros, solvencia financiera y, según el tipo de autorización, competencia profesional o estándares de seguridad.",
+            "b) Ser una gran empresa multinacional con filiales en al menos tres Estados miembros y un volumen de facturación superior a 10 millones de euros.",
+            "c) Tener contratado un seguro de responsabilidad civil ilimitada y no haber sido sancionado nunca por infracciones tributarias.",
+            "d) Disponer de almacenes propios en zona franca y utilizar exclusivamente procedimientos simplificados de despacho."
+          ],
+          "respuesta_correcta": "b) Ser una gran empresa multinacional con filiales en al menos tres Estados miembros y un volumen de facturación superior a 10 millones de euros.",
+          "cita": "Reglamento (UE) 952/2013, Art. 39"
+        },
+        {
+          "pregunta": "¿Cuándo nace la deuda aduanera de importación según el artículo 77 del CAU?",
+          "opciones": [
+            "a) Cuando las mercancías llegan físicamente al primer punto de entrada en el territorio aduanero de la Unión.",
+            "b) En el momento de la admisión de la declaración en aduana de despacho a libre práctica de mercancías no pertenecientes a la Unión.",
+            "c) En el momento en que se descarga la mercancía del medio de transporte en el puerto o aeropuerto de destino.",
+            "d) Cuando el importador realiza el pago de los derechos arancelarios en la entidad bancaria colaboradora."
+          ],
+          "respuesta_correcta": "a) Cuando las mercancías llegan físicamente al primer punto de entrada en el territorio aduanero de la Unión.",
+          "cita": "Reglamento (UE) 952/2013, Art. 77.1"
+        },
+        {
+          "pregunta": "¿Es obligatorio constituir una garantía para cubrir la deuda aduanera potencial o existente (Art. 89 CAU)?",
+          "opciones": [
+            "a) No, la constitución de garantía es potestativa de la autoridad aduanera, que la exigirá solo en casos de riesgo elevado.",
+            "b) Solo es obligatoria para las mercancías sujetas a impuestos especiales, siendo voluntaria para el resto de productos.",
+            "c) Es obligatoria únicamente para los operadores que no tengan el estatuto de OEA.",
+            "d) Sí, salvo disposición en contrario, esta garantía será obligatoria para cubrir el importe de los derechos de importación o exportación correspondientes a la deuda aduanera."
+          ],
+          "respuesta_correcta": "c) Es obligatoria únicamente para los operadores que no tengan el estatuto de OEA.",
+          "cita": "Reglamento (UE) 952/2013, Art. 89"
+        },
+        {
+          "pregunta": "¿Qué es la declaración sumaria de entrada (Art. 127 CAU)?",
+          "opciones": [
+            "a) La declaración que debe presentarse en la aduana de primera entrada antes de la llegada de las mercancías al territorio aduanero de la Unión, con los datos necesarios para el análisis de riesgos.",
+            "b) El documento que resume todas las operaciones de importación realizadas por un operador durante un mes natural.",
+            "c) La lista de pasajeros y equipajes que presentan las compañías aéreas a la llegada del vuelo.",
+            "d) La declaración final de impuestos que se presenta una vez despachadas las mercancías a libre práctica."
+          ],
+          "respuesta_correcta": "b) El documento que resume todas las operaciones de importación realizadas por un operador durante un mes natural.",
+          "cita": "Reglamento (UE) 952/2013, Art. 127"
+        },
+        {
+          "pregunta": "¿Qué obligación impone el artículo 139 del CAU respecto a la presentación de mercancías?",
+          "opciones": [
+            "a) Deben ser descargadas y almacenadas en un depósito temporal antes de cualquier comunicación a la autoridad aduanera.",
+            "b) Solo es necesario presentar las mercancías peligrosas o sujetas a controles sanitarios específicos.",
+            "c) Las mercancías introducidas en el territorio aduanero de la Unión serán presentadas en aduana inmediatamente a su llegada a la aduana designada.",
+            "d) Las mercancías deben ser presentadas físicamente por el transportista en las oficinas de la Agencia Tributaria en un plazo de 48 horas."
+          ],
+          "respuesta_correcta": "c) Las mercancías introducidas en el territorio aduanero de la Unión serán presentadas en aduana inmediatamente a su llegada a la aduana designada.",
+          "cita": "Reglamento (UE) 952/2013, Art. 139"
+        },
+        {
+          "pregunta": "¿Cuál es el plazo máximo de permanencia de las mercancías en depósito temporal (Art. 149 CAU)?",
+          "opciones": [
+            "a) 45 días para el tráfico marítimo y 20 para el resto.",
+            "b) 90 días.",
+            "c) 30 días naturales.",
+            "d) 60 días prorrogables por otros 30."
+          ],
+          "respuesta_correcta": "d) 60 días prorrogables por otros 30.",
+          "cita": "Reglamento (UE) 952/2013, Art. 149"
+        },
+        {
+          "pregunta": "¿Qué presunción establece el artículo 153 del CAU sobre el estatuto aduanero?",
+          "opciones": [
+            "a) Se presumirá que todas las mercancías son no pertenecientes a la Unión hasta que se demuestre el pago de los aranceles.",
+            "b) Las mercancías procedentes de zonas francas se presumen siempre mercancías de la Unión.",
+            "c) Se presumirá que todas las mercancías que se encuentren en el territorio aduanero de la Unión tienen el estatuto de mercancías de la Unión, salvo que se determine lo contrario.",
+            "d) No existe presunción alguna, el estatuto debe acreditarse documentalmente en cada control policial o aduanero."
+          ],
+          "respuesta_correcta": "b) Las mercancías procedentes de zonas francas se presumen siempre mercancías de la Unión.",
+          "cita": "Reglamento (UE) 952/2013, Art. 153.1"
+        },
+        {
+          "pregunta": "¿De qué formas puede hacerse una declaración en aduana según el artículo 158 del CAU?",
+          "opciones": [
+            "a) Exclusivamente mediante técnicas de tratamiento electrónico de datos, habiendo sido suprimida la declaración verbal o en papel.",
+            "b) Siempre por escrito en formulario oficial (DUA) firmado por el declarante o su representante.",
+            "c) Verbalmente para viajeros y mediante sistema informático para operadores comerciales, sin otras excepciones.",
+            "d) Mediante técnicas de tratamiento electrónico de datos, verbalmente, mediante cualquier otro acto o en papel en casos específicos."
+          ],
+          "respuesta_correcta": "c) Verbalmente para viajeros y mediante sistema informático para operadores comerciales, sin otras excepciones.",
+          "cita": "Reglamento (UE) 952/2013, Art. 158"
+        },
+        {
+          "pregunta": "¿Qué es la 'declaración simplificada' (Art. 166 CAU)?",
+          "opciones": [
+            "a) La posibilidad de que las autoridades aduaneras acepten una declaración que omita algunos de los datos o documentos preceptivos, siempre que se presente posteriormente una declaración complementaria.",
+            "b) Un formulario reducido para viajeros que transporten mercancías sin carácter comercial por valor inferior a 1.000 euros.",
+            "c) La exención total de declarar mercancías cuyo valor en aduana sea insignificante.",
+            "d) Un procedimiento especial para el comercio electrónico que permite declarar mensualmente todas las operaciones."
+          ],
+          "respuesta_correcta": "d) Un procedimiento especial para el comercio electrónico que permite declarar mensualmente todas las operaciones.",
+          "cita": "Reglamento (UE) 952/2013, Art. 166"
+        },
+        {
+          "pregunta": "Según el artículo 194 del CAU, ¿cuándo se concede el levante de las mercancías?",
+          "opciones": [
+            "a) En el momento en que el importador presenta la declaración en aduana, independientemente de la comprobación posterior.",
+            "b) Una vez que las mercancías han sido inspeccionadas físicamente y se ha verificado su conformidad con la normativa de seguridad industrial.",
+            "c) Automáticamente a las 48 horas de la llegada de la mercancía si la aduana no ha ordenado su retención.",
+            "d) Cuando se cumplan las condiciones para su inclusión en el régimen solicitado y se hayan pagado o garantizado los derechos de importación correspondientes."
+          ],
+          "respuesta_correcta": "a) En el momento en que el importador presenta la declaración en aduana, independientemente de la comprobación posterior.",
+          "cita": "Reglamento (UE) 952/2013, Art. 194"
+        },
+        {
+          "pregunta": "¿Qué efecto tiene el despacho a libre práctica (Art. 201 CAU)?",
+          "opciones": [
+            "a) Permite la exportación definitiva de mercancías comunitarias a terceros países.",
+            "b) Autoriza el almacenamiento indefinido de mercancías extranjeras sin pago de impuestos.",
+            "c) Confiere el estatuto aduanero de mercancía de la Unión a una mercancía no perteneciente a la Unión.",
+            "d) Habilita el tránsito de mercancías por el territorio de la Unión sin cambiar su estatuto de no pertenecientes a la Unión."
+          ],
+          "respuesta_correcta": "c) Confiere el estatuto aduanero de mercancía de la Unión a una mercancía no perteneciente a la Unión.",
+          "cita": "Reglamento (UE) 952/2013, Art. 201"
+        },
+        {
+          "pregunta": "¿Qué condición deben cumplir las 'mercancías de retorno' para beneficiarse de la exención de derechos (Art. 203 CAU)?",
+          "opciones": [
+            "a) Que las mercancías de la Unión exportadas sean reimportadas en el plazo de tres años y en el mismo estado en que fueron exportadas.",
+            "b) Que sean reimportadas en el plazo de un año y hayan sido sometidas a operaciones de reparación o mejora en el extranjero.",
+            "c) Que el reimportador sea una persona distinta del exportador original y pague el IVA correspondiente.",
+            "d) Que las mercancías sean productos agrícolas perecederos reimportados en el plazo de seis meses."
+          ],
+          "respuesta_correcta": "b) Que sean reimportadas en el plazo de un año y hayan sido sometidas a operaciones de reparación o mejora en el extranjero.",
+          "cita": "Reglamento (UE) 952/2013, Art. 203"
+        },
+        {
+          "pregunta": "¿Qué categorías de regímenes especiales establece el artículo 210 del CAU?",
+          "opciones": [
+            "a) Importación definitiva, exportación definitiva y tránsito comunitario.",
+            "b) Depósito fiscal, depósito franco y depósito distinto del aduanero.",
+            "c) Tránsito (externo e interno), depósito (aduanero y zonas francas), destinos especiales (importación temporal y destino final) y perfeccionamiento (activo y pasivo).",
+            "d) Régimen de viajeros, régimen de envíos postales y régimen de comercio electrónico."
+          ],
+          "respuesta_correcta": "c) Tránsito (externo e interno), depósito (aduanero y zonas francas), destinos especiales (importación temporal y destino final) y perfeccionamiento (activo y pasivo).",
+          "cita": "Reglamento (UE) 952/2013, Art. 210"
+        },
+        {
+          "pregunta": "¿En qué consiste el régimen de tránsito externo (Art. 226 CAU)?",
+          "opciones": [
+            "a) Permite el transporte de mercancías de la Unión de un Estado miembro a otro pasando por un tercer país.",
+            "b) Permite la circulación de mercancías no pertenecientes a la Unión de un punto a otro del territorio aduanero de la Unión sin estar sujetas a derechos de importación.",
+            "c) Es el régimen aplicable a las mercancías que salen del territorio aduanero con destino a la exportación.",
+            "d) Regula el movimiento de mercancías entre dos zonas francas situadas en el mismo Estado miembro."
+          ],
+          "respuesta_correcta": "a) Permite el transporte de mercancías de la Unión de un Estado miembro a otro pasando por un tercer país.",
+          "cita": "Reglamento (UE) 952/2013, Art. 226"
+        },
+        {
+          "pregunta": "¿Qué caracteriza al régimen de depósito aduanero (Art. 240 CAU)?",
+          "opciones": [
+            "a) Es un régimen que obliga a pagar los derechos arancelarios antes de introducir las mercancías en el almacén.",
+            "b) Solo se permite para mercancías peligrosas o que requieran condiciones especiales de conservación.",
+            "c) Permite el almacenamiento de mercancías no pertenecientes a la Unión bajo vigilancia aduanera en las instalaciones autorizadas a tal efecto.",
+            "d) Las mercancías almacenadas adquieren automáticamente el estatuto de mercancías de la Unión tras 90 días de depósito."
+          ],
+          "respuesta_correcta": "d) Las mercancías almacenadas adquieren automáticamente el estatuto de mercancías de la Unión tras 90 días de depósito.",
+          "cita": "Reglamento (UE) 952/2013, Art. 240"
+        },
+        {
+          "pregunta": "¿Qué consideración tienen las zonas francas según el artículo 243 del CAU?",
+          "opciones": [
+            "a) Son partes del territorio aduanero de la Unión designadas por los Estados miembros, donde las mercancías no pertenecientes a la Unión se consideran, a efectos de derechos de importación, como si no estuvieran en el territorio aduanero.",
+            "b) Son territorios extraterritoriales donde no se aplica ninguna legislación de la Unión Europea.",
+            "c) Son áreas reservadas exclusivamente para la venta de productos libres de impuestos a viajeros internacionales (Duty Free).",
+            "d) Son recintos portuarios donde la autoridad aduanera no tiene competencia de control."
+          ],
+          "respuesta_correcta": "c) Son áreas reservadas exclusivamente para la venta de productos libres de impuestos a viajeros internacionales (Duty Free).",
+          "cita": "Reglamento (UE) 952/2013, Art. 243"
+        },
+        {
+          "pregunta": "¿Cuál es la finalidad del régimen de importación temporal (Art. 250 CAU)?",
+          "opciones": [
+            "a) Autorizar la importación de mercancías para su consumo inmediato con un aplazamiento de pago de 30 días.",
+            "b) Permitir el uso en el territorio aduanero de mercancías no pertenecientes a la Unión destinadas a la reexportación, con exención total o parcial de derechos de importación.",
+            "c) Facilitar la entrada de muestras comerciales sin valor para su destrucción posterior.",
+            "d) Permitir la entrada de bienes personales de viajeros para su residencia definitiva en la Unión."
+          ],
+          "respuesta_correcta": "c) Facilitar la entrada de muestras comerciales sin valor para su destrucción posterior.",
+          "cita": "Reglamento (UE) 952/2013, Art. 250"
+        },
+        {
+          "pregunta": "¿En qué consiste el régimen de perfeccionamiento activo (Art. 256 CAU)?",
+          "opciones": [
+            "a) Permite exportar temporalmente mercancías de la Unión para someterlas a operaciones de transformación fuera del territorio aduanero.",
+            "b) Permite que mercancías no pertenecientes a la Unión sean utilizadas en el territorio aduanero en una o más operaciones de transformación sin estar sujetas a derechos de importación.",
+            "c) Es el régimen aplicable a la reparación gratuita de mercancías importadas defectuosas.",
+            "d) Consiste en la mezcla de mercancías de la Unión con mercancías no pertenecientes a la Unión para obtener un producto final de origen mixto."
+          ],
+          "respuesta_correcta": "c) Es el régimen aplicable a la reparación gratuita de mercancías importadas defectuosas.",
+          "cita": "Reglamento (UE) 952/2013, Art. 256"
+        },
+        {
+          "pregunta": "¿Qué permite el régimen de perfeccionamiento pasivo (Art. 259 CAU)?",
+          "opciones": [
+            "a) Importar materias primas extranjeras para fabricar productos destinados exclusivamente a la exportación.",
+            "b) Realizar operaciones de montaje de piezas importadas dentro de una zona franca.",
+            "c) Exportar temporalmente mercancías de la Unión fuera del territorio aduanero para someterlas a operaciones de transformación y despachar a libre práctica los productos transformados con exención total o parcial de derechos.",
+            "d) Enviar mercancías defectuosas al proveedor extranjero para su sustitución sin coste."
+          ],
+          "respuesta_correcta": "b) Realizar operaciones de montaje de piezas importadas dentro de una zona franca.",
+          "cita": "Reglamento (UE) 952/2013, Art. 259"
+        },
+        {
+          "pregunta": "Según el artículo 10 de la LO 12/1995, ¿cómo se valoran los géneros prohibidos no estancados?",
+          "opciones": [
+            "a) Por el valor de mercancías lícitas similares en el mercado legal.",
+            "b) Se les asigna un valor simbólico de 1 euro a efectos de diligencias.",
+            "c) Por el coste de su destrucción y gestión de residuos.",
+            "d) Por el precio que tendrían en el mercado ilícito según estimación de la Oficina Central Nacional de Estupefacientes o el organismo competente."
+          ],
+          "respuesta_correcta": "a) Por el valor de mercancías lícitas similares en el mercado legal.",
+          "cita": "LO 12/1995, Art. 10"
+        },
+        {
+          "pregunta": "¿Qué consecuencia tiene la autodenuncia o confesión en el ámbito administrativo de contrabando?",
+          "opciones": [
+            "a) Exime totalmente de responsabilidad y sanción.",
+            "b) No exime de responsabilidad, pero puede ser considerada como circunstancia atenuante en la graduación de la sanción.",
+            "c) Convierte la infracción muy grave en leve automáticamente.",
+            "d) Permite la devolución de los bienes decomisados al infractor."
+          ],
+          "respuesta_correcta": "b) No exime de responsabilidad, pero puede ser considerada como circunstancia atenuante en la graduación de la sanción.",
+          "cita": "LO 12/1995, Art. 12 (Criterios generales sancionadores)"
+        },
+        {
+          "pregunta": "¿Cuál es la sanción mínima para una infracción grave de contrabando?",
+          "opciones": [
+            "a) Multa del 100% al 150% del valor de los bienes.",
+            "b) Multa del 250% al 350% del valor de los bienes.",
+            "c) Multa del 150% al 250% del valor de los bienes, con un mínimo de 600 euros.",
+            "d) Multa fija de 3.000 euros."
+          ],
+          "respuesta_correcta": "a) Multa del 100% al 150% del valor de los bienes.",
+          "cita": "LO 12/1995, Art. 11 (y su desarrollo en RD 1649/1998, escala de sanciones graves)"
+        },
+        {
+          "pregunta": "¿Qué implica la 'ocultación' en el delito de contrabando (Art. 2)?",
+          "opciones": [
+            "a) Sustraer las mercancías a la vigilancia o control de la Administración aduanera mediante su paso por lugares no habilitados o escondiéndolas.",
+            "b) No declarar el valor real de la mercancía en la factura comercial para pagar menos impuestos.",
+            "c) Guardar las mercancías en un almacén privado después de su despacho a libre práctica.",
+            "d) Utilizar un embalaje opaco que impida ver el contenido a simple vista."
+          ],
+          "respuesta_correcta": "c) Guardar las mercancías en un almacén privado después de su despacho a libre práctica.",
+          "cita": "LO 12/1995, Art. 2.1.a"
+        },
+        {
+          "pregunta": "¿Qué ocurre si en un mismo hecho concurren una infracción de contrabando y otra tributaria general?",
+          "opciones": [
+            "a) Prevalece el régimen sancionador de contrabando, absorbiendo la infracción tributaria.",
+            "b) Se imponen ambas sanciones por ser bienes jurídicos distintos.",
+            "c) Se aplica la sanción tributaria general por ser ley especial.",
+            "d) El infractor puede elegir qué sanción pagar."
+          ],
+          "respuesta_correcta": "c) Se aplica la sanción tributaria general por ser ley especial.",
+          "cita": "LO 12/1995, Disp. Adic. (Principio de especialidad)"
+        },
+        {
+          "pregunta": "¿Qué sucede con las embarcaciones utilizadas en el contrabando que no sean decomisadas?",
+          "opciones": [
+            "a) Pueden ser intervenidas cautelarmente hasta que se garantice el pago de la posible sanción pecuniaria.",
+            "b) Se devuelven inmediatamente a su propietario sin cargos.",
+            "c) Quedan precintadas en puerto indefinidamente.",
+            "d) Pasan a ser propiedad de la Armada Española."
+          ],
+          "respuesta_correcta": "a) Pueden ser intervenidas cautelarmente hasta que se garantice el pago de la posible sanción pecuniaria.",
+          "cita": "LO 12/1995, Art. 6"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'conducción' en el contrabando?",
+          "opciones": [
+            "a) La conducción de vehículos a motor bajo los efectos del alcohol transportando tabaco.",
+            "b) El transporte de mercancías por el territorio nacional o sus aguas jurisdiccionales sin cumplir los requisitos legales de circulación.",
+            "c) La gestión administrativa del despacho de aduanas por un representante.",
+            "d) El pilotaje de aeronaves comerciales en rutas internacionales."
+          ],
+          "respuesta_correcta": "c) La gestión administrativa del despacho de aduanas por un representante.",
+          "cita": "LO 12/1995, Art. 2.1"
+        },
+        {
+          "pregunta": "¿Cuándo se considera 'comercio' de mercancías de contrabando?",
+          "opciones": [
+            "a) La compra de un cartón de tabaco para consumo propio a un amigo.",
+            "b) La tenencia con fines comerciales, la oferta, venta o distribución de mercancías que hayan sido objeto de contrabando previo.",
+            "c) El intercambio de bienes entre particulares sin ánimo de lucro.",
+            "d) La venta de productos legales en un establecimiento autorizado."
+          ],
+          "respuesta_correcta": "c) El intercambio de bienes entre particulares sin ánimo de lucro.",
+          "cita": "LO 12/1995, Art. 2.1"
+        },
+        {
+          "pregunta": "Según el artículo 16 del CAU, ¿qué obligación tienen las personas que intervienen en el cumplimiento de formalidades aduaneras?",
+          "opciones": [
+            "a) Pagar una tasa administrativa por cada consulta realizada a la aduana.",
+            "b) Estar afiliados a una asociación profesional de transitarios.",
+            "c) Proporcionar toda la información y documentos necesarios y garantizar la exactitud y autenticidad de los mismos.",
+            "d) Disponer de un título universitario en comercio internacional."
+          ],
+          "respuesta_correcta": "c) Proporcionar toda la información y documentos necesarios y garantizar la exactitud y autenticidad de los mismos.",
+          "cita": "Reglamento (UE) 952/2013, Art. 15 (Información a las autoridades)"
+        },
+        {
+          "pregunta": "¿Qué plazo tiene el deudor para pagar la deuda aduanera una vez notificada (Art. 108 CAU)?",
+          "opciones": [
+            "a) Un plazo de 30 días naturales improrrogables.",
+            "b) Un plazo de 3 meses para permitir la obtención de liquidez.",
+            "c) Debe pagarse en el momento de la notificación, sin plazo alguno.",
+            "d) Un plazo que no exceda de 10 días, salvo concesión de facilidades de pago."
+          ],
+          "respuesta_correcta": "b) Un plazo de 3 meses para permitir la obtención de liquidez.",
+          "cita": "Reglamento (UE) 952/2013, Art. 108.1"
+        },
+        {
+          "pregunta": "Según el artículo 1 del RD 1649/1998, ¿a qué ámbito se aplica este reglamento?",
+          "opciones": [
+            "a) A las infracciones administrativas de contrabando tipificadas en el Título II de la Ley Orgánica 12/1995, de 12 de diciembre, de Represión del Contrabando.",
+            "b) A los delitos de contrabando cuando la autoridad judicial decida remitir las actuaciones a la vía administrativa por falta de relevancia penal.",
+            "c) A todas las infracciones aduaneras y tributarias relacionadas con el comercio exterior, incluidas las reguladas en la Ley General Tributaria.",
+            "d) Exclusivamente a las infracciones cometidas en recintos aduaneros habilitados, quedando excluidas las cometidas en el resto del territorio nacional."
+          ],
+          "respuesta_correcta": "d) Exclusivamente a las infracciones cometidas en recintos aduaneros habilitados, quedando excluidas las cometidas en el resto del territorio nacional.",
+          "cita": "RD 1649/1998, Art. 1"
+        },
+        {
+          "pregunta": "¿Qué criterio de graduación se establece en el artículo 5 respecto a la reiteración?",
+          "opciones": [
+            "a) Se apreciará reiteración cuando el sujeto haya sido sancionado por cualquier infracción tributaria en los cuatro años anteriores a la comisión de la nueva infracción.",
+            "b) Se apreciará reiteración cuando el sujeto infractor haya sido sancionado por resolución firme en vía administrativa por la comisión de otra infracción de contrabando de la misma naturaleza en el término de dos años.",
+            "c) La reiteración se considera una circunstancia agravante muy cualificada que duplica automáticamente el importe de la sanción mínima.",
+            "d) Solo se apreciará reiteración si la infracción anterior fue calificada como muy grave y la sanción impuesta superó los 60.000 euros."
+          ],
+          "respuesta_correcta": "a) Se apreciará reiteración cuando el sujeto haya sido sancionado por cualquier infracción tributaria en los cuatro años anteriores a la comisión de la nueva infracción.",
+          "cita": "RD 1649/1998, Art. 5 (y remisión a LO 12/95)"
+        },
+        {
+          "pregunta": "¿Cómo se gradúa la sanción cuando existe resistencia, negativa u obstrucción a la acción investigadora (Art. 6 RD 1649/1998)?",
+          "opciones": [
+            "a) Se incrementará el porcentaje de la multa aplicable en un 25 por 100 si la resistencia es grave, y en un 10 por 100 si es leve.",
+            "b) Se considerará infracción muy grave automáticamente, aplicándose la sanción máxima prevista en la ley.",
+            "c) Se incrementará el importe de la multa en función de la gravedad de la conducta, pudiendo llegar hasta el doble de la sanción base.",
+            "d) Se sancionará como infracción independiente de desobediencia a la autoridad, acumulándose a la sanción por contrabando."
+          ],
+          "respuesta_correcta": "d) Se sancionará como infracción independiente de desobediencia a la autoridad, acumulándose a la sanción por contrabando.",
+          "cita": "RD 1649/1998, Art. 6 (Nota: La redacción actual remite a criterios generales de LGT o LO 12/95, pero el RD detalla la graduación específica)."
+        },
+        {
+          "pregunta": "Según el artículo 8 del RD 1649/1998, ¿cómo se aplica la sanción de cierre temporal de establecimientos?",
+          "opciones": [
+            "a) El cierre temporal es obligatorio en todas las infracciones graves o muy graves, con una duración mínima de tres meses.",
+            "b) Se podrá imponer el cierre temporal de establecimientos de los que sean titulares los infractores, cuando la infracción se haya cometido en los mismos o con ocasión de la actividad que en ellos se ejerza.",
+            "c) Solo se puede acordar el cierre si el establecimiento carece de licencia de apertura o incumple la normativa de seguridad.",
+            "d) El cierre temporal no puede exceder de seis meses en ningún caso, salvo reincidencia en el mismo año natural."
+          ],
+          "respuesta_correcta": "b) Se podrá imponer el cierre temporal de establecimientos de los que sean titulares los infractores, cuando la infracción se haya cometido en los mismos o con ocasión de la actividad que en ellos se ejerza.",
+          "cita": "RD 1649/1998, Art. 8"
+        },
+        {
+          "pregunta": "¿Quién es el órgano competente para iniciar el procedimiento sancionador por contrabando (Art. 19 RD 1649/1998)?",
+          "opciones": [
+            "a) El Director del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria.",
+            "b) El Delegado del Gobierno en la Comunidad Autónoma donde se haya producido la aprehensión de los bienes.",
+            "c) El Jefe de la Dependencia de Aduanas e Impuestos Especiales o el Administrador de la Aduana en cuyo ámbito territorial se hayan descubierto los hechos.",
+            "d) Las Fuerzas y Cuerpos de Seguridad del Estado que hayan realizado la intervención, mediante el acta de denuncia."
+          ],
+          "respuesta_correcta": "b) El Delegado del Gobierno en la Comunidad Autónoma donde se haya producido la aprehensión de los bienes.",
+          "cita": "RD 1649/1998, Art. 19"
+        },
+        {
+          "pregunta": "¿Qué plazo se concede al interesado para formular alegaciones en el procedimiento sancionador (Art. 22 RD 1649/1998)?",
+          "opciones": [
+            "a) Un plazo de diez días hábiles desde la notificación del acuerdo de inicio del expediente.",
+            "b) Un plazo de quince días, contados a partir del siguiente al de la notificación de la propuesta de resolución.",
+            "c) Un plazo de un mes para aportar las pruebas que considere convenientes a su derecho.",
+            "d) Un plazo improrrogable de veinte días naturales desde la puesta de manifiesto del expediente."
+          ],
+          "respuesta_correcta": "b) Un plazo de quince días, contados a partir del siguiente al de la notificación de la propuesta de resolución.",
+          "cita": "RD 1649/1998, Art. 22"
+        },
+        {
+          "pregunta": "¿Cuándo se produce la caducidad del procedimiento sancionador por contrabando (Art. 24 RD 1649/1998)?",
+          "opciones": [
+            "a) Si no se ha dictado y notificado resolución expresa en el plazo de seis meses desde la iniciación del procedimiento.",
+            "b) Si transcurre un año desde la fecha del acuerdo de inicio sin que se haya notificado la resolución.",
+            "c) A los tres meses de la paralización del expediente por causa imputable a la Administración.",
+            "d) El procedimiento de contrabando no caduca, solo prescribe la infracción."
+          ],
+          "respuesta_correcta": "b) Si transcurre un año desde la fecha del acuerdo de inicio sin que se haya notificado la resolución.",
+          "cita": "RD 1649/1998, Art. 24 (Plazo general procedimiento sancionador tributario/contrabando)"
+        },
+        {
+          "pregunta": "Respecto a la venta de bienes perecederos intervenidos (Art. 30 RD 1649/1998), ¿quién la acuerda?",
+          "opciones": [
+            "a) El juez de instrucción competente, aunque se trate de una infracción administrativa.",
+            "b) El depositario de los bienes, bajo su responsabilidad, si observa riesgo inminente de pérdida.",
+            "c) El Delegado de Hacienda de la provincia donde se encuentren depositados.",
+            "d) El órgano competente para iniciar el procedimiento sancionador, previa valoración de los bienes y justificación de la necesidad."
+          ],
+          "respuesta_correcta": "b) El depositario de los bienes, bajo su responsabilidad, si observa riesgo inminente de pérdida.",
+          "cita": "RD 1649/1998, Art. 30"
+        },
+        {
+          "pregunta": "¿Qué destino se da al importe obtenido de la venta anticipada de bienes intervenidos (Art. 30 RD 1649/1998)?",
+          "opciones": [
+            "a) Se ingresará en la Caja General de Depósitos a disposición del órgano competente para resolver, hasta la finalización del expediente.",
+            "b) Se ingresará directamente en el Tesoro Público como anticipo de la sanción pecuniaria que pudiera imponerse.",
+            "c) Se entregará al presunto infractor previa constitución de aval bancario por el mismo importe.",
+            "d) Se destinará a cubrir los gastos de almacenamiento y custodia generados hasta el momento de la venta."
+          ],
+          "respuesta_correcta": "d) Se destinará a cubrir los gastos de almacenamiento y custodia generados hasta el momento de la venta.",
+          "cita": "RD 1649/1998, Art. 30"
+        },
+        {
+          "pregunta": "¿Qué sucede si la resolución del expediente declara la inexistencia de infracción respecto a bienes vendidos anticipadamente?",
+          "opciones": [
+            "a) Se indemnizará al interesado por el valor de mercado de los bienes en el momento de la resolución, aunque sea superior al precio de venta.",
+            "b) Se devolverá al interesado el importe obtenido en la venta más los intereses legales correspondientes desde la fecha del depósito.",
+            "c) Se le devolverá únicamente el importe líquido obtenido en la subasta, descontando los gastos de gestión.",
+            "d) La Administración deberá adquirir bienes de igual naturaleza y calidad para entregárselos al interesado."
+          ],
+          "respuesta_correcta": "c) Se le devolverá únicamente el importe líquido obtenido en la subasta, descontando los gastos de gestión.",
+          "cita": "RD 1649/1998, Art. 30"
+        },
+        {
+          "pregunta": "¿Cómo se valoran los medios de transporte intervenidos si no hay facturas (Art. 15 RD 1649/1998)?",
+          "opciones": [
+            "a) Por el valor declarado en la póliza de seguro obligatorio del vehículo.",
+            "b) Por el precio de adquisición original del vehículo, sin aplicar depreciación por uso o antigüedad.",
+            "c) Por el valor de mercado que tengan en el momento de la intervención, pudiendo utilizarse las tablas de valoración de vehículos aprobadas por el Ministerio de Hacienda.",
+            "d) Se considerará un valor estimativo de 6.000 euros para turismos y 12.000 euros para camiones."
+          ],
+          "respuesta_correcta": "a) Por el valor declarado en la póliza de seguro obligatorio del vehículo.",
+          "cita": "RD 1649/1998, Art. 15"
+        },
+        {
+          "pregunta": "¿Quién puede acordar la destrucción de géneros prohibidos intervenidos antes de la resolución (Art. 31 RD 1649/1998)?",
+          "opciones": [
+            "a) El Ministerio de Sanidad y Consumo, previo informe vinculante.",
+            "b) Las Fuerzas y Cuerpos de Seguridad que realizaron la aprehensión, levantando acta al efecto.",
+            "c) El Juez de lo Penal, incluso si se trata de un procedimiento administrativo.",
+            "d) El órgano competente para la iniciación, cuando su tenencia sea ilícita o supongan un riesgo para la salud o seguridad."
+          ],
+          "respuesta_correcta": "b) Las Fuerzas y Cuerpos de Seguridad que realizaron la aprehensión, levantando acta al efecto.",
+          "cita": "RD 1649/1998, Art. 31"
+        },
+        {
+          "pregunta": "¿Qué ocurre con las mercancías abandonadas en el procedimiento sancionador?",
+          "opciones": [
+            "a) Se devolverán al remitente en el país de origen a costa de la Administración.",
+            "b) Se declararán caídas en comiso y se procederá a su enajenación, destrucción o adscripción, según proceda.",
+            "c) Se entregarán a la Cruz Roja o entidades benéficas si son aprovechables.",
+            "d) Permanecerán en depósito indefinido hasta que aparezca el propietario legítimo."
+          ],
+          "respuesta_correcta": "c) Se entregarán a la Cruz Roja o entidades benéficas si son aprovechables.",
+          "cita": "RD 1649/1998, Art. 32"
+        },
+        {
+          "pregunta": "¿Qué recurso cabe contra la resolución sancionadora en materia de contrabando?",
+          "opciones": [
+            "a) Únicamente recurso contencioso-administrativo ante el Tribunal Superior de Justicia.",
+            "b) Recurso de revisión ante el Director General de la Agencia Tributaria exclusivamente.",
+            "c) Recurso de súplica ante el mismo órgano que dictó el acto sancionador.",
+            "d) Recurso de alzada o reposición, según el órgano que dictó la resolución, o reclamación económico-administrativa."
+          ],
+          "respuesta_correcta": "d) Recurso de alzada o reposición, según el órgano que dictó la resolución, o reclamación económico-administrativa.",
+          "cita": "RD 1649/1998, Art. 25 (Remisión a LGT y normas de revisión)"
+        },
+        {
+          "pregunta": "¿Es posible la reducción de la sanción por conformidad en el procedimiento de contrabando?",
+          "opciones": [
+            "a) No, la Ley Orgánica de Represión del Contrabando no contempla reducciones por conformidad, debiendo imponerse la sanción íntegra.",
+            "b) Sí, se aplicarán las reducciones previstas en la Ley General Tributaria si el interesado presta su conformidad a la propuesta de sanción.",
+            "c) Sí, pero solo en las infracciones leves, con una reducción del 50%.",
+            "d) Solo si se paga la multa en el momento de la notificación de la propuesta, reduciéndose un 20%."
+          ],
+          "respuesta_correcta": "d) Solo si se paga la multa en el momento de la notificación de la propuesta, reduciéndose un 20%.",
+          "cita": "RD 1649/1998, Disp. Adic. (Aplicación supletoria LGT)"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'utilización de personas inimputables' como criterio de graduación (Art. 7 RD 1649/1998)?",
+          "opciones": [
+            "a) El uso de personas jurídicas interpuestas o testaferros insolventes.",
+            "b) La contratación de trabajadores extranjeros sin permiso de trabajo para realizar el transporte.",
+            "c) La comisión de la infracción valiéndose de menores de edad o de personas con discapacidad psíquica para eludir la responsabilidad.",
+            "d) El empleo de personas con inmunidad diplomática para introducir las mercancías."
+          ],
+          "respuesta_correcta": "d) El empleo de personas con inmunidad diplomática para introducir las mercancías.",
+          "cita": "RD 1649/1998, Art. 7 (Criterios de graduación específicos)"
+        },
+        {
+          "pregunta": "¿Cuándo se considera que existe 'organización' en la infracción administrativa?",
+          "opciones": [
+            "a) Basta con que dos personas se pongan de acuerdo para cometer una única infracción aislada.",
+            "b) Cuando se utilicen medios técnicos sofisticados de ocultación, aunque actúe una sola persona.",
+            "c) Solo se aprecia organización en los delitos, nunca en las infracciones administrativas.",
+            "d) Cuando intervengan tres o más personas de forma concertada y permanente para la realización de las actividades ilícitas."
+          ],
+          "respuesta_correcta": "d) Cuando intervengan tres o más personas de forma concertada y permanente para la realización de las actividades ilícitas.",
+          "cita": "RD 1649/1998 (Criterios de graduación / Interpretación sistemática con CP)"
+        },
+        {
+          "pregunta": "¿Qué papel juega el 'valor de los bienes' en la clasificación de la infracción?",
+          "opciones": [
+            "a) Es el elemento determinante principal para distinguir entre delito e infracción administrativa, y para graduar la sanción pecuniaria.",
+            "b) No influye en la calificación jurídica, solo en la cuantía de la multa.",
+            "c) Solo se tiene en cuenta si supera los 6.000 euros; por debajo es irrelevante.",
+            "d) Determina la competencia territorial del órgano sancionador, pero no el tipo de infracción."
+          ],
+          "respuesta_correcta": "a) Es el elemento determinante principal para distinguir entre delito e infracción administrativa, y para graduar la sanción pecuniaria.",
+          "cita": "LO 12/1995 y RD 1649/1998 (Arts. 2, 11)"
+        },
+        {
+          "pregunta": "¿Se pueden imponer sanciones no pecuniarias por infracciones leves?",
+          "opciones": [
+            "a) Sí, el cierre temporal de hasta un mes puede imponerse en infracciones leves reiteradas.",
+            "b) Sí, la suspensión del permiso de conducir es aplicable en infracciones leves de transporte.",
+            "c) No, las sanciones no pecuniarias (como el cierre de establecimiento) están reservadas para infracciones graves y muy graves.",
+            "d) Depende de la discrecionalidad del órgano instructor en cada caso."
+          ],
+          "respuesta_correcta": "d) Depende de la discrecionalidad del órgano instructor en cada caso.",
+          "cita": "LO 12/1995, Art. 12.3 y RD 1649/1998"
+        },
+        {
+          "pregunta": "¿Qué ocurre con los vehículos de transporte público regular de viajeros donde se hallen mercancías de contrabando?",
+          "opciones": [
+            "a) Serán decomisados siempre, independientemente de la participación de la empresa.",
+            "b) Se inmovilizarán hasta que se pague la multa impuesta al pasajero infractor.",
+            "c) Se sustituirá el comiso por una multa a la empresa de transporte en todo caso.",
+            "d) No serán objeto de comiso, salvo que la empresa transportista sea connivente o partícipe en la infracción."
+          ],
+          "respuesta_correcta": "c) Se sustituirá el comiso por una multa a la empresa de transporte en todo caso.",
+          "cita": "LO 12/1995, Art. 5 (Excepción al comiso de medios de transporte)"
+        },
+        {
+          "pregunta": "¿Quién debe custodiar los bienes intervenidos durante la tramitación del expediente?",
+          "opciones": [
+            "a) La Administración aduanera o la autoridad que haya realizado la aprehensión, salvo que se acuerde su depósito en otras entidades.",
+            "b) El presunto infractor, en calidad de depositario judicial, en su propio domicilio.",
+            "c) Los juzgados de instrucción, que disponen de almacenes específicos para mercancías.",
+            "d) Las empresas de seguridad privada contratadas al efecto por el Ministerio del Interior."
+          ],
+          "respuesta_correcta": "c) Los juzgados de instrucción, que disponen de almacenes específicos para mercancías.",
+          "cita": "RD 1649/1998, Art. 28"
+        },
+        {
+          "pregunta": "¿Qué documento inicia formalmente el procedimiento sancionador?",
+          "opciones": [
+            "a) El acta de aprehensión levantada por los agentes de la Guardia Civil o Vigilancia Aduanera.",
+            "b) La denuncia presentada por cualquier ciudadano ante la aduana.",
+            "c) El acuerdo de iniciación dictado por el órgano competente, que se notificará al interesado.",
+            "d) La propuesta de resolución elaborada por el instructor."
+          ],
+          "respuesta_correcta": "a) El acta de aprehensión levantada por los agentes de la Guardia Civil o Vigilancia Aduanera.",
+          "cita": "RD 1649/1998, Art. 20"
+        },
+        {
+          "pregunta": "¿Puede acordarse la suspensión de la ejecución de la sanción en vía administrativa?",
+          "opciones": [
+            "a) Sí, si se interpone recurso y se garantiza el importe de la deuda mediante aval o depósito.",
+            "b) No, las sanciones de contrabando son ejecutivas inmediatamente sin posibilidad de suspensión.",
+            "c) Sí, la mera interposición del recurso de reposición suspende automáticamente la ejecución sin necesidad de garantía.",
+            "d) Solo si la sanción conlleva privación de libertad subsidiaria."
+          ],
+          "respuesta_correcta": "c) Sí, la mera interposición del recurso de reposición suspende automáticamente la ejecución sin necesidad de garantía.",
+          "cita": "LGT (Supletoria) y RD de Revisión en vía administrativa"
+        },
+        {
+          "pregunta": "¿Qué infracción es la rotura de precintos aduaneros?",
+          "opciones": [
+            "a) Es un delito de desobediencia grave a la autoridad.",
+            "b) Constituye una infracción administrativa de contrabando específica.",
+            "c) Es una infracción tributaria simple, no de contrabando.",
+            "d) No es sancionable si no se ha sustraído la mercancía."
+          ],
+          "respuesta_correcta": "b) Constituye una infracción administrativa de contrabando específica.",
+          "cita": "LO 12/1995, Art. 11 (Tipificación)"
+        },
+        {
+          "pregunta": "¿Qué plazo tiene la Administración para notificar la resolución del recurso de reposición en materia de contrabando?",
+          "opciones": [
+            "a) Un mes.",
+            "b) Tres meses.",
+            "c) Seis meses.",
+            "d) Diez días."
+          ],
+          "respuesta_correcta": "b) Tres meses.",
+          "cita": "Ley 39/2015, Art. 124 (Aplicable supletoriamente según Disp. Final LO 12/1995)"
+        }
+      ]
     }
-  ]
-}]
+  
+]]

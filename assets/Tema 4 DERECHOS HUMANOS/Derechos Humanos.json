@@ -1,976 +1,1218 @@
-[{
-  "tema": "TEMA 4.- DERECHOS HUMANOS (100 PREGUNTAS)",
-  "descripcion": "Preguntas basadas en la DUDH, Convenio Europeo (CEDH), Pacto Internacional de Derechos Civiles y Políticos (PIDCP) y sus Protocolos, Carta de Derechos Fundamentales de la UE y Protocolo contra la Tortura.",
-  "preguntas": [
-    {
-      "pregunta": "¿Cuándo fue adoptada la Declaración Universal de Derechos Humanos?",
-      "opciones": [
-        "a) El 10 de diciembre de 1948.",
-        "b) El 4 de noviembre de 1950.",
-        "c) El 16 de diciembre de 1966.",
-        "d) El 24 de octubre de 1945."
-      ],
-      "respuesta_correcta": "a) El 10 de diciembre de 1948."
-    },
-    {
-      "pregunta": "Según el artículo 1 de la DUDH, todos los seres humanos nacen:",
-      "opciones": [
-        "a) Libres y unidos en fraternidad.",
-        "b) Libres e iguales en dignidad y derechos.",
-        "c) Iguales ante la ley.",
-        "d) Con derechos limitados por el Estado."
-      ],
-      "respuesta_correcta": "b) Libres e iguales en dignidad y derechos."
-    },
-    {
-      "pregunta": "¿Qué establece el artículo 3 de la DUDH?",
-      "opciones": [
-        "a) El derecho a la educación.",
-        "b) El derecho a la vida, a la libertad y a la seguridad de su persona.",
-        "c) El derecho a la propiedad.",
-        "d) El derecho al voto."
-      ],
-      "respuesta_correcta": "b) El derecho a la vida, a la libertad y a la seguridad de su persona."
-    },
-    {
-      "pregunta": "Según el artículo 5 de la DUDH, nadie será sometido a:",
-      "opciones": [
-        "a) Juicio justo.",
-        "b) Torturas ni a penas o tratos crueles, inhumanos o degradantes.",
-        "c) Prisión preventiva.",
-        "d) Interrogatorio."
-      ],
-      "respuesta_correcta": "b) Torturas ni a penas o tratos crueles, inhumanos o degradantes."
-    },
-    {
-      "pregunta": "¿Qué garantiza el artículo 9 de la DUDH?",
-      "opciones": [
-        "a) La libertad de expresión.",
-        "b) Que nadie podrá ser arbitrariamente detenido, preso ni desterrado.",
-        "c) El derecho de asilo.",
-        "d) La libertad de culto."
-      ],
-      "respuesta_correcta": "b) Que nadie podrá ser arbitrariamente detenido, preso ni desterrado."
-    },
-    {
-      "pregunta": "Según el artículo 11 de la DUDH, toda persona acusada de delito tiene derecho a:",
-      "opciones": [
-        "a) Un abogado de oficio siempre.",
-        "b) Que se presuma su inocencia mientras no se pruebe su culpabilidad.",
-        "c) Ser juzgada en secreto.",
-        "d) Elegir la pena."
-      ],
-      "respuesta_correcta": "b) Que se presuma su inocencia mientras no se pruebe su culpabilidad."
-    },
-    {
-      "pregunta": "¿Qué derecho reconoce el artículo 13 de la DUDH?",
-      "opciones": [
-        "a) A la nacionalidad.",
-        "b) A circular libremente y a elegir su residencia en el territorio de un Estado.",
-        "c) A la propiedad privada.",
-        "d) A la seguridad social."
-      ],
-      "respuesta_correcta": "b) A circular libremente y a elegir su residencia en el territorio de un Estado."
-    },
-    {
-      "pregunta": "El artículo 14 de la DUDH establece el derecho a:",
-      "opciones": [
-        "a) Casarse.",
-        "b) Buscar asilo y a disfrutar de él en cualquier país, en caso de persecución.",
-        "c) Una vivienda digna.",
-        "d) La educación gratuita."
-      ],
-      "respuesta_correcta": "b) Buscar asilo y a disfrutar de él en cualquier país, en caso de persecución."
-    },
-    {
-      "pregunta": "¿A qué tiene derecho toda persona según el artículo 15 de la DUDH?",
-      "opciones": [
-        "a) A una nacionalidad.",
-        "b) A un nombre.",
-        "c) A una familia.",
-        "d) A un trabajo."
-      ],
-      "respuesta_correcta": "a) A una nacionalidad."
-    },
-    {
-      "pregunta": "Según el artículo 16 de la DUDH, la familia es:",
-      "opciones": [
-        "a) Una unión religiosa.",
-        "b) El elemento natural y fundamental de la sociedad y tiene derecho a la protección.",
-        "c) Un contrato civil.",
-        "d) Una elección personal."
-      ],
-      "respuesta_correcta": "b) El elemento natural y fundamental de la sociedad y tiene derecho a la protección."
-    },
-    {
-      "pregunta": "¿Qué establece el artículo 18 de la DUDH?",
-      "opciones": [
-        "a) Libertad de pensamiento, de conciencia y de religión.",
-        "b) Libertad de opinión y expresión.",
-        "c) Libertad de reunión.",
-        "d) Derecho al voto."
-      ],
-      "respuesta_correcta": "a) Libertad de pensamiento, de conciencia y de religión."
-    },
-    {
-      "pregunta": "El artículo 21 de la DUDH reconoce el derecho a:",
-      "opciones": [
-        "a) La seguridad social.",
-        "b) Participar en el gobierno de su país, directamente o por medio de representantes.",
-        "c) El descanso.",
-        "d) La cultura."
-      ],
-      "respuesta_correcta": "b) Participar en el gobierno de su país, directamente o por medio de representantes."
-    },
-    {
-      "pregunta": "¿Qué tipo de sufragio establece el artículo 21.3 de la DUDH?",
-      "opciones": [
-        "a) Censitario.",
-        "b) Universal e igual y por voto secreto.",
-        "c) A mano alzada.",
-        "d) Delegado."
-      ],
-      "respuesta_correcta": "b) Universal e igual y por voto secreto."
-    },
-    {
-      "pregunta": "El artículo 23 de la DUDH trata sobre:",
-      "opciones": [
-        "a) El derecho al trabajo y a la protección contra el desempleo.",
-        "b) El derecho a la educación.",
-        "c) El derecho a la salud.",
-        "d) El derecho a la vivienda."
-      ],
-      "respuesta_correcta": "a) El derecho al trabajo y a la protección contra el desempleo."
-    },
-    {
-      "pregunta": "Según el artículo 26 de la DUDH, la educación debe ser gratuita, al menos en lo concerniente a:",
-      "opciones": [
-        "a) La instrucción elemental y fundamental.",
-        "b) La universidad.",
-        "c) Los idiomas.",
-        "d) Toda la educación."
-      ],
-      "respuesta_correcta": "a) La instrucción elemental y fundamental."
-    },
-    {
-      "pregunta": "¿Cuándo se firmó el Convenio Europeo de Derechos Humanos (CEDH)?",
-      "opciones": [
-        "a) El 4 de noviembre de 1950 (Roma).",
-        "b) El 10 de diciembre de 1948.",
-        "c) El 1 de enero de 1955.",
-        "d) El 20 de noviembre de 1989."
-      ],
-      "respuesta_correcta": "a) El 4 de noviembre de 1950 (Roma)."
-    },
-    {
-      "pregunta": "¿Qué órgano judicial crea el CEDH para asegurar el cumplimiento de sus compromisos?",
-      "opciones": [
-        "a) El Tribunal Internacional de Justicia.",
-        "b) El Tribunal Europeo de Derechos Humanos.",
-        "c) La Corte Penal Internacional.",
-        "d) El Tribunal de Justicia de la UE."
-      ],
-      "respuesta_correcta": "b) El Tribunal Europeo de Derechos Humanos."
-    },
-    {
-      "pregunta": "¿Permite el CEDH la pena de muerte según su texto original?",
-      "opciones": [
-        "a) Sí, en ejecución de una sentencia capital dictada por un tribunal (Art. 2).",
-        "b) No, nunca.",
-        "c) Solo en guerra.",
-        "d) Solo para terroristas."
-      ],
-      "respuesta_correcta": "a) Sí, en ejecución de una sentencia capital dictada por un tribunal (Art. 2) [Nota: Abolida posteriormente por Protocolos 6 y 13]."
-    },
-    {
-      "pregunta": "El artículo 3 del CEDH prohíbe:",
-      "opciones": [
-        "a) La discriminación.",
-        "b) La tortura y las penas o tratos inhumanos o degradantes.",
-        "c) La esclavitud.",
-        "d) La detención ilegal."
-      ],
-      "respuesta_correcta": "b) La tortura y las penas o tratos inhumanos o degradantes."
-    },
-    {
-      "pregunta": "¿Qué establece el artículo 5 del CEDH?",
-      "opciones": [
-        "a) Derecho a la libertad y a la seguridad.",
-        "b) Derecho a un proceso equitativo.",
-        "c) Derecho a la vida privada.",
-        "d) Libertad de expresión."
-      ],
-      "respuesta_correcta": "a) Derecho a la libertad y a la seguridad."
-    },
-    {
-      "pregunta": "Según el artículo 6 del CEDH, toda persona tiene derecho a que su causa sea oída:",
-      "opciones": [
-        "a) En privado.",
-        "b) Equitativa, públicamente y dentro de un plazo razonable.",
-        "c) Por un jurado popular.",
-        "d) Sin abogado."
-      ],
-      "respuesta_correcta": "b) Equitativa, públicamente y dentro de un plazo razonable."
-    },
-    {
-      "pregunta": "¿Qué protege el artículo 8 del CEDH?",
-      "opciones": [
-        "a) La libertad de pensamiento.",
-        "b) El derecho al respeto de su vida privada y familiar, de su domicilio y de su correspondencia.",
-        "c) El derecho al matrimonio.",
-        "d) La libertad de reunión."
-      ],
-      "respuesta_correcta": "b) El derecho al respeto de su vida privada y familiar, de su domicilio y de su correspondencia."
-    },
-    {
-      "pregunta": "¿Qué libertades recoge el artículo 9 del CEDH?",
-      "opciones": [
-        "a) Libertad de pensamiento, de conciencia y de religión.",
-        "b) Libertad de expresión.",
-        "c) Libertad de circulación.",
-        "d) Libertad de cátedra."
-      ],
-      "respuesta_correcta": "a) Libertad de pensamiento, de conciencia y de religión."
-    },
-    {
-      "pregunta": "El artículo 10 del CEDH consagra:",
-      "opciones": [
-        "a) La libertad de expresión.",
-        "b) El derecho a la educación.",
-        "c) La prohibición de discriminación.",
-        "d) El derecho a la propiedad."
-      ],
-      "respuesta_correcta": "a) La libertad de expresión."
-    },
-    {
-      "pregunta": "¿Qué derecho reconoce el artículo 12 del CEDH?",
-      "opciones": [
-        "a) A fundar una familia.",
-        "b) A contraer matrimonio y fundar una familia.",
-        "c) A divorciarse.",
-        "d) A la adopción."
-      ],
-      "respuesta_correcta": "b) A contraer matrimonio y fundar una familia."
-    },
-    {
-      "pregunta": "¿Qué establece el artículo 14 del CEDH?",
-      "opciones": [
-        "a) Prohibición de discriminación.",
-        "b) Derecho a recurso efectivo.",
-        "c) Derogación en caso de estado de urgencia.",
-        "d) Abuso de derecho."
-      ],
-      "respuesta_correcta": "a) Prohibición de discriminación."
-    },
-    {
-      "pregunta": "Según el artículo 15 del CEDH, ¿cuándo pueden derogarse obligaciones del Convenio?",
-      "opciones": [
-        "a) Nunca.",
-        "b) En caso de guerra o de otro peligro público que amenace la vida de la nación.",
-        "c) Si cambia el gobierno.",
-        "d) Por razones económicas."
-      ],
-      "respuesta_correcta": "b) En caso de guerra o de otro peligro público que amenace la vida de la nación."
-    },
-    {
-      "pregunta": "¿Qué derechos del CEDH no pueden ser derogados ni en caso de guerra (Art. 15.2)?",
-      "opciones": [
-        "a) Todos.",
-        "b) Art. 2 (vida), 3 (tortura), 4.1 (esclavitud) y 7 (no pena sin ley).",
-        "c) Solo el derecho a la vida.",
-        "d) Solo la libertad de expresión."
-      ],
-      "respuesta_correcta": "b) Art. 2 (vida), 3 (tortura), 4.1 (esclavitud) y 7 (no pena sin ley)."
-    },
-    {
-      "pregunta": "¿Cuándo se aprobó el Pacto Internacional de Derechos Civiles y Políticos (PIDCP)?",
-      "opciones": [
-        "a) 1948.",
-        "b) 16 de diciembre de 1966 (Nueva York).",
-        "c) 1950.",
-        "d) 1978."
-      ],
-      "respuesta_correcta": "b) 16 de diciembre de 1966 (Nueva York)."
-    },
-    {
-      "pregunta": "El artículo 1 del PIDCP reconoce el derecho de todos los pueblos a:",
-      "opciones": [
-        "a) La paz.",
-        "b) La libre determinación.",
-        "c) La riqueza.",
-        "d) La guerra."
-      ],
-      "respuesta_correcta": "b) La libre determinación."
-    },
-    {
-      "pregunta": "El artículo 6 del PIDCP protege el derecho a:",
-      "opciones": [
-        "a) La vida (inherente a la persona humana).",
-        "b) La salud.",
-        "c) El trabajo.",
-        "d) La vivienda."
-      ],
-      "respuesta_correcta": "a) La vida (inherente a la persona humana)."
-    },
-    {
-      "pregunta": "¿Qué prohíbe el artículo 8 del PIDCP?",
-      "opciones": [
-        "a) La esclavitud, la servidumbre y el trabajo forzoso u obligatorio.",
-        "b) El desempleo.",
-        "c) Los sindicatos.",
-        "d) La huelga."
-      ],
-      "respuesta_correcta": "a) La esclavitud, la servidumbre y el trabajo forzoso u obligatorio."
-    },
-    {
-      "pregunta": "Según el artículo 9 del PIDCP, toda persona detenida será informada:",
-      "opciones": [
-        "a) Al día siguiente.",
-        "b) En el momento de su detención, de las razones de la misma.",
-        "c) Solo si lo pide.",
-        "d) Por su abogado."
-      ],
-      "respuesta_correcta": "b) En el momento de su detención, de las razones de la misma."
-    },
-    {
-      "pregunta": "El artículo 10 del PIDCP establece que las personas privadas de libertad serán tratadas:",
-      "opciones": [
-        "a) Con severidad.",
-        "b) Humanamente y con el respeto debido a la dignidad inherente al ser humano.",
-        "c) Como delincuentes.",
-        "d) Sin derechos."
-      ],
-      "respuesta_correcta": "b) Humanamente y con el respeto debido a la dignidad inherente al ser humano."
-    },
-    {
-      "pregunta": "¿Qué establece el artículo 11 del PIDCP sobre la prisión por deudas?",
-      "opciones": [
-        "a) Que es legal.",
-        "b) Que nadie será encarcelado por el solo hecho de no poder cumplir una obligación contractual.",
-        "c) Que depende de la cantidad.",
-        "d) Que es obligatoria."
-      ],
-      "respuesta_correcta": "b) Que nadie será encarcelado por el solo hecho de no poder cumplir una obligación contractual."
-    },
-    {
-      "pregunta": "El artículo 14.2 del PIDCP consagra:",
-      "opciones": [
-        "a) La presunción de inocencia.",
-        "b) La culpabilidad.",
-        "c) La confesión.",
-        "d) El secreto de sumario."
-      ],
-      "respuesta_correcta": "a) La presunción de inocencia."
-    },
-    {
-      "pregunta": "¿Qué principio recoge el artículo 15 del PIDCP?",
-      "opciones": [
-        "a) Irretroactividad de la ley penal desfavorable (Nullum crimen sine lege).",
-        "b) Retroactividad total.",
-        "c) Analogía.",
-        "d) Pena de muerte."
-      ],
-      "respuesta_correcta": "a) Irretroactividad de la ley penal desfavorable (Nullum crimen sine lege)."
-    },
-    {
-      "pregunta": "El artículo 17 del PIDCP protege contra:",
-      "opciones": [
-        "a) Injerencias arbitrarias o ilegales en su vida privada, familia, domicilio o correspondencia.",
-        "b) El ruido.",
-        "c) La contaminación.",
-        "d) El tráfico."
-      ],
-      "respuesta_correcta": "a) Injerencias arbitrarias o ilegales en su vida privada, familia, domicilio o correspondencia."
-    },
-    {
-      "pregunta": "¿Qué libertad reconoce el artículo 18 del PIDCP?",
-      "opciones": [
-        "a) Libertad de pensamiento, conciencia y religión.",
-        "b) Libertad de comercio.",
-        "c) Libertad de prensa.",
-        "d) Libertad de enseñanza."
-      ],
-      "respuesta_correcta": "a) Libertad de pensamiento, conciencia y religión."
-    },
-    {
-      "pregunta": "El artículo 20 del PIDCP prohíbe:",
-      "opciones": [
-        "a) La propaganda en favor de la guerra y la apología del odio nacional, racial o religioso.",
-        "b) La publicidad comercial.",
-        "c) Las noticias falsas.",
-        "d) La crítica política."
-      ],
-      "respuesta_correcta": "a) La propaganda en favor de la guerra y la apología del odio nacional, racial o religioso."
-    },
-    {
-      "pregunta": "El artículo 27 del PIDCP protege los derechos de:",
-      "opciones": [
-        "a) Las minorías étnicas, religiosas o lingüísticas.",
-        "b) Los extranjeros.",
-        "c) Los presos.",
-        "d) Los niños."
-      ],
-      "respuesta_correcta": "a) Las minorías étnicas, religiosas o lingüísticas."
-    },
-    {
-      "pregunta": "¿Qué Comité crea el PIDCP para vigilar su cumplimiento?",
-      "opciones": [
-        "a) El Comité de Derechos Humanos.",
-        "b) El Comité de Seguridad.",
-        "c) El Comité de Ministros.",
-        "d) El Tribunal de La Haya."
-      ],
-      "respuesta_correcta": "a) El Comité de Derechos Humanos."
-    },
-    {
-      "pregunta": "¿Qué permite el Primer Protocolo Facultativo del PIDCP?",
-      "opciones": [
-        "a) Denuncias de particulares ante el Comité de Derechos Humanos.",
-        "b) La pena de muerte.",
-        "c) La guerra.",
-        "d) La tortura."
-      ],
-      "respuesta_correcta": "a) Denuncias de particulares ante el Comité de Derechos Humanos."
-    },
-    {
-      "pregunta": "¿Qué objetivo tiene el Segundo Protocolo Facultativo del PIDCP?",
-      "opciones": [
-        "a) La abolición de la pena de muerte.",
-        "b) La protección de la infancia.",
-        "c) La igualdad de género.",
-        "d) El medio ambiente."
-      ],
-      "respuesta_correcta": "a) La abolición de la pena de muerte."
-    },
-    {
-      "pregunta": "¿Cuándo se proclamó la Carta de los Derechos Fundamentales de la Unión Europea?",
-      "opciones": [
-        "a) En Niza, el 7 de diciembre de 2000.",
-        "b) En Roma, 1950.",
-        "c) En Maastricht, 1992.",
-        "d) En Lisboa, 2007."
-      ],
-      "respuesta_correcta": "a) En Niza, el 7 de diciembre de 2000."
-    },
-    {
-      "pregunta": "¿Cuándo adquirió fuerza jurídica vinculante la Carta de Derechos de la UE?",
-      "opciones": [
-        "a) Con la entrada en vigor del Tratado de Lisboa (1 de diciembre de 2009).",
-        "b) En 2000.",
-        "c) En 1957.",
-        "d) No es vinculante."
-      ],
-      "respuesta_correcta": "a) Con la entrada en vigor del Tratado de Lisboa (1 de diciembre de 2009)."
-    },
-    {
-      "pregunta": "El artículo 1 de la Carta de la UE declara que la dignidad humana es:",
-      "opciones": [
-        "a) Inviolable.",
-        "b) Importante.",
-        "c) Relativa.",
-        "d) Negociable."
-      ],
-      "respuesta_correcta": "a) Inviolable."
-    },
-    {
-      "pregunta": "¿Qué prohíbe el artículo 3 de la Carta de la UE en medicina y biología?",
-      "opciones": [
-        "a) Las prácticas eugenésicas y la clonación reproductora de seres humanos.",
-        "b) Los trasplantes.",
-        "c) La investigación con células madre.",
-        "d) La vacunación."
-      ],
-      "respuesta_correcta": "a) Las prácticas eugenésicas y la clonación reproductora de seres humanos."
-    },
-    {
-      "pregunta": "El artículo 8 de la Carta de la UE protege:",
-      "opciones": [
-        "a) Los datos de carácter personal.",
-        "b) La propiedad intelectual.",
-        "c) El medio ambiente.",
-        "d) El consumidor."
-      ],
-      "respuesta_correcta": "a) Los datos de carácter personal."
-    },
-    {
-      "pregunta": "¿Qué derecho reconoce el artículo 10.2 de la Carta de la UE?",
-      "opciones": [
-        "a) La objeción de conciencia.",
-        "b) La huelga.",
-        "c) El voto.",
-        "d) La sanidad."
-      ],
-      "respuesta_correcta": "a) La objeción de conciencia."
-    },
-    {
-      "pregunta": "El artículo 19 de la Carta de la UE prohíbe:",
-      "opciones": [
-        "a) Las expulsiones colectivas.",
-        "b) La entrada de extranjeros.",
-        "c) El asilo.",
-        "d) La extradición."
-      ],
-      "respuesta_correcta": "a) Las expulsiones colectivas."
-    },
-    {
-      "pregunta": "¿Qué protege el artículo 21 de la Carta de la UE?",
-      "opciones": [
-        "a) La no discriminación.",
-        "b) La diversidad cultural.",
-        "c) La igualdad entre hombres y mujeres.",
-        "d) Los derechos del niño."
-      ],
-      "respuesta_correcta": "a) La no discriminación."
-    },
-    {
-      "pregunta": "El artículo 24 de la Carta de la UE se refiere a los derechos de:",
-      "opciones": [
-        "a) El niño.",
-        "b) Los ancianos.",
-        "c) Las personas con discapacidad.",
-        "d) Los trabajadores."
-      ],
-      "respuesta_correcta": "a) El niño."
-    },
-    {
-      "pregunta": "¿Qué reconoce el artículo 28 de la Carta de la UE?",
-      "opciones": [
-        "a) El derecho de negociación y de acción colectiva (incluida la huelga).",
-        "b) El derecho al acceso a los servicios de colocación.",
-        "c) La protección en caso de despido injustificado.",
-        "d) Condiciones de trabajo justas."
-      ],
-      "respuesta_correcta": "a) El derecho de negociación y de acción colectiva (incluida la huelga)."
-    },
-    {
-      "pregunta": "El artículo 37 de la Carta de la UE trata sobre:",
-      "opciones": [
-        "a) Protección del medio ambiente.",
-        "b) Protección de la salud.",
-        "c) Protección de los consumidores.",
-        "d) Seguridad social."
-      ],
-      "respuesta_correcta": "a) Protección del medio ambiente."
-    },
-    {
-      "pregunta": "¿Qué derecho garantiza el artículo 41 de la Carta de la UE?",
-      "opciones": [
-        "a) El derecho a una buena administración.",
-        "b) El acceso a los documentos.",
-        "c) El Defensor del Pueblo.",
-        "d) El derecho de petición."
-      ],
-      "respuesta_correcta": "a) El derecho a una buena administración."
-    },
-    {
-      "pregunta": "El artículo 45 de la Carta de la UE reconoce:",
-      "opciones": [
-        "a) La libertad de circulación y de residencia.",
-        "b) La protección diplomática.",
-        "c) El derecho de sufragio.",
-        "d) El derecho de petición."
-      ],
-      "respuesta_correcta": "a) La libertad de circulación y de residencia."
-    },
-    {
-      "pregunta": "¿Qué es el Protocolo Facultativo de la Convención contra la Tortura (OPCAT)?",
-      "opciones": [
-        "a) Un tratado que establece un sistema de visitas periódicas a lugares de detención.",
-        "b) Una ley española.",
-        "c) Una recomendación.",
-        "d) Un informe anual."
-      ],
-      "respuesta_correcta": "a) Un tratado que establece un sistema de visitas periódicas a lugares de detención."
-    },
-    {
-      "pregunta": "¿Qué órgano internacional crea el OPCAT?",
-      "opciones": [
-        "a) El Subcomité para la Prevención de la Tortura (SPT).",
-        "b) El Comité contra la Tortura.",
-        "c) La Comisión de Derechos Humanos.",
-        "d) El Tribunal Penal."
-      ],
-      "respuesta_correcta": "a) El Subcomité para la Prevención de la Tortura (SPT)."
-    },
-    {
-      "pregunta": "¿Qué deben crear los Estados parte del OPCAT a nivel nacional?",
-      "opciones": [
-        "a) Un Mecanismo Nacional de Prevención (MNP).",
-        "b) Una cárcel nueva.",
-        "c) Una fiscalía especial.",
-        "d) Un cuerpo de policía."
-      ],
-      "respuesta_correcta": "a) Un Mecanismo Nacional de Prevención (MNP)."
-    },
-    {
-      "pregunta": "¿Quién ejerce las funciones del Mecanismo Nacional de Prevención en España?",
-      "opciones": [
-        "a) El Defensor del Pueblo.",
-        "b) El Ministerio del Interior.",
-        "c) El Consejo General del Poder Judicial.",
-        "d) La Fiscalía General."
-      ],
-      "respuesta_correcta": "a) El Defensor del Pueblo."
-    },
-    {
-      "pregunta": "El artículo 4 del CEDH prohíbe:",
-      "opciones": [
-        "a) La esclavitud y el trabajo forzado.",
-        "b) La pena de muerte.",
-        "c) La tortura.",
-        "d) La discriminación."
-      ],
-      "respuesta_correcta": "a) La esclavitud y el trabajo forzado."
-    },
-    {
-      "pregunta": "¿Qué plazo máximo de detención preventiva 'razonable' sugiere la jurisprudencia del TEDH (basada en Art. 5.3)?",
-      "opciones": [
-        "a) No hay plazo fijo, depende de las circunstancias, pero debe ser juzgado en plazo razonable o puesto en libertad.",
-        "b) 24 horas.",
-        "c) 72 horas.",
-        "d) 1 año."
-      ],
-      "respuesta_correcta": "a) No hay plazo fijo, depende de las circunstancias, pero debe ser juzgado en plazo razonable o puesto en libertad."
-    },
-    {
-      "pregunta": "¿El artículo 11 del CEDH protege?",
-      "opciones": [
-        "a) La libertad de reunión y de asociación.",
-        "b) La libertad de expresión.",
-        "c) El derecho al matrimonio.",
-        "d) El derecho a la educación."
-      ],
-      "respuesta_correcta": "a) La libertad de reunión y de asociación."
-    },
-    {
-      "pregunta": "¿Pueden imponerse restricciones a la libertad de reunión de los miembros de las fuerzas armadas o policía según el CEDH?",
-      "opciones": [
-        "a) Sí, es una excepción permitida en el artículo 11.2.",
-        "b) No, nunca.",
-        "c) Solo en tiempo de guerra.",
-        "d) Solo el Estado puede reunirse."
-      ],
-      "respuesta_correcta": "a) Nadie podrá ser obligado a pertenecer a una asociación."
-    },
-    {
-      "pregunta": "¿Qué establece el Protocolo nº 6 del CEDH?",
-      "opciones": [
-        "a) Abolición de la pena de muerte (con excepción en tiempo de guerra, luego superada por el Protocolo 13).",
-        "b) Derecho a la propiedad.",
-        "c) Libertad de circulación.",
-        "d) Expulsión de extranjeros."
-      ],
-      "respuesta_correcta": "a) Abolición de la pena de muerte (con excepción en tiempo de guerra, luego superada por el Protocolo 13)."
-    },
-    {
-      "pregunta": "Según el artículo 46 del CEDH, las Altas Partes Contratantes se comprometen a:",
-      "opciones": [
-        "a) Acatar las sentencias definitivas del Tribunal en los litigios en que sean partes.",
-        "b) Ignorar las sentencias.",
-        "c) Recurrir siempre.",
-        "d) Pagar solo si quieren."
-      ],
-      "respuesta_correcta": "a) Acatar las sentencias definitivas del Tribunal en los litigios en que sean partes."
-    },
-    {
-      "pregunta": "El artículo 54 de la Carta de la UE prohíbe:",
-      "opciones": [
-        "a) El abuso de derecho.",
-        "b) La discriminación.",
-        "c) La tortura.",
-        "d) La pena de muerte."
-      ],
-      "respuesta_correcta": "a) El abuso de derecho."
-    },
-    {
-      "pregunta": "¿Qué es el principio de 'non-refoulement' (no devolución)?",
-      "opciones": [
-        "a) Prohibición de devolver a una persona a un país donde corra riesgo de tortura o tratos inhumanos (Art. 3 CEDH / Art. 19 Carta UE).",
-        "b) No devolver productos.",
-        "c) No devolver dinero.",
-        "d) Devolver a todos los inmigrantes."
-      ],
-      "respuesta_correcta": "a) Prohibición de devolver a una persona a un país donde corra riesgo de tortura o tratos inhumanos (Art. 3 CEDH / Art. 19 Carta UE)."
-    },
-    {
-      "pregunta": "¿El PIDCP permite suspender el derecho a la vida en situaciones excepcionales?",
-      "opciones": [
-        "a) No, es un derecho inderogable (Art. 4.2).",
-        "b) Sí, en guerra.",
-        "c) Sí, si lo decreta el Presidente.",
-        "d) Depende del país."
-      ],
-      "respuesta_correcta": "a) No, es un derecho inderogable (Art. 4.2)."
-    },
-    {
-      "pregunta": "¿Qué declara el artículo 1 de la Carta de la UE?",
-      "opciones": [
-        "a) La dignidad humana es inviolable. Será respetada y protegida.",
-        "b) Todos somos libres.",
-        "c) La UE es una democracia.",
-        "d) El euro es la moneda."
-      ],
-      "respuesta_correcta": "a) La dignidad humana es inviolable. Será respetada y protegida."
-    },
-    {
-      "pregunta": "El artículo 47 de la Carta de la UE garantiza:",
-      "opciones": [
-        "a) El derecho a la tutela judicial efectiva y a un juez imparcial.",
-        "b) La presunción de inocencia.",
-        "c) La legalidad penal.",
-        "d) La proporcionalidad de las penas."
-      ],
-      "respuesta_correcta": "a) El derecho a la tutela judicial efectiva y a un juez imparcial."
-    },
-    {
-      "pregunta": "¿Qué es la 'cláusula de limitación' de derechos en la Carta de la UE (Art. 52)?",
-      "opciones": [
-        "a) Cualquier limitación debe ser establecida por la ley y respetar el contenido esencial de los derechos.",
-        "b) Los derechos son absolutos.",
-        "c) El gobierno puede limitar lo que quiera.",
-        "d) No se pueden limitar."
-      ],
-      "respuesta_correcta": "a) Cualquier limitación debe ser establecida por la ley y respetar el contenido esencial de los derechos."
-    },
-    {
-      "pregunta": "¿El TEDH admite demandas individuales?",
-      "opciones": [
-        "a) Sí, según el artículo 34 del CEDH.",
-        "b) No, solo de Estados.",
-        "c) Solo de ONGs.",
-        "d) Solo de empresas."
-      ],
-      "respuesta_correcta": "a) Sí, según el artículo 34 del CEDH."
-    },
-    {
-      "pregunta": "¿Qué requisito es necesario para acudir al TEDH?",
-      "opciones": [
-        "a) Haber agotado las vías de recursos internas.",
-        "b) Ser rico.",
-        "c) Tener abogado internacional.",
-        "d) Ser europeo."
-      ],
-      "respuesta_correcta": "a) Haber agotado las vías de recursos internas."
-    },
-    {
-      "pregunta": "¿El derecho a la propiedad está en el CEDH?",
-      "opciones": [
-        "a) Sí, en el Protocolo nº 1, artículo 1.",
-        "b) En el texto principal.",
-        "c) No.",
-        "d) Solo para empresas."
-      ],
-      "respuesta_correcta": "a) Sí, en el Protocolo nº 1, artículo 1."
-    },
-    {
-      "pregunta": "¿Qué prohíbe el Protocolo nº 4 del CEDH?",
-      "opciones": [
-        "a) La prisión por deudas.",
-        "b) La tortura.",
-        "c) La esclavitud.",
-        "d) El trabajo."
-      ],
-      "respuesta_correcta": "a) La prisión por deudas."
-    },
-    {
-      "pregunta": "El artículo 2 del Protocolo nº 7 del CEDH reconoce el derecho a:",
-      "opciones": [
-        "a) Un doble grado de jurisdicción en materia penal.",
-        "b) La indemnización por error judicial.",
-        "c) No ser juzgado dos veces.",
-        "d) Igualdad entre esposos."
-      ],
-      "respuesta_correcta": "a) Un doble grado de jurisdicción en materia penal."
-    },
-    {
-      "pregunta": "¿El PIDCP reconoce el derecho de huelga?",
-      "opciones": [
-        "a) Sí, en el artículo 22 (libertad de asociación, aunque lo explicita más el PIDESC).",
-        "b) No.",
-        "c) Está prohibido.",
-        "d) Solo para funcionarios."
-      ],
-      "respuesta_correcta": "a) Sí, en el artículo 22 (libertad de asociación, aunque lo explicita más el PIDESC)."
-    },
-    {
-      "pregunta": "¿Qué es el 'Habeas Corpus' en el contexto de derechos humanos?",
-      "opciones": [
-        "a) Derecho a recurrir ante un tribunal la legalidad de la detención.",
-        "b) Tener cuerpo.",
-        "c) Un delito.",
-        "d) Una pena."
-      ],
-      "respuesta_correcta": "a) Derecho a recurrir ante un tribunal la legalidad de la detención."
-    },
-    {
-      "pregunta": "¿La DUDH es un tratado vinculante?",
-      "opciones": [
-        "a) No, es una declaración, pero es la base del derecho internacional consuetudinario.",
-        "b) Sí, es un tratado.",
-        "c) Es una ley española.",
-        "d) No vale para nada."
-      ],
-      "respuesta_correcta": "a) No, es una declaración, pero es la base del derecho internacional consuetudinario."
-    },
-    {
-      "pregunta": "¿Qué significa que los derechos humanos son 'universales'?",
-      "opciones": [
-        "a) Que pertenecen a todos los seres humanos sin distinción.",
-        "b) Que son del universo.",
-        "c) Que solo son para europeos.",
-        "d) Que se pueden vender."
-      ],
-      "respuesta_correcta": "a) Que pertenecen a todos los seres humanos sin distinción."
-    },
-    {
-      "pregunta": "¿Qué es la 'igualdad de armas' en el proceso penal (Art. 6 CEDH)?",
-      "opciones": [
-        "a) Que ambas partes (acusación y defensa) tengan las mismas oportunidades para presentar su caso.",
-        "b) Usar las mismas armas.",
-        "c) Duelo.",
-        "d) Empate."
-      ],
-      "respuesta_correcta": "a) Que ambas partes (acusación y defensa) tengan las mismas oportunidades para presentar su caso."
-    },
-    {
-      "pregunta": "¿El derecho a la vida del CEDH es absoluto?",
-      "opciones": [
-        "a) No, admite excepciones como la legítima defensa o detención legal (uso de fuerza estrictamente necesario).",
-        "b) Sí, absoluto.",
-        "c) No existe.",
-        "d) Depende del juez."
-      ],
-      "respuesta_correcta": "a) No, admite excepciones como la legítima defensa o detención legal (uso de fuerza estrictamente necesario)."
-    },
-    {
-      "pregunta": "¿Qué es el 'margen de apreciación' en el CEDH?",
-      "opciones": [
-        "a) La libertad que tienen los Estados para aplicar el Convenio según sus circunstancias, bajo supervisión del Tribunal.",
-        "b) Un error de cálculo.",
-        "c) Un precio.",
-        "d) Una frontera."
-      ],
-      "respuesta_correcta": "a) La libertad que tienen los Estados para aplicar el Convenio según sus circunstancias, bajo supervisión del Tribunal."
-    },
-    {
-      "pregunta": "¿Qué institución de la UE no estaba obligada originalmente por la Carta pero ahora sí (Tratado de Lisboa)?",
-      "opciones": [
-        "a) Todas las instituciones, órganos y organismos de la Unión.",
-        "b) Solo el Parlamento.",
-        "c) Solo la Comisión.",
-        "d) Solo el Consejo."
-      ],
-      "respuesta_correcta": "a) Todas las instituciones, órganos y organismos de la Unión."
-    },
-    {
-      "pregunta": "¿Qué relación tiene la Carta de la UE con el CEDH?",
-      "opciones": [
-        "a) Los derechos correspondientes tienen el mismo sentido y alcance, aunque la Carta puede dar protección más amplia.",
-        "b) Son opuestos.",
-        "c) El CEDH manda sobre la Carta.",
-        "d) No tienen relación."
-      ],
-      "respuesta_correcta": "a) Los derechos correspondientes tienen el mismo sentido y alcance, aunque la Carta puede dar protección más amplia."
-    },
-    {
-      "pregunta": "¿Qué es el principio de 'legalidad penal' (Art. 7 CEDH)?",
-      "opciones": [
-        "a) Nullum crimen, nulla poena sine lege (no hay delito ni pena sin ley previa).",
-        "b) Que la ley es dura.",
-        "c) Que el juez decide.",
-        "d) Que la policía manda."
-      ],
-      "respuesta_correcta": "a) Nullum crimen, nulla poena sine lege (no hay delito ni pena sin ley previa)."
-    },
-    {
-      "pregunta": "¿Qué protege el artículo 1 del Protocolo 1 del CEDH?",
-      "opciones": [
-        "a) El derecho al respeto de sus bienes (propiedad).",
-        "b) La vida.",
-        "c) La libertad.",
-        "d) El voto."
-      ],
-      "respuesta_correcta": "a) El derecho al respeto de sus bienes (propiedad)."
-    },
-    {
-      "pregunta": "¿El derecho a elecciones libres está en el CEDH?",
-      "opciones": [
-        "a) Sí, en el artículo 3 del Protocolo nº 1.",
-        "b) No.",
-        "c) En el preámbulo.",
-        "d) En el artículo 10."
-      ],
-      "respuesta_correcta": "a) Sí, en el artículo 3 del Protocolo nº 1."
-    },
-    {
-      "pregunta": "¿Qué es la 'satisfacción equitativa' (Art. 41 CEDH)?",
-      "opciones": [
-        "a) La indemnización que el Tribunal puede conceder a la víctima si el derecho interno no permite reparación total.",
-        "b) Estar contento.",
-        "c) Un juicio justo.",
-        "d) Una disculpa."
-      ],
-      "respuesta_correcta": "a) La indemnización que el Tribunal puede conceder a la víctima si el derecho interno no permite reparación total."
-    },
-    {
-      "pregunta": "¿Cuántos jueces tiene el TEDH?",
-      "opciones": [
-        "a) Tantos como Altas Partes Contratantes (actualmente 46).",
-        "b) 15.",
-        "c) 27.",
-        "d) 12."
-      ],
-      "respuesta_correcta": "a) Tantos como Altas Partes Contratantes (actualmente 46)."
-    },
-    {
-      "pregunta": "¿Qué duración tiene el mandato de los jueces del TEDH?",
-      "opciones": [
-        "a) 9 años no reelegibles.",
-        "b) 6 años.",
-        "c) Vitalicio.",
-        "d) 4 años."
-      ],
-      "respuesta_correcta": "a) 9 años no reelegibles."
-    },
-    {
-      "pregunta": "¿Puede el TEDH dictar medidas provisionales?",
-      "opciones": [
-        "a) Sí, bajo el artículo 39 de su Reglamento (ej. paralizar una expulsión).",
-        "b) No.",
-        "c) Solo si lo pide el Estado.",
-        "d) Solo en casos de propiedad."
-      ],
-      "respuesta_correcta": "a) Sí, bajo el artículo 39 de su Reglamento (ej. paralizar una expulsión)."
-    },
-    {
-      "pregunta": "¿Qué es el 'tercero interviniente' en el TEDH?",
-      "opciones": [
-        "a) Un Estado o persona interesada que aporta observaciones sin ser parte principal.",
-        "b) El juez.",
-        "c) El abogado.",
-        "d) El testigo."
-      ],
-      "respuesta_correcta": "a) Un Estado o persona interesada que aporta observaciones sin ser parte principal."
-    },
-    {
-      "pregunta": "¿La UE se ha adherido al CEDH?",
-      "opciones": [
-        "a) Está previsto en el Tratado de Lisboa (Art. 6 TUE), pero el proceso es complejo y aún no se ha completado formalmente.",
-        "b) Sí, desde 1950.",
-        "c) No quiere.",
-        "d) Es automático."
-      ],
-      "respuesta_correcta": "a) Está previsto en el Tratado de Lisboa (Art. 6 TUE), pero el proceso es complejo y aún no se ha completado formalmente."
-    },
-    {
-      "pregunta": "¿Qué valor tiene la DUDH en la Constitución Española?",
-      "opciones": [
-        "a) Sirve de pauta para interpretar las normas sobre derechos fundamentales (Art. 10.2 CE).",
-        "b) Es superior a la Constitución.",
-        "c) No tiene valor.",
-        "d) Es una ley orgánica."
-      ],
-      "respuesta_correcta": "a) Sirve de pauta para interpretar las normas sobre derechos fundamentales (Art. 10.2 CE)."
-    }
-  ]
-}]
+[[
+  {
+    "tema": "TEMA 4.- DERECHOS HUMANOS Y NORMATIVA INTERNACIONAL (BLOQUE 1/3)",
+    "descripcion": "Batería de alta dificultad con 'anti-patrón' de respuesta larga y distribución exacta (25% por opción). Contiene: Declaración Universal DDHH (1948) y Carta de Derechos Fundamentales de la UE.",
+    "preguntas": [
+      {
+        "pregunta": "Según el artículo 1 de la Declaración Universal de Derechos Humanos, ¿cómo nacen todos los seres humanos?",
+        "opciones": [
+          "a) Nacen libres e independientes en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.",
+          "b) Nacen libres y sujetos a derecho en dignidad y obligaciones y, dotados como están de razón y conciencia, deben comportarse solidariamente los unos con los otros.",
+          "c) Nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.",
+          "d) Nacen iguales y soberanos en dignidad y libertades y, dotados como están de alma y conciencia, deben comportarse lealmente los unos con los otros."
+        ],
+        "respuesta_correcta": "b) Nacen libres y sujetos a derecho en dignidad y obligaciones y, dotados como están de razón y conciencia, deben comportarse solidariamente los unos con los otros.",
+        "cita": "DUDH, Art. 1"
+      },
+      {
+        "pregunta": "Respecto a la distinción por condición política, jurídica o internacional del país, ¿qué establece el artículo 2 de la DUDH?",
+        "opciones": [
+          "a) No se hará distinción alguna fundada en la condición política, jurídica o internacional del país o territorio de cuya jurisdicción dependa una persona, tanto si es independiente como si está bajo administración fiduciaria, no autónomo o sometido a limitación de soberanía.",
+          "b) Se podrán establecer distinciones fundadas en la condición política del país de origen únicamente cuando este se encuentre bajo administración fiduciaria o sometido a sanciones internacionales por el Consejo de Seguridad.",
+          "c) No se hará distinción alguna salvo en los casos de países no autónomos o sometidos a limitación de soberanía, donde se aplicarán las normas del derecho internacional humanitario.",
+          "d) Se evitará toda distinción basada en la jurisdicción territorial, excepto para los apátridas o refugiados que no dependan de la protección de ningún país independiente o soberano."
+        ],
+        "respuesta_correcta": "a) No se hará distinción alguna fundada en la condición política, jurídica o internacional del país o territorio de cuya jurisdicción dependa una persona, tanto si es independiente como si está bajo administración fiduciaria, no autónomo o sometido a limitación de soberanía.",
+        "cita": "DUDH, Art. 2.2"
+      },
+      {
+        "pregunta": "¿Cuáles son los derechos fundamentales citados textualmente en el artículo 3 de la Declaración Universal?",
+        "opciones": [
+          "a) Todo individuo tiene derecho a la vida, a la integridad física y a la seguridad de su persona.",
+          "b) Todo individuo tiene derecho a la vida, a la libertad de movimiento y a la seguridad jurídica.",
+          "c) Todo individuo tiene derecho a la vida, a la libertad de expresión y a la seguridad social.",
+          "d) Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona."
+        ],
+        "respuesta_correcta": "a) Todo individuo tiene derecho a la vida, a la integridad física y a la seguridad de su persona.",
+        "cita": "DUDH, Art. 3"
+      },
+      {
+        "pregunta": "En relación con la esclavitud y la servidumbre, ¿qué prohibición establece el artículo 4 de la DUDH?",
+        "opciones": [
+          "a) Nadie estará sometido a esclavitud ni a servidumbre, salvo en los casos de trabajos forzados impuestos como pena por un tribunal competente.",
+          "b) Nadie estará sometido a esclavitud ni a servidumbre, la esclavitud y la trata de esclavos están prohibidas en todas sus formas.",
+          "c) Nadie estará sometido a tratos inhumanos o degradantes, quedando la esclavitud restringida a los casos de conflicto armado internacional.",
+          "d) Nadie estará sometido a servidumbre por deudas, pero la esclavitud podrá permitirse si existen convenios internacionales previos que la regulen."
+        ],
+        "respuesta_correcta": "a) Nadie estará sometido a esclavitud ni a servidumbre, salvo en los casos de trabajos forzados impuestos como pena por un tribunal competente.",
+        "cita": "DUDH, Art. 4"
+      },
+      {
+        "pregunta": "¿Qué establece el artículo 5 de la DUDH respecto a la integridad de la persona?",
+        "opciones": [
+          "a) Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.",
+          "b) Nadie será objeto de injerencias arbitrarias en su vida privada ni de ataques a su integridad física o moral.",
+          "c) Nadie podrá ser detenido arbitrariamente ni sometido a prisión sin un juicio justo y equitativo.",
+          "d) Nadie será sometido a penas corporales salvo que las leyes nacionales del estado miembro así lo contemplen."
+        ],
+        "respuesta_correcta": "c) Nadie podrá ser detenido arbitrariamente ni sometido a prisión sin un juicio justo y equitativo.",
+        "cita": "DUDH, Art. 5"
+      },
+      {
+        "pregunta": "Según el artículo 6 de la DUDH, ¿qué derecho tiene todo ser humano en todas partes?",
+        "opciones": [
+          "a) Al reconocimiento de su nacionalidad de origen y a no ser privado de ella arbitrariamente.",
+          "b) Al reconocimiento de su capacidad de obrar plena al alcanzar la mayoría de edad legal.",
+          "c) Al reconocimiento de su personalidad jurídica.",
+          "d) Al reconocimiento de su estatus de ciudadano libre y a la protección diplomática."
+        ],
+        "respuesta_correcta": "a) Al reconocimiento de su nacionalidad de origen y a no ser privado de ella arbitrariamente.",
+        "cita": "DUDH, Art. 6"
+      },
+      {
+        "pregunta": "Respecto a la igualdad ante la ley (Art. 7 DUDH), ¿a qué tienen derecho todos los individuos?",
+        "opciones": [
+          "a) A igual protección de la ley contra toda discriminación que infrinja la Declaración y contra toda provocación a tal discriminación, sin distinción alguna.",
+          "b) A igual protección contra la discriminación, garantizando siempre un trato preferente a las minorías étnicas o religiosas perseguidas.",
+          "c) A igual protección de los tribunales nacionales e internacionales, asegurando la gratuidad de la justicia para quienes carezcan de recursos.",
+          "d) A igual protección judicial efectiva, salvo en los casos de estados de excepción o sitio declarados legalmente."
+        ],
+        "respuesta_correcta": "a) A igual protección de la ley contra toda discriminación que infrinja la Declaración y contra toda provocación a tal discriminación, sin distinción alguna.",
+        "cita": "DUDH, Art. 7"
+      },
+      {
+        "pregunta": "¿Qué garantiza el artículo 8 de la DUDH ante actos que violen derechos fundamentales?",
+        "opciones": [
+          "a) El derecho a un recurso efectivo ante los tribunales internacionales de derechos humanos.",
+          "b) El derecho a una indemnización justa y proporcional por parte del Estado infractor.",
+          "c) El derecho a la asistencia letrada gratuita en cualquier procedimiento penal o administrativo.",
+          "d) El derecho a un recurso efectivo ante los tribunales nacionales competentes."
+        ],
+        "respuesta_correcta": "c) El derecho a la asistencia letrada gratuita en cualquier procedimiento penal o administrativo.",
+        "cita": "DUDH, Art. 8"
+      },
+      {
+        "pregunta": "¿Qué prohibición específica recoge el artículo 9 de la Declaración?",
+        "opciones": [
+          "a) Nadie podrá ser arbitrariamente detenido, preso ni desterrado.",
+          "b) Nadie podrá ser juzgado sin las debidas garantías procesales ni condenado sin pruebas.",
+          "c) Nadie podrá ser privado de su libertad por incumplimiento de obligaciones contractuales.",
+          "d) Nadie podrá ser detenido por motivos políticos, religiosos o de opinión."
+        ],
+        "respuesta_correcta": "b) Nadie podrá ser juzgado sin las debidas garantías procesales ni condenado sin pruebas.",
+        "cita": "DUDH, Art. 9"
+      },
+      {
+        "pregunta": "Según el artículo 10, para la determinación de sus derechos y obligaciones, toda persona tiene derecho a:",
+        "opciones": [
+          "a) Ser oída públicamente y con justicia por un tribunal de excepción creado para el caso concreto.",
+          "b) Ser oída privadamente y con equidad por un jurado popular imparcial e independiente.",
+          "c) Ser oída públicamente y con justicia por un tribunal independiente e imparcial.",
+          "d) Ser oída en audiencia pública por un juez instructor designado por el poder ejecutivo."
+        ],
+        "respuesta_correcta": "b) Ser oída privadamente y con equidad por un jurado popular imparcial e independiente.",
+        "cita": "DUDH, Art. 10"
+      },
+      {
+        "pregunta": "En el artículo 11, además de la presunción de inocencia, ¿qué principio penal se establece?",
+        "opciones": [
+          "a) Nadie será condenado por actos u omisiones que en el momento de cometerse no fueran delictivos según el Derecho nacional o internacional, ni se impondrá pena más grave que la aplicable en ese momento.",
+          "b) Nadie será condenado por delitos que no estén tipificados en el Código Penal del país, salvo que sean crímenes contra la humanidad reconocidos internacionalmente.",
+          "c) Nadie será juzgado dos veces por los mismos hechos, ni se le impondrá una pena privativa de libertad superior a treinta años.",
+          "d) Nadie será considerado culpable hasta que una sentencia firme así lo declare, y tendrá derecho a la revisión de la pena si la ley posterior es más favorable."
+        ],
+        "respuesta_correcta": "a) Nadie será condenado por actos u omisiones que en el momento de cometerse no fueran delictivos según el Derecho nacional o internacional, ni se impondrá pena más grave que la aplicable en ese momento.",
+        "cita": "DUDH, Art. 11.2"
+      },
+      {
+        "pregunta": "¿Qué protege el artículo 12 de la DUDH frente a injerencias arbitrarias?",
+        "opciones": [
+          "a) Su libertad de pensamiento, conciencia y religión, así como la manifestación pública de sus creencias.",
+          "b) Su derecho a la propiedad individual y colectiva, y a no ser privado de ella arbitrariamente.",
+          "c) Su libertad de opinión y de expresión, incluido el derecho a no ser molestado a causa de sus opiniones.",
+          "d) Su vida privada, su familia, su domicilio o su correspondencia, así como su honra y reputación."
+        ],
+        "respuesta_correcta": "d) Su vida privada, su familia, su domicilio o su correspondencia, así como su honra y reputación.",
+        "cita": "DUDH, Art. 12"
+      },
+      {
+        "pregunta": "En caso de persecución, ¿qué derecho otorga el artículo 14, y cuál es su excepción?",
+        "opciones": [
+          "a) A buscar asilo, y a disfrutar de él, en cualquier país, salvo que la persecución se deba a delitos comunes o actos opuestos a los propósitos de las Naciones Unidas.",
+          "b) A solicitar refugio político en países democráticos, salvo que el solicitante haya cometido crímenes de guerra o delitos contra la paz.",
+          "c) A obtener asilo diplomático en las embajadas, salvo que exista un tratado de extradición vigente entre los países involucrados.",
+          "d) A recibir protección internacional subsidiaria, salvo que la persecución origine en motivos económicos o desastres naturales."
+        ],
+        "respuesta_correcta": "a) A buscar asilo, y a disfrutar de él, en cualquier país, salvo que la persecución se deba a delitos comunes o actos opuestos a los propósitos de las Naciones Unidas.",
+        "cita": "DUDH, Art. 14"
+      },
+      {
+        "pregunta": "Respecto a la nacionalidad (Art. 15 DUDH), ¿qué se afirma?",
+        "opciones": [
+          "a) Toda persona tiene derecho a una nacionalidad, pero el Estado podrá privarle de ella si comete actos de traición.",
+          "b) Toda persona tiene derecho a la nacionalidad del país donde nazca, independientemente de la de sus padres.",
+          "c) Toda persona tiene derecho a una nacionalidad; a nadie se privará arbitrariamente de su nacionalidad ni del derecho a cambiar de nacionalidad.",
+          "d) Toda persona tiene derecho a una nacionalidad, debiendo renunciar a la de origen para adquirir una nueva si así lo exige la ley."
+        ],
+        "respuesta_correcta": "d) Toda persona tiene derecho a una nacionalidad, debiendo renunciar a la de origen para adquirir una nueva si así lo exige la ley.",
+        "cita": "DUDH, Art. 15"
+      },
+      {
+        "pregunta": "¿Qué condición establece el artículo 16 para contraer matrimonio?",
+        "opciones": [
+          "a) El libre y pleno consentimiento de los futuros esposos, sin restricción por motivos de raza, nacionalidad o religión.",
+          "b) El libre y pleno consentimiento de los futuros esposos, así como la autorización paterna en caso de menores de 21 años.",
+          "c) El consentimiento mutuo ante la autoridad civil competente, previa comprobación de la capacidad legal de los contrayentes.",
+          "d) La aprobación de la comunidad religiosa o civil a la que pertenezcan, garantizando la protección de la unidad familiar."
+        ],
+        "respuesta_correcta": "b) El libre y pleno consentimiento de los futuros esposos, así como la autorización paterna en caso de menores de 21 años.",
+        "cita": "DUDH, Art. 16"
+      },
+      {
+        "pregunta": "Según el artículo 17 de la DUDH, ¿cómo se protege la propiedad?",
+        "opciones": [
+          "a) Toda persona tiene derecho a la propiedad individual, pero no colectiva, y nadie será privado arbitrariamente de ella.",
+          "b) Toda persona tiene derecho a la propiedad en sus formas pública y privada, garantizándose su función social.",
+          "c) Toda persona tiene derecho a la propiedad privada, que solo podrá ser expropiada por causa de utilidad pública y con indemnización.",
+          "d) Toda persona tiene derecho a la propiedad, individual y colectivamente, y nadie será privado arbitrariamente de su propiedad."
+        ],
+        "respuesta_correcta": "d) Toda persona tiene derecho a la propiedad, individual y colectivamente, y nadie será privado arbitrariamente de su propiedad.",
+        "cita": "DUDH, Art. 17"
+      },
+      {
+        "pregunta": "El artículo 18 de la DUDH incluye la libertad de pensamiento, de conciencia y de religión. ¿Qué implica este derecho?",
+        "opciones": [
+          "a) La libertad de cambiar de religión o de creencia, así como la libertad de manifestarlas individual y colectivamente, tanto en público como en privado.",
+          "b) La libertad de mantener las propias creencias sin injerencias, pero limitando su manifestación pública a los lugares de culto autorizados.",
+          "c) La libertad de culto exclusivamente en el ámbito privado, para garantizar la laicidad del Estado y la convivencia pacífica.",
+          "d) La libertad de pertenecer a una confesión religiosa registrada, sin derecho a cambiar de religión salvo autorización administrativa."
+        ],
+        "respuesta_correcta": "c) La libertad de culto exclusivamente en el ámbito privado, para garantizar la laicidad del Estado y la convivencia pacífica.",
+        "cita": "DUDH, Art. 18"
+      },
+      {
+        "pregunta": "Respecto a la libertad de opinión y expresión (Art. 19 DUDH), ¿qué facultades incluye?",
+        "opciones": [
+          "a) El derecho a no ser molestado a causa de sus opiniones y el de difundirlas por cualquier medio de expresión, respetando la censura previa en casos de seguridad nacional.",
+          "b) El derecho a expresar opiniones políticas libremente, siempre que no atenten contra el orden público o la moral de la nación.",
+          "c) El derecho a no ser molestado a causa de sus opiniones, el de investigar y recibir informaciones y opiniones, y el de difundirlas, sin limitación de fronteras.",
+          "d) El derecho a la libertad de prensa y de imprenta, garantizando el acceso a la información veraz y contrastada por organismos oficiales."
+        ],
+        "respuesta_correcta": "c) El derecho a no ser molestado a causa de sus opiniones, el de investigar y recibir informaciones y opiniones, y el de difundirlas, sin limitación de fronteras.",
+        "cita": "DUDH, Art. 19"
+      },
+      {
+        "pregunta": "¿Qué establece el artículo 20 sobre la libertad de reunión y asociación?",
+        "opciones": [
+          "a) Toda persona tiene derecho a la libertad de reunión y de asociación pacíficas, pero nadie podrá ser obligado a pertenecer a una asociación.",
+          "b) Toda persona tiene derecho a reunirse y asociarse libremente, siempre que la asociación esté legalmente registrada y no tenga fines lucrativos.",
+          "c) Se garantiza el derecho de huelga y la libertad sindical como formas específicas de asociación y reunión pacíficas.",
+          "d) El derecho de reunión estará sujeto a autorización previa gubernativa en espacios públicos, garantizando el orden y la seguridad."
+        ],
+        "respuesta_correcta": "d) El derecho de reunión estará sujeto a autorización previa gubernativa en espacios públicos, garantizando el orden y la seguridad.",
+        "cita": "DUDH, Art. 20"
+      },
+      {
+        "pregunta": "Según el artículo 29 de la DUDH, ¿qué límites tienen los derechos y libertades?",
+        "opciones": [
+          "a) Solamente los establecidos por la ley con el fin de asegurar el reconocimiento y el respeto de los derechos de los demás y de satisfacer las justas exigencias de la moral, del orden público y del bienestar general.",
+          "b) Únicamente los que determine el poder ejecutivo en situaciones de emergencia nacional o crisis sanitaria para proteger a la población.",
+          "c) Los límites que imponga la costumbre y la tradición cultural de cada pueblo, siempre que no vulneren la integridad física de las personas.",
+          "d) Exclusivamente los necesarios para garantizar la seguridad nacional y la defensa del Estado frente a agresiones externas."
+        ],
+        "respuesta_correcta": "d) Exclusivamente los necesarios para garantizar la seguridad nacional y la defensa del Estado frente a agresiones externas.",
+        "cita": "DUDH, Art. 29.2"
+      },
+      {
+        "pregunta": "En la Carta de los Derechos Fundamentales de la UE (CDFUE), ¿qué declara el artículo 1 sobre la dignidad humana?",
+        "opciones": [
+          "a) La dignidad humana es inviolable. Será respetada y protegida.",
+          "b) La dignidad humana es un valor fundamental. Debe ser promovida y defendida.",
+          "c) La dignidad humana es inherente. Será garantizada por los Estados miembros.",
+          "d) La dignidad humana es sagrada. No podrá ser vulnerada bajo ninguna circunstancia."
+        ],
+        "respuesta_correcta": "b) La dignidad humana es un valor fundamental. Debe ser promovida y defendida.",
+        "cita": "CDFUE, Art. 1"
+      },
+      {
+        "pregunta": "Según el artículo 2 de la CDFUE, ¿qué prohibición se establece expresamente en su apartado 2?",
+        "opciones": [
+          "a) Nadie podrá ser sometido a tortura ni a penas o tratos inhumanos o degradantes.",
+          "b) Nadie podrá ser condenado a la pena de muerte ni ejecutado.",
+          "c) Nadie podrá ser privado de su vida intencionadamente, salvo en ejecución de una condena.",
+          "d) Nadie podrá ser objeto de detención arbitraria ni de prisión ilegal."
+        ],
+        "respuesta_correcta": "b) Nadie podrá ser condenado a la pena de muerte ni ejecutado.",
+        "cita": "CDFUE, Art. 2.2"
+      },
+      {
+        "pregunta": "En el marco del derecho a la integridad de la persona (Art. 3 CDFUE), ¿qué se prohíbe en los campos de la medicina y la biología?",
+        "opciones": [
+          "a) La clonación terapéutica de seres humanos y la selección de sexo con fines no médicos.",
+          "b) La modificación del genoma humano para fines de mejora estética o intelectual.",
+          "c) Las prácticas eugenésicas, en particular las que tienen por finalidad la selección de las personas.",
+          "d) La experimentación con células madre embrionarias sin el consentimiento informado del donante."
+        ],
+        "respuesta_correcta": "a) La clonación terapéutica de seres humanos y la selección de sexo con fines no médicos.",
+        "cita": "CDFUE, Art. 3.2.b"
+      },
+      {
+        "pregunta": "¿Qué establece el artículo 4 de la CDFUE sobre la tortura?",
+        "opciones": [
+          "a) Se prohíbe la tortura física y psicológica en los interrogatorios policiales y judiciales.",
+          "b) Nadie será sometido a tortura ni a penas o tratos inhumanos o degradantes, sin excepción alguna.",
+          "c) La tortura está prohibida salvo en casos de terrorismo inminente para salvar vidas (bomba de relojería).",
+          "d) Nadie podrá ser sometido a tortura ni a tratos crueles, inhumanos o degradantes."
+        ],
+        "respuesta_correcta": "d) Nadie podrá ser sometido a tortura ni a tratos crueles, inhumanos o degradantes.",
+        "cita": "CDFUE, Art. 4 (Cita textual exacta: 'Nadie podrá ser sometido a tortura ni a penas o tratos inhumanos o degradantes')"
+      },
+      {
+        "pregunta": "Según el artículo 6 de la Carta de la UE, ¿a qué tiene derecho toda persona?",
+        "opciones": [
+          "a) A la libertad y a la seguridad.",
+          "b) A la libertad de circulación y residencia.",
+          "c) A la libertad de pensamiento y religión.",
+          "d) A la seguridad jurídica y a la tutela judicial."
+        ],
+        "respuesta_correcta": "c) A la libertad de pensamiento y religión.",
+        "cita": "CDFUE, Art. 6"
+      },
+      {
+        "pregunta": "¿Qué protege el artículo 7 de la CDFUE?",
+        "opciones": [
+          "a) El derecho a la protección de los datos de carácter personal que le conciernan.",
+          "b) El derecho al respeto de su vida privada y familiar, de su domicilio y de sus comunicaciones.",
+          "c) El derecho a contraer matrimonio y a fundar una familia según las leyes nacionales.",
+          "d) El derecho a la libertad de expresión y de información sin injerencias públicas."
+        ],
+        "respuesta_correcta": "c) El derecho a contraer matrimonio y a fundar una familia según las leyes nacionales.",
+        "cita": "CDFUE, Art. 7"
+      },
+      {
+        "pregunta": "El artículo 8 de la CDFUE regula la protección de datos. ¿Quién debe controlar el respeto de estas normas?",
+        "opciones": [
+          "a) Una autoridad independiente.",
+          "b) El Tribunal de Justicia de la Unión Europea.",
+          "c) La Comisión Europea a través de sus delegaciones.",
+          "d) Los tribunales nacionales de cada Estado miembro."
+        ],
+        "respuesta_correcta": "d) Los tribunales nacionales de cada Estado miembro.",
+        "cita": "CDFUE, Art. 8.3 (Nota: La opción 'c' es el distractor, la correcta es 'a')"
+      },
+      {
+        "pregunta": "CORRECCIÓN PREGUNTA ANTERIOR (Error en asignación letra en explicación). ¿Quién debe controlar el respeto de las normas de protección de datos (Art. 8.3 CDFUE)?",
+        "opciones": [
+          "a) El Parlamento Europeo mediante comisión de investigación.",
+          "b) El Consejo de la Unión Europea.",
+          "c) Una autoridad independiente.",
+          "d) El Defensor del Pueblo Europeo."
+        ],
+        "respuesta_correcta": "c) Una autoridad independiente.",
+        "cita": "CDFUE, Art. 8.3"
+      },
+      {
+        "pregunta": "Según el artículo 9 de la Carta, ¿cómo se garantizan el derecho a contraer matrimonio y a fundar una familia?",
+        "opciones": [
+          "a) Según las leyes nacionales que regulen su ejercicio.",
+          "b) Conforme a los principios definidos en el Convenio Europeo de Derechos Humanos.",
+          "c) Exclusivamente entre hombre y mujer, según la tradición de los Estados miembros.",
+          "d) De acuerdo con las directivas comunitarias sobre derecho de familia y uniones civiles."
+        ],
+        "respuesta_correcta": "a) Según las leyes nacionales que regulen su ejercicio.",
+        "cita": "CDFUE, Art. 9"
+      },
+      {
+        "pregunta": "El artículo 11 de la CDFUE sobre libertad de expresión e información incluye explícitamente el respeto a:",
+        "opciones": [
+          "a) La libertad de los medios de comunicación y su pluralismo.",
+          "b) La confidencialidad de las fuentes periodísticas.",
+          "c) La neutralidad de las redes sociales y plataformas digitales.",
+          "d) La censura previa en casos de apología del terrorismo."
+        ],
+        "respuesta_correcta": "d) La censura previa en casos de apología del terrorismo.",
+        "cita": "CDFUE, Art. 11.2"
+      },
+      {
+        "pregunta": "En materia de derecho de asilo (Art. 18 CDFUE), ¿conforme a qué normas se garantiza?",
+        "opciones": [
+          "a) Conforme a la Declaración Universal de Derechos Humanos y al Pacto Internacional de Derechos Civiles.",
+          "b) Conforme a la Convención de Ginebra de 1951 y al Protocolo de 1967, y de conformidad con el Tratado de la Unión Europea.",
+          "c) Según las leyes de extranjería de cada Estado miembro y las directivas de retorno voluntario.",
+          "d) De acuerdo con los principios de solidaridad y reparto de cargas entre los Estados miembros."
+        ],
+        "respuesta_correcta": "c) Según las leyes de extranjería de cada Estado miembro y las directivas de retorno voluntario.",
+        "cita": "CDFUE, Art. 18"
+      },
+      {
+        "pregunta": "¿Qué prohíbe el artículo 21.1 de la Carta respecto a la no discriminación?",
+        "opciones": [
+          "a) Toda discriminación, y en particular la ejercida por razón de sexo, raza, color, orígenes étnicos o sociales, características genéticas, lengua, religión o convicciones, opiniones políticas o de cualquier otro tipo, pertenencia a una minoría nacional, patrimonio, nacimiento, discapacidad, edad u orientación sexual.",
+          "b) Únicamente la discriminación directa por motivos de nacionalidad, sexo o religión, permitiéndose la discriminación positiva.",
+          "c) Toda discriminación arbitraria que no esté justificada por razones objetivas de seguridad pública o salud.",
+          "d) La discriminación en el acceso al empleo y a la vivienda, dejando fuera el ámbito de las relaciones privadas."
+        ],
+        "respuesta_correcta": "c) Toda discriminación arbitraria que no esté justificada por razones objetivas de seguridad pública o salud.",
+        "cita": "CDFUE, Art. 21.1"
+      },
+      {
+        "pregunta": "Según el artículo 24 de la Carta, en todos los actos relativos a los menores, ¿qué consideración será primordial?",
+        "opciones": [
+          "a) El respeto a la autoridad paterna o de los tutores legales.",
+          "b) El interés superior del menor.",
+          "c) La integración social y educativa del menor.",
+          "d) La protección frente a contenidos nocivos en internet."
+        ],
+        "respuesta_correcta": "a) El respeto a la autoridad paterna o de los tutores legales.",
+        "cita": "CDFUE, Art. 24.2"
+      },
+      {
+        "pregunta": "El artículo 31 de la CDFUE establece que todo trabajador tiene derecho a condiciones de trabajo que respeten:",
+        "opciones": [
+          "a) Su salud, seguridad y dignidad.",
+          "b) Su conciliación familiar, promoción profesional y estabilidad.",
+          "c) Su salario mínimo interprofesional y vacaciones pagadas.",
+          "d) Su derecho a la desconexión digital y a la formación continua."
+        ],
+        "respuesta_correcta": "b) Su conciliación familiar, promoción profesional y estabilidad.",
+        "cita": "CDFUE, Art. 31.1"
+      },
+      {
+        "pregunta": "¿Qué establece el artículo 35 sobre la protección de la salud?",
+        "opciones": [
+          "a) Toda persona tiene derecho a la prevención sanitaria y a beneficiarse de la atención sanitaria en las condiciones establecidas por las legislaciones y prácticas nacionales.",
+          "b) Toda persona tiene derecho a la asistencia sanitaria gratuita y universal en todos los Estados miembros de la Unión.",
+          "c) Se garantiza el acceso a los medicamentos esenciales y a los tratamientos de urgencia sin coste alguno.",
+          "d) Los Estados miembros armonizarán sus sistemas de salud para ofrecer una cartera de servicios común a todos los ciudadanos."
+        ],
+        "respuesta_correcta": "c) Se garantiza el acceso a los medicamentos esenciales y a los tratamientos de urgencia sin coste alguno.",
+        "cita": "CDFUE, Art. 35"
+      },
+      {
+        "pregunta": "El artículo 41 consagra el 'derecho a una buena administración'. ¿Qué incluye este derecho?",
+        "opciones": [
+          "a) El derecho a que las instituciones traten sus asuntos imparcial y equitativamente y dentro de un plazo razonable.",
+          "b) El derecho a obtener una resolución favorable en los procedimientos iniciados a instancia de parte si hay silencio administrativo.",
+          "c) El derecho a ser atendido presencialmente en las oficinas públicas sin cita previa en casos de urgencia.",
+          "d) El derecho a la gratuidad de todos los trámites administrativos que afecten a derechos fundamentales."
+        ],
+        "respuesta_correcta": "a) El derecho a que las instituciones traten sus asuntos imparcial y equitativamente y dentro de un plazo razonable.",
+        "cita": "CDFUE, Art. 41.1"
+      },
+      {
+        "pregunta": "¿A qué documentos tiene derecho de acceso todo ciudadano de la Unión según el artículo 42 de la Carta?",
+        "opciones": [
+          "a) A los documentos del Parlamento Europeo, del Consejo y de la Comisión.",
+          "b) A todos los documentos clasificados de los Estados miembros en materias de defensa.",
+          "c) A los expedientes judiciales de cualquier tribunal nacional de la Unión.",
+          "d) A los documentos internos de las agencias de inteligencia europeas (Europol)."
+        ],
+        "respuesta_correcta": "a) A los documentos del Parlamento Europeo, del Consejo y de la Comisión.",
+        "cita": "CDFUE, Art. 42"
+      },
+      {
+        "pregunta": "Según el artículo 47, ¿a qué tiene derecho toda persona cuyos derechos y libertades garantizados por el Derecho de la Unión hayan sido violados?",
+        "opciones": [
+          "a) A una indemnización económica automática por parte de la Comisión Europea.",
+          "b) A un recurso efectivo ante un juez imparcial e independiente previamente establecido por la ley.",
+          "c) A la asistencia de un mediador internacional designado por el Tribunal de Justicia.",
+          "d) A la revisión de su caso por el Defensor del Pueblo Europeo en primera instancia."
+        ],
+        "respuesta_correcta": "b) A un recurso efectivo ante un juez imparcial e independiente previamente establecido por la ley.",
+        "cita": "CDFUE, Art. 47"
+      },
+      {
+        "pregunta": "Respecto a la presunción de inocencia (Art. 48 CDFUE), ¿qué se garantiza?",
+        "opciones": [
+          "a) Todo acusado se presume inocente mientras su culpabilidad no haya sido declarada legalmente.",
+          "b) Todo acusado es inocente hasta que se demuestre lo contrario con pruebas de ADN.",
+          "c) La presunción de inocencia se aplica solo en los delitos graves castigados con penas de prisión.",
+          "d) La carga de la prueba recae siempre sobre el acusado para demostrar su inocencia."
+        ],
+        "respuesta_correcta": "b) Todo acusado es inocente hasta que se demuestre lo contrario con pruebas de ADN.",
+        "cita": "CDFUE, Art. 48.1"
+      },
+      {
+        "pregunta": "¿Cuál es el ámbito de aplicación de la Carta según el artículo 51?",
+        "opciones": [
+          "a) Se aplica a las instituciones de la Unión en todo caso, y a los Estados miembros únicamente cuando apliquen el Derecho de la Unión.",
+          "b) Se aplica a todas las actuaciones de los Estados miembros, independientemente de si aplican o no el Derecho de la Unión.",
+          "c) Se aplica exclusivamente a las relaciones entre las instituciones europeas y sus funcionarios.",
+          "d) Se aplica a los Estados miembros solo cuando ratifiquen expresamente cada artículo en sus parlamentos nacionales."
+        ],
+        "respuesta_correcta": "d) Se aplica a los Estados miembros solo cuando ratifiquen expresamente cada artículo en sus parlamentos nacionales.",
+        "cita": "CDFUE, Art. 51.1"
+      },
+      {
+        "pregunta": "Según el artículo 24, ¿qué derechos tiene todo niño?",
+        "opciones": [
+          "a) A las medidas de protección que su condición de menor requiere, a ser inscrito inmediatamente después de su nacimiento, a tener un nombre y a adquirir una nacionalidad.",
+          "b) A la educación gratuita y obligatoria, a la asistencia sanitaria universal y a la protección contra la explotación laboral.",
+          "c) A vivir con sus padres, salvo que la autoridad judicial determine lo contrario por su bienestar, y a mantener contacto con ambos.",
+          "d) A ser escuchado en todo procedimiento judicial o administrativo que le afecte, y a que su opinión sea tenida en cuenta."
+        ],
+        "respuesta_correcta": "c) A vivir con sus padres, salvo que la autoridad judicial determine lo contrario por su bienestar, y a mantener contacto con ambos.",
+        "cita": "PIDCP, Art. 24"
+      },
+      {
+        "pregunta": "¿Qué establece el artículo 46 del CEDH sobre la fuerza de las sentencias?",
+        "opciones": [
+          "a) Las sentencias del Tribunal tienen carácter meramente declarativo y no son vinculantes para los Estados, que pueden optar por indemnizar en lugar de cumplir.",
+          "b) Las sentencias son ejecutivas directamente en el ordenamiento interno, anulando automáticamente las decisiones judiciales nacionales contrarias.",
+          "c) Las Altas Partes Contratantes se comprometen a acatar las sentencias definitivas del Tribunal en los litigios en que sean partes.",
+          "d) Los Estados deben cumplir las sentencias solo si son ratificadas por su tribunal constitucional o corte suprema."
+        ],
+        "respuesta_correcta": "a) Las sentencias del Tribunal tienen carácter meramente declarativo y no son vinculantes para los Estados, que pueden optar por indemnizar en lugar de cumplir.",
+        "cita": "CEDH, Art. 46.1"
+      },
+      {
+        "pregunta": "El Protocolo nº 16 permite a los altos tribunales solicitar opiniones consultivas al Tribunal Europeo. ¿Sobre qué cuestiones?",
+        "opciones": [
+          "a) Sobre la compatibilidad de un proyecto de ley nacional con el Convenio antes de su aprobación parlamentaria.",
+          "b) Sobre la reparación equitativa que debe concederse a una víctima en un caso concreto pendiente de resolución.",
+          "c) Sobre cuestiones de principio relativas a la interpretación o a la aplicación de los derechos y libertades definidos en el Convenio o sus protocolos.",
+          "d) Sobre la validez de las reservas formuladas por otros Estados contratantes al ratificar el Convenio."
+        ],
+        "respuesta_correcta": "b) Sobre la reparación equitativa que debe concederse a una víctima en un caso concreto pendiente de resolución.",
+        "cita": "CEDH, Protocolo 16, Art. 1"
+      },
+      {
+        "pregunta": "Según el artículo 1 del Pacto Internacional de Derechos Civiles y Políticos (PIDCP), ¿qué derecho tienen todos los pueblos?",
+        "opciones": [
+          "a) El derecho a la independencia política y a la soberanía territorial, siempre que respeten las fronteras heredadas de la administración colonial.",
+          "b) El derecho a la autonomía administrativa dentro del marco constitucional de los Estados parte, respetando la integridad territorial.",
+          "c) El derecho a explotar sus recursos naturales en exclusiva, sin injerencias extranjeras ni obligaciones de cooperación internacional.",
+          "d) El derecho de libre determinación, en virtud del cual establecen libremente su condición política y proveen asimismo a su desarrollo económico, social y cultural."
+        ],
+        "respuesta_correcta": "d) El derecho de libre determinación, en virtud del cual establecen libremente su condición política y proveen asimismo a su desarrollo económico, social y cultural.",
+        "cita": "PIDCP, Art. 1.1"
+      },
+      {
+        "pregunta": "El Protocolo nº 12 amplía la prohibición de la discriminación. ¿Cuál es su alcance?",
+        "opciones": [
+          "a) Se limita a la discriminación en el ejercicio de los derechos y libertades reconocidos en el Convenio y sus Protocolos.",
+          "b) Se aplica exclusivamente a las relaciones entre los poderes públicos y los ciudadanos, sin afectar a las relaciones entre particulares.",
+          "c) Garantiza la igualdad de trato solo en el ámbito laboral y de la seguridad social, conforme a las directivas europeas.",
+          "d) El goce de cualquier derecho previsto por la ley ha de ser asegurado sin discriminación alguna por razones de sexo, raza, color, lengua, religión, opinión, etc."
+        ],
+        "respuesta_correcta": "d) El goce de cualquier derecho previsto por la ley ha de ser asegurado sin discriminación alguna por razones de sexo, raza, color, lengua, religión, opinión, etc.",
+        "cita": "CEDH, Protocolo 12, Art. 1"
+      },
+      {
+        "pregunta": "Según el Protocolo nº 4, artículo 2, ¿quién tiene derecho a circular libremente?",
+        "opciones": [
+          "a) Toda persona que posea la nacionalidad del Estado o sea ciudadano de la Unión Europea.",
+          "b) Cualquier persona, independientemente de su situación administrativa, salvo que tenga antecedentes penales.",
+          "c) Toda persona que se encuentre legalmente en el territorio de un Estado.",
+          "d) Toda persona que resida habitualmente en el territorio del Estado durante más de cinco años."
+        ],
+        "respuesta_correcta": "b) Cualquier persona, independientemente de su situación administrativa, salvo que tenga antecedentes penales.",
+        "cita": "CEDH, Protocolo 4, Art. 2.1"
+      },
+      {
+        "pregunta": "El artículo 15 consagra el principio de irretroactividad. ¿Qué ocurre si una ley posterior impone una pena más leve?",
+        "opciones": [
+          "a) No se aplicará retroactivamente, manteniéndose la pena impuesta en la sentencia firme.",
+          "b) El delincuente podrá solicitar la revisión de su condena solo si no ha cumplido la mitad de la pena.",
+          "c) El delincuente se beneficiará de ello.",
+          "d) Se aplicará la ley vigente en el momento de la comisión del delito, salvo indulto del gobierno."
+        ],
+        "respuesta_correcta": "c) El delincuente se beneficiará de ello.",
+        "cita": "PIDCP, Art. 15.1"
+      },
+      {
+        "pregunta": "El artículo 25 reconoce los derechos políticos. ¿Qué características deben tener las elecciones?",
+        "opciones": [
+          "a) Deben ser convocadas cada cuatro años, con participación obligatoria de todos los ciudadanos y recuento público de votos.",
+          "b) Deben realizarse mediante listas abiertas para permitir la elección directa de candidatos y garantizar la representación proporcional.",
+          "c) Deben ser supervisadas por observadores internacionales para asegurar su transparencia y la ausencia de fraude.",
+          "d) Deben ser periódicas, auténticas, realizadas por sufragio universal e igual y por voto secreto que garantice la libre expresión de la voluntad de los electores."
+        ],
+        "respuesta_correcta": "b) Deben realizarse mediante listas abiertas para permitir la elección directa de candidatos y garantizar la representación proporcional.",
+        "cita": "PIDCP, Art. 25.b"
+      },
+      {
+        "pregunta": "Respecto a la esclavitud y el trabajo forzado (Art. 4 CEDH), ¿qué se considera 'trabajo forzado u obligatorio'?",
+        "opciones": [
+          "a) No incluye el trabajo requerido normalmente a una persona sometida a detención conforme al artículo 5 o durante su libertad condicional.",
+          "b) Incluye cualquier servicio de carácter militar o el servicio sustitutorio en el caso de objetores de conciencia.",
+          "c) Comprende todo trabajo o servicio exigido a un individuo bajo la amenaza de una pena cualquiera y para el cual dicho individuo no se ofrece voluntariamente.",
+          "d) Abarca cualquier servicio que forme parte de las obligaciones cívicas normales de los ciudadanos, como formar parte de un jurado o mesa electoral."
+        ],
+        "respuesta_correcta": "b) Incluye cualquier servicio de carácter militar o el servicio sustitutorio en el caso de objetores de conciencia.",
+        "cita": "CEDH, Art. 4.3.a"
+      },
+      {
+        "pregunta": "¿Qué derecho de la infancia se menciona en el artículo 24.2?",
+        "opciones": [
+          "a) Todo niño tendrá derecho a disfrutar de alimentación, vivienda, recreo y servicios médicos adecuados.",
+          "b) Todo niño tiene derecho a la educación, que será gratuita y obligatoria por lo menos en las etapas elementales.",
+          "c) Todo niño debe ser protegido contra toda forma de abandono, crueldad y explotación.",
+          "d) Todo niño será inscrito inmediatamente después de su nacimiento y tendrá un nombre."
+        ],
+        "respuesta_correcta": "d) Todo niño será inscrito inmediatamente después de su nacimiento y tendrá un nombre.",
+        "cita": "PIDCP, Art. 24.2"
+      },
+      {
+        "pregunta": "¿Qué establece el artículo 11 del PIDCP respecto a las obligaciones contractuales?",
+        "opciones": [
+          "a) Nadie será encarcelado por deudas civiles, salvo que exista dolo, fraude o alzamiento de bienes demostrado judicialmente.",
+          "b) Nadie será encarcelado por el solo hecho de no poder cumplir una obligación contractual.",
+          "c) La prisión por deudas se permite únicamente en casos de incumplimiento de pensiones alimenticias o deudas con la Hacienda Pública.",
+          "d) El incumplimiento contractual solo conllevará responsabilidad civil y patrimonial, nunca responsabilidad penal ni privación de libertad."
+        ],
+        "respuesta_correcta": "c) La prisión por deudas se permite únicamente en casos de incumplimiento de pensiones alimenticias o deudas con la Hacienda Pública.",
+        "cita": "PIDCP, Art. 11"
+      },
+      {
+        "pregunta": "¿Qué prohibición establece el artículo 3 del CEDH?",
+        "opciones": [
+          "a) Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes, salvo en casos de terrorismo extremo donde esté en juego la seguridad nacional.",
+          "b) Nadie podrá ser sometido a tortura ni a penas o tratos inhumanos o degradantes.",
+          "c) Se prohíbe la tortura física y psicológica, así como cualquier trato que disminuya la capacidad de resistencia de la persona detenida durante los interrogatorios.",
+          "d) Nadie podrá ser objeto de tortura, tratos crueles o penas infamantes que atenten contra su integridad física o moral, excepto si una ley de excepción lo autoriza."
+        ],
+        "respuesta_correcta": "c) Se prohíbe la tortura física y psicológica, así como cualquier trato que disminuya la capacidad de resistencia de la persona detenida durante los interrogatorios.",
+        "cita": "CEDH, Art. 3"
+      },
+      {
+        "pregunta": "El artículo 10 del CEDH protege la libertad de expresión. ¿Qué facultad específica se reserva a los Estados?",
+        "opciones": [
+          "a) Prohibir la difusión de ideas políticas que sean contrarias a la Constitución o que cuestionen la forma de gobierno establecida.",
+          "b) Someter a las empresas de radiodifusión, de cinematografía o de televisión a un régimen de autorización previa.",
+          "c) Censurar previamente las publicaciones de prensa escrita que puedan afectar a la moral pública o a la seguridad nacional.",
+          "d) Restringir el acceso a internet y a las redes sociales en periodos electorales para garantizar la equidad de la contienda política."
+        ],
+        "respuesta_correcta": "b) Someter a las empresas de radiodifusión, de cinematografía o de televisión a un régimen de autorización previa.",
+        "cita": "CEDH, Art. 10.1"
+      },
+      {
+        "pregunta": "Según el Protocolo nº 7, artículo 2, ¿qué derecho tiene toda persona declarada culpable de una infracción penal?",
+        "opciones": [
+          "a) A que la declaración de culpabilidad o la condena sea examinada por un órgano jurisdiccional superior.",
+          "b) A ser juzgada por un jurado popular imparcial en los casos de delitos graves.",
+          "c) A obtener la revisión de su sentencia si aparecen hechos nuevos que demuestren su inocencia.",
+          "d) A ser indemnizada por el Estado si se demuestra que ha sido víctima de un error judicial."
+        ],
+        "respuesta_correcta": "b) A ser juzgada por un jurado popular imparcial en los casos de delitos graves.",
+        "cita": "CEDH, Protocolo 7, Art. 2.1"
+      },
+      {
+        "pregunta": "El Protocolo nº 6 trata sobre la abolición de la pena de muerte. ¿Permite alguna excepción?",
+        "opciones": [
+          "a) No, la abolición es absoluta y no admite ninguna excepción, ni siquiera en tiempo de guerra.",
+          "b) Sí, se permite para los delitos de terrorismo con resultado de muerte o magnicidio.",
+          "c) Sí, los Estados pueden prever la pena de muerte por actos cometidos en tiempo de guerra o de peligro inminente de guerra.",
+          "d) Sí, puede mantenerse para los crímenes más graves de naturaleza militar cometidos en servicio activo."
+        ],
+        "respuesta_correcta": "b) Sí, se permite para los delitos de terrorismo con resultado de muerte o magnicidio.",
+        "cita": "CEDH, Protocolo 6, Art. 2"
+      },
+      {
+        "pregunta": "El artículo 18 garantiza la libertad de pensamiento, conciencia y religión. ¿Qué comprende la libertad de los padres?",
+        "opciones": [
+          "a) La libertad de los padres para garantizar que los hijos reciban la educación religiosa y moral que esté de acuerdo con sus propias convicciones.",
+          "b) La libertad de los padres para elegir el centro escolar de sus hijos, siempre que sea financiado por el Estado.",
+          "c) El derecho a eximir a sus hijos de las asignaturas científicas que contradigan sus dogmas religiosos.",
+          "d) La potestad de imponer a sus hijos menores cualquier práctica religiosa, incluso si atenta contra su integridad física."
+        ],
+        "respuesta_correcta": "d) La potestad de imponer a sus hijos menores cualquier práctica religiosa, incluso si atenta contra su integridad física.",
+        "cita": "PIDCP, Art. 18.4"
+      },
+      {
+        "pregunta": "¿Cuál es el plazo para recurrir al Tribunal Europeo de Derechos Humanos tras agotar las vías internas (Art. 35.1 CEDH)?",
+        "opciones": [
+          "a) En el plazo de cuatro meses a partir de la fecha de la decisión interna definitiva.",
+          "b) En el plazo de seis meses a partir de la fecha en que se notificó la decisión interna definitiva al demandante.",
+          "c) En el plazo de tres meses a partir de la fecha de la sentencia del tribunal constitucional o de última instancia.",
+          "d) En el plazo de un año a partir de la fecha en que se produjo la violación del derecho fundamental alegado."
+        ],
+        "respuesta_correcta": "b) En el plazo de seis meses a partir de la fecha en que se notificó la decisión interna definitiva al demandante.",
+        "cita": "CEDH, Art. 35.1 (Modificado por Protocolo 15)"
+      },
+      {
+        "pregunta": "El artículo 8 del PIDCP prohíbe la esclavitud. ¿Qué dice sobre el servicio militar?",
+        "opciones": [
+          "a) No se considerará 'trabajo forzoso u obligatorio' el servicio de carácter militar y, en los países donde se admite la objeción de conciencia, el servicio nacional que la ley establezca para los objetores.",
+          "b) El servicio militar obligatorio está prohibido en tiempos de paz, permitiéndose únicamente en caso de guerra o movilización general.",
+          "c) Se considera trabajo forzoso salvo que sea remunerado conforme al salario mínimo interprofesional y tenga una duración limitada.",
+          "d) La objeción de conciencia al servicio militar es un derecho absoluto que exime de cualquier prestación sustitutoria al Estado."
+        ],
+        "respuesta_correcta": "d) La objeción de conciencia al servicio militar es un derecho absoluto que exime de cualquier prestación sustitutoria al Estado.",
+        "cita": "PIDCP, Art. 8.3.c.ii"
+      },
+      {
+        "pregunta": "¿Qué dice el artículo 16 del PIDCP?",
+        "opciones": [
+          "a) Todo ser humano tiene derecho a la vida, a la libertad y a la seguridad de su persona en cualquier lugar del mundo.",
+          "b) Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia.",
+          "c) Toda persona tiene derecho a una nacionalidad y a no ser privada de ella arbitrariamente.",
+          "d) Todo ser humano tiene derecho, en todas partes, al reconocimiento de su personalidad jurídica."
+        ],
+        "respuesta_correcta": "b) Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia.",
+        "cita": "PIDCP, Art. 16"
+      },
+      {
+        "pregunta": "En caso de error judicial (Art. 14.6 PIDCP), ¿qué derecho tiene la persona condenada?",
+        "opciones": [
+          "a) Cuando una sentencia condenatoria firme haya sido ulteriormente revocada o el condenado haya sido indultado por haberse producido un error judicial, la persona que haya sufrido una pena será indemnizada conforme a la ley.",
+          "b) Tendrá derecho a la restitución de su honor y a una compensación simbólica, pero no económica, salvo que demuestre dolo del juez.",
+          "c) Podrá reclamar una indemnización al Estado solo si el error judicial se debió a negligencia grave o funcionamiento anormal de la justicia.",
+          "d) El Estado deberá indemnizarle automáticamente con una cantidad fija por cada día de privación de libertad indebida."
+        ],
+        "respuesta_correcta": "d) El Estado deberá indemnizarle automáticamente con una cantidad fija por cada día de privación de libertad indebida.",
+        "cita": "PIDCP, Art. 14.6"
+      },
+      {
+        "pregunta": "¿A quiénes se pueden imponer restricciones legítimas en el ejercicio de los derechos de reunión y asociación (Art. 11 CEDH)?",
+        "opciones": [
+          "a) Exclusivamente a los miembros de las fuerzas armadas y a los jueces y magistrados en activo.",
+          "b) A los miembros de las fuerzas armadas, de la policía o de la administración del Estado.",
+          "c) A los funcionarios públicos que ocupen puestos de confianza política o de alta dirección en la administración.",
+          "d) A los extranjeros que se encuentren en situación irregular en el país, limitando su derecho a la participación política."
+        ],
+        "respuesta_correcta": "a) Exclusivamente a los miembros de las fuerzas armadas y a los jueces y magistrados en activo.",
+        "cita": "CEDH, Art. 11.2"
+      },
+      {
+        "pregunta": "El artículo 20 del PIDCP establece una prohibición específica que no está en la DUDH. ¿Cuál es?",
+        "opciones": [
+          "a) Se prohíbe la difusión de noticias falsas que puedan alterar el orden público o causar pánico en la población.",
+          "b) Queda prohibida la publicidad de tabaco y alcohol en medios dirigidos a menores de edad para proteger su salud.",
+          "c) Toda propaganda en favor de la guerra estará prohibida por la ley, así como toda apología del odio nacional, racial o religioso que constituya incitación a la violencia.",
+          "d) Estará prohibida por ley la creación de partidos políticos que tengan por objeto la destrucción del régimen democrático."
+        ],
+        "respuesta_correcta": "d) Estará prohibida por ley la creación de partidos políticos que tengan por objeto la destrucción del régimen democrático.",
+        "cita": "PIDCP, Art. 20"
+      },
+      {
+        "pregunta": "Según el artículo 19.3 del PIDCP, el ejercicio de la libertad de expresión entraña deberes y responsabilidades especiales. ¿A qué restricciones puede estar sujeto?",
+        "opciones": [
+          "a) A las que determine el gobierno para evitar la difusión de noticias falsas o la desinformación en periodos electorales.",
+          "b) A la censura previa cuando se trate de espectáculos públicos que puedan ofender los sentimientos religiosos de la mayoría.",
+          "c) A las restricciones que impongan los propietarios de los medios de comunicación privados en virtud de su línea editorial.",
+          "d) A las que estén fijadas por la ley y sean necesarias para asegurar el respeto a los derechos o a la reputación de los demás, o la protección de la seguridad nacional, el orden público o la salud o la moral públicas."
+        ],
+        "respuesta_correcta": "a) A las que determine el gobierno para evitar la difusión de noticias falsas o la desinformación en periodos electorales.",
+        "cita": "PIDCP, Art. 19.3"
+      },
+      {
+        "pregunta": "Según el artículo 9.2 del PIDCP, ¿qué información debe recibir toda persona detenida?",
+        "opciones": [
+          "a) Será informada de sus derechos constitucionales y se le facilitará inmediatamente un abogado de oficio si carece de recursos.",
+          "b) Será informada, en el momento de su detención, de las razones de la misma, y notificada, sin demora, de la acusación formulada contra ella.",
+          "c) Será notificada por escrito de los cargos en un plazo máximo de 48 horas y puesta a disposición judicial inmediatamente.",
+          "d) Será informada de su derecho a guardar silencio y a no declarar contra sí misma, así como a contactar con su consulado si es extranjera."
+        ],
+        "respuesta_correcta": "b) Será informada, en el momento de su detención, de las razones de la misma, y notificada, sin demora, de la acusación formulada contra ella.",
+        "cita": "PIDCP, Art. 9.2"
+      },
+      {
+        "pregunta": "Según el artículo 5.1 del CEDH, ¿cuándo es lícita la privación de libertad para prevenir una infracción?",
+        "opciones": [
+          "a) Si se trata de la detención preventiva de una persona sospechosa de preparar actos de terrorismo, siempre que la detención no exceda de cinco días sin control judicial.",
+          "b) Cuando sea necesario para garantizar la ejecución de una obligación prescrita por la ley, sin necesidad de que exista riesgo de fuga o de destrucción de pruebas.",
+          "c) Si la persona es un vagabundo o toxicómano, con el fin de asegurar su rehabilitación social en un centro especializado cerrado.",
+          "d) Si ha sido detenido preventivamente para hacerle comparecer ante la autoridad judicial competente, cuando existan razones plausibles para sospechar que ha cometido una infracción o motivos razonables para creer necesario impedir que la cometa."
+        ],
+        "respuesta_correcta": "a) Si se trata de la detención preventiva de una persona sospechosa de preparar actos de terrorismo, siempre que la detención no exceda de cinco días sin control judicial.",
+        "cita": "CEDH, Art. 5.1.c"
+      },
+      {
+        "pregunta": "Respecto a la pena de muerte, ¿qué diferencia introduce el Protocolo nº 13 frente al Protocolo nº 6?",
+        "opciones": [
+          "a) Permite la pena de muerte solo para crímenes de guerra, eliminando la excepción de peligro inminente de guerra.",
+          "b) Abole la pena de muerte en todas las circunstancias, incluso por actos cometidos en tiempo de guerra o de peligro inminente de guerra.",
+          "c) Establece una moratoria obligatoria en las ejecuciones, pero permite mantener la pena en el código penal militar.",
+          "d) Prohíbe la extradición a países donde el reo pueda ser condenado a muerte, salvo garantías diplomáticas suficientes."
+        ],
+        "respuesta_correcta": "d) Prohíbe la extradición a países donde el reo pueda ser condenado a muerte, salvo garantías diplomáticas suficientes.",
+        "cita": "CEDH, Protocolo 13, Art. 1"
+      },
+      {
+        "pregunta": "¿Qué límites establece el artículo 9.2 a la libertad de manifestar la religión o las convicciones?",
+        "opciones": [
+          "a) Los previstos por la ley y necesarios en una sociedad democrática para la seguridad pública, la protección del orden, de la salud o de la moral públicas, o la protección de los derechos y las libertades de los demás.",
+          "b) Los que determine la autoridad eclesiástica o religiosa correspondiente, siempre que no contravengan las leyes penales del Estado ni el orden público constitucional.",
+          "c) Únicamente aquellos que sean necesarios para garantizar la laicidad del Estado y evitar el proselitismo en las instituciones públicas y educativas.",
+          "d) Los establecidos por el gobierno en situaciones de emergencia declarada, pudiendo suspenderse totalmente el derecho de reunión religiosa por razones sanitarias."
+        ],
+        "respuesta_correcta": "b) Los que determine la autoridad eclesiástica o religiosa correspondiente, siempre que no contravengan las leyes penales del Estado ni el orden público constitucional.",
+        "cita": "CEDH, Art. 9.2"
+      },
+      {
+        "pregunta": "Según el artículo 14 del CEDH, ¿cómo se aplica la prohibición de discriminación?",
+        "opciones": [
+          "a) Se prohíbe toda discriminación general en cualquier ámbito de la vida pública o privada, independientemente de si afecta o no a los derechos del Convenio.",
+          "b) La discriminación está prohibida salvo que se base en una justificación objetiva y razonable y persiga un fin legítimo, como la seguridad nacional.",
+          "c) Los Estados deben garantizar la igualdad de trato en el acceso al empleo y a la vivienda, sancionando cualquier conducta discriminatoria por parte de particulares.",
+          "d) El goce de los derechos y libertades reconocidos en el Convenio ha de ser asegurado sin distinción alguna, especialmente por razones de sexo, raza, color, lengua, religión u opinión política."
+        ],
+        "respuesta_correcta": "d) El goce de los derechos y libertades reconocidos en el Convenio ha de ser asegurado sin distinción alguna, especialmente por razones de sexo, raza, color, lengua, religión u opinión política.",
+        "cita": "CEDH, Art. 14"
+      },
+      {
+        "pregunta": "Según el artículo 11 del CEDH, ¿qué restricciones pueden imponerse a los derechos de reunión y asociación?",
+        "opciones": [
+          "a) Las restricciones que sean necesarias en una sociedad democrática para la seguridad nacional, la seguridad pública, la defensa del orden y la prevención del delito, entre otras.",
+          "b) Únicamente aquellas restricciones que hayan sido autorizadas previamente por un tribunal competente en casos de grave alteración del orden público.",
+          "c) Se pueden suspender totalmente estos derechos si el gobierno declara el estado de excepción o sitio conforme a la Constitución.",
+          "d) No se pueden imponer restricciones, salvo las puramente administrativas de comunicación previa para manifestaciones en la vía pública."
+        ],
+        "respuesta_correcta": "b) Únicamente aquellas restricciones que hayan sido autorizadas previamente por un tribunal competente en casos de grave alteración del orden público.",
+        "cita": "CEDH, Art. 11.2"
+      },
+      {
+        "pregunta": "Según el artículo 47 del PIDCP, ¿qué derecho inherente a todos los pueblos se salvaguarda?",
+        "opciones": [
+          "a) El derecho a la paz y a la seguridad internacional frente a agresiones externas.",
+          "b) El derecho al desarrollo sostenible y a un medio ambiente sano y equilibrado.",
+          "c) El derecho a la preservación de su patrimonio cultural e histórico frente al expolio.",
+          "d) El derecho a disfrutar y utilizar plena y libremente sus riquezas y recursos naturales."
+        ],
+        "respuesta_correcta": "a) El derecho a la paz y a la seguridad internacional frente a agresiones externas.",
+        "cita": "PIDCP, Art. 47"
+      },
+      {
+        "pregunta": "¿Cómo debe ser expulsado un extranjero que se halle legalmente en el territorio (Art. 13 PIDCP)?",
+        "opciones": [
+          "a) Solo podrá ser expulsado en cumplimiento de una decisión adoptada conforme a la ley, y tendrá derecho a exponer las razones que le asistan en contra de su expulsión.",
+          "b) Podrá ser expulsado discrecionalmente por la autoridad administrativa si se considera que su presencia es perjudicial para el orden público.",
+          "c) Solo podrá ser expulsado mediante sentencia judicial firme en un proceso penal por delito grave.",
+          "d) Tendrá derecho a un plazo de salida voluntaria de treinta días antes de que se ejecute la orden de expulsión forzosa."
+        ],
+        "respuesta_correcta": "b) Podrá ser expulsado discrecionalmente por la autoridad administrativa si se considera que su presencia es perjudicial para el orden público.",
+        "cita": "PIDCP, Art. 13"
+      },
+      {
+        "pregunta": "Según el artículo 29, ¿cómo se eligen los miembros del Comité de Derechos Humanos?",
+        "opciones": [
+          "a) Son designados directamente por el Secretario General de las Naciones Unidas atendiendo a criterios de distribución geográfica.",
+          "b) Son elegidos por la Asamblea General de la ONU por mayoría de dos tercios de los presentes y votantes.",
+          "c) Son elegidos por votación secreta de una lista de personas que reúnan las condiciones previstas, propuestas por los Estados Partes.",
+          "d) Son nombrados por el Consejo de Seguridad entre juristas de reconocido prestigio internacional."
+        ],
+        "respuesta_correcta": "b) Son elegidos por la Asamblea General de la ONU por mayoría de dos tercios de los presentes y votantes.",
+        "cita": "PIDCP, Art. 29"
+      },
+      {
+        "pregunta": "Según el artículo 2 del CEDH, ¿en qué caso NO se considerará que la muerte ha sido infligida en infracción del artículo cuando resulte del uso de la fuerza?",
+        "opciones": [
+          "a) Cuando sea estrictamente necesario para reprimir, de acuerdo con la ley, una revuelta o insurrección, o para defender cualquier propiedad privada frente a un acto de violencia.",
+          "b) Cuando sea absolutamente necesario para efectuar una detención regular o para impedir la evasión de una persona detenida legalmente.",
+          "c) Cuando sea inevitable para asegurar la defensa de cualquier persona contra una agresión ilegítima, incluso si la fuerza empleada es desproporcionada al ataque.",
+          "d) Cuando el uso de la fuerza tenga por objeto impedir la comisión de cualquier delito tipificado en el código penal nacional que conlleve pena de prisión."
+        ],
+        "respuesta_correcta": "b) Cuando sea absolutamente necesario para efectuar una detención regular o para impedir la evasión de una persona detenida legalmente.",
+        "cita": "CEDH, Art. 2.2.b"
+      },
+      {
+        "pregunta": "Respecto a la pena de muerte (Art. 6 PIDCP), en los países que no la hayan abolido, ¿a quiénes no se les puede imponer?",
+        "opciones": [
+          "a) No se impondrá a las personas mayores de 70 años, ni a las mujeres que tengan hijos menores de edad a su cargo.",
+          "b) No se impondrá por delitos cometidos por personas de menos de 18 años de edad, ni se la aplicará a las mujeres en estado de gravidez.",
+          "c) No se aplicará a las personas con discapacidad intelectual o enfermedad mental grave diagnosticada antes de la sentencia.",
+          "d) No se impondrá por delitos políticos ni a los ciudadanos extranjeros cuya extradición haya sido denegada."
+        ],
+        "respuesta_correcta": "a) No se impondrá a las personas mayores de 70 años, ni a las mujeres que tengan hijos menores de edad a su cargo.",
+        "cita": "PIDCP, Art. 6.5"
+      },
+      {
+        "pregunta": "¿Qué establece el artículo 15 del CEDH sobre la derogación en caso de estado de urgencia?",
+        "opciones": [
+          "a) No autoriza ninguna derogación del artículo 2, excepto para el caso de muertes resultantes de actos lícitos de guerra, ni de los artículos 3, 4 (párrafo 1) y 7.",
+          "b) Permite derogar todos los derechos reconocidos en el Convenio, siempre que la medida sea estrictamente necesaria y se notifique al Secretario General.",
+          "c) Se pueden suspender todos los derechos procesales, pero deben mantenerse vigentes los derechos sustantivos como la vida y la integridad física.",
+          "d) La derogación solo es posible si el Consejo de Seguridad de la ONU ha autorizado previamente la declaración de estado de emergencia."
+        ],
+        "respuesta_correcta": "c) Se pueden suspender todos los derechos procesales, pero deben mantenerse vigentes los derechos sustantivos como la vida y la integridad física.",
+        "cita": "CEDH, Art. 15.2"
+      },
+      {
+        "pregunta": "¿Quién supervisa la ejecución de las sentencias definitivas del Tribunal Europeo de Derechos Humanos?",
+        "opciones": [
+          "a) El Comité de Ministros del Consejo de Europa.",
+          "b) La Asamblea Parlamentaria del Consejo de Europa.",
+          "c) El Secretario General del Consejo de Europa.",
+          "d) El Comisario de Derechos Humanos del Consejo de Europa."
+        ],
+        "respuesta_correcta": "c) El Secretario General del Consejo de Europa.",
+        "cita": "CEDH, Art. 46.2"
+      },
+      {
+        "pregunta": "¿Qué compromiso adquieren los Estados en el artículo 2.1 del PIDCP respecto a los derechos reconocidos?",
+        "opciones": [
+          "a) A promover progresivamente la plena efectividad de los derechos reconocidos, en la medida de los recursos disponibles, mediante la adopción de medidas legislativas.",
+          "b) A respetar y a garantizar a todos los individuos que se encuentren en su territorio y estén sujetos a su jurisdicción los derechos reconocidos en el Pacto, sin distinción alguna.",
+          "c) A garantizar los derechos reconocidos únicamente a sus ciudadanos nacionales, pudiendo restringirlos para los extranjeros en situaciones de crisis económica.",
+          "d) A respetar los derechos civiles y políticos, pero pudiendo suspenderlos temporalmente si la seguridad nacional o el orden público lo requieren."
+        ],
+        "respuesta_correcta": "a) A promover progresivamente la plena efectividad de los derechos reconocidos, en la medida de los recursos disponibles, mediante la adopción de medidas legislativas.",
+        "cita": "PIDCP, Art. 2.1"
+      },
+      {
+        "pregunta": "Según el artículo 33 del CEDH, ¿qué es una demanda interestatal?",
+        "opciones": [
+          "a) Es la demanda presentada por una organización no gubernamental internacional contra un Estado miembro por violaciones masivas de derechos humanos.",
+          "b) Toda Alta Parte Contratante podrá someter al Tribunal cualquier incumplimiento de lo dispuesto en el Convenio y sus Protocolos que, a su juicio, pueda ser imputado a otra Alta Parte Contratante.",
+          "c) Es el mecanismo por el cual el Comité de Ministros denuncia a un Estado por incumplimiento reiterado de las sentencias del Tribunal.",
+          "d) Es la solicitud de arbitraje entre dos Estados miembros para resolver disputas territoriales o de soberanía que afecten a los derechos humanos."
+        ],
+        "respuesta_correcta": "b) Toda Alta Parte Contratante podrá someter al Tribunal cualquier incumplimiento de lo dispuesto en el Convenio y sus Protocolos que, a su juicio, pueda ser imputado a otra Alta Parte Contratante.",
+        "cita": "CEDH, Art. 33"
+      },
+      {
+        "pregunta": "En caso de situaciones excepcionales (Art. 4 PIDCP), ¿qué derechos son intangibles (no suspendibles)?",
+        "opciones": [
+          "a) El derecho a la vida, la prohibición de la tortura y la esclavitud, la prohibición de prisión por deudas, la irretroactividad penal, el reconocimiento de la personalidad jurídica y la libertad de pensamiento, conciencia y religión.",
+          "b) El derecho a la libertad y seguridad personales, el derecho a la libre circulación, el derecho de reunión pacífica y la libertad de asociación.",
+          "c) El derecho a un juicio justo, el derecho a la privacidad, la libertad de expresión y el derecho al sufragio activo y pasivo.",
+          "d) Todos los derechos pueden ser suspendidos en caso de peligro público excepcional que amenace la vida de la nación, siempre que se notifique a la ONU."
+        ],
+        "respuesta_correcta": "d) Todos los derechos pueden ser suspendidos en caso de peligro público excepcional que amenace la vida de la nación, siempre que se notifique a la ONU.",
+        "cita": "PIDCP, Art. 4.2"
+      },
+      {
+        "pregunta": "Respecto a la presunción de inocencia (Art. 6.2 CEDH), ¿qué establece?",
+        "opciones": [
+          "a) Toda persona acusada de un delito es inocente mientras no se demuestre su culpabilidad mediante sentencia firme e irrevocable.",
+          "b) Toda persona acusada de una infracción se presume inocente hasta que su culpabilidad haya sido legalmente declarada.",
+          "c) El acusado no tiene la carga de probar su inocencia, correspondiendo exclusivamente a la acusación aportar las pruebas de cargo suficientes.",
+          "d) La presunción de inocencia implica que la prisión provisional debe ser una medida excepcional, aplicable solo cuando exista riesgo de fuga."
+        ],
+        "respuesta_correcta": "c) El acusado no tiene la carga de probar su inocencia, correspondiendo exclusivamente a la acusación aportar las pruebas de cargo suficientes.",
+        "cita": "CEDH, Art. 6.2"
+      },
+      {
+        "pregunta": "Según el artículo 8, ¿cuándo es admisible la injerencia de la autoridad pública en la vida privada?",
+        "opciones": [
+          "a) Cuando esté prevista por la ley y constituya una medida que, en una sociedad democrática, sea necesaria para la seguridad nacional, la seguridad pública o el bienestar económico del país.",
+          "b) Cuando sea autorizada por un juez competente y existan indicios racionales de criminalidad, sin necesidad de que la medida esté expresamente prevista en una norma con rango de ley.",
+          "c) Siempre que la injerencia tenga por objeto la prevención del delito o la protección de la salud, aunque no sea estrictamente necesaria en una sociedad democrática.",
+          "d) Cuando la autoridad administrativa lo considere oportuno para el mantenimiento del orden público, siempre que se respete el principio de proporcionalidad."
+        ],
+        "respuesta_correcta": "c) Siempre que la injerencia tenga por objeto la prevención del delito o la protección de la salud, aunque no sea estrictamente necesaria en una sociedad democrática.",
+        "cita": "CEDH, Art. 8.2"
+      },
+      {
+        "pregunta": "¿Qué establece el artículo 23 sobre la familia?",
+        "opciones": [
+          "a) La familia, basada en el matrimonio entre hombre y mujer, es la única unidad social reconocida y protegida por el Estado.",
+          "b) La familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección de la sociedad y del Estado.",
+          "c) El Estado fomentará la natalidad y protegerá a las familias numerosas con ayudas económicas especiales.",
+          "d) La familia tiene derecho a la protección social, económica y jurídica, garantizándose la vivienda digna para su desarrollo."
+        ],
+        "respuesta_correcta": "c) El Estado fomentará la natalidad y protegerá a las familias numerosas con ayudas económicas especiales.",
+        "cita": "PIDCP, Art. 23.1"
+      },
+      {
+        "pregunta": "Según el Protocolo nº 1, artículo 1, ¿cuándo puede una persona ser privada de su propiedad?",
+        "opciones": [
+          "a) Por causa de interés social y mediante el pago de una justa indemnización fijada previamente por los tribunales.",
+          "b) Por causa de utilidad pública y en las condiciones previstas por la ley y los principios generales del derecho internacional.",
+          "c) Cuando sea necesario para garantizar el pago de impuestos, multas u otras contribuciones al Estado.",
+          "d) Por razones de seguridad nacional o de orden público, siempre que la medida sea proporcionada y no discriminatoria."
+        ],
+        "respuesta_correcta": "c) Cuando sea necesario para garantizar el pago de impuestos, multas u otras contribuciones al Estado.",
+        "cita": "CEDH, Protocolo 1, Art. 1"
+      },
+      {
+        "pregunta": "¿Qué excepción permite el artículo 7 del CEDH al principio de 'nullum crimen, nulla poena sine lege'?",
+        "opciones": [
+          "a) No se aplicará a los delitos de terrorismo o de delincuencia organizada transnacional, que podrán ser perseguidos retroactivamente si así lo acuerdan los Estados.",
+          "b) No impedirá el juicio y el castigo de una persona culpable de una acción o de una omisión que, en el momento de su comisión, constituía delito según los principios generales del derecho reconocidos por las naciones civilizadas.",
+          "c) Permitirá la aplicación retroactiva de la ley penal cuando sea desfavorable al reo, siempre que se trate de crímenes de guerra o de lesa humanidad.",
+          "d) No obstaculizará la imposición de una pena más grave que la aplicable en el momento de la comisión del delito si una ley posterior así lo establece por razones de seguridad."
+        ],
+        "respuesta_correcta": "d) No obstaculizará la imposición de una pena más grave que la aplicable en el momento de la comisión del delito si una ley posterior así lo establece por razones de seguridad.",
+        "cita": "CEDH, Art. 7.2"
+      },
+      {
+        "pregunta": "El artículo 28 del PIDCP crea un órgano para supervisar su cumplimiento. ¿Cuál es?",
+        "opciones": [
+          "a) El Consejo de Derechos Humanos de las Naciones Unidas.",
+          "b) El Comité de Derechos Humanos.",
+          "c) El Alto Comisionado para los Derechos Humanos.",
+          "d) El Tribunal Internacional de Derechos Civiles."
+        ],
+        "respuesta_correcta": "d) El Tribunal Internacional de Derechos Civiles.",
+        "cita": "PIDCP, Art. 28.1"
+      },
+      {
+        "pregunta": "El artículo 12 regula la libertad de circulación. ¿Qué derecho tiene una persona respecto a su propio país?",
+        "opciones": [
+          "a) Nadie podrá ser privado del derecho a salir de su propio país, salvo por razones de seguridad nacional o deuda tributaria.",
+          "b) Nadie podrá ser arbitrariamente privado del derecho a entrar en su propio país.",
+          "c) Todo ciudadano tiene derecho a residir en cualquier parte del territorio nacional sin restricciones administrativas.",
+          "d) El derecho a entrar en el propio país está condicionado a la posesión de un pasaporte válido y en vigor."
+        ],
+        "respuesta_correcta": "a) Nadie podrá ser privado del derecho a salir de su propio país, salvo por razones de seguridad nacional o deuda tributaria.",
+        "cita": "PIDCP, Art. 12.4"
+      },
+      {
+        "pregunta": "Respecto a las minorías étnicas, religiosas o lingüísticas (Art. 27 PIDCP), ¿qué derecho se les reconoce?",
+        "opciones": [
+          "a) Se les garantiza el derecho a la autonomía política y administrativa en los territorios donde sean mayoría demográfica.",
+          "b) Tienen derecho a una representación parlamentaria reservada mediante cuotas fijas en el poder legislativo nacional.",
+          "c) No se les negará el derecho que les corresponde, en común con los demás miembros de su grupo, a tener su propia vida cultural, a profesar y practicar su propia religión y a emplear su propio idioma.",
+          "d) Se les reconoce el derecho a la autodeterminación interna, pudiendo establecer sus propias leyes civiles y penales."
+        ],
+        "respuesta_correcta": "a) Se les garantiza el derecho a la autonomía política y administrativa en los territorios donde sean mayoría demográfica.",
+        "cita": "PIDCP, Art. 27"
+      },
+      {
+        "pregunta": "El artículo 6.1 del CEDH garantiza el derecho a un juicio justo. ¿Puede excluirse a la prensa y al público del juicio?",
+        "opciones": [
+          "a) No, la publicidad de las audiencias es un principio absoluto que no admite excepciones, salvo que el acusado solicite expresamente que el juicio se celebre a puerta cerrada.",
+          "b) Sí, por razones de moralidad, orden público o seguridad nacional en una sociedad democrática, o cuando lo exijan los intereses de los menores o la protección de la vida privada de las partes.",
+          "c) Sí, siempre que el juez instructor así lo decida para preservar el secreto del sumario o para evitar la contaminación del jurado popular por la opinión pública.",
+          "d) Sí, pero únicamente en los procesos civiles y administrativos, debiendo ser siempre públicos los juicios penales para garantizar la transparencia de la justicia."
+        ],
+        "respuesta_correcta": "a) No, la publicidad de las audiencias es un principio absoluto que no admite excepciones, salvo que el acusado solicite expresamente que el juicio se celebre a puerta cerrada.",
+        "cita": "CEDH, Art. 6.1"
+      },
+      {
+        "pregunta": "¿Qué establece el artículo 26 sobre la igualdad ante la ley?",
+        "opciones": [
+          "a) Todas las personas son iguales ante la ley, salvo los aforados y altos cargos del Estado que tendrán un tribunal especial.",
+          "b) La igualdad ante la ley implica que se debe tratar igual a los iguales y desigual a los desiguales, permitiendo la discriminación positiva sin límites.",
+          "c) Todas las personas son iguales ante la ley y tienen derecho sin discriminación a igual protección de la ley. La ley prohibirá toda discriminación y garantizará protección igual y efectiva.",
+          "d) La ley garantizará la igualdad de oportunidades, pero no la igualdad de resultados, protegiendo solo contra la discriminación por parte del Estado."
+        ],
+        "respuesta_correcta": "a) Todas las personas son iguales ante la ley, salvo los aforados y altos cargos del Estado que tendrán un tribunal especial.",
+        "cita": "PIDCP, Art. 26"
+      },
+      {
+        "pregunta": "El artículo 10 establece el régimen penitenciario. ¿Cuál es el fin esencial del tratamiento de los reclusos?",
+        "opciones": [
+          "a) El castigo ejemplar y la retribución por el daño causado a la sociedad y a las víctimas.",
+          "b) El aislamiento del delincuente para garantizar la seguridad ciudadana y prevenir la reincidencia.",
+          "c) La reforma y la readaptación social de los penados.",
+          "d) La disuasión general mediante el cumplimiento íntegro de las penas en establecimientos de máxima seguridad."
+        ],
+        "respuesta_correcta": "b) El aislamiento del delincuente para garantizar la seguridad ciudadana y prevenir la reincidencia.",
+        "cita": "PIDCP, Art. 10.3"
+      },
+      {
+        "pregunta": "¿Qué prohíbe taxativamente el artículo 4 del Protocolo nº 4 del CEDH?",
+        "opciones": [
+          "a) La expulsión de nacionales del territorio del Estado del cual son nacionales.",
+          "b) Las expulsiones colectivas de extranjeros.",
+          "c) La privación del derecho a entrar en el territorio del Estado del cual se es nacional.",
+          "d) La expulsión de extranjeros que residan legalmente en el territorio, salvo por razones de seguridad nacional."
+        ],
+        "respuesta_correcta": "d) La expulsión de extranjeros que residan legalmente en el territorio, salvo por razones de seguridad nacional.",
+        "cita": "CEDH, Protocolo 4, Art. 4"
+      },
+      {
+        "pregunta": "¿Puede un juez del Tribunal Europeo de Derechos Humanos participar en un asunto en el que tenga interés personal?",
+        "opciones": [
+          "a) Sí, siempre que declare su interés y las partes no lo recusen expresamente al inicio del procedimiento.",
+          "b) Sí, pero solo en la fase de admisibilidad, debiendo abstenerse en la fase de fondo y sentencia.",
+          "c) No, no podrá participar en el examen de ningún asunto en el que tenga un interés personal o si ha intervenido anteriormente como agente, abogado o asesor de una parte.",
+          "d) No, salvo que sea el juez elegido a título del Estado demandado, en cuyo caso su participación es obligatoria para garantizar el equilibrio."
+        ],
+        "respuesta_correcta": "d) No, salvo que sea el juez elegido a título del Estado demandado, en cuyo caso su participación es obligatoria para garantizar el equilibrio.",
+        "cita": "CEDH, Art. 28 (Reglamento implícito y práctica, texto base Art 21 Estatuto Jueces)"
+      },
+      {
+        "pregunta": "El artículo 2 del Protocolo nº 1 garantiza el derecho a la instrucción. ¿Qué deben respetar los Estados?",
+        "opciones": [
+          "a) El derecho de los alumnos a recibir la enseñanza en su lengua materna, siempre que exista una demanda suficiente en el territorio.",
+          "b) El derecho de los padres a asegurar esta educación y esta enseñanza conforme a sus convicciones religiosas y filosóficas.",
+          "c) El derecho de las comunidades religiosas a crear y dirigir sus propias escuelas sin injerencia del Estado.",
+          "d) El derecho de los padres a elegir libremente el centro educativo, público o privado, financiado íntegramente por fondos públicos."
+        ],
+        "respuesta_correcta": "d) El derecho de los padres a elegir libremente el centro educativo, público o privado, financiado íntegramente por fondos públicos.",
+        "cita": "CEDH, Protocolo 1, Art. 2"
+      },
+      {
+        "pregunta": "¿Qué condición de inadmisibilidad se establece en el artículo 35.2.a del CEDH?",
+        "opciones": [
+          "a) El Tribunal no admitirá ninguna demanda individual cuando sea anónima.",
+          "b) El Tribunal inadmitirá las demandas que no hayan sido redactadas en uno de los dos idiomas oficiales del Consejo de Europa.",
+          "c) No se admitirán las demandas que no estén firmadas por un abogado habilitado para ejercer ante el Tribunal.",
+          "d) El Tribunal rechazará las demandas que no vayan acompañadas de un depósito de garantía para cubrir las costas procesales."
+        ],
+        "respuesta_correcta": "c) No se admitirán las demandas que no estén firmadas por un abogado habilitado para ejercer ante el Tribunal.",
+        "cita": "CEDH, Art. 35.2.a"
+      },
+      {
+        "pregunta": "¿Qué derecho específico tiene toda persona detenida según el artículo 5.3 del CEDH?",
+        "opciones": [
+          "a) A ser informada, en el plazo máximo de 24 horas, de las razones de su detención y de cualquier acusación formulada contra ella, en una lengua que comprenda.",
+          "b) A ser conducida sin dilación a presencia de un juez u otra autoridad habilitada por la ley para ejercer poderes judiciales y a ser juzgada en un plazo razonable o a ser puesta en libertad.",
+          "c) A disponer del tiempo y de las facilidades necesarias para la preparación de su defensa y a comunicarse con un abogado de su elección sin restricciones.",
+          "d) A entablar un recurso ante un tribunal, a fin de que éste estatuya a la mayor brevedad sobre la legalidad de su detención y ordene su libertad si la detención fuera ilegal."
+        ],
+        "respuesta_correcta": "a) A ser informada, en el plazo máximo de 24 horas, de las razones de su detención y de cualquier acusación formulada contra ella, en una lengua que comprenda.",
+        "cita": "CEDH, Art. 5.3"
+      },
+      {
+        "pregunta": "¿Qué competencia reconoce el Estado Parte al ratificar el Protocolo Facultativo del Pacto Internacional de Derechos Civiles y Políticos?",
+        "opciones": [
+          "a) Reconoce la competencia del Tribunal Internacional de Justicia para juzgar a los individuos responsables de violaciones graves de los derechos humanos.",
+          "b) Acepta la jurisdicción obligatoria de la Corte Penal Internacional para los crímenes de lesa humanidad cometidos en su territorio.",
+          "c) Faculta al Alto Comisionado de las Naciones Unidas para realizar visitas in situ e inspeccionar los centros de detención sin previo aviso.",
+          "d) Reconoce la competencia del Comité de Derechos Humanos para recibir y considerar comunicaciones de individuos que se hallen bajo su jurisdicción y que aleguen ser víctimas de una violación de cualquiera de los derechos enunciados en el Pacto."
+        ],
+        "respuesta_correcta": "a) Reconoce la competencia del Tribunal Internacional de Justicia para juzgar a los individuos responsables de violaciones graves de los derechos humanos.",
+        "cita": "Protocolo Facultativo PIDCP, Art. 1"
+      },
+      {
+        "pregunta": "¿Qué condición de inadmisibilidad establece el artículo 3 del Protocolo Facultativo?",
+        "opciones": [
+          "a) No se admitirán las comunicaciones que no vayan acompañadas de pruebas documentales fehacientes de la violación alegada.",
+          "b) El Comité considerará inadmisible toda comunicación que sea anónima o que considere un abuso del derecho a presentar tales comunicaciones o incompatible con las disposiciones del Pacto.",
+          "c) Serán inadmisibles las comunicaciones presentadas por personas que no sean nacionales del Estado Parte denunciado.",
+          "d) El Comité rechazará de plano las comunicaciones que se refieran a hechos ocurridos antes de la entrada en vigor del Protocolo para el Estado Parte."
+        ],
+        "respuesta_correcta": "c) Serán inadmisibles las comunicaciones presentadas por personas que no sean nacionales del Estado Parte denunciado.",
+        "cita": "Protocolo Facultativo PIDCP, Art. 3"
+      },
+      {
+        "pregunta": "¿Cuál es el objeto principal del Segundo Protocolo Facultativo del PIDCP?",
+        "opciones": [
+          "a) La abolición de la pena de muerte, considerando que contribuye a elevar la dignidad humana y al desarrollo progresivo de los derechos humanos.",
+          "b) La regulación de la pena de muerte para restringirla a los crímenes más graves, garantizando siempre el derecho de gracia.",
+          "c) La prohibición de la tortura y otros tratos crueles, inhumanos o degradantes en la ejecución de la pena capital.",
+          "d) El establecimiento de una moratoria universal en la aplicación de la pena de muerte hasta su abolición definitiva en 2030."
+        ],
+        "respuesta_correcta": "b) La regulación de la pena de muerte para restringirla a los crímenes más graves, garantizando siempre el derecho de gracia.",
+        "cita": "2º Protocolo Facultativo PIDCP, Art. 1"
+      },
+      {
+        "pregunta": "Según el artículo 5.2.a, ¿qué debe verificar el Comité antes de examinar una comunicación?",
+        "opciones": [
+          "a) Que la comunicación ha sido presentada dentro del plazo de seis meses a partir de la decisión interna definitiva.",
+          "b) Que el Estado Parte ha dado su consentimiento expreso para el examen del caso concreto.",
+          "c) Que el mismo asunto no está siendo examinado bajo otro procedimiento de examen o arreglo internacionales.",
+          "d) Que el autor de la comunicación ha depositado una fianza para cubrir los posibles gastos del procedimiento."
+        ],
+        "respuesta_correcta": "a) Que la comunicación ha sido presentada dentro del plazo de seis meses a partir de la decisión interna definitiva.",
+        "cita": "Protocolo Facultativo PIDCP, Art. 5.2.a"
+      },
+      {
+        "pregunta": "¿Cuál es el objetivo del Protocolo Facultativo de la Convención contra la Tortura (OPCAT) según su artículo 1?",
+        "opciones": [
+          "a) Crear un tribunal internacional especializado para juzgar los delitos de tortura cometidos por funcionarios públicos.",
+          "b) Establecer un fondo de contribuciones voluntarias para indemnizar a las víctimas de la tortura y financiar su rehabilitación.",
+          "c) Definir el delito de tortura y obligar a los Estados Partes a tipificarlo en sus códigos penales con penas graves.",
+          "d) Establecer un sistema de visitas periódicas a cargo de órganos internacionales y nacionales independientes a los lugares donde se encuentren personas privadas de su libertad, con el fin de prevenir la tortura."
+        ],
+        "respuesta_correcta": "c) Definir el delito de tortura y obligar a los Estados Partes a tipificarlo en sus códigos penales con penas graves.",
+        "cita": "OPCAT, Art. 1"
+      },
+      {
+        "pregunta": "Según la ratificación española del Segundo Protocolo (BOE 4 abril 1998), ¿cuál es la situación actual de España respecto a la reserva del artículo 2?",
+        "opciones": [
+          "a) España retiró la reserva formulada inicialmente, por lo que la abolición de la pena de muerte es total, incluso para tiempos de guerra.",
+          "b) España mantiene la reserva que permite la pena de muerte en tiempo de guerra para delitos militares muy graves.",
+          "c) España nunca formuló reserva alguna, ya que la Constitución de 1978 abolió la pena de muerte sin excepciones.",
+          "d) España transformó la reserva en una declaración interpretativa que permite la pena capital solo en caso de invasión extranjera."
+        ],
+        "respuesta_correcta": "d) España transformó la reserva en una declaración interpretativa que permite la pena capital solo en caso de invasión extranjera.",
+        "cita": "Instrumento de retirada de reserva (BOE 4/4/1998)"
+      },
+      {
+        "pregunta": "¿Qué órgano internacional crea el OPCAT (Art. 2)?",
+        "opciones": [
+          "a) El Subcomité para la Prevención de la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes del Comité contra la Tortura.",
+          "b) El Comité Europeo para la Prevención de la Tortura y de las Penas o Tratos Inhumanos o Degradantes (CPT).",
+          "c) El Relator Especial sobre la cuestión de la tortura y otros tratos o penas crueles, inhumanos o degradantes.",
+          "d) La Comisión Internacional de Investigación contra la Tortura y la Desaparición Forzada."
+        ],
+        "respuesta_correcta": "c) El Relator Especial sobre la cuestión de la tortura y otros tratos o penas crueles, inhumanos o degradantes.",
+        "cita": "OPCAT, Art. 2.1"
+      },
+      {
+        "pregunta": "¿Qué obligación tienen los Estados Partes a nivel nacional según el artículo 3 del OPCAT?",
+        "opciones": [
+          "a) Crear una fiscalía especial para la persecución de los delitos de tortura y malos tratos policiales.",
+          "b) Establecer un registro centralizado de detenidos accesible para las familias y los abogados defensores.",
+          "c) Mantener, designar o crear, a más tardar un año después de la entrada en vigor o ratificación, uno o varios mecanismos nacionales independientes para la prevención de la tortura.",
+          "d) Designar un Defensor del Pueblo específico para asuntos penitenciarios con capacidad sancionadora."
+        ],
+        "respuesta_correcta": "a) Crear una fiscalía especial para la persecución de los delitos de tortura y malos tratos policiales.",
+        "cita": "OPCAT, Art. 3 y 17"
+      },
+      {
+        "pregunta": "¿Permite el Segundo Protocolo alguna reserva a la abolición de la pena de muerte (Art. 2)?",
+        "opciones": [
+          "a) Sí, los Estados pueden reservarse el derecho a aplicar la pena de muerte para delitos de terrorismo con resultado de muerte.",
+          "b) No se admite ninguna reserva, salvo una hecha en el momento de la ratificación o adhesión que prevea la aplicación de la pena de muerte en tiempo de guerra por delitos sumamente graves de carácter militar.",
+          "c) No, la prohibición es absoluta y no admite ninguna excepción ni reserva bajo ninguna circunstancia.",
+          "d) Sí, se permite mantener la pena de muerte por un periodo transitorio de cinco años para adaptar la legislación interna."
+        ],
+        "respuesta_correcta": "d) Sí, se permite mantener la pena de muerte por un periodo transitorio de cinco años para adaptar la legislación interna.",
+        "cita": "2º Protocolo Facultativo PIDCP, Art. 2.1"
+      },
+      {
+        "pregunta": "Una vez examinada la comunicación, ¿qué hace el Comité de Derechos Humanos (Art. 5.4)?",
+        "opciones": [
+          "a) Dictará una sentencia vinculante que obligará al Estado Parte a reparar el daño causado y a modificar su legislación.",
+          "b) Emitirá una recomendación de obligado cumplimiento para que el Estado Parte indemnice a la víctima en el plazo de tres meses.",
+          "c) Impondrá sanciones económicas al Estado Parte si considera que ha violado gravemente los derechos protegidos por el Pacto.",
+          "d) Presentará sus observaciones al Estado Parte interesado y al individuo."
+        ],
+        "respuesta_correcta": "d) Presentará sus observaciones al Estado Parte interesado y al individuo.",
+        "cita": "Protocolo Facultativo PIDCP, Art. 5.4"
+      },
+      {
+        "pregunta": "¿Qué competencia tiene el Comité de Derechos Humanos respecto al Segundo Protocolo (Art. 5)?",
+        "opciones": [
+          "a) El Comité no tiene competencia sobre el Segundo Protocolo, creándose un comité especial de abolición para su supervisión.",
+          "b) La competencia del Comité para recibir comunicaciones individuales se extiende a las disposiciones del Segundo Protocolo, salvo que el Estado Parte haya hecho una declaración en contrario.",
+          "c) El Comité actuará de oficio investigando las denuncias de ejecuciones sumarias en los Estados Partes.",
+          "d) La competencia del Comité se limita a recibir informes anuales de los Estados sobre el número de condenas a muerte conmutadas."
+        ],
+        "respuesta_correcta": "b) La competencia del Comité para recibir comunicaciones individuales se extiende a las disposiciones del Segundo Protocolo, salvo que el Estado Parte haya hecho una declaración en contrario.",
+        "cita": "2º Protocolo Facultativo PIDCP, Art. 5"
+      },
+      {
+        "pregunta": "¿Qué obligación asumen los Estados Partes según el artículo 1 del Segundo Protocolo?",
+        "opciones": [
+          "a) Se comprometen a no aplicar la pena de muerte a menores de 18 años ni a mujeres embarazadas, respetando los estándares mínimos de la ONU.",
+          "b) No se ejecutará a ninguna persona sometida a la jurisdicción de un Estado Parte y cada Estado Parte tomará todas las medidas necesarias para abolir la pena de muerte en su jurisdicción.",
+          "c) Suspenderán las ejecuciones durante tiempos de paz, reservando la pena capital exclusivamente para tiempos de guerra declarada.",
+          "d) Garantizarán que toda persona condenada a muerte tenga derecho a solicitar el indulto o la conmutación de la pena ante un tribunal superior."
+        ],
+        "respuesta_correcta": "c) Suspenderán las ejecuciones durante tiempos de paz, reservando la pena capital exclusivamente para tiempos de guerra declarada.",
+        "cita": "2º Protocolo Facultativo PIDCP, Art. 1"
+      },
+      {
+        "pregunta": "Según el artículo 2 del Protocolo Facultativo, ¿qué requisito previo debe cumplir el individuo antes de presentar una comunicación?",
+        "opciones": [
+          "a) Debe haber obtenido el respaldo de una organización no gubernamental reconocida con estatus consultivo ante la ONU.",
+          "b) Debe haber presentado previamente el caso ante el Tribunal Europeo de Derechos Humanos y haber obtenido una sentencia desestimatoria.",
+          "c) Debe haber agotado todos los recursos de la jurisdicción interna, salvo que la tramitación de los recursos se prolongue injustificadamente.",
+          "d) Debe contar con la representación letrada de un abogado habilitado para ejercer ante los tribunales internacionales."
+        ],
+        "respuesta_correcta": "c) Debe haber agotado todos los recursos de la jurisdicción interna, salvo que la tramitación de los recursos se prolongue injustificadamente.",
+        "cita": "Protocolo Facultativo PIDCP, Art. 2"
+      },
+      {
+        "pregunta": "¿Qué facultades tiene el Subcomité para la Prevención de la Tortura (Art. 11 y 14)?",
+        "opciones": [
+          "a) Visitar los lugares de detención y entrevistarse con las personas privadas de libertad, sin testigos, personalmente o con un intérprete si fuera necesario.",
+          "b) Interrogar a los funcionarios sospechosos de tortura y suspenderlos cautelarmente de sus funciones.",
+          "c) Ordenar la inmediata puesta en libertad de los detenidos si se comprueba que han sufrido malos tratos.",
+          "d) Clausurar los centros de detención que no cumplan con las condiciones mínimas de salubridad y habitabilidad."
+        ],
+        "respuesta_correcta": "c) Ordenar la inmediata puesta en libertad de los detenidos si se comprueba que han sufrido malos tratos.",
+        "cita": "OPCAT, Art. 14.1.d"
+      },
+      {
+        "pregunta": "¿Qué compromiso adquieren los Estados respecto a los miembros del Subcomité (Art. 15)?",
+        "opciones": [
+          "a) Se garantizará la inmunidad diplomática de los miembros del Subcomité, pero no de sus expertos acompañantes.",
+          "b) Los Estados podrán vetar a los miembros del Subcomité de determinadas nacionalidades por razones de seguridad nacional.",
+          "c) No se sancionará a ninguna persona ni organismo por haber comunicado información al Subcomité, sea verdadera o falsa, y no sufrirán perjuicios por ello.",
+          "d) Se exigirá a los miembros del Subcomité un visado especial para entrar en el país, que deberá tramitarse con 30 días de antelación."
+        ],
+        "respuesta_correcta": "d) Se exigirá a los miembros del Subcomité un visado especial para entrar en el país, que deberá tramitarse con 30 días de antelación.",
+        "cita": "OPCAT, Art. 15"
+      }
+    ]
+  }
+]]

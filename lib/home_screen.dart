@@ -17,7 +17,7 @@ class HomeScreen extends StatelessWidget {
     'Tema 1 ESTATUTO DEL PERSONAL DE LA GUARDIA CIVIL':
         'assets/Tema 1 ESTATUTO DEL PERSONAL DE LA GUARDIA CIVIL/ESTATUTO DEL PERSONAL DE LA GUARDIA CIVIL.json',
     'Tema 2 RÉGIMEN INTERIOR':
-        'assets/Tema 2 RÉGIMEN INTERIOR/Regimen anterior.json',
+        'assets/Tema 2 RÉGIMEN INTERIOR/Regimen interior.json',
     'Tema 3 DEONTOLOGÍA PROFESIONAL':
         'assets/Tema 3 DEONTOLOGÍA PROFESIONAL/Deontologia profesional.json',
     'Tema 4 DERECHOS HUMANOS':
@@ -98,37 +98,69 @@ class HomeScreen extends StatelessWidget {
   }
 
   Future<void> _generatePdf(String selectedTopic, int numQuestions) async {
-    List<String> jsonPaths = selectedTopic == 'Examen Aleatorio' ? topics.values.toList() : [topics[selectedTopic]!];
+    try {
+      List<String> jsonPaths = selectedTopic == 'Examen Aleatorio' ? topics.values.toList() : [topics[selectedTopic]!];
 
-    List<Map<String, dynamic>> allQuestions = [];
-    for (String path in jsonPaths) {
-      String jsonString = await rootBundle.loadString(path);
-      List<dynamic> data = json.decode(jsonString);
-      allQuestions.addAll(List<Map<String, dynamic>>.from(data[0]['preguntas']));
+      List<Map<String, dynamic>> allQuestions = [];
+      for (String path in jsonPaths) {
+        String jsonString = await rootBundle.loadString(path);
+        dynamic data = json.decode(jsonString);
+        
+        // data es [[{...}]], así que data[0] es [{...}]
+        if (data is List && data.isNotEmpty) {
+          dynamic firstElement = data[0];
+          
+          if (firstElement is List) {
+            // Si es una lista de diccionarios
+            for (var item in firstElement) {
+              if (item is Map && item.containsKey('preguntas')) {
+                List<dynamic> questions = item['preguntas'] as List<dynamic>;
+                allQuestions.addAll(List<Map<String, dynamic>>.from(questions));
+              }
+            }
+          } else if (firstElement is Map && firstElement.containsKey('preguntas')) {
+            // Si es directamente un diccionario con preguntas
+            List<dynamic> questions = firstElement['preguntas'] as List<dynamic>;
+            allQuestions.addAll(List<Map<String, dynamic>>.from(questions));
+          }
+        }
+      }
+      
+      if (allQuestions.isEmpty) {
+        throw Exception('No se encontraron preguntas');
+      }
+      
+      allQuestions.shuffle();
+      List<Map<String, dynamic>> selectedQuestions = allQuestions.take(numQuestions).toList();
+
+      final pdf = pw.Document();
+
+      pdf.addPage(
+        pw.MultiPage(
+          build: (pw.Context context) => [
+            pw.Header(level: 0, child: pw.Text('Examen: $selectedTopic')),
+            ...selectedQuestions.asMap().entries.map((entry) {
+              int index = entry.key + 1;
+              Map<String, dynamic> q = entry.value;
+              return pw.Column(
+                crossAxisAlignment: pw.CrossAxisAlignment.start,
+                children: [
+                  pw.Text('$index. ${q['pregunta']}', style: pw.TextStyle(fontWeight: pw.FontWeight.bold)),
+                  if (q['cita'] != null) pw.Text('Cita: ${q['cita']}', style: pw.TextStyle(fontSize: 10, fontStyle: pw.FontStyle.italic)),
+                  ...List<String>.from(q['opciones'] as List).map((opt) => pw.Text('  $opt', style: pw.TextStyle(fontSize: 9))),
+                  pw.SizedBox(height: 12),
+                ],
+              );
+            }),
+          ],
+        ),
+      );
+
+      await Printing.sharePdf(bytes: await pdf.save(), filename: 'examen.pdf');
+    } catch (e) {
+      debugPrint('Error generando PDF: $e');
+      rethrow;
     }
-    allQuestions.shuffle();
-    List<Map<String, dynamic>> selectedQuestions = allQuestions.take(numQuestions).toList();
-
-    final pdf = pw.Document();
-
-    pdf.addPage(
-      pw.MultiPage(
-        build: (pw.Context context) => [
-          pw.Header(level: 0, child: pw.Text('Examen: $selectedTopic')),
-          ...selectedQuestions.map((q) => pw.Column(
-            crossAxisAlignment: pw.CrossAxisAlignment.start,
-            children: [
-              pw.Text(q['pregunta']),
-              if (q['cita'] != null) pw.Text('Cita: ${q['cita']}', style: pw.TextStyle(fontSize: 10, fontStyle: pw.FontStyle.italic)),
-              ...List<String>.from(q['opciones']).map((opt) => pw.Text('  $opt')),
-              pw.SizedBox(height: 10),
-            ],
-          )),
-        ],
-      ),
-    );
-
-    await Printing.sharePdf(bytes: await pdf.save(), filename: 'examen.pdf');
   }
 
   @override

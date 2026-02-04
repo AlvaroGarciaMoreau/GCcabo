@@ -240,95 +240,129 @@ class QuizScreenState extends State<QuizScreen> {
                     ],
                   ),
                   const SizedBox(height: 20),
-                  Text(
-                    _questions[_currentQuestionIndex]['pregunta'],
-                    style: const TextStyle(fontSize: 18),
-                  ),
-                  if (_questions[_currentQuestionIndex]['cita'] != null)
-                    Padding(
-                      padding: const EdgeInsets.only(top: 8.0),
-                      child: Text(
-                        'Cita: ${_questions[_currentQuestionIndex]['cita']}',
-                        style: const TextStyle(fontSize: 12, fontStyle: FontStyle.italic, color: Colors.grey),
-                      ),
-                    ),
-                  const SizedBox(height: 20),
-                  ...(_questions[_currentQuestionIndex]['opciones'] as List<dynamic>)
-                      .map((answer) {
-                    return ElevatedButton(
-                      onPressed: _isAnswered ? null : () => _answerQuestion(answer),
-                      style: _getButtonStyle(answer).copyWith(
-                        side: WidgetStateProperty.resolveWith<BorderSide?>((states) {
-                          if (!_isAnswered) return null;
-                          if (answer == correctAnswer) return const BorderSide(color: Colors.green, width: 2.0);
-                          if (answer == _selectedAnswer) return const BorderSide(color: Colors.red, width: 2.0);
-                          return null;
-                        }),
-                      ),
-                      child: Row(
+                  Expanded(
+                    child: SingleChildScrollView(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.stretch,
                         children: [
-                          // Left permanent icon to highlight correct/wrong
-                          if (_isAnswered && answer == correctAnswer)
-                            const Padding(
-                              padding: EdgeInsets.only(right: 8.0),
-                              child: Icon(Icons.check_circle, color: Colors.green),
-                            )
-                          else if (_isAnswered && answer == _selectedAnswer)
-                            const Padding(
-                              padding: EdgeInsets.only(right: 8.0),
-                              child: Icon(Icons.cancel, color: Colors.red),
-                            )
-                          else
-                            const SizedBox(width: 32),
-
-                          Expanded(child: Text(answer)),
-
-                          // Keep right-side indicator for clarity (optional)
-                          if (_isAnswered && answer == correctAnswer)
-                            const Icon(Icons.check, color: Colors.white)
-                          else if (_isAnswered && answer == _selectedAnswer)
-                            const Icon(Icons.close, color: Colors.white)
-                          else
-                            const SizedBox.shrink(),
+                          Text(
+                            _questions[_currentQuestionIndex]['pregunta'],
+                            style: const TextStyle(fontSize: 18),
+                          ),
+                          if (_questions[_currentQuestionIndex]['cita'] != null)
+                            Padding(
+                              padding: const EdgeInsets.only(top: 8.0),
+                              child: Text(
+                                'Cita: ${_questions[_currentQuestionIndex]['cita']}',
+                                style: const TextStyle(
+                                    fontSize: 12,
+                                    fontStyle: FontStyle.italic,
+                                    color: Colors.grey),
+                              ),
+                            ),
+                          const SizedBox(height: 20),
+                          ...(_questions[_currentQuestionIndex]['opciones']
+                                  as List<dynamic>)
+                              .map((answer) {
+                            return Padding(
+                              padding:
+                                  const EdgeInsets.symmetric(vertical: 4.0),
+                              child: ElevatedButton(
+                                onPressed: _isAnswered
+                                    ? null
+                                    : () => _answerQuestion(answer),
+                                style: _getButtonStyle(answer).copyWith(
+                                  side: WidgetStateProperty.resolveWith<
+                                      BorderSide?>((states) {
+                                    if (!_isAnswered) return null;
+                                    if (answer == correctAnswer) {
+                                      return const BorderSide(
+                                          color: Colors.green, width: 2.0);
+                                    }
+                                    if (answer == _selectedAnswer) {
+                                      return const BorderSide(
+                                          color: Colors.red, width: 2.0);
+                                    }
+                                    return null;
+                                  }),
+                                ),
+                                child: Row(
+                                  children: [
+                                    if (_isAnswered && answer == correctAnswer)
+                                      const Padding(
+                                        padding: EdgeInsets.only(right: 8.0),
+                                        child: Icon(Icons.check_circle,
+                                            color: Colors.green),
+                                      )
+                                    else if (_isAnswered &&
+                                        answer == _selectedAnswer)
+                                      const Padding(
+                                        padding: EdgeInsets.only(right: 8.0),
+                                        child: Icon(Icons.cancel,
+                                            color: Colors.red),
+                                      )
+                                    else
+                                      const SizedBox(width: 32),
+                                    Expanded(child: Text(answer)),
+                                    if (_isAnswered && answer == correctAnswer)
+                                      const Icon(Icons.check,
+                                          color: Colors.white)
+                                    else if (_isAnswered &&
+                                        answer == _selectedAnswer)
+                                      const Icon(Icons.close,
+                                          color: Colors.white)
+                                    else
+                                      const SizedBox.shrink(),
+                                  ],
+                                ),
+                              ),
+                            );
+                          }),
+                          if (_isAnswered)
+                            Builder(builder: (context) {
+                              final explanation = _questions[
+                                          _currentQuestionIndex]['explicacion'] ??
+                                      _questions[_currentQuestionIndex]
+                                          ['explicación'] ??
+                                      '';
+                              if (explanation == null ||
+                                  explanation.toString().trim().isEmpty) {
+                                return const SizedBox.shrink();
+                              }
+                              return Container(
+                                margin: const EdgeInsets.only(top: 16.0),
+                                padding: const EdgeInsets.all(12.0),
+                                decoration: BoxDecoration(
+                                  color: Colors.green[50],
+                                  borderRadius: BorderRadius.circular(8.0),
+                                  border: Border.all(color: Colors.green),
+                                ),
+                                child: Column(
+                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  children: [
+                                    const Text('Explicación',
+                                        style: TextStyle(
+                                            fontWeight: FontWeight.bold)),
+                                    const SizedBox(height: 8.0),
+                                    Text(explanation.toString()),
+                                  ],
+                                ),
+                              );
+                            }),
                         ],
                       ),
-                    );
-                  }),
-
-                  // Explanation box shown when answered and explanation exists
+                    ),
+                  ),
                   if (_isAnswered)
-                    Builder(builder: (context) {
-                      final explanation = _questions[_currentQuestionIndex]['explicacion'] ?? _questions[_currentQuestionIndex]['explicación'] ?? '';
-                      if (explanation == null || explanation.toString().trim().isEmpty) {
-                        return const SizedBox.shrink();
-                      }
-
-                      return Container(
-                        margin: const EdgeInsets.only(top: 16.0),
-                        padding: const EdgeInsets.all(12.0),
-                        decoration: BoxDecoration(
-                          color: Colors.green[50],
-                          borderRadius: BorderRadius.circular(8.0),
-                          border: Border.all(color: Colors.green),
-                        ),
-                        child: Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            const Text('Explicación', style: TextStyle(fontWeight: FontWeight.bold)),
-                            const SizedBox(height: 8.0),
-                            Text(explanation.toString()),
-                          ],
-                        ),
-                      );
-                    }),
-
-                  const Spacer(), // Pushes the button to the bottom
-                  if (_isAnswered)
-                    ElevatedButton(
-                      onPressed: _nextQuestion,
-                      child: Text(_currentQuestionIndex < _questions.length - 1
-                          ? 'Siguiente'
-                          : 'Finalizar'),
+                    Padding(
+                      padding: const EdgeInsets.only(top: 16.0),
+                      child: ElevatedButton(
+                        onPressed: _nextQuestion,
+                        child: Text(
+                            _currentQuestionIndex < _questions.length - 1
+                                ? 'Siguiente'
+                                : 'Finalizar'),
+                      ),
                     ),
                 ],
               ),

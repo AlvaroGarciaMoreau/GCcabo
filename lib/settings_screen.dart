@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:gccabo/auth/login_screen.dart';
 import 'package:gccabo/theme_provider.dart';
 import 'package:flutter/services.dart' show rootBundle;
@@ -16,11 +17,14 @@ class SettingsScreen extends StatefulWidget {
 class _SettingsScreenState extends State<SettingsScreen> {
   bool _darkMode = false;
   int totalQuestions = 0;
+  String _userName = '';
+  bool _loadingUserName = true;
 
   final _formKey = GlobalKey<FormState>();
   final TextEditingController _currentPasswordController = TextEditingController();
   final TextEditingController _newPasswordController = TextEditingController();
   final TextEditingController _confirmPasswordController = TextEditingController();
+  final TextEditingController _userNameController = TextEditingController();
 
   bool _obscureCurrent = true;
   bool _obscureNew = true;
@@ -32,6 +36,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
     super.initState();
     _loadPrefs();
     _countTotalQuestions();
+    _loadUserName();
   }
 
   Future<void> _loadPrefs() async {
@@ -41,11 +46,60 @@ class _SettingsScreenState extends State<SettingsScreen> {
     });
   }
 
+  Future<void> _loadUserName() async {
+    final user = FirebaseAuth.instance.currentUser;
+    if (user != null) {
+      try {
+        final doc = await FirebaseFirestore.instance.collection('users').doc(user.uid).get();
+        String name = '';
+        if (doc.exists && doc.data() != null) {
+          name = doc['displayName'] ?? '';
+        }
+        if (name.isEmpty) {
+          name = user.uid.length >= 6 ? user.uid.substring(user.uid.length - 6) : user.uid;
+        }
+        setState(() {
+          _userName = name;
+          _userNameController.text = name;
+          _loadingUserName = false;
+        });
+      } catch (e) {
+        debugPrint('Error loading user name: $e');
+        setState(() => _loadingUserName = false);
+      }
+    }
+  }
+
+  Future<void> _saveUserName(String newName) async {
+    final user = FirebaseAuth.instance.currentUser;
+    if (user == null || newName.isEmpty) return;
+
+    try {
+      await FirebaseFirestore.instance.collection('users').doc(user.uid).set({
+        'displayName': newName,
+        'uid': user.uid,
+        'email': user.email,
+        'updatedAt': FieldValue.serverTimestamp(),
+      }, SetOptions(merge: true));
+
+      setState(() => _userName = newName);
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('Nombre actualizado correctamente')),
+      );
+    } catch (e) {
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Error al guardar nombre: $e')),
+      );
+    }
+  }
+
   Future<void> _countTotalQuestions() async {
     int count = 0;
     List<String> jsonPaths = [
       'assets/Tema 1 ESTATUTO DEL PERSONAL DE LA GUARDIA CIVIL/ESTATUTO DEL PERSONAL DE LA GUARDIA CIVIL.json',
-      'assets/Tema 2 RÉGIMEN INTERIOR/Regimen anterior.json',
+      'assets/Tema 2 RÉGIMEN INTERIOR/Regimen interior.json',
       'assets/Tema 3 DEONTOLOGÍA PROFESIONAL/Deontologia profesional.json',
       'assets/Tema 4 DERECHOS HUMANOS/Derechos Humanos.json',
       'assets/Tema 5 DERECHO ADMINISTRATIVO/Derecho administrativo.json',
@@ -65,10 +119,26 @@ class _SettingsScreenState extends State<SettingsScreen> {
     for (String path in jsonPaths) {
       try {
         String jsonString = await rootBundle.loadString(path);
-        List<dynamic> data = json.decode(jsonString);
-        count += (data[0]['preguntas'] as List).length;
+        dynamic data = json.decode(jsonString);
+        
+        // data es [[{...}]], así que data[0] es [{...}]
+        if (data is List && data.isNotEmpty) {
+          dynamic firstElement = data[0];
+          
+          if (firstElement is List) {
+            // Si es una lista de diccionarios
+            for (var item in firstElement) {
+              if (item is Map && item.containsKey('preguntas')) {
+                count += (item['preguntas'] as List).length;
+              }
+            }
+          } else if (firstElement is Map && firstElement.containsKey('preguntas')) {
+            // Si es directamente un diccionario con preguntas
+            count += (firstElement['preguntas'] as List).length;
+          }
+        }
       } catch (e) {
-        // ignore errors
+        debugPrint('Error cargando $path: $e');
       }
     }
     setState(() => totalQuestions = count);
@@ -93,6 +163,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
     _currentPasswordController.dispose();
     _newPasswordController.dispose();
     _confirmPasswordController.dispose();
+    _userNameController.dispose();
     super.dispose();
   }
 
@@ -155,6 +226,44 @@ class _SettingsScreenState extends State<SettingsScreen> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
+                  Text('UID: ${FirebaseAuth.instance.currentUser?.uid ?? 'No disponible'}', style: const TextStyle(fontSize: 12, color: Colors.grey)),
+                  const SizedBox(height: 12),
+                  if (_loadingUserName)
+                    const SizedBox(
+                      height: 40,
+                      child: Center(child: CircularProgressIndicator(strokeWidth: 2)),
+                    )
+                  else
+                    Column(
+                      children: [
+                        TextField(
+                          controller: _userNameController,
+                          decoration: InputDecoration(
+                            labelText: 'Nombre de usuario',
+                            hintText: (FirebaseAuth.instance.currentUser?.uid.length ?? 0) >= 6
+                                ? 'ej: ${FirebaseAuth.instance.currentUser?.uid.substring((FirebaseAuth.instance.currentUser?.uid ?? '').length - 6)}'
+                                : 'Ingresa tu nombre',
+                            border: OutlineInputBorder(
+                              borderRadius: BorderRadius.circular(8),
+                            ),
+                            contentPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                          ),
+                          onSubmitted: (value) {
+                            if (value.isNotEmpty && value != _userName) {
+                              _saveUserName(value);
+                            }
+                          },
+                        ),
+                        const SizedBox(height: 8),
+                        ElevatedButton(
+                          onPressed: _userNameController.text.isNotEmpty && _userNameController.text != _userName
+                              ? () => _saveUserName(_userNameController.text)
+                              : null,
+                          child: const Text('Guardar nombre'),
+                        ),
+                      ],
+                    ),
+                  const SizedBox(height: 12),
                   Text('Correo: ${FirebaseAuth.instance.currentUser?.email ?? 'No disponible'}'),
                   const SizedBox(height: 12),
                   Form(

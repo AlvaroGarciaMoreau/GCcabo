@@ -1,1056 +1,998 @@
-[{
-  "tema": "TEMA 3.- DEONTOLOGÍA PROFESIONAL (100 PREGUNTAS)",
-  "descripcion": "Preguntas basadas en LO 2/1986, Principios ONU (Habana 1990), Recomendación (2001) 10 Código Europeo Ética Policía, TREBEP (Código Conducta) y RD 176/2022 (Código Conducta GC).",
-  "preguntas": [
-    {
-      "pregunta": "¿Qué carácter tienen los Principios Básicos de Actuación recogidos en la LO 2/1986?",
-      "opciones": [
-        "a) Son meras recomendaciones éticas.",
-        "b) Son un código deontológico sin valor normativo.",
-        "c) Son vinculantes, obligando a su cumplimiento en el ejercicio de funciones.",
-        "d) Solo obligan a los mandos."
-      ],
-      "respuesta_correcta": "c) Son vinculantes, obligando a su cumplimiento en el ejercicio de funciones."
-    },
-    {
-      "pregunta": "¿A qué se debe adecuar la actuación de los miembros de las Fuerzas y Cuerpos de Seguridad según el primer principio de la LO 2/1986?",
-      "opciones": [
-        "a) A las órdenes del superior.",
-        "b) Al ordenamiento jurídico, especialmente a la Constitución.",
-        "c) A la costumbre policial.",
-        "d) Al reglamento interno exclusivamente."
-      ],
-      "respuesta_correcta": "b) Al ordenamiento jurídico, especialmente a la Constitución."
-    },
-    {
-      "pregunta": "En sus relaciones con la comunidad, los miembros de las FCS deben actuar con:",
-      "opciones": [
-        "a) Autoridad absoluta.",
-        "b) Distancia profesional.",
-        "c) Neutralidad política e imparcialidad.",
-        "d) Subjetividad justificada."
-      ],
-      "respuesta_correcta": "c) Neutralidad política e imparcialidad."
-    },
-    {
-      "pregunta": "¿Qué criterios rigen el empleo de la fuerza según la LO 2/1986?",
-      "opciones": [
-        "a) Eficacia, rapidez y contundencia.",
-        "b) Congruencia, oportunidad y proporcionalidad.",
-        "c) Necesidad, legalidad y letalidad.",
-        "d) Oportunidad, severidad y disciplina."
-      ],
-      "respuesta_correcta": "b) Congruencia, oportunidad y proporcionalidad."
-    },
-    {
-      "pregunta": "¿Cuándo deben utilizar armas de fuego los miembros de las FCS?",
-      "opciones": [
-        "a) Siempre que haya un delito grave.",
-        "b) Solamente en los supuestos de grave riesgo para su vida, su integridad física o la de terceras personas, o grave riesgo para la seguridad ciudadana.",
-        "c) Para evitar la fuga de cualquier sospechoso.",
-        "d) Cuando lo ordene un superior, sin excepciones."
-      ],
-      "respuesta_correcta": "b) Solamente en los supuestos de grave riesgo para su vida, su integridad física o la de terceras personas, o grave riesgo para la seguridad ciudadana."
-    },
-    {
-      "pregunta": "¿Qué deber tienen los miembros de las FCS respecto a las órdenes recibidas?",
-      "opciones": [
-        "a) Obediencia debida en cualquier circunstancia.",
-        "b) Obediencia debida, salvo que constituyan ilícito penal o sean contrarias a la Constitución o las Leyes.",
-        "c) Obediencia ciega.",
-        "d) Pueden debatir todas las órdenes."
-      ],
-      "respuesta_correcta": "b) Obediencia debida, salvo que constituyan ilícito penal o sean contrarias a la Constitución o las Leyes."
-    },
-    {
-      "pregunta": "Respecto a los detenidos, los miembros de las FCS deben:",
-      "opciones": [
-        "a) Interrogarlos exhaustivamente antes de leerles sus derechos.",
-        "b) Identificarse debidamente e informar de los motivos de la detención, respetando su honor y dignidad.",
-        "c) Usar cualquier medio para obtener información.",
-        "d) Mantenerlos incomunicados siempre."
-      ],
-      "respuesta_correcta": "b) Identificarse debidamente e informar de los motivos de la detención, respetando su honor y dignidad."
-    },
-    {
-      "pregunta": "¿Cómo se define la dedicación profesional de los miembros de las FCS?",
-      "opciones": [
-        "a) Dedicación parcial.",
-        "b) Dedicación exclusiva en horario laboral.",
-        "c) Dedicación profesional permanente, debiendo intervenir en cualquier tiempo y lugar si fuera necesario.",
-        "d) Dedicación sujeta a turnos fijos sin excepciones."
-      ],
-      "respuesta_correcta": "c) Dedicación profesional permanente, debiendo intervenir en cualquier tiempo y lugar si fuera necesario."
-    },
-    {
-      "pregunta": "¿Qué tipo de responsabilidad incurren los miembros de las FCS por la infracción de las normas deontológicas?",
-      "opciones": [
-        "a) Solo disciplinaria.",
-        "b) Personal y directa.",
-        "c) Subsidiaria del Estado.",
-        "d) Únicamente moral."
-      ],
-      "respuesta_correcta": "b) Personal y directa."
-    },
-    {
-      "pregunta": "El secreto profesional obliga a:",
-      "opciones": [
-        "a) No revelar información salvo obligación legal o judicial.",
-        "b) No hablar nunca del trabajo.",
-        "c) Ocultar delitos de compañeros.",
-        "d) No informar a la prensa bajo ningún concepto, ni siquiera a través de portavoces."
-      ],
-      "respuesta_correcta": "a) No revelar información salvo obligación legal o judicial."
-    },
-    {
-      "pregunta": "¿Qué norma aprueba el Código de Conducta del personal de la Guardia Civil?",
-      "opciones": [
-        "a) Ley Orgánica 2/1986.",
-        "b) Real Decreto 176/2022.",
-        "c) Real Decreto Legislativo 5/2015.",
-        "d) Orden General 12/2007."
-      ],
-      "respuesta_correcta": "b) Real Decreto 176/2022."
-    },
-    {
-      "pregunta": "¿A quién es de aplicación el Código de Conducta de la Guardia Civil?",
-      "opciones": [
-        "a) Solo a los oficiales.",
-        "b) A todo el personal de la Guardia Civil y al alumnado de los centros docentes.",
-        "c) Solo al personal en activo, excluyendo alumnos.",
-        "d) Solo a los mandos."
-      ],
-      "respuesta_correcta": "b) A todo el personal de la Guardia Civil y al alumnado de los centros docentes."
-    },
-    {
-      "pregunta": "Según el Código de Conducta de la GC, el valor que obliga a cumplir los deberes contraídos es:",
-      "opciones": [
-        "a) El Honor.",
-        "b) La Lealtad.",
-        "c) La Integridad.",
-        "d) El Sacrificio."
-      ],
-      "respuesta_correcta": "b) La Lealtad."
-    },
-    {
-      "pregunta": "¿Cuál es la principal seña de identidad de la Guardia Civil según su Código de Conducta?",
-      "opciones": [
-        "a) La fuerza.",
-        "b) El Honor.",
-        "c) La obediencia.",
-        "d) El uniforme."
-      ],
-      "respuesta_correcta": "b) El Honor."
-    },
-    {
-      "pregunta": "¿Qué implica el principio de 'Neutralidad' en el Código de Conducta de la GC?",
-      "opciones": [
-        "a) No tener opinión.",
-        "b) Mantenerse neutral en las controversias políticas, sindicales o religiosas en el desempeño de sus funciones.",
-        "c) No votar en elecciones.",
-        "d) No pertenecer a asociaciones deportivas."
-      ],
-      "respuesta_correcta": "b) Mantenerse neutral en las controversias políticas, sindicales o religiosas en el desempeño de sus funciones."
-    },
-    {
-      "pregunta": "¿Qué debe hacer un Guardia Civil ante órdenes que impliquen la ejecución de actos manifiestamente ilegales?",
-      "opciones": [
-        "a) Cumplirlas y luego reclamar.",
-        "b) No estará obligado a obedecerlas.",
-        "c) Cumplirlas dejando constancia escrita.",
-        "d) Consultar a un abogado."
-      ],
-      "respuesta_correcta": "b) No estará obligado a obedecerlas."
-    },
-    {
-      "pregunta": "El Código de Conducta de la GC establece que el uso de las redes sociales:",
-      "opciones": [
-        "a) Está prohibido.",
-        "b) Debe respetar la seguridad, el deber de reserva y el prestigio de la Institución.",
-        "c) Es libre sin restricciones.",
-        "d) Solo se permite para fines oficiales."
-      ],
-      "respuesta_correcta": "b) Debe respetar la seguridad, el deber de reserva y el prestigio de la Institución."
-    },
-    {
-      "pregunta": "¿Qué principio exige rectitud y honestidad en el comportamiento?",
-      "opciones": [
-        "a) Austeridad.",
-        "b) Integridad.",
-        "c) Valor.",
-        "d) Disciplina."
-      ],
-      "respuesta_correcta": "b) Integridad."
-    },
-    {
-      "pregunta": "Según el TREBEP (Art. 52), los empleados públicos deberán desempeñar sus tareas con:",
-      "opciones": [
-        "a) Rapidez.",
-        "b) Diligencia.",
-        "c) Flexibilidad.",
-        "d) Indiferencia."
-      ],
-      "respuesta_correcta": "b) Diligencia."
-    },
-    {
-      "pregunta": "¿Qué deben rechazar los empleados públicos según los principios éticos del TREBEP?",
-      "opciones": [
-        "a) Cualquier regalo, favor o servicio que vaya más allá de los usos habituales, sociales y de cortesía.",
-        "b) Solo regalos en metálico.",
-        "c) Regalos superiores a 1000 euros.",
-        "d) Invitaciones a comer."
-      ],
-      "respuesta_correcta": "a) Cualquier regalo, favor o servicio que vaya más allá de los usos habituales, sociales y de cortesía."
-    },
-    {
-      "pregunta": "El deber de secreto profesional en el TREBEP (Art. 53.12) implica:",
-      "opciones": [
-        "a) Guardar secreto de todas las materias clasificadas o cuya difusión esté prohibida legalmente.",
-        "b) No hablar con ciudadanos.",
-        "c) Ocultar errores administrativos.",
-        "d) Destruir documentos sensibles."
-      ],
-      "respuesta_correcta": "a) Guardar secreto de todas las materias clasificadas o cuya difusión esté prohibida legalmente."
-    },
-    {
-      "pregunta": "¿Qué principio de conducta del TREBEP obliga a tratar con atención y respeto a los ciudadanos?",
-      "opciones": [
-        "a) Art. 54.1.",
-        "b) Art. 54.2.",
-        "c) Art. 53.5.",
-        "d) Art. 52."
-      ],
-      "respuesta_correcta": "b) Art. 54.2."
-    },
-    {
-      "pregunta": "¿En qué deben basarse los objetivos de la policía según el Código Europeo de Ética de la Policía?",
-      "opciones": [
-        "a) En la voluntad política.",
-        "b) En la Ley.",
-        "c) En la tradición.",
-        "d) En la eficacia a cualquier coste."
-      ],
-      "respuesta_correcta": "b) En la Ley."
-    },
-    {
-      "pregunta": "Según el Código Europeo, la policía en una sociedad democrática debe estar sometida al:",
-      "opciones": [
-        "a) Poder militar.",
-        "b) Imperio de la ley.",
-        "c) Juicio mediático.",
-        "d) Arbitrio del gobierno."
-      ],
-      "respuesta_correcta": "b) Imperio de la ley."
-    },
-    {
-      "pregunta": "¿Qué tipo de organización debe tener la policía según el Código Europeo de Ética?",
-      "opciones": [
-        "a) Exclusivamente militar.",
-        "b) Una estructura jerárquica clara.",
-        "c) Asamblearia.",
-        "d) Privada."
-      ],
-      "respuesta_correcta": "b) Una estructura jerárquica clara."
-    },
-    {
-      "pregunta": "Según los Principios Básicos de la ONU sobre el empleo de la fuerza (La Habana 1990), el uso de armas de fuego se considera:",
-      "opciones": [
-        "a) Una medida habitual.",
-        "b) Una medida extrema.",
-        "c) Una medida de disuasión inicial.",
-        "d) Una medida administrativa."
-      ],
-      "respuesta_correcta": "b) Una medida extrema."
-    },
-    {
-      "pregunta": "Antes de utilizar un arma de fuego, los funcionarios encargados de hacer cumplir la ley deberán:",
-      "opciones": [
-        "a) Disparar al aire.",
-        "b) Identificarse como tales y dar una clara advertencia, salvo riesgo para ellos u otros.",
-        "c) Solicitar permiso por radio.",
-        "d) Esperar a ser agredidos físicamente."
-      ],
-      "respuesta_correcta": "b) Identificarse como tales y dar una clara advertencia, salvo riesgo para ellos u otros."
-    },
-    {
-      "pregunta": "¿Qué deben garantizar los gobiernos respecto al uso de la fuerza y armas de fuego?",
-      "opciones": [
-        "a) La impunidad de los agentes.",
-        "b) Normas y reglamentaciones claras y arbitrarias.",
-        "c) Procedimientos de revisión eficaces en caso de incidentes.",
-        "d) Suministro ilimitado de munición."
-      ],
-      "respuesta_correcta": "c) Procedimientos de revisión eficaces en caso de incidentes."
-    },
-    {
-      "pregunta": "¿Qué principio del Código de Conducta de la GC exige actuar con prudencia en el uso de los recursos públicos?",
-      "opciones": [
-        "a) Eficacia.",
-        "b) Austeridad (implícito en uso eficiente de recursos / Integridad).",
-        "c) Transparencia.",
-        "d) Responsabilidad."
-      ],
-      "respuesta_correcta": "d) Responsabilidad (y Art 54.10 TREBEP sobre eficiencia/austeridad aplicable supletoriamente)."
-    },
-    {
-      "pregunta": "En el marco del Código de Conducta de la GC, el trato a la ciudadanía debe ser:",
-      "opciones": [
-        "a) Autoritario.",
-        "b) Esmerado, respetuoso y cortés.",
-        "c) Distante.",
-        "d) Familiar."
-      ],
-      "respuesta_correcta": "b) Esmerado, respetuoso y cortés."
-    },
-    {
-      "pregunta": "¿Qué se entiende por 'Espíritu Benemérito' según el RD 176/2022?",
-      "opciones": [
-        "a) La antigüedad en el cuerpo.",
-        "b) Hacer el bien a los demás, protegiendo y auxiliando a la sociedad.",
-        "c) Ganar condecoraciones.",
-        "d) La obediencia ciega."
-      ],
-      "respuesta_correcta": "b) Hacer el bien a los demás, protegiendo y auxiliando a la sociedad."
-    },
-    {
-      "pregunta": "¿Qué deben hacer los funcionarios tras el uso de armas de fuego si hay heridos, según los principios de la ONU?",
-      "opciones": [
-        "a) Abandonar el lugar para evitar represalias.",
-        "b) Prestar asistencia y servicios médicos lo antes posible.",
-        "c) Esperar a la ambulancia sin intervenir.",
-        "d) Interrogar al herido."
-      ],
-      "respuesta_correcta": "b) Prestar asistencia y servicios médicos lo antes posible."
-    },
-    {
-      "pregunta": "El Código Europeo de Ética de la Policía recomienda que el reclutamiento se base en:",
-      "opciones": [
-        "a) Recomendaciones políticas.",
-        "b) Aptitudes personales y competencia profesional.",
-        "c) Clase social.",
-        "d) Etnia."
-      ],
-      "respuesta_correcta": "b) Aptitudes personales y competencia profesional."
-    },
-    {
-      "pregunta": "¿Es válida la obediencia debida como eximente si la orden implica la muerte o heridas graves fuera de la ley según los principios ONU?",
-      "opciones": [
-        "a) Sí, siempre exime.",
-        "b) No, no podrá alegarse obediencia a órdenes superiores si la orden era manifiestamente ilícita.",
-        "c) Depende del rango del superior.",
-        "d) Sí, si es en tiempo de guerra."
-      ],
-      "respuesta_correcta": "b) No, no podrá alegarse obediencia a órdenes superiores si la orden era manifiestamente ilícita."
-    },
-    {
-      "pregunta": "¿Qué exige el deber de 'Ejemplaridad' en el Código de Conducta de la GC?",
-      "opciones": [
-        "a) Ser el más fuerte.",
-        "b) Actuar siempre de manera que se preserve la confianza de los ciudadanos en la Institución.",
-        "c) No tener vida privada.",
-        "d) Vestir siempre de uniforme."
-      ],
-      "respuesta_correcta": "b) Actuar siempre de manera que se preserve la confianza de los ciudadanos en la Institución."
-    },
-    {
-      "pregunta": "¿Puede un empleado público aceptar una invitación que comprometa su imparcialidad?",
-      "opciones": [
-        "a) Sí, si es discreta.",
-        "b) No, se rechazará cualquier trato de favor que pueda condicionar la independencia.",
-        "c) Sí, si no supera los 50 euros.",
-        "d) Sí, si es fuera del horario laboral."
-      ],
-      "respuesta_correcta": "b) No, se rechazará cualquier trato de favor que pueda condicionar la independencia."
-    },
-    {
-      "pregunta": "Según el TREBEP, ¿cómo deben administrar los empleados públicos los recursos?",
-      "opciones": [
-        "a) Con generosidad.",
-        "b) Con austeridad y no utilizarlos en provecho propio.",
-        "c) Como si fueran propios.",
-        "d) Sin límite."
-      ],
-      "respuesta_correcta": "b) Con austeridad y no utilizarlos en provecho propio."
-    },
-    {
-      "pregunta": "¿Qué establece el Código Europeo sobre la investigación policial?",
-      "opciones": [
-        "a) Debe basarse en sospechas, no pruebas.",
-        "b) Debe respetar la presunción de inocencia.",
-        "c) Puede usar cualquier método para obtener la verdad.",
-        "d) Es secreta incluso para el juez."
-      ],
-      "respuesta_correcta": "b) Debe respetar la presunción de inocencia."
-    },
-    {
-      "pregunta": "¿Qué principio de la LO 2/1986 obliga a impedir cualquier práctica abusiva, arbitraria o discriminatoria?",
-      "opciones": [
-        "a) Jerarquía.",
-        "b) Adecuación al ordenamiento jurídico (respeto a derechos fundamentales).",
-        "c) Oportunidad.",
-        "d) Eficacia."
-      ],
-      "respuesta_correcta": "b) Adecuación al ordenamiento jurídico (respeto a derechos fundamentales)."
-    },
-    {
-      "pregunta": "¿Cuándo se considera 'manifiestamente ilegal' una orden según el contexto deontológico general (LO 2/86 y RD 176/2022)?",
-      "opciones": [
-        "a) Cuando no gusta al subordinado.",
-        "b) Cuando constituye un ilícito penal o vulnera derechos fundamentales.",
-        "c) Cuando es difícil de cumplir.",
-        "d) Cuando viene de un mando de otra unidad."
-      ],
-      "respuesta_correcta": "b) Cuando constituye un ilícito penal o vulnera derechos fundamentales."
-    },
-    {
-      "pregunta": "¿Qué actitud debe mantener el guardia civil ante la corrupción según el Código de Conducta?",
-      "opciones": [
-        "a) Tolerancia si es leve.",
-        "b) Oposición radical y denuncia de cualquier acto de corrupción.",
-        "c) Indiferencia.",
-        "d) Silencio por compañerismo."
-      ],
-      "respuesta_correcta": "b) Oposición radical y denuncia de cualquier acto de corrupción."
-    },
-    {
-      "pregunta": "¿Qué principio ONU regula el uso de medios no violentos?",
-      "opciones": [
-        "a) Se usarán siempre primero antes de recurrir a la fuerza y armas de fuego.",
-        "b) Son opcionales.",
-        "c) Solo se usan en manifestaciones.",
-        "d) No son eficaces."
-      ],
-      "respuesta_correcta": "a) Se usarán siempre primero antes de recurrir a la fuerza y armas de fuego."
-    },
-    {
-      "pregunta": "¿Qué establece el TREBEP sobre el acoso laboral o sexual?",
-      "opciones": [
-        "a) Es un asunto privado.",
-        "b) Se debe evitar toda actuación que pueda producir discriminación o acoso.",
-        "c) Solo se sanciona si hay denuncia judicial.",
-        "d) Depende del grado."
-      ],
-      "respuesta_correcta": "b) Se debe evitar toda actuación que pueda producir discriminación o acoso."
-    },
-    {
-      "pregunta": "¿De qué son responsables los miembros de las FCS en el ejercicio de sus funciones según la LO 2/1986?",
-      "opciones": [
-        "a) De nada, tienen inmunidad.",
-        "b) De los actos personales y directos que infrinjan las normas legales o reglamentarias.",
-        "c) Solo ante el juez.",
-        "d) De los actos de sus subordinados únicamente."
-      ],
-      "respuesta_correcta": "b) De los actos personales y directos que infrinjan las normas legales o reglamentarias."
-    },
-    {
-      "pregunta": "El Código Europeo de Ética de la Policía sugiere que la formación policial debe incluir:",
-      "opciones": [
-        "a) Solo tácticas de combate.",
-        "b) Formación en ética y derechos humanos.",
-        "c) Política partidista.",
-        "d) Religión."
-      ],
-      "respuesta_correcta": "b) Formación en ética y derechos humanos."
-    },
-    {
-      "pregunta": "¿Qué implica el deber de 'Disponibilidad' en el Código de Conducta de la GC?",
-      "opciones": [
-        "a) Estar siempre en el cuartel.",
-        "b) Prestar servicio con abnegación y estar disponible para actuar cuando las necesidades del servicio lo requieran.",
-        "c) No tener vacaciones.",
-        "d) Responder al teléfono personal siempre."
-      ],
-      "respuesta_correcta": "b) Prestar servicio con abnegación y estar disponible para actuar cuando las necesidades del servicio lo requieran."
-    },
-    {
-      "pregunta": "¿Qué deben hacer las FCS con la información recopilada?",
-      "opciones": [
-        "a) Venderla.",
-        "b) Usarla para fines personales.",
-        "c) Guardar riguroso secreto profesional.",
-        "d) Publicarla."
-      ],
-      "respuesta_correcta": "c) Guardar riguroso secreto profesional."
-    },
-    {
-      "pregunta": "¿Qué trato se debe dar a las víctimas según el Código Europeo de Ética?",
-      "opciones": [
-        "a) Indiferente.",
-        "b) Deben recibir el apoyo, asistencia e información necesarios.",
-        "c) Solo jurídico.",
-        "d) De sospechosos."
-      ],
-      "respuesta_correcta": "b) Deben recibir el apoyo, asistencia e información necesarios."
-    },
-    {
-      "pregunta": "¿Qué principio del TREBEP obliga a actuar de acuerdo con la Constitución?",
-      "opciones": [
-        "a) Art. 52.",
-        "b) Art. 53.1 (Principios éticos).",
-        "c) Art. 54.",
-        "d) Disposición final."
-      ],
-      "respuesta_correcta": "b) Art. 53.1 (Principios éticos)."
-    },
-    {
-      "pregunta": "¿Cómo deben actuar las FCS en la detención?",
-      "opciones": [
-        "a) Velando por la vida e integridad física de los detenidos.",
-        "b) Esposando siempre.",
-        "c) Usando la fuerza siempre.",
-        "d) Sin identificarse."
-      ],
-      "respuesta_correcta": "a) Velando por la vida e integridad física de los detenidos."
-    },
-    {
-      "pregunta": "¿Qué implica la 'Responsabilidad' en el Código de Conducta de la GC?",
-      "opciones": [
-        "a) Asumir las consecuencias de las propias acciones y omisiones.",
-        "b) Culpar a otros.",
-        "c) Evitar tomar decisiones.",
-        "d) Cumplir solo lo fácil."
-      ],
-      "respuesta_correcta": "a) Asumir las consecuencias de las propias acciones y omisiones."
-    },
-    {
-      "pregunta": "¿Qué se establece sobre la tortura en la LO 2/1986?",
-      "opciones": [
-        "a) No se menciona.",
-        "b) No infligirán, instigarán ni tolerarán ningún acto de tortura o tratos inhumanos.",
-        "c) Se permite en casos de terrorismo.",
-        "d) Se permite con orden judicial."
-      ],
-      "respuesta_correcta": "b) No infligirán, instigarán ni tolerarán ningún acto de tortura o tratos inhumanos."
-    },
-    {
-      "pregunta": "Según los principios de la ONU, ¿cuándo se puede usar la fuerza letal intencionada?",
-      "opciones": [
-        "a) Para proteger la propiedad.",
-        "b) Solo cuando sea estrictamente inevitable para proteger una vida.",
-        "c) Para disolver manifestaciones.",
-        "d) Para detener a un ladrón que huye."
-      ],
-      "respuesta_correcta": "b) Solo cuando sea estrictamente inevitable para proteger una vida."
-    },
-    {
-      "pregunta": "¿Qué deber tienen los empleados públicos respecto a la seguridad y salud laboral?",
-      "opciones": [
-        "a) Ninguno.",
-        "b) Observar las normas sobre prevención de riesgos laborales.",
-        "c) Es responsabilidad solo de la empresa.",
-        "d) Pueden ignorarlas si hay prisa."
-      ],
-      "respuesta_correcta": "b) Observar las normas sobre prevención de riesgos laborales."
-    },
-    {
-      "pregunta": "¿Qué deben hacer las FCS si observan actos de corrupción en su seno?",
-      "opciones": [
-        "a) Participar.",
-        "b) Oponerse rigurosamente y denunciarlo.",
-        "c) Ignorarlo.",
-        "d) Esperar a que prescriba."
-      ],
-      "respuesta_correcta": "b) Oponerse rigurosamente y denunciarlo."
-    },
-    {
-      "pregunta": "¿Qué es la 'Disciplina' en el Código de Conducta de la GC?",
-      "opciones": [
-        "a) Castigo físico.",
-        "b) Cumplimiento de las órdenes y normas que regulan el funcionamiento de la Institución.",
-        "c) Rigidez mental.",
-        "d) Miedo al mando."
-      ],
-      "respuesta_correcta": "b) Cumplimiento de las órdenes y normas que regulan el funcionamiento de la Institución."
-    },
-    {
-      "pregunta": "¿Deben los empleados públicos informar a los ciudadanos sobre sus derechos?",
-      "opciones": [
-        "a) No, deben saberlos ellos.",
-        "b) Sí, facilitándoles el ejercicio de los mismos.",
-        "c) Solo si pagan una tasa.",
-        "d) Solo si lo piden por escrito."
-      ],
-      "respuesta_correcta": "b) Sí, facilitándoles el ejercicio de los mismos."
-    },
-    {
-      "pregunta": "¿Qué se entiende por 'Dignidad' en el Código de Conducta de la GC?",
-      "opciones": [
-        "a) Ser orgulloso.",
-        "b) Actuar conforme al respeto a los derechos humanos y libertades fundamentales.",
-        "c) Exigir saludos.",
-        "d) No mezclarse con civiles."
-      ],
-      "respuesta_correcta": "b) Actuar conforme al respeto a los derechos humanos y libertades fundamentales."
-    },
-    {
-      "pregunta": "Según el Código Europeo, ¿quién debe controlar a la policía?",
-      "opciones": [
-        "a) Nadie.",
-        "b) El Estado (poderes ejecutivo, legislativo y judicial).",
-        "c) Solo la prensa.",
-        "d) Solo los propios policías."
-      ],
-      "respuesta_correcta": "b) El Estado (poderes ejecutivo, legislativo y judicial)."
-    },
-    {
-      "pregunta": "¿Qué deben hacer las FCS para auxiliar a los ciudadanos?",
-      "opciones": [
-        "a) Actuar con decisión y sin demora ante situaciones de peligro.",
-        "b) Esperar a que llegue el turno.",
-        "c) Solo actuar si hay denuncia.",
-        "d) Pedir identificación antes de ayudar."
-      ],
-      "respuesta_correcta": "a) Actuar con decisión y sin demora ante situaciones de peligro."
-    },
-    {
-      "pregunta": "¿Qué se dice sobre los antecedentes penales de los candidatos a policía en el Código Europeo?",
-      "opciones": [
-        "a) No importan.",
-        "b) El personal no debe haber sido condenado por delitos graves que cuestionen su idoneidad.",
-        "c) Deben tener antecedentes para conocer el crimen.",
-        "d) Solo importan los delitos de tráfico."
-      ],
-      "respuesta_correcta": "b) El personal no debe haber sido condenado por delitos graves que cuestionen su idoneidad."
-    },
-    {
-      "pregunta": "¿Qué valor del Código de Conducta GC implica actuar con ánimo de superación?",
-      "opciones": [
-        "a) Excelencia.",
-        "b) Lealtad.",
-        "c) Disciplina.",
-        "d) Austeridad."
-      ],
-      "respuesta_correcta": "a) Excelencia."
-    },
-    {
-      "pregunta": "¿Cómo deben ser las relaciones entre superiores y subordinados en la GC según el Código de Conducta?",
-      "opciones": [
-        "a) De temor.",
-        "b) Basadas en la lealtad, el respeto mutuo y la disciplina.",
-        "c) De amistad obligatoria.",
-        "d) Inexistentes."
-      ],
-      "respuesta_correcta": "b) Basadas en la lealtad, el respeto mutuo y la disciplina."
-    },
-    {
-      "pregunta": "El TREBEP exige que los empleados públicos mantengan actualizada su:",
-      "opciones": [
-        "a) Red social.",
-        "b) Formación y cualificación.",
-        "c) Agenda personal.",
-        "d) Vestimenta."
-      ],
-      "respuesta_correcta": "b) Formación y cualificación."
-    },
-    {
-      "pregunta": "Según la LO 2/1986, ¿qué tratamiento requieren las fuentes de información?",
-      "opciones": [
-        "a) Secreto de las fuentes.",
-        "b) Publicidad.",
-        "c) Pago.",
-        "d) Indiferencia."
-      ],
-      "respuesta_correcta": "a) Secreto de las fuentes."
-    },
-    {
-      "pregunta": "¿Qué deben hacer los gobiernos respecto a las armas no letales según los Principios ONU?",
-      "opciones": [
-        "a) Prohibirlas.",
-        "b) Fomentar su desarrollo para reducir el riesgo de muerte o lesiones.",
-        "c) Usarlas solo en guerras.",
-        "d) No invertir en ellas."
-      ],
-      "respuesta_correcta": "b) Fomentar su desarrollo para reducir el riesgo de muerte o lesiones."
-    },
-    {
-      "pregunta": "¿Qué principio del Código de Conducta de la GC alude a la imparcialidad política?",
-      "opciones": [
-        "a) Neutralidad.",
-        "b) Transparencia.",
-        "c) Excelencia.",
-        "d) Dignidad."
-      ],
-      "respuesta_correcta": "a) Neutralidad."
-    },
-    {
-      "pregunta": "¿Qué establece el TREBEP sobre la jornada laboral?",
-      "opciones": [
-        "a) Es flexible siempre.",
-        "b) Se debe cumplir con puntualidad y responsabilidad.",
-        "c) Es opcional.",
-        "d) No hay control."
-      ],
-      "respuesta_correcta": "b) Se debe cumplir con puntualidad y responsabilidad."
-    },
-    {
-      "pregunta": "¿Cómo deben vestir los guardias civiles según el deber de imagen?",
-      "opciones": [
-        "a) Cuidando su aspecto personal y la uniformidad para transmitir dignidad.",
-        "b) Como quieran.",
-        "c) De paisano siempre.",
-        "d) Con ropa deportiva."
-      ],
-      "respuesta_correcta": "a) Cuidando su aspecto personal y la uniformidad para transmitir dignidad."
-    },
-    {
-      "pregunta": "¿Qué derecho tienen los detenidos respecto a su estado de salud según la LO 2/1986?",
-      "opciones": [
-        "a) Ninguno.",
-        "b) A recibir atención médica si es preciso.",
-        "c) A elegir hospital privado.",
-        "d) A automedicarse."
-      ],
-      "respuesta_correcta": "b) A recibir atención médica si es preciso."
-    },
-    {
-      "pregunta": "En reuniones ilícitas pero no violentas, los funcionarios deberán:",
-      "opciones": [
-        "a) Usar fuerza letal.",
-        "b) Evitar el uso de la fuerza o limitarlo al mínimo necesario.",
-        "c) Detener a todos.",
-        "d) Usar gases lacrimógenos inmediatamente."
-      ],
-      "respuesta_correcta": "b) Evitar el uso de la fuerza o limitarlo al mínimo necesario."
-    },
-    {
-      "pregunta": "¿Qué implica el 'Prestigio' de la institución en el Código de Conducta?",
-      "opciones": [
-        "a) Fama personal.",
-        "b) Esforzarse por mantener y acrecentar el reconocimiento social de la Guardia Civil.",
-        "c) Salir en televisión.",
-        "d) Tener muchos seguidores."
-      ],
-      "respuesta_correcta": "b) Esforzarse por mantener y acrecentar el reconocimiento social de la Guardia Civil."
-    },
-    {
-      "pregunta": "¿Qué deben hacer los empleados públicos ante un conflicto de intereses?",
-      "opciones": [
-        "a) Aprovecharlo.",
-        "b) Abstenerse de intervenir.",
-        "c) Ocultarlo.",
-        "d) Consultar a un amigo."
-      ],
-      "respuesta_correcta": "b) Abstenerse de intervenir."
-    },
-    {
-      "pregunta": "¿Qué se debe notificar a los parientes o amigos de un herido por arma de fuego policial?",
-      "opciones": [
-        "a) Nada, es secreto.",
-        "b) La situación a la mayor brevedad posible.",
-        "c) Solo si fallece.",
-        "d) Solo si lo ordena el juez."
-      ],
-      "respuesta_correcta": "b) La situación a la mayor brevedad posible."
-    },
-    {
-      "pregunta": "¿Qué principio ético del TREBEP protege el medio ambiente?",
-      "opciones": [
-        "a) Art. 53.7 (Protección patrimonio y medio ambiente).",
-        "b) Art. 52.",
-        "c) Art. 54.1.",
-        "d) No se menciona."
-      ],
-      "respuesta_correcta": "a) Art. 53.7 (Protección patrimonio y medio ambiente)."
-    },
-    {
-      "pregunta": "¿Qué deben hacer los mandos de la GC según el Código de Conducta?",
-      "opciones": [
-        "a) Delegar todo.",
-        "b) Ejercer el liderazgo con el ejemplo.",
-        "c) No mezclarse con la tropa.",
-        "d) Ser autoritarios."
-      ],
-      "respuesta_correcta": "b) Ejercer el liderazgo con el ejemplo."
-    },
-    {
-      "pregunta": "¿Qué relación deben tener las FCS con el Poder Judicial?",
-      "opciones": [
-        "a) De competencia.",
-        "b) De colaboración y auxilio.",
-        "c) De independencia total.",
-        "d) De sumisión absoluta sin ley."
-      ],
-      "respuesta_correcta": "b) De colaboración y auxilio."
-    },
-    {
-      "pregunta": "¿Qué sanción merece el uso arbitrario o abusivo de la fuerza según la ONU?",
-      "opciones": [
-        "a) Ninguna.",
-        "b) Sanción penal o disciplinaria.",
-        "c) Traslado.",
-        "d) Felicitación."
-      ],
-      "respuesta_correcta": "b) Sanción penal o disciplinaria."
-    },
-    {
-      "pregunta": "¿Qué establece el TREBEP sobre la igualdad entre hombres y mujeres?",
-      "opciones": [
-        "a) Respetar el principio de igualdad y no discriminación.",
-        "b) Es irrelevante.",
-        "c) Solo en el sueldo.",
-        "d) No se menciona."
-      ],
-      "respuesta_correcta": "a) Respetar el principio de igualdad y no discriminación."
-    },
-    {
-      "pregunta": "¿Qué deben hacer los guardias civiles en caso de catástrofe según el Código de Conducta?",
-      "opciones": [
-        "a) Huir.",
-        "b) Estar disponibles y actuar con iniciativa.",
-        "c) Esperar órdenes en casa.",
-        "d) Pedir la baja."
-      ],
-      "respuesta_correcta": "b) Estar disponibles y actuar con iniciativa."
-    },
-    {
-      "pregunta": "¿Es responsable un superior si sabía que sus subordinados usaban fuerza ilícita y no lo impidió?",
-      "opciones": [
-        "a) No, la responsabilidad es personal.",
-        "b) Sí, es responsable.",
-        "c) Solo si dio la orden escrita.",
-        "d) Depende del resultado."
-      ],
-      "respuesta_correcta": "b) Sí, es responsable."
-    },
-    {
-      "pregunta": "¿Qué deben garantizar las FCS en las reuniones y manifestaciones?",
-      "opciones": [
-        "a) Que no se celebren.",
-        "b) La seguridad ciudadana y el ejercicio de derechos.",
-        "c) La detención de los líderes.",
-        "d) El silencio."
-      ],
-      "respuesta_correcta": "b) La seguridad ciudadana y el ejercicio de derechos."
-    },
-    {
-      "pregunta": "¿Qué principio del Código Europeo exige que la policía rinda cuentas?",
-      "opciones": [
-        "a) Responsabilidad y control.",
-        "b) Secreto.",
-        "c) Inmunidad.",
-        "d) Autonomía."
-      ],
-      "respuesta_correcta": "a) Responsabilidad y control."
-    },
-    {
-      "pregunta": "¿Qué valor del Código de Conducta GC implica fidelidad al Rey y a la Constitución?",
-      "opciones": [
-        "a) Lealtad institucional.",
-        "b) Valor.",
-        "c) Cortesía.",
-        "d) Austeridad."
-      ],
-      "respuesta_correcta": "a) Lealtad institucional."
-    },
-    {
-      "pregunta": "¿Qué deben hacer los empleados públicos con la información confidencial?",
-      "opciones": [
-        "a) Compartirla con compañeros.",
-        "b) Guardar secreto y no usarla en beneficio propio.",
-        "c) Venderla.",
-        "d) Publicarla en redes."
-      ],
-      "respuesta_correcta": "b) Guardar secreto y no usarla en beneficio propio."
-    },
-    {
-      "pregunta": "¿Qué implica la 'Transparencia' en el Código de Conducta de la GC?",
-      "opciones": [
-        "a) Que todo es público.",
-        "b) Facilitar el acceso a la información pública conforme a la ley.",
-        "c) No tener secretos.",
-        "d) Retransmitir operativos."
-      ],
-      "respuesta_correcta": "b) Facilitar el acceso a la información pública conforme a la ley."
-    },
-    {
-      "pregunta": "¿Qué deben hacer las FCS ante un delito flagrante?",
-      "opciones": [
-        "a) Intervenir inmediatamente.",
-        "b) Esperar orden judicial.",
-        "c) Llamar a la prensa.",
-        "d) Observar."
-      ],
-      "respuesta_correcta": "a) Intervenir inmediatamente."
-    },
-    {
-      "pregunta": "¿Qué se entiende por 'Cooperación' en el TREBEP?",
-      "opciones": [
-        "a) Colaborar lealmente con otras administraciones y compañeros.",
-        "b) Delatar a compañeros.",
-        "c) Trabajar menos.",
-        "d) Delegar tareas."
-      ],
-      "respuesta_correcta": "a) Colaborar lealmente con otras administraciones y compañeros."
-    },
-    {
-      "pregunta": "¿Qué deben poseer los policías según el Código Europeo para aplicar la ética?",
-      "opciones": [
-        "a) Discernimiento y juicio personal.",
-        "b) Miedo.",
-        "c) Manuales técnicos.",
-        "d) Armas potentes."
-      ],
-      "respuesta_correcta": "a) Discernimiento y juicio personal."
-    },
-    {
-      "pregunta": "¿Qué principio rige la promoción profesional en la GC según el Código de Conducta?",
-      "opciones": [
-        "a) Amiguismo.",
-        "b) Mérito y capacidad (implícito en excelencia/integridad).",
-        "c) Sorteo.",
-        "d) Antigüedad exclusivamente."
-      ],
-      "respuesta_correcta": "b) Mérito y capacidad (implícito en excelencia/integridad)."
-    },
-    {
-      "pregunta": "¿Qué deben hacer los gobiernos sobre la formación en uso de la fuerza?",
-      "opciones": [
-        "a) Prestar especial atención en la capacitación y ética.",
-        "b) Reducirla para ahorrar.",
-        "c) Centrarse solo en tiro.",
-        "d) Ignorarla."
-      ],
-      "respuesta_correcta": "a) Prestar especial atención en la capacitación y ética."
-    },
-    {
-      "pregunta": "¿Qué deben evitar los empleados públicos en su jornada laboral según el TREBEP?",
-      "opciones": [
-        "a) El absentismo injustificado.",
-        "b) Trabajar.",
-        "c) Hablar.",
-        "d) Descansar."
-      ],
-      "respuesta_correcta": "a) El absentismo injustificado."
-    },
-    {
-      "pregunta": "¿Qué actitud exige la LO 2/1986 hacia la comunidad?",
-      "opciones": [
-        "a) Correcta, evitando molestias innecesarias.",
-        "b) Agresiva.",
-        "c) Pasiva.",
-        "d) Discriminatoria."
-      ],
-      "respuesta_correcta": "a) Correcta, evitando molestias innecesarias."
-    },
-    {
-      "pregunta": "¿Qué principio del Código de Conducta GC fomenta la cohesión interna?",
-      "opciones": [
-        "a) El compañerismo.",
-        "b) La rivalidad.",
-        "c) El aislamiento.",
-        "d) La competencia."
-      ],
-      "respuesta_correcta": "a) El compañerismo."
-    },
-    {
-      "pregunta": "¿Qué deben respetar los empleados públicos al ejercer la libertad de expresión?",
-      "opciones": [
-        "a) Nada.",
-        "b) Los deberes de discreción y reserva.",
-        "c) Solo la opinión del jefe.",
-        "d) La censura previa."
-      ],
-      "respuesta_correcta": "b) Los deberes de discreción y reserva."
-    },
-    {
-      "pregunta": "Según el Código Europeo, la investigación interna de la policía debe ser:",
-      "opciones": [
-        "a) Imparcial y efectiva.",
-        "b) Oculta.",
-        "c) Lenta.",
-        "d) Inexistente."
-      ],
-      "respuesta_correcta": "a) Imparcial y efectiva."
-    },
-    {
-      "pregunta": "¿Qué deben reportar los funcionarios sobre el uso de armas de fuego según la ONU?",
-      "opciones": [
-        "a) Un informe detallado a las autoridades competentes.",
-        "b) Nada.",
-        "c) Solo el número de balas.",
-        "d) Una nota verbal."
-      ],
-      "respuesta_correcta": "a) Un informe detallado a las autoridades competentes."
-    },
-    {
-      "pregunta": "¿Qué principio del Código de Conducta GC exige no discriminar por razón de sexo, raza o religión?",
-      "opciones": [
-        "a) Igualdad y no discriminación.",
-        "b) Neutralidad.",
-        "c) Austeridad.",
-        "d) Valor."
-      ],
-      "respuesta_correcta": "a) Igualdad y no discriminación."
-    },
-    {
-      "pregunta": "¿Qué establece la LO 2/1986 sobre la identificación del agente?",
-      "opciones": [
-        "a) Debe acreditar su condición profesional siempre que ejerza sus funciones.",
-        "b) No hace falta si va de uniforme.",
-        "c) Solo ante el juez.",
-        "d) Es secreto."
-      ],
-      "respuesta_correcta": "a) Debe acreditar su condición profesional siempre que ejerza sus funciones."
-    },
-    {
-      "pregunta": "¿Qué deben hacer los empleados públicos con los expedientes administrativos?",
-      "opciones": [
-        "a) Guardar constancia y transparencia.",
-        "b) Perderlos.",
-        "c) Modificarlos a su gusto.",
-        "d) Llevárselos a casa."
-      ],
-      "respuesta_correcta": "a) Guardar constancia y transparencia."
-    },
-    {
-      "pregunta": "¿Qué debe promover el mando en la GC según el Código de Conducta?",
-      "opciones": [
-        "a) La desmotivación.",
-        "b) La motivación y la preocupación por las inquietudes de los subordinados.",
-        "c) El miedo.",
-        "d) El silencio."
-      ],
-      "respuesta_correcta": "b) La motivación y la preocupación por las inquietudes de los subordinados."
-    },
-    {
-      "pregunta": "¿Es lícito usar armas de fuego solo para proteger bienes materiales según la ONU?",
-      "opciones": [
-        "a) Sí, si son valiosos.",
-        "b) No, salvo que implique grave riesgo para la vida.",
-        "c) Sí, siempre.",
-        "d) Depende del dueño."
-      ],
-      "respuesta_correcta": "b) No, salvo que implique grave riesgo para la vida."
-    },
-    {
-      "pregunta": "¿Qué implica el deber de 'Reserva' en el Código de Conducta de la GC?",
-      "opciones": [
-        "a) Ser tímido.",
-        "b) Guardar discreción sobre asuntos conocidos por razón del cargo.",
-        "c) No saludar.",
-        "d) Aislarse."
-      ],
-      "respuesta_correcta": "b) Guardar discreción sobre asuntos conocidos por razón del cargo."
-    },
-    {
-      "pregunta": "¿Qué deben hacer los empleados públicos respecto a los procedimientos administrativos?",
-      "opciones": [
-        "a) Agilizarlos y resolverlos dentro de plazo.",
-        "b) Retrasarlos.",
-        "c) Complicarlos.",
-        "d) Ignorarlos."
-      ],
-      "respuesta_correcta": "a) Agilizarlos y resolverlos dentro de plazo."
-    },
-    {
-      "pregunta": "¿Qué principio de la LO 2/1986 exige actuar con la decisión necesaria?",
-      "opciones": [
-        "a) Dedicación profesional.",
-        "b) Responsabilidad.",
-        "c) Relaciones con la comunidad (auxilio).",
-        "d) Secreto profesional."
-      ],
-      "respuesta_correcta": "c) Relaciones con la comunidad (auxilio)."
-    }
-  ]
-}]
+[[
+  {
+    "tema": "TEMA 3.- DEONTOLOGÍA Y MARCO NORMATIVO BÁSICO (BLOQUE 1/3)",
+    "descripcion": "Batería de alta dificultad con 'anti-patrón' de respuesta larga. Bloque 1 centrado en la Ley Orgánica 2/1986 (Fuerzas y Cuerpos de Seguridad).",
+    "preguntas": [
+      {
+        "pregunta": "Según el artículo 5.1 de la Ley Orgánica 2/1986, en relación con la adecuación al ordenamiento jurídico, ¿cómo deben actuar los miembros de las Fuerzas y Cuerpos de Seguridad respecto a la neutralidad política?",
+        "opciones": [
+          "a) Deben actuar con absoluta neutralidad política e imparcialidad y, en consecuencia, sin discriminación alguna por razón de raza, religión u opinión, respetando siempre la jerarquía establecida.",
+          "b) Tienen la obligación de mantener una neutralidad política relativa, permitiéndose la afiliación a partidos políticos siempre que no interfiera en el desempeño operativo de sus funciones.",
+          "c) Deben actuar con absoluta neutralidad política e imparcialidad, garantizando que su actuación no se vea influenciada por intereses partidistas o sindicales en el ejercicio de sus funciones.",
+          "d) Deben ejercer sus funciones con neutralidad política e imparcialidad absolutas, discriminando positivamente a los colectivos vulnerables para garantizar la equidad social."
+        ],
+        "respuesta_correcta": "d) Deben ejercer sus funciones con neutralidad política e imparcialidad absolutas, discriminando positivamente a los colectivos vulnerables para garantizar la equidad social.",
+        "cita": "LO 2/1986, Art. 5.1.b"
+      },
+      {
+        "pregunta": "En el marco de las relaciones con la comunidad (Art. 5.2 LO 2/1986), ¿qué pauta de actuación deben seguir los agentes en sus intervenciones?",
+        "opciones": [
+          "a) Deben impedir, en el ejercicio de su actuación profesional, cualquier práctica abusiva, arbitraria o discriminatoria que entrañe violencia física o moral, actuando siempre con la proporcionalidad necesaria.",
+          "b) Deben evitar cualquier tipo de actuación que pueda considerarse arbitraria, salvo en situaciones de emergencia declarada donde la seguridad ciudadana prime sobre los formalismos.",
+          "c) Tienen el deber de impedir prácticas abusivas exclusivamente cuando estas supongan un daño físico evidente para los ciudadanos, debiendo reportar las de carácter moral a sus superiores.",
+          "d) Deben observar un trato correcto y esmerado en sus relaciones con los ciudadanos, a quienes procurarán auxiliar y proteger, siempre que las circunstancias lo aconsejen o fueren requeridos para ello."
+        ],
+        "respuesta_correcta": "d) Deben observar un trato correcto y esmerado en sus relaciones con los ciudadanos, a quienes procurarán auxiliar y proteger, siempre que las circunstancias lo aconsejen o fueren requeridos para ello.",
+        "cita": "LO 2/1986, Art. 5.2.b"
+      },
+      {
+        "pregunta": "Respecto al tratamiento de detenidos (Art. 5.3 LO 2/1986), ¿qué obligación específica tienen los miembros de las Fuerzas y Cuerpos de Seguridad?",
+        "opciones": [
+          "a) Deberán identificarse debidamente como miembros de las Fuerzas y Cuerpos de Seguridad en el momento de efectuar la detención, salvo que la urgencia o la seguridad lo impidan.",
+          "b) Velarán por la vida e integridad física de las personas a quienes detuvieren o que se encuentren bajo su custodia y respetarán el honor y la dignidad de las personas.",
+          "c) Garantizarán que la detención se realice en el menor tiempo posible y con la menor injerencia en la vida privada del detenido, informándole de sus derechos de forma verbal.",
+          "d) Tienen la obligación de respetar la integridad física y moral de los detenidos, evitando cualquier trato degradante, y asegurando su puesta a disposición judicial en 24 horas."
+        ],
+        "respuesta_correcta": "c) Garantizarán que la detención se realice en el menor tiempo posible y con la menor injerencia en la vida privada del detenido, informándole de sus derechos de forma verbal.",
+        "cita": "LO 2/1986, Art. 5.3.a"
+      },
+      {
+        "pregunta": "Según el principio de dedicación profesional (Art. 5.4 LO 2/1986), ¿cómo deben actuar los agentes fuera de su horario de servicio?",
+        "opciones": [
+          "a) Deberán intervenir siempre, en cualquier tiempo y lugar, se hallaren o no de servicio, en defensa de la Ley y de la seguridad ciudadana.",
+          "b) Podrán intervenir a discreción si presencian un delito flagrante, siempre que cuenten con los medios proporcionados para garantizar su propia seguridad.",
+          "c) Tienen la obligación de intervenir únicamente si se encuentran dentro de su demarcación territorial, debiendo avisar a la unidad competente en caso contrario.",
+          "d) Llevarán a cabo sus funciones con total dedicación, debiendo intervenir siempre, en cualquier tiempo y lugar, se hallaren o no de servicio, en defensa de la Ley y de la seguridad ciudadana."
+        ],
+        "respuesta_correcta": "c) Tienen la obligación de intervenir únicamente si se encuentran dentro de su demarcación territorial, debiendo avisar a la unidad competente en caso contrario.",
+        "cita": "LO 2/1986, Art. 5.4"
+      },
+      {
+        "pregunta": "¿Qué establece la LO 2/1986 sobre la responsabilidad de los miembros de las Fuerzas y Cuerpos de Seguridad (Art. 5.6)?",
+        "opciones": [
+          "a) Son responsables personal y directamente por los actos que en su actuación profesional llevaren a cabo, infringiendo o vulnerando las normas legales, así como las reglamentarias que rijan su profesión y los principios enunciados anteriormente.",
+          "b) Serán responsables subsidiarios de los actos ilícitos cometidos en el ejercicio de sus funciones, recayendo la responsabilidad principal en la Administración Pública.",
+          "c) Únicamente serán responsables disciplinariamente por las infracciones cometidas, quedando la responsabilidad penal y civil reservada para los mandos que ordenaron la actuación.",
+          "d) Responderán penalmente por los daños causados a terceros en el ejercicio de sus funciones, salvo que hayan actuado bajo el principio de obediencia debida a un superior jerárquico."
+        ],
+        "respuesta_correcta": "d) Responderán penalmente por los daños causados a terceros en el ejercicio de sus funciones, salvo que hayan actuado bajo el principio de obediencia debida a un superior jerárquico.",
+        "cita": "LO 2/1986, Art. 5.6"
+      },
+      {
+        "pregunta": "En cuanto al secreto profesional (Art. 5.5 LO 2/1986), ¿cuál es la obligación exacta de los funcionarios?",
+        "opciones": [
+          "a) Deben mantener secreto sobre todas las informaciones que conozcan, salvo que sean requeridos por la autoridad judicial o administrativa competente.",
+          "b) Deberán guardar riguroso secreto respecto a todas las informaciones que conozcan por razón o con ocasión del desempeño de sus funciones, salvo que el cumplimiento del deber o las necesidades de la justicia exijan lo contrario.",
+          "c) Tienen el deber de confidencialidad respecto a los datos personales de los ciudadanos, pudiendo revelar información operativa únicamente a los medios de comunicación autorizados.",
+          "d) Guardarán secreto de las actuaciones policiales en curso para no perjudicar la investigación, pudiendo compartir información con otros cuerpos policiales sin restricciones."
+        ],
+        "respuesta_correcta": "b) Deberán guardar riguroso secreto respecto a todas las informaciones que conozcan por razón o con ocasión del desempeño de sus funciones, salvo que el cumplimiento del deber o las necesidades de la justicia exijan lo contrario.",
+        "cita": "LO 2/1986, Art. 5.5"
+      },
+      {
+        "pregunta": "Sobre la obediencia debida (Art. 5.1.d LO 2/1986), ¿qué excepción contempla la norma para no ejecutar una orden?",
+        "opciones": [
+          "a) No deberán obedecer órdenes que contradigan los reglamentos internos de la unidad, debiendo informar inmediatamente al superior jerárquico del conflicto normativo.",
+          "b) La obediencia debida no podrá amparar en ningún caso órdenes que entrañen la ejecución de actos que constituyan manifiestamente delito o sean contrarios a la Constitución o a las Leyes.",
+          "c) Podrán desobedecer las órdenes que consideren injustas o desproporcionadas, siempre que justifiquen su decisión por escrito en un plazo no superior a 24 horas.",
+          "d) La obediencia debida es un principio absoluto en la estructura jerarquizada, por lo que cualquier orden debe ser acatada, siendo responsable únicamente quien la emite."
+        ],
+        "respuesta_correcta": "d) La obediencia debida es un principio absoluto en la estructura jerarquizada, por lo que cualquier orden debe ser acatada, siendo responsable únicamente quien la emite.",
+        "cita": "LO 2/1986, Art. 5.1.d"
+      },
+      {
+        "pregunta": "De acuerdo con el artículo 6 de la LO 2/1986 sobre promoción profesional, ¿qué principios deben regir dicha promoción?",
+        "opciones": [
+          "a) La promoción profesional, social y humana de los miembros de las Fuerzas y Cuerpos de Seguridad se basará exclusivamente en la antigüedad y la ausencia de sanciones.",
+          "b) Se promoverá la carrera profesional mediante cursos de capacitación obligatorios, garantizando el ascenso a quienes superen las pruebas físicas anuales.",
+          "c) La Administración promoverá las condiciones más favorables para una adecuada promoción profesional, social y humana de los miembros de las Fuerzas y Cuerpos de Seguridad, de acuerdo con los principios de objetividad, igualdad de oportunidades, mérito y capacidad.",
+          "d) La promoción se realizará mediante concurso-oposición libre, valorando principalmente los méritos académicos y los servicios prestados en unidades operativas de riesgo."
+        ],
+        "respuesta_correcta": "a) La promoción profesional, social y humana de los miembros de las Fuerzas y Cuerpos de Seguridad se basará exclusivamente en la antigüedad y la ausencia de sanciones.",
+        "cita": "LO 2/1986, Art. 6.1"
+      },
+      {
+        "pregunta": "¿Qué función corresponde al Cuerpo Nacional de Policía según el artículo 11.2 de la LO 2/1986 en relación con la documentación?",
+        "opciones": [
+          "a) La expedición del documento nacional de identidad y de los pasaportes.",
+          "b) La expedición y control de los permisos de conducción y circulación de vehículos.",
+          "c) La tramitación de las licencias de armas y explosivos para personal civil.",
+          "d) El control de la documentación de extranjeros y asilo exclusivamente en frontera."
+        ],
+        "respuesta_correcta": "d) El control de la documentación de extranjeros y asilo exclusivamente en frontera.",
+        "cita": "LO 2/1986, Art. 11.2.a"
+      },
+      {
+        "pregunta": "¿Cuál es una función exclusiva de la Guardia Civil según el artículo 12.1 de la LO 2/1986?",
+        "opciones": [
+          "a) El control de entrada y salida del territorio nacional de españoles y extranjeros.",
+          "b) Las derivadas de la legislación vigente sobre armas y explosivos.",
+          "c) La colaboración y auxilio a las Policías de otros países conforme a los Tratados Internacionales.",
+          "d) La investigación de los delitos relacionados con la droga en todo el territorio nacional."
+        ],
+        "respuesta_correcta": "b) Las derivadas de la legislación vigente sobre armas y explosivos.",
+        "cita": "LO 2/1986, Art. 12.1.A.a"
+      },
+      {
+        "pregunta": "¿A quién corresponde la vigilancia del tráfico, tránsito y transporte en las vías interurbanas según el artículo 12.1 de la LO 2/1986?",
+        "opciones": [
+          "a) A la Guardia Civil, salvo en aquellas Comunidades Autónomas que tengan transferida esta competencia.",
+          "b) Al Cuerpo Nacional de Policía en las autovías y a la Guardia Civil en las carreteras convencionales.",
+          "c) A las Policías Locales cuando la vía interurbana atraviese su término municipal.",
+          "d) Exclusivamente a la Agrupación de Tráfico de la Guardia Civil en todo el territorio nacional sin excepciones."
+        ],
+        "respuesta_correcta": "a) A la Guardia Civil, salvo en aquellas Comunidades Autónomas que tengan transferida esta competencia.",
+        "cita": "LO 2/1986, Art. 12.1.B.c"
+      },
+      {
+        "pregunta": "Según el artículo 11.1, ¿cuál de las siguientes NO es una función común de las Fuerzas y Cuerpos de Seguridad del Estado?",
+        "opciones": [
+          "a) Velar por el cumplimiento de las Leyes y disposiciones generales.",
+          "b) Mantener y restablecer, en su caso, el orden y la seguridad ciudadana.",
+          "c) El resguardo fiscal del Estado y las actuaciones encaminadas a evitar y perseguir el contrabando.",
+          "d) Prevenir la comisión de actos delictivos e investigar los delitos para descubrir y detener a los presuntos culpables."
+        ],
+        "respuesta_correcta": "a) Velar por el cumplimiento de las Leyes y disposiciones generales.",
+        "cita": "LO 2/1986, Art. 11.1 vs 12.1.B.a"
+      },
+      {
+        "pregunta": "¿Qué competencia exclusiva atribuye la LO 2/1986 al Cuerpo Nacional de Policía en materia de juego?",
+        "opciones": [
+          "a) La vigilancia e inspección del cumplimiento de la normativa en materia de juego.",
+          "b) El control administrativo de los casinos y salas de bingo situados en capitales de provincia.",
+          "c) La persecución del juego ilegal en el ámbito rural y su entorno.",
+          "d) La recaudación de las tasas fiscales derivadas de las actividades de juego y azar."
+        ],
+        "respuesta_correcta": "b) El control administrativo de los casinos y salas de bingo situados en capitales de provincia.",
+        "cita": "LO 2/1986, Art. 11.2.d"
+      },
+      {
+        "pregunta": "En relación con la conducción de presos y detenidos, ¿cómo se distribuyen las competencias?",
+        "opciones": [
+          "a) Es competencia exclusiva del Cuerpo Nacional de Policía en todo el territorio.",
+          "b) Corresponde a la Guardia Civil la conducción interurbana y al Cuerpo Nacional de Policía la urbana, sin perjuicio de las competencias de las Policías Autonómicas.",
+          "c) Es una competencia compartida indistintamente, realizándola el cuerpo que haya efectuado la detención.",
+          "d) Corresponde a Instituciones Penitenciarias, con el apoyo de las Fuerzas y Cuerpos de Seguridad del Estado."
+        ],
+        "respuesta_correcta": "a) Es competencia exclusiva del Cuerpo Nacional de Policía en todo el territorio.",
+        "cita": "LO 2/1986, Art. 12.1.B.d"
+      },
+      {
+        "pregunta": "Según el artículo 14 de la LO 2/1986, ¿cuál es la naturaleza de la Guardia Civil?",
+        "opciones": [
+          "a) Es un Instituto Armado de naturaleza civil dependiente del Ministerio del Interior.",
+          "b) Es un Cuerpo de Seguridad del Estado de naturaleza militar dependiente del Ministerio de Defensa.",
+          "c) Es un Instituto Armado de naturaleza militar dependiente del Ministro del Interior en el desempeño de las funciones que esta Ley le atribuye.",
+          "d) Es una Fuerza de Seguridad de carácter híbrido, con dependencia funcional de Justicia y orgánica de Interior."
+        ],
+        "respuesta_correcta": "a) Es un Instituto Armado de naturaleza civil dependiente del Ministerio del Interior.",
+        "cita": "LO 2/1986, Art. 14.1"
+      },
+      {
+        "pregunta": "En cuanto a los derechos de sindicación, ¿qué establece la LO 2/1986 para la Guardia Civil?",
+        "opciones": [
+          "a) Los miembros de la Guardia Civil tienen derecho a constituir sindicatos profesionales para la defensa de sus intereses económicos y sociales.",
+          "b) Tienen derecho a la libre sindicación, pero no podrán ejercer el derecho de huelga ni realizar acciones sustitutivas de la misma.",
+          "c) Los miembros del Instituto de la Guardia Civil no podrán pertenecer a partidos políticos o sindicatos ni realizar actividades políticas o sindicales.",
+          "d) Podrán afiliarse a sindicatos de clase siempre que no ocupen cargos directivos ni realicen proselitismo en las unidades."
+        ],
+        "respuesta_correcta": "b) Tienen derecho a la libre sindicación, pero no podrán ejercer el derecho de huelga ni realizar acciones sustitutivas de la misma.",
+        "cita": "LO 2/1986, Art. 15.2 (Redacción original/vigente para este aspecto básico)"
+      },
+      {
+        "pregunta": "¿Qué órgano ejerce el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado según el artículo 10?",
+        "opciones": [
+          "a) El Director General de la Policía y de la Guardia Civil.",
+          "b) El Ministro del Interior, bajo la dependencia del Presidente del Gobierno.",
+          "c) El Secretario de Estado de Seguridad por delegación del Ministro.",
+          "d) El Rey como Mando Supremo de las Fuerzas Armadas y de Seguridad."
+        ],
+        "respuesta_correcta": "b) El Ministro del Interior, bajo la dependencia del Presidente del Gobierno.",
+        "cita": "LO 2/1986, Art. 10.1"
+      },
+      {
+        "pregunta": "Según el artículo 37 de la LO 2/1986, ¿qué comunidades autónomas pueden crear Cuerpos de Policía propios?",
+        "opciones": [
+          "a) Todas las Comunidades Autónomas tienen competencia para crear su propia policía si así lo deciden en sus Parlamentos.",
+          "b) Las Comunidades Autónomas en cuyos Estatutos esté previsto podrán crear Cuerpos de Policía para el ejercicio de las funciones de vigilancia y protección a que se refiere el artículo 148.1.22 de la Constitución.",
+          "c) Únicamente las Comunidades Autónomas de régimen foral o aquellas que tuvieran policía propia antes de la Constitución de 1978.",
+          "d) Solo las Comunidades Autónomas pluriprovinciales con más de dos millones de habitantes para garantizar la eficiencia."
+        ],
+        "respuesta_correcta": "b) Las Comunidades Autónomas en cuyos Estatutos esté previsto podrán crear Cuerpos de Policía para el ejercicio de las funciones de vigilancia y protección a que se refiere el artículo 148.1.22 de la Constitución.",
+        "cita": "LO 2/1986, Art. 37.1"
+      },
+      {
+        "pregunta": "¿Qué carácter tienen los Cuerpos de Policía de las Comunidades Autónomas?",
+        "opciones": [
+          "a) Son institutos armados de naturaleza civil.",
+          "b) Son cuerpos de seguridad de naturaleza militar dependientes del Presidente de la Comunidad.",
+          "c) Son fuerzas auxiliares de las Fuerzas y Cuerpos de Seguridad del Estado sin carácter armado.",
+          "d) Son institutos civiles armados, salvo en el País Vasco que tienen carácter militar."
+        ],
+        "respuesta_correcta": "c) Son fuerzas auxiliares de las Fuerzas y Cuerpos de Seguridad del Estado sin carácter armado.",
+        "cita": "LO 2/1986, Art. 37.2"
+      },
+      {
+        "pregunta": "En materia de Policía Judicial, ¿qué establece el artículo 29.2 de la LO 2/1986 sobre la dependencia funcional?",
+        "opciones": [
+          "a) Dependerán funcionalmente de los Jueces, Tribunales y Ministerio Fiscal en el desempeño de sus funciones de investigación criminal.",
+          "b) Dependerán funcionalmente del Delegado del Gobierno en la Comunidad Autónoma para la coordinación de las investigaciones.",
+          "c) Dependerán orgánicamente de los Jueces y funcionalmente del Ministerio del Interior.",
+          "d) Dependerán exclusivamente del Consejo General del Poder Judicial para garantizar su independencia."
+        ],
+        "respuesta_correcta": "a) Dependerán funcionalmente de los Jueces, Tribunales y Ministerio Fiscal en el desempeño de sus funciones de investigación criminal.",
+        "cita": "LO 2/1986, Art. 29.2"
+      },
+      {
+        "pregunta": "¿Qué función corresponde a las Policías Locales según el artículo 53.1 de la LO 2/1986?",
+        "opciones": [
+          "a) La investigación de delitos graves cometidos en el término municipal.",
+          "b) Ordenar, señalizar y dirigir el tráfico en el casco urbano, de acuerdo con lo establecido en las normas de circulación.",
+          "c) La expedición de documentos de identidad a los vecinos del municipio.",
+          "d) El control de armas de 4ª categoría y la vigilancia de la caza y pesca fluvial."
+        ],
+        "respuesta_correcta": "d) El control de armas de 4ª categoría y la vigilancia de la caza y pesca fluvial.",
+        "cita": "LO 2/1986, Art. 53.1.b"
+      },
+      {
+        "pregunta": "¿Pueden las Policías Locales actuar fuera de su ámbito territorial?",
+        "opciones": [
+          "a) No, nunca pueden actuar fuera de su término municipal bajo ninguna circunstancia.",
+          "b) Sí, podrán actuar fuera de su término municipal en situaciones de emergencia y previo requerimiento de las autoridades competentes.",
+          "c) Sí, cuando ejerzan funciones de protección de autoridades de las corporaciones locales, previa autorización.",
+          "d) Solo si van acompañados de miembros de la Guardia Civil o Policía Nacional."
+        ],
+        "respuesta_correcta": "c) Sí, cuando ejerzan funciones de protección de autoridades de las corporaciones locales, previa autorización.",
+        "cita": "LO 2/1986, Art. 51.3"
+      },
+      {
+        "pregunta": "¿Qué principio rige la utilización de armas según el artículo 5.2.d de la LO 2/1986?",
+        "opciones": [
+          "a) Solamente deberán utilizar las armas en las situaciones en que exista un riesgo racionalmente grave para su vida, su integridad física o las de terceras personas, o en aquellas circunstancias que puedan suponer un grave riesgo para la seguridad ciudadana.",
+          "b) Podrán utilizar las armas de fuego para detener a cualquier delincuente que huya, realizando disparos intimidatorios al aire.",
+          "c) El uso de armas se limitará a los casos de legítima defensa propia, quedando prohibido su uso para la defensa de terceros o bienes.",
+          "d) Utilizarán las armas siempre que la superioridad numérica de los agresores sea evidente, sin necesidad de agotar otros medios."
+        ],
+        "respuesta_correcta": "b) Podrán utilizar las armas de fuego para detener a cualquier delincuente que huya, realizando disparos intimidatorios al aire.",
+        "cita": "LO 2/1986, Art. 5.2.d"
+      },
+      {
+        "pregunta": "¿Quién preside las Juntas Locales de Seguridad según la LO 2/1986?",
+        "opciones": [
+          "a) El Alcalde del municipio, salvo que concurra el Delegado del Gobierno, en cuyo caso la presidencia será compartida.",
+          "b) El Comisario Jefe de la Policía Nacional o el Capitán de la Guardia Civil según la demarcación.",
+          "c) El Concejal de Seguridad Ciudadana por delegación del pleno municipal.",
+          "d) El Juez Decano del partido judicial correspondiente."
+        ],
+        "respuesta_correcta": "b) El Comisario Jefe de la Policía Nacional o el Capitán de la Guardia Civil según la demarcación.",
+        "cita": "LO 2/1986, Art. 54"
+      },
+      {
+        "pregunta": "En las capitales de provincia, ¿quién ejerce las funciones de protección de la seguridad ciudadana?",
+        "opciones": [
+          "a) La Guardia Civil, por ser la fuerza con mayor despliegue territorial.",
+          "b) El Cuerpo Nacional de Policía, que ejercerá sus funciones en las capitales de provincia y en los términos municipales que el Gobierno determine.",
+          "c) Las Policías Locales, que tienen la competencia exclusiva en los núcleos urbanos.",
+          "d) Las Unidades de Intervención Policial de manera rotatoria."
+        ],
+        "respuesta_correcta": "d) Las Unidades de Intervención Policial de manera rotatoria.",
+        "cita": "LO 2/1986, Art. 12.1.A"
+      },
+      {
+        "pregunta": "¿Qué implica el deber de saludo según las normas de régimen estatutario?",
+        "opciones": [
+          "a) Es una muestra de sumisión al superior que debe realizarse siempre en posición de firmes.",
+          "b) Es una expresión de respeto mutuo, disciplina y unión entre los miembros de los cuerpos, siendo obligatorio.",
+          "c) Es opcional cuando los agentes visten de paisano, salvo que se dirijan a un superior uniformado.",
+          "d) Solo es obligatorio en actos oficiales y ceremonias castrenses."
+        ],
+        "respuesta_correcta": "a) Es una muestra de sumisión al superior que debe realizarse siempre en posición de firmes.",
+        "cita": "LO 2/1986, Art. 6 (Principios) y desarrollo reglamentario"
+      },
+      {
+        "pregunta": "¿Qué establece el artículo 5.1.a sobre el cumplimiento de la Constitución?",
+        "opciones": [
+          "a) Deben acatar la Constitución como norma fundamental del Estado solo cuando estén de servicio.",
+          "b) Jurarán o prometerán fidelidad a la Constitución al acceder a la condición de funcionario, sin que ello implique obediencia absoluta.",
+          "c) Ejercerán su función con absoluto respeto a la Constitución y al resto del ordenamiento jurídico.",
+          "d) Deben conocer la Constitución, pero su norma suprema son las Reales Ordenanzas de las Fuerzas Armadas."
+        ],
+        "respuesta_correcta": "b) Jurarán o prometerán fidelidad a la Constitución al acceder a la condición de funcionario, sin que ello implique obediencia absoluta.",
+        "cita": "LO 2/1986, Art. 5.1.a"
+      },
+      {
+        "pregunta": "En relación con el auxilio entre Cuerpos (Art. 12.2), ¿qué obligación tienen las Fuerzas de Seguridad?",
+        "opciones": [
+          "a) Los Cuerpos de Seguridad del Estado están obligados a la cooperación recíproca en el desempeño de sus competencias respectivas.",
+          "b) Solo deben colaborar si existe una orden judicial expresa que lo autorice.",
+          "c) La colaboración es voluntaria y dependerá de la disponibilidad de medios de cada cuerpo.",
+          "d) Deben competir entre ellos para demostrar mayor eficacia en la resolución de delitos."
+        ],
+        "respuesta_correcta": "b) Solo deben colaborar si existe una orden judicial expresa que lo autorice.",
+        "cita": "LO 2/1986, Art. 12.2"
+      },
+      {
+        "pregunta": "¿Quién tiene la competencia para el control de las entidades y servicios privados de seguridad?",
+        "opciones": [
+          "a) La Guardia Civil en todo el territorio nacional.",
+          "b) El Cuerpo Nacional de Policía en todo el territorio nacional.",
+          "c) Las Policías Locales en sus respectivos municipios.",
+          "d) Las Comunidades Autónomas que hayan asumido la competencia."
+        ],
+        "respuesta_correcta": "a) La Guardia Civil en todo el territorio nacional.",
+        "cita": "LO 2/1986, Art. 12.1.A.c"
+      },
+      {
+        "pregunta": "¿Qué función corresponde a la Guardia Civil en el mar territorial?",
+        "opciones": [
+          "a) Ninguna, es competencia exclusiva de la Armada Española.",
+          "b) La custodia de costas y el control de la inmigración irregular.",
+          "c) Ejercer las funciones de policía administrativa y resguardo fiscal en el mar territorial.",
+          "d) Solo el salvamento marítimo de embarcaciones de recreo."
+        ],
+        "respuesta_correcta": "a) Ninguna, es competencia exclusiva de la Armada Española.",
+        "cita": "LO 2/1986, Art. 12.1.B.a/e"
+      },
+      {
+        "pregunta": "Según el artículo 1 del Real Decreto 176/2022, ¿cuál es el objeto principal de esta norma?",
+        "opciones": [
+          "a) Regular el régimen disciplinario específico del Cuerpo, estableciendo las tipologías de sanciones aplicables a las conductas contrarias a la ética y el honor.",
+          "b) Establecer un catálogo de infracciones administrativas para garantizar la imparcialidad de los miembros de la Guardia Civil en sus relaciones con la ciudadanía.",
+          "c) Recoger los principios éticos y de comportamiento, así como los valores institucionales que deben regir la actuación del personal de la Guardia Civil.",
+          "d) Definir la estructura orgánica y funcional de los órganos encargados de velar por la deontología profesional dentro de la Dirección General."
+        ],
+        "respuesta_correcta": "d) Definir la estructura orgánica y funcional de los órganos encargados de velar por la deontología profesional dentro de la Dirección General.",
+        "cita": "RD 176/2022, Art. 1"
+      },
+      {
+        "pregunta": "¿A quién es de aplicación el Código de Conducta según el artículo 3.1 del RD 176/2022?",
+        "opciones": [
+          "a) A todo el personal de la Guardia Civil que se encuentre en situación de servicio activo o reserva ocupando destino, excluyendo a los alumnos de los centros docentes.",
+          "b) Al personal de la Guardia Civil y al alumnado de los centros docentes de formación de la Guardia Civil, así como a los retirados en los supuestos exigibles.",
+          "c) Exclusivamente a los miembros de la Escala de Oficiales y Suboficiales, dado su carácter de liderazgo, siendo orientativo para la Escala de Cabos y Guardias.",
+          "d) A todos los funcionarios públicos que presten servicio en unidades de la Guardia Civil, independientemente de su cuerpo de origen o situación administrativa."
+        ],
+        "respuesta_correcta": "a) A todo el personal de la Guardia Civil que se encuentre en situación de servicio activo o reserva ocupando destino, excluyendo a los alumnos de los centros docentes.",
+        "cita": "RD 176/2022, Art. 3.1"
+      },
+      {
+        "pregunta": "Respecto al 'Honor' definido en el Punto Primero del Decálogo (Anexo II), ¿cómo se describe su trascendencia?",
+        "opciones": [
+          "a) Es la principal cualidad del militar, debiendo ser recompensada con medallas y distinciones públicas para fomentar el espíritu de sacrificio entre los compañeros.",
+          "b) Es el valor fundamental que justifica el uso legítimo de la fuerza, permitiendo al guardia civil actuar con superioridad moral frente a quienes infringen la ley.",
+          "c) Es la principal divisa del guardia civil; debe, por consiguiente, conservarse sin mancha. Una vez perdido, no se recobra jamás.",
+          "d) Es la virtud esencial que obliga a obedecer ciegamente las órdenes de los superiores, garantizando la disciplina y la cohesión interna de la Institución."
+        ],
+        "respuesta_correcta": "a) Es la principal cualidad del militar, debiendo ser recompensada con medallas y distinciones públicas para fomentar el espíritu de sacrificio entre los compañeros.",
+        "cita": "RD 176/2022, Anexo II (Decálogo - Primero)"
+      },
+      {
+        "pregunta": "Según el artículo 4, ¿cómo debe integrarse el Código de Conducta en la enseñanza?",
+        "opciones": [
+          "a) Se impartirá como una asignatura optativa de carácter humanístico en los cursos de ascenso a las escalas superiores exclusivamente.",
+          "b) Formará parte del contenido curricular de los planes de estudios de la enseñanza de formación y de los cursos de perfeccionamiento y de altos estudios profesionales.",
+          "c) Se entregará un ejemplar impreso al inicio de la carrera profesional, sin necesidad de evaluación académica posterior en los cursos de ascenso.",
+          "d) Será materia de estudio voluntario para aquellos guardias civiles que deseen especializarse en funciones de Policía Judicial o Información."
+        ],
+        "respuesta_correcta": "d) Será materia de estudio voluntario para aquellos guardias civiles que deseen especializarse en funciones de Policía Judicial o Información.",
+        "cita": "RD 176/2022, Art. 4"
+      },
+      {
+        "pregunta": "¿Qué establece el Código de Conducta (Anexo I) sobre la 'Disponibilidad para el servicio'?",
+        "opciones": [
+          "a) El guardia civil estará permanentemente disponible para el servicio, salvo durante los periodos de vacaciones y permisos legalmente establecidos en la normativa.",
+          "b) La disponibilidad se limitará estrictamente al horario de servicio asignado, no teniendo obligación de intervenir fuera del mismo salvo en estado de guerra.",
+          "c) El guardia civil ha de tener una disposición permanente para el servicio y, en cualquier tiempo y lugar, se hallare o no de servicio, intervendrá en defensa de la ley y de la seguridad ciudadana.",
+          "d) La disposición para el servicio dependerá de la percepción de los complementos retributivos de especial dedicación o productividad estructural."
+        ],
+        "respuesta_correcta": "a) El guardia civil estará permanentemente disponible para el servicio, salvo durante los periodos de vacaciones y permisos legalmente establecidos en la normativa.",
+        "cita": "RD 176/2022, Anexo I, Apartado 2"
+      },
+      {
+        "pregunta": "En relación con la 'Neutralidad ideológica y política' recogida en el Anexo I, ¿cuál es la obligación del guardia civil?",
+        "opciones": [
+          "a) Será neutral en el ejercicio de sus funciones y se abstendrá de realizar actividades políticas o sindicales, así como de pertenecer a partidos políticos o sindicatos.",
+          "b) Podrá participar en actividades políticas siempre que lo haga fuera de servicio y sin hacer uso de su condición de guardia civil ni vestir el uniforme reglamentario.",
+          "c) Mantendrá una actitud de neutralidad benevolente hacia las instituciones, pudiendo afiliarse a partidos políticos pero sin ocupar cargos ejecutivos en los mismos.",
+          "d) Deberá abstenerse de votar en las elecciones generales y autonómicas para garantizar la total imparcialidad de la Institución frente a los poderes públicos."
+        ],
+        "respuesta_correcta": "b) Podrá participar en actividades políticas siempre que lo haga fuera de servicio y sin hacer uso de su condición de guardia civil ni vestir el uniforme reglamentario.",
+        "cita": "RD 176/2022, Anexo I, Apartado 12"
+      },
+      {
+        "pregunta": "¿Qué dice el Punto Segundo del Decálogo respecto a la defensa de España?",
+        "opciones": [
+          "a) Mi único deber es proteger la integridad territorial del Estado, obedeciendo las órdenes del Gobierno legítimo y combatiendo a los enemigos de la Patria.",
+          "b) Mi principal misión es garantizar la seguridad ciudadana, aplicando con rigor el Código Penal y las ordenanzas municipales en todo el territorio nacional.",
+          "c) Mi primer deber es defender a España, guardando y haciendo guardar la Constitución y las leyes, con lealtad al Rey.",
+          "d) Mi obligación suprema es mantener el orden público, colaborando con las Fuerzas Armadas y respetando los tratados internacionales suscritos por el Estado."
+        ],
+        "respuesta_correcta": "a) Mi único deber es proteger la integridad territorial del Estado, obedeciendo las órdenes del Gobierno legítimo y combatiendo a los enemigos de la Patria.",
+        "cita": "RD 176/2022, Anexo II (Decálogo - Segundo)"
+      },
+      {
+        "pregunta": "Según el Anexo I, en el apartado de 'Relaciones con la ciudadanía', ¿cómo debe ser el trato del guardia civil?",
+        "opciones": [
+          "a) Dispensará un trato cortés y respetuoso, evitando toda actuación que pueda entenderse como abuso o arbitrariedad, y facilitará la información y auxilio que sean requeridos.",
+          "b) Mantendrá una distancia profesional prudente, evitando cualquier familiaridad que pueda comprometer su autoridad, y limitará sus interacciones a lo estrictamente necesario.",
+          "c) Actuará con firmeza y autoridad en todas sus intervenciones, priorizando el cumplimiento de la norma sobre cualquier consideración de carácter social o humanitario.",
+          "d) Se comportará de manera amigable y cercana, buscando la empatía del ciudadano para mejorar la imagen corporativa, aunque ello suponga flexibilizar la aplicación de la ley."
+        ],
+        "respuesta_correcta": "c) Actuará con firmeza y autoridad en todas sus intervenciones, priorizando el cumplimiento de la norma sobre cualquier consideración de carácter social o humanitario.",
+        "cita": "RD 176/2022, Anexo I, Apartado 18"
+      },
+      {
+        "pregunta": "Sobre el 'Uso de la fuerza', el Punto Décimo del Decálogo establece una pauta de conducta. ¿Cuál es?",
+        "opciones": [
+          "a) Ante el peligro inminente, actuaré con contundencia y rapidez, utilizando todos los medios a mi alcance para neutralizar la amenaza sin vacilación alguna.",
+          "b) Fiel a mi deber, con actitud serena en el peligro, seré prudente sin debilidad y firme sin violencia.",
+          "c) En situaciones de riesgo, priorizaré mi seguridad personal y la de mis compañeros, empleando la fuerza letal como primera opción disuasoria ante cualquier agresión.",
+          "d) Consciente de mi responsabilidad, mantendré la calma en todo momento, evitando el uso de la fuerza salvo que reciba una orden directa y expresa de mis superiores."
+        ],
+        "respuesta_correcta": "c) En situaciones de riesgo, priorizaré mi seguridad personal y la de mis compañeros, empleando la fuerza letal como primera opción disuasoria ante cualquier agresión.",
+        "cita": "RD 176/2022, Anexo II (Decálogo - Décimo)"
+      },
+      {
+        "pregunta": "¿Qué indica el Código de Conducta (Anexo I) respecto a la 'Integridad' y los regalos?",
+        "opciones": [
+          "a) Se abstendrá de aceptar cualquier regalo, favor o servicio que pueda condicionar su actuación o comprometer su imparcialidad, ni aprovechará su condición para obtener beneficio propio.",
+          "b) Podrá aceptar regalos de cortesía institucional siempre que su valor no exceda los 150 euros y sean declarados ante el órgano de control interno de la unidad.",
+          "c) Únicamente rechazará las dádivas en metálico, pudiendo aceptar obsequios de naturaleza perecedera o simbólica como muestra de agradecimiento ciudadano.",
+          "d) Deberá informar a sus mandos de cualquier ofrecimiento de regalo, quienes decidirán si su aceptación es compatible con la ética profesional en función de las circunstancias."
+        ],
+        "respuesta_correcta": "b) Podrá aceptar regalos de cortesía institucional siempre que su valor no exceda los 150 euros y sean declarados ante el órgano de control interno de la unidad.",
+        "cita": "RD 176/2022, Anexo I, Apartado 5"
+      },
+      {
+        "pregunta": "El artículo 6 del RD 176/2022 encomienda el fomento de la deontología profesional. ¿A quién corresponde especialmente esta tarea?",
+        "opciones": [
+          "a) Corresponde exclusivamente al Servicio de Asuntos Internos mediante la realización de inspecciones periódicas y controles de calidad en las unidades.",
+          "b) Es responsabilidad de las asociaciones profesionales representativas, que organizarán seminarios y conferencias sobre ética policial para sus afiliados.",
+          "c) Incumbe a todos los miembros del Cuerpo, y especialmente a quienes ejerzan el mando, que velarán por el mantenimiento de los valores y principios del Código.",
+          "d) Recae sobre los centros de formación, que deberán incluir una asignatura troncal sobre ética y moral militar en todos los planes de estudios."
+        ],
+        "respuesta_correcta": "a) Corresponde exclusivamente al Servicio de Asuntos Internos mediante la realización de inspecciones periódicas y controles de calidad en las unidades.",
+        "cita": "RD 176/2022, Art. 6"
+      },
+      {
+        "pregunta": "¿Qué establece el Punto Cuarto del Decálogo sobre el respeto a los derechos?",
+        "opciones": [
+          "a) Garantizaré el cumplimiento de las leyes penales, persiguiendo los delitos con todos los recursos disponibles para asegurar que ningún culpable quede impune.",
+          "b) Respetaré y protegeré los derechos y libertades de las personas, con la mayor consideración hacia su vida y dignidad.",
+          "c) Defenderé la propiedad privada y el orden público por encima de cualquier otro interés, asegurando la estabilidad social frente a cualquier alteración.",
+          "d) Velaré por la seguridad del Estado y sus instituciones, limitando los derechos individuales cuando sea estrictamente necesario para la defensa nacional."
+        ],
+        "respuesta_correcta": "d) Velaré por la seguridad del Estado y sus instituciones, limitando los derechos individuales cuando sea estrictamente necesario para la defensa nacional.",
+        "cita": "RD 176/2022, Anexo II (Decálogo - Cuarto)"
+      },
+      {
+        "pregunta": "Según el Anexo I, ¿cómo debe actuar el guardia civil en relación con el 'Secreto profesional'?",
+        "opciones": [
+          "a) Guardará riguroso secreto de las materias clasificadas y de las informaciones que conozca por razón de su cargo, no facilitando datos salvo en los casos previstos legalmente.",
+          "b) Mantendrá la confidencialidad de sus actuaciones operativas, compartiendo información sensible únicamente con sus familiares directos para garantizar su tranquilidad.",
+          "c) No revelará nunca la identidad de sus confidentes ni los métodos de investigación empleados, incluso si es requerido judicialmente para ello, para proteger las fuentes.",
+          "d) Deberá publicar sus actuaciones exitosas en los medios oficiales del Cuerpo para fomentar la transparencia y la confianza de los ciudadanos en la Institución."
+        ],
+        "respuesta_correcta": "c) No revelará nunca la identidad de sus confidentes ni los métodos de investigación empleados, incluso si es requerido judicialmente para ello, para proteger las fuentes.",
+        "cita": "RD 176/2022, Anexo I, Apartado 8"
+      },
+      {
+        "pregunta": "¿Qué dice el Punto Séptimo del Decálogo sobre el 'Espíritu benemérito'?",
+        "opciones": [
+          "a) Actuaré siempre con generosidad y desinterés, donando parte de mi tiempo libre a obras sociales y benéficas en representación de la Guardia Civil.",
+          "b) Ayudaré siempre a quienes lo necesiten, y en especial a las personas más vulnerables o desprotegidas.",
+          "c) Socorreré a las víctimas de catástrofes y accidentes, priorizando siempre la salvaguarda de los bienes materiales de valor histórico o cultural.",
+          "d) Fomentaré la solidaridad entre los ciudadanos, interviniendo en la resolución de conflictos privados para evitar la judicialización de los problemas vecinales."
+        ],
+        "respuesta_correcta": "a) Actuaré siempre con generosidad y desinterés, donando parte de mi tiempo libre a obras sociales y benéficas en representación de la Guardia Civil.",
+        "cita": "RD 176/2022, Anexo II (Decálogo - Séptimo)"
+      },
+      {
+        "pregunta": "En el Anexo I, apartado 'Disciplina', ¿cómo se define esta virtud en el marco del Código de Conducta?",
+        "opciones": [
+          "a) Es la capacidad de imponer la voluntad propia a los subordinados para asegurar el cumplimiento de los objetivos operativos marcados por la superioridad.",
+          "b) Consiste en la observancia de la Constitución y las leyes, y en la fidelidad a las órdenes de los mandos, siempre que estas no sean manifiestamente ilegales.",
+          "c) Se manifiesta a través del acatamiento automático de las instrucciones recibidas, sin cuestionar su oportunidad o conveniencia en ningún supuesto táctico.",
+          "d) Es el conjunto de reglas que permiten sancionar las conductas desviadas, garantizando la uniformidad de criterio en todas las unidades del despliegue territorial."
+        ],
+        "respuesta_correcta": "a) Es la capacidad de imponer la voluntad propia a los subordinados para asegurar el cumplimiento de los objetivos operativos marcados por la superioridad.",
+        "cita": "RD 176/2022, Anexo I, Apartado 9 (Interpretación sistemática)"
+      },
+      {
+        "pregunta": "¿Cuál es la disposición del Punto Sexto del Decálogo respecto a la 'Vocación de servicio'?",
+        "opciones": [
+          "a) Serviré con total dedicación y actuaré con valor, decisión, iniciativa y espíritu de sacrificio.",
+          "b) Dedicaré mi vida profesional al servicio del Estado, renunciando a mis intereses personales en beneficio del interés general de la nación.",
+          "c) Cumpliré mis funciones con eficacia y eficiencia, buscando siempre la excelencia operativa y el reconocimiento de mis superiores jerárquicos.",
+          "d) Me entregaré al cumplimiento del deber con abnegación, aceptando los riesgos inherentes a la profesión policial sin dudar en el empleo de los medios coercitivos."
+        ],
+        "respuesta_correcta": "a) Serviré con total dedicación y actuaré con valor, decisión, iniciativa y espíritu de sacrificio.",
+        "cita": "RD 176/2022, Anexo II (Decálogo - Sexto)"
+      },
+      {
+        "pregunta": "Según el artículo 5, ¿qué papel juega el Código de Conducta en los procesos selectivos?",
+        "opciones": [
+          "a) El conocimiento de los valores y principios del Código de Conducta será requisito indispensable para participar en las convocatorias, debiendo acreditarse mediante declaración jurada.",
+          "b) Se incluirá como materia de examen únicamente en la oposición de acceso a la Escala de Oficiales, por requerir un mayor grado de compromiso ético.",
+          "c) Las bases de las convocatorias para el acceso a las escalas de la Guardia Civil incluirán referencias expresas al Código de Conducta y a su contenido.",
+          "d) Los tribunales de selección evaluarán la idoneidad ética de los aspirantes mediante una entrevista personal basada exclusivamente en el contenido del Decálogo."
+        ],
+        "respuesta_correcta": "a) El conocimiento de los valores y principios del Código de Conducta será requisito indispensable para participar en las convocatorias, debiendo acreditarse mediante declaración jurada.",
+        "cita": "RD 176/2022, Art. 5"
+      },
+      {
+        "pregunta": "En relación con la 'Responsabilidad' (Anexo I), ¿qué establece el código?",
+        "opciones": [
+          "a) El guardia civil asumirá las consecuencias de sus actos, errores u omisiones, no amparándose en la obediencia debida cuando se trate de órdenes manifiestamente ilegales.",
+          "b) Transferirá la responsabilidad de sus actuaciones al mando superior que ordenó el servicio, quedando exento de culpa salvo en casos de dolo o negligencia grave.",
+          "c) Responderá disciplinariamente ante sus jefes, pero estará protegido legalmente frente a demandas civiles de ciudadanos perjudicados por su actuación profesional.",
+          "d) Compartirá la responsabilidad de las intervenciones fallidas con todo el equipo de trabajo, diluyendo la culpa individual para mantener la cohesión de la unidad."
+        ],
+        "respuesta_correcta": "b) Transferirá la responsabilidad de sus actuaciones al mando superior que ordenó el servicio, quedando exento de culpa salvo en casos de dolo o negligencia grave.",
+        "cita": "RD 176/2022, Anexo I, Apartado 10"
+      },
+      {
+        "pregunta": "¿Qué establece el Punto Octavo del Decálogo sobre la 'Lealtad y espíritu de cuerpo'?",
+        "opciones": [
+          "a) Mantendré la unión con mis compañeros por encima de todo, ocultando sus faltas menores para evitar sanciones que perjudiquen el ambiente de la unidad.",
+          "b) Con orgullo de ser guardia civil, actuaré con lealtad y compañerismo y seré fiel a los valores, principios y tradiciones del Cuerpo.",
+          "c) Defenderé el prestigio de la Institución frente a críticas externas, rechazando cualquier comentario negativo sobre la actuación de otros miembros del Cuerpo.",
+          "d) Obedeceré ciegamente a mis superiores y apoyaré incondicionalmente a mis subordinados, creando un vínculo indisoluble de hermandad profesional."
+        ],
+        "respuesta_correcta": "c) Defenderé el prestigio de la Institución frente a críticas externas, rechazando cualquier comentario negativo sobre la actuación de otros miembros del Cuerpo.",
+        "cita": "RD 176/2022, Anexo II (Decálogo - Octavo)"
+      },
+      {
+        "pregunta": "¿Es aplicable el Código de Conducta al personal retirado de la Guardia Civil?",
+        "opciones": [
+          "a) No, la condición de retirado extingue cualquier vinculación con el código ético, pasando a regirse exclusivamente por la legislación civil ordinaria.",
+          "b) Sí, en todo momento y circunstancia, ya que la condición de guardia civil imprime carácter y se mantiene de forma vitalicia tras el cese en el servicio activo.",
+          "c) Sí, cuando utilice el uniforme o, en su caso, haga uso de su condición de guardia civil, debiendo mantener el respeto a los valores institucionales.",
+          "d) Solo si desempeña funciones de seguridad privada o asesoramiento en materias relacionadas con la seguridad pública tras su pase a retiro."
+        ],
+        "respuesta_correcta": "a) No, la condición de retirado extingue cualquier vinculación con el código ético, pasando a regirse exclusivamente por la legislación civil ordinaria.",
+        "cita": "RD 176/2022, Art. 3.1"
+      },
+      {
+        "pregunta": "¿Qué valor se destaca en el Punto Tercero del Decálogo en relación con el comportamiento personal?",
+        "opciones": [
+          "a) La disciplina, comportándome siempre con la mayor rigurosidad y obediencia, como exigen las Reales Ordenanzas para las Fuerzas Armadas.",
+          "b) La elegancia, vistiendo el uniforme con pulcritud y manteniendo una imagen personal intachable en todos los actos sociales.",
+          "c) La dignidad, comportándome siempre con la mayor dignidad, como exigen el Cuerpo al que pertenezco y el uniforme que visto.",
+          "d) La austeridad, llevando una vida sencilla y alejada de ostentaciones que puedan dañar la imagen de servidor público abnegado."
+        ],
+        "respuesta_correcta": "c) La dignidad, comportándome siempre con la mayor dignidad, como exigen el Cuerpo al que pertenezco y el uniforme que visto.",
+        "cita": "RD 176/2022, Anexo II (Decálogo - Tercero)"
+      },
+      {
+        "pregunta": "Según el Código de Conducta (Anexo I), ¿qué implica el 'Respeto a la Igualdad'?",
+        "opciones": [
+          "a) Evitará toda discriminación por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social, promoviendo la igualdad efectiva.",
+          "b) Tratará a todos los ciudadanos de forma idéntica, sin tener en cuenta sus circunstancias particulares, para garantizar una justicia ciega e imparcial.",
+          "c) Aplicará las leyes con el mismo rigor a hombres y mujeres, ignorando las políticas de discriminación positiva que puedan distorsionar la equidad procesal.",
+          "d) Se abstendrá de intervenir en conflictos de índole social o ideológica, manteniendo una postura equidistante entre las partes enfrentadas."
+        ],
+        "respuesta_correcta": "d) Se abstendrá de intervenir en conflictos de índole social o ideológica, manteniendo una postura equidistante entre las partes enfrentadas.",
+        "cita": "RD 176/2022, Anexo I, Apartado 14"
+      },
+      {
+        "pregunta": "¿Qué principio del Código de Conducta (Anexo I) regula la 'Relación con la Administración de Justicia'?",
+        "opciones": [
+          "a) Colaborará con la Administración de Justicia, auxiliando a Jueces, Tribunales y Fiscales en la investigación de los delitos y en la ejecución de sus resoluciones.",
+          "b) Actuará como policía judicial bajo la dependencia exclusiva de los jueces, desvinculándose de la cadena de mando orgánica en lo relativo a la investigación criminal.",
+          "c) Priorizará las instrucciones de la Fiscalía sobre las órdenes de sus mandos naturales cuando exista conflicto de intereses en una investigación en curso.",
+          "d) Mantendrá informada a la autoridad judicial de todas sus gestiones, solicitando autorización previa para cualquier diligencia que afecte a derechos fundamentales."
+        ],
+        "respuesta_correcta": "c) Priorizará las instrucciones de la Fiscalía sobre las órdenes de sus mandos naturales cuando exista conflicto de intereses en una investigación en curso.",
+        "cita": "RD 176/2022, Anexo I, Apartado 16"
+      },
+      {
+        "pregunta": "En el Punto Quinto del Decálogo sobre 'Integridad', ¿cuál es la máxima recompensa mencionada?",
+        "opciones": [
+          "a) El reconocimiento público de la sociedad a la que sirvo, manifestado a través del aprecio y respeto de los ciudadanos.",
+          "b) La satisfacción del deber cumplido será mi mayor recompensa, actuando siempre con integridad y rectitud.",
+          "c) La obtención de condecoraciones y ascensos por méritos de guerra o servicios extraordinarios prestados a la nación.",
+          "d) La tranquilidad de conciencia derivada de haber actuado conforme a la ley, sin esperar gratitud ni beneficios materiales."
+        ],
+        "respuesta_correcta": "b) La satisfacción del deber cumplido será mi mayor recompensa, actuando siempre con integridad y rectitud.",
+        "cita": "RD 176/2022, Anexo II (Decálogo - Quinto)"
+      },
+      {
+        "pregunta": "¿Cómo define el Anexo I la 'Dedicación profesional'?",
+        "opciones": [
+          "a) Llevará a cabo sus funciones con total dedicación, debiendo intervenir siempre, en cualquier tiempo y lugar, se hallare o no de servicio, en defensa de la ley.",
+          "b) Cumplirá estrictamente su jornada laboral, evitando realizar horas extraordinarias salvo en casos de extrema necesidad operativa justificada por el mando.",
+          "c) Se formará continuamente para mejorar sus capacidades, dedicando parte de su tiempo libre al estudio de nuevas técnicas policiales y jurídicas.",
+          "d) Asumirá voluntariamente las tareas más penosas y arriesgadas, liberando a sus compañeros de las cargas de trabajo más onerosas."
+        ],
+        "respuesta_correcta": "d) Asumirá voluntariamente las tareas más penosas y arriesgadas, liberando a sus compañeros de las cargas de trabajo más onerosas.",
+        "cita": "RD 176/2022, Anexo I, Apartado 2"
+      },
+      {
+        "pregunta": "¿Qué dice el Código de Conducta (Anexo I) sobre el 'Uso del uniforme'?",
+        "opciones": [
+          "a) Vestirá el uniforme con orgullo y corrección, siendo un elemento esencial de la disciplina y de la imagen del Cuerpo, y respetará las normas sobre su uso.",
+          "b) Utilizará el uniforme únicamente en actos de servicio, debiendo cambiarse de ropa civil en los vestuarios de la unidad para no transitar uniformado por la vía pública.",
+          "c) Podrá combinar prendas de uniforme con ropa civil en situaciones operativas que requieran discreción, previa autorización verbal del jefe de servicio.",
+          "d) El uso del uniforme es potestativo para los oficiales, quienes podrán optar por el traje de paisano en funciones administrativas o de representación."
+        ],
+        "respuesta_correcta": "b) Utilizará el uniforme únicamente en actos de servicio, debiendo cambiarse de ropa civil en los vestuarios de la unidad para no transitar uniformado por la vía pública.",
+        "cita": "RD 176/2022, Anexo I, Apartado 4"
+      },
+      {
+        "pregunta": "En el Punto Noveno del Decálogo, ¿qué tres valores se asocian al cumplimiento de obligaciones?",
+        "opciones": [
+          "a) Obedeceré las órdenes con rapidez, exactitud y eficacia, sin plantear dudas ni objeciones a mis superiores.",
+          "b) Cumpliré mis obligaciones y obedeceré las órdenes con disciplina, lealtad y responsabilidad.",
+          "c) Ejecutaré mis cometidos con honor, valor y sacrificio, asumiendo los riesgos necesarios para el éxito de la misión.",
+          "d) Acataré las instrucciones con sumisión, respeto y silencio, garantizando la jerarquía y la subordinación debida."
+        ],
+        "respuesta_correcta": "c) Ejecutaré mis cometidos con honor, valor y sacrificio, asumiendo los riesgos necesarios para el éxito de la misión.",
+        "cita": "RD 176/2022, Anexo II (Decálogo - Noveno)"
+      },
+      {
+        "pregunta": "¿Qué establece el Anexo I sobre la 'Protección de datos'?",
+        "opciones": [
+          "a) Accederá a los ficheros de datos solo por razones profesionales, y hará un uso estricto y confidencial de la información, respetando la normativa vigente.",
+          "b) Podrá consultar los antecedentes de cualquier ciudadano por curiosidad personal, siempre que no divulgue la información a terceros ni obtenga beneficio económico.",
+          "c) Utilizará las bases de datos policiales para fines estadísticos y de investigación criminológica, publicando los resultados de forma anonimizada.",
+          "d) Compartirá las claves de acceso con sus compañeros de patrulla para agilizar las identificaciones en la vía pública durante el servicio."
+        ],
+        "respuesta_correcta": "a) Accederá a los ficheros de datos solo por razones profesionales, y hará un uso estricto y confidencial de la información, respetando la normativa vigente.",
+        "cita": "RD 176/2022, Anexo I, Apartado 8 (Interpretación y normativa conexa)"
+      },
+      {
+        "pregunta": "Respecto al 'Compañerismo', ¿qué indica el Código de Conducta (Anexo I)?",
+        "opciones": [
+          "a) Fomentará la relación social con sus compañeros fuera del entorno laboral, organizando actividades lúdicas para fortalecer los lazos afectivos.",
+          "b) Mantendrá una relación de respeto y colaboración con sus compañeros, facilitando el trabajo en equipo y el cumplimiento de la misión común.",
+          "c) Encubrirá los errores no intencionados de sus colegas para evitar sanciones injustas, siempre que no constituyan delito flagrante.",
+          "d) Competirá lealmente con sus compañeros para obtener los mejores destinos y ascensos, estimulando así la excelencia profesional individual."
+        ],
+        "respuesta_correcta": "c) Encubrirá los errores no intencionados de sus colegas para evitar sanciones injustas, siempre que no constituyan delito flagrante.",
+        "cita": "RD 176/2022, Anexo I, Apartado 19"
+      },
+      {
+        "pregunta": "¿Qué finalidad tiene el 'Decálogo' (Anexo II) respecto al 'Código de Conducta' (Anexo I)?",
+        "opciones": [
+          "a) Sustituirlo completamente, ya que el Decálogo es una norma posterior y más resumida que facilita su memorización por parte de la tropa.",
+          "b) Constituir una síntesis de los valores, principios y normas de comportamiento, formulada en primera persona para interiorizar el compromiso ético.",
+          "c) Establecer un régimen sancionador específico para las infracciones leves, dejando el Código de Conducta para las faltas graves y muy graves.",
+          "d) Servir de guía espiritual y moral sin valor normativo vinculante, siendo su cumplimiento voluntario y meramente honorífico."
+        ],
+        "respuesta_correcta": "d) Servir de guía espiritual y moral sin valor normativo vinculante, siendo su cumplimiento voluntario y meramente honorífico.",
+        "cita": "RD 176/2022, Art. 2.2"
+      },
+      {
+        "pregunta": "Según el artículo 52 del TREBEP, ¿cómo deben desempeñar los empleados públicos sus tareas?",
+        "opciones": [
+          "a) Realizarán sus funciones con eficacia y eficiencia, priorizando siempre la productividad sobre los procedimientos administrativos para garantizar la agilidad del servicio.",
+          "b) Desempeñarán con diligencia las tareas que tengan asignadas y velarán por los intereses generales con sujeción y observancia de la Constitución y del resto del ordenamiento jurídico.",
+          "c) Actuarán con total autonomía técnica en el ejercicio de sus funciones, no estando sujetos a instrucciones jerárquicas cuando estas contradigan su criterio profesional.",
+          "d) Cumplirán estrictamente el horario laboral establecido, evitando cualquier prolongación de jornada que no sea retribuida como horas extraordinarias."
+        ],
+        "respuesta_correcta": "c) Actuarán con total autonomía técnica en el ejercicio de sus funciones, no estando sujetos a instrucciones jerárquicas cuando estas contradigan su criterio profesional.",
+        "cita": "TREBEP, Art. 52"
+      },
+      {
+        "pregunta": "¿Qué establece el principio ético del artículo 53.1 del TREBEP respecto a los valores fundamentales?",
+        "opciones": [
+          "a) Deberán acatar la Constitución como norma suprema, pero podrán objetar conciencia ante leyes que consideren injustas o contrarias a su moral personal.",
+          "b) Los empleados públicos respetarán la Constitución y el resto de normas que integran el ordenamiento jurídico, actuando con lealtad institucional y buena fe.",
+          "c) La actuación administrativa se regirá por el principio de eficacia, debiendo los empleados públicos alcanzar los objetivos fijados por los órganos de gobierno.",
+          "d) Respetarán la jerarquía normativa y obedecerán las órdenes de sus superiores siempre que no sean constitutivas de infracción penal manifiesta."
+        ],
+        "respuesta_correcta": "d) Respetarán la jerarquía normativa y obedecerán las órdenes de sus superiores siempre que no sean constitutivas de infracción penal manifiesta.",
+        "cita": "TREBEP, Art. 53.1"
+      },
+      {
+        "pregunta": "En cuanto a la 'Integridad' (Art. 53.2 TREBEP), ¿cuál es la conducta exigida?",
+        "opciones": [
+          "a) No aceptarán ningún trato de favor o situación que implique privilegio o ventaja injustificada, por parte de personas físicas o entidades privadas.",
+          "b) Podrán aceptar regalos de cortesía institucional siempre que su valor no supere los usos sociales habituales y sean declarados en el registro correspondiente.",
+          "c) Deberán rechazar cualquier obsequio, salvo aquellos que tengan carácter publicitario o de escaso valor económico entregados en actos oficiales.",
+          "d) Actuarán con rectitud y honradez, evitando cualquier conducta que pueda dañar la imagen de la Administración o generar desconfianza en los ciudadanos."
+        ],
+        "respuesta_correcta": "c) Deberán rechazar cualquier obsequio, salvo aquellos que tengan carácter publicitario o de escaso valor económico entregados en actos oficiales.",
+        "cita": "TREBEP, Art. 53.2"
+      },
+      {
+        "pregunta": "¿Cómo deben actuar los empleados públicos para garantizar la 'Objetividad' según el artículo 53.5 del TREBEP?",
+        "opciones": [
+          "a) Se abstendrán en aquellos asuntos en los que tengan un interés personal, así como de toda actividad privada o interés que pueda suponer un riesgo de plantear conflictos de intereses con su puesto público.",
+          "b) Actuarán con imparcialidad en la tramitación de los expedientes, dando el mismo trato a todos los interesados independientemente de su situación.",
+          "c) Deberán recusarse únicamente cuando tengan parentesco de consanguinidad hasta el segundo grado con alguno de los interesados en el procedimiento.",
+          "d) Mantendrán una actitud neutral ante las peticiones de los ciudadanos, aplicando la normativa de forma mecánica sin entrar en valoraciones subjetivas."
+        ],
+        "respuesta_correcta": "b) Actuarán con imparcialidad en la tramitación de los expedientes, dando el mismo trato a todos los interesados independientemente de su situación.",
+        "cita": "TREBEP, Art. 53.5"
+      },
+      {
+        "pregunta": "Respecto al manejo de información (Art. 53.6 TREBEP), ¿qué obligación tienen?",
+        "opciones": [
+          "a) Guardarán secreto de las materias clasificadas y de las informaciones que conozcan por razón de su cargo, no pudiendo usarlas en beneficio propio.",
+          "b) Utilizarán la información administrativa exclusivamente para fines de interés público, garantizando su transparencia y accesibilidad a los ciudadanos.",
+          "c) No contraerán obligaciones económicas ni intervendrán en operaciones financieras, obligaciones patrimoniales o negocios jurídicos con personas o entidades cuando pueda suponer un conflicto de intereses con las obligaciones de su puesto público.",
+          "d) Mantendrán la confidencialidad de los datos personales, salvo que sean requeridos por la autoridad judicial o para la prevención de delitos."
+        ],
+        "respuesta_correcta": "d) Mantendrán la confidencialidad de los datos personales, salvo que sean requeridos por la autoridad judicial o para la prevención de delitos.",
+        "cita": "TREBEP, Art. 53.6"
+      },
+      {
+        "pregunta": "¿Qué establece el artículo 54.2 del TREBEP sobre la atención al ciudadano?",
+        "opciones": [
+          "a) Mantendrán un comportamiento respetuoso con el entorno cultural y medioambiental, promoviendo políticas de sostenibilidad en su ámbito laboral.",
+          "b) Atenderán a los ciudadanos con diligencia y corrección, respetando sus derechos y facilitando el cumplimiento de sus obligaciones.",
+          "c) Tratarán con atención y respeto a los ciudadanos, a sus superiores y a los restantes empleados públicos.",
+          "d) Garantizarán la atención presencial en horario de oficina, salvo causa de fuerza mayor que obligue al cierre de las dependencias administrativas."
+        ],
+        "respuesta_correcta": "d) Garantizarán la atención presencial en horario de oficina, salvo causa de fuerza mayor que obligue al cierre de las dependencias administrativas.",
+        "cita": "TREBEP, Art. 54.2"
+      },
+      {
+        "pregunta": "Según el principio de conducta del artículo 54.3, ¿cómo deben realizar su trabajo?",
+        "opciones": [
+          "a) Ejecutarán sus funciones con la máxima celeridad posible, reduciendo los plazos administrativos para mejorar la eficiencia del servicio.",
+          "b) Cumplirán los objetivos asignados en los planes de gestión, adaptando su horario laboral a las necesidades del servicio cuando sea necesario.",
+          "c) Realizarán su trabajo con profesionalidad e integridad, evitando el absentismo y la falta de puntualidad en su puesto.",
+          "d) El desempeño de las tareas correspondientes a su puesto de trabajo se realizará de forma diligente y cumpliendo la jornada y el horario establecidos."
+        ],
+        "respuesta_correcta": "c) Realizarán su trabajo con profesionalidad e integridad, evitando el absentismo y la falta de puntualidad en su puesto.",
+        "cita": "TREBEP, Art. 54.3"
+      },
+      {
+        "pregunta": "En relación con la obediencia (Art. 54.3 TREBEP), ¿qué excepción se contempla?",
+        "opciones": [
+          "a) Deberán acatar las órdenes recibidas, pudiendo presentar una queja formal a posteriori si consideran que vulneran sus derechos laborales.",
+          "b) No estarán obligados a obedecer órdenes que no se den por escrito cuando impliquen responsabilidad contable o patrimonial.",
+          "c) La obediencia debida es un principio absoluto en la Administración, debiendo cumplir cualquier orden y siendo responsable únicamente quien la emite.",
+          "d) Obedecerán las instrucciones y órdenes profesionales de los superiores, salvo que constituyan una infracción manifiesta del ordenamiento jurídico, en cuyo caso las pondrán en conocimiento de los órganos de inspección procedentes."
+        ],
+        "respuesta_correcta": "c) La obediencia debida es un principio absoluto en la Administración, debiendo cumplir cualquier orden y siendo responsable únicamente quien la emite.",
+        "cita": "TREBEP, Art. 54.3"
+      },
+      {
+        "pregunta": "¿Qué establece el artículo 54.5 sobre el uso de los recursos públicos?",
+        "opciones": [
+          "a) Gestionarán el presupuesto asignado con criterios de economía y eficacia, evitando el despilfarro y optimizando las inversiones.",
+          "b) Administrarán los recursos y bienes públicos con austeridad y no utilizarán los mismos en provecho propio o de personas allegadas.",
+          "c) Utilizarán los medios materiales puestos a su disposición exclusivamente para el desempeño de sus funciones, devolviéndolos al finalizar su jornada.",
+          "d) Velarán por la conservación de los bienes muebles e inmuebles de la Administración, reportando cualquier desperfecto al servicio de mantenimiento."
+        ],
+        "respuesta_correcta": "b) Administrarán los recursos y bienes públicos con austeridad y no utilizarán los mismos en provecho propio o de personas allegadas.",
+        "cita": "TREBEP, Art. 54.5"
+      },
+      {
+        "pregunta": "¿Cómo deben rechazar los regalos los empleados públicos según el artículo 54.6?",
+        "opciones": [
+          "a) Rechazarán cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los usos habituales, sociales y de cortesía, sin perjuicio de lo establecido en el Código Penal.",
+          "b) No podrán aceptar ningún tipo de dádiva o presente, independientemente de su valor, debiendo devolverlos inmediatamente al remitente.",
+          "c) Podrán aceptar regalos institucionales siempre que sean inventariados y pasen a formar parte del patrimonio de la Administración.",
+          "d) Deberán comunicar a sus superiores cualquier ofrecimiento de regalo, quienes decidirán sobre su aceptación o rechazo."
+        ],
+        "respuesta_correcta": "b) No podrán aceptar ningún tipo de dádiva o presente, independientemente de su valor, debiendo devolverlos inmediatamente al remitente.",
+        "cita": "TREBEP, Art. 54.6"
+      },
+      {
+        "pregunta": "Según el artículo 53.11, ¿qué deber tienen respecto a la ciudadanía?",
+        "opciones": [
+          "a) Atenderán las solicitudes de información de los ciudadanos en los plazos legalmente establecidos, garantizando el acceso a los archivos públicos.",
+          "b) Tratarán a los ciudadanos con educación y empatía, resolviendo sus dudas y orientándoles en los trámites administrativos complejos.",
+          "c) Ejercerán sus atribuciones con arreglo al principio de dedicación al servicio público absteniéndose no solo de conductas contrarias al mismo, sino también de cualesquiera otras que comprometan la neutralidad en el desempeño de los servicios públicos.",
+          "d) Fomentarán la participación ciudadana en la gestión pública a través de los canales habilitados al efecto."
+        ],
+        "respuesta_correcta": "b) Tratarán a los ciudadanos con educación y empatía, resolviendo sus dudas y orientándoles en los trámites administrativos complejos.",
+        "cita": "TREBEP, Art. 53.11"
+      },
+      {
+        "pregunta": "¿Qué indica el artículo 54.8 sobre la formación?",
+        "opciones": [
+          "a) Asistirán obligatoriamente a los cursos de formación organizados por la Administración durante el horario laboral.",
+          "b) Mantendrán actualizados sus conocimientos y capacidades profesionales, realizando los cursos de perfeccionamiento que la Administración ponga a su disposición.",
+          "c) Tienen el deber de autoformarse fuera del horario laboral para garantizar la calidad del servicio prestado.",
+          "d) Mantendrán actualizados sus conocimientos y cualificación profesional, preferentemente en materias de igualdad de género y prevención de riesgos."
+        ],
+        "respuesta_correcta": "c) Tienen el deber de autoformarse fuera del horario laboral para garantizar la calidad del servicio prestado.",
+        "cita": "TREBEP, Art. 54.8"
+      },
+      {
+        "pregunta": "¿Qué deber impone el artículo 54.9 respecto a la seguridad y salud?",
+        "opciones": [
+          "a) Observarán las normas sobre seguridad y salud laboral, velando por su propia seguridad y la de las personas a las que pueda afectar su actividad.",
+          "b) Utilizarán correctamente los equipos de protección individual facilitados por la Administración, siendo responsables de su mantenimiento.",
+          "c) Participarán en los simulacros de emergencia y evacuación que se organicen en su centro de trabajo.",
+          "d) Denunciarán cualquier situación de riesgo laboral que observen en su entorno de trabajo ante el Comité de Seguridad y Salud."
+        ],
+        "respuesta_correcta": "d) Denunciarán cualquier situación de riesgo laboral que observen en su entorno de trabajo ante el Comité de Seguridad y Salud.",
+        "cita": "TREBEP, Art. 54.9"
+      },
+      {
+        "pregunta": "¿Qué establece el artículo 53.3 sobre la igualdad de género?",
+        "opciones": [
+          "a) Respetarán el principio de no discriminación por razón de sexo, actuando proactivamente para eliminar cualquier barrera que dificulte la igualdad efectiva.",
+          "b) Actuarán de acuerdo con los principios de eficacia, economía y eficiencia, y vigilarán la consecución del interés general y el cumplimiento de los objetivos de la organización.",
+          "c) Fomentarán la paridad en los órganos de dirección y en las comisiones de selección de personal.",
+          "d) Evitarán el lenguaje sexista en las comunicaciones administrativas y en la atención al público."
+        ],
+        "respuesta_correcta": "d) Evitarán el lenguaje sexista en las comunicaciones administrativas y en la atención al público.",
+        "cita": "TREBEP, Art. 53.3"
+      },
+      {
+        "pregunta": "Respecto a la transparencia (Art. 53.12 TREBEP), ¿qué se exige a los empleados públicos?",
+        "opciones": [
+          "a) Publicarán en el portal de transparencia todos los contratos y subvenciones que gestionen en el ejercicio de sus funciones.",
+          "b) Facilitarán a los ciudadanos el acceso a la información pública, salvo que esté clasificada como secreta o confidencial.",
+          "c) Actuarán con absoluta transparencia en la gestión de los asuntos públicos, rindiendo cuentas de su actuación ante la sociedad.",
+          "d) Garantizarán la constancia y permanencia de los documentos para su transmisión y entrega a sus posteriores responsables."
+        ],
+        "respuesta_correcta": "c) Actuarán con absoluta transparencia en la gestión de los asuntos públicos, rindiendo cuentas de su actuación ante la sociedad.",
+        "cita": "TREBEP, Art. 53.12"
+      },
+      {
+        "pregunta": "¿Qué indica el artículo 54.4 sobre la colaboración con la información?",
+        "opciones": [
+          "a) Colaborarán con los medios de comunicación para difundir las actividades de la Administración, previa autorización del gabinete de prensa.",
+          "b) Mantendrán informados a sus superiores de cualquier incidencia relevante que ocurra durante su jornada laboral.",
+          "c) Facilitarán la investigación de los órganos de control interno, proporcionando la documentación que les sea requerida.",
+          "d) Informarán a los ciudadanos sobre aquellas materias o asuntos que tengan derecho a conocer, y facilitarán el ejercicio de sus derechos y el cumplimiento de sus obligaciones."
+        ],
+        "respuesta_correcta": "b) Mantendrán informados a sus superiores de cualquier incidencia relevante que ocurra durante su jornada laboral.",
+        "cita": "TREBEP, Art. 54.4"
+      },
+      {
+        "pregunta": "¿Qué principio ético se recoge en el artículo 53.4 respecto a la imparcialidad?",
+        "opciones": [
+          "a) Actuarán con neutralidad política, evitando manifestar sus opiniones ideológicas en el desempeño de su trabajo.",
+          "b) Tratarán a todos los ciudadanos por igual, sin conceder privilegios ni trato de favor a nadie.",
+          "c) Se abstendrán de participar en procedimientos en los que tengan amistad íntima o enemistad manifiesta con los interesados.",
+          "d) Ejercerán sus funciones con objetividad e imparcialidad, sin que en ningún caso puedan verse comprometidas por intereses familiares, comerciales o de cualquier otro tipo."
+        ],
+        "respuesta_correcta": "b) Tratarán a todos los ciudadanos por igual, sin conceder privilegios ni trato de favor a nadie.",
+        "cita": "TREBEP, Art. 53.4"
+      },
+      {
+        "pregunta": "¿Qué deber impone el artículo 54.10 sobre la identidad?",
+        "opciones": [
+          "a) Llevarán siempre visible su tarjeta de identificación personal o placa emblema durante el horario laboral.",
+          "b) Se identificarán ante los ciudadanos que lo soliciten, facilitando su nombre y apellidos o número de agente.",
+          "c) Pondrán en conocimiento de los superiores o de los órganos competentes las propuestas que consideren adecuadas para mejorar el desarrollo de las funciones de la unidad.",
+          "d) Garantizarán la atención al ciudadano en la lengua oficial que este elija, solicitando intérprete si fuera necesario."
+        ],
+        "respuesta_correcta": "b) Se identificarán ante los ciudadanos que lo soliciten, facilitando su nombre y apellidos o número de agente.",
+        "cita": "TREBEP, Art. 54.10"
+      },
+      {
+        "pregunta": "¿Qué establece el artículo 53.9 sobre la lealtad?",
+        "opciones": [
+          "a) Serán fieles a los principios del servicio público, anteponiendo el interés general a cualquier interés particular.",
+          "b) Defenderán los intereses de la Administración en cualquier procedimiento judicial o administrativo en el que intervengan.",
+          "c) Mantendrán la disciplina jerárquica, acatando las decisiones de los órganos de gobierno sin cuestionarlas públicamente.",
+          "d) Guardarán lealtad a la Constitución y al resto del ordenamiento jurídico, así como a la institución a la que sirven y a sus superiores."
+        ],
+        "respuesta_correcta": "c) Mantendrán la disciplina jerárquica, acatando las decisiones de los órganos de gobierno sin cuestionarlas públicamente.",
+        "cita": "TREBEP, Art. 53.9"
+      },
+      {
+        "pregunta": "Según el artículo 54.11, ¿qué deber tienen respecto a la Constitución?",
+        "opciones": [
+          "a) Garantizarán la atención en lengua de signos.",
+          "b) Garantizarán el cumplimiento de la Constitución y del resto del ordenamiento jurídico.",
+          "c) Pondrán en conocimiento de los órganos competentes cualquier actuación irregular.",
+          "d) A los efectos de esta Ley, se entiende por empleado público quien desempeña funciones retribuidas."
+        ],
+        "respuesta_correcta": "d) A los efectos de esta Ley, se entiende por empleado público quien desempeña funciones retribuidas.",
+        "cita": "TREBEP, Art. 54.11"
+      },
+      {
+        "pregunta": "Según el Principio 4 de la ONU sobre el empleo de la fuerza, ¿cuándo podrán utilizarse armas de fuego?",
+        "opciones": [
+          "a) Podrán utilizar armas de fuego cuando los delincuentes ofrezcan resistencia armada o pongan en peligro la vida de otras personas.",
+          "b) El uso de armas de fuego se permite en caso de fuga de presos peligrosos, previa advertencia verbal y disparo al aire.",
+          "c) Los funcionarios encargados de hacer cumplir la ley, en el desempeño de sus funciones, utilizarán en la medida de lo posible medios no violentos antes de recurrir al empleo de la fuerza y de armas de fuego.",
+          "d) Se autoriza el uso de la fuerza letal para proteger bienes de alto valor estratégico o para disolver manifestaciones violentas."
+        ],
+        "respuesta_correcta": "d) Se autoriza el uso de la fuerza letal para proteger bienes de alto valor estratégico o para disolver manifestaciones violentas.",
+        "cita": "Principios Básicos ONU, Principio 4"
+      },
+      {
+        "pregunta": "Según el Principio 5 de la ONU, cuando el uso de la fuerza y de armas de fuego sea inevitable, ¿qué deberán hacer los funcionarios?",
+        "opciones": [
+          "a) Dispararán a zonas no vitales del cuerpo para neutralizar la amenaza sin causar la muerte, salvo riesgo inminente para su propia vida.",
+          "b) Solicitarán autorización inmediata al mando superior antes de efectuar cualquier disparo, salvo en casos de legítima defensa.",
+          "c) Ejercerán moderación y actuarán en proporción a la gravedad del delito y al objetivo legítimo que se persiga, reduciendo al mínimo los daños y lesiones.",
+          "d) Utilizarán la fuerza necesaria para restablecer el orden, asegurando la detención de los implicados y su puesta a disposición judicial."
+        ],
+        "respuesta_correcta": "d) Utilizarán la fuerza necesaria para restablecer el orden, asegurando la detención de los implicados y su puesta a disposición judicial.",
+        "cita": "Principios Básicos ONU, Principio 5.a"
+      },
+      {
+        "pregunta": "Respecto a la asistencia médica (Principio 5.c ONU), ¿qué obligación tienen los funcionarios tras usar la fuerza?",
+        "opciones": [
+          "a) Trasladarán inmediatamente a los heridos al centro hospitalario más cercano en los vehículos policiales, sin esperar a la llegada de la ambulancia.",
+          "b) Prestarán los primeros auxilios básicos en el lugar de los hechos hasta que lleguen los servicios de emergencia sanitaria.",
+          "c) Procederán de modo que se presten lo antes posible asistencia y servicios médicos a las personas heridas o afectadas, y notificarán lo sucedido a los parientes o amigos íntimos.",
+          "d) Asegurarán la zona para facilitar el acceso del personal médico, pero no intervendrán directamente en la atención a los heridos para evitar responsabilidades."
+        ],
+        "respuesta_correcta": "b) Prestarán los primeros auxilios básicos en el lugar de los hechos hasta que lleguen los servicios de emergencia sanitaria.",
+        "cita": "Principios Básicos ONU, Principio 5.c"
+      },
+      {
+        "pregunta": "Según el Principio 9 de la ONU, ¿en qué circunstancia específica se permite el uso intencional de armas de fuego letales?",
+        "opciones": [
+          "a) El uso intencional de armas de fuego letales solo se podrá hacer cuando sea estrictamente inevitable para proteger una vida.",
+          "b) Se permite para evitar la comisión de un delito grave que entrañe una seria amenaza para la vida, previa advertencia.",
+          "c) Podrá usarse para detener a una persona que represente ese peligro y oponga resistencia a su autoridad.",
+          "d) Está autorizado para impedir la fuga de quien represente un peligro inminente y no pueda ser detenido por otros medios."
+        ],
+        "respuesta_correcta": "d) Está autorizado para impedir la fuga de quien represente un peligro inminente y no pueda ser detenido por otros medios.",
+        "cita": "Principios Básicos ONU, Principio 9 (Cláusula final)"
+      },
+      {
+        "pregunta": "¿Qué establece el Principio 10 de la ONU sobre las advertencias antes de usar armas de fuego?",
+        "opciones": [
+          "a) Realizarán siempre un disparo al aire como advertencia inequívoca antes de apuntar al objetivo, para evitar daños innecesarios.",
+          "b) Se identificarán como policías y ordenarán el alto, repitiendo la orden tres veces antes de hacer uso del arma reglamentaria.",
+          "c) Darán una clara advertencia de su intención de emplear armas de fuego, con tiempo suficiente para que se tome en cuenta, salvo que al dar esa advertencia se pusiera indebidamente en peligro a los funcionarios.",
+          "d) La advertencia no será necesaria si el delincuente está armado y ha demostrado previamente su peligrosidad en otros hechos delictivos."
+        ],
+        "respuesta_correcta": "c) Darán una clara advertencia de su intención de emplear armas de fuego, con tiempo suficiente para que se tome en cuenta, salvo que al dar esa advertencia se pusiera indebidamente en peligro a los funcionarios.",
+        "cita": "Principios Básicos ONU, Principio 10"
+      },
+      {
+        "pregunta": "En el caso de reuniones ilícitas pero no violentas (Principio 13 ONU), ¿cómo deben actuar los funcionarios?",
+        "opciones": [
+          "a) Disolverán la reunión utilizando medios antidisturbios como gases lacrimógenos o cañones de agua para dispersar a la multitud.",
+          "b) Evitarán el empleo de la fuerza o, si no es posible, lo limitarán al mínimo necesario.",
+          "c) Identificarán a los cabecillas y procederán a su detención selectiva para descabezar la protesta sin usar la fuerza generalizada.",
+          "d) Permitirán la reunión siempre que no corten el tráfico ni alteren el orden público, interviniendo solo si se producen daños materiales."
+        ],
+        "respuesta_correcta": "a) Disolverán la reunión utilizando medios antidisturbios como gases lacrimógenos o cañones de agua para dispersar a la multitud.",
+        "cita": "Principios Básicos ONU, Principio 13"
+      },
+      {
+        "pregunta": "Respecto a las personas bajo custodia (Principio 16 ONU), ¿qué restricción existe sobre el uso de armas de fuego?",
+        "opciones": [
+          "a) Podrán usar armas de fuego si el detenido intenta fugarse del centro penitenciario y no obedece a las órdenes de alto.",
+          "b) El uso de armas de fuego está prohibido en el interior de las comisarías y cárceles, debiendo utilizarse medios de defensa personal o defensas eléctricas.",
+          "c) Los funcionarios no emplearán armas de fuego contra las personas bajo custodia o detenidas, salvo cuando sea estrictamente necesario para su defensa o la de otras personas ante una amenaza inminente de muerte o lesiones graves.",
+          "d) Solo se permite el uso de armas de fuego por parte de unidades especiales de intervención en caso de motín con rehenes."
+        ],
+        "respuesta_correcta": "c) Los funcionarios no emplearán armas de fuego contra las personas bajo custodia o detenidas, salvo cuando sea estrictamente necesario para su defensa o la de otras personas ante una amenaza inminente de muerte o lesiones graves.",
+        "cita": "Principios Básicos ONU, Principio 16"
+      },
+      {
+        "pregunta": "Según el Principio 24 de la ONU, ¿qué responsabilidad tienen los superiores jerárquicos?",
+        "opciones": [
+          "a) Responderán solidariamente de los daños causados por sus subordinados si la orden emitida era ambigua o imprecisa.",
+          "b) Serán responsables si sabían o debían haber sabido que los funcionarios a sus órdenes recurrían, o habían recurrido, al uso ilícito de la fuerza y no adoptaron todas las medidas a su disposición para impedirlo.",
+          "c) Tendrán responsabilidad penal solo si ordenaron directamente el uso excesivo de la fuerza, quedando exentos si fue iniciativa del subordinado.",
+          "d) Serán sancionados disciplinariamente por falta de supervisión, pero la responsabilidad penal recaerá exclusivamente en el autor material del disparo."
+        ],
+        "respuesta_correcta": "a) Responderán solidariamente de los daños causados por sus subordinados si la orden emitida era ambigua o imprecisa.",
+        "cita": "Principios Básicos ONU, Principio 24"
+      },
+      {
+        "pregunta": "Sobre la obediencia debida en el uso de la fuerza (Principio 26 ONU), ¿qué establece la norma?",
+        "opciones": [
+          "a) La obediencia debida exime de responsabilidad al subordinado siempre que la orden provenga de un superior competente y se ejecute según los protocolos.",
+          "b) Los funcionarios deben obedecer las órdenes de disparar en situaciones de combate o antiterroristas, siendo el mando el único responsable de las consecuencias.",
+          "c) No podrá alegarse la obediencia de órdenes superiores si sabían que la orden de emplear la fuerza o armas de fuego, a raíz de la cual se ocasionó la muerte o heridas graves, era manifiestamente ilícita.",
+          "d) Podrán negarse a cumplir una orden de uso de la fuerza si consideran que existen alternativas menos lesivas, sin que ello conlleve sanción disciplinaria."
+        ],
+        "respuesta_correcta": "d) Podrán negarse a cumplir una orden de uso de la fuerza si consideran que existen alternativas menos lesivas, sin que ello conlleve sanción disciplinaria.",
+        "cita": "Principios Básicos ONU, Principio 26"
+      },
+      {
+        "pregunta": "¿Qué deben hacer los gobiernos respecto a los funcionarios afectados por el uso de la fuerza (Principio 21 ONU)?",
+        "opciones": [
+          "a) Les concederán un permiso retribuido de dos semanas para facilitar su recuperación emocional tras el incidente.",
+          "b) Dispondrán lo necesario para que se preste asistencia y apoyo psicológico a los funcionarios que hayan recurrido al uso de la fuerza y de armas de fuego.",
+          "c) Abrirán una investigación interna automática para depurar responsabilidades, suspendiendo cautelarmente al funcionario de empleo y sueldo.",
+          "d) Les proporcionarán asistencia letrada gratuita para su defensa en los procedimientos judiciales que se deriven de su actuación."
+        ],
+        "respuesta_correcta": "c) Abrirán una investigación interna automática para depurar responsabilidades, suspendiendo cautelarmente al funcionario de empleo y sueldo.",
+        "cita": "Principios Básicos ONU, Principio 21"
+      }
+    ]
+  }
+]]

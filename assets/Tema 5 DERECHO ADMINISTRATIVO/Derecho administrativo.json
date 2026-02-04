@@ -1,1186 +1,1328 @@
-[{
-  "tema": "TEMA 5.- DERECHO ADMINISTRATIVO (100 PREGUNTAS)",
-  "descripcion": "Preguntas basadas en la Ley 39/2015 (Procedimiento Administrativo Común), Ley 40/2015 (Régimen Jurídico del Sector Público) y RD 95/2009 (Registros de apoyo a la Justicia).",
-  "preguntas": [
-    {
-      "pregunta": "¿Cuál es el objeto de la Ley 39/2015 según su artículo 1?",
-      "opciones": [
-        "a) Regular el régimen jurídico del sector público exclusivamente.",
-        "b) Regular los requisitos de validez y eficacia de los actos administrativos y el procedimiento administrativo común.",
-        "c) Regular el sistema judicial y procesal.",
-        "d) Regular únicamente la potestad sancionadora."
-      ],
-      "respuesta_correcta": "b) Regular los requisitos de validez y eficacia de los actos administrativos y el procedimiento administrativo común."
-    },
-    {
-      "pregunta": "¿Qué capacidad de obrar tienen los menores de edad ante las Administraciones Públicas según la Ley 39/2015?",
-      "opciones": [
-        "a) Ninguna, siempre necesitan representante.",
-        "b) Solo si están emancipados.",
-        "c) Para el ejercicio y defensa de aquellos derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin asistencia de quien ejerza la patria potestad.",
-        "d) Solo a partir de los 16 años."
-      ],
-      "respuesta_correcta": "c) Para el ejercicio y defensa de aquellos derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin asistencia de quien ejerza la patria potestad."
-    },
-    {
-      "pregunta": "¿Cuándo se considera 'interesado' a quien no ha iniciado el procedimiento?",
-      "opciones": [
-        "a) Nunca.",
-        "b) Cuando tenga derechos que puedan resultar afectados por la decisión que se adopte.",
-        "c) Solo si es funcionario público.",
-        "d) Solo si la Administración lo cita expresamente."
-      ],
-      "respuesta_correcta": "b) Cuando tenga derechos que puedan resultar afectados por la decisión que se adopte."
-    },
-    {
-      "pregunta": "¿Cómo se acredita la representación 'apud acta' según la Ley 39/2015?",
-      "opciones": [
-        "a) Solo ante notario.",
-        "b) Mediante comparecencia personal o comparecencia electrónica en la correspondiente sede electrónica.",
-        "c) Por teléfono.",
-        "d) Mediante correo ordinario."
-      ],
-      "respuesta_correcta": "b) Mediante comparecencia personal o comparecencia electrónica en la correspondiente sede electrónica."
-    },
-    {
-      "pregunta": "¿Qué registros de apoderamientos deben ser plenamente interoperables?",
-      "opciones": [
-        "a) Solo los estatales.",
-        "b) Los registros electrónicos generales y particulares de todas y cada una de las Administraciones.",
-        "c) Solo los de las Comunidades Autónomas.",
-        "d) No es necesaria la interoperabilidad."
-      ],
-      "respuesta_correcta": "b) Los registros electrónicos generales y particulares de todas y cada una de las Administraciones."
-    },
-    {
-      "pregunta": "¿Están obligadas las personas jurídicas a relacionarse electrónicamente con las Administraciones Públicas?",
-      "opciones": [
-        "a) No, es opcional.",
-        "b) Sí, están obligadas en todo caso.",
-        "c) Solo si son grandes empresas.",
-        "d) Solo para temas tributarios."
-      ],
-      "respuesta_correcta": "b) Sí, están obligadas en todo caso."
-    },
-    {
-      "pregunta": "¿Qué ocurre si una solicitud se presenta presencialmente por un sujeto obligado a la relación electrónica?",
-      "opciones": [
-        "a) Se tramita igualmente.",
-        "b) Se requerirá al interesado para que la subsane a través de su presentación electrónica.",
-        "c) Se archiva sin más trámite.",
-        "d) Se impone una multa automática."
-      ],
-      "respuesta_correcta": "b) Se requerirá al interesado para que la subsane a través de su presentación electrónica."
-    },
-    {
-      "pregunta": "¿Cómo se computan los plazos señalados por horas?",
-      "opciones": [
-        "a) De momento a momento.",
-        "b) Son hábiles todas las horas del día que formen parte de un día hábil.",
-        "c) Incluyen las horas nocturnas siempre.",
-        "d) No existen plazos por horas."
-      ],
-      "respuesta_correcta": "b) Son hábiles todas las horas del día que formen parte de un día hábil."
-    },
-    {
-      "pregunta": "¿Qué días se excluyen del cómputo de plazos señalados por días hábiles?",
-      "opciones": [
-        "a) Solo los domingos.",
-        "b) Los domingos y festivos.",
-        "c) Los sábados, los domingos y los declarados festivos.",
-        "d) Solo los festivos nacionales."
-      ],
-      "respuesta_correcta": "c) Los sábados, los domingos y los declarados festivos."
-    },
-    {
-      "pregunta": "¿Cuándo concluye un plazo fijado en meses si en el mes de vencimiento no hubiera día equivalente?",
-      "opciones": [
-        "a) El primer día del mes siguiente.",
-        "b) Se entiende que el plazo expira el último día del mes.",
-        "c) El día 30 de ese mes.",
-        "d) Se anula el plazo."
-      ],
-      "respuesta_correcta": "b) Se entiende que el plazo expira el último día del mes."
-    },
-    {
-      "pregunta": "¿Qué actos administrativos son nulos de pleno derecho según el artículo 47 de la Ley 39/2015?",
-      "opciones": [
-        "a) Los que tengan un defecto de forma no invalidante.",
-        "b) Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
-        "c) Los realizados fuera de plazo.",
-        "d) Los que carezcan de motivación suficiente."
-      ],
-      "respuesta_correcta": "b) Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio."
-    },
-    {
-      "pregunta": "¿Qué determina la anulabilidad de un acto administrativo?",
-      "opciones": [
-        "a) Cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.",
-        "b) Solo la infracción penal.",
-        "c) Solo la falta de crédito presupuestario.",
-        "d) Solo la incompetencia territorial."
-      ],
-      "respuesta_correcta": "a) Cualquier infracción del ordenamiento jurídico, incluso la desviación de poder."
-    },
-    {
-      "pregunta": "¿Qué es la 'conversión de actos viciados'?",
-      "opciones": [
-        "a) Arreglar un acto nulo.",
-        "b) Los actos nulos o anulables que contengan los elementos constitutivos de otro distinto producirán los efectos de este.",
-        "c) Volver a dictar el acto desde cero.",
-        "d) No existe tal concepto."
-      ],
-      "respuesta_correcta": "b) Los actos nulos o anulables que contengan los elementos constitutivos de otro distinto producirán los efectos de este."
-    },
-    {
-      "pregunta": "¿Cuál es el plazo máximo para notificar la resolución de un recurso de alzada?",
-      "opciones": [
-        "a) Un mes.",
-        "b) Tres meses.",
-        "c) Seis meses.",
-        "d) Diez días."
-      ],
-      "respuesta_correcta": "b) Tres meses."
-    },
-    {
-      "pregunta": "¿Ante quién se interpone el recurso de alzada?",
-      "opciones": [
-        "a) Ante el órgano que dictó el acto o ante su superior jerárquico.",
-        "b) Exclusivamente ante el superior jerárquico.",
-        "c) Ante los tribunales de justicia.",
-        "d) Ante el Defensor del Pueblo."
-      ],
-      "respuesta_correcta": "a) Ante el órgano que dictó el acto o ante su superior jerárquico."
-    },
-    {
-      "pregunta": "¿Qué actos ponen fin a la vía administrativa?",
-      "opciones": [
-        "a) Todos los actos administrativos.",
-        "b) Los actos de los miembros y órganos del Gobierno, entre otros.",
-        "c) Solo los actos firmes.",
-        "d) Los actos de trámite no cualificados."
-      ],
-      "respuesta_correcta": "b) Los actos de los miembros y órganos del Gobierno, entre otros."
-    },
-    {
-      "pregunta": "¿Cuál es el plazo para interponer recurso de reposición contra actos expresos?",
-      "opciones": [
-        "a) Un mes.",
-        "b) Tres meses.",
-        "c) Diez días.",
-        "d) Cuatro años."
-      ],
-      "respuesta_correcta": "a) Un mes."
-    },
-    {
-      "pregunta": "¿Cuál es el plazo para interponer recurso extraordinario de revisión por error de hecho?",
-      "opciones": [
-        "a) Tres meses.",
-        "b) Cuatro años siguientes a la fecha de la notificación de la resolución impugnada.",
-        "c) Un año.",
-        "d) No hay plazo."
-      ],
-      "respuesta_correcta": "b) Cuatro años siguientes a la fecha de la notificación de la resolución impugnada."
-    },
-    {
-      "pregunta": "¿Qué efecto tiene la falta de resolución expresa de un recurso de alzada?",
-      "opciones": [
-        "a) Estimatorio siempre.",
-        "b) Desestimatorio, salvo que el recurso se haya interpuesto contra la desestimación por silencio administrativo de una solicitud.",
-        "c) Caducidad del procedimiento.",
-        "d) Nulidad del acto."
-      ],
-      "respuesta_correcta": "b) Desestimatorio, salvo que el recurso se haya interpuesto contra la desestimación por silencio administrativo de una solicitud."
-    },
-    {
-      "pregunta": "¿Es obligatorio el uso de medios electrónicos en la tramitación del procedimiento administrativo?",
-      "opciones": [
-        "a) No, es opcional para la Administración.",
-        "b) Sí, los actos de instrucción se realizarán de oficio y a través de medios electrónicos.",
-        "c) Solo si lo pide el interesado.",
-        "d) Solo en la Administración General del Estado."
-      ],
-      "respuesta_correcta": "b) Sí, los actos de instrucción se realizarán de oficio y a través de medios electrónicos."
-    },
-    {
-      "pregunta": "¿Qué requisitos debe cumplir una notificación electrónica para entenderse practicada?",
-      "opciones": [
-        "a) Que se envíe un email.",
-        "b) Que se produzca el acceso a su contenido en la sede electrónica o dirección habilitada.",
-        "c) Que pasen 5 días.",
-        "d) Que se publique en el BOE."
-      ],
-      "respuesta_correcta": "b) Que se produzca el acceso a su contenido en la sede electrónica o dirección habilitada."
-    },
-    {
-      "pregunta": "¿Cuándo se entiende rechazada una notificación electrónica obligatoria si no se accede al contenido?",
-      "opciones": [
-        "a) A los 5 días naturales.",
-        "b) A los 10 días naturales desde la puesta a disposición.",
-        "c) A los 20 días hábiles.",
-        "d) Nunca se entiende rechazada."
-      ],
-      "respuesta_correcta": "b) A los 10 días naturales desde la puesta a disposición."
-    },
-    {
-      "pregunta": "¿Qué es la 'tramitación simplificada' del procedimiento?",
-      "opciones": [
-        "a) Un procedimiento oral.",
-        "b) Un procedimiento con plazo máximo de resolución de treinta días y trámites reducidos.",
-        "c) Un procedimiento sin audiencia.",
-        "d) Un procedimiento solo para multas."
-      ],
-      "respuesta_correcta": "b) Un procedimiento con plazo máximo de resolución de treinta días y trámites reducidos."
-    },
-    {
-      "pregunta": "¿Puede la Administración desistir de un procedimiento iniciado de oficio?",
-      "opciones": [
-        "a) No, nunca.",
-        "b) Sí, motivadamente y en los supuestos y con los requisitos previstos en las Leyes.",
-        "c) Sí, libremente.",
-        "d) Solo si hay silencio administrativo."
-      ],
-      "respuesta_correcta": "b) Sí, motivadamente y en los supuestos y con los requisitos previstos en las Leyes."
-    },
-    {
-      "pregunta": "¿Qué sanción tiene el defecto de forma en un acto administrativo?",
-      "opciones": [
-        "a) Nulidad de pleno derecho siempre.",
-        "b) Anulabilidad solo si el acto carece de requisitos indispensables para su fin o causa indefensión.",
-        "c) Ninguna sanción.",
-        "d) Multa al funcionario."
-      ],
-      "respuesta_correcta": "b) Anulabilidad solo si el acto carece de requisitos indispensables para su fin o causa indefensión."
-    },
-    {
-      "pregunta": "¿Qué plazo tiene la Administración para resolver un procedimiento de responsabilidad patrimonial?",
-      "opciones": [
-        "a) 3 meses.",
-        "b) 6 meses.",
-        "c) 1 año.",
-        "d) 18 meses."
-      ],
-      "respuesta_correcta": "b) 6 meses."
-    },
-    {
-      "pregunta": "¿En qué consiste la 'ejecución subsidiaria'?",
-      "opciones": [
-        "a) En multar al obligado.",
-        "b) En que la Administración realiza el acto por sí o a través de otros a costa del obligado.",
-        "c) En embargar bienes.",
-        "d) En obligar físicamente a la persona."
-      ],
-      "respuesta_correcta": "b) En que la Administración realiza el acto por sí o a través de otros a costa del obligado."
-    },
-    {
-      "pregunta": "¿Qué recurso cabe contra una disposición administrativa de carácter general (un reglamento)?",
-      "opciones": [
-        "a) Recurso de alzada.",
-        "b) Recurso de reposición.",
-        "c) No cabe recurso en vía administrativa (solo judicial).",
-        "d) Recurso de revisión."
-      ],
-      "respuesta_correcta": "c) No cabe recurso en vía administrativa (solo judicial)."
-    },
-    {
-      "pregunta": "Según la Ley 40/2015, ¿cuándo tienen los órganos administrativos la consideración de tales?",
-      "opciones": [
-        "a) Siempre.",
-        "b) Cuando se les atribuyan funciones que tengan efectos jurídicos frente a terceros o su actuación sea preceptiva.",
-        "c) Solo si tienen rango de Dirección General.",
-        "d) Solo si dependen de un Ministro."
-      ],
-      "respuesta_correcta": "b) Cuando se les atribuyan funciones que tengan efectos jurídicos frente a terceros o su actuación sea preceptiva."
-    },
-    {
-      "pregunta": "¿Qué requisito es indispensable para la creación de un nuevo órgano administrativo?",
-      "opciones": [
-        "a) Que tenga nombre en inglés.",
-        "b) Comprobación de que no existe duplicidad con otro órgano existente.",
-        "c) Que lo apruebe el Parlamento.",
-        "d) Que tenga sede propia."
-      ],
-      "respuesta_correcta": "b) Comprobación de que no existe duplicidad con otro órgano existente."
-    },
-    {
-      "pregunta": "¿Es renunciable la competencia administrativa?",
-      "opciones": [
-        "a) Sí, por acuerdo entre órganos.",
-        "b) No, es irrenunciable, salvo casos de delegación o avocación previstos en la ley.",
-        "c) Sí, si hay exceso de trabajo.",
-        "d) Sí, si no hay presupuesto."
-      ],
-      "respuesta_correcta": "b) No, es irrenunciable, salvo casos de delegación o avocación previstos en la ley."
-    },
-    {
-      "pregunta": "¿Qué supone la 'avocación' de competencias?",
-      "opciones": [
-        "a) Delegar hacia abajo.",
-        "b) Que los órganos superiores atraigan para sí el conocimiento de un asunto cuya resolución corresponda a sus órganos dependientes.",
-        "c) Transferir la competencia a otra Administración.",
-        "d) Renunciar a la competencia."
-      ],
-      "respuesta_correcta": "b) Que los órganos superiores atraigan para sí el conocimiento de un asunto cuya resolución corresponda a sus órganos dependientes."
-    },
-    {
-      "pregunta": "¿En quién puede delegarse la firma de resoluciones?",
-      "opciones": [
-        "a) En cualquier funcionario.",
-        "b) En los titulares de los órganos o unidades administrativas que dependan del delegante.",
-        "c) En personal externo.",
-        "d) No se puede delegar la firma."
-      ],
-      "respuesta_correcta": "b) En los titulares de los órganos o unidades administrativas que dependan del delegante."
-    },
-    {
-      "pregunta": "¿Qué quórum se requiere para la válida constitución de un órgano colegiado (Art. 17 Ley 40/2015)?",
-      "opciones": [
-        "a) Todos los miembros.",
-        "b) Presidente, Secretario y la mitad, al menos, de sus miembros.",
-        "c) Presidente y un tercio de los miembros.",
-        "d) Solo el Presidente y el Secretario."
-      ],
-      "respuesta_correcta": "b) Presidente, Secretario y la mitad, al menos, de sus miembros."
-    },
-    {
-      "pregunta": "¿Pueden los órganos colegiados celebrar sesiones a distancia?",
-      "opciones": [
-        "a) No, deben ser presenciales.",
-        "b) Sí, por medios electrónicos, audiovisuales o telefónicos que aseguren la identidad y comunicación en tiempo real.",
-        "c) Solo si hay unanimidad.",
-        "d) Solo en caso de emergencia."
-      ],
-      "respuesta_correcta": "b) Sí, por medios electrónicos, audiovisuales o telefónicos que aseguren la identidad y comunicación en tiempo real."
-    },
-    {
-      "pregunta": "¿Qué debe hacer una autoridad en quien concurra motivo de abstención?",
-      "opciones": [
-        "a) Continuar si es imparcial.",
-        "b) Abstenerse de intervenir y comunicarlo a su superior inmediato.",
-        "c) Pedir permiso a los interesados.",
-        "d) Dimiti."
-      ],
-      "respuesta_correcta": "b) Abstenerse de intervenir y comunicarlo a su superior inmediato."
-    },
-    {
-      "pregunta": "¿Cuáles son motivos de abstención según la Ley 40/2015?",
-      "opciones": [
-        "a) Tener interés personal, parentesco (hasta 4º grado consanguinidad / 2º afinidad), amistad íntima o enemistad manifiesta.",
-        "b) Ser vecino del interesado.",
-        "c) Haber trabajado en la misma empresa hace 10 años.",
-        "d) Tener la misma edad."
-      ],
-      "respuesta_correcta": "a) Tener interés personal, parentesco (hasta 4º grado consanguinidad / 2º afinidad), amistad íntima o enemistad manifiesta."
-    },
-    {
-      "pregunta": "¿Quiénes tienen derecho a ser indemnizados por la responsabilidad patrimonial de la Administración?",
-      "opciones": [
-        "a) Solo los ciudadanos españoles.",
-        "b) Los particulares, de toda lesión que sufran en sus bienes y derechos, salvo fuerza mayor, consecuencia del funcionamiento de los servicios públicos.",
-        "c) Solo las empresas.",
-        "d) Nadie, la Administración es irresponsable."
-      ],
-      "respuesta_correcta": "b) Los particulares, de toda lesión que sufran en sus bienes y derechos, salvo fuerza mayor, consecuencia del funcionamiento de los servicios públicos."
-    },
-    {
-      "pregunta": "¿Qué plazo hay para reclamar la responsabilidad patrimonial?",
-      "opciones": [
-        "a) 6 meses.",
-        "b) 1 año desde que se produjo el hecho o se curaron las lesiones.",
-        "c) 4 años.",
-        "d) 5 años."
-      ],
-      "respuesta_correcta": "b) 1 año desde que se produjo el hecho o se curaron las lesiones."
-    },
-    {
-      "pregunta": "¿Qué es la Sede Electrónica según la Ley 40/2015?",
-      "opciones": [
-        "a) Una oficina física con ordenadores.",
-        "b) Una dirección electrónica disponible para los ciudadanos cuya titularidad y gestión corresponde a una Administración Pública.",
-        "c) Un correo electrónico.",
-        "d) Una red social."
-      ],
-      "respuesta_correcta": "b) Una dirección electrónica disponible para los ciudadanos cuya titularidad y gestión corresponde a una Administración Pública."
-    },
-    {
-      "pregunta": "¿Qué sistema de identificación deben admitir las Administraciones Públicas?",
-      "opciones": [
-        "a) Solo el DNI físico.",
-        "b) Sistemas de firma electrónica cualificada/avanzada, sello electrónico y clave concertada, entre otros.",
-        "c) Solo la huella dactilar.",
-        "d) El pasaporte únicamente."
-      ],
-      "respuesta_correcta": "b) Sistemas de firma electrónica cualificada/avanzada, sello electrónico y clave concertada, entre otros."
-    },
-    {
-      "pregunta": "¿Qué es el Archivo Electrónico Único?",
-      "opciones": [
-        "a) Un disco duro externo.",
-        "b) El archivo de los documentos electrónicos que correspondan a procedimientos finalizados.",
-        "c) La papelera de reciclaje.",
-        "d) Un registro de entrada."
-      ],
-      "respuesta_correcta": "b) El archivo de los documentos electrónicos que correspondan a procedimientos finalizados."
-    },
-    {
-      "pregunta": "¿Qué garantiza el Esquema Nacional de Interoperabilidad?",
-      "opciones": [
-        "a) Que todos usen el mismo software.",
-        "b) El conjunto de criterios y recomendaciones que permiten el intercambio de información entre las Administraciones.",
-        "c) Que no se usen ordenadores.",
-        "d) La compra de equipos."
-      ],
-      "respuesta_correcta": "b) El conjunto de criterios y recomendaciones que permiten el intercambio de información entre las Administraciones."
-    },
-    {
-      "pregunta": "¿Pueden las Administraciones intercambiar datos electrónicamente entre sí?",
-      "opciones": [
-        "a) No, está prohibido.",
-        "b) Sí, deben relacionarse entre sí a través de medios electrónicos.",
-        "c) Solo por fax.",
-        "d) Solo con autorización judicial."
-      ],
-      "respuesta_correcta": "b) Sí, deben relacionarse entre sí a través de medios electrónicos."
-    },
-    {
-      "pregunta": "¿Qué registro se crea mediante el RD 95/2009?",
-      "opciones": [
-        "a) El Registro Civil.",
-        "b) El Sistema de registros administrativos de apoyo a la Administración de Justicia.",
-        "c) El Registro de la Propiedad.",
-        "d) El Registro Mercantil."
-      ],
-      "respuesta_correcta": "b) El Sistema de registros administrativos de apoyo a la Administración de Justicia."
-    },
-    {
-      "pregunta": "¿Qué registros integran el Sistema regulado por el RD 95/2009?",
-      "opciones": [
-        "a) Solo el de Penados.",
-        "b) Penados, Víctimas de Violencia Doméstica, Medidas Cautelares, Rebeldes Civiles y Sentencias de Menores.",
-        "c) Solo el de Rebeldes.",
-        "d) Ninguno de los anteriores."
-      ],
-      "respuesta_correcta": "b) Penados, Víctimas de Violencia Doméstica, Medidas Cautelares, Rebeldes Civiles y Sentencias de Menores."
-    },
-    {
-      "pregunta": "¿Cuál es la finalidad del Registro Central de Penados?",
-      "opciones": [
-        "a) Publicar las sentencias en prensa.",
-        "b) La inscripción de las resoluciones firmes por la comisión de delitos o faltas (antiguas) que impongan penas o medidas de seguridad.",
-        "c) Vigilar a los presos.",
-        "d) Cobrar multas."
-      ],
-      "respuesta_correcta": "b) La inscripción de las resoluciones firmes por la comisión de delitos o faltas (antiguas) que impongan penas o medidas de seguridad."
-    },
-    {
-      "pregunta": "¿Quién es el encargado del Registro Central de Penados?",
-      "opciones": [
-        "a) El Ministro del Interior.",
-        "b) El Ministerio de Justicia.",
-        "c) El Consejo General del Poder Judicial.",
-        "d) La Policía Nacional."
-      ],
-      "respuesta_correcta": "b) El Ministerio de Justicia."
-    },
-    {
-      "pregunta": "¿Cuándo se cancelan los antecedentes penales?",
-      "opciones": [
-        "a) Nunca.",
-        "b) De oficio o a instancia de parte, cuando se cumplan los requisitos del Código Penal (plazos sin delinquir tras extinguir pena).",
-        "c) Al morir el reo solamente.",
-        "d) A los 10 años siempre."
-      ],
-      "respuesta_correcta": "b) De oficio o a instancia de parte, cuando se cumplan los requisitos del Código Penal (plazos sin delinquir tras extinguir pena)."
-    },
-    {
-      "pregunta": "¿Qué información contiene el Registro Central para la Protección de las Víctimas de Violencia Doméstica?",
-      "opciones": [
-        "a) Penas de tráfico.",
-        "b) Penas y medidas de seguridad, medidas cautelares y órdenes de protección dictadas en procedimientos de violencia doméstica o de género.",
-        "c) Datos fiscales.",
-        "d) Divorcios de mutuo acuerdo."
-      ],
-      "respuesta_correcta": "b) Penas y medidas de seguridad, medidas cautelares y órdenes de protección dictadas en procedimientos de violencia doméstica o de género."
-    },
-    {
-      "pregunta": "¿Quién tiene acceso a los datos del Sistema de Registros de apoyo a la Justicia?",
-      "opciones": [
-        "a) Todo el mundo, son públicos.",
-        "b) Jueces, Tribunales, Ministerio Fiscal, Policía Judicial y autoridades habilitadas, en el ejercicio de sus funciones.",
-        "c) Solo los jueces.",
-        "d) Solo la policía."
-      ],
-      "respuesta_correcta": "b) Jueces, Tribunales, Ministerio Fiscal, Policía Judicial y autoridades habilitadas, en el ejercicio de sus funciones."
-    },
-    {
-      "pregunta": "¿Qué se inscribe en el Registro Central de Medidas Cautelares, Requisitorias y Sentencias no Firmes?",
-      "opciones": [
-        "a) Las sentencias firmes.",
-        "b) Las órdenes de busca y captura, prisión provisional, libertad provisional, rebeldía y sentencias pendientes de firmeza.",
-        "c) Las multas de tráfico.",
-        "d) Los embargos civiles."
-      ],
-      "respuesta_correcta": "b) Las órdenes de busca y captura, prisión provisional, libertad provisional, rebeldía y sentencias pendientes de firmeza."
-    },
-    {
-      "pregunta": "¿Qué es el SIRAJ?",
-      "opciones": [
-        "a) Un sindicato.",
-        "b) El Sistema de Registros Administrativos de Apoyo a la Administración de Justicia.",
-        "c) Una ley.",
-        "d) Un juez."
-      ],
-      "respuesta_correcta": "b) El Sistema de Registros Administrativos de Apoyo a la Administración de Justicia."
-    },
-    {
-      "pregunta": "¿Se cancelan automáticamente las medidas cautelares inscritas?",
-      "opciones": [
-        "a) Sí, al mes.",
-        "b) No, deben cancelarse cuando el órgano judicial acuerde su levantamiento o finalice el procedimiento.",
-        "c) No, son perpetuas.",
-        "d) Sí, al año."
-      ],
-      "respuesta_correcta": "b) No, deben cancelarse cuando el órgano judicial acuerde su levantamiento o finalice el procedimiento."
-    },
-    {
-      "pregunta": "¿Qué derecho tiene el ciudadano respecto a sus datos en estos registros?",
-      "opciones": [
-        "a) A borrarlos cuando quiera.",
-        "b) A obtener certificación de sus propios datos y solicitar la rectificación o cancelación si procede.",
-        "c) A ver los datos de sus vecinos.",
-        "d) Ninguno."
-      ],
-      "respuesta_correcta": "b) A obtener certificación de sus propios datos y solicitar la rectificación o cancelación si procede."
-    },
-    {
-      "pregunta": "¿Puede un tercero solicitar certificado de antecedentes penales de otra persona?",
-      "opciones": [
-        "a) Sí, libremente.",
-        "b) Solo si acredita la representación del titular.",
-        "c) Solo si es familiar.",
-        "d) No, nunca."
-      ],
-      "respuesta_correcta": "b) Solo si acredita la representación del titular."
-    },
-    {
-      "pregunta": "¿Qué ocurre si un documento electrónico contiene código malicioso?",
-      "opciones": [
-        "a) Se acepta igual.",
-        "b) Se considerará no presentado a efectos de cumplimiento de plazos, suspendiéndose el trámite y requiriendo subsanación.",
-        "c) Se borra el archivo.",
-        "d) Se denuncia a la policía."
-      ],
-      "respuesta_correcta": "b) Se considerará no presentado a efectos de cumplimiento de plazos, suspendiéndose el trámite y requiriendo subsanación."
-    },
-    {
-      "pregunta": "¿Qué es la 'copia auténtica'?",
-      "opciones": [
-        "a) Una fotocopia.",
-        "b) Una copia realizada por la Administración que tiene la misma validez y eficacia que el documento original.",
-        "c) Un original.",
-        "d) Una copia notarial."
-      ],
-      "respuesta_correcta": "b) Una copia realizada por la Administración que tiene la misma validez y eficacia que el documento original."
-    },
-    {
-      "pregunta": "¿Qué diferencia hay entre nulidad y anulabilidad respecto a la subsanación?",
-      "opciones": [
-        "a) No hay diferencia.",
-        "b) La nulidad no se puede convalidar, la anulabilidad sí (por el paso del tiempo o subsanación).",
-        "c) La anulabilidad es más grave.",
-        "d) La nulidad prescribe antes."
-      ],
-      "respuesta_correcta": "b) La nulidad no se puede convalidar, la anulabilidad sí (por el paso del tiempo o subsanación)."
-    },
-    {
-      "pregunta": "¿Puede la Administración rectificar errores materiales en sus actos?",
-      "opciones": [
-        "a) No, debe ir al juez.",
-        "b) Sí, en cualquier momento, de oficio o a instancia de los interesados (errores materiales, de hecho o aritméticos).",
-        "c) Solo en el plazo de un mes.",
-        "d) Solo si son errores graves."
-      ],
-      "respuesta_correcta": "b) Sí, en cualquier momento, de oficio o a instancia de los interesados (errores materiales, de hecho o aritméticos)."
-    },
-    {
-      "pregunta": "¿Qué recurso cabe contra la desestimación de un recurso de reposición?",
-      "opciones": [
-        "a) Otro de reposición.",
-        "b) Recurso contencioso-administrativo.",
-        "c) Recurso de alzada.",
-        "d) Recurso de queja."
-      ],
-      "respuesta_correcta": "b) Recurso contencioso-administrativo."
-    },
-    {
-      "pregunta": "¿Cuándo se puede interponer el recurso de alzada contra actos presuntos?",
-      "opciones": [
-        "a) En un mes.",
-        "b) En cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio administrativo.",
-        "c) En tres meses.",
-        "d) Nunca."
-      ],
-      "respuesta_correcta": "b) En cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
-    },
-    {
-      "pregunta": "¿Qué es la 'declaración responsable'?",
-      "opciones": [
-        "a) Un juramento.",
-        "b) El documento en el que el interesado manifiesta, bajo su responsabilidad, que cumple los requisitos para un derecho o actividad y dispone de la documentación que lo acredita.",
-        "c) Una solicitud de perdón.",
-        "d) Un formulario de impuestos."
-      ],
-      "respuesta_correcta": "b) El documento en el que el interesado manifiesta, bajo su responsabilidad, que cumple los requisitos para un derecho o actividad y dispone de la documentación que lo acredita."
-    },
-    {
-      "pregunta": "¿Qué sucede si no se notifica la resolución de un procedimiento sancionador en plazo?",
-      "opciones": [
-        "a) Silencio positivo.",
-        "b) Caducidad del procedimiento.",
-        "c) Silencio negativo.",
-        "d) Se amplía el plazo automáticamente."
-      ],
-      "respuesta_correcta": "b) Caducidad del procedimiento."
-    },
-    {
-      "pregunta": "¿Qué principio rige la potestad sancionadora respecto a la irretroactividad?",
-      "opciones": [
-        "a) Siempre es retroactiva.",
-        "b) Serán de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos, salvo que la posterior sea más favorable.",
-        "c) Nunca es retroactiva.",
-        "d) Es retroactiva si lo decide el juez."
-      ],
-      "respuesta_correcta": "b) Serán de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos, salvo que la posterior sea más favorable."
-    },
-    {
-      "pregunta": "¿Cuándo prescriben las infracciones muy graves si la ley no fija plazo?",
-      "opciones": [
-        "a) A los 2 años.",
-        "b) A los 3 años.",
-        "c) A los 5 años.",
-        "d) A los 6 meses."
-      ],
-      "respuesta_correcta": "b) A los 3 años."
-    },
-    {
-      "pregunta": "¿Cuándo prescriben las sanciones leves si la ley no fija plazo?",
-      "opciones": [
-        "a) A los 6 meses.",
-        "b) Al año.",
-        "c) A los 2 años.",
-        "d) A los 3 meses."
-      ],
-      "respuesta_correcta": "b) Al año."
-    },
-    {
-      "pregunta": "¿Qué es la 'motivación' de los actos administrativos?",
-      "opciones": [
-        "a) Poner fecha y firma.",
-        "b) Expresar sucintamente los hechos y fundamentos de derecho.",
-        "c) Publicarlos en el BOE.",
-        "d) Notificarlos."
-      ],
-      "respuesta_correcta": "b) Expresar sucintamente los hechos y fundamentos de derecho."
-    },
-    {
-      "pregunta": "¿Deben motivarse los actos que limiten derechos subjetivos?",
-      "opciones": [
-        "a) No hace falta.",
-        "b) Sí, siempre.",
-        "c) Solo si son graves.",
-        "d) Solo si lo pide el interesado."
-      ],
-      "respuesta_correcta": "b) Sí, siempre."
-    },
-    {
-      "pregunta": "¿Qué es la 'encomienda de gestión'?",
-      "opciones": [
-        "a) Un contrato de obras.",
-        "b) La realización de actividades de carácter material o técnico de la competencia de un órgano por otro, por razones de eficacia.",
-        "c) Una transferencia de titularidad.",
-        "d) Una privatización."
-      ],
-      "respuesta_correcta": "b) La realización de actividades de carácter material o técnico de la competencia de un órgano por otro, por razones de eficacia."
-    },
-    {
-      "pregunta": "¿Supone la encomienda de gestión cesión de la titularidad de la competencia?",
-      "opciones": [
-        "a) Sí.",
-        "b) No.",
-        "c) A veces.",
-        "d) Solo si es entre Ministerios."
-      ],
-      "respuesta_correcta": "b) No."
-    },
-    {
-      "pregunta": "¿Qué son los 'órganos consultivos'?",
-      "opciones": [
-        "a) Los que deciden.",
-        "b) Los encargados de prestar asistencia jurídica o técnica mediante informes o dictámenes.",
-        "c) Los sindicatos.",
-        "d) Los ciudadanos."
-      ],
-      "respuesta_correcta": "b) Los encargados de prestar asistencia jurídica o técnica mediante informes o dictámenes."
-    },
-    {
-      "pregunta": "¿Qué ocurre si el Secretario de un órgano colegiado no es miembro del mismo?",
-      "opciones": [
-        "a) No puede asistir.",
-        "b) Tiene voz pero no voto.",
-        "c) Tiene voto de calidad.",
-        "d) Dirige la reunión."
-      ],
-      "respuesta_correcta": "b) Tiene voz pero no voto."
-    },
-    {
-      "pregunta": "¿Cuándo se entiende aprobado el acta de una sesión de un órgano colegiado?",
-      "opciones": [
-        "a) En la misma reunión o en la inmediata siguiente.",
-        "b) Al mes.",
-        "c) Al año.",
-        "d) Nunca."
-      ],
-      "respuesta_correcta": "a) En la misma reunión o en la inmediata siguiente."
-    },
-    {
-      "pregunta": "¿Es obligatorio publicar las instrucciones y órdenes de servicio?",
-      "opciones": [
-        "a) Siempre.",
-        "b) Cuando una disposición específica lo establezca o se estime conveniente por razón de los destinatarios.",
-        "c) Nunca.",
-        "d) Solo si son secretas."
-      ],
-      "respuesta_correcta": "b) Cuando una disposición específica lo establezca o se estime conveniente por razón de los destinatarios."
-    },
-    {
-      "pregunta": "¿Qué principio rige la relación entre órganos administrativos de la misma competencia?",
-      "opciones": [
-        "a) Competencia feroz.",
-        "b) Coordinación y colaboración.",
-        "c) Independencia total.",
-        "d) Secreto."
-      ],
-      "respuesta_correcta": "b) Coordinación y colaboración."
-    },
-    {
-      "pregunta": "¿Qué es la 'delegación de firma'?",
-      "opciones": [
-        "a) Falsificar la firma.",
-        "b) Delegar la firma de resoluciones y actos en titulares de órganos dependientes, sin alterar la competencia.",
-        "c) Delegar la competencia completa.",
-        "d) Contratar a alguien para que firme."
-      ],
-      "respuesta_correcta": "b) Delegar la firma de resoluciones y actos en titulares de órganos dependientes, sin alterar la competencia."
-    },
-    {
-      "pregunta": "¿Qué es el 'Punto de Acceso General electrónico'?",
-      "opciones": [
-        "a) Un edificio.",
-        "b) Un portal de entrada para acceder a la información y servicios de la Administración.",
-        "c) Una contraseña.",
-        "d) Un funcionario."
-      ],
-      "respuesta_correcta": "b) Un portal de entrada para acceder a la información y servicios de la Administración."
-    },
-    {
-      "pregunta": "¿Qué implica la 'interoperabilidad'?",
-      "opciones": [
-        "a) Que los sistemas de diferentes Administraciones puedan compartir datos e información.",
-        "b) Que cada uno use su sistema.",
-        "c) Que no se usen ordenadores.",
-        "d) Que se pague por los datos."
-      ],
-      "respuesta_correcta": "a) Que los sistemas de diferentes Administraciones puedan compartir datos e información."
-    },
-    {
-      "pregunta": "¿Qué se inscribe en el Registro Central de Menores?",
-      "opciones": [
-        "a) Nacimientos.",
-        "b) Sentencias firmes dictadas por responsabilidad penal de los menores.",
-        "c) Notas escolares.",
-        "d) Vacunas."
-      ],
-      "respuesta_correcta": "b) Sentencias firmes dictadas por responsabilidad penal de los menores."
-    },
-    {
-      "pregunta": "¿Qué medidas cautelares se inscriben en el Registro Central?",
-      "opciones": [
-        "a) Solo la prisión provisional.",
-        "b) Prisión provisional, libertad provisional, órdenes de alejamiento, prohibiciones de comunicación, etc.",
-        "c) Multas de aparcamiento.",
-        "d) Embargos preventivos de cuentas."
-      ],
-      "respuesta_correcta": "b) Prisión provisional, libertad provisional, órdenes de alejamiento, prohibiciones de comunicación, etc."
-    },
-    {
-      "pregunta": "¿Qué es un 'rebelde civil' a efectos del Registro?",
-      "opciones": [
-        "a) Alguien que protesta.",
-        "b) El demandado en un proceso civil cuyo paradero se desconoce y es declarado en rebeldía.",
-        "c) Un delincuente fugado.",
-        "d) Un insumiso."
-      ],
-      "respuesta_correcta": "b) El demandado en un proceso civil cuyo paradero se desconoce y es declarado en rebeldía."
-    },
-    {
-      "pregunta": "¿Qué se necesita para cancelar una inscripción de antecedentes penales?",
-      "opciones": [
-        "a) Pagar una tasa.",
-        "b) Haber extinguido la pena y no haber delinquido de nuevo en los plazos legales.",
-        "c) Pedir perdón.",
-        "d) Que pase un mes."
-      ],
-      "respuesta_correcta": "b) Haber extinguido la pena y no haber delinquido de nuevo en los plazos legales."
-    },
-    {
-      "pregunta": "¿Qué efecto tiene la cancelación de antecedentes penales?",
-      "opciones": [
-        "a) Ninguno.",
-        "b) La anulación del dato a todos los efectos, salvo que la ley disponga otra cosa.",
-        "c) Se guardan en otro fichero.",
-        "d) Se publican."
-      ],
-      "respuesta_correcta": "b) La anulación del dato a todos los efectos, salvo que la ley disponga otra cosa."
-    },
-    {
-      "pregunta": "¿Puede el Ministerio Fiscal acceder al Registro Central de Penados?",
-      "opciones": [
-        "a) No.",
-        "b) Sí, directamente.",
-        "c) Solo con orden del juez.",
-        "d) Solo si paga."
-      ],
-      "respuesta_correcta": "b) Sí, directamente."
-    },
-    {
-      "pregunta": "¿Qué ocurre si una Administración causa un daño por funcionamiento anormal de un servicio?",
-      "opciones": [
-        "a) Nada.",
-        "b) Debe indemnizar al particular lesionado (Responsabilidad Patrimonial).",
-        "c) Se disculpa.",
-        "d) Cierra el servicio."
-      ],
-      "respuesta_correcta": "b) Debe indemnizar al particular lesionado (Responsabilidad Patrimonial)."
-    },
-    {
-      "pregunta": "¿Qué se entiende por 'fuerza mayor' en la responsabilidad patrimonial?",
-      "opciones": [
-        "a) Lluvia fuerte.",
-        "b) Hechos ajenos al servicio, imprevisibles o inevitables.",
-        "c) Huelga.",
-        "d) Falta de dinero."
-      ],
-      "respuesta_correcta": "b) Hechos ajenos al servicio, imprevisibles o inevitables."
-    },
-    {
-      "pregunta": "¿Cubre la responsabilidad patrimonial los daños derivados de hechos o circunstancias que no se hubiesen podido prever o evitar según el estado de la ciencia?",
-      "opciones": [
-        "a) Sí.",
-        "b) No, no son indemnizables.",
-        "c) Depende del caso.",
-        "d) Solo si hay seguro."
-      ],
-      "respuesta_correcta": "b) No, no son indemnizables."
-    },
-    {
-      "pregunta": "¿Qué es la 'identificación electrónica'?",
-      "opciones": [
-        "a) Decir el nombre.",
-        "b) El proceso de utilizar datos de identificación de una persona en formato electrónico que representan su identidad.",
-        "c) Mandar un email.",
-        "d) Tener una web."
-      ],
-      "respuesta_correcta": "b) El proceso de utilizar datos de identificación de una persona en formato electrónico que representan su identidad."
-    },
-    {
-      "pregunta": "¿Qué valor tienen los documentos electrónicos firmados electrónicamente por funcionarios habilitados?",
-      "opciones": [
-        "a) Ninguno.",
-        "b) El de copia auténtica.",
-        "c) Informativo.",
-        "d) Privado."
-      ],
-      "respuesta_correcta": "b) El de copia auténtica."
-    },
-    {
-      "pregunta": "¿Qué deben hacer las Administraciones para facilitar la identificación y firma de los interesados?",
-      "opciones": [
-        "a) Nada.",
-        "b) Asistirles en el uso de medios electrónicos.",
-        "c) Cobrarles.",
-        "d) Prohibir el papel."
-      ],
-      "respuesta_correcta": "b) Asistirles en el uso de medios electrónicos."
-    },
-    {
-      "pregunta": "¿Qué son las 'Oficinas de Asistencia en materia de Registros'?",
-      "opciones": [
-        "a) Las antiguas oficinas de registro, que ahora digitalizan y asisten.",
-        "b) Oficinas de empleo.",
-        "c) Correos.",
-        "d) Gestorías."
-      ],
-      "respuesta_correcta": "a) Las antiguas oficinas de registro, que ahora digitalizan y asisten."
-    },
-    {
-      "pregunta": "¿Qué es el 'expediente administrativo' en la Ley 39/2015?",
-      "opciones": [
-        "a) Una carpeta de cartón.",
-        "b) El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa.",
-        "c) La sentencia.",
-        "d) El recurso."
-      ],
-      "respuesta_correcta": "b) El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa."
-    },
-    {
-      "pregunta": "¿Qué formato debe tener el expediente administrativo?",
-      "opciones": [
-        "a) Papel.",
-        "b) Electrónico.",
-        "c) Mixto.",
-        "d) Microfilm."
-      ],
-      "respuesta_correcta": "b) Electrónico."
-    },
-    {
-      "pregunta": "¿Qué sucede si un acto es dictado prescindiendo total y absolutamente del procedimiento legalmente establecido?",
-      "opciones": [
-        "a) Es anulable.",
-        "b) Es nulo de pleno derecho.",
-        "c) Es válido si el fondo es correcto.",
-        "d) Se subsana."
-      ],
-      "respuesta_correcta": "b) Es nulo de pleno derecho."
-    },
-    {
-      "pregunta": "¿Qué principio rige la actuación de la Administración General del Estado?",
-      "opciones": [
-        "a) El beneficio económico.",
-        "b) Eficacia, jerarquía, descentralización, desconcentración y coordinación.",
-        "c) La lentitud.",
-        "d) La opacidad."
-      ],
-      "respuesta_correcta": "b) Eficacia, jerarquía, descentralización, desconcentración y coordinación."
-    },
-    {
-      "pregunta": "¿Qué es un órgano jerárquicamente superior?",
-      "opciones": [
-        "a) El que manda.",
-        "b) El que dirige, controla e instruye al inferior.",
-        "c) El más antiguo.",
-        "d) El que gana más."
-      ],
-      "respuesta_correcta": "b) El que dirige, controla e instruye al inferior."
-    },
-    {
-      "pregunta": "¿Qué es la 'desconcentración'?",
-      "opciones": [
-        "a) Perder la atención.",
-        "b) Transferir la titularidad y el ejercicio de competencias de un órgano superior a uno inferior de la misma Administración.",
-        "c) Delegar.",
-        "d) Privatizar."
-      ],
-      "respuesta_correcta": "b) Transferir la titularidad y el ejercicio de competencias de un órgano superior a uno inferior de la misma Administración."
-    },
-    {
-      "pregunta": "¿Qué implica el principio de 'lealtad institucional'?",
-      "opciones": [
-        "a) Obedecer siempre.",
-        "b) Respetar el ejercicio de competencias de otras Administraciones y colaborar con ellas.",
-        "c) No criticar.",
-        "d) Usar el mismo logo."
-      ],
-      "respuesta_correcta": "b) Respetar el ejercicio de competencias de otras Administraciones y colaborar con ellas."
-    },
-    {
-      "pregunta": "¿Qué recurso cabe contra una resolución que agota la vía administrativa?",
-      "opciones": [
-        "a) Alzada.",
-        "b) Potestativo de reposición o contencioso-administrativo.",
-        "c) Queja.",
-        "d) Ninguno."
-      ],
-      "respuesta_correcta": "b) Potestativo de reposición o contencioso-administrativo."
-    },
-    {
-      "pregunta": "¿Qué plazo hay para resolver el recurso de reposición?",
-      "opciones": [
-        "a) 1 mes.",
-        "b) 3 meses.",
-        "c) 6 meses.",
-        "d) 10 días."
-      ],
-      "respuesta_correcta": "a) 1 mes."
-    },
-    {
-      "pregunta": "¿Quién puede solicitar la 'tramitación de urgencia'?",
-      "opciones": [
-        "a) El interesado o el órgano de oficio.",
-        "b) Solo el juez.",
-        "c) Solo el Ministro.",
-        "d) Nadie."
-      ],
-      "respuesta_correcta": "a) El interesado o el órgano de oficio."
-    },
-    {
-      "pregunta": "¿Qué efecto tiene la tramitación de urgencia sobre los plazos?",
-      "opciones": [
-        "a) Se duplican.",
-        "b) Se reducen a la mitad (salvo presentación de solicitudes y recursos).",
-        "c) Se eliminan.",
-        "d) No afecta."
-      ],
-      "respuesta_correcta": "b) Se reducen a la mitad (salvo presentación de solicitudes y recursos)."
-    },
-    {
-      "pregunta": "¿Qué es el 'trámite de audiencia'?",
-      "opciones": [
-        "a) Un juicio.",
-        "b) La oportunidad del interesado de alegar y presentar documentos antes de la propuesta de resolución.",
-        "c) Escuchar música.",
-        "d) Leer la sentencia."
-      ],
-      "respuesta_correcta": "b) La oportunidad del interesado de alegar y presentar documentos antes de la propuesta de resolución."
-    },
-    {
-      "pregunta": "¿Cuándo se puede prescindir del trámite de audiencia?",
-      "opciones": [
-        "a) Nunca.",
-        "b) Cuando no figuren en el procedimiento ni sean tenidos en cuenta otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado.",
-        "c) Si hay prisa.",
-        "d) Si el interesado es extranjero."
-      ],
-      "respuesta_correcta": "b) Cuando no figuren en el procedimiento ni sean tenidos en cuenta otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado."
-    },
-    {
-      "pregunta": "¿Qué es la 'información pública'?",
-      "opciones": [
-        "a) Las noticias.",
-        "b) Un trámite para que cualquier persona pueda examinar el expediente y alegar.",
-        "c) La publicidad institucional.",
-        "d) El BOE."
-      ],
-      "respuesta_correcta": "b) Un trámite para que cualquier persona pueda examinar el expediente y alegar."
-    },
-    {
-      "pregunta": "¿Qué plazo mínimo debe tener la información pública?",
-      "opciones": [
-        "a) 10 días.",
-        "b) 20 días.",
-        "c) 1 mes.",
-        "d) 15 días."
-      ],
-      "respuesta_correcta": "b) 20 días."
-    },
-    {
-      "pregunta": "¿Qué debe contener la resolución de un procedimiento?",
-      "opciones": [
-        "a) Solo el fallo.",
-        "b) La decisión, motivación (cuando proceda), recursos que caben, plazo y órgano ante el que interponerlos.",
-        "c) Una firma ilegible.",
-        "d) El nombre del Rey."
-      ],
-      "respuesta_correcta": "b) La decisión, motivación (cuando proceda), recursos que caben, plazo y órgano ante el que interponerlos."
-    },
-    {
-      "pregunta": "¿Qué es el 'desistimiento'?",
-      "opciones": [
-        "a) Renunciar al derecho.",
-        "b) Abandonar la solicitud (el procedimiento), pero no el derecho.",
-        "c) Perder el juicio.",
-        "d) No presentar papeles."
-      ],
-      "respuesta_correcta": "b) Abandonar la solicitud (el procedimiento), pero no el derecho."
-    },
-    {
-      "pregunta": "¿Qué es la 'renuncia'?",
-      "opciones": [
-        "a) Abandonar el derecho, si no está prohibido.",
-        "b) Abandonar el procedimiento.",
-        "c) No pagar.",
-        "d) Irse."
-      ],
-      "respuesta_correcta": "a) Abandonar el derecho, si no está prohibido."
-    },
-    {
-      "pregunta": "¿Qué es la 'caducidad' del procedimiento?",
-      "opciones": [
-        "a) Que el procedimiento termina por paralización imputable al interesado (tras advertencia) o por transcurso del plazo máximo para resolver en procedimientos de oficio desfavorables.",
-        "b) Que el acto es nulo.",
-        "c) Que prescriben los delitos.",
-        "d) Que se pudre el expediente."
-      ],
-      "respuesta_correcta": "a) Que el procedimiento termina por paralización imputable al interesado (tras advertencia) o por transcurso del plazo máximo para resolver en procedimientos de oficio desfavorables."
-    },
-    {
-      "pregunta": "¿Se puede suspender la ejecución de un acto recurrido?",
-      "opciones": [
-        "a) No, los actos son ejecutivos.",
-        "b) Sí, si la ejecución pudiera causar perjuicios de imposible o difícil reparación o si la impugnación se fundamenta en nulidad de pleno derecho (previa ponderación).",
-        "c) Sí, siempre que se pida.",
-        "d) Solo si hay fianza."
-      ],
-      "respuesta_correcta": "b) Sí, si la ejecución pudiera causar perjuicios de imposible o difícil reparación o si la impugnación se fundamenta en nulidad de pleno derecho (previa ponderación)."
-    },
-    {
-      "pregunta": "¿Qué es el 'recurso de revisión de oficio'?",
-      "opciones": [
-        "a) Un recurso judicial.",
-        "b) La potestad de la Administración para declarar la nulidad de sus propios actos firmes en casos de nulidad de pleno derecho.",
-        "c) Revisar un examen.",
-        "d) Cambiar de opinión."
-      ],
-      "respuesta_correcta": "b) La potestad de la Administración para declarar la nulidad de sus propios actos firmes en casos de nulidad de pleno derecho."
-    },
-    {
-      "pregunta": "¿Qué dictamen es preceptivo para la revisión de oficio?",
-      "opciones": [
-        "a) El del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma (favorable).",
-        "b) El del Ministerio Fiscal.",
-        "c) El del Defensor del Pueblo.",
-        "d) Ninguno."
-      ],
-      "respuesta_correcta": "a) El del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma (favorable)."
-    },
-    {
-      "pregunta": "¿Qué es la 'declaración de lesividad'?",
-      "opciones": [
-        "a) Declarar que alguien está herido.",
-        "b) El paso previo necesario para que la Administración pueda impugnar ante la justicia un acto propio favorable para el interesado que sea anulable.",
-        "c) Una multa.",
-        "d) Un recurso."
-      ],
-      "respuesta_correcta": "b) El paso previo necesario para que la Administración pueda impugnar ante la justicia un acto propio favorable para el interesado que sea anulable."
-    },
-    {
-      "pregunta": "¿Qué plazo hay para declarar la lesividad?",
-      "opciones": [
-        "a) 4 años desde que se dictó el acto.",
-        "b) 1 año.",
-        "c) 3 meses.",
-        "d) No caduca."
-      ],
-      "respuesta_correcta": "a) 4 años desde que se dictó el acto."
-    },
-    {
-      "pregunta": "¿Qué regula el Título Preliminar, Capítulo V de la Ley 40/2015?",
-      "opciones": [
-        "a) Los convenios.",
-        "b) El funcionamiento electrónico del sector público.",
-        "c) La responsabilidad patrimonial.",
-        "d) Las sanciones."
-      ],
-      "respuesta_correcta": "b) El funcionamiento electrónico del sector público."
-    },
-    {
-      "pregunta": "¿Deben las Administraciones mantener un directorio geográfico de oficinas?",
-      "opciones": [
-        "a) Sí, actualizado (Oficinas de Asistencia).",
-        "b) No.",
-        "c) Solo en papel.",
-        "d) Solo de las centrales."
-      ],
-      "respuesta_correcta": "a) Sí, actualizado (Oficinas de Asistencia)."
-    }
-  ]
-}]
+[[
+  {
+    "tema": "TEMA 5.- DERECHO ADMINISTRATIVO (BLOQUE 1/3)",
+    "descripcion": "Batería de alta dificultad sobre Ley 39/2015 (Títulos I y II). Anti-patrón de respuesta larga y opciones equilibradas.",
+    "preguntas": [
+      {
+        "pregunta": "Según el artículo 4 de la Ley 39/2015, ¿quiénes tienen la consideración de interesados en el procedimiento administrativo?",
+        "opciones": [
+          "a) Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos, y aquellos que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.",
+          "b) Exclusivamente quienes lo promuevan como titulares de derechos subjetivos directos, quedando excluidos los titulares de intereses legítimos salvo que se personen antes de la resolución definitiva.",
+          "c) Quienes tengan capacidad de obrar ante las Administraciones Públicas y residan en el territorio nacional, así como las personas jurídicas que tengan su domicilio fiscal en España.",
+          "d) Todos los ciudadanos que, en ejercicio de la acción popular, decidan personarse en cualquier procedimiento administrativo sancionador para velar por la legalidad vigente."
+        ],
+        "respuesta_correcta": "b) Exclusivamente quienes lo promuevan como titulares de derechos subjetivos directos, quedando excluidos los titulares de intereses legítimos salvo que se personen antes de la resolución definitiva.",
+        "cita": "Ley 39/2015, Art. 4.1"
+      },
+      {
+        "pregunta": "Respecto a la representación (Art. 5 Ley 39/2015), ¿cuándo se presume la representación para los actos y gestiones de mero trámite?",
+        "opciones": [
+          "a) La representación se presumirá para los actos y gestiones de mero trámite, mientras que para formular solicitudes, presentar declaraciones responsables o alegaciones se requerirá acreditación expresa.",
+          "b) Se presumirá únicamente cuando el representante sea un gestor administrativo colegiado o un abogado en ejercicio, debiendo acreditarse en los demás casos mediante poder notarial.",
+          "c) La representación deberá acreditarse siempre, incluso para los actos de mero trámite, mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia.",
+          "d) Solo se presumirá cuando exista un parentesco de consanguinidad hasta el segundo grado entre representante e interesado, o cuando ambos comparezcan personalmente."
+        ],
+        "respuesta_correcta": "a) La representación se presumirá para los actos y gestiones de mero trámite, mientras que para formular solicitudes, presentar declaraciones responsables o alegaciones se requerirá acreditación expresa.",
+        "cita": "Ley 39/2015, Art. 5.3"
+      },
+      {
+        "pregunta": "¿Cómo deben acreditarse los poderes inscritos en el Registro Electrónico de Apoderamientos según el artículo 6?",
+        "opciones": [
+          "a) No será necesario acreditar la representación si el poder está inscrito, ya que el órgano administrativo deberá consultar obligatoriamente el Registro Electrónico de Apoderamientos.",
+          "b) Deberá acompañarse siempre una copia auténtica del poder notarial, independientemente de que esté inscrito o no en el Registro, para su cotejo por el funcionario.",
+          "c) Bastará con una declaración responsable del representante indicando que el poder se encuentra vigente y no ha sido revocado por el poderdante.",
+          "d) La inscripción en el Registro Electrónico es constitutiva, por lo que el poder no surtirá efectos frente a terceros hasta que no sea validado por la Administración General del Estado."
+        ],
+        "respuesta_correcta": "d) La inscripción en el Registro Electrónico es constitutiva, por lo que el poder no surtirá efectos frente a terceros hasta que no sea validado por la Administración General del Estado.",
+        "cita": "Ley 39/2015, Art. 6"
+      },
+      {
+        "pregunta": "En caso de pluralidad de interesados (Art. 7), ¿con quién se efectuarán las actuaciones si no hay un representante expresamente designado?",
+        "opciones": [
+          "a) Con el interesado que figure en primer término en la solicitud, escrito o comunicación, salvo que los interesados hayan designado a otro distinto en el mismo escrito.",
+          "b) Con todos y cada uno de los interesados, debiendo notificarse individualmente cada acto administrativo para no causar indefensión.",
+          "c) Con el interesado de mayor edad o antigüedad en el procedimiento, presumiéndose que ostenta la representación tácita del resto del grupo.",
+          "d) La Administración requerirá a los interesados para que designen un representante en el plazo de diez días, archivándose el expediente si no lo hacen."
+        ],
+        "respuesta_correcta": "c) Con el interesado de mayor edad o antigüedad en el procedimiento, presumiéndose que ostenta la representación tácita del resto del grupo.",
+        "cita": "Ley 39/2015, Art. 7"
+      },
+      {
+        "pregunta": "Según el artículo 9, ¿qué sistemas de identificación son admitidos para los interesados en el procedimiento?",
+        "opciones": [
+          "a) Sistemas basados en certificados electrónicos cualificados de firma electrónica, sistemas de sello electrónico cualificado y sistemas de clave concertada y otros que las Administraciones consideren válidos.",
+          "b) Exclusivamente el Documento Nacional de Identidad electrónico (DNIe) y los certificados emitidos por la Fábrica Nacional de Moneda y Timbre.",
+          "c) Únicamente la firma manuscrita digitalizada y los sistemas biométricos de reconocimiento facial o dactilar homologados por el Ministerio del Interior.",
+          "d) Cualquier sistema que permita acreditar la identidad, siempre que sea validado presencialmente por un funcionario público en una oficina de registro."
+        ],
+        "respuesta_correcta": "a) Sistemas basados en certificados electrónicos cualificados de firma electrónica, sistemas de sello electrónico cualificado y sistemas de clave concertada y otros que las Administraciones consideren válidos.",
+        "cita": "Ley 39/2015, Art. 9.2"
+      },
+      {
+        "pregunta": "¿Cuándo es obligatorio el uso de medios electrónicos para relacionarse con las Administraciones Públicas (Art. 14)?",
+        "opciones": [
+          "a) Para las personas jurídicas, entidades sin personalidad jurídica, profesionales de colegiación obligatoria y empleados públicos en sus funciones, entre otros.",
+          "b) Para todos los ciudadanos mayores de edad que dispongan de conexión a internet y dispositivos compatibles, salvo los mayores de 65 años.",
+          "c) Únicamente para las empresas que facturen más de un millón de euros anuales y para los contratistas del sector público.",
+          "d) Es voluntario para todos los sujetos salvo que una Ley específica establezca lo contrario para procedimientos tributarios o de seguridad social."
+        ],
+        "respuesta_correcta": "c) Únicamente para las empresas que facturen más de un millón de euros anuales y para los contratistas del sector público.",
+        "cita": "Ley 39/2015, Art. 14.2"
+      },
+      {
+        "pregunta": "Según el artículo 21, ¿cuál es la obligación de la Administración respecto a la resolución?",
+        "opciones": [
+          "a) La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación.",
+          "b) La obligación se limita a dictar resolución expresa, entendiéndose notificada por el transcurso del plazo máximo establecido si no se recibe comunicación.",
+          "c) Solo está obligada a resolver expresamente en los procedimientos iniciados de oficio, pudiendo operar el silencio administrativo en los iniciados a solicitud del interesado.",
+          "d) Debe resolver expresamente salvo en los supuestos de terminación del procedimiento por pacto o convenio, donde bastará la firma del acuerdo."
+        ],
+        "respuesta_correcta": "b) La obligación se limita a dictar resolución expresa, entendiéndose notificada por el transcurso del plazo máximo establecido si no se recibe comunicación.",
+        "cita": "Ley 39/2015, Art. 21.1"
+      },
+      {
+        "pregunta": "¿Cuál es el plazo máximo general para notificar la resolución expresa si la norma reguladora no fija uno específico (Art. 21.3)?",
+        "opciones": [
+          "a) Será de tres meses.",
+          "b) Será de seis meses.",
+          "c) Será de un mes.",
+          "d) Será de diez días."
+        ],
+        "respuesta_correcta": "d) Será de diez días.",
+        "cita": "Ley 39/2015, Art. 21.3"
+      },
+      {
+        "pregunta": "¿Qué efecto tiene el silencio administrativo en los procedimientos iniciados a solicitud del interesado (Art. 24)?",
+        "opciones": [
+          "a) El silencio tendrá efecto estimatorio salvo que una norma con rango de ley o norma de Derecho de la UE establezca lo contrario, o en casos específicos como derecho de petición o dominio público.",
+          "b) El silencio será siempre desestimatorio para garantizar la seguridad jurídica y evitar la adquisición de derechos contrarios al ordenamiento jurídico.",
+          "c) El silencio tendrá efecto estimatorio únicamente en los procedimientos de responsabilidad patrimonial y en los de revisión de oficio iniciados a solicitud del interesado.",
+          "d) El vencimiento del plazo máximo sin haberse notificado resolución expresa legitima al interesado para entenderla desestimada en todo caso, salvo en procedimientos sancionadores."
+        ],
+        "respuesta_correcta": "a) El silencio tendrá efecto estimatorio salvo que una norma con rango de ley o norma de Derecho de la UE establezca lo contrario, o en casos específicos como derecho de petición o dominio público.",
+        "cita": "Ley 39/2015, Art. 24.1"
+      },
+      {
+        "pregunta": "En los procedimientos iniciados de oficio, ¿qué efecto produce el vencimiento del plazo máximo sin resolución (Art. 25)?",
+        "opciones": [
+          "a) En los procedimientos de los que pudiera derivarse el reconocimiento de derechos, el silencio será desestimatorio; en los sancionadores, producirá la caducidad.",
+          "b) Producirá siempre la caducidad del procedimiento, debiendo ordenarse el archivo de las actuaciones en todos los casos.",
+          "c) El silencio será estimatorio en los procedimientos favorables y desestimatorio en los de gravamen o sancionadores.",
+          "d) Habilitará al interesado para interponer recurso de alzada o contencioso-administrativo, sin que se produzca la caducidad en ningún caso."
+        ],
+        "respuesta_correcta": "b) Producirá siempre la caducidad del procedimiento, debiendo ordenarse el archivo de las actuaciones en todos los casos.",
+        "cita": "Ley 39/2015, Art. 25.1"
+      },
+      {
+        "pregunta": "Respecto al cómputo de plazos por horas (Art. 30.1), ¿cómo se cuentan?",
+        "opciones": [
+          "a) Se entienden hechas a horas hábiles, siendo hábiles todas las horas del día que formen parte de un día hábil, y se contarán de hora en hora y de minuto en minuto.",
+          "b) Se computarán de momento a momento desde la notificación, incluyendo las horas inhábiles si el plazo es inferior a 24 horas.",
+          "c) Se contarán solo las horas de oficina o atención al público, excluyendo las horas nocturnas y los fines de semana.",
+          "d) Los plazos expresados por horas se considerarán siempre como días completos, computándose desde el día siguiente a la notificación."
+        ],
+        "respuesta_correcta": "d) Los plazos expresados por horas se considerarán siempre como días completos, computándose desde el día siguiente a la notificación.",
+        "cita": "Ley 39/2015, Art. 30.1"
+      },
+      {
+        "pregunta": "¿Qué días se consideran inhábiles a efectos de cómputo de plazos según el artículo 30.2?",
+        "opciones": [
+          "a) Los sábados, los domingos y los declarados festivos.",
+          "b) Únicamente los domingos y los festivos nacionales, autonómicos o locales.",
+          "c) Los domingos y festivos, considerándose el sábado día hábil salvo disposición en contrario.",
+          "d) Todos los días del mes de agosto a efectos judiciales y administrativos, salvo procedimientos de urgencia."
+        ],
+        "respuesta_correcta": "d) Todos los días del mes de agosto a efectos judiciales y administrativos, salvo procedimientos de urgencia.",
+        "cita": "Ley 39/2015, Art. 30.2"
+      },
+      {
+        "pregunta": "¿Cómo se computan los plazos señalados en meses o años (Art. 30.4)?",
+        "opciones": [
+          "a) Se computarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación, y concluirán el mismo día en que se produjo la notificación en el mes o año de vencimiento.",
+          "b) Se computarán de fecha a fecha, iniciándose el cómputo el mismo día de la notificación y finalizando el día anterior en el mes de vencimiento.",
+          "c) Se contarán por días naturales de 30 días para los meses y de 365 días para los años, sin excluir los inhábiles.",
+          "d) Si en el mes de vencimiento no hubiera día equivalente, se entenderá que el plazo expira el primer día hábil del mes siguiente."
+        ],
+        "respuesta_correcta": "a) Se computarán a partir del día siguiente a aquel en que tenga lugar la notificación o publicación, y concluirán el mismo día en que se produjo la notificación en el mes o año de vencimiento.",
+        "cita": "Ley 39/2015, Art. 30.4"
+      },
+      {
+        "pregunta": "¿Qué ocurre si el último día del plazo es inhábil (Art. 30.5)?",
+        "opciones": [
+          "a) Se entenderá prorrogado al primer día hábil siguiente.",
+          "b) El plazo finaliza el día hábil inmediatamente anterior.",
+          "c) Se considerará vencido ese mismo día, debiendo presentarse el escrito en un registro electrónico.",
+          "d) Se amplía el plazo automáticamente en tres días naturales adicionales."
+        ],
+        "respuesta_correcta": "a) Se entenderá prorrogado al primer día hábil siguiente.",
+        "cita": "Ley 39/2015, Art. 30.5"
+      },
+      {
+        "pregunta": "Según el artículo 31, ¿cómo funcionan los registros electrónicos a efectos de cómputo de plazos?",
+        "opciones": [
+          "a) Se regirán por la fecha y hora oficial de la sede electrónica de acceso, que deberá contar con las medidas de seguridad necesarias para garantizar su integridad y visibilidad.",
+          "b) Se considerarán hábiles todos los días del año y todas las horas, sin excepción, para la presentación de documentos.",
+          "c) Se ajustarán a la hora del equipo del usuario que realiza la presentación para evitar discrepancias por husos horarios.",
+          "d) Solo admitirán presentaciones en días hábiles, rechazando automáticamente las realizadas en sábados, domingos o festivos."
+        ],
+        "respuesta_correcta": "a) Se regirán por la fecha y hora oficial de la sede electrónica de acceso, que deberá contar con las medidas de seguridad necesarias para garantizar su integridad y visibilidad.",
+        "cita": "Ley 39/2015, Art. 31.2"
+      },
+      {
+        "pregunta": "¿Qué sucede si un día es hábil en el municipio del interesado pero inhábil en la sede del órgano administrativo (Art. 30.6)?",
+        "opciones": [
+          "a) Se considerará inhábil a todos los efectos.",
+          "b) Se considerará hábil, debiendo el interesado desplazarse o utilizar el registro electrónico.",
+          "c) El plazo se reducirá en un día para compensar la discrepancia de calendarios.",
+          "d) Se aplicará el calendario de la Administración General del Estado por defecto."
+        ],
+        "respuesta_correcta": "c) El plazo se reducirá en un día para compensar la discrepancia de calendarios.",
+        "cita": "Ley 39/2015, Art. 30.6"
+      },
+      {
+        "pregunta": "¿Se pueden ampliar los plazos establecidos? (Art. 32)",
+        "opciones": [
+          "a) Sí, la Administración podrá conceder una ampliación de los plazos, de oficio o a petición de los interesados, que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y no se perjudican derechos de tercero.",
+          "b) Sí, siempre que la ampliación sea solicitada antes de los últimos tres días del plazo y por un periodo igual al original.",
+          "c) No, los plazos administrativos son improrrogables salvo fuerza mayor debidamente acreditada.",
+          "d) Sí, se pueden ampliar hasta el doble del plazo inicial en los procedimientos complejos o de gran volumen documental."
+        ],
+        "respuesta_correcta": "c) No, los plazos administrativos son improrrogables salvo fuerza mayor debidamente acreditada.",
+        "cita": "Ley 39/2015, Art. 32.1"
+      },
+      {
+        "pregunta": "¿Qué recurso cabe contra el acuerdo que declare la aplicación de la tramitación de urgencia (Art. 33)?",
+        "opciones": [
+          "a) No cabrá recurso alguno, sin perjuicio del procedente contra la resolución que ponga fin al procedimiento.",
+          "b) Cabrá recurso de alzada ante el superior jerárquico en el plazo de tres días.",
+          "c) Cabrá recurso potestativo de reposición previo a la vía contencioso-administrativa.",
+          "d) Podrá impugnarse separadamente si la urgencia no está debidamente motivada en el expediente."
+        ],
+        "respuesta_correcta": "b) Cabrá recurso de alzada ante el superior jerárquico en el plazo de tres días.",
+        "cita": "Ley 39/2015, Art. 33.2"
+      },
+      {
+        "pregunta": "Respecto a la presentación de documentos (Art. 16.4), ¿dónde pueden presentarse?",
+        "opciones": [
+          "a) En el registro electrónico de la Administración u Organismo, en las oficinas de Correos, en las representaciones diplomáticas u oficinas consulares de España en el extranjero, en las oficinas de asistencia en materia de registros o en cualquier otro que establezcan las disposiciones vigentes.",
+          "b) Exclusivamente en el registro electrónico de la Administración competente o en sus oficinas físicas centrales.",
+          "c) En cualquier registro público, incluyendo los de las universidades privadas y colegios profesionales.",
+          "d) Únicamente en las oficinas de Correos mediante correo administrativo certificado con acuse de recibo."
+        ],
+        "respuesta_correcta": "d) Únicamente en las oficinas de Correos mediante correo administrativo certificado con acuse de recibo.",
+        "cita": "Ley 39/2015, Art. 16.4"
+      },
+      {
+        "pregunta": "¿Qué documentos deben emitir las oficinas de registro al recibir una solicitud (Art. 16.3)?",
+        "opciones": [
+          "a) Expedirán un recibo que acredite la fecha y hora de presentación, que podrá ser una copia autenticada del documento de que se trate.",
+          "b) Emitirán un certificado de silencio positivo condicionado a la no resolución en plazo.",
+          "c) Entregarán un número de seguimiento provisional hasta la admisión a trámite de la solicitud.",
+          "d) Sellarán la primera página del escrito original, quedándose con una copia simple para su archivo."
+        ],
+        "respuesta_correcta": "a) Expedirán un recibo que acredite la fecha y hora de presentación, que podrá ser una copia autenticada del documento de que se trate.",
+        "cita": "Ley 39/2015, Art. 16.3"
+      },
+      {
+        "pregunta": "¿En qué lengua deben tramitarse los procedimientos administrativos según el artículo 15?",
+        "opciones": [
+          "a) En castellano, si bien los interesados podrán dirigirse a los órganos de la Administración General del Estado con sede en el territorio de una Comunidad Autónoma en la lengua cooficial.",
+          "b) Exclusivamente en castellano, salvo que todos los interesados acuerden utilizar una lengua extranjera de la Unión Europea.",
+          "c) En la lengua cooficial de la Comunidad Autónoma donde radique el órgano instructor, debiendo traducirse al castellano solo si hay interesados de otras comunidades.",
+          "d) Indistintamente en castellano o en cualquier lengua cooficial, debiendo la Administración traducir todos los documentos de oficio."
+        ],
+        "respuesta_correcta": "a) En castellano, si bien los interesados podrán dirigirse a los órganos de la Administración General del Estado con sede en el territorio de una Comunidad Autónoma en la lengua cooficial.",
+        "cita": "Ley 39/2015, Art. 15.1"
+      },
+      {
+        "pregunta": "¿Qué validez tienen las copias auténticas de documentos públicos administrativos (Art. 27)?",
+        "opciones": [
+          "a) Tienen la misma validez y eficacia que los documentos originales.",
+          "b) Tienen valor meramente informativo salvo que sean compulsadas ante notario.",
+          "c) Solo tienen validez dentro del procedimiento para el que se expidieron, no pudiendo utilizarse en otros.",
+          "d) Su validez caduca a los seis meses de su expedición si no se incorporan a un expediente judicial."
+        ],
+        "respuesta_correcta": "b) Tienen valor meramente informativo salvo que sean compulsadas ante notario.",
+        "cita": "Ley 39/2015, Art. 27.2"
+      },
+      {
+        "pregunta": "¿Cuándo pueden los interesados aportar documentos al procedimiento (Art. 28)?",
+        "opciones": [
+          "a) Tienen derecho a aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia.",
+          "b) Solo pueden aportar documentos en el momento de iniciar el procedimiento mediante la solicitud.",
+          "c) Pueden aportar documentos hasta que se dicte la propuesta de resolución definitiva.",
+          "d) Deben aportar todos los documentos en el plazo de subsanación de diez días, precluyendo su derecho posteriormente."
+        ],
+        "respuesta_correcta": "c) Pueden aportar documentos hasta que se dicte la propuesta de resolución definitiva.",
+        "cita": "Ley 39/2015, Art. 53.1.e (Ref. Art. 28)"
+      },
+      {
+        "pregunta": "¿Están obligados los interesados a aportar documentos que ya obren en poder de la Administración (Art. 28.2)?",
+        "opciones": [
+          "a) No, tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración.",
+          "b) Sí, deben aportarlos siempre para garantizar la integridad del expediente y facilitar la labor del instructor.",
+          "c) Sí, salvo que se trate de documentos de identidad o empadronamiento, que la Administración consultará de oficio.",
+          "d) No, pero deben indicar en qué expediente y fecha los presentaron para que la Administración pueda localizarlos manualmente."
+        ],
+        "respuesta_correcta": "a) No, tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración.",
+        "cita": "Ley 39/2015, Art. 28.2"
+      },
+      {
+        "pregunta": "Respecto a la comparecencia de los ciudadanos (Art. 19), ¿cuándo es obligatoria?",
+        "opciones": [
+          "a) Solo será obligatoria cuando así esté previsto en una norma con rango de ley.",
+          "b) Es obligatoria siempre que la Administración lo requiera formalmente mediante notificación fehaciente.",
+          "c) Es obligatoria en los procedimientos sancionadores y de inspección tributaria.",
+          "d) Es voluntaria en todos los casos, pudiendo el ciudadano optar por la comunicación escrita o electrónica."
+        ],
+        "respuesta_correcta": "d) Es voluntaria en todos los casos, pudiendo el ciudadano optar por la comunicación escrita o electrónica.",
+        "cita": "Ley 39/2015, Art. 19.1"
+      },
+      {
+        "pregunta": "¿Quién asume la responsabilidad de la tramitación de los procedimientos (Art. 20)?",
+        "opciones": [
+          "a) Los titulares de las unidades administrativas y el personal al servicio de las Administraciones Públicas que tuviesen a su cargo la resolución o el despacho de los asuntos.",
+          "b) Exclusivamente los Jefes de Servicio y Subdirectores Generales designados como instructores.",
+          "c) El órgano competente para resolver, que responderá solidariamente con el instructor del expediente.",
+          "d) La Administración como ente abstracto, sin que pueda exigirse responsabilidad individual al funcionario tramitador."
+        ],
+        "respuesta_correcta": "b) Exclusivamente los Jefes de Servicio y Subdirectores Generales designados como instructores.",
+        "cita": "Ley 39/2015, Art. 20.1"
+      },
+      {
+        "pregunta": "¿Qué es el Archivo Electrónico Único (Art. 17)?",
+        "opciones": [
+          "a) Es el sistema donde cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados.",
+          "b) Es una base de datos centralizada del Ministerio de Hacienda donde se almacenan todas las solicitudes ciudadanas.",
+          "c) Es el repositorio temporal de documentos en trámite antes de su paso al archivo histórico en papel.",
+          "d) Es la copia de seguridad en la nube de todos los servidores públicos para evitar la pérdida de datos."
+        ],
+        "respuesta_correcta": "c) Es el repositorio temporal de documentos en trámite antes de su paso al archivo histórico en papel.",
+        "cita": "Ley 39/2015, Art. 17.1"
+      },
+      {
+        "pregunta": "¿Qué requisito deben cumplir los documentos electrónicos para ser válidos (Art. 26)?",
+        "opciones": [
+          "a) Contener información de cualquier naturaleza, haberse generado mediante un soporte electrónico en un formato determinado e incorporar una firma electrónica reconocida o cualificada y metadatos mínimos.",
+          "b) Estar en formato PDF/A y firmados manualmente antes de su digitalización certificada.",
+          "c) Haber sido creados originalmente en papel y escaneados con resolución mínima de 300 ppp.",
+          "d) Estar alojados en servidores ubicados dentro del Espacio Económico Europeo y cifrados con clave asimétrica."
+        ],
+        "respuesta_correcta": "c) Haber sido creados originalmente en papel y escaneados con resolución mínima de 300 ppp.",
+        "cita": "Ley 39/2015, Art. 26.1"
+      },
+      {
+        "pregunta": "¿Cuándo se considera válida una notificación electrónica (Art. 43)?",
+        "opciones": [
+          "a) Cuando conste la puesta a disposición en la sede electrónica y el acceso por el interesado o, si no accede, por el transcurso de diez días naturales desde la puesta a disposición.",
+          "b) Cuando el interesado envíe un correo electrónico de confirmación de lectura al órgano emisor.",
+          "c) En el momento en que se deposita en el buzón virtual, independientemente de si el interesado accede o no.",
+          "d) Solo cuando se descarga el documento completo y se verifica la integridad de la firma electrónica."
+        ],
+        "respuesta_correcta": "c) En el momento en que se deposita en el buzón virtual, independientemente de si el interesado accede o no.",
+        "cita": "Ley 39/2015, Art. 43.2"
+      },
+      {
+        "pregunta": "¿Qué ocurre con las notificaciones en papel si el interesado está obligado a recibirlas electrónicamente (Art. 41.1)?",
+        "opciones": [
+          "a) Se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía.",
+          "b) Serán válidas si se realizan en papel y el interesado las acepta voluntariamente.",
+          "c) Se entenderán no practicadas y el procedimiento caducará si no se subsana el error en diez días.",
+          "d) La Administración podrá elegir discrecionalmente el medio de notificación más rápido y eficaz."
+        ],
+        "respuesta_correcta": "a) Se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía.",
+        "cita": "Ley 39/2015, Art. 41.1"
+      },
+      {
+        "pregunta": "¿Qué plazo tiene la Administración para expedir copias auténticas solicitadas por los interesados (Art. 27)?",
+        "opciones": [
+          "a) Deberá expedirlas en el plazo de quince días a contar desde la recepción de la solicitud en el registro electrónico.",
+          "b) El plazo será de un mes, ampliable por otro mes si el volumen de copias es elevado.",
+          "c) Se expedirán en el momento de la solicitud si es presencial, o en 24 horas si es telemática.",
+          "d) No existe un plazo específico, aplicándose el genérico de tres meses para resolver."
+        ],
+        "respuesta_correcta": "b) El plazo será de un mes, ampliable por otro mes si el volumen de copias es elevado.",
+        "cita": "Ley 39/2015, Art. 27.4"
+      },
+      {
+        "pregunta": "¿Qué es la 'declaración responsable' según el artículo 69?",
+        "opciones": [
+          "a) El documento suscrito por un interesado en el que manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad.",
+          "b) La comunicación previa que realiza el interesado para informar del inicio de una actividad económica no sujeta a licencia.",
+          "c) El juramento prestado ante notario de que los datos aportados en la solicitud son ciertos y veraces.",
+          "d) La solicitud formal de autorización administrativa que permite el inicio de la actividad tras el silencio positivo."
+        ],
+        "respuesta_correcta": "a) El documento suscrito por un interesado en el que manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad.",
+        "cita": "Ley 39/2015, Art. 69.1"
+      },
+      {
+        "pregunta": "¿Qué efectos tiene la inexactitud, falsedad u omisión en una declaración responsable (Art. 69.4)?",
+        "opciones": [
+          "a) Determinará la imposibilidad de continuar con el ejercicio del derecho o actividad afectada desde el momento en que se tenga constancia de tales hechos, sin perjuicio de las responsabilidades penales, civiles o administrativas.",
+          "b) Supondrá una multa administrativa leve, permitiéndose la subsanación en el plazo de diez días para continuar la actividad.",
+          "c) No tendrá efectos suspensivos sobre la actividad, pero obligará al interesado a indemnizar a la Administración por los daños causados.",
+          "d) Anulará el procedimiento desde el inicio, debiendo el interesado presentar una nueva solicitud con los datos correctos."
+        ],
+        "respuesta_correcta": "b) Supondrá una multa administrativa leve, permitiéndose la subsanación en el plazo de diez días para continuar la actividad.",
+        "cita": "Ley 39/2015, Art. 69.4"
+      },
+      {
+        "pregunta": "¿Se puede suspender el plazo máximo para resolver? (Art. 22)",
+        "opciones": [
+          "a) Sí, podrá suspenderse en determinados supuestos, como cuando se requiera a cualquier interesado para la subsanación de deficiencias o se deban solicitar informes preceptivos.",
+          "b) No, el plazo máximo es improrrogable y su incumplimiento genera siempre silencio positivo.",
+          "c) Sí, pero solo por decisión judicial cuando exista un litigio pendiente que afecte al fondo del asunto.",
+          "d) Sí, automáticamente en el mes de agosto por vacaciones del personal administrativo."
+        ],
+        "respuesta_correcta": "c) Sí, pero solo por decisión judicial cuando exista un litigio pendiente que afecte al fondo del asunto.",
+        "cita": "Ley 39/2015, Art. 22.1"
+      },
+      {
+        "pregunta": "¿Qué son las medidas provisionales (Art. 56)?",
+        "opciones": [
+          "a) Aquellas que el órgano administrativo competente podrá adoptar, de oficio o a instancia de parte, para asegurar la eficacia de la resolución que pudiera recaer, si existen elementos de juicio suficientes.",
+          "b) Las sanciones cautelares que se imponen antes de iniciar el procedimiento para evitar la continuidad de la infracción.",
+          "c) Las decisiones definitivas que se toman al inicio del procedimiento y que no pueden ser modificadas posteriormente.",
+          "d) Las fianzas económicas que debe depositar el interesado para garantizar el pago de la futura multa."
+        ],
+        "respuesta_correcta": "c) Las decisiones definitivas que se toman al inicio del procedimiento y que no pueden ser modificadas posteriormente.",
+        "cita": "Ley 39/2015, Art. 56.1"
+      },
+      {
+        "pregunta": "Según el artículo 34 de la Ley 39/2015, ¿qué contenido deben tener los actos administrativos?",
+        "opciones": [
+          "a) El contenido de los actos se ajustará a lo dispuesto por el ordenamiento jurídico y será determinado y adecuado a los fines de aquellos.",
+          "b) Deben contener siempre una parte dispositiva clara y concisa, una motivación sucinta y la indicación de los recursos procedentes.",
+          "c) El contenido será siempre motivado y se ajustará a los principios de proporcionalidad, eficacia y eficiencia administrativa.",
+          "d) Deben ser congruentes con las peticiones formuladas por los interesados, sin que en ningún caso puedan agravar su situación inicial."
+        ],
+        "respuesta_correcta": "d) Deben ser congruentes con las peticiones formuladas por los interesados, sin que en ningún caso puedan agravar su situación inicial.",
+        "cita": "Ley 39/2015, Art. 34.1"
+      },
+      {
+        "pregunta": "¿Cuándo es necesaria la motivación de los actos administrativos según el artículo 35?",
+        "opciones": [
+          "a) En todos los actos administrativos dictados por órganos de la Administración General del Estado, salvo los de mero trámite.",
+          "b) Cuando limiten derechos subjetivos o intereses legítimos, resuelvan procedimientos de revisión de oficio, se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos, entre otros.",
+          "c) Únicamente cuando pongan fin a la vía administrativa o cuando resuelvan recursos de alzada o reposición.",
+          "d) Siempre que se trate de actos discrecionales, sancionadores o de responsabilidad patrimonial, no siendo necesaria en los actos reglados."
+        ],
+        "respuesta_correcta": "d) Siempre que se trate de actos discrecionales, sancionadores o de responsabilidad patrimonial, no siendo necesaria en los actos reglados.",
+        "cita": "Ley 39/2015, Art. 35.1"
+      },
+      {
+        "pregunta": "Respecto a la eficacia de los actos administrativos (Art. 39), ¿cuándo se presume?",
+        "opciones": [
+          "a) Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
+          "b) La eficacia quedará demorada en todo caso hasta que se produzca la notificación o publicación legalmente preceptiva.",
+          "c) Se presumirán válidos desde su firma, pero no producirán efectos frente a terceros hasta que sean firmes en vía administrativa.",
+          "d) La eficacia retroactiva será la norma general, salvo que el acto limite derechos o imponga obligaciones a los interesados."
+        ],
+        "respuesta_correcta": "c) Se presumirán válidos desde su firma, pero no producirán efectos frente a terceros hasta que sean firmes en vía administrativa.",
+        "cita": "Ley 39/2015, Art. 39.1"
+      },
+      {
+        "pregunta": "¿En qué supuestos puede otorgarse eficacia retroactiva a los actos administrativos (Art. 39.3)?",
+        "opciones": [
+          "a) Excepcionalmente, cuando se dicten en sustitución de actos anulados, así como cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia.",
+          "b) Siempre que beneficien al interesado y no lesionen derechos o intereses legítimos de otras personas, sin necesidad de que los supuestos de hecho existieran previamente.",
+          "c) Nunca, la irretroactividad de los actos administrativos es un principio constitucional absoluto que no admite excepciones.",
+          "d) Cuando se trate de corregir errores materiales o aritméticos, o cuando la demora en el procedimiento sea imputable a la Administración."
+        ],
+        "respuesta_correcta": "a) Excepcionalmente, cuando se dicten en sustitución de actos anulados, así como cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia.",
+        "cita": "Ley 39/2015, Art. 39.3"
+      },
+      {
+        "pregunta": "¿Qué actos son nulos de pleno derecho según el artículo 47.1?",
+        "opciones": [
+          "a) Los que lesionen los derechos y libertades susceptibles de amparo constitucional.",
+          "b) Los que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.",
+          "c) Los dictados fuera del plazo máximo establecido para resolver el procedimiento.",
+          "d) Los que carezcan de los requisitos formales indispensables para alcanzar su fin o den lugar a la indefensión de los interesados."
+        ],
+        "respuesta_correcta": "c) Los dictados fuera del plazo máximo establecido para resolver el procedimiento.",
+        "cita": "Ley 39/2015, Art. 47.1.a"
+      },
+      {
+        "pregunta": "¿Qué vicio provoca la anulabilidad de un acto administrativo (Art. 48)?",
+        "opciones": [
+          "a) Cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.",
+          "b) La incompetencia manifiesta por razón de la materia o del territorio.",
+          "c) Tener un contenido imposible de ejecutar o ser constitutivo de infracción penal.",
+          "d) Haber sido dictado prescindiendo total y absolutamente del procedimiento legalmente establecido."
+        ],
+        "respuesta_correcta": "d) Haber sido dictado prescindiendo total y absolutamente del procedimiento legalmente establecido.",
+        "cita": "Ley 39/2015, Art. 48.1"
+      },
+      {
+        "pregunta": "¿El defecto de forma determina siempre la anulabilidad del acto (Art. 48.2)?",
+        "opciones": [
+          "a) No, solo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o de lugar a la indefensión de los interesados.",
+          "b) Sí, cualquier defecto formal, por leve que sea, vicia el acto y obliga a retrotraer las actuaciones al momento de la infracción.",
+          "c) No, los defectos de forma son siempre irregularidades no invalidantes que pueden ser subsanadas en cualquier momento.",
+          "d) Sí, salvo que el acto haya alcanzado su fin y el interesado no haya denunciado el defecto en el plazo de diez días."
+        ],
+        "respuesta_correcta": "d) Sí, salvo que el acto haya alcanzado su fin y el interesado no haya denunciado el defecto en el plazo de diez días.",
+        "cita": "Ley 39/2015, Art. 48.2"
+      },
+      {
+        "pregunta": "¿Qué es la 'conversión de actos viciados' (Art. 50)?",
+        "opciones": [
+          "a) Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste.",
+          "b) La posibilidad de que un acto anulable sea convalidado por el superior jerárquico mediante resolución expresa.",
+          "c) La transformación de un acto presunto en expreso cuando la Administración resuelve tardíamente en sentido favorable.",
+          "d) La corrección automática de los errores aritméticos o de hecho por el propio órgano que dictó el acto."
+        ],
+        "respuesta_correcta": "a) Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste.",
+        "cita": "Ley 39/2015, Art. 50"
+      },
+      {
+        "pregunta": "¿Cuándo pueden convalidarse los actos anulables (Art. 52)?",
+        "opciones": [
+          "a) La Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan, produciendo efectos desde su fecha salvo retroactividad.",
+          "b) Los actos nulos de pleno derecho y los anulables podrán ser convalidados en cualquier momento por el órgano competente para resolver recursos.",
+          "c) Solo pueden convalidarse si el vicio consiste en incompetencia jerárquica, no siendo posible en caso de falta de autorización preceptiva.",
+          "d) La convalidación solo es posible antes de que el acto sea recurrido en vía administrativa o judicial."
+        ],
+        "respuesta_correcta": "c) Solo pueden convalidarse si el vicio consiste en incompetencia jerárquica, no siendo posible en caso de falta de autorización preceptiva.",
+        "cita": "Ley 39/2015, Art. 52.1"
+      },
+      {
+        "pregunta": "Respecto a la revisión de oficio de actos nulos (Art. 106), ¿cuál es el plazo para iniciarla?",
+        "opciones": [
+          "a) En cualquier momento, por iniciativa propia o a solicitud de interesado, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente.",
+          "b) En el plazo de cuatro años desde que se dictó el acto administrativo, siempre que no haya prescrito la acción.",
+          "c) Dentro del plazo de lesividad de cuatro años, previa declaración de que el acto es lesivo para el interés público.",
+          "d) En el plazo de tres meses si se inicia de oficio, o de un año si se inicia a instancia de parte interesada."
+        ],
+        "respuesta_correcta": "d) En el plazo de tres meses si se inicia de oficio, o de un año si se inicia a instancia de parte interesada.",
+        "cita": "Ley 39/2015, Art. 106.1"
+      },
+      {
+        "pregunta": "¿Qué requisito es indispensable para declarar lesivos los actos anulables (Art. 107)?",
+        "opciones": [
+          "a) La declaración de lesividad no podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo y exigirá la previa audiencia de cuantos aparezcan como interesados.",
+          "b) Debe obtenerse el dictamen favorable del Consejo de Estado antes de proceder a la impugnación ante el orden jurisdiccional contencioso-administrativo.",
+          "c) El acto debe ser nulo de pleno derecho y no simplemente anulable, y la declaración debe hacerse en el plazo de tres meses.",
+          "d) La declaración de lesividad es competencia exclusiva del Consejo de Ministros y no está sujeta a plazo temporal alguno."
+        ],
+        "respuesta_correcta": "b) Debe obtenerse el dictamen favorable del Consejo de Estado antes de proceder a la impugnación ante el orden jurisdiccional contencioso-administrativo.",
+        "cita": "Ley 39/2015, Art. 107.2"
+      },
+      {
+        "pregunta": "¿Quién puede revocar los actos de gravamen o desfavorables (Art. 109)?",
+        "opciones": [
+          "a) Las Administraciones Públicas podrán revocar, mientras no haya transcurrido el plazo de prescripción, sus actos de gravamen o desfavorables, siempre que tal revocación no constituya dispensa o exención no permitida por las leyes.",
+          "b) Solo los tribunales de justicia pueden revocar actos administrativos firmes, incluso si son desfavorables para el interesado.",
+          "c) El órgano superior jerárquico al que los dictó, previa solicitud del interesado y dictamen del Consejo de Estado.",
+          "d) La revocación solo es posible si existen vicios de nulidad de pleno derecho, aplicándose el procedimiento del artículo 106."
+        ],
+        "respuesta_correcta": "d) La revocación solo es posible si existen vicios de nulidad de pleno derecho, aplicándose el procedimiento del artículo 106.",
+        "cita": "Ley 39/2015, Art. 109.1"
+      },
+      {
+        "pregunta": "¿Qué actos ponen fin a la vía administrativa según el artículo 114?",
+        "opciones": [
+          "a) Las resoluciones de los recursos de alzada, las resoluciones de los órganos administrativos que carezcan de superior jerárquico y los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores.",
+          "b) Las resoluciones de los recursos de reposición y las que resuelvan procedimientos sancionadores por faltas muy graves.",
+          "c) Todos los actos dictados por los Directores Generales y Subdirectores en el ejercicio de sus competencias delegadas.",
+          "d) Únicamente los actos emanados del Consejo de Ministros y de las Comisiones Delegadas del Gobierno."
+        ],
+        "respuesta_correcta": "a) Las resoluciones de los recursos de alzada, las resoluciones de los órganos administrativos que carezcan de superior jerárquico y los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores.",
+        "cita": "Ley 39/2015, Art. 114.1"
+      },
+      {
+        "pregunta": "Contra los actos que no ponen fin a la vía administrativa, ¿qué recurso cabe (Art. 112)?",
+        "opciones": [
+          "a) Recurso de alzada ante el órgano superior jerárquico del que los dictó.",
+          "b) Recurso potestativo de reposición ante el mismo órgano que los dictó.",
+          "c) Recurso contencioso-administrativo directo ante el Juzgado de lo Contencioso.",
+          "d) Recurso extraordinario de revisión si se fundamenta en error de hecho."
+        ],
+        "respuesta_correcta": "d) Recurso extraordinario de revisión si se fundamenta en error de hecho.",
+        "cita": "Ley 39/2015, Art. 121.1"
+      },
+      {
+        "pregunta": "¿Cuál es el plazo para interponer recurso de alzada si el acto es expreso (Art. 122)?",
+        "opciones": [
+          "a) Un mes.",
+          "b) Tres meses.",
+          "c) Dos meses.",
+          "d) Diez días."
+        ],
+        "respuesta_correcta": "a) Un mes.",
+        "cita": "Ley 39/2015, Art. 122.1"
+      },
+      {
+        "pregunta": "Si no se resuelve el recurso de alzada en plazo (3 meses), ¿qué efecto tiene el silencio (Art. 122.2)?",
+        "opciones": [
+          "a) El recurso se podrá entender desestimado, salvo en el supuesto de que el recurso se haya interpuesto contra la desestimación por silencio administrativo de una solicitud, en cuyo caso se entenderá estimado.",
+          "b) El silencio será siempre desestimatorio, quedando expedita la vía judicial contencioso-administrativa.",
+          "c) El silencio será estimatorio en todo caso, dado que la Administración tiene la obligación de resolver en plazo.",
+          "d) Se producirá la caducidad del procedimiento recursivo y el archivo de las actuaciones."
+        ],
+        "respuesta_correcta": "a) El recurso se podrá entender desestimado, salvo en el supuesto de que el recurso se haya interpuesto contra la desestimación por silencio administrativo de una solicitud, en cuyo caso se entenderá estimado.",
+        "cita": "Ley 39/2015, Art. 124 (Alzada) en relación con Art. 24.1 (Doble silencio)"
+      },
+      {
+        "pregunta": "¿Contra la resolución de un recurso de alzada cabe otro recurso administrativo (Art. 122.3)?",
+        "opciones": [
+          "a) No cabrá ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en los casos establecidos.",
+          "b) Sí, cabrá recurso de reposición ante el órgano que resolvió la alzada.",
+          "c) Sí, cabrá recurso de súplica ante el superior jerárquico del que resolvió la alzada.",
+          "d) No, solo cabe recurso de amparo ante el Tribunal Constitucional si se violan derechos fundamentales."
+        ],
+        "respuesta_correcta": "c) Sí, cabrá recurso de súplica ante el superior jerárquico del que resolvió la alzada.",
+        "cita": "Ley 39/2015, Art. 122.3"
+      },
+      {
+        "pregunta": "El recurso potestativo de reposición (Art. 123), ¿ante quién se interpone?",
+        "opciones": [
+          "a) Ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo.",
+          "b) Ante el superior jerárquico del órgano que dictó el acto, para que revise la decisión.",
+          "c) Ante el órgano que dictó el acto, siendo obligatorio agotarlo antes de acudir a la vía judicial.",
+          "d) Ante el tribunal administrativo central de recursos contractuales si la cuantía lo permite."
+        ],
+        "respuesta_correcta": "a) Ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo.",
+        "cita": "Ley 39/2015, Art. 123.1"
+      },
+      {
+        "pregunta": "¿Cuál es el plazo máximo para resolver y notificar el recurso de reposición (Art. 124)?",
+        "opciones": [
+          "a) Un mes.",
+          "b) Tres meses.",
+          "c) Seis meses.",
+          "d) Dos meses."
+        ],
+        "respuesta_correcta": "c) Seis meses.",
+        "cita": "Ley 39/2015, Art. 124.2"
+      },
+      {
+        "pregunta": "¿Cuándo procede el recurso extraordinario de revisión (Art. 125)?",
+        "opciones": [
+          "a) Contra los actos firmes en vía administrativa, cuando concurra alguna circunstancia específica como error de hecho, aparición de documentos esenciales, falsedad documental o delito.",
+          "b) Contra los actos que no ponen fin a la vía administrativa cuando no se haya interpuesto recurso de alzada en plazo.",
+          "c) Contra las sentencias firmes de la jurisdicción contencioso-administrativa cuando se descubran nuevas pruebas.",
+          "d) En cualquier momento del procedimiento, si se detecta una nulidad de pleno derecho que no fue alegada anteriormente."
+        ],
+        "respuesta_correcta": "c) Contra las sentencias firmes de la jurisdicción contencioso-administrativa cuando se descubran nuevas pruebas.",
+        "cita": "Ley 39/2015, Art. 125.1"
+      },
+      {
+        "pregunta": "¿Cuál es el plazo para interponer el recurso extraordinario de revisión por error de hecho (Art. 125.2)?",
+        "opciones": [
+          "a) Dentro del plazo de cuatro años siguientes a la fecha de la notificación de la resolución impugnada.",
+          "b) Dentro del plazo de tres meses a contar desde el conocimiento de los documentos o sentencia judicial.",
+          "c) En el plazo de un año desde la notificación del acto administrativo.",
+          "d) No tiene plazo, puede interponerse en cualquier momento mientras el error persista."
+        ],
+        "respuesta_correcta": "b) Dentro del plazo de tres meses a contar desde el conocimiento de los documentos o sentencia judicial.",
+        "cita": "Ley 39/2015, Art. 125.2"
+      },
+      {
+        "pregunta": "¿Suspende la ejecución del acto la interposición de un recurso administrativo (Art. 117)?",
+        "opciones": [
+          "a) No suspenderá la ejecución del acto impugnado, salvo que una disposición establezca lo contrario o el órgano competente acuerde la suspensión por causar perjuicios de difícil reparación o nulidad de pleno derecho.",
+          "b) Sí, la interposición del recurso suspende automáticamente la ejecución hasta que se resuelva, para garantizar la tutela judicial efectiva.",
+          "c) Solo suspende la ejecución si se deposita una fianza o aval bancario que cubra el importe de la sanción o deuda.",
+          "d) La suspensión es automática en los procedimientos sancionadores, pero no en los tributarios o de personal."
+        ],
+        "respuesta_correcta": "c) Solo suspende la ejecución si se deposita una fianza o aval bancario que cubra el importe de la sanción o deuda.",
+        "cita": "Ley 39/2015, Art. 117.1 y 2"
+      },
+      {
+        "pregunta": "¿Qué ocurre si transcurre un mes desde la solicitud de suspensión sin que el órgano resuelva (Art. 117.3)?",
+        "opciones": [
+          "a) La ejecución se entenderá suspendida.",
+          "b) La suspensión se entenderá denegada por silencio administrativo.",
+          "c) Se deberá reiterar la solicitud, abriéndose un nuevo plazo de diez días.",
+          "d) El interesado podrá acudir al juez para solicitar medidas cautelarísimas."
+        ],
+        "respuesta_correcta": "c) Se deberá reiterar la solicitud, abriéndose un nuevo plazo de diez días.",
+        "cita": "Ley 39/2015, Art. 117.3"
+      },
+      {
+        "pregunta": "¿Quién tiene la competencia para la resolución de los procedimientos de responsabilidad patrimonial en la Administración General del Estado (Art. 92)?",
+        "opciones": [
+          "a) El Ministro respectivo o el Consejo de Ministros si la ley así lo dispone.",
+          "b) El Director General del servicio que causó el daño, previo informe de la Abogacía del Estado.",
+          "c) El Secretario de Estado de Hacienda y Presupuestos en todos los casos.",
+          "d) Los Delegados del Gobierno en las Comunidades Autónomas hasta el límite de 600.000 euros."
+        ],
+        "respuesta_correcta": "c) El Secretario de Estado de Hacienda y Presupuestos en todos los casos.",
+        "cita": "Ley 39/2015, Art. 92 (Competencia resolución RP)"
+      },
+      {
+        "pregunta": "En el procedimiento sancionador, ¿qué principio rige la separación de fases (Art. 63)?",
+        "opciones": [
+          "a) La debida separación entre la fase instructora y la sancionadora, encomendándose a órganos distintos.",
+          "b) La unidad de acto, debiendo el mismo órgano instruir y resolver para garantizar la celeridad.",
+          "c) La separación entre la fase de denuncia y la de resolución, pudiendo instruir el mismo órgano que sanciona.",
+          "d) La instrucción corresponderá a la Policía o Guardia Civil y la sanción al Delegado del Gobierno."
+        ],
+        "respuesta_correcta": "d) La instrucción corresponderá a la Policía o Guardia Civil y la sanción al Delegado del Gobierno.",
+        "cita": "Ley 39/2015, Art. 63.1"
+      },
+      {
+        "pregunta": "¿Qué contenido mínimo debe tener el acuerdo de iniciación en procedimientos sancionadores (Art. 64)?",
+        "opciones": [
+          "a) Identificación de la persona presuntamente responsable, hechos sucintos, calificación provisional de las infracciones, sanciones posibles, órgano competente e instructor, y medidas provisionales.",
+          "b) Propuesta de resolución definitiva con la sanción exacta a imponer y los plazos de pago voluntario con reducción.",
+          "c) Citación para comparecencia personal del inculpado y listado de testigos de cargo.",
+          "d) Solicitud de antecedentes penales y policiales del interesado para graduar la sanción."
+        ],
+        "respuesta_correcta": "a) Identificación de la persona presuntamente responsable, hechos sucintos, calificación provisional de las infracciones, sanciones posibles, órgano competente e instructor, y medidas provisionales.",
+        "cita": "Ley 39/2015, Art. 64.2"
+      },
+      {
+        "pregunta": "¿Es posible la reducción de la sanción por pago voluntario (Art. 85)?",
+        "opciones": [
+          "a) Sí, cuando la sanción tenga carácter pecuniario, el pago voluntario en cualquier momento anterior a la resolución implicará una reducción de al menos el 20%.",
+          "b) Sí, pero solo si se paga en los primeros cinco días tras la notificación de la denuncia.",
+          "c) No, el pago voluntario solo evita el recargo de apremio, pero no reduce el importe principal de la multa.",
+          "d) Sí, la reducción será del 50% en todos los casos, renunciando a cualquier recurso posterior."
+        ],
+        "respuesta_correcta": "b) Sí, pero solo si se paga en los primeros cinco días tras la notificación de la denuncia.",
+        "cita": "Ley 39/2015, Art. 85"
+      },
+      {
+        "pregunta": "¿Qué valor tienen los hechos constatados por funcionarios con condición de autoridad (Art. 77)?",
+        "opciones": [
+          "a) Harán prueba de los hechos constatados, salvo que se acredite lo contrario (presunción de veracidad iuris tantum).",
+          "b) Tienen valor probatorio absoluto e irrefutable (presunción iuris et de iure).",
+          "c) Tienen el mismo valor que la declaración de cualquier otro testigo o ciudadano.",
+          "d) Solo tienen valor si son ratificados presencialmente ante el instructor del expediente."
+        ],
+        "respuesta_correcta": "a) Harán prueba de los hechos constatados, salvo que se acredite lo contrario (presunción de veracidad iuris tantum).",
+        "cita": "Ley 39/2015, Art. 77.5"
+      },
+      {
+        "pregunta": "¿Qué es la 'propuesta de resolución' en el procedimiento (Art. 89)?",
+        "opciones": [
+          "a) El documento que redacta el instructor una vez concluida la instrucción, que se notifica a los interesados para alegaciones antes de elevarlo al órgano competente para resolver.",
+          "b) La decisión final que adopta el órgano sancionador y que pone fin al procedimiento.",
+          "c) El informe jurídico que emite la Abogacía del Estado sobre la legalidad de la sanción.",
+          "d) La oferta de acuerdo que la Administración hace al infractor para terminar el procedimiento convencionalmente."
+        ],
+        "respuesta_correcta": "c) El informe jurídico que emite la Abogacía del Estado sobre la legalidad de la sanción.",
+        "cita": "Ley 39/2015, Art. 89"
+      },
+      {
+        "pregunta": "¿Puede la resolución sancionadora aceptar hechos distintos de los determinados en la fase de instrucción (Art. 90)?",
+        "opciones": [
+          "a) No, la resolución no podrá aceptar hechos distintos de los determinados en el curso del procedimiento, con independencia de su diferente valoración jurídica.",
+          "b) Sí, el órgano sancionador tiene plena libertad para apreciar nuevos hechos si los considera probados.",
+          "c) Sí, siempre que se dé un nuevo trámite de audiencia al interesado por plazo de cinco días.",
+          "d) Solo si los nuevos hechos benefician al presunto responsable reduciendo su sanción."
+        ],
+        "respuesta_correcta": "b) Sí, el órgano sancionador tiene plena libertad para apreciar nuevos hechos si los considera probados.",
+        "cita": "Ley 39/2015, Art. 90.2"
+      },
+      {
+        "pregunta": "En los procedimientos de responsabilidad patrimonial, ¿cuál es el plazo para dictar dictamen el Consejo de Estado si es preceptivo (Art. 81)?",
+        "opciones": [
+          "a) Dos meses.",
+          "b) Un mes.",
+          "c) Diez días.",
+          "d) Tres meses."
+        ],
+        "respuesta_correcta": "c) Diez días.",
+        "cita": "Ley 39/2015, Art. 81.2"
+      },
+      {
+        "pregunta": "Según el artículo 96, ¿cuándo se puede tramitar el procedimiento simplificado?",
+        "opciones": [
+          "a) Cuando razones de interés público o la falta de complejidad del procedimiento así lo aconsejen, pudiendo acordarse de oficio o a solicitud del interesado.",
+          "b) Exclusivamente en los procedimientos sancionadores por infracciones leves.",
+          "c) Cuando todos los interesados renuncien expresamente a sus derechos de alegación y prueba.",
+          "d) En los procedimientos de selección de personal interino y bolsas de trabajo."
+        ],
+        "respuesta_correcta": "c) Cuando todos los interesados renuncien expresamente a sus derechos de alegación y prueba.",
+        "cita": "Ley 39/2015, Art. 96.1"
+      },
+      {
+        "pregunta": "¿Cuál es el plazo máximo de resolución en el procedimiento simplificado (Art. 96.6)?",
+        "opciones": [
+          "a) Treinta días.",
+          "b) Dos meses.",
+          "c) Veinte días.",
+          "d) Tres meses."
+        ],
+        "respuesta_correcta": "d) Tres meses.",
+        "cita": "Ley 39/2015, Art. 96.6"
+      },
+      {
+        "pregunta": "¿Qué medios de ejecución forzosa prevé la Ley (Art. 100)?",
+        "opciones": [
+          "a) Apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas.",
+          "b) Embargo de cuentas, precinto de instalaciones y detención gubernativa.",
+          "c) Multa administrativa, inhabilitación profesional y trabajos en beneficio de la comunidad.",
+          "d) Ejecución judicial, intervención de la fuerza pública y decomiso de bienes."
+        ],
+        "respuesta_correcta": "c) Multa administrativa, inhabilitación profesional y trabajos en beneficio de la comunidad.",
+        "cita": "Ley 39/2015, Art. 100"
+      },
+      {
+        "pregunta": "¿Cuándo procede la compulsión sobre las personas (Art. 104)?",
+        "opciones": [
+          "a) En los casos en que la obligación sea personalísima de no hacer o soportar, y siempre dentro del respeto a la Constitución y a la dignidad de la persona.",
+          "b) Siempre que el interesado se niegue a cumplir una orden administrativa firme de pago.",
+          "c) En los supuestos de desalojo de viviendas ocupadas ilegalmente sin orden judicial.",
+          "d) Cuando sea necesario para identificar a un infractor que carece de documentación."
+        ],
+        "respuesta_correcta": "b) Siempre que el interesado se niegue a cumplir una orden administrativa firme de pago.",
+        "cita": "Ley 39/2015, Art. 104"
+      },
+      {
+        "pregunta": "Según el artículo 23 de la Ley 40/2015, ¿en qué casos deben abstenerse las autoridades y el personal al servicio de las Administraciones?",
+        "opciones": [
+          "a) Cuando tengan interés personal en el asunto, parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, amistad íntima o enemistad manifiesta, o haber intervenido como perito o testigo.",
+          "b) Únicamente cuando tengan un interés directo y económico en la resolución del procedimiento que pueda suponer un enriquecimiento injusto.",
+          "c) Cuando exista una relación jerárquica directa con alguno de los interesados o hayan participado en la redacción de la norma que se aplica.",
+          "d) Siempre que hayan sido recusados formalmente por el interesado mediante escrito motivado presentado en el registro."
+        ],
+        "respuesta_correcta": "b) Únicamente cuando tengan un interés directo y económico en la resolución del procedimiento que pueda suponer un enriquecimiento injusto.",
+        "cita": "Ley 40/2015, Art. 23.2"
+      },
+      {
+        "pregunta": "¿Qué efecto produce la no abstención en los casos en que proceda (Art. 23.4)?",
+        "opciones": [
+          "a) La no abstención en los casos en que proceda dará lugar a la responsabilidad que proceda, pero no implicará necesariamente, y en todo caso, la invalidez de los actos en que hayan intervenido.",
+          "b) Provocará la nulidad de pleno derecho de todas las actuaciones realizadas, debiendo retrotraerse el procedimiento al momento de la intervención indebida.",
+          "c) Generará automáticamente la anulabilidad del acto final, salvo que el superior jerárquico lo convalide expresamente.",
+          "d) Supondrá una falta muy grave sancionable con la separación del servicio y la inhabilitación para cargo público."
+        ],
+        "respuesta_correcta": "a) La no abstención en los casos en que proceda dará lugar a la responsabilidad que proceda, pero no implicará necesariamente, y en todo caso, la invalidez de los actos en que hayan intervenido.",
+        "cita": "Ley 40/2015, Art. 23.4"
+      },
+      {
+        "pregunta": "¿En qué momento puede promoverse la recusación (Art. 24)?",
+        "opciones": [
+          "a) En cualquier momento de la tramitación del procedimiento, mediante escrito en el que se expresará la causa o causas en que se funda.",
+          "b) Solo en el trámite de audiencia, para no paralizar la instrucción del expediente.",
+          "c) En el plazo de diez días desde que se notifica la identidad del instructor del procedimiento.",
+          "d) Antes de que se dicte la propuesta de resolución, precluyendo el derecho una vez emitida esta."
+        ],
+        "respuesta_correcta": "b) Solo en el trámite de audiencia, para no paralizar la instrucción del expediente.",
+        "cita": "Ley 40/2015, Art. 24.1"
+      },
+      {
+        "pregunta": "¿Cabe recurso contra la resolución que decida sobre la recusación (Art. 24.5)?",
+        "opciones": [
+          "a) Contra las resoluciones adoptadas en esta materia no cabrá recurso, sin perjuicio de la posibilidad de alegar la recusación al interponer el recurso que proceda contra el acto que ponga fin al procedimiento.",
+          "b) Sí, cabrá recurso de alzada ante el superior jerárquico del órgano que resolvió la recusación.",
+          "c) Sí, podrá interponerse recurso potestativo de reposición en el plazo de un mes.",
+          "d) No cabe recurso administrativo, pero sí recurso contencioso-administrativo inmediato por vulneración de derechos fundamentales."
+        ],
+        "respuesta_correcta": "a) Contra las resoluciones adoptadas en esta materia no cabrá recurso, sin perjuicio de la posibilidad de alegar la recusación al interponer el recurso que proceda contra el acto que ponga fin al procedimiento.",
+        "cita": "Ley 40/2015, Art. 24.5"
+      },
+      {
+        "pregunta": "Según el artículo 32, ¿cuándo tienen los particulares derecho a ser indemnizados por las Administraciones Públicas?",
+        "opciones": [
+          "a) De toda lesión que sufran en cualquiera de sus bienes y derechos, siempre que la lesión sea consecuencia del funcionamiento normal o anormal de los servicios públicos.",
+          "b) Únicamente cuando la lesión sea consecuencia del funcionamiento anormal de los servicios públicos, mediando culpa o negligencia del funcionario.",
+          "c) Cuando sufran daños físicos o materiales causados directamente por una actuación dolosa de la Administración.",
+          "d) Solo en los casos de error judicial o prisión indebida, conforme a lo establecido en la Ley Orgánica del Poder Judicial."
+        ],
+        "respuesta_correcta": "a) De toda lesión que sufran en cualquiera de sus bienes y derechos, siempre que la lesión sea consecuencia del funcionamiento normal o anormal de los servicios públicos.",
+        "cita": "Ley 40/2015, Art. 32.1"
+      },
+      {
+        "pregunta": "¿Qué requisito debe cumplir el daño para ser indemnizable (Art. 32.2)?",
+        "opciones": [
+          "a) El daño alegado habrá de ser efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas.",
+          "b) Debe ser un daño moral cuantificable objetivamente mediante baremos oficiales.",
+          "c) El daño debe haber sido causado por fuerza mayor o caso fortuito en el ejercicio de funciones públicas.",
+          "d) Debe superar el umbral mínimo de 600 euros para ser reclamable ante la Administración."
+        ],
+        "respuesta_correcta": "b) Debe ser un daño moral cuantificable objetivamente mediante baremos oficiales.",
+        "cita": "Ley 40/2015, Art. 32.2"
+      },
+      {
+        "pregunta": "¿Es indemnizable el daño causado por fuerza mayor (Art. 32.1)?",
+        "opciones": [
+          "a) No, los daños derivados de hechos o circunstancias que no se hubiesen podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica no serán indemnizables.",
+          "b) Sí, la Administración responde objetivamente de todos los daños, incluidos los causados por fuerza mayor.",
+          "c) Solo si la fuerza mayor se produce dentro de un edificio público o instalación administrativa.",
+          "d) Sí, pero la indemnización se reducirá al 50% del valor del daño causado."
+        ],
+        "respuesta_correcta": "c) Solo si la fuerza mayor se produce dentro de un edificio público o instalación administrativa.",
+        "cita": "Ley 40/2015, Art. 32.1 (y 34.1)"
+      },
+      {
+        "pregunta": "¿Cuándo prescribe el derecho a reclamar la responsabilidad patrimonial (Art. 67 Ley 39/2015 - Ref. cruzada necesaria)?",
+        "opciones": [
+          "a) El derecho a reclamar prescribirá al año de producido el hecho o el acto que motive la indemnización o de manifestarse su efecto lesivo.",
+          "b) A los cuatro años, coincidiendo con el plazo de prescripción de las obligaciones tributarias.",
+          "c) A los cinco años, como la responsabilidad civil general extracontractual.",
+          "d) No prescribe mientras persistan las secuelas físicas o psicológicas en la víctima."
+        ],
+        "respuesta_correcta": "d) No prescribe mientras persistan las secuelas físicas o psicológicas en la víctima.",
+        "cita": "Ley 39/2015, Art. 67.1"
+      },
+      {
+        "pregunta": "Según el artículo 36 de la Ley 40/2015, ¿qué debe hacer la Administración cuando indemnice a un particular por un daño causado por su personal?",
+        "opciones": [
+          "a) Exigirá de oficio al personal a su servicio la responsabilidad en que hubiera incurrido por dolo, o culpa o negligencia graves, previa instrucción del correspondiente procedimiento.",
+          "b) Podrá repercutir el coste de la indemnización al funcionario si lo estima oportuno, siendo una potestad discrecional.",
+          "c) Descontará el importe de la nómina del funcionario en mensualidades sucesivas hasta cubrir la deuda.",
+          "d) Iniciará un expediente disciplinario, pero no podrá exigir responsabilidad patrimonial al empleado público."
+        ],
+        "respuesta_correcta": "a) Exigirá de oficio al personal a su servicio la responsabilidad en que hubiera incurrido por dolo, o culpa o negligencia graves, previa instrucción del correspondiente procedimiento.",
+        "cita": "Ley 40/2015, Art. 36.2"
+      },
+      {
+        "pregunta": "¿Qué son los órganos colegiados según la Ley 40/2015 (Art. 15)?",
+        "opciones": [
+          "a) Aquellos que se creen formalmente y estén integrados por tres o más personas, a los que se atribuyan funciones administrativas de decisión, propuesta, asesoramiento, seguimiento o control.",
+          "b) Los formados por un Presidente y un Secretario, con capacidad para dictar resoluciones vinculantes para terceros.",
+          "c) Únicamente los Consejos de Ministros y los Consejos de Gobierno de las Comunidades Autónomas.",
+          "d) Aquellos órganos consultivos que emiten dictámenes preceptivos para la Administración activa."
+        ],
+        "respuesta_correcta": "d) Aquellos órganos consultivos que emiten dictámenes preceptivos para la Administración activa.",
+        "cita": "Ley 40/2015, Art. 15.1"
+      },
+      {
+        "pregunta": "¿Quién nombra al Secretario de un órgano colegiado si no está especificado (Art. 16)?",
+        "opciones": [
+          "a) Será designado por el propio órgano colegiado entre sus miembros o entre empleados públicos cualificados.",
+          "b) Será nombrado por el Presidente del órgano colegiado de forma discrecional.",
+          "c) El puesto de Secretario será rotatorio entre los vocales de menor edad.",
+          "d) Corresponde al Abogado del Estado o letrado consistorial en función de la administración."
+        ],
+        "respuesta_correcta": "b) Será nombrado por el Presidente del órgano colegiado de forma discrecional.",
+        "cita": "Ley 40/2015, Art. 16.1"
+      },
+      {
+        "pregunta": "¿Cuál es el quórum necesario para la constitución válida de un órgano colegiado (Art. 17)?",
+        "opciones": [
+          "a) Se requerirá la presencia del Presidente y Secretario o, en su caso, de quienes les sustituyan, y la de la mitad, al menos, de sus miembros.",
+          "b) Bastará con la presencia de un tercio de los miembros en segunda convocatoria.",
+          "c) Es necesaria la asistencia de todos los miembros titulares en primera convocatoria para adoptar acuerdos válidos.",
+          "d) Se requiere mayoría absoluta de los miembros legales del órgano en todo caso."
+        ],
+        "respuesta_correcta": "d) Se requiere mayoría absoluta de los miembros legales del órgano en todo caso.",
+        "cita": "Ley 40/2015, Art. 17.2"
+      },
+      {
+        "pregunta": "¿Pueden los miembros de un órgano colegiado abstenerse en las votaciones (Art. 17)?",
+        "opciones": [
+          "a) Los miembros de un órgano colegiado no podrán abstenerse en las votaciones quienes por su cualidad de autoridades o personal al servicio de las Administraciones Públicas, tengan la condición de miembros natos.",
+          "b) Sí, el derecho de abstención es absoluto para todos los miembros, pudiendo emitir voto en blanco.",
+          "c) No, el voto es obligatorio para todos los miembros, debiendo ser siempre positivo o negativo.",
+          "d) Solo pueden abstenerse los vocales que representen a organizaciones sociales o sindicales."
+        ],
+        "respuesta_correcta": "a) Los miembros de un órgano colegiado no podrán abstenerse en las votaciones quienes por su cualidad de autoridades o personal al servicio de las Administraciones Públicas, tengan la condición de miembros natos.",
+        "cita": "Ley 40/2015, Art. 19.3 (Ref. a veces en temarios como Art 17 por error, es 19.3)"
+      },
+      {
+        "pregunta": "¿Qué información debe contener la convocatoria de un órgano colegiado (Art. 17)?",
+        "opciones": [
+          "a) El orden del día, la documentación necesaria para la deliberación cuando sea posible, las condiciones de conexión para sesiones a distancia y el sistema de identificación.",
+          "b) Únicamente la fecha, hora y lugar de la reunión, pudiendo remitirse la documentación en el momento de la sesión.",
+          "c) El listado de asistentes confirmados y el borrador del acta de la sesión anterior.",
+          "d) La propuesta de acuerdos redactada por el Presidente para su ratificación directa."
+        ],
+        "respuesta_correcta": "a) El orden del día, la documentación necesaria para la deliberación cuando sea posible, las condiciones de conexión para sesiones a distancia y el sistema de identificación.",
+        "cita": "Ley 40/2015, Art. 17.3"
+      },
+      {
+        "pregunta": "Según el artículo 40, ¿cómo se define el sector público institucional?",
+        "opciones": [
+          "a) Se integra por los organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas, las entidades de derecho privado vinculadas, y las Universidades públicas.",
+          "b) Comprende exclusivamente los Ministerios, Consejerías y Ayuntamientos, excluyendo las empresas públicas.",
+          "c) Está formado por las sociedades mercantiles estatales y las fundaciones del sector público, pero no por los organismos autónomos.",
+          "d) Se refiere al conjunto de funcionarios y personal laboral que presta servicios en la Administración."
+        ],
+        "respuesta_correcta": "a) Se integra por los organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas, las entidades de derecho privado vinculadas, y las Universidades públicas.",
+        "cita": "Ley 40/2015, Art. 2.2"
+      },
+      {
+        "pregunta": "¿Qué principio rige las relaciones entre las Administraciones Públicas (Art. 140)?",
+        "opciones": [
+          "a) Lealtad institucional, adecuación al orden de distribución de competencias, colaboración, cooperación y coordinación.",
+          "b) Jerarquía administrativa, debiendo las Administraciones inferiores obedecer a las superiores.",
+          "c) Autonomía absoluta, sin obligación de colaborar salvo en casos de emergencia nacional.",
+          "d) Competencia desleal para fomentar la eficiencia en la prestación de servicios al ciudadano."
+        ],
+        "respuesta_correcta": "d) Competencia desleal para fomentar la eficiencia en la prestación de servicios al ciudadano.",
+        "cita": "Ley 40/2015, Art. 140.1"
+      },
+      {
+        "pregunta": "¿Qué es la Conferencia de Presidentes (Art. 146)?",
+        "opciones": [
+          "a) El órgano de cooperación multilateral entre el Gobierno de la Nación y los respectivos Gobiernos de las Comunidades Autónomas, formado por el Presidente del Gobierno y los Presidentes autonómicos.",
+          "b) La reunión anual de los Presidentes de las Diputaciones Provinciales para coordinar la asistencia a municipios.",
+          "c) El órgano de gobierno del Poder Judicial formado por los Presidentes de los Tribunales Superiores de Justicia.",
+          "d) La cumbre de Jefes de Estado de la Unión Europea para definir la política exterior común."
+        ],
+        "respuesta_correcta": "b) La reunión anual de los Presidentes de las Diputaciones Provinciales para coordinar la asistencia a municipios.",
+        "cita": "Ley 40/2015, Art. 146"
+      },
+      {
+        "pregunta": "¿Qué se entiende por encomienda de gestión (Art. 11)?",
+        "opciones": [
+          "a) La realización de actividades de carácter material o técnico de la competencia de los órganos administrativos o de las Entidades de Derecho Público por otros órganos o Entidades de la misma o de distinta Administración, por razones de eficacia.",
+          "b) La transferencia de la titularidad de la competencia a otro órgano jerárquicamente inferior para descongestionar el trabajo.",
+          "c) La delegación de firma en materias sancionadoras para agilizar la tramitación de expedientes.",
+          "d) La contratación de empresas privadas para que realicen funciones de autoridad pública."
+        ],
+        "respuesta_correcta": "b) La transferencia de la titularidad de la competencia a otro órgano jerárquicamente inferior para descongestionar el trabajo.",
+        "cita": "Ley 40/2015, Art. 11.1"
+      },
+      {
+        "pregunta": "¿Cuándo deben publicarse las encomiendas de gestión (Art. 11)?",
+        "opciones": [
+          "a) El instrumento de formalización de la encomienda de gestión y su resolución deberá ser publicado, para su eficacia, en el Boletín Oficial del Estado, en el de la Comunidad Autónoma o en el de la Provincia.",
+          "b) No es necesaria su publicación, basta con la notificación a los interesados en el procedimiento afectado.",
+          "c) Solo se publicarán si afectan a materias de medio ambiente o urbanismo.",
+          "d) Se publicarán únicamente en la sede electrónica del órgano encomendante."
+        ],
+        "respuesta_correcta": "b) No es necesaria su publicación, basta con la notificación a los interesados en el procedimiento afectado.",
+        "cita": "Ley 40/2015, Art. 11.3"
+      },
+      {
+        "pregunta": "¿Qué son los convenios administrativos (Art. 47)?",
+        "opciones": [
+          "a) Acuerdos con efectos jurídicos adoptados por las Administraciones Públicas, los organismos públicos y entidades de derecho público vinculados o dependientes o las Universidades públicas entre sí o con sujetos de derecho privado para un fin común.",
+          "b) Contratos del sector público sujetos a la Ley de Contratos, que tienen por objeto la realización de obras o servicios.",
+          "c) Acuerdos verbales entre funcionarios para coordinar tareas administrativas puntuales.",
+          "d) Tratados internacionales firmados por las Comunidades Autónomas con estados extranjeros."
+        ],
+        "respuesta_correcta": "b) Contratos del sector público sujetos a la Ley de Contratos, que tienen por objeto la realización de obras o servicios.",
+        "cita": "Ley 40/2015, Art. 47.1"
+      },
+      {
+        "pregunta": "Según el artículo 9, ¿es delegable la competencia sancionadora?",
+        "opciones": [
+          "a) Sí, el ejercicio de la potestad sancionadora es delegable, pero no podrá delegarse la adopción de las resoluciones de los recursos que se interpongan contra los actos sancionadores.",
+          "b) No, la potestad sancionadora es indelegable por su naturaleza punitiva y restrictiva de derechos.",
+          "c) Sí, se puede delegar totalmente, incluida la resolución de recursos, para garantizar la doble instancia.",
+          "d) Solo es delegable en los procedimientos leves, pero no en los graves o muy graves."
+        ],
+        "respuesta_correcta": "d) Solo es delegable en los procedimientos leves, pero no en los graves o muy graves.",
+        "cita": "Ley 40/2015, Art. 9 (A contrario sensu Art 9.2.c y 9.5)"
+      },
+      {
+        "pregunta": "¿Qué requisitos tiene la delegación de competencias (Art. 9.3)?",
+        "opciones": [
+          "a) Las delegaciones de competencias y su revocación deberán publicarse en el Boletín Oficial del Estado, en el de la Comunidad Autónoma o en el de la Provincia, según la Administración a que pertenezca el órgano delegante.",
+          "b) Requiere autorización del Consejo de Estado y ratificación por las Cortes Generales.",
+          "c) Debe comunicarse por escrito al órgano delegado, surtiendo efectos desde la recepción de la comunicación.",
+          "d) No requiere formalidad alguna, pudiendo hacerse verbalmente en casos de urgencia."
+        ],
+        "respuesta_correcta": "b) Requiere autorización del Consejo de Estado y ratificación por las Cortes Generales.",
+        "cita": "Ley 40/2015, Art. 9.3"
+      },
+      {
+        "pregunta": "¿Puede el órgano delegante revocar la delegación (Art. 9.6)?",
+        "opciones": [
+          "a) Sí, la delegación será revocable en cualquier momento por el órgano que la haya conferido.",
+          "b) No, la delegación es irrevocable durante el plazo para el que se concedió.",
+          "c) Solo si el órgano delegado incumple gravemente sus funciones o actúa con negligencia.",
+          "d) Sí, pero requiere el consentimiento del órgano delegado para evitar conflictos de competencia."
+        ],
+        "respuesta_correcta": "d) Sí, pero requiere el consentimiento del órgano delegado para evitar conflictos de competencia.",
+        "cita": "Ley 40/2015, Art. 9.6"
+      },
+      {
+        "pregunta": "¿Qué es la avocación (Art. 10)?",
+        "opciones": [
+          "a) Los órganos superiores podrán avocar para sí el conocimiento de un asunto cuya resolución corresponda ordinariamente o por delegación a sus órganos administrativos dependientes, cuando circunstancias de índole técnica, económica, social, jurídica o territorial lo hagan conveniente.",
+          "b) La transferencia de competencias de un órgano superior a uno inferior de forma permanente.",
+          "c) La sustitución temporal del titular de un órgano por enfermedad o ausencia.",
+          "d) La anulación de las competencias de una Comunidad Autónoma por el Estado mediante el artículo 155 de la Constitución."
+        ],
+        "respuesta_correcta": "d) La anulación de las competencias de una Comunidad Autónoma por el Estado mediante el artículo 155 de la Constitución.",
+        "cita": "Ley 40/2015, Art. 10.1"
+      },
+      {
+        "pregunta": "¿Es necesario motivar el acuerdo de avocación (Art. 10.2)?",
+        "opciones": [
+          "a) Sí, el acuerdo de avocación será motivado y deberá ser notificado a los interesados en el procedimiento, si los hubiere, con anterioridad o simultáneamente a la resolución final.",
+          "b) No, es una facultad discrecional del superior jerárquico que no precisa justificación.",
+          "c) Solo si los interesados lo solicitan expresamente en el trámite de alegaciones.",
+          "d) Sí, pero no es necesario notificarlo a los interesados, bastando su inclusión en el expediente."
+        ],
+        "respuesta_correcta": "b) No, es una facultad discrecional del superior jerárquico que no precisa justificación.",
+        "cita": "Ley 40/2015, Art. 10.2"
+      },
+      {
+        "pregunta": "¿Qué sucede con las resoluciones adoptadas por delegación (Art. 9.4)?",
+        "opciones": [
+          "a) Se considerarán dictadas por el órgano delegante.",
+          "b) Se considerarán dictadas por el órgano delegado bajo su exclusiva responsabilidad.",
+          "c) Tienen un valor jurídico inferior a las dictadas por el titular de la competencia.",
+          "d) Deben ser ratificadas por el delegante para surtir efectos frente a terceros."
+        ],
+        "respuesta_correcta": "d) Deben ser ratificadas por el delegante para surtir efectos frente a terceros.",
+        "cita": "Ley 40/2015, Art. 9.4"
+      },
+      {
+        "pregunta": "¿Qué es la suplencia (Art. 13)?",
+        "opciones": [
+          "a) La sustitución temporal de los titulares de los órganos administrativos por vacante, ausencia o enfermedad, así como en los casos en que haya sido declarada su abstención o recusación.",
+          "b) El nombramiento de un funcionario interino para cubrir una plaza vacante.",
+          "c) La delegación de firma en un subordinado para agilizar la gestión diaria.",
+          "d) La asunción de competencias por un órgano de otra Administración mediante convenio."
+        ],
+        "respuesta_correcta": "c) La delegación de firma en un subordinado para agilizar la gestión diaria.",
+        "cita": "Ley 40/2015, Art. 13.1"
+      },
+      {
+        "pregunta": "Según el artículo 6 de la Ley 40/2015, ¿son válidas las instrucciones y órdenes de servicio?",
+        "opciones": [
+          "a) Sí, los órganos administrativos podrán dirigir las actividades de sus órganos jerárquicamente dependientes mediante instrucciones y órdenes de servicio, que no afectan a terceros salvo publicación.",
+          "b) No, carecen de valor normativo y no pueden ser utilizadas para dirigir la actividad administrativa.",
+          "c) Son válidas solo si se aprueban mediante Real Decreto y se publican en el BOE.",
+          "d) Vinculan a los ciudadanos directamente, pudiendo ser sancionados por su incumplimiento."
+        ],
+        "respuesta_correcta": "b) No, carecen de valor normativo y no pueden ser utilizadas para dirigir la actividad administrativa.",
+        "cita": "Ley 40/2015, Art. 6"
+      },
+      {
+        "pregunta": "¿Qué es el Esquema Nacional de Seguridad (Art. 156)?",
+        "opciones": [
+          "a) El instrumento que tiene por objeto establecer la política de seguridad en la utilización de medios electrónicos en el ámbito de la presente Ley, garantizando la seguridad de los sistemas, los datos, las comunicaciones y los servicios electrónicos.",
+          "b) El plan de protección de infraestructuras críticas del Ministerio del Interior.",
+          "c) El protocolo de actuación policial en caso de ciberataques a empresas privadas.",
+          "d) El reglamento interno de la Guardia Civil para el uso de armas de fuego."
+        ],
+        "respuesta_correcta": "a) El instrumento que tiene por objeto establecer la política de seguridad en la utilización de medios electrónicos en el ámbito de la presente Ley, garantizando la seguridad de los sistemas, los datos, las comunicaciones y los servicios electrónicos.",
+        "cita": "Ley 40/2015, Art. 156.1"
+      },
+      {
+        "pregunta": "¿Qué es el Esquema Nacional de Interoperabilidad (Art. 156)?",
+        "opciones": [
+          "a) El conjunto de criterios y recomendaciones en materia de seguridad, conservación y normalización de la información, de los formatos y de las aplicaciones que deberán ser tenidos en cuenta por las Administraciones Públicas.",
+          "b) El sistema que permite a la Policía y a la Guardia Civil compartir sus bases de datos de antecedentes penales.",
+          "c) La red de comunicaciones de emergencia que conecta a todas las policías locales de España.",
+          "d) El software libre que debe utilizarse obligatoriamente en todos los ordenadores de la Administración."
+        ],
+        "respuesta_correcta": "b) El sistema que permite a la Policía y a la Guardia Civil compartir sus bases de datos de antecedentes penales.",
+        "cita": "Ley 40/2015, Art. 156.2"
+      },
+      {
+        "pregunta": "Según el artículo 38, ¿cuál es el régimen jurídico de la Sede Electrónica?",
+        "opciones": [
+          "a) Es aquella dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad, gestión y administración corresponde a una Administración Pública, órgano o entidad administrativa en el ejercicio de sus competencias.",
+          "b) Es cualquier página web de un organismo público donde se publique información institucional.",
+          "c) Es el portal de transparencia del Gobierno donde se publican los contratos y subvenciones.",
+          "d) Es el buzón de correo electrónico oficial de cada funcionario para recibir notificaciones."
+        ],
+        "respuesta_correcta": "d) Es el buzón de correo electrónico oficial de cada funcionario para recibir notificaciones.",
+        "cita": "Ley 40/2015, Art. 38.1"
+      },
+      {
+        "pregunta": "¿Quién es responsable de la integridad y veracidad de la información publicada en la Sede Electrónica (Art. 38)?",
+        "opciones": [
+          "a) El titular de la Sede Electrónica que se identifique en la misma, garantizando la identificación del órgano titular y los medios disponibles para la formulación de sugerencias y quejas.",
+          "b) El webmaster o informático encargado del mantenimiento técnico del servidor.",
+          "c) El Ministerio de Asuntos Económicos y Transformación Digital como supervisor general.",
+          "d) No existe responsabilidad administrativa por la información publicada en internet, al ser meramente informativa."
+        ],
+        "respuesta_correcta": "c) El Ministerio de Asuntos Económicos y Transformación Digital como supervisor general.",
+        "cita": "Ley 40/2015, Art. 38.2"
+      },
+      {
+        "pregunta": "Según el RD 95/2009, ¿qué es el SIRAJ?",
+        "opciones": [
+          "a) El Sistema de Registros Administrativos de Apoyo a la Administración de Justicia, que integra diversos registros centrales para facilitar la información a los órganos judiciales.",
+          "b) El Sistema Integrado de Racionalización de la Actuación Judicial para reducir los tiempos de espera en los juicios.",
+          "c) El Servicio de Inspección del Régimen Disciplinario de la Administración de Justicia.",
+          "d) El Sindicato Independiente de Registradores de la Administración de Justicia."
+        ],
+        "respuesta_correcta": "b) El Sistema Integrado de Racionalización de la Actuación Judicial para reducir los tiempos de espera en los juicios.",
+        "cita": "RD 95/2009, Art. 1"
+      },
+      {
+        "pregunta": "¿Qué registros se integran en el SIRAJ según el RD 95/2009?",
+        "opciones": [
+          "a) El Registro Central de Penados, el de Personas Rebeldes Civiles, el de Sentencias de Responsabilidad Penal de los Menores, el de Medidas Cautelares, Requisitorias y Sentencias no Firmes, y el de Protección de Víctimas de Violencia Doméstica.",
+          "b) Únicamente el Registro Central de Penados y Rebeldes y el Registro Civil Central.",
+          "c) El Registro de la Propiedad, el Registro Mercantil y el Registro de Bienes Muebles.",
+          "d) Los registros de antecedentes policiales de la Policía Nacional y la Guardia Civil exclusivamente."
+        ],
+        "respuesta_correcta": "a) El Registro Central de Penados, el de Personas Rebeldes Civiles, el de Sentencias de Responsabilidad Penal de los Menores, el de Medidas Cautelares, Requisitorias y Sentencias no Firmes, y el de Protección de Víctimas de Violencia Doméstica.",
+        "cita": "RD 95/2009, Art. 2 (lista consolidada)"
+      },
+      {
+        "pregunta": "¿Quién es el encargado del Registro Central de Penados?",
+        "opciones": [
+          "a) El Ministerio de Justicia, a través de la Dirección General competente.",
+          "b) El Consejo General del Poder Judicial.",
+          "c) El Ministerio del Interior a través de la Secretaría de Estado de Seguridad.",
+          "d) El Decanato de los Juzgados de Madrid."
+        ],
+        "respuesta_correcta": "c) El Ministerio del Interior a través de la Secretaría de Estado de Seguridad.",
+        "cita": "RD 95/2009, Art. 4"
+      },
+      {
+        "pregunta": "¿Qué información se inscribe en el Registro Central de Penados?",
+        "opciones": [
+          "a) Las resoluciones firmes por la comisión de delitos que impongan penas o medidas de seguridad, dictadas por los Juzgados y Tribunales del orden jurisdiccional penal.",
+          "b) Las detenciones policiales y las imputaciones formales antes de la sentencia.",
+          "c) Las sanciones administrativas graves impuestas por la Agencia Tributaria y la Seguridad Social.",
+          "d) Las sentencias civiles de divorcio y las declaraciones de concurso de acreedores."
+        ],
+        "respuesta_correcta": "d) Las sentencias civiles de divorcio y las declaraciones de concurso de acreedores.",
+        "cita": "RD 95/2009, Art. 10 (aprox)"
+      },
+      {
+        "pregunta": "¿Quién tiene acceso a los datos del SIRAJ?",
+        "opciones": [
+          "a) Los Jueces, Tribunales y miembros del Ministerio Fiscal, así como la Policía Judicial y las autoridades administrativas competentes en el ejercicio de sus funciones, conforme a la ley.",
+          "b) Cualquier ciudadano que pague la tasa correspondiente para consultar los antecedentes de terceros.",
+          "c) Las empresas de selección de personal para verificar el currículum de los candidatos.",
+          "d) Exclusivamente los funcionarios del Ministerio de Justicia con nivel 30."
+        ],
+        "respuesta_correcta": "d) Exclusivamente los funcionarios del Ministerio de Justicia con nivel 30.",
+        "cita": "RD 95/2009, Art. 5 y 6"
+      },
+      {
+        "pregunta": "¿Qué es la cancelación de antecedentes penales en el Registro?",
+        "opciones": [
+          "a) El derecho del condenado a que se eliminen sus datos del Registro una vez cumplida la pena y transcurridos los plazos legales de rehabilitación sin volver a delinquir.",
+          "b) La eliminación automática de los datos a los 10 años de la sentencia, independientemente del cumplimiento de la pena.",
+          "c) El borrado de los datos policiales cuando el juez archiva la causa por falta de pruebas.",
+          "d) La destrucción física de los expedientes judiciales en papel tras su digitalización."
+        ],
+        "respuesta_correcta": "b) La eliminación automática de los datos a los 10 años de la sentencia, independientemente del cumplimiento de la pena.",
+        "cita": "RD 95/2009, Regulado en CP y RD"
+      },
+      {
+        "pregunta": "¿Qué contiene el Registro Central de Medidas Cautelares, Requisitorias y Sentencias no Firmes?",
+        "opciones": [
+          "a) Las medidas cautelares de carácter penal, las órdenes de búsqueda y captura, y las sentencias condenatorias que aún no son firmes, para conocimiento de los órganos judiciales.",
+          "b) Las fianzas depositadas en los juzgados civiles y mercantiles.",
+          "c) Los embargos preventivos de bienes inmuebles decretados por la Hacienda Pública.",
+          "d) Las citaciones judiciales para juicios de faltas y delitos leves."
+        ],
+        "respuesta_correcta": "d) Las citaciones judiciales para juicios de faltas y delitos leves.",
+        "cita": "RD 95/2009"
+      },
+      {
+        "pregunta": "¿Es obligatorio el uso del SIRAJ para los Secretarios Judiciales (Letrados AJ)?",
+        "opciones": [
+          "a) Sí, tienen la obligación de transmitir telemáticamente al Registro las resoluciones inscribibles y de consultar los antecedentes en la tramitación de las causas.",
+          "b) No, es una herramienta facultativa de apoyo, pudiendo utilizar el correo ordinario si lo prefieren.",
+          "c) Solo es obligatorio para los juzgados de violencia sobre la mujer, siendo voluntario para el resto.",
+          "d) Es obligatorio solo en las capitales de provincia con más de 500.000 habitantes."
+        ],
+        "respuesta_correcta": "c) Solo es obligatorio para los juzgados de violencia sobre la mujer, siendo voluntario para el resto.",
+        "cita": "RD 95/2009, Art. 13"
+      },
+      {
+        "pregunta": "¿Qué finalidad tiene el Registro Central de Protección de Víctimas de Violencia Doméstica?",
+        "opciones": [
+          "a) Facilitar a los órganos judiciales y a las Fuerzas y Cuerpos de Seguridad el conocimiento de las penas y medidas de seguridad impuestas por delitos de violencia doméstica y de género para la protección de las víctimas.",
+          "b) Publicar una lista de maltratadores para conocimiento general de la ciudadanía y prevención social.",
+          "c) Gestionar las ayudas económicas y subvenciones para las mujeres víctimas de violencia.",
+          "d) Controlar el cumplimiento de los trabajos en beneficio de la comunidad impuestos a los condenados."
+        ],
+        "respuesta_correcta": "b) Publicar una lista de maltratadores para conocimiento general de la ciudadanía y prevención social.",
+        "cita": "RD 95/2009, Art. 7"
+      },
+      {
+        "pregunta": "¿Qué ocurre con los antecedentes de los menores en el SIRAJ?",
+        "opciones": [
+          "a) Se inscriben en un registro específico (Sentencias de Responsabilidad Penal de los Menores) con un régimen de acceso restringido y confidencialidad reforzada.",
+          "b) Se inscriben en el Registro Central de Penados junto con los de los adultos, sin distinción alguna.",
+          "c) No se inscriben nunca para evitar la estigmatización del menor.",
+          "d) Se inscriben solo si el delito cometido es de terrorismo o asesinato."
+        ],
+        "respuesta_correcta": "a) Se inscriben en un registro específico (Sentencias de Responsabilidad Penal de los Menores) con un régimen de acceso restringido y confidencialidad reforzada.",
+        "cita": "RD 95/2009, Art. 2.c y normativa menor"
+      },
+      {
+        "pregunta": "Según el artículo 140.2 de la Ley 40/2015, ¿qué técnica de colaboración no requiere la aceptación expresa de la otra Administración?",
+        "opciones": [
+          "a) El deber de asistencia y auxilio para el ejercicio de sus competencias, salvo que se niegue por falta de medios o perjuicio grave.",
+          "b) La encomienda de gestión ordinaria.",
+          "c) La creación de consorcios administrativos.",
+          "d) La firma de convenios de colaboración financiera."
+        ],
+        "respuesta_correcta": "b) La encomienda de gestión ordinaria.",
+        "cita": "Ley 40/2015, Art. 141 (Deber de colaboración)"
+      },
+      {
+        "pregunta": "¿Qué es la Comisión Sectorial (Art. 147)?",
+        "opciones": [
+          "a) El órgano de cooperación, de composición multilateral y ámbito sectorial determinado, que reúne a miembros del Gobierno y a Consejeros de las Comunidades Autónomas competentes por razón de la materia.",
+          "b) La comisión delegada del Gobierno para asuntos económicos.",
+          "c) El grupo de trabajo técnico formado por funcionarios para preparar las leyes.",
+          "d) La reunión de los Delegados del Gobierno en las Comunidades Autónomas."
+        ],
+        "respuesta_correcta": "a) El órgano de cooperación, de composición multilateral y ámbito sectorial determinado, que reúne a miembros del Gobierno y a Consejeros de las Comunidades Autónomas competentes por razón de la materia.",
+        "cita": "Ley 40/2015, Art. 147.1"
+      },
+      {
+        "pregunta": "¿Qué función tienen las Comisiones Bilaterales de Cooperación (Art. 153)?",
+        "opciones": [
+          "a) Son órganos de cooperación de composición bilateral que reúnen a miembros del Gobierno y de un Consejo de Gobierno de una Comunidad Autónoma para tratar asuntos comunes.",
+          "b) Son los tribunales de arbitraje para resolver conflictos de competencias entre el Estado y las CCAA.",
+          "c) Son las mesas de negociación salarial de los funcionarios públicos.",
+          "d) Son los órganos encargados de la gestión de los fondos europeos en cada región."
+        ],
+        "respuesta_correcta": "d) Son los órganos encargados de la gestión de los fondos europeos en cada región.",
+        "cita": "Ley 40/2015, Art. 153.1"
+      },
+      {
+        "pregunta": "En el SIRAJ, ¿se cancelan los antecedentes de oficio?",
+        "opciones": [
+          "a) Sí, el Ministerio de Justicia iniciará de oficio los expedientes de cancelación cuando se cumplan los requisitos legales, sin perjuicio de la iniciativa del interesado.",
+          "b) No, la cancelación debe ser siempre rogada a instancia de parte interesada.",
+          "c) Sí, pero solo para los delitos leves, debiendo solicitarse para los graves.",
+          "d) No, los antecedentes son perpetuos y solo se borran tras el fallecimiento del penado."
+        ],
+        "respuesta_correcta": "d) No, los antecedentes son perpetuos y solo se borran tras el fallecimiento del penado.",
+        "cita": "RD 95/2009 y CP"
+      },
+      {
+        "pregunta": "¿Qué es el ECLI?",
+        "opciones": [
+          "a) El Identificador Europeo de Jurisprudencia (European Case Law Identifier), un estándar para la identificación de resoluciones judiciales en Europa.",
+          "b) El sistema de intercambio de antecedentes penales entre países de la UE (ECRIS).",
+          "c) El certificado digital de los jueces europeos.",
+          "d) La base de datos de busca y captura de la Interpol."
+        ],
+        "respuesta_correcta": "c) El certificado digital de los jueces europeos.",
+        "cita": "Contexto SIRAJ/CENDOJ (Conocimiento general relacionado)"
+      },
+      {
+        "pregunta": "¿Qué vigencia tienen los certificados de antecedentes penales?",
+        "opciones": [
+          "a) No tienen una vigencia predeterminada por ley, pero generalmente se aceptan si han sido expedidos en los últimos tres meses.",
+          "b) Tienen una vigencia oficial de un año desde su expedición.",
+          "c) Caducan a los 10 días de su emisión.",
+          "d) Son válidos indefinidamente mientras no cambie la situación penal del interesado."
+        ],
+        "respuesta_correcta": "d) Son válidos indefinidamente mientras no cambie la situación penal del interesado.",
+        "cita": "Práctica administrativa (no regulado explícitamente en RD 95/2009 como fecha fija)"
+      },
+      {
+        "pregunta": "Respecto a la responsabilidad patrimonial concurrente de varias Administraciones (Art. 33 Ley 40/2015), ¿cómo responden?",
+        "opciones": [
+          "a) Responderán de forma solidaria, salvo que en el instrumento jurídico regulador de la actuación conjunta se determine otra cosa.",
+          "b) Responderán de forma mancomunada en proporción a su participación en la financiación del servicio.",
+          "c) Responderá únicamente la Administración que materialmente ejecutó el daño.",
+          "d) No existe responsabilidad concurrente, cada Administración responde de sus propios actos."
+        ],
+        "respuesta_correcta": "c) Responderá únicamente la Administración que materialmente ejecutó el daño.",
+        "cita": "Ley 40/2015, Art. 33.1"
+      },
+      {
+        "pregunta": "¿Qué plazo tienen las Administraciones para resolver los procedimientos de responsabilidad patrimonial (Art. 91 Ley 39/2015 - Ref. cruzada)?",
+        "opciones": [
+          "a) Seis meses.",
+          "b) Tres meses.",
+          "c) Un año.",
+          "d) Dieciocho meses."
+        ],
+        "respuesta_correcta": "b) Tres meses.",
+        "cita": "Ley 39/2015, Art. 91.3"
+      }
+    ]
+  }
+]]

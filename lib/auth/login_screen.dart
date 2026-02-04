@@ -72,6 +72,67 @@ class LoginScreenState extends State<LoginScreen> {
     );
   }
 
+  Future<void> _sendPasswordReset() async {
+    if (_emailController.text.isEmpty) {
+      showDialog(
+        context: context,
+        builder: (ctx) => AlertDialog(
+          title: const Text('Correo requerido'),
+          content: const Text('Por favor ingresa tu correo electrónico para recuperar tu contraseña.'),
+          actions: <Widget>[
+            TextButton(
+              child: const Text('Aceptar'),
+              onPressed: () {
+                Navigator.of(ctx).pop();
+              },
+            )
+          ],
+        ),
+      );
+      return;
+    }
+
+    try {
+      await FirebaseAuth.instance.sendPasswordResetEmail(
+        email: _emailController.text,
+      );
+
+      if (!mounted) return;
+
+      showDialog(
+        context: context,
+        builder: (ctx) => AlertDialog(
+          title: const Text('Éxito'),
+          content: const Text('Se ha enviado un enlace de recuperación a tu correo electrónico.'),
+          actions: <Widget>[
+            TextButton(
+              child: const Text('Aceptar'),
+              onPressed: () {
+                Navigator.of(ctx).pop();
+              },
+            )
+          ],
+        ),
+      );
+    } on FirebaseAuthException catch (e) {
+      showDialog(
+        context: context,
+        builder: (ctx) => AlertDialog(
+          title: const Text('Error'),
+          content: Text(e.message ?? 'Error al enviar el enlace de recuperación'),
+          actions: <Widget>[
+            TextButton(
+              child: const Text('Aceptar'),
+              onPressed: () {
+                Navigator.of(ctx).pop();
+              },
+            )
+          ],
+        ),
+      );
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -168,7 +229,15 @@ class LoginScreenState extends State<LoginScreen> {
                             onPressed: _login,
                             child: const Text(' Iniciar sesión'),
                           ),
-                          const SizedBox(height: 20),
+                          const SizedBox(height: 12),
+                          TextButton(
+                            onPressed: _sendPasswordReset,
+                            child: const Text(
+                              '¿Olvidaste tu contraseña?',
+                              style: TextStyle(color: Colors.white70),
+                            ),
+                          ),
+                          const SizedBox(height: 12),
                           TextButton(
                             onPressed: () {
                               Navigator.of(context).push(

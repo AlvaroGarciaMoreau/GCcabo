@@ -1,1136 +1,1197 @@
-[{
-  "tema": "TEMA 9.- PATRIMONIO NATURAL Y BIODIVERSIDAD (100 PREGUNTAS)",
-  "descripcion": "Preguntas basadas en la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad.",
-  "preguntas": [
-    {
-      "pregunta": "¿Cuál es el objeto de la Ley 42/2007?",
-      "opciones": [
-        "a) Regular la caza y la pesca en España.",
-        "b) Establecer el régimen jurídico básico de la conservación, uso sostenible, mejora y restauración del patrimonio natural y de la biodiversidad.",
-        "c) Crear parques nacionales exclusivamente.",
-        "d) Regular la agricultura ecológica."
-      ],
-      "respuesta_correcta": "b) Establecer el régimen jurídico básico de la conservación, uso sostenible, mejora y restauración del patrimonio natural y de la biodiversidad."
-    },
-    {
-      "pregunta": "¿Qué principio rige la Ley 42/2007 respecto a la intervención sobre el medio natural?",
-      "opciones": [
-        "a) El de máxima rentabilidad económica.",
-        "b) El de precaución ante intervenciones que pudieran afectar negativamente al patrimonio natural y la biodiversidad.",
-        "c) El de libertad absoluta de empresa.",
-        "d) El de intervención mínima."
-      ],
-      "respuesta_correcta": "b) El de precaución ante intervenciones que pudieran afectar negativamente al patrimonio natural y la biodiversidad."
-    },
-    {
-      "pregunta": "¿Quién pagará los costes de los efectos negativos sobre el medio ambiente según los principios de la Ley 42/2007?",
-      "opciones": [
-        "a) El Estado.",
-        "b) Las Comunidades Autónomas.",
-        "c) Quien contamine (principio de 'quien contamina paga').",
-        "d) Los ciudadanos a través de impuestos."
-      ],
-      "respuesta_correcta": "c) Quien contamine (principio de 'quien contamina paga')."
-    },
-    {
-      "pregunta": "¿Cómo se define la 'Biodiversidad' según el artículo 3?",
-      "opciones": [
-        "a) La cantidad de animales en un bosque.",
-        "b) Variabilidad de los organismos vivos de cualquier fuente, incluidos los ecosistemas terrestres y marinos y los complejos ecológicos de los que forman parte.",
-        "c) Solo las especies en peligro de extinción.",
-        "d) Los recursos genéticos de las plantas."
-      ],
-      "respuesta_correcta": "b) Variabilidad de los organismos vivos de cualquier fuente, incluidos los ecosistemas terrestres y marinos y los complejos ecológicos de los que forman parte."
-    },
-    {
-      "pregunta": "¿Qué incluye el 'Patrimonio Natural'?",
-      "opciones": [
-        "a) Solo los parques nacionales.",
-        "b) El conjunto de bienes y recursos de la naturaleza fuente de diversidad biológica y geológica con valor medioambiental, científico, cultural, etc.",
-        "c) Los edificios históricos en entornos rurales.",
-        "d) Los zoológicos."
-      ],
-      "respuesta_correcta": "b) El conjunto de bienes y recursos de la naturaleza fuente de diversidad biológica y geológica con valor medioambiental, científico, cultural, etc."
-    },
-    {
-      "pregunta": "¿Qué se entiende por 'Estado de conservación favorable' de una especie?",
-      "opciones": [
-        "a) Cuando se caza mucho.",
-        "b) Cuando su dinámica poblacional indica que sigue constituyendo un componente vital de su hábitat y su área de distribución no se reduce.",
-        "c) Cuando quedan pocos ejemplares pero están protegidos.",
-        "d) Cuando vive en un zoo."
-      ],
-      "respuesta_correcta": "b) Cuando su dinámica poblacional indica que sigue constituyendo un componente vital de su hábitat y su área de distribución no se reduce."
-    },
-    {
-      "pregunta": "¿Qué es una 'Especie exótica invasora'?",
-      "opciones": [
-        "a) Cualquier especie extranjera.",
-        "b) La que se introduce en un ecosistema natural o seminatural y es capaz de sobrevivir, reproducirse y amenazar a la diversidad biológica nativa.",
-        "c) Una especie que se come.",
-        "d) Una especie migratoria."
-      ],
-      "respuesta_correcta": "b) La que se introduce en un ecosistema natural o seminatural y es capaz de sobrevivir, reproducirse y amenazar a la diversidad biológica nativa."
-    },
-    {
-      "pregunta": "¿A quién corresponde la titularidad de los recursos genéticos silvestres?",
-      "opciones": [
-        "a) A las empresas farmacéuticas.",
-        "b) A las Comunidades Autónomas.",
-        "c) Son de dominio público.",
-        "d) A los propietarios del terreno."
-      ],
-      "respuesta_correcta": "c) Son de dominio público."
-    },
-    {
-      "pregunta": "¿Qué es el Inventario Español del Patrimonio Natural y de la Biodiversidad?",
-      "opciones": [
-        "a) Una lista de precios de madera.",
-        "b) Un instrumento para recoger información sobre la distribución, abundancia y estado de conservación del patrimonio natural.",
-        "c) Un catálogo de parques.",
-        "d) Un censo de cazadores."
-      ],
-      "respuesta_correcta": "b) Un instrumento para recoger información sobre la distribución, abundancia y estado de conservación del patrimonio natural."
-    },
-    {
-      "pregunta": "¿Quién elabora el Inventario Español del Patrimonio Natural y de la Biodiversidad?",
-      "opciones": [
-        "a) Las ONGs.",
-        "b) El Ministerio competente con la colaboración de las Comunidades Autónomas.",
-        "c) El SEPRONA.",
-        "d) La Unión Europea."
-      ],
-      "respuesta_correcta": "b) El Ministerio competente con la colaboración de las Comunidades Autónomas."
-    },
-    {
-      "pregunta": "¿Qué es el Plan Estratégico Estatal del Patrimonio Natural y de la Biodiversidad?",
-      "opciones": [
-        "a) Un mapa de carreteras.",
-        "b) El instrumento de planificación de la acción exterior.",
-        "c) El instrumento para establecer metas, objetivos y acciones para promover la conservación, uso sostenible y restauración del patrimonio.",
-        "d) Una ley autonómica."
-      ],
-      "respuesta_correcta": "c) El instrumento para establecer metas, objetivos y acciones para promover la conservación, uso sostenible y restauración del patrimonio."
-    },
-    {
-      "pregunta": "¿Cuál es la vigencia máxima del Plan Estratégico Estatal?",
-      "opciones": [
-        "a) 4 años.",
-        "b) 6 años.",
-        "c) 10 años.",
-        "d) Indefinida."
-      ],
-      "respuesta_correcta": "c) 10 años (según redacción original y contexto de revisión, aunque la ley dice que se revisará, el horizonte suele ser decenal o sexenal según directivas)."
-    },
-    {
-      "pregunta": "¿Qué son los PORN?",
-      "opciones": [
-        "a) Planes de Ordenación de Recursos Naturales.",
-        "b) Planes de Obras y Restauración Nacional.",
-        "c) Parques Oficiales de Recursos Naturales.",
-        "d) Programas de Organización de Recursos Nocivos."
-      ],
-      "respuesta_correcta": "a) Planes de Ordenación de Recursos Naturales."
-    },
-    {
-      "pregunta": "¿Cuál es el objeto de los PORN?",
-      "opciones": [
-        "a) Construir hoteles.",
-        "b) Adecuar la gestión de los recursos naturales y los espacios naturales protegidos.",
-        "c) Fomentar la industria.",
-        "d) Vender terrenos."
-      ],
-      "respuesta_correcta": "b) Adecuar la gestión de los recursos naturales y los espacios naturales protegidos."
-    },
-    {
-      "pregunta": "¿Qué carácter tienen los PORN respecto a la planificación urbanística?",
-      "opciones": [
-        "a) Subsidiario.",
-        "b) Son determinantes y vinculantes; los planes urbanísticos deben adaptarse a ellos.",
-        "c) Son meras recomendaciones.",
-        "d) No tienen relación."
-      ],
-      "respuesta_correcta": "b) Son determinantes y vinculantes; los planes urbanísticos deben adaptarse a ellos."
-    },
-    {
-      "pregunta": "Durante la tramitación de un PORN, ¿se pueden conceder licencias urbanísticas que alteren la realidad física?",
-      "opciones": [
-        "a) Sí, sin problema.",
-        "b) No, se establece un régimen de protección preventiva que prohíbe actos que imposibiliten los objetivos del Plan.",
-        "c) Sí, si paga el promotor.",
-        "d) Solo para viviendas."
-      ],
-      "respuesta_correcta": "b) No, se establece un régimen de protección preventiva que prohíbe actos que imposibiliten los objetivos del Plan."
-    },
-    {
-      "pregunta": "¿Quién aprueba los PORN?",
-      "opciones": [
-        "a) El Alcalde.",
-        "b) Las Comunidades Autónomas (normalmente).",
-        "c) El Ministerio de Medio Ambiente siempre.",
-        "d) La Unión Europea."
-      ],
-      "respuesta_correcta": "b) Las Comunidades Autónomas (normalmente)."
-    },
-    {
-      "pregunta": "¿Cuáles son las categorías de Espacios Naturales Protegidos según la Ley 42/2007?",
-      "opciones": [
-        "a) Parques, Reservas Naturales, Áreas Marinas Protegidas, Monumentos Naturales y Paisajes Protegidos.",
-        "b) Parques Nacionales y Parques Naturales solamente.",
-        "c) Zonas Verdes y Bosques.",
-        "d) Reservas de Caza y Pesca."
-      ],
-      "respuesta_correcta": "a) Parques, Reservas Naturales, Áreas Marinas Protegidas, Monumentos Naturales y Paisajes Protegidos."
-    },
-    {
-      "pregunta": "¿Qué caracteriza a los 'Parques'?",
-      "opciones": [
-        "a) Son áreas artificiales.",
-        "b) Áreas naturales poco transformadas por la acción humana con valores ecológicos, estéticos, educativos y científicos cuya conservación merece atención preferente.",
-        "c) Lugares solo para la caza.",
-        "d) Zonas urbanas con árboles."
-      ],
-      "respuesta_correcta": "b) Áreas naturales poco transformadas por la acción humana con valores ecológicos, estéticos, educativos y científicos cuya conservación merece atención preferente."
-    },
-    {
-      "pregunta": "¿Qué se limita en los Parques?",
-      "opciones": [
-        "a) El paso de personas.",
-        "b) El aprovechamiento de recursos naturales, prohibiéndose los incompatibles con sus finalidades.",
-        "c) La fotografía.",
-        "d) El aire."
-      ],
-      "respuesta_correcta": "b) El aprovechamiento de recursos naturales, prohibiéndose los incompatibles con sus finalidades."
-    },
-    {
-      "pregunta": "¿Qué son las 'Reservas Naturales'?",
-      "opciones": [
-        "a) Espacios naturales cuya creación tiene como finalidad la protección de ecosistemas, comunidades o elementos biológicos que por su rareza, fragilidad, importancia o singularidad merecen una valoración especial.",
-        "b) Reservas de agua.",
-        "c) Reservas de indios.",
-        "d) Cotos de caza."
-      ],
-      "respuesta_correcta": "a) Espacios naturales cuya creación tiene como finalidad la protección de ecosistemas, comunidades o elementos biológicos que por su rareza, fragilidad, importancia o singularidad merecen una valoración especial."
-    },
-    {
-      "pregunta": "¿Qué actividad está generalmente prohibida en las Reservas Naturales?",
-      "opciones": [
-        "a) Respirar.",
-        "b) La explotación de recursos, salvo fines científicos o educativos.",
-        "c) Mirar.",
-        "d) Ninguna."
-      ],
-      "respuesta_correcta": "b) La explotación de recursos, salvo fines científicos o educativos."
-    },
-    {
-      "pregunta": "¿Qué son las 'Áreas Marinas Protegidas'?",
-      "opciones": [
-        "a) Playas privadas.",
-        "b) Espacios naturales designados para la protección de ecosistemas, comunidades o elementos biológicos o geológicos del medio marino.",
-        "c) Puertos deportivos.",
-        "d) Zonas de pesca intensiva."
-      ],
-      "respuesta_correcta": "b) Espacios naturales designados para la protección de ecosistemas, comunidades o elementos biológicos o geológicos del medio marino."
-    },
-    {
-      "pregunta": "¿Qué integra la Red de Áreas Marinas Protegidas de España (RAMPE)?",
-      "opciones": [
-        "a) Solo las zonas de pesca.",
-        "b) Las áreas marinas protegidas, las ZEC y ZEPA marinas, y otras zonas protegidas por tratados internacionales.",
-        "c) Los acuarios.",
-        "d) Las piscinas de agua salada."
-      ],
-      "respuesta_correcta": "b) Las áreas marinas protegidas, las ZEC y ZEPA marinas, y otras zonas protegidas por tratados internacionales."
-    },
-    {
-      "pregunta": "¿Qué son los 'Monumentos Naturales'?",
-      "opciones": [
-        "a) Estatuas en parques.",
-        "b) Espacios o elementos de la naturaleza de notoria singularidad, rareza o belleza (árboles singulares, formaciones geológicas, etc.).",
-        "c) Catedrales.",
-        "d) Castillos."
-      ],
-      "respuesta_correcta": "b) Espacios o elementos de la naturaleza de notoria singularidad, rareza o belleza (árboles singulares, formaciones geológicas, etc.)."
-    },
-    {
-      "pregunta": "¿Qué son los 'Paisajes Protegidos'?",
-      "opciones": [
-        "a) Cuadros de paisajes.",
-        "b) Partes del territorio que las Administraciones consideran merecedoras de protección por sus valores naturales, estéticos y culturales.",
-        "c) Jardines privados.",
-        "d) Campos de golf."
-      ],
-      "respuesta_correcta": "b) Partes del territorio que las Administraciones consideran merecedoras de protección por sus valores naturales, estéticos y culturales."
-    },
-    {
-      "pregunta": "¿Quién declara los Espacios Naturales Protegidos?",
-      "opciones": [
-        "a) La ONU.",
-        "b) Las Comunidades Autónomas en su ámbito territorial y el Estado en el ámbito marino (o supuestos supraautonómicos específicos).",
-        "c) Los Ayuntamientos siempre.",
-        "d) El Rey."
-      ],
-      "respuesta_correcta": "b) Las Comunidades Autónomas en su ámbito territorial y el Estado en el ámbito marino (o supuestos supraautonómicos específicos)."
-    },
-    {
-      "pregunta": "¿Qué es la Red Natura 2000?",
-      "opciones": [
-        "a) Una red de carreteras.",
-        "b) Una red ecológica europea de áreas de conservación de la biodiversidad.",
-        "c) Una red social.",
-        "d) Una red de telecomunicaciones."
-      ],
-      "respuesta_correcta": "b) Una red ecológica europea de áreas de conservación de la biodiversidad."
-    },
-    {
-      "pregunta": "¿Qué espacios componen la Red Natura 2000?",
-      "opciones": [
-        "a) Los Parques Nacionales solamente.",
-        "b) Las Zonas Especiales de Conservación (ZEC) y las Zonas de Especial Protección para las Aves (ZEPA).",
-        "c) Los montes públicos.",
-        "d) Las playas."
-      ],
-      "respuesta_correcta": "b) Las Zonas Especiales de Conservación (ZEC) y las Zonas de Especial Protección para las Aves (ZEPA)."
-    },
-    {
-      "pregunta": "¿Qué es un LIC?",
-      "opciones": [
-        "a) Licencia de Caza.",
-        "b) Lugar de Importancia Comunitaria.",
-        "c) Ley de Interés Común.",
-        "d) Lugar de Interés Cultural."
-      ],
-      "respuesta_correcta": "b) Lugar de Importancia Comunitaria."
-    },
-    {
-      "pregunta": "¿En qué se transforma un LIC una vez aprobado por la Comisión Europea y declarado por la Administración competente?",
-      "opciones": [
-        "a) En Parque Nacional.",
-        "b) En Zona Especial de Conservación (ZEC).",
-        "c) En Reserva de la Biosfera.",
-        "d) En nada."
-      ],
-      "respuesta_correcta": "b) En Zona Especial de Conservación (ZEC)."
-    },
-    {
-      "pregunta": "¿Qué son las ZEPA?",
-      "opciones": [
-        "a) Zonas de Especial Protección para las Aves.",
-        "b) Zonas de Esparcimiento Para Animales.",
-        "c) Zonas Ecológicas Protegidas Ambientalmente.",
-        "d) Zonas de Estudio Para Alumnos."
-      ],
-      "respuesta_correcta": "a) Zonas de Especial Protección para las Aves."
-    },
-    {
-      "pregunta": "¿Qué obligación conlleva la declaración de una ZEC?",
-      "opciones": [
-        "a) Vallarla.",
-        "b) Establecer medidas de conservación necesarias (planes de gestión).",
-        "c) Prohibir la entrada a todos.",
-        "d) Cobrar entrada."
-      ],
-      "respuesta_correcta": "b) Establecer medidas de conservación necesarias (planes de gestión)."
-    },
-    {
-      "pregunta": "¿Qué debe hacerse con cualquier plan o proyecto que pueda afectar a un espacio de la Red Natura 2000?",
-      "opciones": [
-        "a) Aprobarlo sin más.",
-        "b) Someterlo a una adecuada evaluación de sus repercusiones en el espacio.",
-        "c) Prohibirlo siempre.",
-        "d) Consultar a los vecinos."
-      ],
-      "respuesta_correcta": "b) Someterlo a una adecuada evaluación de sus repercusiones en el espacio."
-    },
-    {
-      "pregunta": "¿Se puede aprobar un plan con efectos negativos sobre Red Natura 2000?",
-      "opciones": [
-        "a) No, nunca.",
-        "b) Sí, si no hay soluciones alternativas y existen razones imperiosas de interés público de primer orden, tomando medidas compensatorias.",
-        "c) Sí, pagando una multa.",
-        "d) Sí, si lo firma el Alcalde."
-      ],
-      "respuesta_correcta": "b) Sí, si no hay soluciones alternativas y existen razones imperiosas de interés público de primer orden, tomando medidas compensatorias."
-    },
-    {
-      "pregunta": "¿Qué áreas internacionales de protección contempla la ley?",
-      "opciones": [
-        "a) Reservas de la Biosfera (MaB), Humedales Ramsar, Sitios Patrimonio Mundial (UNESCO), etc.",
-        "b) Solo las de la UE.",
-        "c) Las de la OTAN.",
-        "d) Las bases militares."
-      ],
-      "respuesta_correcta": "a) Reservas de la Biosfera (MaB), Humedales Ramsar, Sitios Patrimonio Mundial (UNESCO), etc."
-    },
-    {
-      "pregunta": "¿Qué es el Listado de Especies Silvestres en Régimen de Protección Especial (LESRPE)?",
-      "opciones": [
-        "a) Una lista de animales de zoo.",
-        "b) Un registro nacional de especies que merecen una atención y protección particular.",
-        "c) Una lista de especies cazables.",
-        "d) Una lista de mascotas."
-      ],
-      "respuesta_correcta": "b) Un registro nacional de especies que merecen una atención y protección particular."
-    },
-    {
-      "pregunta": "¿Qué conlleva la inclusión de una especie en el LESRPE?",
-      "opciones": [
-        "a) Se puede cazar con permiso.",
-        "b) La prohibición de recogerla, cortarla, mutilarla (plantas) o de darle muerte, capturarla, perseguirla o molestarla (animales).",
-        "c) Nada en especial.",
-        "d) Que se puede vender cara."
-      ],
-      "respuesta_correcta": "b) La prohibición de recogerla, cortarla, mutilarla (plantas) o de darle muerte, capturarla, perseguirla o molestarla (animales)."
-    },
-    {
-      "pregunta": "¿Qué es el Catálogo Español de Especies Amenazadas?",
-      "opciones": [
-        "a) Un libro de fotos.",
-        "b) Un registro dentro del LESRPE para especies en situación de amenaza.",
-        "c) Una lista de especies peligrosas para el hombre.",
-        "d) Un catálogo de tiendas de animales."
-      ],
-      "respuesta_correcta": "b) Un registro dentro del LESRPE para especies en situación de amenaza."
-    },
-    {
-      "pregunta": "¿En qué categorías se clasifican las especies del Catálogo de Amenazadas?",
-      "opciones": [
-        "a) Raras y bonitas.",
-        "b) En peligro de extinción y Vulnerables.",
-        "c) Grandes y pequeñas.",
-        "d) Peligrosas y dóciles."
-      ],
-      "respuesta_correcta": "b) En peligro de extinción y Vulnerables."
-    },
-    {
-      "pregunta": "¿Qué implica la categoría 'En peligro de extinción'?",
-      "opciones": [
-        "a) Que quedan pocas.",
-        "b) Que su supervivencia es poco probable si los factores causales de su actual situación siguen actuando.",
-        "c) Que se han extinguido ya.",
-        "d) Que son peligrosas."
-      ],
-      "respuesta_correcta": "b) Que su supervivencia es poco probable si los factores causales de su actual situación siguen actuando."
-    },
-    {
-      "pregunta": "¿Qué implica la categoría 'Vulnerable'?",
-      "opciones": [
-        "a) Que son débiles.",
-        "b) Que corren el riesgo de pasar a la categoría de 'en peligro de extinción' en un futuro inmediato si los factores adversos no se corrigen.",
-        "c) Que se rompen fácil.",
-        "d) Que viven poco."
-      ],
-      "respuesta_correcta": "b) Que corren el riesgo de pasar a la categoría de 'en peligro de extinción' en un futuro inmediato si los factores adversos no se corrigen."
-    },
-    {
-      "pregunta": "¿Qué documento debe aprobarse para una especie 'En peligro de extinción'?",
-      "opciones": [
-        "a) Un Plan de Recuperación.",
-        "b) Un Plan de Conservación.",
-        "c) Un permiso de caza.",
-        "d) Un monumento."
-      ],
-      "respuesta_correcta": "a) Un Plan de Recuperación."
-    },
-    {
-      "pregunta": "¿Qué documento debe aprobarse para una especie 'Vulnerable'?",
-      "opciones": [
-        "a) Un Plan de Recuperación.",
-        "b) Un Plan de Conservación.",
-        "c) Una esquela.",
-        "d) Nada."
-      ],
-      "respuesta_correcta": "b) Un Plan de Conservación."
-    },
-    {
-      "pregunta": "¿Qué es un 'Área crítica' para una especie?",
-      "opciones": [
-        "a) Donde hay muchas críticas.",
-        "b) Aquellos sectores incluidos en el área de distribución que contienen hábitats esenciales para la conservación favorable de la especie.",
-        "c) Donde se mueren.",
-        "d) Donde no hay comida."
-      ],
-      "respuesta_correcta": "b) Aquellos sectores incluidos en el área de distribución que contienen hábitats esenciales para la conservación favorable de la especie."
-    },
-    {
-      "pregunta": "¿Qué es la 'Estrategia estatal de infraestructura verde y de la conectividad y restauración ecológicas'?",
-      "opciones": [
-        "a) Pintar de verde las carreteras.",
-        "b) Un documento para planificar la red de zonas naturales y seminaturales para asegurar la conectividad y servicios ecosistémicos.",
-        "c) Plantar árboles en autopistas.",
-        "d) Un plan de telefonía."
-      ],
-      "respuesta_correcta": "b) Un documento para planificar la red de zonas naturales y seminaturales para asegurar la conectividad y servicios ecosistémicos."
-    },
-    {
-      "pregunta": "¿Quién crea el Catálogo Español de Especies Exóticas Invasoras?",
-      "opciones": [
-        "a) Las tiendas de mascotas.",
-        "b) El Ministerio competente (a propuesta de la Comisión Estatal).",
-        "c) La Guardia Civil.",
-        "d) Los cazadores."
-      ],
-      "respuesta_correcta": "b) El Ministerio competente (a propuesta de la Comisión Estatal)."
-    },
-    {
-      "pregunta": "¿Qué prohibición general se aplica a las especies del Catálogo de Exóticas Invasoras?",
-      "opciones": [
-        "a) Ninguna.",
-        "b) Posesión, transporte, tráfico y comercio de ejemplares vivos o muertos, y su introducción en el medio natural.",
-        "c) Solo su venta.",
-        "d) Solo su suelta."
-      ],
-      "respuesta_correcta": "b) Posesión, transporte, tráfico y comercio de ejemplares vivos o muertos, y su introducción en el medio natural."
-    },
-    {
-      "pregunta": "¿Se puede autorizar la suelta de especies alóctonas no invasoras para caza o pesca?",
-      "opciones": [
-        "a) Sí, libremente.",
-        "b) Previa autorización administrativa basada en análisis de riesgos.",
-        "c) No, nunca.",
-        "d) Sí, si son bonitas."
-      ],
-      "respuesta_correcta": "b) Previa autorización administrativa basada en análisis de riesgos."
-    },
-    {
-      "pregunta": "¿Qué métodos de captura de animales están prohibidos con carácter general?",
-      "opciones": [
-        "a) La escopeta.",
-        "b) Los masivos o no selectivos (cepos, lazos no selectivos, venenos, explosivos, etc.).",
-        "c) La caña de pescar.",
-        "d) Los halcones."
-      ],
-      "respuesta_correcta": "b) Los masivos o no selectivos (cepos, lazos no selectivos, venenos, explosivos, etc.)."
-    },
-    {
-      "pregunta": "¿Se permite el uso de munición de plomo en humedales protegidos?",
-      "opciones": [
-        "a) Sí.",
-        "b) No, está prohibido.",
-        "c) Sí, si es poca cantidad.",
-        "d) Solo en verano."
-      ],
-      "respuesta_correcta": "b) No, está prohibido."
-    },
-    {
-      "pregunta": "¿A quién corresponde la vigilancia e inspección del cumplimiento de esta Ley?",
-      "opciones": [
-        "a) A los vecinos.",
-        "b) A los agentes de la autoridad (agentes forestales, medioambientales, Guardia Civil, etc.).",
-        "c) Al Ejército.",
-        "d) A nadie."
-      ],
-      "respuesta_correcta": "b) A los agentes de la autoridad (agentes forestales, medioambientales, Guardia Civil, etc.)."
-    },
-    {
-      "pregunta": "¿Qué valor tienen las actas de inspección de los agentes de la autoridad?",
-      "opciones": [
-        "a) Ninguno.",
-        "b) Presunción de veracidad respecto a los hechos constatados.",
-        "c) Son sentencias firmes.",
-        "d) Son opiniones."
-      ],
-      "respuesta_correcta": "b) Presunción de veracidad respecto a los hechos constatados."
-    },
-    {
-      "pregunta": "¿Cómo se clasifican las infracciones en la Ley 42/2007?",
-      "opciones": [
-        "a) Penales y civiles.",
-        "b) Leves, graves y muy graves.",
-        "c) Altas y bajas.",
-        "d) Buenas y malas."
-      ],
-      "respuesta_correcta": "b) Leves, graves y muy graves."
-    },
-    {
-      "pregunta": "¿Es infracción la destrucción de hábitats de especies 'En peligro de extinción'?",
-      "opciones": [
-        "a) No, si es mi terreno.",
-        "b) Sí, infracción muy grave (generalmente, si supera ciertos daños).",
-        "c) Es leve.",
-        "d) Es grave."
-      ],
-      "respuesta_correcta": "b) Sí, infracción muy grave (generalmente, si supera ciertos daños)."
-    },
-    {
-      "pregunta": "¿Qué sanción corresponde a las infracciones muy graves?",
-      "opciones": [
-        "a) 100 a 1000 euros.",
-        "b) 200.001 a 2.000.000 de euros.",
-        "c) 3.001 a 200.000 euros.",
-        "d) Prisión."
-      ],
-      "respuesta_correcta": "b) 200.001 a 2.000.000 de euros."
-    },
-    {
-      "pregunta": "¿Qué sanción corresponde a las infracciones graves?",
-      "opciones": [
-        "a) 3.001 a 200.000 euros.",
-        "b) 100 a 3.000 euros.",
-        "c) 200.001 a 2.000.000 euros.",
-        "d) 50 euros."
-      ],
-      "respuesta_correcta": "a) 3.001 a 200.000 euros."
-    },
-    {
-      "pregunta": "¿Qué sanción corresponde a las infracciones leves?",
-      "opciones": [
-        "a) 100 a 3.000 euros.",
-        "b) 5000 euros.",
-        "c) 1 euro.",
-        "d) Nada."
-      ],
-      "respuesta_correcta": "a) 100 a 3.000 euros."
-    },
-    {
-      "pregunta": "¿Cuándo prescriben las infracciones muy graves?",
-      "opciones": [
-        "a) A los 3 años.",
-        "b) A los 5 años.",
-        "c) A los 10 años.",
-        "d) Al año."
-      ],
-      "respuesta_correcta": "b) A los 5 años."
-    },
-    {
-      "pregunta": "¿Cuándo prescriben las infracciones graves?",
-      "opciones": [
-        "a) A los 6 meses.",
-        "b) A los 3 años.",
-        "c) A los 5 años.",
-        "d) Al año."
-      ],
-      "respuesta_correcta": "b) A los 3 años."
-    },
-    {
-      "pregunta": "¿Cuándo prescriben las infracciones leves?",
-      "opciones": [
-        "a) Al año.",
-        "b) A los 6 meses.",
-        "c) A los 2 años.",
-        "d) A los 5 años."
-      ],
-      "respuesta_correcta": "a) Al año."
-    },
-    {
-      "pregunta": "¿Quién debe reparar el daño ambiental causado por una infracción?",
-      "opciones": [
-        "a) El Estado.",
-        "b) El infractor (reponer la situación a su estado anterior e indemnizar).",
-        "c) El seguro.",
-        "d) Nadie."
-      ],
-      "respuesta_correcta": "b) El infractor (reponer la situación a su estado anterior e indemnizar)."
-    },
-    {
-      "pregunta": "¿Se puede imponer multas coercitivas?",
-      "opciones": [
-        "a) Sí, para forzar el cumplimiento de la reparación o de las obligaciones.",
-        "b) No.",
-        "c) Solo en penal.",
-        "d) Solo a empresas."
-      ],
-      "respuesta_correcta": "a) Sí, para forzar el cumplimiento de la reparación o de las obligaciones."
-    },
-    {
-      "pregunta": "¿Qué es la 'Custodia del territorio'?",
-      "opciones": [
-        "a) Poner policías en el campo.",
-        "b) Conjunto de estrategias e instrumentos para implicar a propietarios y usuarios en la conservación y buen uso de los valores y recursos naturales.",
-        "c) Cerrar fincas.",
-        "d) Expropiar."
-      ],
-      "respuesta_correcta": "b) Conjunto de estrategias e instrumentos para implicar a propietarios y usuarios en la conservación y buen uso de los valores y recursos naturales."
-    },
-    {
-      "pregunta": "¿Qué es un 'Banco de conservación de la naturaleza'?",
-      "opciones": [
-        "a) Un banco de semillas.",
-        "b) Un mecanismo de mercado para compensar impactos ambientales mediante la compra de 'créditos de conservación'.",
-        "c) Una caja de ahorros.",
-        "d) Un parque."
-      ],
-      "respuesta_correcta": "b) Un mecanismo de mercado para compensar impactos ambientales mediante la compra de 'créditos de conservación'."
-    },
-    {
-      "pregunta": "¿Qué es el 'Catálogo Español de Hábitats en Peligro de Desaparición'?",
-      "opciones": [
-        "a) Una lista de casas viejas.",
-        "b) Un registro de hábitats cuya superficie o calidad se ha reducido drásticamente y requieren protección.",
-        "c) Un catálogo de muebles.",
-        "d) No existe."
-      ],
-      "respuesta_correcta": "b) Un registro de hábitats cuya superficie o calidad se ha reducido drásticamente y requieren protección."
-    },
-    {
-      "pregunta": "¿Qué función tiene el Consejo Estatal para el Patrimonio Natural y la Biodiversidad?",
-      "opciones": [
-        "a) Sancionar.",
-        "b) Órgano de participación pública y asesoramiento.",
-        "c) Gobernar.",
-        "d) Recaudar."
-      ],
-      "respuesta_correcta": "b) Órgano de participación pública y asesoramiento."
-    },
-    {
-      "pregunta": "¿Qué es la Comisión Estatal para el Patrimonio Natural y la Biodiversidad?",
-      "opciones": [
-        "a) Órgano de coordinación entre Estado y Comunidades Autónomas.",
-        "b) Un tribunal.",
-        "c) Una ONG.",
-        "d) Una empresa."
-      ],
-      "respuesta_correcta": "a) Órgano de coordinación entre Estado y Comunidades Autónomas."
-    },
-    {
-      "pregunta": "¿Qué se entiende por 'Conocimiento tradicional'?",
-      "opciones": [
-        "a) Supersticiones.",
-        "b) Conocimientos, innovaciones y prácticas de las poblaciones locales relevantes para la conservación y uso sostenible de la biodiversidad.",
-        "c) Historia.",
-        "d) Leyendas."
-      ],
-      "respuesta_correcta": "b) Conocimientos, innovaciones y prácticas de las poblaciones locales relevantes para la conservación y uso sostenible de la biodiversidad."
-    },
-    {
-      "pregunta": "¿Qué es el 'Corredor ecológico'?",
-      "opciones": [
-        "a) Un pasillo verde.",
-        "b) Territorio que conecta espacios protegidos permitiendo el intercambio genético y la migración de especies.",
-        "c) Un atleta.",
-        "d) Una carretera."
-      ],
-      "respuesta_correcta": "b) Territorio que conecta espacios protegidos permitiendo el intercambio genético y la migración de especies."
-    },
-    {
-      "pregunta": "¿Qué es la 'taxidermia' según la ley?",
-      "opciones": [
-        "a) Conducir taxis.",
-        "b) El arte de disecar animales para conservarlos con apariencia de vivos.",
-        "c) Cazar.",
-        "d) Pescar."
-      ],
-      "respuesta_correcta": "b) El arte de disecar animales para conservarlos con apariencia de vivos."
-    },
-    {
-      "pregunta": "¿Se permite la taxidermia de especies protegidas?",
-      "opciones": [
-        "a) Sí, siempre.",
-        "b) No, salvo autorización excepcional y con registro documental.",
-        "c) Sí, si se encuentran muertas.",
-        "d) Sí, para museos privados sin control."
-      ],
-      "respuesta_correcta": "b) No, salvo autorización excepcional y con registro documental."
-    },
-    {
-      "pregunta": "¿Qué es el Fondo para el Patrimonio Natural y la Biodiversidad?",
-      "opciones": [
-        "a) Un pozo.",
-        "b) Un instrumento de cofinanciación para asegurar la cohesión territorial en la gestión del patrimonio natural.",
-        "c) Una cuenta en Suiza.",
-        "d) Un impuesto."
-      ],
-      "respuesta_correcta": "b) Un instrumento de cofinanciación para asegurar la cohesión territorial en la gestión del patrimonio natural."
-    },
-    {
-      "pregunta": "¿Qué deben hacer las CCAA en relación con la Red Natura 2000?",
-      "opciones": [
-        "a) Ignorarla.",
-        "b) Designar las zonas y aprobar los planes de gestión.",
-        "c) Pedir dinero a Europa solamente.",
-        "d) Vallarlas."
-      ],
-      "respuesta_correcta": "b) Designar las zonas y aprobar los planes de gestión."
-    },
-    {
-      "pregunta": "¿Qué es un 'Plan Rector de Uso y Gestión' (PRUG)?",
-      "opciones": [
-        "a) El documento de gestión habitual de los Parques.",
-        "b) Un plano.",
-        "c) Una norma de tráfico.",
-        "d) Un presupuesto."
-      ],
-      "respuesta_correcta": "a) El documento de gestión habitual de los Parques."
-    },
-    {
-      "pregunta": "¿Qué ocurre si una especie autóctona se extingue?",
-      "opciones": [
-        "a) Se promueve su reintroducción si es viable y beneficia a la biodiversidad.",
-        "b) Se sustituye por una exótica.",
-        "c) Nada.",
-        "d) Se hace un monumento."
-      ],
-      "respuesta_correcta": "a) Se promueve su reintroducción si es viable y beneficia a la biodiversidad."
-    },
-    {
-      "pregunta": "¿Qué es la 'caza intensiva'?",
-      "opciones": [
-        "a) Cazar mucho.",
-        "b) Aquella que se practica sobre piezas de caza liberadas con esa finalidad.",
-        "c) Cazar de noche.",
-        "d) Cazar con arco."
-      ],
-      "respuesta_correcta": "b) Aquella que se practica sobre piezas de caza liberadas con esa finalidad."
-    },
-    {
-      "pregunta": "¿Se puede usar veneno para matar depredadores?",
-      "opciones": [
-        "a) Sí, en cotos.",
-        "b) No, está prohibido como método masivo no selectivo.",
-        "c) Sí, si hay muchos.",
-        "d) Solo raticida."
-      ],
-      "respuesta_correcta": "b) No, está prohibido como método masivo no selectivo."
-    },
-    {
-      "pregunta": "¿Qué es la 'pesca eléctrica'?",
-      "opciones": [
-        "a) Pescar con luz.",
-        "b) Uso de electricidad para aturdir peces (prohibido salvo fines científicos/gestión).",
-        "c) Pescar rayas eléctricas.",
-        "d) Pescar online."
-      ],
-      "respuesta_correcta": "b) Uso de electricidad para aturdir peces (prohibido salvo fines científicos/gestión)."
-    },
-    {
-      "pregunta": "¿Qué es el 'furtivismo'?",
-      "opciones": [
-        "a) Cazar o pescar sin autorización o incumpliendo la normativa.",
-        "b) Cazar en grupo.",
-        "c) Pescar en el mar.",
-        "d) Cazar con perro."
-      ],
-      "respuesta_correcta": "a) Cazar o pescar sin autorización o incumpliendo la normativa."
-    },
-    {
-      "pregunta": "¿Se pueden llevar especies invasoras como mascotas?",
-      "opciones": [
-        "a) Sí.",
-        "b) No, su posesión está prohibida (salvo excepciones transitorias o autorizadas).",
-        "c) Solo si son pequeñas.",
-        "d) Solo si no muerden."
-      ],
-      "respuesta_correcta": "b) No, su posesión está prohibida (salvo excepciones transitorias o autorizadas)."
-    },
-    {
-      "pregunta": "¿Qué papel juega el SEPRONA en esta Ley?",
-      "opciones": [
-        "a) Ninguno.",
-        "b) Es el cuerpo policial específico dedicado a la protección de la naturaleza y cumplimiento de la normativa ambiental.",
-        "c) Es una ONG.",
-        "d) Es un tribunal."
-      ],
-      "respuesta_correcta": "b) Es el cuerpo policial específico dedicado a la protección de la naturaleza y cumplimiento de la normativa ambiental."
-    },
-    {
-      "pregunta": "¿Qué significa 'desarrollo sostenible'?",
-      "opciones": [
-        "a) Crecer sin parar.",
-        "b) Satisfacer las necesidades actuales sin comprometer las de futuras generaciones.",
-        "c) No gastar.",
-        "d) Construir casas ecológicas."
-      ],
-      "respuesta_correcta": "b) Satisfacer las necesidades actuales sin comprometer las de futuras generaciones."
-    },
-    {
-      "pregunta": "¿Qué es un 'Humedal de Importancia Internacional'?",
-      "opciones": [
-        "a) Un charco grande.",
-        "b) Un espacio incluido en el Convenio de Ramsar.",
-        "c) Una playa.",
-        "d) Un río."
-      ],
-      "respuesta_correcta": "b) Un espacio incluido en el Convenio de Ramsar."
-    },
-    {
-      "pregunta": "¿Qué es la 'Red de Parques Nacionales'?",
-      "opciones": [
-        "a) Un sistema integrado por los Parques Nacionales de España.",
-        "b) Una web.",
-        "c) Un mapa.",
-        "d) Una asociación."
-      ],
-      "respuesta_correcta": "a) Un sistema integrado por los Parques Nacionales de España."
-    },
-    {
-      "pregunta": "¿Qué protección tienen los minerales y fósiles?",
-      "opciones": [
-        "a) Ninguna.",
-        "b) Forman parte del patrimonio geológico y pueden ser protegidos.",
-        "c) Son de quien los encuentre.",
-        "d) Son para construcción."
-      ],
-      "respuesta_correcta": "b) Forman parte del patrimonio geológico y pueden ser protegidos."
-    },
-    {
-      "pregunta": "¿Se puede edificar en un Parque Nacional?",
-      "opciones": [
-        "a) Sí, hoteles.",
-        "b) No, salvo excepciones para gestión o infraestructuras compatibles muy limitadas (urbanizable prohibido).",
-        "c) Sí, chalets.",
-        "d) Sí, fábricas."
-      ],
-      "respuesta_correcta": "b) No, salvo excepciones para gestión o infraestructuras compatibles muy limitadas (urbanizable prohibido)."
-    },
-    {
-      "pregunta": "¿Qué es la 'Evaluación Ambiental'?",
-      "opciones": [
-        "a) Un examen del colegio.",
-        "b) El procedimiento administrativo para analizar los efectos de planes y proyectos sobre el medio ambiente.",
-        "c) Una multa.",
-        "d) Una limpieza."
-      ],
-      "respuesta_correcta": "b) El procedimiento administrativo para analizar los efectos de planes y proyectos sobre el medio ambiente."
-    },
-    {
-      "pregunta": "¿Qué es un 'Plan de Gestión' de un espacio Natura 2000?",
-      "opciones": [
-        "a) Un horario de visitas.",
-        "b) El instrumento que establece las medidas de conservación necesarias para mantener los hábitats y especies en estado favorable.",
-        "c) Un folleto.",
-        "d) Un presupuesto."
-      ],
-      "respuesta_correcta": "b) El instrumento que establece las medidas de conservación necesarias para mantener los hábitats y especies en estado favorable."
-    },
-    {
-      "pregunta": "¿Qué plazo hay para aprobar los planes de gestión de las ZEC?",
-      "opciones": [
-        "a) 1 año.",
-        "b) 6 años máximo desde la declaración como LIC por la Comisión.",
-        "c) 10 años.",
-        "d) No hay plazo."
-      ],
-      "respuesta_correcta": "b) 6 años máximo desde la declaración como LIC por la Comisión."
-    },
-    {
-      "pregunta": "¿Qué son las 'medidas compensatorias' en Natura 2000?",
-      "opciones": [
-        "a) Pagar dinero.",
-        "b) Medidas para asegurar la coherencia global de la Red cuando se aprueba un plan dañino por interés público superior.",
-        "c) Pedir perdón.",
-        "d) Plantar flores."
-      ],
-      "respuesta_correcta": "b) Medidas para asegurar la coherencia global de la Red cuando se aprueba un plan dañino por interés público superior."
-    },
-    {
-      "pregunta": "¿A quién se informa de las medidas compensatorias?",
-      "opciones": [
-        "a) Al Alcalde.",
-        "b) A la Comisión Europea.",
-        "c) A la prensa.",
-        "d) A nadie."
-      ],
-      "respuesta_correcta": "b) A la Comisión Europea."
-    },
-    {
-      "pregunta": "¿Qué es la 'información ambiental'?",
-      "opciones": [
-        "a) El tiempo en la tele.",
-        "b) Cualquier información sobre el estado del medio ambiente, factores, medidas, etc.",
-        "c) Noticias de sucesos.",
-        "d) Cotilleos."
-      ],
-      "respuesta_correcta": "b) Cualquier información sobre el estado del medio ambiente, factores, medidas, etc."
-    },
-    {
-      "pregunta": "¿Es público el Inventario del Patrimonio Natural?",
-      "opciones": [
-        "a) No, es secreto.",
-        "b) Sí, accesible a los ciudadanos.",
-        "c) Solo para científicos.",
-        "d) Solo para políticos."
-      ],
-      "respuesta_correcta": "b) Sí, accesible a los ciudadanos."
-    },
-    {
-      "pregunta": "¿Qué sanción accesoria puede conllevar una infracción grave o muy grave de caza?",
-      "opciones": [
-        "a) Retirada de la licencia de caza e inhabilitación.",
-        "b) Prisión.",
-        "c) Trabajo social.",
-        "d) Multa de tráfico."
-      ],
-      "respuesta_correcta": "a) Retirada de la licencia de caza e inhabilitación."
-    },
-    {
-      "pregunta": "¿Qué es el 'comiso' en la Ley 42/2007?",
-      "opciones": [
-        "a) Comer juntos.",
-        "b) Aprehensión definitiva de los medios utilizados para la infracción y de los productos obtenidos ilícitamente.",
-        "c) Una multa.",
-        "d) Una tasa."
-      ],
-      "respuesta_correcta": "b) Aprehensión definitiva de los medios utilizados para la infracción y de los productos obtenidos ilícitamente."
-    },
-    {
-      "pregunta": "¿Se considera infracción la alteración de señales de espacios protegidos?",
-      "opciones": [
-        "a) Sí, leve o grave según daños.",
-        "b) No.",
-        "c) Es una gamberrada.",
-        "d) Solo si se rompen."
-      ],
-      "respuesta_correcta": "a) Sí, leve o grave según daños."
-    },
-    {
-      "pregunta": "¿Qué es el 'paisaje' según el Convenio Europeo del Paisaje (ratificado por España e integrado en la Ley)?",
-      "opciones": [
-        "a) Una foto.",
-        "b) Cualquier parte del territorio tal como la percibe la población, cuyo carácter sea el resultado de la acción y la interacción de factores naturales y/o humanos.",
-        "c) Un campo.",
-        "d) Una montaña."
-      ],
-      "respuesta_correcta": "b) Cualquier parte del territorio tal como la percibe la población, cuyo carácter sea el resultado de la acción y la interacción de factores naturales y/o humanos."
-    },
-    {
-      "pregunta": "¿Qué deben incluir los planes de ordenación territorial respecto a la conectividad?",
-      "opciones": [
-        "a) Más carreteras.",
-        "b) Medidas para garantizar la conectividad ecológica (corredores).",
-        "c) Internet.",
-        "d) Vías de tren."
-      ],
-      "respuesta_correcta": "b) Medidas para garantizar la conectividad ecológica (corredores)."
-    },
-    {
-      "pregunta": "¿Qué es un 'recurso zoogenético'?",
-      "opciones": [
-        "a) Un animal de granja.",
-        "b) Material genético de origen animal con valor real o potencial.",
-        "c) Un zoo.",
-        "d) Carne."
-      ],
-      "respuesta_correcta": "b) Material genético de origen animal con valor real o potencial."
-    },
-    {
-      "pregunta": "¿Qué prohíbe la ley respecto a la introducción de especies en el medio marino?",
-      "opciones": [
-        "a) Nada.",
-        "b) La introducción de especies alóctonas que puedan dañar el ecosistema.",
-        "c) Pescar.",
-        "d) Navegar."
-      ],
-      "respuesta_correcta": "b) La introducción de especies alóctonas que puedan dañar el ecosistema."
-    },
-    {
-      "pregunta": "¿Quién ejerce la potestad sancionadora en aguas exteriores (competencia estatal)?",
-      "opciones": [
-        "a) La Comunidad Autónoma costera.",
-        "b) La Administración General del Estado (Ministerio).",
-        "c) El Ayuntamiento.",
-        "d) La UE."
-      ],
-      "respuesta_correcta": "b) La Administración General del Estado (Ministerio)."
-    },
-    {
-      "pregunta": "¿Qué es el 'turismo de naturaleza'?",
-      "opciones": [
-        "a) Ir a la playa.",
-        "b) Turismo basado en el disfrute y conocimiento de la naturaleza, que debe ser sostenible.",
-        "c) Hacer barbacoas.",
-        "d) Ir de compras."
-      ],
-      "respuesta_correcta": "b) Turismo basado en el disfrute y conocimiento de la naturaleza, que debe ser sostenible."
-    },
-    {
-      "pregunta": "¿Se puede limitar el acceso de visitantes a espacios protegidos?",
-      "opciones": [
-        "a) No, la naturaleza es libre.",
-        "b) Sí, para garantizar su conservación (capacidad de carga).",
-        "c) Solo a extranjeros.",
-        "d) Solo si no pagan."
-      ],
-      "respuesta_correcta": "b) Sí, para garantizar su conservación (capacidad de carga)."
-    },
-    {
-      "pregunta": "¿Qué es la 'educación ambiental'?",
-      "opciones": [
-        "a) Una asignatura.",
-        "b) Proceso permanente para adquirir conciencia y conocimientos sobre el medio ambiente.",
-        "c) Ir de excursión.",
-        "d) Reciclar."
-      ],
-      "respuesta_correcta": "b) Proceso permanente para adquirir conciencia y conocimientos sobre el medio ambiente."
-    },
-    {
-      "pregunta": "¿Qué responsabilidad tienen las Administraciones Públicas en la conservación?",
-      "opciones": [
-        "a) Ninguna.",
-        "b) Velar por el mantenimiento y restauración de la biodiversidad y el patrimonio natural.",
-        "c) Solo cobrar impuestos.",
-        "d) Limpiar las calles."
-      ],
-      "respuesta_correcta": "b) Velar por el mantenimiento y restauración de la biodiversidad y el patrimonio natural."
-    },
-    {
-      "pregunta": "¿Qué sucede con las especies que no están en el LESRPE ni en el Catálogo de Invasoras y no son cinegéticas/piscícolas?",
-      "opciones": [
-        "a) Se pueden matar libremente.",
-        "b) Están protegidas genéricamente contra la captura o muerte indiscriminada sin autorización.",
-        "c) No existen.",
-        "d) Son plagas."
-      ],
-      "respuesta_correcta": "b) Están protegidas genéricamente contra la captura o muerte indiscriminada sin autorización (régimen general de protección)."
-    },
-    {
-      "pregunta": "¿Qué es la 'bioseguridad' en este contexto?",
-      "opciones": [
-        "a) Seguridad en laboratorios.",
-        "b) Medidas para evitar riesgos para el medio ambiente y la biodiversidad derivados de organismos modificados genéticamente o exóticos.",
-        "c) Seguridad alimentaria.",
-        "d) Vacunas."
-      ],
-      "respuesta_correcta": "b) Medidas para evitar riesgos para el medio ambiente y la biodiversidad derivados de organismos modificados genéticamente o exóticos."
-    },
-    {
-      "pregunta": "¿Qué es el 'inventario de conocimientos tradicionales'?",
-      "opciones": [
-        "a) Un libro de cocina.",
-        "b) Parte del Inventario Español que recoge saberes populares sobre biodiversidad.",
-        "c) Un museo etnográfico.",
-        "d) Una biblioteca."
-      ],
-      "respuesta_correcta": "b) Parte del Inventario Español que recoge saberes populares sobre biodiversidad."
-    },
-    {
-      "pregunta": "¿Pueden las CCAA establecer normas adicionales de protección más estrictas?",
-      "opciones": [
-        "a) No, la ley estatal es máxima.",
-        "b) Sí, la legislación estatal es básica y las CCAA pueden mejorar la protección.",
-        "c) Solo si lo pide el Gobierno.",
-        "d) Solo en parques nacionales."
-      ],
-      "respuesta_correcta": "b) Sí, la legislación estatal es básica y las CCAA pueden mejorar la protección."
-    },
-    {
-      "pregunta": "¿Qué es una 'Estrategia de conservación de especies amenazadas'?",
-      "opciones": [
-        "a) Un documento orientativo para la recuperación de especies en peligro o vulnerables a nivel estatal.",
-        "b) Una orden militar.",
-        "c) Un plan de caza.",
-        "d) Un zoológico."
-      ],
-      "respuesta_correcta": "a) Un documento orientativo para la recuperación de especies en peligro o vulnerables a nivel estatal."
-    },
-    {
-      "pregunta": "¿Qué es la 'Lista Roja' de especies?",
-      "opciones": [
-        "a) Una lista comunista.",
-        "b) Un documento técnico (UICN) que evalúa el riesgo de extinción, base científica para el Catálogo legal.",
-        "c) El Catálogo oficial.",
-        "d) Una lista de flores rojas."
-      ],
-      "respuesta_correcta": "b) Un documento técnico (UICN) que evalúa el riesgo de extinción, base científica para el Catálogo legal."
-    },
-    {
-      "pregunta": "¿Qué es el 'Dominio Público Marítimo-Terrestre' en relación con la biodiversidad?",
-      "opciones": [
-        "a) La playa.",
-        "b) Espacio de especial importancia donde el Estado tiene competencias clave para la protección de la biodiversidad marina y litoral.",
-        "c) Un puerto.",
-        "d) Un paseo marítimo."
-      ],
-      "respuesta_correcta": "b) Espacio de especial importancia donde el Estado tiene competencias clave para la protección de la biodiversidad marina y litoral."
+[
+  [
+    {
+      "tema": "TEMA 9.- LEY 42/2007 DE PATRIMONIO NATURAL Y BIODIVERSIDAD",
+      "descripcion": "Batería de 110 preguntas con distribución equitativa de respuestas (28 A, 28 B, 27 C, 27 D).",
+      "preguntas": [
+        {
+          "pregunta": "Según el artículo 1 de la Ley 42/2007, ¿cuál es el objeto fundamental de esta norma jurídica?",
+          "opciones": [
+            "a) La creación de un marco sancionador específico para las infracciones medioambientales que afecten a la fauna y flora silvestres en peligro de extinción dentro de la Red Natura 2000.",
+            "b) El desarrollo de los planes urbanísticos sostenibles en áreas rurales para garantizar la compatibilidad entre el crecimiento económico y la preservación de los recursos naturales.",
+            "c) La regulación exclusiva de los espacios naturales protegidos situados en territorio nacional, estableciendo las competencias de las Comunidades Autónomas para su gestión y financiación.",
+            "d) El establecimiento del régimen jurídico básico de la conservación, uso sostenible, mejora y restauración del patrimonio natural y de la biodiversidad, como parte del deber de conservar y del derecho a disfrutar de un medio ambiente adecuado."
+          ],
+          "respuesta_correcta": "d) El establecimiento del régimen jurídico básico de la conservación, uso sostenible, mejora y restauración del patrimonio natural y de la biodiversidad, como parte del deber de conservar y del derecho a disfrutar de un medio ambiente adecuado.",
+          "cita": "Ley 42/2007, Art. 1"
+        },
+        {
+          "pregunta": "¿Qué principio inspira la Ley 42/2007 según su artículo 2?",
+          "opciones": [
+            "a) El principio de desarrollo económico ilimitado, siempre que se compensen los daños ambientales mediante medidas correctoras o restauradoras.",
+            "b) El principio de jerarquía normativa, priorizando las directivas europeas sobre la legislación nacional en materia de conservación de la naturaleza.",
+            "c) El principio de precaución, en virtud del cual, cuando haya peligro de daño grave o irreversible, la falta de certeza científica absoluta no deberá utilizarse como razón para postergar la adopción de medidas eficaces.",
+            "d) El principio de intervención mínima de la Administración, dejando la gestión de la biodiversidad en manos de los propietarios de los terrenos."
+          ],
+          "respuesta_correcta": "b) El principio de jerarquía normativa, priorizando las directivas europeas sobre la legislación nacional en materia de conservación de la naturaleza.",
+          "cita": "Ley 42/2007, Art. 2.b"
+        },
+        {
+          "pregunta": "¿Qué función corresponde a la Administración General del Estado respecto al Inventario Español del Patrimonio Natural y de la Biodiversidad (Art. 9)?",
+          "opciones": [
+            "a) Elaborar, mantener y actualizar el Inventario, con la colaboración de las Comunidades Autónomas y de las instituciones científicas y académicas.",
+            "b) Delegar su gestión en las diputaciones provinciales para asegurar una mayor proximidad a los recursos naturales.",
+            "c) Publicar anualmente un resumen ejecutivo en el Boletín Oficial del Estado, sin necesidad de mantener una base de datos actualizada.",
+            "d) Financiar exclusivamente los proyectos de investigación relacionados con el Inventario, sin participar en su elaboración."
+          ],
+          "respuesta_correcta": "a) Elaborar, mantener y actualizar el Inventario, con la colaboración de las Comunidades Autónomas y de las instituciones científicas y académicas.",
+          "cita": "Ley 42/2007, Art. 9"
+        },
+        {
+          "pregunta": "¿Qué es el Plan Estratégico Estatal del Patrimonio Natural y de la Biodiversidad (Art. 12)?",
+          "opciones": [
+            "a) Un documento técnico elaborado por el CSIC que describe las especies amenazadas en España.",
+            "b) El presupuesto anual del Ministerio para la Transición Ecológica destinado a parques nacionales.",
+            "c) Un acuerdo voluntario entre el Estado y las empresas privadas para fomentar la responsabilidad social corporativa ambiental.",
+            "d) El instrumento de planificación de la política nacional de conservación, que establece objetivos, metas y acciones para la conservación y el uso sostenible de la biodiversidad."
+          ],
+          "respuesta_correcta": "d) El instrumento de planificación de la política nacional de conservación, que establece objetivos, metas y acciones para la conservación y el uso sostenible de la biodiversidad.",
+          "cita": "Ley 42/2007, Art. 12"
+        },
+        {
+          "pregunta": "¿Quién aprueba las Directrices de Conservación de la Red Natura 2000 (Art. 14)?",
+          "opciones": [
+            "a) La Comisión Europea, mediante Decisión vinculante para todos los Estados miembros.",
+            "b) La Conferencia Sectorial de Medio Ambiente, a propuesta de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad.",
+            "c) Las Comunidades Autónomas en el ejercicio de sus competencias exclusivas sobre medio ambiente.",
+            "d) El Parlamento Europeo a propuesta del Comité de las Regiones."
+          ],
+          "respuesta_correcta": "a) La Comisión Europea, mediante Decisión vinculante para todos los Estados miembros.",
+          "cita": "Ley 42/2007, Art. 14 (actualmente remitido a Estrategias)"
+        },
+        {
+          "pregunta": "¿Qué son los Espacios Naturales Protegidos según la Ley 42/2007 (Art. 28)?",
+          "opciones": [
+            "a) Únicamente los Parques Nacionales declarados por ley de las Cortes Generales.",
+            "b) Las zonas verdes urbanas y periurbanas destinadas al recreo de la población.",
+            "c) Aquellos espacios del territorio nacional, incluidas las aguas continentales y los espacios marinos, que contengan sistemas o elementos naturales representativos, singulares, frágiles, amenazados o de especial interés ecológico, y que se dediquen especialmente a la protección y el mantenimiento de la diversidad biológica.",
+            "d) Los terrenos forestales de propiedad pública gestionados por el Estado."
+          ],
+          "respuesta_correcta": "a) Únicamente los Parques Nacionales declarados por ley de las Cortes Generales.",
+          "cita": "Ley 42/2007, Art. 28"
+        },
+        {
+          "pregunta": "¿Cuáles son las categorías de Espacios Naturales Protegidos (Art. 29)?",
+          "opciones": [
+            "a) Reservas Integrales, Reservas Científicas, Parques Regionales y Sitios de Interés Científico.",
+            "b) Parques, Reservas Naturales, Áreas Marinas Protegidas, Monumentos Naturales y Paisajes Protegidos.",
+            "c) Espacios Naturales, Espacios Rurales, Espacios Marinos y Espacios Urbanos Protegidos.",
+            "d) Parques Nacionales, Parques Naturales, Reservas de la Biosfera y Zonas de Especial Protección para las Aves (ZEPA)."
+          ],
+          "respuesta_correcta": "c) Espacios Naturales, Espacios Rurales, Espacios Marinos y Espacios Urbanos Protegidos.",
+          "cita": "Ley 42/2007, Art. 29"
+        },
+        {
+          "pregunta": "¿Qué caracteriza a los Parques (Art. 31)?",
+          "opciones": [
+            "a) Son áreas naturales de poco transformadas por la explotación u ocupación humana que, por la belleza de sus paisajes, la representatividad de sus ecosistemas o la singularidad de su flora, de su fauna o de sus formaciones geomorfológicas, poseen unos valores ecológicos, estéticos, educativos y científicos cuya conservación merece una atención preferente.",
+            "b) Son espacios cuya creación tiene como finalidad la protección de ecosistemas, comunidades o elementos biológicos que, por su rareza, fragilidad, importancia o singularidad, merecen una valoración especial.",
+            "c) Son partes del territorio que las Administraciones competentes, a través del planeamiento aplicable, consideren merecedores de una protección especial por sus valores naturales, estéticos y culturales.",
+            "d) Son espacios naturales constituidos por formaciones de notoria singularidad, rareza o belleza, que merecen ser objeto de protección especial."
+          ],
+          "respuesta_correcta": "b) Son espacios cuya creación tiene como finalidad la protección de ecosistemas, comunidades o elementos biológicos que, por su rareza, fragilidad, importancia o singularidad, merecen una valoración especial.",
+          "cita": "Ley 42/2007, Art. 31"
+        },
+        {
+          "pregunta": "¿Qué actividad está generalmente prohibida en los Parques Nacionales según la Ley 30/2014 (y referencia en Ley 42/2007)?",
+          "opciones": [
+            "a) El pastoreo tradicional extensivo.",
+            "b) El senderismo y la fotografía de naturaleza.",
+            "c) La investigación científica autorizada.",
+            "d) La caza deportiva y comercial, la pesca deportiva y recreativa y la tala con fines comerciales."
+          ],
+          "respuesta_correcta": "a) El pastoreo tradicional extensivo.",
+          "cita": "Ley 30/2014 Parques Nacionales / Ley 42/2007"
+        },
+        {
+          "pregunta": "¿Qué son las Reservas Naturales (Art. 32)?",
+          "opciones": [
+            "a) Zonas urbanas con alta biodiversidad.",
+            "b) Espacios naturales cuya creación tiene como finalidad la protección de ecosistemas, comunidades o elementos biológicos que, por su rareza, fragilidad, importancia o singularidad, merecen una valoración especial.",
+            "c) Áreas de cultivo intensivo compatibles con la conservación.",
+            "d) Espacios destinados exclusivamente al turismo de naturaleza."
+          ],
+          "respuesta_correcta": "d) Espacios destinados exclusivamente al turismo de naturaleza.",
+          "cita": "Ley 42/2007, Art. 32"
+        },
+        {
+          "pregunta": "¿Qué son las Áreas Marinas Protegidas (Art. 33)?",
+          "opciones": [
+            "a) Playas turísticas con bandera azul.",
+            "b) Puertos deportivos y zonas de navegación de recreo.",
+            "c) Espacios naturales designados para la protección de ecosistemas, comunidades o elementos biológicos o geológicos del medio marino, incluidas las áreas intermareales y submareales, que en razón de su rareza, fragilidad, importancia o singularidad, merecen una protección especial.",
+            "d) Zonas de pesca intensiva reservadas para la flota nacional."
+          ],
+          "respuesta_correcta": "c) Espacios naturales designados para la protección de ecosistemas, comunidades o elementos biológicos o geológicos del medio marino, incluidas las áreas intermareales y submareales, que en razón de su rareza, fragilidad, importancia o singularidad, merecen una protección especial.",
+          "cita": "Ley 42/2007, Art. 33"
+        },
+        {
+          "pregunta": "¿Qué son los Monumentos Naturales (Art. 34)?",
+          "opciones": [
+            "a) Edificios históricos situados en entornos rurales.",
+            "b) Yacimientos arqueológicos prehistóricos.",
+            "c) Espacios o elementos de la naturaleza constituidos básicamente por formaciones de notoria singularidad, rareza o belleza, que merecen ser objeto de una protección especial (ej. árboles singulares, formaciones geológicas).",
+            "d) Jardines botánicos artificiales."
+          ],
+          "respuesta_correcta": "c) Espacios o elementos de la naturaleza constituidos básicamente por formaciones de notoria singularidad, rareza o belleza, que merecen ser objeto de una protección especial (ej. árboles singulares, formaciones geológicas).",
+          "cita": "Ley 42/2007, Art. 34"
+        },
+        {
+          "pregunta": "¿Qué son los Paisajes Protegidos (Art. 35)?",
+          "opciones": [
+            "a) Partes del territorio que las Administraciones competentes consideren merecedores de una protección especial por sus valores naturales, estéticos y culturales, y de acuerdo con el Convenio del Paisaje del Consejo de Europa.",
+            "b) Zonas industriales rehabilitadas paisajísticamente.",
+            "c) Campos de golf integrados en el entorno.",
+            "d) Miradores turísticos en carreteras de montaña."
+          ],
+          "respuesta_correcta": "d) Miradores turísticos en carreteras de montaña.",
+          "cita": "Ley 42/2007, Art. 35"
+        },
+        {
+          "pregunta": "¿Qué integra la Red Natura 2000 (Art. 42)?",
+          "opciones": [
+            "a) Las Reservas de la Biosfera y los Humedales Ramsar.",
+            "b) Las Zonas Especiales de Conservación (ZEC) y las Zonas de Especial Protección para las Aves (ZEPA).",
+            "c) Los Montes de Utilidad Pública y las Vías Pecuarias.",
+            "d) Únicamente los Parques Nacionales y Naturales."
+          ],
+          "respuesta_correcta": "b) Las Zonas Especiales de Conservación (ZEC) y las Zonas de Especial Protección para las Aves (ZEPA).",
+          "cita": "Ley 42/2007, Art. 42"
+        },
+        {
+          "pregunta": "¿Quién declara las Zonas Especiales de Conservación (ZEC) (Art. 43)?",
+          "opciones": [
+            "a) La Comisión Europea, a propuesta de los Estados miembros.",
+            "b) Las Comunidades Autónomas, previo procedimiento de información pública y aprobación por la Comisión Europea como Lugar de Importancia Comunitaria (LIC).",
+            "c) El Ministerio de Medio Ambiente de forma unilateral.",
+            "d) Los Ayuntamientos en sus planes generales de ordenación urbana."
+          ],
+          "respuesta_correcta": "c) El Ministerio de Medio Ambiente de forma unilateral.",
+          "cita": "Ley 42/2007, Art. 43"
+        },
+        {
+          "pregunta": "¿Qué obligación tienen las Administraciones respecto a la Red Natura 2000 (Art. 46)?",
+          "opciones": [
+            "a) Prohibir cualquier actividad económica en su interior.",
+            "b) Expropiar todos los terrenos incluidos en la red.",
+            "c) Fijar las medidas de conservación necesarias, que respondan a las exigencias ecológicas de los tipos de hábitats naturales y de las especies presentes en tales zonas.",
+            "d) Vallar el perímetro de todas las zonas protegidas."
+          ],
+          "respuesta_correcta": "d) Vallar el perímetro de todas las zonas protegidas.",
+          "cita": "Ley 42/2007, Art. 46"
+        },
+        {
+          "pregunta": "¿Qué es el Catálogo Español de Especies Amenazadas (Art. 58)?",
+          "opciones": [
+            "a) Una lista de especies cinegéticas.",
+            "b) Un registro administrativo dependiente del Ministerio que incluye las especies, subespecies o poblaciones de la biodiversidad española que requieran medidas de protección específica.",
+            "c) Un catálogo de especies exóticas invasoras.",
+            "d) Un libro rojo publicado por una ONG conservacionista."
+          ],
+          "respuesta_correcta": "a) Una lista de especies cinegéticas.",
+          "cita": "Ley 42/2007, Art. 58"
+        },
+        {
+          "pregunta": "¿Qué categorías de amenaza se establecen en el Catálogo (Art. 59)?",
+          "opciones": [
+            "a) En peligro de extinción y Vulnerable.",
+            "b) Crítica, Grave y Leve.",
+            "c) Extinguida, Amenazada y Preocupación Menor.",
+            "d) Protección Especial y De Interés Especial."
+          ],
+          "respuesta_correcta": "c) Extinguida, Amenazada y Preocupación Menor.",
+          "cita": "Ley 42/2007, Art. 59"
+        },
+        {
+          "pregunta": "¿Qué implica la inclusión de una especie en la categoría 'En peligro de extinción'?",
+          "opciones": [
+            "a) La prohibición de su comercialización internacional.",
+            "b) La adopción de un plan de recuperación en un plazo máximo de tres años.",
+            "c) La creación de un centro de cría en cautividad.",
+            "d) La expropiación de los terrenos donde habita."
+          ],
+          "respuesta_correcta": "a) La prohibición de su comercialización internacional.",
+          "cita": "Ley 42/2007, Art. 60"
+        },
+        {
+          "pregunta": "¿Qué son las especies exóticas invasoras (Art. 64)?",
+          "opciones": [
+            "a) Especies procedentes de otros continentes que se adaptan bien al medio sin causar daños.",
+            "b) Aquellas que se introducen o establecen en un ecosistema o hábitat natural o seminatural y que son un agente de cambio y amenaza para la diversidad biológica nativa, ya sea por su comportamiento invasor, o por el riesgo de contaminación genética.",
+            "c) Especies cultivadas en jardinería.",
+            "d) Animales de compañía no autóctonos."
+          ],
+          "respuesta_correcta": "b) Aquellas que se introducen o establecen en un ecosistema o hábitat natural o seminatural y que son un agente de cambio y amenaza para la diversidad biológica nativa, ya sea por su comportamiento invasor, o por el riesgo de contaminación genética.",
+          "cita": "Ley 42/2007, Art. 64"
+        },
+        {
+          "pregunta": "¿Qué prohíbe la Ley respecto a las especies incluidas en el Catálogo Español de Especies Exóticas Invasoras?",
+          "opciones": [
+            "a) Su posesión, transporte, tráfico y comercio de ejemplares vivos o muertos, de sus restos o propágulos, incluyendo el comercio exterior.",
+            "b) Su liberación al medio natural sin autorización.",
+            "c) Su cría con fines comerciales.",
+            "d) Todas las respuestas anteriores son correctas."
+          ],
+          "respuesta_correcta": "c) Su cría con fines comerciales.",
+          "cita": "Ley 42/2007, Art. 64"
+        },
+        {
+          "pregunta": "¿Qué son los Planes de Ordenación de los Recursos Naturales (PORN) (Art. 17)?",
+          "opciones": [
+            "a) Los instrumentos de planeamiento territorial que tienen por objeto la adecuación de la gestión de los recursos naturales, y en especial de los espacios naturales y de las especies a proteger, a los principios inspiradores de esta Ley.",
+            "b) Planes urbanísticos municipales.",
+            "c) Planes de gestión forestal.",
+            "d) Planes de desarrollo turístico."
+          ],
+          "respuesta_correcta": "b) Planes urbanísticos municipales.",
+          "cita": "Ley 42/2007, Art. 17"
+        },
+        {
+          "pregunta": "¿Cuál es el efecto de los PORN sobre la planificación urbanística (Art. 19)?",
+          "opciones": [
+            "a) Son meramente indicativos y no vinculantes.",
+            "b) Son determinantes y vinculantes para los instrumentos de planificación territorial y física, que no podrán alterar o modificar sus determinaciones.",
+            "c) Solo afectan a los terrenos de propiedad pública.",
+            "d) Deben adaptarse a lo que dispongan los planes urbanísticos previos."
+          ],
+          "respuesta_correcta": "a) Son meramente indicativos y no vinculantes.",
+          "cita": "Ley 42/2007, Art. 19"
+        },
+        {
+          "pregunta": "¿Qué es el Fondo para el Patrimonio Natural y la Biodiversidad (Art. 74)?",
+          "opciones": [
+            "a) Una cuenta bancaria solidaria.",
+            "b) Un impuesto verde.",
+            "c) Un instrumento de cofinanciación destinado a asegurar la cohesión territorial y la consecución de los objetivos de la Ley, gestionado por el Ministerio con la participación de las CCAA.",
+            "d) El presupuesto de la Unión Europea para medio ambiente (LIFE)."
+          ],
+          "respuesta_correcta": "a) Una cuenta bancaria solidaria.",
+          "cita": "Ley 42/2007, Art. 74"
+        },
+        {
+          "pregunta": "¿Qué es el Inventario Español de Zonas Húmedas (Art. 9)?",
+          "opciones": [
+            "a) Un registro de todos los embalses y presas.",
+            "b) Un inventario de las playas con bandera azul.",
+            "c) Un mapa de zonas inundables.",
+            "d) Uno de los componentes del Inventario Español del Patrimonio Natural y de la Biodiversidad."
+          ],
+          "respuesta_correcta": "d) Uno de los componentes del Inventario Español del Patrimonio Natural y de la Biodiversidad.",
+          "cita": "Ley 42/2007, Art. 9"
+        },
+        {
+          "pregunta": "¿Qué sanción corresponde a una infracción muy grave en materia de patrimonio natural (Art. 81)?",
+          "opciones": [
+            "a) Multa de 200.001 a 2.000.000 de euros.",
+            "b) Multa de 100.001 a 1.000.000 de euros.",
+            "c) Multa de 50.001 a 500.000 euros.",
+            "d) Prisión de 2 a 5 años."
+          ],
+          "respuesta_correcta": "d) Prisión de 2 a 5 años.",
+          "cita": "Ley 42/2007, Art. 81"
+        },
+        {
+          "pregunta": "¿Qué plazo de prescripción tienen las infracciones muy graves (Art. 83)?",
+          "opciones": [
+            "a) 5 años.",
+            "b) 3 años.",
+            "c) 4 años.",
+            "d) 10 años."
+          ],
+          "respuesta_correcta": "d) 10 años.",
+          "cita": "Ley 42/2007, Art. 83"
+        },
+        {
+          "pregunta": "¿Qué obligación tiene el causante de un daño ambiental además de pagar la multa (Art. 82)?",
+          "opciones": [
+            "a) Pedir perdón públicamente.",
+            "b) Reparar el daño causado y reponer los bienes alterados a su estado original.",
+            "c) Realizar trabajos comunitarios.",
+            "d) Ceder sus terrenos al Estado."
+          ],
+          "respuesta_correcta": "c) Realizar trabajos comunitarios.",
+          "cita": "Ley 42/2007, Art. 82"
+        },
+        {
+          "pregunta": "¿Qué es la Custodia del Territorio (Art. 3)?",
+          "opciones": [
+            "a) La gestión de los parques nacionales por el Estado.",
+            "b) El conjunto de estrategias o técnicas jurídicas a través de las cuales se implican a los propietarios y usuarios del territorio en la conservación y uso de los valores y los recursos naturales, culturales y paisajísticos.",
+            "c) La vigilancia policial de los espacios protegidos.",
+            "d) La expropiación forzosa de terrenos de alto valor ecológico."
+          ],
+          "respuesta_correcta": "a) La gestión de los parques nacionales por el Estado.",
+          "cita": "Ley 42/2007, Art. 3"
+        },
+        {
+          "pregunta": "¿Qué es el 'banco de conservación de la naturaleza'?",
+          "opciones": [
+            "a) Un depósito de semillas.",
+            "b) Un mecanismo de mercado voluntario que permite compensar impactos ambientales mediante la compra de créditos de conservación generados por proyectos de mejora ambiental.",
+            "c) Un fondo de inversión verde.",
+            "d) Una reserva de animales en cautividad."
+          ],
+          "respuesta_correcta": "b) Un mecanismo de mercado voluntario que permite compensar impactos ambientales mediante la compra de créditos de conservación generados por proyectos de mejora ambiental.",
+          "cita": "Ley 42/2007 (Concepto introducido en reformas)"
+        },
+        {
+          "pregunta": "¿Qué es la Red de Parques Nacionales?",
+          "opciones": [
+            "a) Una asociación de amigos de los parques.",
+            "b) Una página web de turismo.",
+            "c) Un sistema integrado por los parques nacionales declarados, su marco normativo, los medios materiales y humanos, y las instituciones que los gestionan.",
+            "d) El conjunto de carreteras que unen los parques."
+          ],
+          "respuesta_correcta": "d) El conjunto de carreteras que unen los parques.",
+          "cita": "Ley 30/2014"
+        },
+        {
+          "pregunta": "¿Qué son los LIC (Lugares de Importancia Comunitaria)?",
+          "opciones": [
+            "a) Espacios propuestos por los Estados miembros a la Comisión Europea para su inclusión en la Red Natura 2000, paso previo a su declaración como ZEC.",
+            "b) Zonas de caza controlada.",
+            "c) Áreas industriales contaminadas.",
+            "d) Reservas de pesca."
+          ],
+          "respuesta_correcta": "b) Zonas de caza controlada.",
+          "cita": "Ley 42/2007, Definiciones"
+        },
+        {
+          "pregunta": "¿Qué son las ZEPA?",
+          "opciones": [
+            "a) Zonas de Especial Peligro de Aludes.",
+            "b) Zonas de Esparcimiento para Perros y Animales.",
+            "c) Zonas de Especial Protección para las Aves, designadas por los Estados miembros en aplicación de la Directiva de Aves.",
+            "d) Zonas Económicas de Protección Ambiental."
+          ],
+          "respuesta_correcta": "a) Zonas de Especial Peligro de Aludes.",
+          "cita": "Ley 42/2007, Definiciones"
+        },
+        {
+          "pregunta": "¿Qué es el 'Catálogo Español de Hábitats en Peligro de Desaparición'?",
+          "opciones": [
+            "a) Una lista de casas rurales.",
+            "b) Un registro de cuevas.",
+            "c) Un inventario de playas vírgenes.",
+            "d) Un instrumento para la protección de los hábitats que se encuentren en peligro de desaparición en España."
+          ],
+          "respuesta_correcta": "d) Un instrumento para la protección de los hábitats que se encuentren en peligro de desaparición en España.",
+          "cita": "Ley 42/2007, Art. 27"
+        },
+        {
+          "pregunta": "¿Qué es la 'Estrategia estatal de infraestructura verde y de la conectividad y restauración ecológicas'?",
+          "opciones": [
+            "a) Un documento para planificar la red de carreteras.",
+            "b) Un plan para identificar y conservar los elementos del territorio que garantizan la conectividad ecológica y la provisión de servicios ecosistémicos.",
+            "c) Un proyecto de reforestación urbana.",
+            "d) Una normativa sobre jardinería."
+          ],
+          "respuesta_correcta": "c) Un proyecto de reforestación urbana.",
+          "cita": "Ley 42/2007, Art. 15"
+        },
+        {
+          "pregunta": "¿Qué órgano es competente para la imposición de sanciones muy graves en el ámbito de la AGE?",
+          "opciones": [
+            "a) El Consejo de Ministros.",
+            "b) El Ministro de Medio Ambiente (Transición Ecológica).",
+            "c) El Director General de Biodiversidad.",
+            "d) El Delegado del Gobierno."
+          ],
+          "respuesta_correcta": "a) El Consejo de Ministros.",
+          "cita": "Ley 42/2007, Art. 84 (si la cuantía supera ciertos límites, o Ministro)"
+        },
+        {
+          "pregunta": "¿Qué es el SEPRONA?",
+          "opciones": [
+            "a) Una empresa de seguridad privada.",
+            "b) El Servicio de Protección de la Naturaleza de la Guardia Civil, encargado de velar por el cumplimiento de las disposiciones que tiendan a la conservación de la naturaleza y el medio ambiente.",
+            "c) Un cuerpo de agentes forestales autonómicos.",
+            "d) Una unidad militar de emergencias."
+          ],
+          "respuesta_correcta": "d) Una unidad militar de emergencias.",
+          "cita": "LO 2/1986 / Normativa Guardia Civil"
+        },
+        {
+          "pregunta": "¿Qué son las 'Infracciones Administrativas' según la Ley 42/2007?",
+          "opciones": [
+            "a) Delitos ecológicos.",
+            "b) Acciones u omisiones tipificadas en la ley que vulneran la normativa de protección del patrimonio natural.",
+            "c) Faltas leves de urbanidad.",
+            "d) Errores administrativos subsanables."
+          ],
+          "respuesta_correcta": "a) Delitos ecológicos.",
+          "cita": "Ley 42/2007, Título VI"
+        },
+        {
+          "pregunta": "¿Qué es la 'Evaluación Ambiental Estratégica'?",
+          "opciones": [
+            "a) La revisión de la ITV de los coches.",
+            "b) El procedimiento administrativo instrumental respecto del de aprobación o adopción de planes y programas, a través del cual se analizan los posibles efectos significativos sobre el medio ambiente.",
+            "c) El análisis de la calidad del aire.",
+            "d) La auditoría energética de un edificio."
+          ],
+          "respuesta_correcta": "c) El análisis de la calidad del aire.",
+          "cita": "Ley 21/2013 (Referencia en Ley 42/2007)"
+        },
+        {
+          "pregunta": "¿Qué es el 'Convenio CITES'?",
+          "opciones": [
+            "a) Un acuerdo sobre cambio climático.",
+            "b) El Convenio sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres.",
+            "c) Un tratado sobre residuos nucleares.",
+            "d) Una convención de turismo sostenible."
+          ],
+          "respuesta_correcta": "d) Una convención de turismo sostenible.",
+          "cita": "Legislación Internacional / Aplicación en España"
+        },
+        {
+          "pregunta": "¿Qué es el Reglamento de Armas (RD 137/1993)?",
+          "opciones": [
+            "a) La norma que regula la tenencia, uso, compraventa y circulación de armas en España.",
+            "b) Un manual de instrucciones militares.",
+            "c) El código penal militar.",
+            "d) Una ley de caza."
+          ],
+          "respuesta_correcta": "a) La norma que regula la tenencia, uso, compraventa y circulación de armas en España.",
+          "cita": "RD 137/1993"
+        },
+        {
+          "pregunta": "¿Quién expide las licencias de armas en España?",
+          "opciones": [
+            "a) El Ministerio de Defensa.",
+            "b) La Dirección General de la Guardia Civil.",
+            "c) La Policía Nacional.",
+            "d) Los Ayuntamientos."
+          ],
+          "respuesta_correcta": "c) La Policía Nacional.",
+          "cita": "RD 137/1993"
+        },
+        {
+          "pregunta": "¿Qué es la Licencia Tipo E?",
+          "opciones": [
+            "a) Para armas de defensa personal.",
+            "b) Para armas de tiro deportivo y escopetas de caza.",
+            "c) Para armas de guerra.",
+            "d) Para armas de coleccionista."
+          ],
+          "respuesta_correcta": "c) Para armas de guerra.",
+          "cita": "RD 137/1993"
+        },
+        {
+          "pregunta": "¿Qué es la Tarjeta Europea de Armas de Fuego?",
+          "opciones": [
+            "a) Un permiso de exportación.",
+            "b) Una licencia de armas internacional.",
+            "c) El documento que autoriza a los residentes en un Estado miembro a viajar con sus armas por otros Estados miembros para practicar la caza o el tiro deportivo.",
+            "d) Un seguro de responsabilidad civil."
+          ],
+          "respuesta_correcta": "c) El documento que autoriza a los residentes en un Estado miembro a viajar con sus armas por otros Estados miembros para practicar la caza o el tiro deportivo.",
+          "cita": "RD 137/1993"
+        },
+        {
+          "pregunta": "¿Qué es la Intervención de Armas y Explosivos (IAE)?",
+          "opciones": [
+            "a) Una operación militar.",
+            "b) Un departamento del Ministerio de Industria.",
+            "c) Una fábrica de armas.",
+            "d) La unidad de la Guardia Civil encargada del control administrativo de las armas y explosivos."
+          ],
+          "respuesta_correcta": "c) Una fábrica de armas.",
+          "cita": "Normativa Guardia Civil"
+        },
+        {
+          "pregunta": "¿Qué armas están prohibidas a particulares?",
+          "opciones": [
+            "a) Las escopetas de caza.",
+            "b) Las armas de guerra, las armas de fuego automáticas, las defensas eléctricas, los sprays no homologados, etc.",
+            "c) Los rifles de cerrojo.",
+            "d) Las pistolas de aire comprimido."
+          ],
+          "respuesta_correcta": "d) Las pistolas de aire comprimido.",
+          "cita": "RD 137/1993, Art. 4 y 5"
+        },
+        {
+          "pregunta": "¿Qué es la Revista de Armas?",
+          "opciones": [
+            "a) Una publicación especializada.",
+            "b) Un desfile militar.",
+            "c) El control periódico (cada 5 o 3 años) que deben pasar las armas para verificar su estado y titularidad.",
+            "d) Una feria de caza."
+          ],
+          "respuesta_correcta": "d) Una feria de caza.",
+          "cita": "RD 137/1993"
+        },
+        {
+          "pregunta": "¿Qué es el Reglamento de Explosivos (RD 130/2017)?",
+          "opciones": [
+            "a) Un manual de demoliciones.",
+            "b) Una ley antiterrorista.",
+            "c) La norma que regula la fabricación, almacenamiento, distribución, comercio y uso de explosivos.",
+            "d) Una norma de seguridad minera."
+          ],
+          "respuesta_correcta": "c) La norma que regula la fabricación, almacenamiento, distribución, comercio y uso de explosivos.",
+          "cita": "RD 130/2017"
+        },
+        {
+          "pregunta": "¿Qué es el Reglamento de Artículos Pirotécnicos y Cartuchería (RD 989/2015)?",
+          "opciones": [
+            "a) La norma que regula los fuegos artificiales y la munición.",
+            "b) Un reglamento de fiestas populares.",
+            "c) Una ley de caza.",
+            "d) Un protocolo de seguridad aérea."
+          ],
+          "respuesta_correcta": "b) Un reglamento de fiestas populares.",
+          "cita": "RD 989/2015"
+        },
+        {
+          "pregunta": "¿Quién autoriza la instalación de una fábrica de explosivos?",
+          "opciones": [
+            "a) El Ayuntamiento.",
+            "b) El Ministerio de Industria, previo informe de Defensa y del Ministerio del Interior (Guardia Civil).",
+            "c) La Comunidad Autónoma.",
+            "d) La Policía Local."
+          ],
+          "respuesta_correcta": "b) El Ministerio de Industria, previo informe de Defensa y del Ministerio del Interior (Guardia Civil).",
+          "cita": "RD 130/2017"
+        },
+        {
+          "pregunta": "¿Qué es un polvorín?",
+          "opciones": [
+            "a) Una tienda de petardos.",
+            "b) Un campo de tiro.",
+            "c) Una mina abandonada.",
+            "d) Un almacén de explosivos que cumple con estrictas medidas de seguridad y distancias reglamentarias."
+          ],
+          "respuesta_correcta": "c) Una mina abandonada.",
+          "cita": "RD 130/2017"
+        },
+        {
+          "pregunta": "¿Qué es la Guía de Circulación de Explosivos?",
+          "opciones": [
+            "a) Un mapa de carreteras peligrosas.",
+            "b) Un manual de conducción de camiones.",
+            "c) Una licencia de conducir especial.",
+            "d) El documento que ampara el transporte de explosivos desde el origen hasta el destino."
+          ],
+          "respuesta_correcta": "c) Una licencia de conducir especial.",
+          "cita": "RD 130/2017"
+        },
+        {
+          "pregunta": "¿Qué es el Carné de Artillero?",
+          "opciones": [
+            "a) Una licencia de caza mayor.",
+            "b) Un carné de socio de un club de tiro.",
+            "c) Una acreditación militar.",
+            "d) La habilitación profesional necesaria para manipular y detonar explosivos en obras y minas."
+          ],
+          "respuesta_correcta": "c) Una acreditación militar.",
+          "cita": "RD 130/2017"
+        },
+        {
+          "pregunta": "¿Qué es la Comisión Interministerial Permanente de Armas y Explosivos (CIPAE)?",
+          "opciones": [
+            "a) El órgano colegiado consultivo de la Administración del Estado en materia de armas y explosivos.",
+            "b) Un tribunal militar.",
+            "c) Una asociación de fabricantes de armas.",
+            "d) Una comisión parlamentaria."
+          ],
+          "respuesta_correcta": "d) Una comisión parlamentaria.",
+          "cita": "RD 137/1993 y RD 130/2017"
+        },
+        {
+          "pregunta": "¿Qué es un 'consumidor de explosivos'?",
+          "opciones": [
+            "a) Un terrorista.",
+            "b) La persona física o jurídica autorizada para adquirir y utilizar explosivos en el desarrollo de su actividad (minería, obra pública).",
+            "c) Un coleccionista de armas.",
+            "d) Un pirotécnico aficionado."
+          ],
+          "respuesta_correcta": "b) La persona física o jurídica autorizada para adquirir y utilizar explosivos en el desarrollo de su actividad (minería, obra pública).",
+          "cita": "RD 130/2017"
+        },
+        {
+          "pregunta": "¿Qué medidas de seguridad se exigen en el transporte de explosivos?",
+          "opciones": [
+            "a) Ninguna especial, solo ir despacio.",
+            "b) Llevar una bandera roja.",
+            "c) Circular solo de noche.",
+            "d) Vehículos homologados, escolta de seguridad privada (y a veces Guardia Civil), plan de viaje aprobado, conductores con ADR, etc."
+          ],
+          "respuesta_correcta": "d) Vehículos homologados, escolta de seguridad privada (y a veces Guardia Civil), plan de viaje aprobado, conductores con ADR, etc.",
+          "cita": "RD 130/2017 / Normativa ADR"
+        },
+        {
+          "pregunta": "¿Qué es la 'trazabilidad' de los explosivos?",
+          "opciones": [
+            "a) La ruta del camión de reparto.",
+            "b) La capacidad de seguir el rastro de cada unidad de explosivo desde su fabricación hasta su consumo final mediante códigos únicos de identificación.",
+            "c) El análisis químico de los residuos.",
+            "d) La investigación policial posterior a una explosión."
+          ],
+          "respuesta_correcta": "d) La investigación policial posterior a una explosión.",
+          "cita": "RD 130/2017"
+        },
+        {
+          "pregunta": "¿Qué son los artículos pirotécnicos de la categoría F4?",
+          "opciones": [
+            "a) Petardos infantiles.",
+            "b) Bengalas de uso doméstico.",
+            "c) Artículos de alta peligrosidad destinados exclusivamente a expertos (profesionales) para su uso en espectáculos pirotécnicos.",
+            "d) Cohetes para agricultura."
+          ],
+          "respuesta_correcta": "b) Bengalas de uso doméstico.",
+          "cita": "RD 989/2015"
+        },
+        {
+          "pregunta": "¿Qué es la categoría F1 en pirotecnia?",
+          "opciones": [
+            "a) Artículos de pirotecnia de muy baja peligrosidad y nivel de ruido insignificante destinados a ser utilizados en zonas delimitadas, incluidos los destinados a uso dentro de edificios residenciales (edad mínima 12 años).",
+            "b) Bombas de palenque.",
+            "c) Tracas valencianas.",
+            "d) Explosivos plásticos."
+          ],
+          "respuesta_correcta": "a) Artículos de pirotecnia de muy baja peligrosidad y nivel de ruido insignificante destinados a ser utilizados en zonas delimitadas, incluidos los destinados a uso dentro de edificios residenciales (edad mínima 12 años).",
+          "cita": "RD 989/2015"
+        },
+        {
+          "pregunta": "¿Qué infracción comete quien porta un arma de fuego bajo los efectos del alcohol?",
+          "opciones": [
+            "a) Delito de tenencia ilícita.",
+            "b) Infracción grave a la Ley de Seguridad Ciudadana / Reglamento de Armas.",
+            "c) Falta leve administrativa.",
+            "d) Ninguna si tiene licencia."
+          ],
+          "respuesta_correcta": "a) Delito de tenencia ilícita.",
+          "cita": "LO 4/2015 / RD 137/1993"
+        },
+        {
+          "pregunta": "¿Qué es la inutilización de un arma?",
+          "opciones": [
+            "a) Quitarle el cargador.",
+            "b) Guardarla en un armero.",
+            "c) El proceso irreversible que hace que el arma no pueda disparar, certificado por el Banco Oficial de Pruebas y la Guardia Civil.",
+            "d) Borrarle el número de serie."
+          ],
+          "respuesta_correcta": "a) Quitarle el cargador.",
+          "cita": "RD 137/1993"
+        },
+        {
+          "pregunta": "¿Qué es una 'arma detonadora' o de fogueo?",
+          "opciones": [
+            "a) Un arma destinada a la percusión de cartuchos sin proyectil, para señales de alarma, simulaciones de combate, teatro, etc.",
+            "b) Una bomba real.",
+            "c) Un arma de aire comprimido.",
+            "d) Un arma de avancarga."
+          ],
+          "respuesta_correcta": "c) Un arma de aire comprimido.",
+          "cita": "RD 137/1993"
+        },
+        {
+          "pregunta": "¿Quién puede usar un arma de defensa personal (Licencia B)?",
+          "opciones": [
+            "a) Cualquier ciudadano mayor de edad sin antecedentes.",
+            "b) Los vigilantes de seguridad en servicio.",
+            "c) Personas que acrediten la existencia de un riesgo especial y grave para su vida o integridad física, con carácter muy restrictivo.",
+            "d) Los cazadores federados."
+          ],
+          "respuesta_correcta": "a) Cualquier ciudadano mayor de edad sin antecedentes.",
+          "cita": "RD 137/1993"
+        },
+        {
+          "pregunta": "¿Qué es el 'Libro-Registro de Armas'?",
+          "opciones": [
+            "a) El libro que deben llevar las armerías y coleccionistas para anotar las entradas y salidas de armas.",
+            "b) Un catálogo de venta.",
+            "c) Una revista militar.",
+            "d) El archivo policial."
+          ],
+          "respuesta_correcta": "d) El archivo policial.",
+          "cita": "RD 137/1993"
+        },
+        {
+          "pregunta": "¿Qué es un 'taller de recarga de cartuchería'?",
+          "opciones": [
+            "a) Una fábrica de munición industrial.",
+            "b) Un taller de reparación de coches.",
+            "c) La autorización concedida a particulares para la recarga de cartuchería metálica con fines deportivos, limitada en cantidad y condiciones de seguridad.",
+            "d) Un almacén de pólvora."
+          ],
+          "respuesta_correcta": "a) Una fábrica de munición industrial.",
+          "cita": "RD 989/2015"
+        },
+        {
+          "pregunta": "¿Qué es la 'distancia de seguridad' en un polvorín?",
+          "opciones": [
+            "a) 100 metros siempre.",
+            "b) 1 km a la redonda.",
+            "c) La que decida el alcalde.",
+            "d) La que resulte de aplicar la fórmula de distancias del Reglamento, dependiendo de la cantidad almacenada y si el polvorín está o no atrincherado."
+          ],
+          "respuesta_correcta": "c) La que decida el alcalde.",
+          "cita": "RD 130/2017, ITC 9"
+        },
+        {
+          "pregunta": "¿Quién aprueba las Instrucciones Técnicas Complementarias (ITC) de los Reglamentos de Explosivos y Pirotecnia?",
+          "opciones": [
+            "a) El Ministerio de Industria, Energía y Turismo (actualmente Industria), mediante Orden Ministerial.",
+            "b) El Director General de la Guardia Civil mediante Circular.",
+            "c) El Consejo de Ministros mediante Real Decreto.",
+            "d) La Comisión Europea mediante Directiva."
+          ],
+          "respuesta_correcta": "c) El Consejo de Ministros mediante Real Decreto.",
+          "cita": "Disposiciones finales RD 130/2017 y RD 989/2015"
+        },
+        {
+          "pregunta": "¿Qué sanción tiene el abandono de explosivos?",
+          "opciones": [
+            "a) Infracción grave sancionada con multa de hasta 30.000 euros.",
+            "b) Infracción leve por descuido.",
+            "c) No es sancionable si no pasa nada.",
+            "d) Infracción muy grave sancionada con multa de 30.001 a 600.000 euros."
+          ],
+          "respuesta_correcta": "c) No es sancionable si no pasa nada.",
+          "cita": "LO 4/2015 / RD 130/2017"
+        },
+        {
+          "pregunta": "¿Qué es un arma de aire comprimido de categoría 4ª.1?",
+          "opciones": [
+            "a) Armas de paintball.",
+            "b) Carabinas y pistolas, de tiro semiautomático y de repetición; y revólveres de doble acción, accionadas por aire u otro gas comprimido no asimiladas a escopetas.",
+            "c) Tirachinas de competición.",
+            "d) Arcos y ballestas."
+          ],
+          "respuesta_correcta": "d) Arcos y ballestas.",
+          "cita": "RD 137/1993"
+        },
+        {
+          "pregunta": "¿Qué son las armas blancas prohibidas?",
+          "opciones": [
+            "a) Cuchillos de cocina.",
+            "b) Tijeras de podar.",
+            "c) Navajas automáticas, puñales de cualquier clase y las navajas no automáticas cuya hoja exceda de 11 centímetros.",
+            "d) Espadas de esgrima deportiva."
+          ],
+          "respuesta_correcta": "a) Cuchillos de cocina.",
+          "cita": "RD 137/1993, Art. 4"
+        },
+        {
+          "pregunta": "¿Qué es la 'tarjeta de armas'?",
+          "opciones": [
+            "a) La licencia de caza.",
+            "b) El carné de policía.",
+            "c) El documento expedido por el Alcalde para legalizar armas de 4ª categoría (aire comprimido) dentro del término municipal.",
+            "d) Un descuento en la armería."
+          ],
+          "respuesta_correcta": "a) La licencia de caza.",
+          "cita": "RD 137/1993, Art. 105"
+        },
+        {
+          "pregunta": "¿Qué vigencia tienen las licencias de armas tipo D y E?",
+          "opciones": [
+            "a) 3 años.",
+            "b) 5 años.",
+            "c) 1 año.",
+            "d) Indefinida."
+          ],
+          "respuesta_correcta": "a) 3 años.",
+          "cita": "RD 137/1993 (Tras reforma)"
+        },
+        {
+          "pregunta": "¿Qué es el visado de la licencia de armas para mayores de 60 años?",
+          "opciones": [
+            "a) Un trámite gratuito.",
+            "b) La retirada automática de las armas.",
+            "c) La obligación de acreditar las aptitudes psicofísicas con mayor frecuencia (cada 2 años y luego anualmente a partir de los 70) para mantener la vigencia de la licencia.",
+            "d) No existe tal requisito."
+          ],
+          "respuesta_correcta": "a) Un trámite gratuito.",
+          "cita": "RD 137/1993"
+        },
+        {
+          "pregunta": "¿Qué es el depósito de armas?",
+          "opciones": [
+            "a) Dejarlas en casa de un amigo.",
+            "b) La entrega de las armas en la Intervención de Armas de la Guardia Civil cuando caduca la licencia, fallece el titular o se comete una infracción que conlleva su retirada.",
+            "c) Enterrarlas en el jardín.",
+            "d) Venderlas en el mercado negro."
+          ],
+          "respuesta_correcta": "d) Venderlas en el mercado negro.",
+          "cita": "RD 137/1993"
+        },
+        {
+          "pregunta": "¿Qué es una subasta de armas?",
+          "opciones": [
+            "a) Una venta benéfica.",
+            "b) Procedimiento (ya suprimido o muy restringido por normativa reciente para destrucción) mediante el cual se vendían las armas depositadas y no recuperadas por sus dueños.",
+            "c) Un mercado medieval.",
+            "d) Una exposición de museo."
+          ],
+          "respuesta_correcta": "a) Una venta benéfica.",
+          "cita": "RD 137/1993 (Reformas recientes tienden a la destrucción)"
+        },
+        {
+          "pregunta": "¿Qué es el Plan de Seguridad Ciudadana en relación con las armas?",
+          "opciones": [
+            "a) Un plan de evacuación.",
+            "b) Un seguro de hogar.",
+            "c) Las medidas operativas de las Fuerzas y Cuerpos de Seguridad para prevenir la tenencia y uso ilícito de armas en vías públicas y zonas de ocio.",
+            "d) Un curso de defensa personal."
+          ],
+          "respuesta_correcta": "b) Un seguro de hogar.",
+          "cita": "Instrucciones SES"
+        },
+        {
+          "pregunta": "¿Qué es el 'armamento reglamentario'?",
+          "opciones": [
+            "a) Las armas de caza legales.",
+            "b) Las armas asignadas oficialmente a los miembros de las Fuerzas y Cuerpos de Seguridad y Fuerzas Armadas para el ejercicio de sus funciones.",
+            "c) Las armas de colección.",
+            "d) Las armas de fogueo."
+          ],
+          "respuesta_correcta": "a) Las armas de caza legales.",
+          "cita": "RD 137/1993, Art. 114 y ss."
+        },
+        {
+          "pregunta": "¿Qué es un 'campo de tiro eventual'?",
+          "opciones": [
+            "a) Un descampado cualquiera.",
+            "b) El jardín de casa.",
+            "c) Una zona habilitada temporalmente para prácticas de tiro (ej. tiro al plato en fiestas patronales), previa autorización de la Guardia Civil y cumplimiento de medidas de seguridad.",
+            "d) Un coto de caza."
+          ],
+          "respuesta_correcta": "b) El jardín de casa.",
+          "cita": "RD 137/1993, Art. 149"
+        },
+        {
+          "pregunta": "¿Qué es la 'guía de pertenencia'?",
+          "opciones": [
+            "a) El manual de instrucciones del arma.",
+            "b) El documento que identifica el arma, su titular y sus características, y que debe acompañar siempre al arma.",
+            "c) La factura de compra.",
+            "d) El carné de conducir."
+          ],
+          "respuesta_correcta": "d) El carné de conducir.",
+          "cita": "RD 137/1993, Art. 89"
+        },
+        {
+          "pregunta": "¿Qué es el 'Reglamento CLP' (referencia ambiental)?",
+          "opciones": [
+            "a) Reglamento de caza, l pesca.",
+            "b) Reglamento de costas, llanuras y playas.",
+            "c) Reglamento sobre clasificación, etiquetado y envasado de sustancias y mezclas químicas (peligrosidad para el medio ambiente).",
+            "d) Reglamento de control de linces protegidos."
+          ],
+          "respuesta_correcta": "d) Reglamento de control de linces protegidos.",
+          "cita": "Reglamento (CE) 1272/2008"
+        },
+        {
+          "pregunta": "¿Qué son los 'residuos peligrosos'?",
+          "opciones": [
+            "a) La basura orgánica.",
+            "b) El papel y cartón.",
+            "c) Aquellos que presentan una o varias de las características peligrosas enumeradas en el anexo III de la Ley 22/2011 (explosivo, oxidante, inflamable, irritante, nocivo, tóxico, cancerígeno, corrosivo, infeccioso, tóxico para la reproducción, mutagénico, ecotóxico).",
+            "d) Los escombros de obra limpia."
+          ],
+          "respuesta_correcta": "b) El papel y cartón.",
+          "cita": "Ley 22/2011 de Residuos"
+        },
+        {
+          "pregunta": "¿Qué es el principio 'quien contamina paga'?",
+          "opciones": [
+            "a) Una multa de tráfico.",
+            "b) Un eslogan publicitario.",
+            "c) Un principio rector de la política ambiental europea y nacional que establece que los costes de las medidas de prevención, control y reparación de la contaminación deben ser sufragados por el contaminador.",
+            "d) Una norma de etiqueta social."
+          ],
+          "respuesta_correcta": "c) Un principio rector de la política ambiental europea y nacional que establece que los costes de las medidas de prevención, control y reparación de la contaminación deben ser sufragados por el contaminador.",
+          "cita": "Ley 26/2007 Responsabilidad Medioambiental"
+        },
+        {
+          "pregunta": "¿Qué es la 'Responsabilidad Medioambiental' (Ley 26/2007)?",
+          "opciones": [
+            "a) Reciclar en casa.",
+            "b) La obligación de los operadores de prevenir, evitar y reparar los daños medioambientales que causen a las especies silvestres, hábitats, aguas y suelo.",
+            "c) No tirar papeles al suelo.",
+            "d) Cuidar las plantas."
+          ],
+          "respuesta_correcta": "d) Cuidar las plantas.",
+          "cita": "Ley 26/2007"
+        },
+        {
+          "pregunta": "¿Qué es el 'Dominio Público Hidráulico'?",
+          "opciones": [
+            "a) Las piscinas municipales.",
+            "b) El agua embotellada.",
+            "c) El cauce de los ríos, sus riberas, los lagos y lagunas, y las aguas subterráneas, que son propiedad del Estado.",
+            "d) Las fuentes ornamentales."
+          ],
+          "respuesta_correcta": "d) Las fuentes ornamentales.",
+          "cita": "Ley de Aguas"
+        },
+        {
+          "pregunta": "¿Qué es el 'Dominio Público Marítimo-Terrestre'?",
+          "opciones": [
+            "a) Los hoteles en primera línea de playa.",
+            "b) La zona costera que incluye la ribera del mar y de las rías, las playas, el mar territorial y la plataforma continental, propiedad del Estado.",
+            "c) Los barcos pesqueros.",
+            "d) Las islas privadas."
+          ],
+          "respuesta_correcta": "c) Los barcos pesqueros.",
+          "cita": "Ley de Costas"
+        },
+        {
+          "pregunta": "¿Qué son las Vías Pecuarias?",
+          "opciones": [
+            "a) Las carreteras secundarias.",
+            "b) Los caminos rurales privados.",
+            "c) Las rutas o itinerarios por donde discurre o ha venido discurriendo tradicionalmente el tránsito ganadero (cañadas, cordeles, veredas), que son bienes de dominio público.",
+            "d) Las autopistas de peaje."
+          ],
+          "respuesta_correcta": "c) Las rutas o itinerarios por donde discurre o ha venido discurriendo tradicionalmente el tránsito ganadero (cañadas, cordeles, veredas), que son bienes de dominio público.",
+          "cita": "Ley 3/1995 de Vías Pecuarias"
+        },
+        {
+          "pregunta": "¿Qué es un 'Monte de Utilidad Pública'?",
+          "opciones": [
+            "a) Un parque de atracciones.",
+            "b) Un coto de caza privado.",
+            "c) Una plantación de eucaliptos para papel.",
+            "d) Un monte de titularidad pública que ha sido declarado de utilidad pública por sus valores de protección hidrológica, defensa contra la erosión, diversidad biológica, etc."
+          ],
+          "respuesta_correcta": "b) Un coto de caza privado.",
+          "cita": "Ley de Montes"
+        },
+        {
+          "pregunta": "¿Qué es la 'prevención de incendios forestales'?",
+          "opciones": [
+            "a) Apagar el fuego cuando ya arde.",
+            "b) Plantar árboles resistentes al fuego.",
+            "c) El conjunto de medidas para evitar que se produzcan incendios o limitar su propagación (limpieza de montes, cortafuegos, vigilancia).",
+            "d) Prohibir las barbacoas en verano."
+          ],
+          "respuesta_correcta": "b) Plantar árboles resistentes al fuego.",
+          "cita": "Ley de Montes / Normativa Autonómica"
+        },
+        {
+          "pregunta": "¿Qué es el 'Convenio de Berna'?",
+          "opciones": [
+            "a) Un tratado sobre derechos de autor.",
+            "b) Un acuerdo de transporte ferroviario.",
+            "c) La capital de Suiza.",
+            "d) El Convenio relativo a la conservación de la vida silvestre y del medio natural de Europa."
+          ],
+          "respuesta_correcta": "a) Un tratado sobre derechos de autor.",
+          "cita": "Legislación Internacional"
+        },
+        {
+          "pregunta": "¿Qué es el 'Convenio de Ramsar'?",
+          "opciones": [
+            "a) Un tratado sobre el desierto.",
+            "b) Un acuerdo petrolero.",
+            "c) Una convención sobre montañas.",
+            "d) El Convenio relativo a los Humedales de Importancia Internacional especialmente como Hábitat de Aves Acuáticas."
+          ],
+          "respuesta_correcta": "d) El Convenio relativo a los Humedales de Importancia Internacional especialmente como Hábitat de Aves Acuáticas.",
+          "cita": "Legislación Internacional"
+        },
+        {
+          "pregunta": "¿Qué es la 'Directiva Hábitats'?",
+          "opciones": [
+            "a) Una norma sobre construcción de viviendas.",
+            "b) Una directiva sobre zoológicos.",
+            "c) Una regulación de jardines.",
+            "d) La Directiva 92/43/CEE relativa a la conservación de los hábitats naturales y de la fauna y flora silvestres (base de la Red Natura 2000)."
+          ],
+          "respuesta_correcta": "a) Una norma sobre construcción de viviendas.",
+          "cita": "Derecho UE"
+        },
+        {
+          "pregunta": "¿Qué es la 'Directiva Aves'?",
+          "opciones": [
+            "a) Una norma sobre aviones.",
+            "b) La Directiva 2009/147/CE relativa a la conservación de las aves silvestres.",
+            "c) Una regulación de granjas de pollos.",
+            "d) Un tratado de ornitología."
+          ],
+          "respuesta_correcta": "c) Una regulación de granjas de pollos.",
+          "cita": "Derecho UE"
+        },
+        {
+          "pregunta": "¿Qué es la 'bioseguridad'?",
+          "opciones": [
+            "a) La seguridad de los laboratorios.",
+            "b) El control de fronteras.",
+            "c) La higiene alimentaria.",
+            "d) El conjunto de medidas para prevenir la introducción y propagación de organismos nocivos (plagas, enfermedades, especies invasoras) para la salud humana, animal o vegetal y el medio ambiente."
+          ],
+          "respuesta_correcta": "b) El control de fronteras.",
+          "cita": "Ley 42/2007 y Sanidad Animal/Vegetal"
+        },
+        {
+          "pregunta": "¿Qué es el 'furtivismo'?",
+          "opciones": [
+            "a) Robar fruta.",
+            "b) Acampar sin permiso.",
+            "c) La caza o pesca ilegal, sin licencia, en época de veda, en lugares prohibidos o sobre especies protegidas.",
+            "d) Pasear por el campo."
+          ],
+          "respuesta_correcta": "d) Pasear por el campo.",
+          "cita": "Código Penal / Leyes de Caza"
+        },
+        {
+          "pregunta": "¿Qué es el delito ecológico (Art. 325 CP)?",
+          "opciones": [
+            "a) Tirar un papel al suelo.",
+            "b) No reciclar el vidrio.",
+            "c) El que contraviniendo las leyes u otras disposiciones de carácter general protectoras del medio ambiente, provoque o realice directa o indirectamente emisiones, vertidos, radiaciones, extracciones o excavaciones, aterramientos, ruidos, vibraciones, inyecciones o depósitos, en la atmósfera, el suelo, el subsuelo o las aguas, que causen o puedan causar daños sustanciales.",
+            "d) Pisar el césped."
+          ],
+          "respuesta_correcta": "b) No reciclar el vidrio.",
+          "cita": "Código Penal, Art. 325"
+        },
+        {
+          "pregunta": "¿Qué es el delito de maltrato animal (Art. 337/340 bis CP reformado)?",
+          "opciones": [
+            "a) No bañar al perro.",
+            "b) Darle comida de humanos.",
+            "c) No llevarlo al veterinario una vez.",
+            "d) El que fuera de los supuestos legalmente autorizados maltrate injustificadamente a un animal, causándole lesiones que menoscaben gravemente su salud o la muerte."
+          ],
+          "respuesta_correcta": "b) Darle comida de humanos.",
+          "cita": "Código Penal (Reforma LO 3/2023)"
+        },
+        {
+          "pregunta": "¿Qué es el abandono de animales (Art. 337 bis/340 ter)?",
+          "opciones": [
+            "a) Dejarlo en una guardería canina.",
+            "b) Regalarlo a un amigo.",
+            "c) Dejar a un animal en condiciones en que pueda peligrar su vida o integridad.",
+            "d) Perderlo accidentalmente."
+          ],
+          "respuesta_correcta": "b) Regalarlo a un amigo.",
+          "cita": "Código Penal"
+        },
+        {
+          "pregunta": "¿Qué es la 'protección del paisaje'?",
+          "opciones": [
+            "a) Pintar cuadros de paisajes.",
+            "b) Las acciones encaminadas a conservar y mantener los aspectos significativos o característicos de un paisaje, justificadas por su valor patrimonial derivado de su configuración natural y/o la acción del hombre.",
+            "c) Hacer fotos panorámicas.",
+            "d) Podar los árboles."
+          ],
+          "respuesta_correcta": "b) Las acciones encaminadas a conservar y mantener los aspectos significativos o característicos de un paisaje, justificadas por su valor patrimonial derivado de su configuración natural y/o la acción del hombre.",
+          "cita": "Ley 42/2007 / Convenio del Paisaje"
+        },
+        {
+          "pregunta": "¿Qué es un 'corredor ecológico'?",
+          "opciones": [
+            "a) Un carril bici por el campo.",
+            "b) Una autopista verde.",
+            "c) Un túnel para animales bajo la carretera.",
+            "d) Un territorio, de extensión y configuración variables, que, debido a su disposición y a su estado de conservación, conecta funcionalmente espacios naturales de singular relevancia para la flora y la fauna, mitigando el aislamiento de las poblaciones."
+          ],
+          "respuesta_correcta": "b) Una autopista verde.",
+          "cita": "Ley 42/2007, Definiciones"
+        },
+        {
+          "pregunta": "¿Qué es la 'geodiversidad'?",
+          "opciones": [
+            "a) La diversidad de mapas.",
+            "b) La variedad de elementos geológicos, incluidos rocas, minerales, fósiles, suelos, formas del relieve, formaciones y unidades geológicas y paisajes geológicos, que son el producto y registro de la evolución de la Tierra.",
+            "c) La variedad de climas.",
+            "d) La mezcla de culturas."
+          ],
+          "respuesta_correcta": "d) La mezcla de culturas.",
+          "cita": "Ley 42/2007, Definiciones"
+        },
+        {
+          "pregunta": "¿Qué es el 'patrimonio geológico'?",
+          "opciones": [
+            "a) Las minas de oro del Estado.",
+            "b) Las piedras preciosas.",
+            "c) El petróleo.",
+            "d) El conjunto de recursos naturales geológicos de valor científico, cultural y/o educativo, ya sean formaciones y estructuras geológicas, formas del terreno, minerales, rocas, meteoritos, fósiles, suelos y otras manifestaciones geológicas que permiten conocer, estudiar e interpretar: a) el origen y evolución de la Tierra, b) los procesos que la han modelado, c) los climas y paisajes del pasado y presente y d) el origen y evolución de la vida."
+          ],
+          "respuesta_correcta": "c) El petróleo.",
+          "cita": "Ley 42/2007, Definiciones"
+        },
+        {
+          "pregunta": "¿Qué es el 'uso sostenible' del patrimonio natural?",
+          "opciones": [
+            "a) La utilización de los componentes de la biodiversidad de un modo y a un ritmo que no ocasione la disminución a largo plazo de la diversidad biológica, con lo cual se mantienen las posibilidades de ésta de satisfacer las necesidades y las aspiraciones de las generaciones actuales y futuras.",
+            "b) Gastar los recursos hasta que se acaben.",
+            "c) Prohibir cualquier uso de la naturaleza.",
+            "d) Explotar la naturaleza al máximo rendimiento económico."
+          ],
+          "respuesta_correcta": "b) Gastar los recursos hasta que se acaben.",
+          "cita": "Ley 42/2007, Definiciones"
+        },
+        {
+          "pregunta": "¿Qué es la 'restauración ecológica'?",
+          "opciones": [
+            "a) Arreglar muebles antiguos.",
+            "b) Rehabilitar edificios históricos.",
+            "c) El proceso de asistir a la recuperación de un ecosistema que ha sido degradado, dañado o destruido.",
+            "d) Limpiar grafitis."
+          ],
+          "respuesta_correcta": "a) Arreglar muebles antiguos.",
+          "cita": "Ley 42/2007 / Estrategia Nacional"
+        },
+        {
+          "pregunta": "¿Qué es el 'paisaje' según el Convenio Europeo?",
+          "opciones": [
+            "a) Un cuadro bonito.",
+            "b) Una vista desde una montaña.",
+            "c) El campo sin casas.",
+            "d) Cualquier parte del territorio tal como la percibe la población, cuyo carácter sea el resultado de la acción y la interacción de factores naturales y/o humanos."
+          ],
+          "respuesta_correcta": "b) Una vista desde una montaña.",
+          "cita": "Convenio del Paisaje / Ley 42/2007"
+        },
+        {
+          "pregunta": "¿Qué es el 'desarrollo sostenible'?",
+          "opciones": [
+            "a) El crecimiento económico constante.",
+            "b) Construir más casas.",
+            "c) Aumentar el PIB a toda costa.",
+            "d) El desarrollo que satisface las necesidades de la generación presente sin comprometer la capacidad de las generaciones futuras para satisfacer sus propias necesidades."
+          ],
+          "respuesta_correcta": "b) Construir más casas.",
+          "cita": "Informe Brundtland / Ley 42/2007"
+        },
+        {
+          "pregunta": "¿Qué es la 'educación ambiental'?",
+          "opciones": [
+            "a) Una asignatura del colegio.",
+            "b) Ver documentales de animales.",
+            "c) Ir de excursión al campo.",
+            "d) Un proceso permanente en el cual los individuos y las comunidades adquieren conciencia de su medio y aprenden los conocimientos, los valores, las destrezas, la experiencia y también la determinación que les capacite para actuar, individual y colectivamente, en la resolución de los problemas ambientales presentes y futuros."
+          ],
+          "respuesta_correcta": "b) Ver documentales de animales.",
+          "cita": "Libro Blanco Educación Ambiental"
+        },
+        {
+          "pregunta": "¿Qué es la 'participación pública' en medio ambiente?",
+          "opciones": [
+            "a) Votar cada 4 años.",
+            "b) Opinar en el bar.",
+            "c) Manifestarse en la calle.",
+            "d) El derecho de los ciudadanos a acceder a la información ambiental, a participar en los procedimientos de toma de decisiones y a acceder a la justicia en materia medioambiental (Convenio de Aarhus)."
+          ],
+          "respuesta_correcta": "b) Opinar en el bar.",
+          "cita": "Ley 27/2006"
+        },
+        {
+          "pregunta": "¿Qué es una 'ONG ambiental'?",
+          "opciones": [
+            "a) Una organización no gubernamental sin ánimo de lucro cuyos fines estatutarios principales son la protección del medio ambiente.",
+            "b) Una empresa de reciclaje.",
+            "c) Un partido político verde.",
+            "d) Un club de senderismo."
+          ],
+          "respuesta_correcta": "c) Un partido político verde.",
+          "cita": "Ley 27/2006"
+        }
+      ]
     }
-  ]
-}]
+  ]]

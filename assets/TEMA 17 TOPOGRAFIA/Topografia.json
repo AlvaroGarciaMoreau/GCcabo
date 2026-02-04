@@ -1,667 +1,1108 @@
-[
-  {
-  "tema": "TEMA 17.- TOPOGRAFÍA (Guardia Civil)",
-  "descripcion": "Batería de preguntas basado en textos de topografía",
-  "preguntas": [
-    {
-      "pregunta": "¿Cuál es la ciencia que estudia el conjunto de principios y procedimientos que tienen por misión la representación gráfica de una parte de la superficie terrestre con sus formas y detalles?",
-      "opciones": [
-        "a) La Taquimetría.",
-        "b) La Topografía.",
-        "c) La Geodesia.",
-        "d) La Planimetría."
-      ],
-      "respuesta_correcta": "b) La Topografía."
-    },
-    {
-      "pregunta": "¿Cómo se denomina la parte de la Topografía que se ocupa de los procedimientos para confeccionar o levantar un plano por medio de diversos instrumentos, generalmente teodolitos o taquímetros?",
-      "opciones": [
-        "a) La Planimetría.",
-        "b) La Altimetría.",
-        "c) La Cartografía.",
-        "d) La Taquimetría."
-      ],
-      "respuesta_correcta": "d) La Taquimetría."
-    },
-    {
-      "pregunta": "¿Cuál es la inclinación del Eje Terrestre respecto al plano de la órbita de traslación?",
-      "opciones": [
-        "a) 0° (es perpendicular).",
-        "b) 23° 27'",
-        "c) 21° 56'",
-        "d) 90° S."
-      ],
-      "respuesta_correcta": "b) 23° 27'"
-    },
-    {
-      "pregunta": "¿Cuánto tiempo tarda la Tierra en hacer un giro completo sobre su propio eje en el movimiento de **Rotación**?",
-      "opciones": [
-        "a) 365 días, 6 horas y 9 minutos.",
-        "b) 23 horas y 56 minutos.",
-        "c) 24 horas exactas.",
-        "d) 40.076 kilómetros."
-      ],
-      "respuesta_correcta": "b) 23 horas y 56 minutos."
-    },
-    {
-      "pregunta": "La línea imaginaria que recorre la Tierra a igual distancia del Polo Norte que del Polo Sur y que la divide en dos mitades iguales se llama:",
-      "opciones": [
-        "a) Meridiano de Greenwich.",
-        "b) Eje Terrestre.",
-        "c) Ecuador.",
-        "d) Paralelo de Cáncer."
-      ],
-      "respuesta_correcta": "c) Ecuador."
-    },
-    {
-      "pregunta": "Llamamos **Latitud Geográfica** a la distancia entre un punto de la Tierra y el Ecuador, midiendo esta distancia en ángulos. ¿Entre qué grados varía la Latitud en cada hemisferio?",
-      "opciones": [
-        "a) 0° a 180° E/O.",
-        "b) 0° a 90° N/S.",
-        "c) 23° 27' a 66° 33' N/S.",
-        "d) 0circ a 360°."
-      ],
-      "respuesta_correcta": "b) 0° a 90° N/S."
-    },
-    {
-      "pregunta": "La línea imaginaria que une el Polo Norte y el Polo Sur y que sirve de referencia para medir la Longitud se llama:",
-      "opciones": [
-        "a) Ecuador.",
-        "b) Círculo Polar Ártico.",
-        "c) Trópico de Cáncer.",
-        "d) Meridiano de Greenwich."
-      ],
-      "respuesta_correcta": "d) Meridiano de Greenwich."
-    },
-    {
-      "pregunta": "La **Longitud Geográfica** se mide a partir del Meridiano de Greenwich. ¿Entre qué grados varía la Longitud hacia el Este y el Oeste?",
-      "opciones": [
-        "a) 0° a 90° N/S.",
-        "b) 0° a 180° E/O.",
-        "c) 0° a 45° E/O.",
-        "d) 0° a 360°."
-      ],
-      "respuesta_correcta": "b) 0° a 180° E/O."
-    },
-    {
-      "pregunta": "El Trópico de Cáncer y el Trópico de Capricornio se encuentran, respectivamente, a la Latitud:",
-      "opciones": [
-        "a) 23° N y 23° S.",
-        "b) 66° N y 66° S.",
-        "c) 23° 27' N y 23° 27' S.",
-        "d) 0°."
-      ],
-      "respuesta_correcta": "a) 23° N y 23° S."
-    },
-    {
-      "pregunta": "¿Qué nombre recibe el paralelo mayor que divide la tierra en dos partes iguales (hemisferio norte y hemisferio sur)?",
-      "opciones": [
-        "a) El Círculo Máximo.",
-        "b) El Ecuador.",
-        "c) El Trópico Principal.",
-        "d) El Meridiano Cero."
-      ],
-      "respuesta_correcta": "b) El Ecuador."
-    },
-    {
-      "pregunta": "El Polo Norte Geográfico nos indica la dirección del **Norte Geográfico** (o Norte verdadero). ¿Qué nombre recibe el Norte que nos marcan las brújulas?",
-      "opciones": [
-        "a) Norte Universal.",
-        "b) Norte Cartográfico.",
-        "c) Norte Magnético.",
-        "d) Norte Astronómico."
-      ],
-      "respuesta_correcta": "c) Norte Magnético."
-    },
-    {
-      "pregunta": "¿Qué elemento geográfico son círculos máximos perpendiculares al Ecuador, que pasan por los Polos, y dividen la Tierra en dos hemisferios (occidental y oriental)?",
-      "opciones": [
-        "a) Los Paralelos.",
-        "b) Los Trópicos.",
-        "c) Los Meridianos.",
-        "d) Los Círculos Polares."
-      ],
-      "respuesta_correcta": "c) Los Meridianos."
-    },
-    {
-      "pregunta": "El ángulo que forma una dirección entre dos puntos (AB) con el Norte Geográfico, medido en el sentido de las agujas del reloj, se denomina:",
-      "opciones": [
-        "a) Rumbo.",
-        "b) Orientación.",
-        "c) Declinación Magnética.",
-        "d) Acimut."
-      ],
-      "respuesta_correcta": "d) Acimut."
-    },
-    {
-      "pregunta": "Si el Acimut de una dirección es 289° 41' 17'', ¿cuál es el cálculo correcto para obtener el **Contra-Acimut** (o acimut inverso)?",
-      "opciones": [
-        "a) Acimut + 180°",
-        "b) Acimut - 180°",
-        "c) 360° - Acimut",
-        "d) Acimut + 90°."
-      ],
-      "respuesta_correcta": "b) Acimut - 180°"
-    },
-    {
-      "pregunta": "El **Rumbo** se define como el ángulo formado por una dirección con el:",
-      "opciones": [
-        "a) Norte Geográfico.",
-        "b) Meridiano Cero.",
-        "c) Norte Magnético.",
-        "d) Ecuador."
-      ],
-      "respuesta_correcta": "c) Norte Magnético."
-    },
-    {
-      "pregunta": "La **Declinación Magnética** (Dm) es la diferencia angular entre el Norte Geográfico (o verdadero) y el:",
-      "opciones": [
-        "a) Norte Cartográfico.",
-        "b) Norte de Cuadrícula.",
-        "c) Norte Magnético.",
-        "d) El Contra-Acimut."
-      ],
-      "respuesta_correcta": "c) Norte Magnético."
-    },
-    {
-      "pregunta": "¿Cuál es la unidad de longitud establecida en el Sistema Internacional que se define como 'la longitud del trayecto recorrido en el vacío por la luz durante un tiempo de 1/299.792.458 de segundo'?",
-      "opciones": [
-        "a) El kilómetro.",
-        "b) El hectómetro.",
-        "c) El metro.",
-        "d) El decámetro."
-      ],
-      "respuesta_correcta": "c) El metro."
-    },
-    {
-      "pregunta": "En el Sistema Métrico Decimal, la unidad para medir superficies agrarias es el **área**, que equivale a:",
-      "opciones": [
-        "a) El m^2 o centiárea.",
-        "b) El Hm^2 o hectárea.",
-        "c) El dam^2 o decámetro cuadrado.",
-        "d) El Km^2 o kilómetro cuadrado."
-      ],
-      "respuesta_correcta": "c) El dam^2 o decámetro cuadrado."
-    },
-    {
-      "pregunta": "¿Cuál es la equivalencia del ángulo en la graduación **milésimal artillera** para una circunferencia completa?",
-      "opciones": [
-        "a) 360°.",
-        "b) 400g.",
-        "c) 2π radianes.",
-        "d) 6.400oo."
-      ],
-      "respuesta_correcta": "d) 6.400oo"
-    },
-    {
-      "pregunta": "¿Cuántos minutos (') componen un grado (°) en el Sistema Sexagesimal?",
-      "opciones": [
-        "a) 10 minutos.",
-        "b) 60 minutos.",
-        "c) 100 minutos.",
-        "d) 3.600 minutos."
-      ],
-      "respuesta_correcta": "b) 60 minutos."
-    },
-    {
-      "pregunta": "La **Planimetría** es la parte de la Topografía que consiste en:",
-      "opciones": [
-        "a) La determinación de las alturas de los diferentes puntos del terreno.",
-        "b) La proyección de cada punto del terreno sobre un plano horizontal, tomado como referencia.",
-        "c) La representación del terreno a través de curvas de nivel.",
-        "d) La medición de distancias horizontales entre dos puntos."
-      ],
-      "respuesta_correcta": "b) La proyección de cada punto del terreno sobre un plano horizontal, tomado como referencia."
-    },
-    {
-      "pregunta": "¿Cuál es el nivel de referencia que se emplea en España para la **Altimetría** o nivelación?",
-      "opciones": [
-        "a) El nivel del mar en Cádiz.",
-        "b) El nivel del mar en Greenwich.",
-        "c) El nivel del mar en Alicante.",
-        "d) El nivel del mar en Barcelona."
-      ],
-      "respuesta_correcta": "c) El nivel del mar en Alicante."
-    },
-    {
-      "pregunta": "En la representación del terreno por curvas de nivel, se dibujan curvas de forma tal que la diferencia de nivel entre cada dos consecutivas sea una cantidad constante. Esta diferencia constante se denomina:",
-      "opciones": [
-        "a) Pendiente.",
-        "b) Curva Directora.",
-        "c) Desnivel.",
-        "d) Equidistancia."
-      ],
-      "respuesta_correcta": "d) Equidistancia."
-    },
-    {
-      "pregunta": "La **Pendiente** (P) entre dos puntos se calcula mediante la fórmula:",
-      "opciones": [
-        "a) P = (Distancia Vertical / Distancia Geométrica) x 100",
-        "b) P = (Distancia Vertical / Distancia Horizontal) x 100",
-        "c) P = (Distancia Horizontal / Distancia Vertical) x 100",
-        "d) P = Distancia Vertical + Distancia Horizontal."
-      ],
-      "respuesta_correcta": "b) P = (Distancia Vertical / Distancia Horizontal) x 100"
-    },
-    {
-      "pregunta": "En un plano de escala E=1:50.000 hemos medido la distancia entre dos puntos, siendo ésta de 15 milímetros. ¿Cuál es la distancia **reducida** en el terreno en metros?",
-      "opciones": [
-        "a) 75 metros.",
-        "b) 75.000 metros.",
-        "c) 7.500 metros.",
-        "d) 750 metros."
-      ],
-      "respuesta_correcta": "d) 750 metros."
-    },
-    {
-      "pregunta": "Si dos puntos están separados 2 kilómetros (2.000 metros) en el terreno y en un mapa esos dos puntos están separados 10 centímetros, ¿a qué escala está el plano?",
-      "opciones": [
-        "a) 1:2.000",
-        "b) 1:20.000",
-        "c) 1:50.000",
-        "d) 1:25.000"
-      ],
-      "respuesta_correcta": "b) 1:20.000"
-    },
-    {
-      "pregunta": "¿Qué punto tiene **mayor Latitud** en el mapa de coordenadas (Figura, puntos A, B, C y D)?",
-      "opciones": [
-        "a) Punto A.",
-        "b) Punto B.",
-        "c) Punto C.",
-        "d) Punto D."
-      ],
-      "respuesta_correcta": "a) Punto A."
-    },
-    {
-      "pregunta": "¿Qué punto tiene **menor Longitud** en el mapa de coordenadas (Figura, puntos A, B, C y D)?",
-      "opciones": [
-        "a) Punto A.",
-        "b) Punto B.",
-        "c) Punto C.",
-        "d) Punto D."
-      ],
-      "respuesta_correcta": "d) Punto D."
-    },
-    {
-      "pregunta": "Calcular el Acimut inverso de una dirección que tiene un acimut de 90°:",
-      "opciones": [
-        "a) 180°.",
-        "b) 270°.",
-        "c) 0°.",
-        "d) 210°."
-      ],
-      "respuesta_correcta": "b) 270°"
-    },
-    {
-      "pregunta": "Calcular el Acimut de una dirección, si sabemos que el acimut inverso es de 13°:",
-      "opciones": [
-        "a) 342°.",
-        "b) 193°.",
-        "c) 283°.",
-        "d) 103°."
-      ],
-      "respuesta_correcta": "b) 193°"
-    },
-    {
-      "pregunta": "Calcule el rumbo (R) de una embarcación, si sabemos que el acimut (Az) es 43° y la Declinación Magnética (Dm) es 4° E (Dm = -4° O):",
-      "opciones": [
-        "a) 47° NW.",
-        "b) 39° NW.",
-        "c) 47° NE.",
-        "d) 39° NE."
-      ],
-      "respuesta_correcta": "d) 39° NE."
-    },
-    {
-      "pregunta": "La parte más baja de la ladera o vertiente se denomina:",
-      "opciones": [
-        "a) Vaguada.",
-        "b) Divisoria.",
-        "c) Cresta.",
-        "d) Falda."
-      ],
-      "respuesta_correcta": "d) Falda."
-    },
-    {
-      "pregunta": "Una pequeña elevación del terreno respecto del que le rodea, de forma troncocónica, se denomina:",
-      "opciones": [
-        "a) Colina.",
-        "b) Mogote.",
-        "c) Macizo.",
-        "d) Sierra."
-      ],
-      "respuesta_correcta": "b) Mogote."
-    },
-    {
-      "pregunta": "Un grupo de montañas que se extienden en todas direcciones se llama:",
-      "opciones": [
-        "a) Cordillera.",
-        "b) Sierra.",
-        "c) Cresta.",
-        "d) Macizo."
-      ],
-      "respuesta_correcta": "d) Macizo."
-    },
-    {
-      "pregunta": "La línea imaginaria que forman los puntos del terreno y que marca la separación de las aguas de lluvia hacia dos laderas distintas se denomina:",
-      "opciones": [
-        "a) Vaguada.",
-        "b) Divisoria.",
-        "c) Cresta.",
-        "d) Collado."
-      ],
-      "respuesta_correcta": "b) Divisoria."
-    },
-    {
-      "pregunta": "La unión de dos laderas opuestas, por su parte inferior, y a la que afluyen las aguas que provienen de ellas se llama:",
-      "opciones": [
-        "a) Divisoria.",
-        "b) Collado.",
-        "c) Vaguada.",
-        "d) Torrente."
-      ],
-      "respuesta_correcta": "c) Vaguada."
-    },
-    {
-      "pregunta": "Una vaguada muy encajonada y profunda se denomina:",
-      "opciones": [
-        "a) Arroyo.",
-        "b) Desfiladero.",
-        "c) Barranco.",
-        "d) Cañada."
-      ],
-      "respuesta_correcta": "c) Barranco."
-    },
-    {
-      "pregunta": "Una depresión entre dos divisorias que, cuando es larga y estrecha, se denomina **garganta** y, si es profunda y de laderas escarpadas, **desfiladero**, es un:",
-      "opciones": [
-        "a) Macizo.",
-        "b) Collado.",
-        "c) Otero.",
-        "d) Cañón."
-      ],
-      "respuesta_correcta": "b) Collado."
-    },
-    {
-      "pregunta": "El lugar de un arroyo o río donde, por tener poca profundidad, escasa corriente y lecho firme, es factible su paso a pie o en vehículo se denomina:",
-      "opciones": [
-        "a) Desembocadura.",
-        "b) Confluencia.",
-        "c) Vado.",
-        "d) Pantano."
-      ],
-      "respuesta_correcta": "c) Vado."
-    },
-    {
-      "pregunta": "Una depresión del terreno respecto al que le rodea, que si en ella existe agua continuamente y ocupa gran extensión de terreno, se llama **lago**, es una:",
-      "opciones": [
-        "a) Laguna.",
-        "b) Hoya.",
-        "c) Vaguada.",
-        "d) Cañada."
-      ],
-      "respuesta_correcta": "b) Hoya."
-    },
-    {
-      "pregunta": "La faja de terreno colindante con el mar que si es abrupta y escarpada recibe el nombre de **acantilado** se llama:",
-      "opciones": [
-        "a) Playa.",
-        "b) Acantilado.",
-        "c) Costa.",
-        "d) Ensenada."
-      ],
-      "respuesta_correcta": "c) Costa."
-    },
-    {
-      "pregunta": "La **Escala Numérica** (E) se define como la relación constante o razón de semejanza que hay entre:",
-      "opciones": [
-        "a) Las líneas del terreno (T) y las líneas del plano (P), E=T/P.",
-        "b) Las líneas del plano (P) y las líneas del terreno (T), E=P/T.",
-        "c) La distancia vertical y la distancia horizontal.",
-        "d) La Longitud y la Latitud."
-      ],
-      "respuesta_correcta": "b) Las líneas del plano (P) y las líneas del terreno (T), E=P/T."
-    },
-    {
-      "pregunta": "Si tenemos dos planos del mismo tamaño, uno de Escala 1:1.000 y otro de 1:25.000, ¿cuál representa **más terreno**?",
-      "opciones": [
-        "a) El de Escala 1:1.000.",
-        "b) El de Escala 1:25.000.",
-        "c) Ambos representan el mismo terreno.",
-        "d) Depende del tipo de proyección."
-      ],
-      "respuesta_correcta": "b) El de Escala 1:25.000."
-    },
-    {
-      "pregunta": "En un mapa de escala 1:50.000, la distancia medida entre dos puntos es de 3 centímetros. Calcule la distancia en el terreno en metros.",
-      "opciones": [
-        "a) 1.500 metros.",
-        "b) 150 metros.",
-        "c) 15 kilómetros.",
-        "d) 150.000 centímetros."
-      ],
-      "respuesta_correcta": "a) 1.500 metros."
-    },
-    {
-      "pregunta": "Si la distancia entre dos puntos en el terreno es de 3.000 metros, y en un mapa, esos mismos puntos están separados 15 centímetros, ¿a qué escala está el plano?",
-      "opciones": [
-        "a) 1:200",
-        "b) 1:2.000",
-        "c) 1:20.000",
-        "d) 1:50.000"
-      ],
-      "respuesta_correcta": "c) 1:20.000"
-    },
-    {
-      "pregunta": "La **Curva Directora** en la representación del terreno es la curva de nivel que:",
-      "opciones": [
-        "a) Se dibuja con menor grosor que las demás.",
-        "b) Coincide con la cota del nivel del mar en Alicante.",
-        "c) Se dibuja con mayor grosor que las demás y lleva un número que indica su cota, normalmente cada cinco curvas.",
-        "d) Marca la separación de las aguas de lluvia."
-      ],
-      "respuesta_correcta": "c) Se dibuja con mayor grosor que las demás y lleva un número que indica su cota, normalmente cada cinco curvas."
-    },
-    {
-      "pregunta": "Calcule la pendiente en % entre dos puntos con cota 700 metros y 1.450 metros, sabiendo que la distancia en el plano es de 3 centímetros y la escala del plano es 1:50.000:",
-      "opciones": [
-        "a) 5% .",
-        "b) 50% .",
-        "c) 25% .",
-        "d) 2,5% ."
-      ],
-      "respuesta_correcta": "b) 50% "
-    },
-    {
-      "pregunta": "En el Sistema Centesimal, el grado centesimal se divide en 100 partes iguales llamadas minutos, y cada minuto en otras 100 partes llamadas:",
-      "opciones": [
-        "a) Segundos sexagesimales.",
-        "b) Segundos centesimales.",
-        "c) Milésimas.",
-        "d) Radianes."
-      ],
-      "respuesta_correcta": "b) Segundos centesimales."
-    },
-    {
-      "pregunta": "¿Cuántos grados centesimales (g) se obtienen al reducir 63° sexagesimales?",
-      "opciones": [
-        "a) 70g.",
-        "b) 50g.",
-        "c) 45g.",
-        "d) 80g."
-      ],
-      "respuesta_correcta": "a) 70g"
-    },
-    {
-      "pregunta": "Si un punto se localiza en el cruce de un paralelo y un meridiano, ¿qué dos coordenadas geográficas definen su posición?",
-      "opciones": [
-        "a) Altitud y Cota.",
-        "b) Norte Geográfico y Norte Magnético.",
-        "c) Latitud y Longitud.",
-        "d) Acimut y Rumbo."
-      ],
-      "respuesta_correcta": "c) Latitud y Longitud."
-    },
-    {
-      "pregunta": "La **Milésima Artillera** es la unidad de graduación milésimal que se define como el ángulo que resulta al dividir la circunferencia en:",
-      "opciones": [
-        "a) 1.000 partes iguales.",
-        "b) 6.283 partes iguales.",
-        "c) 6.400 partes iguales.",
-        "d) 360 partes iguales."
-      ],
-      "respuesta_correcta": "c) 6.400 partes iguales."
-    },
-    {
-      "pregunta": "Un **Otero** se define como:",
-      "opciones": [
-        "a) Una gran elevación del terreno.",
-        "b) Un grupo de montañas alineadas en una única dirección.",
-        "c) Un cerro aislado desde el que se domina un llano.",
-        "d) Una depresión entre dos divisorias."
-      ],
-      "respuesta_correcta": "c) Un cerro aislado desde el que se domina un llano."
-    },
-    {
-      "pregunta": "Cuando una cima es alargada se denomina **Cresta**, y si es plana se denomina:",
-      "opciones": [
-        "a) Pico.",
-        "b) Meseta.",
-        "c) Macizo.",
-        "d) Colina."
-      ],
-      "respuesta_correcta": "b) Meseta."
-    },
-    {
-      "pregunta": "El movimiento de la Tierra que se produce alrededor del Sol y que tarda 365 días, 6 horas y 9 minutos en completarse se llama:",
-      "opciones": [
-        "a) Rotación.",
-        "b) Traslación.",
-        "c) Equinoccio.",
-        "d) Solsticio."
-      ],
-      "respuesta_correcta": "b) Traslación."
-    },
-    {
-      "pregunta": "El Meridiano Origen o Internacional es el que pasa por el Observatorio Astronómico de:",
-      "opciones": [
-        "a) París.",
-        "b) Nueva York.",
-        "c) Madrid.",
-        "d) Greenwich (Londres)."
-      ],
-      "respuesta_correcta": "d) Greenwich (Londres)."
-    },
-    {
-      "pregunta": "Si una cima termina en punta, se denomina:",
-      "opciones": [
-        "a) Cresta.",
-        "b) Pico.",
-        "c) Meseta.",
-        "d) Colina."
-      ],
-      "respuesta_correcta": "b) Pico."
-    },
-    {
-      "pregunta": "Una **Sierra** se define como:",
-      "opciones": [
-        "a) Un grupo de montañas que se extienden en todas direcciones.",
-        "b) Una sucesión de varias cordilleras.",
-        "c) Un grupo de montañas que se alinean en una única dirección.",
-        "d) Una elevación de terreno pequeña y alargada."
-      ],
-      "respuesta_correcta": "c) Un grupo de montañas que se alinean en una única dirección."
-    },
-    {
-      "pregunta": "Un **Torrente** es una corriente de agua que:",
-      "opciones": [
-        "a) Solo circula en tiempo de lluvia, en forma impetuosa y turbulenta.",
-        "b) Es una vaguada muy encajonada y profunda.",
-        "c) Es la unión de dos cursos de agua.",
-        "d) Vierte sus aguas al mar (desembocadura)."
-      ],
-      "respuesta_correcta": "a) Solo circula en tiempo de lluvia, en forma impetuosa y turbulenta."
-    },
-    {
-      "pregunta": "La **Confluencia** es el punto de unión de:",
-      "opciones": [
-        "a) Un río y el mar (desembocadura).",
-        "b) Dos cursos de agua.",
-        "c) Una playa y un acantilado.",
-        "d) Dos divisorias."
-      ],
-      "respuesta_correcta": "b) Dos cursos de agua."
-    },
-    {
-      "pregunta": "Una **Cordillera** es:",
-      "opciones": [
-        "a) Un Monte peñascoso con laderas de pendientes pronunciadas.",
-        "b) Un grupo de montañas que se alinean en una única dirección.",
-        "c) Una pequeña elevación del terreno, generalmente desprovista de arbolado.",
-        "d) Una sucesión de varias sierras."
-      ],
-      "respuesta_correcta": "d) Una sucesión de varias sierras."
-    },
-    {
-      "pregunta": "Si la **Costa** es abrupta y escarpada, recibe el nombre de:",
-      "opciones": [
-        "a) Playa.",
-        "b) Acantilado.",
-        "c) Ensenada.",
-        "d) Bahía."
-      ],
-      "respuesta_correcta": "b) Acantilado."
-    },
-    {
-      "pregunta": "El ángulo que resulta de dividir un radián en 1.000 partes iguales se denomina:",
-      "opciones": [
-        "a) Grado centesimal.",
-        "b) Milésima verdadera.",
-        "c) Milésima artillera.",
-        "d) Segundo sexagesimal."
-      ],
-      "respuesta_correcta": "b) Milésima verdadera."
-    },
-    {
-      "pregunta": "Calcule la declinación magnética (Dm) para el año 2020 si la Dm para el año 1960 era de -7° y el incremento anual es de 3':",
-      "opciones": [
-        "a) -6° 57'",
-        "b) -4° .",
-        "c) -4° 0'",
-        "d) -4° 23'"
-      ],
-      "respuesta_correcta": "d) -4° 23'"
-    },
-    {
-      "pregunta": "En la representación del terreno, la recta imaginaria que une los dos puntos con diferente cota o nivel se conoce como:",
-      "opciones": [
-        "a) Distancia Horizontal o Reducida.",
-        "b) Distancia Natural.",
-        "c) Distancia Geométrica.",
-        "d) Distancia Vertical o Desnivel."
-      ],
-      "respuesta_correcta": "c) Distancia Geométrica."
-    },
-    {
-      "pregunta": "¿Cuál de los siguientes puntos en el mapa (Figura) está más cerca del **Trópico de Cáncer** (23° N)?",
-      "opciones": [
-        "a) Punto A (~ 40° N).",
-        "b) Punto B (~ 40° N).",
-        "c) Punto C (~ 20° S).",
-        "d) Punto D (~ 5° S)."
-      ],
-      "respuesta_correcta": "d) Punto D (~ 5° S)."
-    },
-    {
-      "pregunta": "¿Qué **Longitud** separa el punto C (~ 20° S, 40° O) del punto D (~ 5° S, 30° E) en el mapa?",
-      "opciones": [
-        "a) 10° .",
-        "b) 50° .",
-        "c) 70° .",
-        "d) 35° ."
-      ],
-      "respuesta_correcta": "c) 70° "
+[[
+    {
+      "tema": "TEMA 17.- TOPOGRAFÍA",
+      "descripcion": "Batería de 100 preguntas sobre Topografía con distribución equitativa de respuestas (25 A, 25 B, 25 C, 25 D).",
+      "preguntas": [
+        {
+          "pregunta": "¿Cómo se define el eje terrestre o eje polar en el contexto de la topografía y la geodesia?",
+          "opciones": [
+            "a) Es el círculo máximo perpendicular al Ecuador que pasa por los polos geográficos y divide a la Tierra en dos hemisferios, el oriental y el occidental, sirviendo de base para la medición de la longitud.",
+            "b) Es la línea imaginaria alrededor de la cual la Tierra realiza su movimiento de rotación, cuyos extremos cortan la superficie terrestre en los llamados polos geográficos (Norte y Sur) y presenta una inclinación de 23° 27' respecto a la normal del plano de la eclíptica.",
+            "c) Es la línea imaginaria que une el centro de la Tierra con el Sol en el momento del equinoccio de primavera, sirviendo de referencia para medir la declinación magnética y la inclinación de la órbita terrestre.",
+            "d) Es la línea curva que describe la Tierra en su movimiento de traslación alrededor del Sol, determinando la duración del año trópico y las estaciones astronómicas."
+          ],
+          "respuesta_correcta": "a) Es el círculo máximo perpendicular al Ecuador que pasa por los polos geográficos y divide a la Tierra en dos hemisferios, el oriental y el occidental, sirviendo de base para la medición de la longitud.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 1"
+        },
+        {
+          "pregunta": "¿Qué características definen a los meridianos en la representación geográfica de la Tierra?",
+          "opciones": [
+            "a) Son líneas rectas que unen puntos de igual latitud y que cortan a los paralelos en ángulos variables dependiendo de la proyección cartográfica utilizada.",
+            "b) Son las trayectorias aparentes que describe el Sol sobre la superficie terrestre a lo largo del año, determinando los husos horarios y las zonas climáticas.",
+            "c) Son círculos menores paralelos al Ecuador que disminuyen de tamaño a medida que se acercan a los polos, utilizados para medir la latitud de un punto sobre la superficie terrestre.",
+            "d) Son líneas imaginarias o círculos máximos que pasan por los polos Norte y Sur, siendo todos iguales en longitud (aproximadamente 40.009 km), y se utilizan como referencia para medir la longitud geográfica de cualquier punto."
+          ],
+          "respuesta_correcta": "d) Son líneas imaginarias o círculos máximos que pasan por los polos Norte y Sur, siendo todos iguales en longitud (aproximadamente 40.009 km), y se utilizan como referencia para medir la longitud geográfica de cualquier punto.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 1-2"
+        },
+        {
+          "pregunta": "¿Qué es el Ecuador terrestre y cuál es su importancia fundamental?",
+          "opciones": [
+            "a) Es el plano perpendicular al eje de rotación de la Tierra que pasa por su centro, definiendo un círculo máximo que divide al planeta en dos hemisferios (Norte y Sur) y sirve de origen (0°) para medir la latitud.",
+            "b) Es el meridiano principal que pasa por el observatorio de Greenwich y divide a la Tierra en hemisferio oriental y occidental, sirviendo de referencia para la hora internacional.",
+            "c) Es la línea imaginaria que une los puntos de mayor altitud de cada continente, utilizada para definir las zonas climáticas ecuatoriales y tropicales.",
+            "d) Es el círculo menor más cercano al polo Norte que recibe luz solar durante el solsticio de invierno, marcando el límite de la zona ártica."
+          ],
+          "respuesta_correcta": "c) Es la línea imaginaria que une los puntos de mayor altitud de cada continente, utilizada para definir las zonas climáticas ecuatoriales y tropicales.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 2"
+        },
+        {
+          "pregunta": "¿En qué consiste el movimiento de traslación de la Tierra y cuál es su duración?",
+          "opciones": [
+            "a) Es el movimiento que realiza la Tierra alrededor del Sol describiendo una órbita elíptica, con una duración de 365 días, 5 horas y 48 minutos, y una velocidad media aproximada de 107.000 km/h.",
+            "b) Es la variación periódica de la inclinación del eje terrestre respecto al plano de la eclíptica, oscilando entre 22,1° y 24,5° en un ciclo de 41.000 años.",
+            "c) Es el giro de la Tierra sobre su propio eje en sentido oeste-este, con una duración de 23 horas y 56 minutos, que determina la sucesión de los días y las noches.",
+            "d) Es el movimiento de balanceo del eje terrestre conocido como precesión de los equinoccios, que completa un ciclo cada 25.776 años aproximadamente."
+          ],
+          "respuesta_correcta": "c) Es el giro de la Tierra sobre su propio eje en sentido oeste-este, con una duración de 23 horas y 56 minutos, que determina la sucesión de los días y las noches.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 1"
+        },
+        {
+          "pregunta": "¿Qué es la longitud geográfica (λ) de un punto?",
+          "opciones": [
+            "a) Es el arco de meridiano medido en grados desde el Ecuador hasta el paralelo del lugar, pudiendo ser Norte o Sur y oscilando entre 0° y 90°.",
+            "b) Es el valor angular (arco de paralelo) medido en grados, minutos y segundos entre el meridiano del lugar y el meridiano origen o de referencia (Greenwich), pudiendo ser Este u Oeste y oscilando entre 0° y 180°.",
+            "c) Es la distancia lineal en kilómetros desde el punto considerado hasta el meridiano de Greenwich medida sobre la superficie del elipsoide de referencia.",
+            "d) Es el ángulo formado por la vertical del lugar y el plano del ecuador celeste, medido en el sentido de las agujas del reloj desde el punto vernal."
+          ],
+          "respuesta_correcta": "d) Es el ángulo formado por la vertical del lugar y el plano del ecuador celeste, medido en el sentido de las agujas del reloj desde el punto vernal.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 3"
+        },
+        {
+          "pregunta": "¿Qué es la latitud geográfica (φ) de un punto?",
+          "opciones": [
+            "a) Es el ángulo que forma la dirección Norte magnética con la dirección del punto, medido en sentido horario desde el Norte.",
+            "b) Es el ángulo diedro formado por el plano del meridiano del lugar con el plano del meridiano de Greenwich, medido a lo largo del Ecuador.",
+            "c) Es la distancia vertical medida desde el nivel medio del mar hasta el punto considerado, pudiendo ser positiva (elevación) o negativa (depresión).",
+            "d) Es el arco de meridiano contado desde el Ecuador hasta el punto considerado, o el valor angular que forma la vertical del lugar con el plano del Ecuador, variando de 0° a 90° Norte o Sur."
+          ],
+          "respuesta_correcta": "a) Es el ángulo que forma la dirección Norte magnética con la dirección del punto, medido en sentido horario desde el Norte.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 3"
+        },
+        {
+          "pregunta": "¿Qué son los puntos cardinales y cómo se definen en el horizonte?",
+          "opciones": [
+            "a) Son las direcciones magnéticas indicadas por la aguja de una brújula, que varían con el tiempo debido a la declinación magnética.",
+            "b) Son las cuatro direcciones principales del horizonte (Norte, Sur, Este, Oeste) determinadas por la intersección del meridiano del lugar (Norte-Sur) y la línea perpendicular a este (Este-Oeste) por donde sale y se pone el Sol en los equinoccios.",
+            "c) Son los puntos de intersección de la eclíptica con el ecuador celeste, correspondientes a los equinoccios y solsticios.",
+            "d) Son los cuatro cuadrantes en los que se divide el círculo acimutal, numerados del I al IV en sentido contrario a las agujas del reloj."
+          ],
+          "respuesta_correcta": "d) Son los cuatro cuadrantes en los que se divide el círculo acimutal, numerados del I al IV en sentido contrario a las agujas del reloj.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 2"
+        },
+        {
+          "pregunta": "En el sistema sexagesimal de medidas angulares, ¿cuál es la equivalencia correcta?",
+          "opciones": [
+            "a) La circunferencia se divide en 360 grados (360°), cada grado en 60 minutos (60') y cada minuto en 60 segundos (60'').",
+            "b) La circunferencia se divide en 400 grados centesimales (400g), cada grado en 100 minutos (100c) y cada minuto en 100 segundos (100cc).",
+            "c) La circunferencia se divide en 2π radianes, siendo un radián el ángulo que abarca un arco de longitud igual al radio.",
+            "d) La circunferencia se divide en 6400 milésimas artilleras, utilizadas para la orientación militar y el tiro de artillería."
+          ],
+          "respuesta_correcta": "d) La circunferencia se divide en 6400 milésimas artilleras, utilizadas para la orientación militar y el tiro de artillería.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 4"
+        },
+        {
+          "pregunta": "¿Qué caracteriza al sistema centesimal de medidas angulares?",
+          "opciones": [
+            "a) Divide la circunferencia en 360 grados, donde cada ángulo recto mide 90°, siendo el sistema más utilizado tradicionalmente en navegación y astronomía.",
+            "b) Utiliza el radián como unidad base, siendo este el ángulo central que subtiende un arco de longitud igual al radio de la circunferencia.",
+            "c) Divide la circunferencia en 400 grados (400g), donde cada ángulo recto mide 100g, facilitando los cálculos al ser un sistema decimal donde los minutos y segundos son potencias de 10.",
+            "d) Se basa en la división del círculo en 60 partes iguales, herencia de la astronomía babilónica, y se utiliza principalmente para medir el tiempo."
+          ],
+          "respuesta_correcta": "d) Se basa en la división del círculo en 60 partes iguales, herencia de la astronomía babilónica, y se utiliza principalmente para medir el tiempo.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 4"
+        },
+        {
+          "pregunta": "¿Qué es la 'Topografía' según la definición técnica aportada?",
+          "opciones": [
+            "a) El estudio de las capas del subsuelo terrestre mediante métodos geofísicos para la prospección de recursos minerales e hidrocarburos.",
+            "b) La ciencia que estudia el conjunto de principios y procedimientos que tienen por misión la representación gráfica de una parte de la superficie terrestre, con sus formas y detalles, tanto naturales como artificiales.",
+            "c) La técnica de elaboración de mapas geográficos a partir de fotografías aéreas o imágenes de satélite mediante restitución fotogramétrica.",
+            "d) La ciencia que estudia la forma y dimensiones de la Tierra en su totalidad, incluyendo su campo gravitatorio y las variaciones temporales de su posición y orientación."
+          ],
+          "respuesta_correcta": "c) La técnica de elaboración de mapas geográficos a partir de fotografías aéreas o imágenes de satélite mediante restitución fotogramétrica.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 1"
+        },
+        {
+          "pregunta": "¿Qué es el 'Ecuador'?",
+          "opciones": [
+            "a) El círculo máximo perpendicular al eje terrestre que divide a la Tierra en dos hemisferios iguales, Norte y Sur, y es el único paralelo que es un círculo máximo.",
+            "b) La órbita que describe la Luna alrededor de la Tierra.",
+            "c) El meridiano que pasa por el observatorio de Greenwich y sirve de origen para las longitudes.",
+            "d) La línea que une los polos magnéticos de la Tierra, que no coincide exactamente con los polos geográficos."
+          ],
+          "respuesta_correcta": "b) La órbita que describe la Luna alrededor de la Tierra.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 2"
+        },
+        {
+          "pregunta": "¿Cómo se denominan los círculos menores paralelos al Ecuador?",
+          "opciones": [
+            "a) Meridianos, que convergen en los polos y tienen todos la misma longitud.",
+            "b) Ortodrómicas, que representan la distancia más corta entre dos puntos sobre la superficie de una esfera.",
+            "c) Paralelos, que son intersecciones de la superficie terrestre con planos perpendiculares al eje de rotación y paralelos al plano del Ecuador.",
+            "d) Loxodrómicas, que son líneas que cortan a todos los meridianos con el mismo ángulo."
+          ],
+          "respuesta_correcta": "a) Meridianos, que convergen en los polos y tienen todos la misma longitud.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 2"
+        },
+        {
+          "pregunta": "¿Cuál es la unidad lineal básica en el Sistema Internacional utilizada en topografía?",
+          "opciones": [
+            "a) La milla náutica, que equivale a un minuto de arco de meridiano terrestre (1.852 metros).",
+            "b) La yarda internacional, utilizada principalmente en los países anglosajones y equivalente a 0,9144 metros.",
+            "c) El pie topográfico, que se divide en 12 pulgadas y se utiliza en levantamientos catastrales antiguos.",
+            "d) El metro, definido originalmente como la diezmillonésima parte del cuadrante del meridiano terrestre y actualmente referido a la velocidad de la luz en el vacío."
+          ],
+          "respuesta_correcta": "c) El pie topográfico, que se divide en 12 pulgadas y se utiliza en levantamientos catastrales antiguos.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 3"
+        },
+        {
+          "pregunta": "En cuanto a los movimientos de la Tierra, ¿qué provoca la sucesión de las estaciones?",
+          "opciones": [
+            "a) La precesión de los equinoccios que cambia lentamente la orientación del eje terrestre a lo largo de los milenios.",
+            "b) La inclinación del eje de rotación terrestre respecto al plano de la eclíptica combinada con el movimiento de traslación alrededor del Sol.",
+            "c) La variación de la distancia entre la Tierra y el Sol debido a la excentricidad de la órbita elíptica.",
+            "d) El movimiento de rotación de la Tierra sobre su propio eje que expone alternativamente los hemisferios a la luz solar."
+          ],
+          "respuesta_correcta": "b) La inclinación del eje de rotación terrestre respecto al plano de la eclíptica combinada con el movimiento de traslación alrededor del Sol.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 1"
+        },
+        {
+          "pregunta": "¿Qué son las coordenadas geográficas?",
+          "opciones": [
+            "a) La altitud y el acimut de un punto respecto a un observador situado en el nivel del mar.",
+            "b) Un sistema de coordenadas cartesianas (X, Y, Z) con origen en el centro de la Tierra.",
+            "c) Un sistema de referencia que utiliza dos valores angulares, latitud y longitud, para definir la posición única de cualquier punto sobre la superficie terrestre.",
+            "d) Un conjunto de líneas rectas y curvas que forman una cuadrícula sobre el mapa para localizar puntos."
+          ],
+          "respuesta_correcta": "b) Un sistema de coordenadas cartesianas (X, Y, Z) con origen en el centro de la Tierra.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 3"
+        },
+        {
+          "pregunta": "¿Qué valor tiene la latitud en el Ecuador?",
+          "opciones": [
+            "a) 45°.",
+            "b) 180°.",
+            "c) 90°.",
+            "d) 0°."
+          ],
+          "respuesta_correcta": "d) 0°.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 3"
+        },
+        {
+          "pregunta": "¿Cuál es la latitud de los Polos Norte y Sur?",
+          "opciones": [
+            "a) 45° Norte y 45° Sur respectivamente.",
+            "b) 180° Norte y 180° Sur respectivamente.",
+            "c) 90° Norte y 90° Sur respectivamente.",
+            "d) 0° y 180° respectivamente."
+          ],
+          "respuesta_correcta": "d) 0° y 180° respectivamente.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 3"
+        },
+        {
+          "pregunta": "¿Qué meridiano se toma como referencia 0° para medir la longitud?",
+          "opciones": [
+            "a) El Meridiano de Madrid.",
+            "b) La Línea Internacional de Cambio de Fecha.",
+            "c) El Meridiano de París.",
+            "d) El Meridiano de Greenwich."
+          ],
+          "respuesta_correcta": "c) El Meridiano de París.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 3"
+        },
+        {
+          "pregunta": "¿Hasta qué valor puede llegar la longitud geográfica?",
+          "opciones": [
+            "a) Hasta 90° Este u Oeste.",
+            "b) Hasta 180° Este u Oeste.",
+            "c) Hasta 100° en el sistema centesimal.",
+            "d) Hasta 360° en sentido horario."
+          ],
+          "respuesta_correcta": "d) Hasta 360° en sentido horario.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 3"
+        },
+        {
+          "pregunta": "¿Cómo se define la unidad de superficie 'área' o 'decámetro cuadrado'?",
+          "opciones": [
+            "a) Es un cuadrado de 10 metros de lado, equivalente a 100 metros cuadrados.",
+            "b) Es un cuadrado de 100 metros de lado, equivalente a 10.000 metros cuadrados.",
+            "c) Es la centésima parte de una hectárea.",
+            "d) Las respuestas a) y c) son correctas."
+          ],
+          "respuesta_correcta": "b) Es un cuadrado de 100 metros de lado, equivalente a 10.000 metros cuadrados.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 4"
+        },
+        {
+          "pregunta": "¿A cuántos metros cuadrados equivale una hectárea (Ha)?",
+          "opciones": [
+            "a) 100.000 metros cuadrados.",
+            "b) 10.000 metros cuadrados.",
+            "c) 1.000 metros cuadrados.",
+            "d) 100 metros cuadrados."
+          ],
+          "respuesta_correcta": "d) 100 metros cuadrados.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 4"
+        },
+        {
+          "pregunta": "¿Qué es la 'Taquimetría'?",
+          "opciones": [
+            "a) El estudio de las mareas y su influencia en la línea de costa.",
+            "b) La medición de distancias mediante ondas de radio o láser.",
+            "c) La técnica para medir la velocidad de las corrientes fluviales.",
+            "d) La parte de la topografía que se ocupa de los procedimientos para confeccionar o levantar un plano rápidamente por medio de instrumentos como teodolitos o taquímetros."
+          ],
+          "respuesta_correcta": "d) La parte de la topografía que se ocupa de los procedimientos para confeccionar o levantar un plano rápidamente por medio de instrumentos como teodolitos o taquímetros.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 1"
+        },
+        {
+          "pregunta": "En el sistema sexagesimal, ¿cuántos segundos tiene un grado?",
+          "opciones": [
+            "a) 3.600 segundos.",
+            "b) 60 segundos.",
+            "c) 100 segundos.",
+            "d) 10.000 segundos."
+          ],
+          "respuesta_correcta": "b) 60 segundos.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 4"
+        },
+        {
+          "pregunta": "¿Qué inclinación tiene el eje terrestre respecto a la vertical del plano de la eclíptica?",
+          "opciones": [
+            "a) 90°.",
+            "b) 66° 33'.",
+            "c) 23° 27'.",
+            "d) 45°."
+          ],
+          "respuesta_correcta": "d) 45°.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 1"
+        },
+        {
+          "pregunta": "¿Cuándo se producen los equinoccios?",
+          "opciones": [
+            "a) Cada vez que hay luna llena.",
+            "b) El 21 de marzo (primavera) y el 23 de septiembre (otoño), cuando los rayos solares inciden perpendicularmente sobre el Ecuador y el día y la noche tienen la misma duración.",
+            "c) Cuando la Tierra se encuentra en el afelio y en el perihelio de su órbita.",
+            "d) El 21 de junio (verano) y el 22 de diciembre (invierno), cuando la diferencia entre el día y la noche es máxima."
+          ],
+          "respuesta_correcta": "a) Cada vez que hay luna llena.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 1"
+        },
+        {
+          "pregunta": "¿Qué es un 'radián'?",
+          "opciones": [
+            "a) La unidad angular utilizada en el sistema sexagesimal.",
+            "b) La medida de la superficie de un sector circular.",
+            "c) El ángulo central que abarca un arco de longitud igual al radio de la circunferencia.",
+            "d) Un ángulo de 57° exactos."
+          ],
+          "respuesta_correcta": "b) La medida de la superficie de un sector circular.",
+          "cita": "Temario Topografia.docx (Pto. 2)"
+        },
+        {
+          "pregunta": "¿Cuántos grados sexagesimales tiene una circunferencia completa?",
+          "opciones": [
+            "a) 2π grados.",
+            "b) 400°.",
+            "c) 180°.",
+            "d) 360°."
+          ],
+          "respuesta_correcta": "d) 360°.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 4"
+        },
+        {
+          "pregunta": "¿Cuántos grados centesimales tiene un ángulo recto?",
+          "opciones": [
+            "a) 90g.",
+            "b) 200g.",
+            "c) 100g.",
+            "d) 50g."
+          ],
+          "respuesta_correcta": "b) 200g.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 4"
+        },
+        {
+          "pregunta": "Si convertimos 180° sexagesimales a centesimales, obtenemos:",
+          "opciones": [
+            "a) 200g.",
+            "b) 100g.",
+            "c) 400g.",
+            "d) 360g."
+          ],
+          "respuesta_correcta": "a) 200g.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 4 (Equivalencia semicírculo)"
+        },
+        {
+          "pregunta": "¿Cuál es la unidad agraria equivalente a 100 metros cuadrados?",
+          "opciones": [
+            "a) El acre.",
+            "b) El área.",
+            "c) La hectárea.",
+            "d) La centiárea."
+          ],
+          "respuesta_correcta": "c) La hectárea.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 4"
+        },
+        {
+          "pregunta": "¿Qué es la 'centiárea'?",
+          "opciones": [
+            "a) Una medida de volumen de áridos.",
+            "b) Un cuadrado de 10 metros de lado.",
+            "c) Un cuadrado de 1 metro de lado, equivalente a 1 metro cuadrado.",
+            "d) La centésima parte de una hectárea (100 m2)."
+          ],
+          "respuesta_correcta": "a) Una medida de volumen de áridos.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 4"
+        },
+        {
+          "pregunta": "¿Qué es el 'Azimut' o 'Acimut'?",
+          "opciones": [
+            "a) El ángulo horizontal medido en sentido horario desde el Norte (geográfico o magnético) hasta la dirección de un punto o línea.",
+            "b) La distancia horizontal entre dos puntos proyectada sobre el plano.",
+            "c) El ángulo vertical que forma una línea con el horizonte.",
+            "d) La diferencia de altura entre dos curvas de nivel consecutivas."
+          ],
+          "respuesta_correcta": "c) El ángulo vertical que forma una línea con el horizonte.",
+          "cita": "Temario Topografia.docx (Pto. 1)"
+        },
+        {
+          "pregunta": "¿Qué diferencia existe entre el Norte Geográfico y el Norte Magnético?",
+          "opciones": [
+            "a) Son el mismo punto, solo cambia la forma de denominarlo según se use un mapa o una brújula.",
+            "b) El Norte Geográfico es la intersección del eje de rotación terrestre con la superficie (fijo), mientras que el Norte Magnético es el punto hacia donde apunta la brújula y varía con el tiempo y la posición.",
+            "c) El Norte Geográfico se utiliza en invierno y el Magnético en verano debido a la inclinación terrestre.",
+            "d) El Norte Geográfico está en el hemisferio Sur y el Magnético en el Norte."
+          ],
+          "respuesta_correcta": "b) El Norte Geográfico es la intersección del eje de rotación terrestre con la superficie (fijo), mientras que el Norte Magnético es el punto hacia donde apunta la brújula y varía con el tiempo y la posición.",
+          "cita": "Temario Topografia.docx (Pto. 1 - implícito en definiciones)"
+        },
+        {
+          "pregunta": "¿Qué es el 'Rumbo'?",
+          "opciones": [
+            "a) La dirección que sigue un barco empujado por la corriente.",
+            "b) La pendiente de una carretera expresada en porcentaje.",
+            "c) Es sinónimo de Azimut y se mide siempre desde el Norte hasta 360°.",
+            "d) El ángulo horizontal agudo (menor de 90°) medido desde el Norte o desde el Sur, hacia el Este o hacia el Oeste, para definir la dirección de una línea."
+          ],
+          "respuesta_correcta": "d) El ángulo horizontal agudo (menor de 90°) medido desde el Norte o desde el Sur, hacia el Este o hacia el Oeste, para definir la dirección de una línea.",
+          "cita": "Temario Topografia.docx (Pto. 1)"
+        },
+        {
+          "pregunta": "¿Cómo se realiza la conversión de grados sexagesimales a radianes?",
+          "opciones": [
+            "a) Multiplicando los grados por 180 y dividiendo por π.",
+            "b) Multiplicando los grados por π y dividiendo por 180.",
+            "c) Multiplicando los grados por 400 y dividiendo por 360.",
+            "d) Sumando 273 a los grados."
+          ],
+          "respuesta_correcta": "b) Multiplicando los grados por π y dividiendo por 180.",
+          "cita": "Conocimiento general derivado de unidades angulares"
+        },
+        {
+          "pregunta": "¿Qué es la 'escala' en un plano o mapa?",
+          "opciones": [
+            "a) El sistema de coordenadas utilizado para proyectar la superficie terrestre sobre un plano.",
+            "b) El instrumento utilizado para medir ángulos horizontales y verticales en el levantamiento topográfico.",
+            "c) La distancia vertical que separa dos curvas de nivel consecutivas.",
+            "d) La relación constante que existe entre una distancia medida en el plano y la correspondiente distancia medida en el terreno (realidad), expresada generalmente en forma de fracción."
+          ],
+          "respuesta_correcta": "b) El instrumento utilizado para medir ángulos horizontales y verticales en el levantamiento topográfico.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 3"
+        },
+        {
+          "pregunta": "En una escala 1:50.000, ¿qué significa el valor 50.000?",
+          "opciones": [
+            "a) Que el terreno es 50.000 veces más pequeño que el plano.",
+            "b) Que una unidad de medida en el plano equivale a 50.000 unidades de la misma medida en el terreno (ej. 1 cm = 50.000 cm = 500 m).",
+            "c) Que la equidistancia entre curvas de nivel es de 50 metros.",
+            "d) Que la superficie representada es de 50.000 metros cuadrados."
+          ],
+          "respuesta_correcta": "a) Que el terreno es 50.000 veces más pequeño que el plano.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 3"
+        },
+        {
+          "pregunta": "¿Qué escala es mayor (representa más detalle), 1:10.000 o 1:50.000?",
+          "opciones": [
+            "a) La escala 1:50.000, porque abarca una mayor extensión de terreno en el mismo tamaño de papel.",
+            "b) Depende de la equidistancia de las curvas de nivel utilizada.",
+            "c) Son iguales en cuanto a detalle, solo cambia el tamaño del papel.",
+            "d) La escala 1:10.000, porque el denominador es menor, lo que implica que la reducción de la realidad es menor y por tanto se aprecian más detalles."
+          ],
+          "respuesta_correcta": "a) La escala 1:50.000, porque abarca una mayor extensión de terreno en el mismo tamaño de papel.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 3 (Concepto escala mayor/menor)"
+        },
+        {
+          "pregunta": "Si medimos 4 cm en un mapa a escala 1:25.000, ¿cuál es la distancia real en el terreno?",
+          "opciones": [
+            "a) 10.000 metros.",
+            "b) 1.000 metros (1 km).",
+            "c) 2.500 metros.",
+            "d) 100 metros."
+          ],
+          "respuesta_correcta": "d) 100 metros.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 3 (Cálculo escala)"
+        },
+        {
+          "pregunta": "¿Qué es la escala gráfica?",
+          "opciones": [
+            "a) La representación del perfil del terreno a lo largo de una línea.",
+            "b) La fracción numérica que aparece en la leyenda del mapa (ej. 1:50.000).",
+            "c) El gráfico que muestra la declinación magnética en un mapa.",
+            "d) Una línea recta dividida en segmentos iguales, graduada con los valores de las distancias reales que representan, permitiendo medir directamente sobre el mapa sin hacer cálculos."
+          ],
+          "respuesta_correcta": "c) El gráfico que muestra la declinación magnética en un mapa.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 3"
+        },
+        {
+          "pregunta": "¿En qué consiste la 'Planimetría'?",
+          "opciones": [
+            "a) En la representación de los detalles del terreno (naturales y artificiales) sobre un plano horizontal, proyectando su posición mediante coordenadas X e Y, sin tener en cuenta su altura.",
+            "b) En el dibujo de las curvas de nivel para representar el relieve.",
+            "c) En la medición de superficies agrarias para el catastro.",
+            "d) En la determinación de la altura de los puntos del terreno respecto a un plano de referencia."
+          ],
+          "respuesta_correcta": "b) En el dibujo de las curvas de nivel para representar el relieve.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 5"
+        },
+        {
+          "pregunta": "¿En qué consiste la 'Altimetría'?",
+          "opciones": [
+            "a) En el cálculo de las coordenadas geográficas de un vértice geodésico.",
+            "b) En la proyección de los puntos sobre el plano del horizonte.",
+            "c) En la medición de distancias horizontales entre puntos elevados.",
+            "d) En la parte de la topografía que trata de determinar y representar la altura o cota (coordenada Z) de los puntos del terreno respecto a un plano de comparación (normalmente el nivel del mar)."
+          ],
+          "respuesta_correcta": "b) En la proyección de los puntos sobre el plano del horizonte.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 5"
+        },
+        {
+          "pregunta": "¿Qué es una 'curva de nivel'?",
+          "opciones": [
+            "a) El perfil longitudinal de un camino o carretera.",
+            "b) La línea de máxima pendiente que sigue el agua al descender por una ladera.",
+            "c) La intersección de dos vertientes opuestas formando una vaguada.",
+            "d) Una línea imaginaria y continua que une todos los puntos del terreno que tienen la misma altitud o cota respecto al nivel de referencia."
+          ],
+          "respuesta_correcta": "c) La intersección de dos vertientes opuestas formando una vaguada.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 5"
+        },
+        {
+          "pregunta": "¿Qué es la 'equidistancia' en un mapa topográfico?",
+          "opciones": [
+            "a) La distancia horizontal entre dos curvas de nivel medida sobre el plano.",
+            "b) La distancia entre dos puntos kilométricos de una carretera.",
+            "c) La diferencia de altitud constante entre dos curvas de nivel consecutivas.",
+            "d) La separación entre los meridianos en una proyección UTM."
+          ],
+          "respuesta_correcta": "c) La diferencia de altitud constante entre dos curvas de nivel consecutivas.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 5"
+        },
+        {
+          "pregunta": "¿Qué son las 'curvas maestras' o 'directrices'?",
+          "opciones": [
+            "a) Las curvas de nivel que marcan el nivel del mar (cota 0).",
+            "b) Curvas de nivel que se dibujan con un trazo más grueso para facilitar la lectura del mapa, y que suelen llevar acotada su altitud (generalmente cada 5 o 10 curvas normales).",
+            "c) Las curvas de nivel auxiliares que se intercalan cuando la pendiente es muy suave.",
+            "d) Las curvas que representan las divisorias de aguas."
+          ],
+          "respuesta_correcta": "d) Las curvas que representan las divisorias de aguas.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 5"
+        },
+        {
+          "pregunta": "¿Qué indica que las curvas de nivel estén muy juntas en un mapa?",
+          "opciones": [
+            "a) Que se trata de una zona deprimida o una hoya.",
+            "b) Que el terreno tiene una pendiente muy pronunciada o fuerte (escarpado).",
+            "c) Que el terreno es muy llano o suave.",
+            "d) Que la equidistancia del mapa es muy grande."
+          ],
+          "respuesta_correcta": "c) Que el terreno es muy llano o suave.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 5"
+        },
+        {
+          "pregunta": "¿Qué es una 'vaguada' o 'talweg'?",
+          "opciones": [
+            "a) Un paso estrecho entre montañas.",
+            "b) Una elevación del terreno aislada y de poca altura.",
+            "c) La línea de intersección de dos vertientes que convergen hacia el fondo, por donde discurren las aguas de lluvia o los ríos (entrantes en las curvas de nivel hacia la zona más alta).",
+            "d) La línea de intersección de dos vertientes que divergen, separando las aguas (divisorias)."
+          ],
+          "respuesta_correcta": "a) Un paso estrecho entre montañas.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 7 (Definición Vaguada)"
+        },
+        {
+          "pregunta": "¿Qué es un 'collado', 'puerto' o 'portillo'?",
+          "opciones": [
+            "a) La zona más baja situada entre dos cumbres o elevaciones consecutivas, por donde suele ser más fácil atravesar una cadena montañosa.",
+            "b) La cumbre más alta de una sierra.",
+            "c) Una depresión cerrada sin salida de aguas.",
+            "d) La ladera de una montaña expuesta al sol (solana)."
+          ],
+          "respuesta_correcta": "a) La zona más baja situada entre dos cumbres o elevaciones consecutivas, por donde suele ser más fácil atravesar una cadena montañosa.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 7"
+        },
+        {
+          "pregunta": "¿Qué es la 'pendiente' de un terreno?",
+          "opciones": [
+            "a) El ángulo que forma el Norte con la dirección de máxima inclinación.",
+            "b) La distancia geométrica medida a lo largo de la superficie del terreno.",
+            "c) La altura absoluta de un punto respecto al nivel del mar.",
+            "d) La relación entre la diferencia de altura (desnivel) y la distancia horizontal recorrida, expresada habitualmente en porcentaje (%) o en grados."
+          ],
+          "respuesta_correcta": "a) El ángulo que forma el Norte con la dirección de máxima inclinación.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 6"
+        },
+        {
+          "pregunta": "¿Cómo se calcula la pendiente en porcentaje?",
+          "opciones": [
+            "a) Pendiente (%) = (Desnivel + Distancia Horizontal) / 2.",
+            "b) Pendiente (%) = (Distancia Horizontal / Desnivel) x 100.",
+            "c) Pendiente (%) = Desnivel x Distancia Horizontal.",
+            "d) Pendiente (%) = (Desnivel / Distancia Horizontal) x 100."
+          ],
+          "respuesta_correcta": "c) Pendiente (%) = Desnivel x Distancia Horizontal.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 6"
+        },
+        {
+          "pregunta": "Si entre dos puntos hay un desnivel de 50 metros y la distancia horizontal es de 500 metros, ¿cuál es la pendiente?",
+          "opciones": [
+            "a) 5%.",
+            "b) 1%.",
+            "c) 20%.",
+            "d) 10%."
+          ],
+          "respuesta_correcta": "b) 1%.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 6 (Aplicación fórmula)"
+        },
+        {
+          "pregunta": "¿Qué es la 'distancia geométrica' o 'natural'?",
+          "opciones": [
+            "a) La diferencia de cota entre dos puntos.",
+            "b) La distancia real medida sobre la superficie del terreno, siguiendo sus ondulaciones y pendientes (hipotenusa del triángulo formado por el desnivel y la distancia reducida).",
+            "c) La longitud del arco de meridiano entre dos paralelos.",
+            "d) La distancia medida en línea recta sobre el mapa (distancia reducida)."
+          ],
+          "respuesta_correcta": "d) La distancia medida en línea recta sobre el mapa (distancia reducida).",
+          "cita": "TOPOGRAFIA.pdf, Pág. 6 (Explicación gráfica)"
+        },
+        {
+          "pregunta": "¿Qué es la 'distancia reducida' o 'topográfica'?",
+          "opciones": [
+            "a) La distancia medida con un distanciómetro láser sin corrección.",
+            "b) La distancia real que recorre un caminante al subir una montaña.",
+            "c) La distancia vertical entre dos curvas de nivel.",
+            "d) La proyección horizontal de la distancia geométrica sobre un plano de referencia; es la distancia que se mide y representa en los planos."
+          ],
+          "respuesta_correcta": "c) La distancia vertical entre dos curvas de nivel.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 6"
+        },
+        {
+          "pregunta": "¿Qué es una 'divisoria de aguas'?",
+          "opciones": [
+            "a) La línea imaginaria que separa dos cuencas hidrográficas adyacentes, formada por la intersección de dos vertientes que divergen (las aguas caen hacia lados opuestos).",
+            "b) La línea más profunda de un valle por donde corre el río.",
+            "c) El límite entre la zona de tierra y la zona de mar.",
+            "d) La línea que une los puntos de igual profundidad en un lago."
+          ],
+          "respuesta_correcta": "d) La línea que une los puntos de igual profundidad en un lago.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 7 (Definición Divisoria)"
+        },
+        {
+          "pregunta": "¿Qué es una 'hoya' o 'depresión'?",
+          "opciones": [
+            "a) Una zona del terreno más baja que las que la rodean por todos lados, representada por curvas de nivel concéntricas cuyas cotas disminuyen hacia el centro.",
+            "b) Una elevación del terreno aislada.",
+            "c) Una llanura extensa situada a gran altitud (meseta).",
+            "d) Un acantilado vertical en la costa."
+          ],
+          "respuesta_correcta": "a) Una zona del terreno más baja que las que la rodean por todos lados, representada por curvas de nivel concéntricas cuyas cotas disminuyen hacia el centro.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 7"
+        },
+        {
+          "pregunta": "En un plano con equidistancia de 20 metros, ¿cuántas curvas normales hay entre dos curvas maestras (que suelen estar cada 100 metros)?",
+          "opciones": [
+            "a) 9 curvas normales.",
+            "b) 4 curvas normales.",
+            "c) 5 curvas normales.",
+            "d) 10 curvas normales."
+          ],
+          "respuesta_correcta": "b) 4 curvas normales.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 5 (Deducción equidistancia)"
+        },
+        {
+          "pregunta": "¿Qué es la 'Cota' de un punto?",
+          "opciones": [
+            "a) El número que indica la altitud de ese punto sobre el nivel del mar o plano de referencia.",
+            "b) El ángulo que forma con el Norte.",
+            "c) La distancia al origen de coordenadas UTM.",
+            "d) La pendiente en ese punto."
+          ],
+          "respuesta_correcta": "c) La distancia al origen de coordenadas UTM.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 5"
+        },
+        {
+          "pregunta": "¿Cómo se representan los ríos y arroyos en relación con las curvas de nivel?",
+          "opciones": [
+            "a) Las curvas de nivel forman una 'V' con el vértice apuntando hacia el nacimiento del río (aguas arriba), indicando que el terreno sube en esa dirección.",
+            "b) Las curvas de nivel son paralelas al río.",
+            "c) Las curvas de nivel forman una 'V' apuntando hacia la desembocadura.",
+            "d) Las curvas de nivel nunca cruzan los ríos."
+          ],
+          "respuesta_correcta": "c) Las curvas de nivel forman una 'V' apuntando hacia la desembocadura.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 7 (Interpretación vaguada)"
+        },
+        {
+          "pregunta": "¿Qué significa que un terreno es 'llano'?",
+          "opciones": [
+            "a) Que la altitud es superior a los 1000 metros.",
+            "b) Que las curvas de nivel están muy juntas.",
+            "c) Que hay muchos accidentes geográficos como barrancos y lomas.",
+            "d) Que las pendientes son muy suaves o casi nulas, y las curvas de nivel están muy separadas entre sí."
+          ],
+          "respuesta_correcta": "a) Que la altitud es superior a los 1000 metros.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 6"
+        },
+        {
+          "pregunta": "¿Qué es una 'Loma'?",
+          "opciones": [
+            "a) Una elevación del terreno alargada y de poca altura, similar a una colina suave.",
+            "b) Una depresión profunda y estrecha.",
+            "c) Una montaña de gran altura y paredes verticales.",
+            "d) Una llanura costera."
+          ],
+          "respuesta_correcta": "c) Una montaña de gran altura y paredes verticales.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 7 (Conceptos accidentes)"
+        },
+        {
+          "pregunta": "¿Qué es el 'perfil topográfico'?",
+          "opciones": [
+            "a) La vista aérea del terreno tal como se ve desde un avión.",
+            "b) La representación gráfica de la intersección del terreno con un plano vertical a lo largo de una línea determinada, mostrando las elevaciones y depresiones (el corte del terreno).",
+            "c) El mapa de pendientes de una zona.",
+            "d) La leyenda explicativa de los símbolos del mapa."
+          ],
+          "respuesta_correcta": "a) La vista aérea del terreno tal como se ve desde un avión.",
+          "cita": "Conocimiento general topografía (Implícito en Altimetría)"
+        },
+        {
+          "pregunta": "¿Qué es la 'pendiente en grados'?",
+          "opciones": [
+            "a) El porcentaje de desnivel.",
+            "b) El acimut de la dirección de máxima pendiente.",
+            "c) La diferencia de cotas en metros.",
+            "d) El valor angular que forma la línea del terreno con la horizontal (0° es horizontal, 90° es vertical)."
+          ],
+          "respuesta_correcta": "d) El valor angular que forma la línea del terreno con la horizontal (0° es horizontal, 90° es vertical).",
+          "cita": "TOPOGRAFIA.pdf, Pág. 6"
+        },
+        {
+          "pregunta": "Si un plano tiene escala 1:1000, ¿cuántos metros reales son 10 cm en el plano?",
+          "opciones": [
+            "a) 100 metros.",
+            "b) 1.000 metros.",
+            "c) 10 metros.",
+            "d) 1 metro."
+          ],
+          "respuesta_correcta": "b) 1.000 metros.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 3 (Cálculo)"
+        },
+        {
+          "pregunta": "¿Qué es el 'Mamelón'?",
+          "opciones": [
+            "a) Una pequeña elevación del terreno de forma semiesférica o redondeada.",
+            "b) Una cresta rocosa y afilada.",
+            "c) Un lago de montaña.",
+            "d) Un valle glaciar en forma de U."
+          ],
+          "respuesta_correcta": "a) Una pequeña elevación del terreno de forma semiesférica o redondeada.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 7"
+        },
+        {
+          "pregunta": "¿Qué es la 'Cresta'?",
+          "opciones": [
+            "a) La línea que une los puntos más altos de una cadena montañosa o divisoria de aguas, presentando una forma aguda.",
+            "b) El punto donde se unen dos ríos.",
+            "c) La base de la montaña.",
+            "d) La ladera más suave de una colina."
+          ],
+          "respuesta_correcta": "a) La línea que une los puntos más altos de una cadena montañosa o divisoria de aguas, presentando una forma aguda.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 7"
+        },
+        {
+          "pregunta": "¿Qué propiedad fundamental tienen las curvas de nivel respecto a la pendiente?",
+          "opciones": [
+            "a) La separación de las curvas no tiene relación con la pendiente, solo con la altitud.",
+            "b) Las curvas de nivel siempre mantienen la misma separación constante independientemente del terreno.",
+            "c) Cuanto más juntas están, menor es la pendiente.",
+            "d) Cuanto más juntas están las curvas, mayor es la pendiente del terreno; cuanto más separadas, menor es la pendiente (terreno más llano)."
+          ],
+          "respuesta_correcta": "c) Cuanto más juntas están, menor es la pendiente.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 6"
+        },
+        {
+          "pregunta": "¿Qué ocurre si las curvas de nivel se cruzan o cortan?",
+          "opciones": [
+            "a) Es normal que se crucen en las cimas de las montañas.",
+            "b) Generalmente no se cruzan, salvo en casos excepcionales como cuevas, voladizos o acantilados extraplomados.",
+            "c) Significa que hay un río subterráneo.",
+            "d) Indican que hay un error en el mapa."
+          ],
+          "respuesta_correcta": "a) Es normal que se crucen en las cimas de las montañas.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 5 (Propiedades curvas)"
+        },
+        {
+          "pregunta": "¿Qué es un 'vértice geodésico'?",
+          "opciones": [
+            "a) El pico más alto de una montaña.",
+            "b) Una señal de tráfico que indica peligro.",
+            "c) Un punto señalizado en el terreno (generalmente un pilar de hormigón) con coordenadas exactas conocidas (latitud, longitud y altitud) que sirve de base para la cartografía.",
+            "d) El punto donde se cruzan dos carreteras."
+          ],
+          "respuesta_correcta": "c) Un punto señalizado en el terreno (generalmente un pilar de hormigón) con coordenadas exactas conocidas (latitud, longitud y altitud) que sirve de base para la cartografía.",
+          "cita": "Conocimiento general topografía"
+        },
+        {
+          "pregunta": "¿Cómo se define un terreno 'ondulado'?",
+          "opciones": [
+            "a) Aquel terreno que presenta elevaciones y depresiones de poca importancia, donde las pendientes son moderadas y permiten un tránsito relativamente fácil fuera de caminos.",
+            "b) Un terreno completamente plano con alguna pequeña elevación aislada.",
+            "c) Una zona montañosa con valles profundos y crestas afiladas.",
+            "d) Aquel donde las pendientes son superiores al 20% y dificultan la marcha."
+          ],
+          "respuesta_correcta": "b) Un terreno completamente plano con alguna pequeña elevación aislada.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 6"
+        },
+        {
+          "pregunta": "¿Qué caracteriza a un terreno 'accidentado' o 'quebrado'?",
+          "opciones": [
+            "a) Un terreno con pendientes suaves y constantes ideales para el cultivo.",
+            "b) La presencia frecuente de cambios bruscos de pendiente, barrancos, cortados y otros accidentes que dificultan o impiden el paso en línea recta, obligando a realizar rodeos.",
+            "c) La existencia de grandes llanuras intercaladas con zonas de bosque denso.",
+            "d) La predominancia de zonas urbanas y edificaciones."
+          ],
+          "respuesta_correcta": "c) La existencia de grandes llanuras intercaladas con zonas de bosque denso.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 6"
+        },
+        {
+          "pregunta": "¿Qué es un 'monte' o 'montaña' en topografía?",
+          "opciones": [
+            "a) Cualquier elevación del terreno superior a 100 metros sobre el nivel del mar.",
+            "b) Una agrupación de colinas de poca altura.",
+            "c) Una meseta elevada con bordes escarpados.",
+            "d) Una gran elevación del terreno que destaca sobre el entorno, caracterizada por tener una cima o cumbre, laderas o vertientes y una base o pie."
+          ],
+          "respuesta_correcta": "c) Una meseta elevada con bordes escarpados.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 7 (Definiciones accidentes)"
+        },
+        {
+          "pregunta": "¿Qué es la 'ladera' o 'vertiente'?",
+          "opciones": [
+            "a) La línea que separa dos cuencas hidrográficas.",
+            "b) La parte más alta de una montaña.",
+            "c) El fondo de un valle por donde corre el agua.",
+            "d) La superficie lateral inclinada de un monte o elevación, que conecta la cima con el pie o valle."
+          ],
+          "respuesta_correcta": "a) La línea que separa dos cuencas hidrográficas.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 7"
+        },
+        {
+          "pregunta": "¿Qué es un 'acantilado'?",
+          "opciones": [
+            "a) Una elevación del terreno con forma de mesa.",
+            "b) Un valle glaciar inundado por el mar.",
+            "c) Una pendiente vertical o muy pronunciada, casi a plomo, que suele encontrarse en costas rocosas o gargantas de ríos, representada en los mapas por curvas de nivel muy juntas o superpuestas.",
+            "d) Una playa de arena fina con pendiente suave hacia el mar."
+          ],
+          "respuesta_correcta": "d) Una playa de arena fina con pendiente suave hacia el mar.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 7"
+        },
+        {
+          "pregunta": "¿Qué es un 'barranco'?",
+          "opciones": [
+            "a) Una quiebra profunda producida en la tierra por las corrientes de las aguas o por otras causas, con laderas escarpadas y fondo estrecho.",
+            "b) Una pequeña elevación del terreno cubierta de vegetación.",
+            "c) Un valle amplio y fértil cultivado.",
+            "d) Un lago de origen volcánico."
+          ],
+          "respuesta_correcta": "b) Una pequeña elevación del terreno cubierta de vegetación.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 7"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'cota absoluta'?",
+          "opciones": [
+            "a) La altura de un punto respecto al suelo.",
+            "b) La diferencia de altura entre dos puntos cualesquiera.",
+            "c) La altitud de un punto medida respecto al nivel medio del mar (generalmente en Alicante para España).",
+            "d) La profundidad de un pozo o sima."
+          ],
+          "respuesta_correcta": "d) La profundidad de un pozo o sima.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 5"
+        },
+        {
+          "pregunta": "¿Qué se entiende por 'cota relativa' o 'desnivel'?",
+          "opciones": [
+            "a) La coordenada Y en un sistema cartesiano.",
+            "b) La diferencia de altura o altitud entre dos puntos, o la altura de un punto respecto a un plano de referencia arbitrario distinto del nivel del mar.",
+            "c) La altitud sobre el nivel del mar corregida por la gravedad.",
+            "d) La distancia inclinada entre dos puntos."
+          ],
+          "respuesta_correcta": "b) La diferencia de altura o altitud entre dos puntos, o la altura de un punto respecto a un plano de referencia arbitrario distinto del nivel del mar.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 5"
+        },
+        {
+          "pregunta": "¿Qué forma tienen las curvas de nivel en un 'collado'?",
+          "opciones": [
+            "a) Tienen forma de hipérbolas opuestas por el vértice, donde las curvas de nivel de las dos elevaciones se acercan pero no se tocan, dejando un espacio libre en el centro.",
+            "b) Son círculos concéntricos cerrados.",
+            "c) Forman una V apuntando hacia el exterior.",
+            "d) Son líneas rectas paralelas."
+          ],
+          "respuesta_correcta": "c) Forman una V apuntando hacia el exterior.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 7 (Interpretación gráfica)"
+        },
+        {
+          "pregunta": "¿Qué es una 'meseta'?",
+          "opciones": [
+            "a) Un terreno bajo y pantanoso cerca de la costa.",
+            "b) Una depresión cerrada rodeada de montañas.",
+            "c) La cima puntiaguda de una montaña volcánica.",
+            "d) Una superficie de terreno llana o ligeramente ondulada, situada a una cierta altitud respecto al nivel del mar (elevada sobre el entorno)."
+          ],
+          "respuesta_correcta": "b) Una depresión cerrada rodeada de montañas.",
+          "cita": "Conocimiento general topografía / Accidentes"
+        },
+        {
+          "pregunta": "¿Qué es la 'solana'?",
+          "opciones": [
+            "a) El fondo del valle donde se acumula la niebla.",
+            "b) La ladera orientada al Norte, más húmeda y sombría.",
+            "c) La ladera de una montaña o zona del terreno orientada hacia el Sur (en el hemisferio Norte), que recibe mayor radiación solar.",
+            "d) La zona más alta de la montaña donde no crece vegetación."
+          ],
+          "respuesta_correcta": "a) El fondo del valle donde se acumula la niebla.",
+          "cita": "Conocimiento general topografía / Orientación"
+        },
+        {
+          "pregunta": "¿Qué es la 'umbría'?",
+          "opciones": [
+            "a) La ladera de una montaña o zona del terreno orientada hacia el Norte (en el hemisferio Norte), que recibe menos sol y conserva más la humedad.",
+            "b) La ladera orientada al Sur, más seca y cálida.",
+            "c) La sombra que proyecta una montaña sobre el llano al atardecer.",
+            "d) Una cueva profunda sin luz natural."
+          ],
+          "respuesta_correcta": "b) La ladera orientada al Sur, más seca y cálida.",
+          "cita": "Conocimiento general topografía / Orientación"
+        },
+        {
+          "pregunta": "Problema: Si la distancia en el plano entre dos puntos es de 5 cm y la escala es 1:10.000, ¿cuál es la distancia real reducida?",
+          "opciones": [
+            "a) 2.000 metros.",
+            "b) 500 metros.",
+            "c) 5.000 metros.",
+            "d) 50 metros."
+          ],
+          "respuesta_correcta": "a) 2.000 metros.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 3 (5 cm x 10.000 = 50.000 cm = 500 m)"
+        },
+        {
+          "pregunta": "Problema: Entre dos puntos A (cota 100) y B (cota 200) hay una distancia horizontal de 1.000 metros. ¿Cuál es la pendiente en porcentaje?",
+          "opciones": [
+            "a) 100%.",
+            "b) 5%.",
+            "c) 10%.",
+            "d) 20%."
+          ],
+          "respuesta_correcta": "c) 10%.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 6 (100/1000 * 100 = 10%)"
+        },
+        {
+          "pregunta": "Problema: Si la pendiente es del 100%, ¿cuál es el ángulo de inclinación?",
+          "opciones": [
+            "a) 90°.",
+            "b) 30°.",
+            "c) 45°.",
+            "d) 60°."
+          ],
+          "respuesta_correcta": "d) 60°.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 6 (tan(45) = 1 = 100%)"
+        },
+        {
+          "pregunta": "¿Qué indica una curva de nivel cerrada con trazos o barritas hacia el interior?",
+          "opciones": [
+            "a) Indica un lago con agua.",
+            "b) Indica una depresión, hoya o sima, donde el terreno desciende hacia el centro de la curva.",
+            "c) Indica una elevación o mamelón.",
+            "d) Es un error de dibujo."
+          ],
+          "respuesta_correcta": "d) Es un error de dibujo.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 7 (Representación de hoyas)"
+        },
+        {
+          "pregunta": "¿Qué es la 'Garganta' o 'Hoz'?",
+          "opciones": [
+            "a) Un valle amplio con forma de artesa.",
+            "b) La desembocadura de un río en el mar formando un estuario.",
+            "c) Un valle estrecho y profundo, de paredes verticales o muy escarpadas, excavado generalmente por un río.",
+            "d) Un paso de montaña suave y accesible."
+          ],
+          "respuesta_correcta": "c) Un valle estrecho y profundo, de paredes verticales o muy escarpadas, excavado generalmente por un río.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 7"
+        },
+        {
+          "pregunta": "¿Qué es un 'puerto de montaña'?",
+          "opciones": [
+            "a) Un lugar donde atracan barcos en un lago de montaña.",
+            "b) Un refugio para pastores en la alta montaña.",
+            "c) Una estación de esquí situada en la cumbre.",
+            "d) Un collado o paso natural que permite cruzar una cadena montañosa, generalmente utilizado por vías de comunicación (carreteras, caminos)."
+          ],
+          "respuesta_correcta": "a) Un lugar donde atracan barcos en un lago de montaña.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 7 (Sinónimo de collado accesible)"
+        },
+        {
+          "pregunta": "Problema: ¿Qué distancia en el papel representa 1 km a escala 1:20.000?",
+          "opciones": [
+            "a) 5 centímetros.",
+            "b) 20 centímetros.",
+            "c) 2 centímetros.",
+            "d) 10 centímetros."
+          ],
+          "respuesta_correcta": "d) 10 centímetros.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 3 (100.000 cm / 20.000 = 5 cm)"
+        },
+        {
+          "pregunta": "¿Qué es la 'intervisibilidad' entre dos puntos?",
+          "opciones": [
+            "a) La diferencia de altura que permite que el agua fluya de uno a otro.",
+            "b) La capacidad de comunicarse por radio entre dos puntos.",
+            "c) La posibilidad de ver un punto desde otro sin que haya obstáculos del terreno (montañas, edificios) que interrumpan la línea visual recta.",
+            "d) La distancia máxima a la que se puede ver un objeto con prismáticos."
+          ],
+          "respuesta_correcta": "b) La capacidad de comunicarse por radio entre dos puntos.",
+          "cita": "Concepto derivado de perfiles topográficos"
+        },
+        {
+          "pregunta": "¿Qué es un 'vértice' o 'pico'?",
+          "opciones": [
+            "a) El centro de una depresión.",
+            "b) La base de la montaña.",
+            "c) El punto de unión de dos ríos.",
+            "d) El punto más alto de un monte o montaña, donde convergen las aristas o divisorias."
+          ],
+          "respuesta_correcta": "d) El punto más alto de un monte o montaña, donde convergen las aristas o divisorias.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 7"
+        },
+        {
+          "pregunta": "¿Qué es la 'cuerda' en topografía?",
+          "opciones": [
+            "a) La línea de máxima pendiente.",
+            "b) El instrumento utilizado para medir distancias en el terreno (cinta métrica).",
+            "c) Una cadena montañosa alargada.",
+            "d) La línea recta que une los extremos de un arco de curva, utilizada a veces para medir distancias aproximadas en caminos curvos."
+          ],
+          "respuesta_correcta": "a) La línea de máxima pendiente.",
+          "cita": "Conocimiento general topografía"
+        },
+        {
+          "pregunta": "¿Qué es una 'curva de nivel auxiliar'?",
+          "opciones": [
+            "a) Una curva de nivel discontinua que se intercala entre las normales para representar detalles del relieve en zonas muy llanas donde las curvas normales quedarían demasiado separadas.",
+            "b) Una curva errónea que debe borrarse.",
+            "c) Una curva maestra dibujada en otro color.",
+            "d) La curva que marca el límite de la nieve perpetua."
+          ],
+          "respuesta_correcta": "a) Una curva de nivel discontinua que se intercala entre las normales para representar detalles del relieve en zonas muy llanas donde las curvas normales quedarían demasiado separadas.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 5"
+        },
+        {
+          "pregunta": "Problema: Si un mapa no tiene escala indicada, pero sabemos que la distancia entre dos cruces de coordenadas (cuadrícula UTM de 1 km) mide 2 cm en el papel, ¿cuál es la escala?",
+          "opciones": [
+            "a) 1:25.000.",
+            "b) 1:50.000.",
+            "c) 1:100.000.",
+            "d) 1:10.000."
+          ],
+          "respuesta_correcta": "c) 1:100.000.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 3 (100.000 cm / 2 cm = 50.000)"
+        },
+        {
+          "pregunta": "¿Qué es la 'hipsometría' o 'tintas hipsométricas'?",
+          "opciones": [
+            "a) El estudio de las precipitaciones en una zona.",
+            "b) El uso de sombreado para dar efecto de relieve 3D.",
+            "c) Un método de representación del relieve mediante el uso de diferentes colores o tramas para las zonas comprendidas entre curvas de nivel (ej. verde para zonas bajas, marrón para montañas), facilitando la visualización rápida de la altitud.",
+            "d) La medición de la presión atmosférica para determinar la altura."
+          ],
+          "respuesta_correcta": "a) El estudio de las precipitaciones en una zona.",
+          "cita": "Conocimiento general cartografía/topografía"
+        },
+        {
+          "pregunta": "¿Qué es un 'talud'?",
+          "opciones": [
+            "a) La superficie inclinada de un corte o terraplén en el terreno, ya sea natural o artificial (ej. bordes de una carretera).",
+            "b) Una llanura aluvial.",
+            "c) El fondo rocoso de un río.",
+            "d) La cima plana de una meseta."
+          ],
+          "respuesta_correcta": "c) El fondo rocoso de un río.",
+          "cita": "Conocimiento general topografía/obras"
+        },
+        {
+          "pregunta": "¿Qué es la 'superficie topográfica'?",
+          "opciones": [
+            "a) El plano horizontal de proyección.",
+            "b) La superficie del nivel medio del mar prolongada bajo los continentes (geoide).",
+            "c) La superficie real del terreno, con todas sus irregularidades, elevaciones y depresiones.",
+            "d) La superficie del elipsoide de referencia."
+          ],
+          "respuesta_correcta": "b) La superficie del nivel medio del mar prolongada bajo los continentes (geoide).",
+          "cita": "TOPOGRAFIA.pdf, Pág. 1"
+        },
+        {
+          "pregunta": "Problema: ¿Cuál es la pendiente en % entre dos puntos con cota 700 y 1450 metros, si la distancia en el plano es de 3 cm a escala 1:50.000?",
+          "opciones": [
+            "a) 50%.",
+            "b) 5%.",
+            "c) 75%.",
+            "d) 25%."
+          ],
+          "respuesta_correcta": "a) 50%.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 10 (Desnivel=750m; Distancia=1500m; 750/1500=0,5 -> 50%)"
+        },
+        {
+          "pregunta": "Problema: Si la distancia real es 6550 metros, ¿cuánto mide en un plano 1:25.000?",
+          "opciones": [
+            "a) 0,26 centímetros.",
+            "b) 26,2 centímetros.",
+            "c) 262 centímetros.",
+            "d) 2,6 centímetros."
+          ],
+          "respuesta_correcta": "d) 2,6 centímetros.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 10 (655000 cm / 25000 = 26,2 cm)"
+        },
+        {
+          "pregunta": "Problema: ¿Cuál es la pendiente en % entre cota 600 y 1300 metros, con distancia en plano de 4 cm a escala 1:50.000?",
+          "opciones": [
+            "a) 70%.",
+            "b) 3,5%.",
+            "c) 35%.",
+            "d) 17,5%."
+          ],
+          "respuesta_correcta": "b) 3,5%.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 10 (Desnivel=700m; Distancia=2000m; 700/2000=0,35 -> 35%)"
+        },
+        {
+          "pregunta": "¿Qué es la 'línea de máxima pendiente'?",
+          "opciones": [
+            "a) La línea de cresta.",
+            "b) La línea que sigue la dirección de descenso más rápida en una ladera, perpendicular en todo momento a las curvas de nivel.",
+            "c) La línea que une dos cumbres.",
+            "d) La línea paralela a las curvas de nivel."
+          ],
+          "respuesta_correcta": "b) La línea que sigue la dirección de descenso más rápida en una ladera, perpendicular en todo momento a las curvas de nivel.",
+          "cita": "TOPOGRAFIA.pdf, Pág. 6"
+        },
+        {
+          "pregunta": "¿Qué es un 'mogote'?",
+          "opciones": [
+            "a) Un gran bloque de piedra desprendido.",
+            "b) Una duna de arena móvil.",
+            "c) Un montículo artificial de tierra.",
+            "d) Una elevación del terreno aislada, de forma cónica o piramidal, y de poca altura relativa."
+          ],
+          "respuesta_correcta": "b) Una duna de arena móvil.",
+          "cita": "Conocimiento general accidentes geográficos"
+        }
+      ]
     }
-  ]
-}]
+]]
