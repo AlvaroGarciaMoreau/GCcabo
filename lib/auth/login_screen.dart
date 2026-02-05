@@ -22,8 +22,8 @@ class LoginScreenState extends State<LoginScreen> {
       if (_formKey.currentState!.validate()) {
         final userCredential =
             await FirebaseAuth.instance.signInWithEmailAndPassword(
-          email: _emailController.text,
-          password: _passwordController.text,
+          email: _emailController.text.trim().toLowerCase(),
+          password: _passwordController.text.trim(),
         );
 
         if (!mounted) return;
@@ -94,7 +94,7 @@ class LoginScreenState extends State<LoginScreen> {
 
     try {
       await FirebaseAuth.instance.sendPasswordResetEmail(
-        email: _emailController.text,
+        email: _emailController.text.trim().toLowerCase(),
       );
 
       if (!mounted) return;
@@ -190,8 +190,12 @@ class LoginScreenState extends State<LoginScreen> {
                               fillColor: Colors.white.withAlpha(204),
                             ),
                             validator: (value) {
-                              if (value!.isEmpty || !value.contains('@')) {
-                                return ' Por favor ingresa un correo electrónico válido.';
+                              if (value == null || value.isEmpty) {
+                                return 'Por favor ingresa un correo electrónico.';
+                              }
+                              final emailRegex = RegExp(r'^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$');
+                              if (!emailRegex.hasMatch(value.trim())) {
+                                return 'Por favor ingresa un correo electrónico válido.';
                               }
                               return null;
                             },

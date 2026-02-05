@@ -370,3 +370,272 @@ class QuizScreenState extends State<QuizScreen> {
     );
   }
 }
+
+class QuizScreenWithQuestions extends StatefulWidget {
+  final List<Map<String, dynamic>> questions;
+  final String topic;
+
+  const QuizScreenWithQuestions({
+    super.key,
+    required this.questions,
+    required this.topic,
+  });
+
+  @override
+  QuizScreenWithQuestionsState createState() => QuizScreenWithQuestionsState();
+}
+
+class QuizScreenWithQuestionsState extends State<QuizScreenWithQuestions> {
+  late List<Map<String, dynamic>> _questions;
+  int _currentQuestionIndex = 0;
+  int _score = 0;
+  DateTime? _startTime;
+  final Map<String, Map<String, dynamic>> _answers = {};
+  int _elapsedSeconds = 0;
+  Timer? _timer;
+  String? _selectedAnswer;
+  bool _isAnswered = false;
+
+  @override
+  void initState() {
+    super.initState();
+    _questions = List.from(widget.questions);
+    _questions.shuffle();
+    _startTime = DateTime.now();
+    _startTimer();
+  }
+
+  void _startTimer() {
+    _timer?.cancel();
+    _timer = Timer.periodic(const Duration(seconds: 1), (_) {
+      if (_startTime == null) return;
+      setState(() {
+        _elapsedSeconds = DateTime.now().difference(_startTime!).inSeconds;
+      });
+    });
+  }
+
+  void _stopTimer() {
+    _timer?.cancel();
+    _timer = null;
+  }
+
+  String _formatTime(int seconds) {
+    final minutes = seconds ~/ 60;
+    final secs = seconds % 60;
+    return '${minutes.toString().padLeft(2, '0')}:${secs.toString().padLeft(2, '0')}';
+  }
+
+  void _answerQuestion(String selectedAnswer) {
+    if (_isAnswered) return;
+
+    setState(() {
+      _isAnswered = true;
+      _selectedAnswer = selectedAnswer;
+      final correctAnswer = _questions[_currentQuestionIndex]['respuesta_correcta'];
+      final questionText = _questions[_currentQuestionIndex]['pregunta'];
+      if (selectedAnswer == correctAnswer) {
+        _score++;
+        _answers[questionText] = {
+          'correct': correctAnswer,
+          'selected': selectedAnswer,
+          'isCorrect': true,
+          'cita': _questions[_currentQuestionIndex]['cita']
+        };
+      } else {
+        _answers[questionText] = {
+          'correct': correctAnswer,
+          'selected': selectedAnswer,
+          'isCorrect': false,
+          'cita': _questions[_currentQuestionIndex]['cita']
+        };
+      }
+    });
+  }
+
+  void _nextQuestion() {
+    if (_currentQuestionIndex < _questions.length - 1) {
+      setState(() {
+        _currentQuestionIndex++;
+        _isAnswered = false;
+        _selectedAnswer = null;
+      });
+    } else {
+      _stopTimer();
+      final timeTaken = _elapsedSeconds;
+      if (!mounted) return;
+      Navigator.of(context).pushReplacement(
+        MaterialPageRoute(
+          builder: (context) => ResultsScreen(
+            score: _score,
+            totalQuestions: _questions.length,
+            timeTaken: timeTaken,
+            answers: _answers,
+            topic: widget.topic,
+            topicJsons: [],
+          ),
+        ),
+      );
+    }
+  }
+
+  ButtonStyle _getButtonStyle(String answer) {
+    final correctAnswer = _questions.isNotEmpty ? _questions[_currentQuestionIndex]['respuesta_correcta'] : null;
+
+    return ButtonStyle(
+      backgroundColor: WidgetStateProperty.resolveWith<Color?>((states) {
+        if (!_isAnswered) return null;
+        if (answer == correctAnswer) return Colors.green;
+        if (answer == _selectedAnswer) return Colors.red;
+        return null;
+      }),
+      foregroundColor: WidgetStateProperty.resolveWith<Color?>((states) {
+        if (!_isAnswered) return null;
+        if (answer == correctAnswer || answer == _selectedAnswer) return Colors.white;
+        return null;
+      }),
+      overlayColor: WidgetStateProperty.resolveWith<Color?>((states) {
+        if (states.contains(WidgetState.pressed)) {
+          if (answer == correctAnswer) return Colors.greenAccent.withAlpha((0.2 * 255).round());
+          if (answer == _selectedAnswer) return Colors.redAccent.withAlpha((0.2 * 255).round());
+          return Colors.grey.withAlpha((0.2 * 255).round());
+        }
+        return null;
+      }),
+    );
+  }
+
+  @override
+  void dispose() {
+    _timer?.cancel();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    if (_questions.isEmpty) {
+      return Scaffold(
+        appBar: AppBar(title: const Text('Quiz')),
+        body: const Center(child: Text('No hay preguntas disponibles')),
+      );
+    }
+
+    final currentQuestion = _questions[_currentQuestionIndex];
+    final List<String> options = List<String>.from(currentQuestion['opciones'] as List);
+
+    return Scaffold(
+      appBar: AppBar(
+        title: Text(widget.topic),
+        elevation: 0,
+      ),
+      body: Column(
+        children: [
+          Container(
+            color: Colors.blue,
+            padding: const EdgeInsets.all(16),
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                Text(
+                  'Pregunta ${_currentQuestionIndex + 1}/${_questions.length}',
+                  style: const TextStyle(color: Colors.white, fontSize: 16),
+                ),
+                Text(
+                  _formatTime(_elapsedSeconds),
+                  style: const TextStyle(color: Colors.white, fontSize: 16),
+                ),
+              ],
+            ),
+          ),
+          Expanded(
+            child: SingleChildScrollView(
+              padding: const EdgeInsets.all(16),
+              child: Column(
+                children: [
+                  Text(
+                    currentQuestion['pregunta'],
+                    style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+                  ),
+                  if (currentQuestion['cita'] != null) ...[
+                    const SizedBox(height: 12),
+                    Text(
+                      'Cita: ${currentQuestion['cita']}',
+                      style: const TextStyle(fontSize: 12, fontStyle: FontStyle.italic, color: Colors.grey),
+                    ),
+                  ],
+                  const SizedBox(height: 24),
+                  ...options.map((option) {
+                    return Padding(
+                      padding: const EdgeInsets.symmetric(vertical: 8),
+                      child: SizedBox(
+                        width: double.infinity,
+                        child: ElevatedButton(
+                          style: _getButtonStyle(option),
+                          onPressed: _isAnswered ? null : () => _answerQuestion(option),
+                          child: Text(option),
+                        ),
+                      ),
+                    );
+                  }),
+                ],
+              ),
+            ),
+          ),
+          if (_isAnswered) ...[
+            Container(
+              color: Colors.grey[200],
+              padding: const EdgeInsets.all(16),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    _selectedAnswer == currentQuestion['respuesta_correcta']
+                        ? '✓ Correcto'
+                        : '✗ Incorrecto',
+                    style: TextStyle(
+                      fontSize: 16,
+                      fontWeight: FontWeight.bold,
+                      color: _selectedAnswer == currentQuestion['respuesta_correcta']
+                          ? Colors.green
+                          : Colors.red,
+                    ),
+                  ),
+                  if (_selectedAnswer != currentQuestion['respuesta_correcta']) ...[
+                    const SizedBox(height: 8),
+                    Text('Respuesta correcta: ${currentQuestion['respuesta_correcta']}'),
+                  ],
+                ],
+              ),
+            ),
+          ],
+          Container(
+            padding: const EdgeInsets.all(16),
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: [
+                if (_currentQuestionIndex > 0)
+                  ElevatedButton(
+                    onPressed: () {
+                      setState(() {
+                        _currentQuestionIndex--;
+                        _isAnswered = false;
+                        _selectedAnswer = null;
+                      });
+                    },
+                    child: const Text('Anterior'),
+                  ),
+                ElevatedButton(
+                  onPressed: _isAnswered ? _nextQuestion : null,
+                  child: Text(
+                      _currentQuestionIndex < _questions.length - 1
+                          ? 'Siguiente'
+                          : 'Finalizar'),
+                ),
+              ],
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}

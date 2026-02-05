@@ -42,6 +42,12 @@ android {
     }
 }
 
+dependencies {
+    // Google Play Services for Firebase Auth reCAPTCHA
+    implementation("com.google.android.gms:play-services-auth:21.0.0")
+    implementation("com.google.android.gms:play-services-auth-api-phone:18.1.0")
+}
+
 flutter {
     source = "../.."
 }
