@@ -1,40 +1,46 @@
 import 'dart:async';
-import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
+import 'package:gccabo/services/quiz_service.dart';
 import 'package:gccabo/results_screen.dart';
+import 'package:gccabo/models/question.dart';
+import 'package:gccabo/widgets/quiz_option_button.dart';
+import 'package:gccabo/widgets/explanation_box.dart';
 
 class QuizScreen extends StatefulWidget {
   final String topic;
-  final List<String> topicJsons;
+  final List<String>? topicJsons;
+  final List<Question>? questions;
   final int? fixedNumberOfQuestions;
 
-  const QuizScreen({super.key, required this.topic, required this.topicJsons, this.fixedNumberOfQuestions});
+  const QuizScreen({
+    super.key,
+    required this.topic,
+    this.topicJsons,
+    this.questions,
+    this.fixedNumberOfQuestions,
+  });
 
   @override
   QuizScreenState createState() => QuizScreenState();
 }
 
 class QuizScreenState extends State<QuizScreen> {
-  int? _numberOfQuestions;
-  List<Map<String, dynamic>> _questions = [];
+  List<Question> _questions = [];
   int _currentQuestionIndex = 0;
   int _score = 0;
   DateTime? _startTime;
   final Map<String, Map<String, dynamic>> _answers = {};
-
-  // Timer for total elapsed time
   int _elapsedSeconds = 0;
   Timer? _timer;
-
-  // New state variables
   String? _selectedAnswer;
   bool _isAnswered = false;
 
   @override
   void initState() {
     super.initState();
-    if (widget.fixedNumberOfQuestions != null) {
+    if (widget.questions != null) {
+      _initWorkout(widget.questions!);
+    } else if (widget.fixedNumberOfQuestions != null) {
       _loadQuestions(widget.fixedNumberOfQuestions!);
     } else {
       WidgetsBinding.instance.addPostFrameCallback((_) {
@@ -43,51 +49,56 @@ class QuizScreenState extends State<QuizScreen> {
     }
   }
 
-  Future<void> _loadQuestions(int count) async {
-    List<Map<String, dynamic>> allQuestions = [];
-    for (String jsonPath in widget.topicJsons) {
-      final String response = await rootBundle.loadString(jsonPath);
-      final data = await json.decode(response);
-      List<Map<String, dynamic>> questions;
-      if (data[0] is List) {
-        // Tema 1 has [[obj]]
-        questions = List<Map<String, dynamic>>.from(data[0][0]['preguntas']);
-      } else {
-        // Other temas have [obj]
-        questions = List<Map<String, dynamic>>.from(data[0]['preguntas']);
-      }
-      allQuestions.addAll(questions);
-    }
-    allQuestions.shuffle();
+  void _initWorkout(List<Question> questions) {
     setState(() {
-      _questions = allQuestions.take(count).toList();
+      _questions = List.from(questions)..shuffle();
       _startTime = DateTime.now();
       _elapsedSeconds = 0;
     });
     _startTimer();
   }
 
+  Future<void> _loadQuestions(int count) async {
+    if (widget.topicJsons == null) return;
+    try {
+      final questions = await QuizService.loadQuestions(widget.topicJsons!);
+      setState(() {
+        _questions = questions..shuffle();
+        if (count < _questions.length) {
+          _questions = _questions.take(count).toList();
+        }
+        _startTime = DateTime.now();
+        _elapsedSeconds = 0;
+      });
+      _startTimer();
+    } catch (e) {
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Error cargando preguntas: $e')),
+      );
+    }
+  }
+
   void _showNumberOfQuestionsDialog() {
+    int? count;
     showDialog(
       context: context,
-      barrierDismissible: false, // User must choose
+      barrierDismissible: false,
       builder: (ctx) => AlertDialog(
         title: const Text('Número de preguntas'),
         content: TextField(
           keyboardType: TextInputType.number,
-          onChanged: (value) {
-            _numberOfQuestions = int.tryParse(value);
-          },
+          onChanged: (value) => count = int.tryParse(value),
           decoration:
               const InputDecoration(hintText: "Ingrese el número de preguntas"),
         ),
-        actions: <Widget>[
+        actions: [
           TextButton(
             child: const Text('Iniciar Quiz'),
             onPressed: () {
-              if (_numberOfQuestions != null && _numberOfQuestions! > 0) {
+              if (count != null && count! > 0) {
                 Navigator.of(ctx).pop();
-                _loadQuestions(_numberOfQuestions!);
+                _loadQuestions(count!);
               }
             },
           )
@@ -96,361 +107,50 @@ class QuizScreenState extends State<QuizScreen> {
     );
   }
 
-  void _answerQuestion(String selectedAnswer) {
-    if (_isAnswered) return; // Prevent answering more than once
-
-    setState(() {
-      _isAnswered = true;
-      _selectedAnswer = selectedAnswer;
-      final correctAnswer =
-          _questions[_currentQuestionIndex]['respuesta_correcta'];
-      final questionText = _questions[_currentQuestionIndex]['pregunta'];
-      if (selectedAnswer == correctAnswer) {
-        _score++;
-        _answers[questionText] = {
-          'correct': correctAnswer,
-          'selected': selectedAnswer,
-          'isCorrect': true,
-          'cita': _questions[_currentQuestionIndex]['cita']
-        };
-      } else {
-        _answers[questionText] = {
-          'correct': correctAnswer,
-          'selected': selectedAnswer,
-          'isCorrect': false,
-          'cita': _questions[_currentQuestionIndex]['cita']
-        };
-      }
-    });
-  }
-
-  void _startTimer() {
-    _timer?.cancel();
-    _timer = Timer.periodic(const Duration(seconds: 1), (_) {
-      if (_startTime == null) return;
-      setState(() {
-        _elapsedSeconds = DateTime.now().difference(_startTime!).inSeconds;
-      });
-    });
-  }
-
-  void _stopTimer() {
-    _timer?.cancel();
-    _timer = null;
-  }
-
-  String _formatTime(int seconds) {
-    final minutes = seconds ~/ 60;
-    final secs = seconds % 60;
-    return '${minutes.toString().padLeft(2, '0')}:${secs.toString().padLeft(2, '0')}';
-  }
-
-  @override
-  void dispose() {
-    _timer?.cancel();
-    super.dispose();
-  }
-
-  void _nextQuestion() {
-    if (_currentQuestionIndex < _questions.length - 1) {
-      setState(() {
-        _currentQuestionIndex++;
-        _isAnswered = false;
-        _selectedAnswer = null;
-      });
-    } else {
-      // Last question, finish the quiz
-      _stopTimer();
-      final timeTaken = _elapsedSeconds;
-      if (!mounted) return;
-      Navigator.of(context).pushReplacement(
-        MaterialPageRoute(
-          builder: (context) => ResultsScreen(
-            score: _score,
-            totalQuestions: _questions.length,
-            timeTaken: timeTaken,
-            answers: _answers,
-            topic: widget.topic,
-            topicJsons: widget.topicJsons, // Pass topicJsons
-          ),
-        ),
-      );
-    }
-  }
-
-  ButtonStyle _getButtonStyle(String answer) {
-    // Use MaterialStateProperty so colors apply even when the button is disabled
-    final correctAnswer = _questions.isNotEmpty ? _questions[_currentQuestionIndex]['respuesta_correcta'] : null;
-
-    return ButtonStyle(
-      backgroundColor: WidgetStateProperty.resolveWith<Color?>((states) {
-        if (!_isAnswered) return null; // use default
-        if (answer == correctAnswer) return Colors.green;
-        if (answer == _selectedAnswer) return Colors.red;
-        return null;
-      }),
-      foregroundColor: WidgetStateProperty.resolveWith<Color?>((states) {
-        if (!_isAnswered) return null; // use default
-        if (answer == correctAnswer || answer == _selectedAnswer) return Colors.white;
-        return null;
-      }),
-      overlayColor: WidgetStateProperty.resolveWith<Color?>((states) {
-        if (states.contains(WidgetState.pressed)) {
-          if (answer == correctAnswer) return Colors.greenAccent.withAlpha((0.2 * 255).round());
-          if (answer == _selectedAnswer) return Colors.redAccent.withAlpha((0.2 * 255).round());
-        }
-        return null;
-      }),
-    );
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    // Precompute current question data to avoid statements inside the widget list
-    final currentQuestion = _questions.isEmpty ? null : _questions[_currentQuestionIndex];
-    final correctAnswer = currentQuestion != null ? currentQuestion['respuesta_correcta'] : null;
-
-    return Scaffold(
-      appBar: AppBar(
-        title: Text(widget.topic),
-      ),
-      body: _questions.isEmpty
-          ? Center(
-              child: _numberOfQuestions == null
-                  ? const SizedBox.shrink() // Don't show progress indicator before questions are loaded
-                  : const CircularProgressIndicator())
-          : Padding(
-              padding: const EdgeInsets.all(16.0),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.stretch,
-                children: [
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: [
-                      Text(
-                        'Pregunta ${_currentQuestionIndex + 1}/${_questions.length}',
-                        style: const TextStyle(
-                            fontSize: 20, fontWeight: FontWeight.bold),
-                      ),
-                      Text(
-                        'Tiempo: ${_formatTime(_elapsedSeconds)}',
-                        style: const TextStyle(
-                            fontSize: 16, fontWeight: FontWeight.bold),
-                      ),
-                    ],
-                  ),
-                  const SizedBox(height: 20),
-                  Expanded(
-                    child: SingleChildScrollView(
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.stretch,
-                        children: [
-                          Text(
-                            _questions[_currentQuestionIndex]['pregunta'],
-                            style: const TextStyle(fontSize: 18),
-                          ),
-                          if (_questions[_currentQuestionIndex]['cita'] != null)
-                            Padding(
-                              padding: const EdgeInsets.only(top: 8.0),
-                              child: Text(
-                                'Cita: ${_questions[_currentQuestionIndex]['cita']}',
-                                style: const TextStyle(
-                                    fontSize: 12,
-                                    fontStyle: FontStyle.italic,
-                                    color: Colors.grey),
-                              ),
-                            ),
-                          const SizedBox(height: 20),
-                          ...(_questions[_currentQuestionIndex]['opciones']
-                                  as List<dynamic>)
-                              .map((answer) {
-                            return Padding(
-                              padding:
-                                  const EdgeInsets.symmetric(vertical: 4.0),
-                              child: ElevatedButton(
-                                onPressed: _isAnswered
-                                    ? null
-                                    : () => _answerQuestion(answer),
-                                style: _getButtonStyle(answer).copyWith(
-                                  side: WidgetStateProperty.resolveWith<
-                                      BorderSide?>((states) {
-                                    if (!_isAnswered) return null;
-                                    if (answer == correctAnswer) {
-                                      return const BorderSide(
-                                          color: Colors.green, width: 2.0);
-                                    }
-                                    if (answer == _selectedAnswer) {
-                                      return const BorderSide(
-                                          color: Colors.red, width: 2.0);
-                                    }
-                                    return null;
-                                  }),
-                                ),
-                                child: Row(
-                                  children: [
-                                    if (_isAnswered && answer == correctAnswer)
-                                      const Padding(
-                                        padding: EdgeInsets.only(right: 8.0),
-                                        child: Icon(Icons.check_circle,
-                                            color: Colors.green),
-                                      )
-                                    else if (_isAnswered &&
-                                        answer == _selectedAnswer)
-                                      const Padding(
-                                        padding: EdgeInsets.only(right: 8.0),
-                                        child: Icon(Icons.cancel,
-                                            color: Colors.red),
-                                      )
-                                    else
-                                      const SizedBox(width: 32),
-                                    Expanded(child: Text(answer)),
-                                    if (_isAnswered && answer == correctAnswer)
-                                      const Icon(Icons.check,
-                                          color: Colors.white)
-                                    else if (_isAnswered &&
-                                        answer == _selectedAnswer)
-                                      const Icon(Icons.close,
-                                          color: Colors.white)
-                                    else
-                                      const SizedBox.shrink(),
-                                  ],
-                                ),
-                              ),
-                            );
-                          }),
-                          if (_isAnswered)
-                            Builder(builder: (context) {
-                              final explanation = _questions[
-                                          _currentQuestionIndex]['explicacion'] ??
-                                      _questions[_currentQuestionIndex]
-                                          ['explicación'] ??
-                                      '';
-                              if (explanation == null ||
-                                  explanation.toString().trim().isEmpty) {
-                                return const SizedBox.shrink();
-                              }
-                              return Container(
-                                margin: const EdgeInsets.only(top: 16.0),
-                                padding: const EdgeInsets.all(12.0),
-                                decoration: BoxDecoration(
-                                  color: Colors.green[50],
-                                  borderRadius: BorderRadius.circular(8.0),
-                                  border: Border.all(color: Colors.green),
-                                ),
-                                child: Column(
-                                  crossAxisAlignment: CrossAxisAlignment.start,
-                                  children: [
-                                    const Text('Explicación',
-                                        style: TextStyle(
-                                            fontWeight: FontWeight.bold)),
-                                    const SizedBox(height: 8.0),
-                                    Text(explanation.toString()),
-                                  ],
-                                ),
-                              );
-                            }),
-                        ],
-                      ),
-                    ),
-                  ),
-                  if (_isAnswered)
-                    Padding(
-                      padding: const EdgeInsets.only(top: 16.0),
-                      child: ElevatedButton(
-                        onPressed: _nextQuestion,
-                        child: Text(
-                            _currentQuestionIndex < _questions.length - 1
-                                ? 'Siguiente'
-                                : 'Finalizar'),
-                      ),
-                    ),
-                ],
-              ),
-            ),
-    );
-  }
-}
-
-class QuizScreenWithQuestions extends StatefulWidget {
-  final List<Map<String, dynamic>> questions;
-  final String topic;
-
-  const QuizScreenWithQuestions({
-    super.key,
-    required this.questions,
-    required this.topic,
-  });
-
-  @override
-  QuizScreenWithQuestionsState createState() => QuizScreenWithQuestionsState();
-}
-
-class QuizScreenWithQuestionsState extends State<QuizScreenWithQuestions> {
-  late List<Map<String, dynamic>> _questions;
-  int _currentQuestionIndex = 0;
-  int _score = 0;
-  DateTime? _startTime;
-  final Map<String, Map<String, dynamic>> _answers = {};
-  int _elapsedSeconds = 0;
-  Timer? _timer;
-  String? _selectedAnswer;
-  bool _isAnswered = false;
-
-  @override
-  void initState() {
-    super.initState();
-    _questions = List.from(widget.questions);
-    _questions.shuffle();
-    _startTime = DateTime.now();
-    _startTimer();
-  }
-
-  void _startTimer() {
-    _timer?.cancel();
-    _timer = Timer.periodic(const Duration(seconds: 1), (_) {
-      if (_startTime == null) return;
-      setState(() {
-        _elapsedSeconds = DateTime.now().difference(_startTime!).inSeconds;
-      });
-    });
-  }
-
-  void _stopTimer() {
-    _timer?.cancel();
-    _timer = null;
-  }
-
-  String _formatTime(int seconds) {
-    final minutes = seconds ~/ 60;
-    final secs = seconds % 60;
-    return '${minutes.toString().padLeft(2, '0')}:${secs.toString().padLeft(2, '0')}';
-  }
-
-  void _answerQuestion(String selectedAnswer) {
+  void _answerQuestion(String selected) {
     if (_isAnswered) return;
 
     setState(() {
       _isAnswered = true;
-      _selectedAnswer = selectedAnswer;
-      final correctAnswer = _questions[_currentQuestionIndex]['respuesta_correcta'];
-      final questionText = _questions[_currentQuestionIndex]['pregunta'];
-      if (selectedAnswer == correctAnswer) {
-        _score++;
-        _answers[questionText] = {
-          'correct': correctAnswer,
-          'selected': selectedAnswer,
-          'isCorrect': true,
-          'cita': _questions[_currentQuestionIndex]['cita']
-        };
-      } else {
-        _answers[questionText] = {
-          'correct': correctAnswer,
-          'selected': selectedAnswer,
-          'isCorrect': false,
-          'cita': _questions[_currentQuestionIndex]['cita']
-        };
-      }
+      _selectedAnswer = selected;
+      final q = _questions[_currentQuestionIndex];
+      final isCorrect = selected == q.correctAnswer;
+      if (isCorrect) _score++;
+
+      _answers[q.text] = {
+        'correct': q.correctAnswer,
+        'selected': selected,
+        'isCorrect': isCorrect,
+        'cita': q.citation,
+      };
     });
+  }
+
+  void _startTimer() {
+    _timer?.cancel();
+    _timer = Timer.periodic(const Duration(seconds: 1), (_) {
+      if (_startTime == null) return;
+      setState(() {
+        _elapsedSeconds = DateTime.now().difference(_startTime!).inSeconds;
+      });
+    });
+  }
+
+  void _stopTimer() {
+    _timer?.cancel();
+    _timer = null;
+  }
+
+  String _formatTime(int seconds) {
+    final minutes = seconds ~/ 60;
+    final secs = seconds % 60;
+    return '${minutes.toString().padLeft(2, '0')}:${secs.toString().padLeft(2, '0')}';
+  }
+
+  @override
+  void dispose() {
+    _stopTimer();
+    super.dispose();
   }
 
   void _nextQuestion() {
@@ -461,77 +161,44 @@ class QuizScreenWithQuestionsState extends State<QuizScreenWithQuestions> {
         _selectedAnswer = null;
       });
     } else {
-      _stopTimer();
-      final timeTaken = _elapsedSeconds;
-      if (!mounted) return;
-      Navigator.of(context).pushReplacement(
-        MaterialPageRoute(
-          builder: (context) => ResultsScreen(
-            score: _score,
-            totalQuestions: _questions.length,
-            timeTaken: timeTaken,
-            answers: _answers,
-            topic: widget.topic,
-            topicJsons: [],
-          ),
-        ),
-      );
+      _finishQuiz();
     }
   }
 
-  ButtonStyle _getButtonStyle(String answer) {
-    final correctAnswer = _questions.isNotEmpty ? _questions[_currentQuestionIndex]['respuesta_correcta'] : null;
-
-    return ButtonStyle(
-      backgroundColor: WidgetStateProperty.resolveWith<Color?>((states) {
-        if (!_isAnswered) return null;
-        if (answer == correctAnswer) return Colors.green;
-        if (answer == _selectedAnswer) return Colors.red;
-        return null;
-      }),
-      foregroundColor: WidgetStateProperty.resolveWith<Color?>((states) {
-        if (!_isAnswered) return null;
-        if (answer == correctAnswer || answer == _selectedAnswer) return Colors.white;
-        return null;
-      }),
-      overlayColor: WidgetStateProperty.resolveWith<Color?>((states) {
-        if (states.contains(WidgetState.pressed)) {
-          if (answer == correctAnswer) return Colors.greenAccent.withAlpha((0.2 * 255).round());
-          if (answer == _selectedAnswer) return Colors.redAccent.withAlpha((0.2 * 255).round());
-          return Colors.grey.withAlpha((0.2 * 255).round());
-        }
-        return null;
-      }),
+  void _finishQuiz() {
+    _stopTimer();
+    if (!mounted) return;
+    Navigator.of(context).pushReplacement(
+      MaterialPageRoute(
+        builder: (context) => ResultsScreen(
+          score: _score,
+          totalQuestions: _questions.length,
+          timeTaken: _elapsedSeconds,
+          answers: _answers,
+          topic: widget.topic,
+          topicJsons: widget.topicJsons ?? [],
+        ),
+      ),
     );
-  }
-
-  @override
-  void dispose() {
-    _timer?.cancel();
-    super.dispose();
   }
 
   @override
   Widget build(BuildContext context) {
     if (_questions.isEmpty) {
       return Scaffold(
-        appBar: AppBar(title: const Text('Quiz')),
-        body: const Center(child: Text('No hay preguntas disponibles')),
+        appBar: AppBar(title: Text(widget.topic)),
+        body: const Center(child: CircularProgressIndicator()),
       );
     }
 
-    final currentQuestion = _questions[_currentQuestionIndex];
-    final List<String> options = List<String>.from(currentQuestion['opciones'] as List);
+    final q = _questions[_currentQuestionIndex];
 
     return Scaffold(
-      appBar: AppBar(
-        title: Text(widget.topic),
-        elevation: 0,
-      ),
+      appBar: AppBar(title: Text(widget.topic)),
       body: Column(
         children: [
           Container(
-            color: Colors.blue,
+            color: Theme.of(context).primaryColor,
             padding: const EdgeInsets.all(16),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -551,89 +218,50 @@ class QuizScreenWithQuestionsState extends State<QuizScreenWithQuestions> {
             child: SingleChildScrollView(
               padding: const EdgeInsets.all(16),
               child: Column(
+                crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: [
                   Text(
-                    currentQuestion['pregunta'],
-                    style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+                    q.text,
+                    style: const TextStyle(
+                        fontSize: 18, fontWeight: FontWeight.bold),
                   ),
-                  if (currentQuestion['cita'] != null) ...[
-                    const SizedBox(height: 12),
+                  if (q.citation != null) ...[
+                    const SizedBox(height: 8),
                     Text(
-                      'Cita: ${currentQuestion['cita']}',
-                      style: const TextStyle(fontSize: 12, fontStyle: FontStyle.italic, color: Colors.grey),
+                      'Cita: ${q.citation}',
+                      style: const TextStyle(
+                          fontSize: 12,
+                          fontStyle: FontStyle.italic,
+                          color: Colors.grey),
                     ),
                   ],
                   const SizedBox(height: 24),
-                  ...options.map((option) {
-                    return Padding(
-                      padding: const EdgeInsets.symmetric(vertical: 8),
-                      child: SizedBox(
-                        width: double.infinity,
-                        child: ElevatedButton(
-                          style: _getButtonStyle(option),
-                          onPressed: _isAnswered ? null : () => _answerQuestion(option),
-                          child: Text(option),
-                        ),
-                      ),
-                    );
-                  }),
+                  ...q.options.map((opt) => QuizOptionButton(
+                        text: opt,
+                        isAnswered: _isAnswered,
+                        isCorrect: opt == q.correctAnswer,
+                        isSelected: opt == _selectedAnswer,
+                        onPressed: () => _answerQuestion(opt),
+                      )),
+                  if (_isAnswered && q.explanation != null)
+                    ExplanationBox(explanation: q.explanation!),
                 ],
               ),
             ),
           ),
-          if (_isAnswered) ...[
-            Container(
-              color: Colors.grey[200],
-              padding: const EdgeInsets.all(16),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Text(
-                    _selectedAnswer == currentQuestion['respuesta_correcta']
-                        ? '✓ Correcto'
-                        : '✗ Incorrecto',
-                    style: TextStyle(
-                      fontSize: 16,
-                      fontWeight: FontWeight.bold,
-                      color: _selectedAnswer == currentQuestion['respuesta_correcta']
-                          ? Colors.green
-                          : Colors.red,
-                    ),
-                  ),
-                  if (_selectedAnswer != currentQuestion['respuesta_correcta']) ...[
-                    const SizedBox(height: 8),
-                    Text('Respuesta correcta: ${currentQuestion['respuesta_correcta']}'),
-                  ],
-                ],
-              ),
-            ),
-          ],
-          Container(
-            padding: const EdgeInsets.all(16),
-            child: Row(
-              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-              children: [
-                if (_currentQuestionIndex > 0)
-                  ElevatedButton(
-                    onPressed: () {
-                      setState(() {
-                        _currentQuestionIndex--;
-                        _isAnswered = false;
-                        _selectedAnswer = null;
-                      });
-                    },
-                    child: const Text('Anterior'),
-                  ),
-                ElevatedButton(
-                  onPressed: _isAnswered ? _nextQuestion : null,
-                  child: Text(
-                      _currentQuestionIndex < _questions.length - 1
-                          ? 'Siguiente'
-                          : 'Finalizar'),
+          if (_isAnswered)
+            Padding(
+              padding: const EdgeInsets.all(16.0),
+              child: ElevatedButton(
+                onPressed: _nextQuestion,
+                style: ElevatedButton.styleFrom(
+                  minimumSize: const Size.fromHeight(50),
                 ),
-              ],
+                child: Text(_currentQuestionIndex < _questions.length - 1
+                    ? 'Siguiente'
+                    : 'Finalizar'),
+              ),
             ),
-          ),
         ],
       ),
     );

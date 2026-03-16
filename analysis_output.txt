@@ -1,0 +1,8 @@
+Analyzing GCcabo...                                             
+
+warning - Unused import: 'package:gccabo/models/question.dart' - lib\models\quiz_result.dart:1:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\explanation_box.dart:16:34 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\quick_option_card.dart:30:30 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\quick_option_card.dart:30:54 - deprecated_member_use
+
+4 issues found. (ran in 4.7s)
