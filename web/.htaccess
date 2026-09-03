@@ -1,7 +1,7 @@
 # Habilita WebAssembly para Flutter Web (CanvasKit)
 <IfModule mod_headers.c>
   # Ajusta la CSP para permitir Wasm (wasm-unsafe-eval). Si tu hosting no acepta esto, contacta soporte IONOS.
-  Header set Content-Security-Policy "default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; object-src 'none';"
+  Header set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' 'wasm-unsafe-eval' https://static.cloudflareinsights.com https://www.gstatic.com; connect-src 'self' https://www.gstatic.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' data: https://fonts.gstatic.com; img-src 'self' data: blob:; object-src 'none';"
 </IfModule>
 
 <IfModule mod_mime.c>
