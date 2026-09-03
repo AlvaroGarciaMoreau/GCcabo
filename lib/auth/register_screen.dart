@@ -109,7 +109,7 @@ class RegisterScreenState extends State<RegisterScreen> {
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
                       const Text(
-                        'QUIZ DE ASENSO A CABO',
+                        'QUIZ DE ASCENSO A CABO DE LA GUARDIA CIVIL',
                         textAlign: TextAlign.center,
                         style: TextStyle(
                           fontFamily: 'Roboto',
